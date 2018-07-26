@@ -4,8 +4,8 @@ We, humans, are basically habit machines. We form habits. We run on those habits
 Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time.
 Habits will keep the frontal cortex free to solve other problems.
 They can also cause addictions and be harmful for us.
-It’s important to be aware of your habits and know how to break habits and know how to make habits. 
-Remember, you’re not your habits! 
+It’s important to be aware of your habits and know how to break habits and know how to make habits.
+Remember, you’re not your habits!
 
 These steps might be helpful when building habits:
 
