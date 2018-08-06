@@ -4,6 +4,20 @@
 
 Personal bits of living knowledge. The goal of this handbook is to save insights I learn. Instead of publishing a lbog post about the topics, storing them in `git` allows everyone to search and improve it through time.
 
+## Index
+
+* [Programming](content/programming.md)
+* [Concepts](content/concepts.md)
+* [Animals](content/animals.md)
+* [Feedback](content/feedback.md)
+* [Goals](content/goals.md)
+* [Learning](content/learning.md)
+* [Habits](content/habits.md)
+* [Teamwork](content/teamwork.md)
+* [Time](content/time.md)
+* [Values](content/values.md)
+* [Quotes](content/quotes.md)
+
 Please send a [Pull Request](https://github.com/davidgasquez/handbook/pulls)
 or [fill an issue](https://github.com/davidgasquez/handbok/issues) if you have any
 feedback!

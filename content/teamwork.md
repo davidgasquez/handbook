@@ -30,7 +30,7 @@
 
 ## Communication
 
-- Use [common techniques](../communications) and always be friendly.
+- Use [common techniques](./communications) and always be friendly.
 - Prefer asynchronous communications.
 - Have a primary communication channel.
 - Agree on the terminology. Similar understanding of terms makes discussion more productive.
