@@ -26,3 +26,11 @@ Millions of mental models exists, and every discipline has their own set. Some o
 From time to time, look for abstractions that can compress the information behind them. This way you can reduce mental space. When needed, you can expand the abstraction and go deeper. This is used a lot in programming, where a new tool or package emerges taking care of that was previously done by human minds (OMRs vs hand writen SQL)!
 
 Conceptual compression also allows lazy learning. If you're using the compressed version you don't need to care about what's behind. If you need, you can learn it at that time. Not everything needs to be learned upfront.
+
+## Making Decisions
+
+- Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy.
+- If all options are similar take the harder one in the short term (_Hard decisions easy life, easy decisions, hard life_).
+- Look for win-win decisions. If someone has to lose, you’re not thinking hard enough or you need to make structural/environmental changes.
+- The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
+- Ask what information would cause you to change your mind. If you don’t have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
