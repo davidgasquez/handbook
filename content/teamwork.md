@@ -4,7 +4,7 @@
 - When coming up with a long-term technical vision is important to stay abstract.
   - Stick to defining components and keep concepts. Show how the components interact.
   - Define boundaries and limitations of each component.
-  - Write tech specs before you write software (examples in [Codeburst][codeburst] and [Lyft][lift])
+  - Write tech specs before you write software (examples in [Codeburst][codeburst] and [Lyft][lift]). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
 - Define the culture and values. [Culture][culture] is simply a shared way of doing something with passion.
 - Work in the open and document everything.
   - Processes
