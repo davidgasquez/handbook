@@ -15,6 +15,7 @@ A programmer should know [lots][97things] [of][morethings]
 - **Make it work, make it right, make it fast**.
   Build a prototype as soon as possible to get a sense of the entire process.
   Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
+  Apply small improvements at each iteration.
 - **Choose portability over efficiency**.
   If today's hardware just about runs a program with just about adequate efficiency, tomorrow's will run it with power to spare.
   The developer task is to make sure his program will run on that new hardware with minimal effort.
