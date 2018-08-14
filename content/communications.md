@@ -24,6 +24,7 @@
   - Support your thesis with arguments.
   - Declare and reject the antithesis.
   - Conclusions.
+- Human beings are wired to respond to storytelling. A story arc is a way to structure ideas to tap into this response, typically by describing a change in the world.
 - Use positive language rather than negative language.
 - Use second-person and describe actions to a user. Technical content talks to users when support agents can’t.
 - If you have multiple points in a text, number them to make replies easier.
