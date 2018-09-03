@@ -21,6 +21,7 @@ Practice rational thinking.
 Make sure you understand that the absolute truth is relative to everyone and you don't know everything.
 We do not know what we don't know.
 Gather as much context as you can before making any final statement.
+Do not hold opinions about things you haven’t researched deeply.
 Run your brain in debug mode so you understand why you're thinking in that way.
 
 [Mental models][mental-models] can help us thinking more effectively and is always good to know argument fallacies.
@@ -64,6 +65,9 @@ Don't worry too much about things that won't matter to you or your loved ones in
 Don't be a [whatever person][the-whatever-people].
 Don't be afraid to make decisions and actively take them!
 All decision making — even if small ones — can be a good practice for the bigger ones you’ll face.
+
+Maintain a very small identity.
+Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc.
 
 ### Live Smarter not Harder
 
