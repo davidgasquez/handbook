@@ -34,3 +34,12 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 - Look for win-win decisions. If someone has to lose, you’re not thinking hard enough or you need to make structural/environmental changes.
 - The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
 - Ask what information would cause you to change your mind. If you don’t have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
+
+## [Problem Solving](http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/)
+
+- The first group of people that encounter a problem don't know how to solve it.
+- They figure out a way of doing it, and when they get to a solution that's good enough (not perfect, just good enough), that's what they settle on.
+- The next time they encounter the problem, they use the same solution.
+- That keeps happening until later people don't even think about how to do it. [It's just how things are done][einstellung].
+
+[einstellung]: https://en.wikipedia.org/wiki/Einstellung_effect

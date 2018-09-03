@@ -22,6 +22,10 @@
 - Strive for constructive conflict. Get people to ask questions. Engage in passionate, unfiltered debate about what you need to do to succeed.
 - Encourage to fail. Failing is good if the team learn from it!
 - Push relentlessly toward automation.
+- A company may be looked as a combination of 3 things:
+  - The people who work at the company.
+  - The process the company uses to get work done.
+  - The purpose for which the company exists.
 
 [codeburst]: https://codeburst.io/on-writing-tech-specs-6404c9791159
 [lift]: https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9

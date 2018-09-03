@@ -11,3 +11,5 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - Life doesn't get better. You get better at it.
 - It is not the things we do in life that we regret on our death bed. It is the things we do not. Randy Pausch.
 - There is nothing so useless as doing efficiently that which should not be done at all. Peter Drucker.
+- Questions are places in your mind where answers fit. If you haven’t asked the question, the answer has nowhere to go. It hits your mind and bounces right off. You have to ask the question – you have to want to know – in order to open up the space for the answer to fit. Clay Christiansen.
+- Simple rules produce complex behavior. Complex rules produce stupid behavior. Andrew Hunt.
