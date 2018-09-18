@@ -1,6 +1,6 @@
 # Ideas
 
-A few random ideas that crossed my mind in the past.
+A few personal random ideas.
 
 ## Awesome Game
 
@@ -11,3 +11,8 @@ A few random ideas that crossed my mind in the past.
   - Merging two skills could produce a new one (inheriting properties and perhaps with a small mutation)
   - Monsters will develop resistance agains what's killing them.
   - Quests rewards will also change dynamically.
+
+## Unconventional Changelogs
+
+- What if each city or town had a changelog? What changed in the last _release_? Did it change a street direction or opened a new commerce?
+- What if stores had a changelog? That'd mean price history for each product and also new products woulf be easier to find.
