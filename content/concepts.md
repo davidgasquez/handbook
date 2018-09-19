@@ -43,3 +43,13 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 - That keeps happening until later people don't even think about how to do it. [It's just how things are done][einstellung].
 
 [einstellung]: https://en.wikipedia.org/wiki/Einstellung_effect
+
+## Processes
+
+Whether you’re compiling code or making breakfast, everything can be modeled as a repeatable process.
+Understanding the elements of production — inputs, outputs, timing, limiting steps, quality controls, variability — lets us create and improve the _machinery_ needed to fulfill our goals.
+We all aim to achieve the same thing: high quality results in less time with least waste.
+
+> If you can't describe what you are doing as a process, you don't know what you're doing. — W. Edwards Deming
+
+Write down processes and iterate over them. You cannot improve what you cannot explain.
