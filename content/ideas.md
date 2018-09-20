@@ -16,3 +16,7 @@ A few personal random ideas.
 
 - What if each city or town had a changelog? What changed in the last _release_? Did it change a street direction or opened a new commerce?
 - What if stores had a changelog? That'd mean price history for each product and also new products woulf be easier to find.
+
+## Fake Currencies
+
+- A chores app where people (probalby kids) will earn a currency. This could be traded for rewards like going to the cinema or getting a PC game.
