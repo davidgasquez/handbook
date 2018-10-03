@@ -22,6 +22,7 @@
   - Come with a Plain-English description of the concept.
   - The give into the Technical side.
 - When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [mental model](../concepts).
+- Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.
 
 [feynman]: https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/
 [adept]: https://betterexplained.com/articles/adept-method/
