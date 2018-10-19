@@ -9,6 +9,7 @@
 - Follow the guidelines stated in Coursera's [_Learning How to Learn_ summary][lhtl].
 - Write down the process that better worked for you.
 - Keep improving the processes with the learning of failed experiences.
+- [Learn iterating over the process][naval].
 - Everything is always subject to change (including this handbook).
 - Learn to ask better questions. Distill what you know to figure out what part you're missing or which link is missing.
 - There are two modes of thinking:
@@ -27,6 +28,7 @@
 [feynman]: https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/
 [adept]: https://betterexplained.com/articles/adept-method/
 [lhtl]: https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/
+[naval]: https://twitter.com/naval/status/1052856864965152769
 
 ## [Capture, Organize, Synthesize](http://gordonbrander.com/pattern/capture-organize-synthesize/)
 
