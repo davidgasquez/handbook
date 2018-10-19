@@ -53,3 +53,16 @@ A programmer should know [lots][97things] [of][morethings]
 [simplicity]: https://landing.google.com/sre/book/chapters/simplicity.html
 [log]: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 [tradeoffs]: https://twitter.com/kelseyhightower/status/774076482637312001
+
+## Data Pipelines
+
+Data Pipelines are a set of actions that extract data, transform it, and then load the final data somewhere.
+
+### Basic Principles
+
+- Simplicity: Each steps is easy to understand and modify.
+- Reliability: Errors in the pipelines can be recovered. Pipelines are monitored and tested.
+- Modularity: Steps are independent.
+- Consistency: Same conventions and design patterns across pipelines.
+- Efficiency: Low event latency when needed. Easy to scale up and down.
+- Flexibility: Steps change to confort data points. Changes don't stop the pipeline or losses data.
