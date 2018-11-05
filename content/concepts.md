@@ -34,6 +34,7 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 - Look for win-win decisions. If someone has to lose, you’re not thinking hard enough or you need to make structural/environmental changes.
 - The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
 - Ask what information would cause you to change your mind. If you don’t have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
+- How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can’t take back, then it’s worth really, really understanding.
 
 ## [Problem Solving](http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/)
 
@@ -53,3 +54,7 @@ We all aim to achieve the same thing: high quality results in less time with lea
 > If you can't describe what you are doing as a process, you don't know what you're doing. — W. Edwards Deming
 
 Write down processes and iterate over them. You cannot improve what you cannot explain.
+
+As [Tobi Lütke points out in the Farnam Streen podcast][toby-fs], *there are three kinds of processes*. There’s a kind of process that makes things that were previously impossible to do, possible. That’s good. Then there’s a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there’s everything else (just telling people to behave slightly different from what common sense tells them to do)
+
+[toby-fs]: https://fs.blog/tobi-lutke/
