@@ -5,7 +5,10 @@
   - Stick to defining components and keep concepts. Show how the components interact.
   - Define boundaries and limitations of each component.
   - Write tech specs before you write software (examples in [Codeburst][codeburst] and [Lyft][lift]). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
-- Define the culture and values. [Culture][culture] is simply a shared way of doing something with passion.
+- Define the culture and values. [Culture][culture] is simply a shared way of doing something with passion. Culture is created and re-created by the choices made by individuals every day. It can be reshaped by conscious effort applied gently, subtly, and consistently.
+  - Make the right thing to do the easiest thing to do.
+  - Solve problems by fixing the environment that allowed them to occur.
+  - Times change, trends change, cultures change.
 - Work in the open and document everything.
   - Processes
   - Conventions
@@ -22,6 +25,7 @@
 - Strive for constructive conflict. Get people to ask questions. Engage in passionate, unfiltered debate about what you need to do to succeed.
 - Encourage to fail. Failing is good if the team learn from it!
 - Push relentlessly toward automation.
+  - Investigate where (and how) processes and tasks could be automated, and understanding the costs of automating them.
 - A company may be looked as a combination of 3 things:
   - The people who work at the company.
   - The process the company uses to get work done.
