@@ -1,6 +1,6 @@
 # Habits
 
-We, humans, are basically habit machines. We form habits. We run on those habits all day long.
+[We, humans, are basically habit machines][habits-book]. We form habits. We run on those habits all day long.
 Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time.
 Habits will keep the frontal cortex free to solve other problems.
 They can also cause addictions and be harmful for us.
@@ -35,3 +35,5 @@ These steps might be helpful when building habits:
 - **Don't overload yourself**.
   Leave time in your schedule for play.
   If it gets to be too much, decide which one you will drop permanently to make rooms for the rest.
+
+[habits-book]: https://twitter.com/JamesClear/status/1059504529111158784
