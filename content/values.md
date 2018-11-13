@@ -1,7 +1,7 @@
 # Values
 
 Values are what you stand for in life — they are often things that you are for or against — what you believe in and are willing to support and stand up for.
-Values make you e ven if you don't know what are yours.
+Values make you even if you don't know what are yours.
 These are my values.
 
 ### Be Curious
