@@ -22,3 +22,8 @@ A few personal random ideas.
 ## Fake Currencies
 
 - A chores app where people (probalby kids) will earn a currency. This could be traded for rewards like going to the cinema or getting a PC game.
+
+## Data as a Service
+
+- Startup that gathers and organize datasets on demand. Over time they'll have lots of categorized and linked data that might be useful for other companies.
+- The data could be in a relational database and the startup could sell access to it.
