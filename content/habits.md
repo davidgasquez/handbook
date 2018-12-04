@@ -20,6 +20,7 @@ These steps might be helpful when building habits:
 
 - **Never break the routine**.
   Breaking it once makes it much easier to break the next scheduled time.
+  Instead think about the smallest thing you can perform and make it your goal for the day.
   If you do break it, feel bad about it and get back on the horse as fast as you can.
 
 - **Use the power of accountability to reinforce the routine**.
