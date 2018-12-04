@@ -4,7 +4,7 @@ Values are what you stand for in life — they are often things that you are for
 Values make you even if you don't know what are yours.
 These are my values.
 
-### Be Curious
+## Be Curious
 
 Never stop learning.
 Read about topics you care, observe the world around you, don't be afraid to ask silly questions and test your assumptions as many times as possible.
@@ -15,13 +15,13 @@ In the worst case, if your idea doesn't work out, the community will have learne
 There is only one guaranteed way you'll won't get something you want, and that's not to pursue it.
 Everyone's making it up as they go along. Figure it out yourself, and do it.
 
-### Open Your Mind
+## Open Your Mind
 
 Practice rational thinking.
 Make sure you understand that the absolute truth is relative to everyone and you don't know everything.
 We do not know what we don't know.
 Gather as much context as you can before making any final statement.
-Do not hold opinions about things you haven’t researched deeply.
+Avoid forming an opinion at all about things that are not evident. Researched deeply before judging!
 Run your brain in debug mode so you understand why you're thinking in that way.
 
 [Mental models][mental-models] can help us thinking more effectively and is always good to know argument fallacies.
@@ -30,14 +30,14 @@ Ask for it and be ready to change.
 Aim to improve once you've gathered feedback and reflected on it.
 Stress test with facts and share your decisions so flaws arise earlier in the process.
 
-### KISS
+## KISS
 
 When communicating, do it in a clear and concise way.
 When facing a problem, prefer a **lean** approach with a simple solution and built upon it.
 Re-framing questions will make easy to give simpler solutions.
 Don't forget to map and reduce big ones.
 
-### Enjoy Life
+## Enjoy Life
 
 Appreciate the fact that [you're alive][life].
 Be grateful about it and practice [mindfulness][mindfulness].
@@ -48,7 +48,7 @@ Treat the world as a movie of your life and let yourself be the hero of that mov
 See and enjoy everything as a child.
 Prefer delayed gratification, that is, making short term sacrifices to get long term benefits.
 
-### Embrace Weirdness
+## Embrace Weirdness
 
 Don't be just another human.
 Find your place, do what you love and put yourself outside the comfort zone.
@@ -56,7 +56,7 @@ Unexpected and unconventional things make life more interesting.
 Celebrate and encourage quirky gifts, habits, behavior, and points of view.
 No one can compete with you on being you.
 
-### Keep Calm
+## Keep Calm
 
 Think, understand, and listen before speaking.
 Try to plan the possible outcomes and don't rush.
@@ -69,9 +69,9 @@ All decision making — even if small ones — can be a good practice fo
 Maintain a very small identity.
 Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc.
 
-### Live Smarter not Harder
+## Live Smarter not Harder
 
-Don't complain about stuff you can easily fix, automate or delegate.
+Don't complain about stuff you can easily fix, automate, or delegate.
 Money can buy time.
 Accomplish more with less.
 

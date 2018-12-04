@@ -33,5 +33,5 @@ This section contains my current goals. These are changing from time to time alt
 
 - Stay hydrated.
 - Sleep at least 8 hours per day.
-- Proper diet. Mental and physical well being are a rolling average of everything we eat.
+- Proper diet. Mental and physical well being are a rolling average of everything we do and eat.
 - Share credit for accomplishments.
