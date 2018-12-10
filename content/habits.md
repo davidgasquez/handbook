@@ -14,6 +14,8 @@ These steps might be helpful when building habits:
   Set a specific, repeating time when you will do the thing in your calendar.
   Keep that slot clear, always.
   Never let something interrupt this task.
+  Shape the environment to support your routine. Make it easy to start and make it hard to not do it.
+  > If you want to change the river path, you don't place a sign with the direction, you change the environment!
 
 - **Learn to say no**.
   If someone wants you to do something else during this time slot, say no, and tell them why.
