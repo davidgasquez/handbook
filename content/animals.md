@@ -1,4 +1,4 @@
-## Cats
+# Cats
 
 - Get a brush and brush your kitty! It's recommended that short haired cats should be brushed once a week.
 - It's recommended to let your kitty eat as much as it wills, until it reaches adulthood. They need to grow big and strong!
