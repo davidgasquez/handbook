@@ -7,6 +7,11 @@ They can also cause addictions and be harmful for us.
 It’s important to be aware of your habits and know how to break habits and know how to make habits.
 Habits are the compound interest of self-improvement.
 Remember, you’re not your habits!
+Life is just a series of these steps that push you forward, little by little, but it [compounds][c-i].
+And remember, there are [no hacks][hacks] in life!
+
+[hacks]: http://www.collaborativefund.com/blog/useful-hacks/
+[c-i]: https://www.investopedia.com/terms/c/compoundinterest.asp
 
 These steps might be helpful when building habits:
 

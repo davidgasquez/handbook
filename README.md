@@ -9,7 +9,6 @@ Personal bits of living knowledge. The goal of this handbook is to save insights
 - [Programming](content/programming.md)
 - [Concepts](content/concepts.md)
 - [Feedback](content/feedback.md)
-- [Goals](content/goals.md)
 - [Learning](content/learning.md)
 - [Habits](content/habits.md)
 - [Teamwork](content/teamwork.md)
