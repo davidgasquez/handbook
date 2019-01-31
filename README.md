@@ -1,6 +1,6 @@
 # Handbook
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/open_book.png)
 
 Personal bits of living knowledge. The goal of this handbook is to save insights I learn. Instead of publishing a blog post about the topics, storing them in `git` allows everyone to search and improve it through time.
 
@@ -17,4 +17,3 @@ Personal bits of living knowledge. The goal of this handbook is to save insights
 * [Quotes](content/quotes.md)
 
 Please send a [Pull Request](https://github.com/davidgasquez/handbook/pulls) or [fill an issue](https://github.com/davidgasquez/handbok/issues) if you have any feedback!
-
