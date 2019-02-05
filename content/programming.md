@@ -101,3 +101,14 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 * Efficiency: Low event latency when needed. Easy to scale up and down.
 * Flexibility: Steps change to confort data points. Changes don't stop the pipeline or losses data.
 
+## Data Science Projects
+
+1. Frame the problem. Define a clear and concise objective.
+1. Get the data.
+1. Explore the data.
+1. Define metrics.
+1. Make the data tidy.
+1. Model the data. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+1. Make sure everything works end to end. Deploy the model.
+1. Make results reproducible (code, environment and data).
+1. Iterate. Go back to the first point and change one thing at a time. It’s really hard to tell in advance what’s hard and what’s easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It’s possible, even common, for a week spent on modeling data to result in no improvement whatsoever.](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641)
