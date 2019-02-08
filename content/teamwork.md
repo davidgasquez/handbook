@@ -13,6 +13,17 @@
   * Processes
   * Conventions
   * Meetings
+    * Update meetings
+      * Progress: what did I accomplish this week?
+      * Plans: What tasks am I doing next week?
+      * Problems: what is blocking progress?
+      * Other: what else should the team know?
+    * Decision meetings
+      * Progress on achieving current quarterly objectives
+      * How the product is being received in the market
+      * How the most important customers are succeeding (or not) using the product
+      * How the team is performing and any people changes needed
+      * Financial position of the company and review of metrics
   * Responsibilities
 * You can create a Handbook to put everything together. Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.
 * Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
@@ -43,4 +54,3 @@
   * Identify and propose a solution. You should try to build consensus by demonstrating how your solution will resolve everyone’s concerns, not just your own.
   * Outline the benefits and advantages of your proposal.
   * Understanding. Either nail down agreement on a next action or step, or work together to develop alternatives
-
