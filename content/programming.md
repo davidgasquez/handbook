@@ -95,7 +95,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 ### Basic Principles
 
 * Simplicity: Each steps is easy to understand and modify.
-* Reliability: Errors in the pipelines can be recovered. Pipelines are monitored and tested.
+* Reliability: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done extracting the column from the intermediary data without having to query the data source.
 * Modularity: Steps are independent.
 * Consistency: Same conventions and design patterns across pipelines.
 * Efficiency: Low event latency when needed. Easy to scale up and down.
