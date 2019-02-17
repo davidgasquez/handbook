@@ -1,4 +1,4 @@
-# concepts
+# Concepts
 
 ## Fallacies
 
