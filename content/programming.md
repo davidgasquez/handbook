@@ -59,6 +59,12 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 * **Keep the iteration loop short**.
   Invest in tools to automate and improve the development cycle \(CI, CD\). Decreasing build times a few seconds actually saves a lot of time over time. Deploy often to make the loop end to end. If you need to sinetgubg manually more than twice, then write a tool for the third time.
 
+Like any other field, the world of Software Development has some interesting and famous "laws". These are some of them I've found interesting, funny or worth knowing:
+
+* [Laws of Software Development](http://www.globalnerdy.com/2007/07/18/laws-of-software-development/)
+* [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
+* [Laws of Computing](https://gist.github.com/sorahn/905f67acf00d6f2aa69e74a39de65941)
+
 ## Data Pipelines
 
 Data Pipelines are a set of actions that extract data, transform it, and then load the final data somewhere. As any [distributed system](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/), they're tricky to work with. These are some great principles to keep in mind.
