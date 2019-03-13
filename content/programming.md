@@ -72,6 +72,17 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 * Efficiency: Low event latency when needed. Easy to scale up and down.
 * Flexibility: Steps change to confort data points. Changes don't stop the pipeline or losses data.
 
+### Data Flow
+
+* In each step of the pipeline there are producers of data and consumers. Consumers can be also producers, e.g `B` in `A | B | C`.
+  * Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a database.
+* Schemas changes. Most of the time you won't be there at the exact time of the change so try to save everything.
+  * Ideally, the schema will evolve in a backward compatible way:
+    * Data types don't change in the same column
+    * Columns are either deleted or added but never renamed
+* Create a few extra columns like `processed_at` or `schema_version`
+
+
 ## Data Science Projects
 
 1. Frame the problem. Define a clear and concise objective.
