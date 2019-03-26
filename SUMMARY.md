@@ -15,3 +15,4 @@
   * [Comunications](content/communications.md)
   * [Quotes](content/quotes.md)
   * [Ideas](content/ideas.md)
+  * [Bookmarks](content/bookmarks.md)
