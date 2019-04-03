@@ -32,6 +32,7 @@
 * Write postmortems after large incidents. This will create a feedback loop to guide learning about what happened and how it can be avoided next time.
 * Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you’re trying to do when requesting help.
 * How to drive change: find people who agree on the problem, start small, experiment, scale, repeat.
+* [Brainstorm for questions first. Then find the answers.](https://getpocket.com/explore/item/better-brainstorming)
 * Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships.
 * Strive for constructive conflict. Get people to ask questions. Engage in passionate, unfiltered debate about what you need to do to succeed.
 * Encourage to fail. Failing is good if the team learn from it!
