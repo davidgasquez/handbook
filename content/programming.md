@@ -54,6 +54,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 
 * **There is no silver bullet**.
   Accept that many programming decisions are opinions.
+  Make the trade-offs explicit when making judgments and decisions.
   Discuss [tradeoffs](https://twitter.com/kelseyhightower/status/774076482637312001), which you prefer, and reach a resolution.
 
 * **Keep the iteration loop short**.
