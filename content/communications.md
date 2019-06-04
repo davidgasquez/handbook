@@ -23,8 +23,9 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * Keep in mind your style:
   * **Be concise**. Understand the topic you’re writing about. Use simple words and sentences.
   * **Be Useful**. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
-  * **Be specific**. Avoid vague language. Cut the fluff.
+  * **Be specific**. Avoid vague language. Cut the fluff. Delete unnecessary words.
   * **Be consistent**.
+  * **Add rythm**. Vary the sentence lenght to break the monotony.
 * Have solid Schemas. This allows you to remove the clutter and avoid confusion:
   * Define a clear thesis.
   * Support your thesis with arguments.
@@ -34,4 +35,3 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * Use positive language rather than negative language.
 * Use second-person and describe actions to a user. Technical content talks to users when support agents can’t.
 * If you have multiple points in a text, number them to make replies easier.
-

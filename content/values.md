@@ -37,4 +37,3 @@ Maintain a very small identity. Do not affiliate your identity with anything ext
 ## Live Smarter not Harder
 
 Don't complain about stuff you can easily fix, automate, or delegate. Money can buy time. Accomplish more with less.
-

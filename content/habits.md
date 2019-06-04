@@ -13,4 +13,3 @@ These steps might be helpful when building habits:
 * **Use the power of accountability to reinforce the routine**. If you can find someone who will hold you accountable, do it. Someone who does the routine with you, or a coach who will call you out if you make excuses.
 * **One thing at a time**. Don't build a big routine of 15 tasks at once. Ease into it one habit at a time. Changing one at a time routine allows you to isolate the beneficts. Remove related bad habits at the same time.
 * **Don't overload yourself**. Leave time in your schedule for play. If it gets to be too much, decide which one you will drop permanently to make rooms for the rest.
-

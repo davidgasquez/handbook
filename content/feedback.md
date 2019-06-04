@@ -32,4 +32,3 @@ All feedback is good feedback. If you agree with it, it tells you something abou
   * You should list any points of agreement \(if they are not matters of general or widespread agreement\).
   * You should mention anything you have learned from your target.
   * Only then are you permitted to say so much as a word of rebuttal or criticism.
-

@@ -89,7 +89,6 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
     * Columns are either deleted or added but never renamed
 * Create a few extra columns like `processed_at` or `schema_version`
 
-
 ## Data Science Projects
 
 1. Frame the problem. Define a clear and concise objective.

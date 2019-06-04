@@ -19,4 +19,3 @@ There are many handbooks, wikis or documents where people share knowledge. The f
 * [Daniel Schildt](https://github.com/d2s/knowledge)
 
 More at the [Meta Knowledge Github repository](https://github.com/RichardLitt/meta-knowledge).
-

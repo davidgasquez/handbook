@@ -8,4 +8,3 @@ Just like money, [time must be explicitly managed](https://youtu.be/oTugjssqOT0)
 * Doing the same thing over and over again without getting tired is what computers are good at, humans have other skills.
 * If a task takes less than [two minutes](https://jamesclear.com/how-to-stop-procrastinating), do it. It'll make you more productive and also declutter your mind task's backlog.
 * Do the tasks in the right order! One strategy might be starting with the one that could make the others irrelevant or easiers.
-
