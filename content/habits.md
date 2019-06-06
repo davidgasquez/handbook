@@ -6,7 +6,7 @@ These steps might be helpful when building habits:
 
 * **Build a routine**. Set a specific, repeating time when you will do the thing in your calendar. Keep that slot clear, always. Never let something interrupt this task. Shape the environment to support your routine. Make it easy to start and make it hard to not do it.
 
-  > If you want to change the river path, you don't place a sign with the direction, you change the environment!
+  > If you want to change a river's path, you don't place a sign with the direction inwhich you want water to go, you dig holes so water flows into them.
 
 * **Learn to say no**. If someone wants you to do something else during this time slot, say no, and tell them why.
 * **Never break the routine**. Breaking it once makes it much easier to break the next scheduled time. Instead think about the smallest thing you can perform and make it your goal for the day. If you do break it, feel bad about it and get back on the horse as fast as you can.

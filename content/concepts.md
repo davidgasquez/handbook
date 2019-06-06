@@ -46,3 +46,20 @@ Write down processes and iterate over them. You cannot improve what you cannot e
 As [Tobi Lütke points out in the Farnam Streen podcast](https://fs.blog/tobi-lutke/), _there are three kinds of processes_. There’s a kind of process that makes things that were previously impossible to do, possible. That’s good. Then there’s a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there’s everything else \(just telling people to behave slightly different from what common sense tells them to do\)
 
 You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through experiments and experiences removing barriers or adding tools.
+
+Properties to look for in Processes:
+
+* Algorithmic. So you don't need to think about choices.
+* Flexible. Make if fluid enough to keep up with changes.
+* Low Friction. Simple processes are easier to understand and apply.
+* Short Feedback Loop. Show the results as soon as you can.
+
+A process takes an input to produce an output. A bunch of precesses can be view as a System. Systems archieve goals.
+
+Properties to look for in Systems:
+
+* Modular.
+  * Loosely coupling. Breaking a chair shouldn't break the dinner!
+  * Having multiple parts also allows systems to develop emergent properties.
+* Responsiveness. Know what the system is doing and make the feedback loop fast.
+* Some systems might benefics of being distributed
