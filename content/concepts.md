@@ -30,10 +30,13 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 
 ## [Problem Solving](http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/)
 
-* The first group of people that encounter a problem don't know how to solve it.
-* They figure out a way of doing it, and when they get to a solution that's good enough \(not perfect, just good enough\), that's what they settle on.
-* The next time they encounter the problem, they use the same solution.
-* That keeps happening until later people don't even think about how to do it. [It's just how things are done](https://en.wikipedia.org/wiki/Einstellung_effect).
+* Problems have multiple solutions at multiple levels.
+* Most of the time problems already have solutions:
+  * The first group of people that encounter a problem don't know how to solve it.
+  * They figure out a way of doing it, and when they get to a solution that's good enough \(not perfect, just good enough\), that's what they settle on.
+  * The next time they encounter the problem, they use the same solution.
+  * That keeps happening until later people don't even think about how to do it. [It's just how things are done](https://en.wikipedia.org/wiki/Einstellung_effect).
+* The best thing that can be done to a problem is to dissolve it, to redesign the entity that has it or its environment so as to eliminate the problem.
 
 ## Processes
 
