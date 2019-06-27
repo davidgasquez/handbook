@@ -28,6 +28,8 @@
 * You can create a Handbook to put everything together. Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.
 * Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
 * Aim to be a completely autonomous team. You build it, you run it!
+* Build a culture of stopping to fix problems, to get quality right the first time.
+* Standardized tasks and processes are the foundation for continuous improvement and employee empowerment.
 * Someone should be the information hub. It helps connecting the dots that wouldn’t otherwise get connected.
 * Write postmortems after large incidents. This will create a feedback loop to guide learning about what happened and how it can be avoided next time.
 * Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you’re trying to do when requesting help.
