@@ -47,7 +47,7 @@
 
 ## Communication
 
-* Use [common techniques](https://github.com/davidgasquez/handbook/tree/7b0e2ab97c202895a0971a9c7eb6c0516af3a646/content/communications/README.md) and always be friendly.
+* Use [common techniques](https://github.com/davidgasquez/handbook/blob/master/content/communications.md) and be friendly.
 * Prefer asynchronous communications.
 * Have a primary communication channel.
 * Agree on the terminology. Similar understanding of terms makes discussion more productive.
