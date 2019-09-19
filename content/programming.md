@@ -42,6 +42,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 * **The sum of the parts is greater than the whole**.
   A large application built from a collection of smaller programs is more flexible and hence more useful than a single large program.
   The same functional capability may exist in both solutions, but the collection-of-small-programs approach is the more forward-looking of the two.
+  [The computer is a machine, but a codebase is an organism](https://meltingasphalt.com/a-codebase-is-an-organism/). The organic nature of code manifests itself in the dual forces of growth and decay. It also suggests that you should know your code smells. These smeels won't be causing problems during execution, on the machine. Instead, it's going to cause problems during evolution of the codebase.
 
 * **Look for the 80% solution**.
   Doing 100% of anything is difficult.
