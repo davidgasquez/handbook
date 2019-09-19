@@ -1,6 +1,6 @@
 # Time
 
-Time is the most valuable and least replaceable resource. Just like money, [time must be explicitly managed](https://youtu.be/oTugjssqOT0).
+Time is the most valuable and least replaceable resource. Just like money, [time must be explicitly managed](https://youtu.be/oTugjssqOT0). If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive.
 
 * Learn to prioritize, and value your time. "I don't have time" is another way of saying "it's not a priority".
 * Lists help you to summarize your next steps and to not lose focus. If you place them in a very visible place it makes easier to accomplish goals.
