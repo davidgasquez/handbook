@@ -66,3 +66,7 @@ Properties to look for in Systems:
   * Having multiple parts also allows systems to develop emergent properties.
 * Responsiveness. Know what the system is doing and make the feedback loop fast.
 * Some systems might benefics of being distributed
+
+## Incentives
+
+Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
