@@ -6,8 +6,8 @@ A few personal random ideas.
 
 - Timeless.
 - No repication costs.
-- Creates win-win situations
-- Network effects
+- Creates win-win situations.
+- Network effects.
 
 ## Awesome Game
 
