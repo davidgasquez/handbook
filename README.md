@@ -15,7 +15,10 @@ Personal bits of living knowledge. The goal of this handbook is to save insights
 * [Time](content/time.md)
 * [Values](content/values.md)
 * [Quotes](content/quotes.md)
+* [Ideas](content/ideas.md)
 * [Bookmarks](content/bookmarks.md)
+* [Handbooks](content/handbooks.md)
+* [Communications](content/communications.md)
 
 Please send a [Pull Request](https://github.com/davidgasquez/handbook/pulls) or [fill an issue](https://github.com/davidgasquez/handbok/issues) if you have any feedback!
 
