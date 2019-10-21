@@ -46,9 +46,9 @@ Whether you’re compiling code or making breakfast, everything can be modeled a
 
 Write down processes and iterate over them. You cannot improve what you cannot explain.
 
-As [Tobi Lütke points out in the Farnam Streen podcast](https://fs.blog/tobi-lutke/), _there are three kinds of processes_. There’s a kind of process that makes things that were previously impossible to do, possible. That’s good. Then there’s a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there’s everything else \(just telling people to behave slightly different from what common sense tells them to do\)
+As [Tobi Lütke points out in the Farnam Streen podcast](https://fs.blog/tobi-lutke/), _there are three kinds of processes_. There’s a kind of process that makes things that were previously impossible to do, possible. That’s good. Then there’s a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there’s everything else \(just telling people to behave slightly different from what common sense tells them to do\).
 
-You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through experiments and experiences removing barriers or adding tools.
+You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments](https://rs.io/how-to-get-started-with-anything/) and experiences removing barriers or adding tools.
 
 Properties to look for in Processes:
 

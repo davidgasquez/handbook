@@ -22,7 +22,7 @@
   * Gather Examples.
   * Come with a Plain-English description of the concept.
   * The give into the Technical side.
-* When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [mental model](https://github.com/davidgasquez/handbook/tree/7b0e2ab97c202895a0971a9c7eb6c0516af3a646/concepts/README.md).
+* When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new mental model.
 * Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.
 
 ## [Capture, Organize, Synthesize](http://gordonbrander.com/pattern/capture-organize-synthesize/)
