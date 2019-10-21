@@ -2,7 +2,6 @@
 
 Random thoughts about specific topics. Probably biased based on my experience. As with the rest of the handbook, think of them as a work in progress.
 
-
 ## Politics
 
 - To debate politics as in any other field, first gather information and then decide. [Think like a scientist](https://waitbutwhy.com/2019/09/thinking-ladder.html).
