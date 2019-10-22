@@ -19,6 +19,7 @@ Personal bits of living knowledge. The goal of this handbook is to save insights
 * [Bookmarks](content/bookmarks.md)
 * [Handbooks](content/handbooks.md)
 * [Communications](content/communications.md)
+* [Random](content/random.md)
 
 Please send a [Pull Request](https://github.com/davidgasquez/handbook/pulls) or [fill an issue](https://github.com/davidgasquez/handbok/issues) if you have any feedback!
 
