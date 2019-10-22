@@ -16,7 +16,7 @@ Practice rational thinking. Make sure you understand that the absolute truth is 
 
 ## KISS
 
-When communicating, do it in a clear and concise way. When facing a problem, prefer a **lean** approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions. Don't forget to map and reduce big ones.
+When communicating, do it in a clear and concise way. When facing a problem, prefer a **lean** approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions.
 
 ## Enjoy Life
 

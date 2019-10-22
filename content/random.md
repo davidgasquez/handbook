@@ -11,7 +11,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on precached ideology.
 - Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government).
 
-###  Voting Methods
+### Voting Methods
 
 - [No silver bullet](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem).
 - [Politics In The Animal Kingdom](http://www.cgpgrey.com/politics-in-the-animal-kingdom/) is a great summary of a few methods.
