@@ -1,9 +1,9 @@
 # Learning
 
-* Understand the base and build from it. First Principles Method.
+* Understand the base and build from it. First Principles Method. Start from basics before going into complexities.
 * You can apply [The Feynman Technique](https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/):
   1. Identify the subject.
-  2. Teach it to a child. Use simple vocabulary and make it short.
+  2. Teach it to a child. Use simple vocabulary and make it short. Keep questions and answers simple.
   3. Identify your knowledge gaps. What are you missing?
   4. Organize and Simplify. Tell a story to teach. Analogies help here!
 * Follow the guidelines stated in Coursera's [_Learning How to Learn_ summary](https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/).
@@ -24,6 +24,7 @@
   * The give into the Technical side.
 * When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new mental model.
 * Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.
+* Use spaced repetition. Make cards that are [atomic, connected and meaningful](https://ncase.me/remember/).
 
 ## [Capture, Organize, Synthesize](http://gordonbrander.com/pattern/capture-organize-synthesize/)
 

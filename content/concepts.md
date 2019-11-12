@@ -37,6 +37,10 @@ Conceptual compression also allows lazy learning. If you're using the compressed
   * The next time they encounter the problem, they use the same solution.
   * That keeps happening until later people don't even think about how to do it. [It's just how things are done](https://en.wikipedia.org/wiki/Einstellung_effect).
 * The best thing that can be done to a problem is to dissolve it, to redesign the entity that has it or its environment so as to eliminate the problem.
+  * Insight is best thought of as a change in problem representation. The way we frame problems makes them more or less difficult.
+* [Problem solving can be understood as a search problem](https://rs.io/the-science-of-problem-solving/). You start in some state, there’s a set of neighbor states you can move to, and a final state that you would like to end up in.
+* Taking breaks during working on a problem solving is called incubation. Incubation enhances problem solving ability.
+* To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others.
 
 ## Processes
 
@@ -72,3 +76,4 @@ Properties to look for in Systems:
 Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
 
 To reach a goal, reduce friction or increase incentives/rewards.
+

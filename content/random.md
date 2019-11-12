@@ -15,6 +15,8 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 
 - [No silver bullet](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem).
 - [Politics In The Animal Kingdom](http://www.cgpgrey.com/politics-in-the-animal-kingdom/) is a great summary of a few methods.
+- There are [better ways to build a ballot](https://ncase.me/ballot/).
+- Approval voting is usually a good choice. Is simple to explain and to count, and comprehensibility is an important factor when choosing a voting method. That said, there are [really good alternatives](https://electionscience.github.io/vse-sim/VSEbasic/).
 
 ## Reducing Environmental Impact
 
