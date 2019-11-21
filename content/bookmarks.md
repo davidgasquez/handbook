@@ -5,7 +5,6 @@ Some useful links and resources on diverse topics I've been collecting over time
 ## Contents
 
 - [Learning](#learning)
-- [Fitness](#fitness)
 - [Work](#work)
 
 ## Learning
@@ -50,16 +49,6 @@ Some useful links and resources on diverse topics I've been collecting over time
   - [Reddit r/privacy  Wiki](https://www.reddit.com/r/privacy/wiki/index) - Guide to becoming more secure online
   - [Privacy Tools](https://www.privacytools.io/) - Provides knowledge and tools to protect your privacy against global mass surveillance
   - [Switching Social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to multiple tools
-
-## Fitness
-
-- [Fitness Reddit Wiki](https://www.reddit.com/r/Fitness/wiki/) - Extensive resource of fitness information, contributed to by the community and curated by the moderators
-- [Simple Science Fitness](https://ss.fitness/) - Everything you need to know about eating and exercising backed by science
-- [Body Weight Fitness Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) - Best routinne if you like to use your own body to train
-- [Molding Mobility](https://www.youtube.com/watch?v=Aoyy3bKtD84) - Routinne designed to increase general range of motion in your movements
-- [Starting Stretching](https://www.youtube.com/watch?v=w1iXMvTMvBo) - A 15 minute stretching routine that serves as a starting point for beginners to improve overall flexibility
-- [The Best Fat Loss Article on the Motherfuckin’ Internet](http://physiqonomics.com/fat-loss/) - Facts and usefull information about fat loss
-- [Phrak's Greyskull LP](https://old.reddit.com/r/Fitness/wiki/phraks-gslp) - Introductory lifting program to build familiarity and comfortability with the fundamental barbell movements that are a core component of most strength training routines
 
 ## Work
 
