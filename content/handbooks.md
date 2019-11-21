@@ -17,5 +17,6 @@ There are many handbooks, wikis or documents where people share knowledge. The f
 * [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge)
 * [Daryll Santos](https://github.com/daryllxd/lifelong-learning)
 * [Daniel Schildt](https://github.com/d2s/knowledge)
+* [Julian Shapiro](https://www.julian.com/)
 
 More at the [Meta Knowledge Github repository](https://github.com/RichardLitt/meta-knowledge).
