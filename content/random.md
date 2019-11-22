@@ -30,3 +30,9 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Opt for long lasting products over ones you will have to replace quickly.
 - Avoid plastic products.
 - Plant plants and create gardens! Donate to organizations that plant trees.
+
+## Annual Review List
+
+- [Egoistic Altruism](https://youtu.be/rvskMHn0sqQ): A Selfish Argument for Making the World a Better Place.
+- [Optimistic Nihilism](https://youtu.be/MBRqu0YOH14): A great philosophy.
+- [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html): You have limited time, and you should spend it wisely in things and with people you care about.
