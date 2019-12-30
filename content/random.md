@@ -23,13 +23,14 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Donating to birth control projects.
 - Eating local to reduce costs of transportation.
 - Investing in new tech. Tech will be able to create new solutions (and new problems too).
-- Insulate your house.
-- Donate to renewable energies projects.
-- Use GMOs.
-- Vote with your wallet by buying environmentally conscious things from environmentally conscious and if possible, local companies.
-- Opt for long lasting products over ones you will have to replace quickly.
-- Avoid plastic products.
-- Plant plants and create gardens! Donate to organizations that plant trees.
+- Donating to renewable energies projects.
+- Insulating your house.
+- Using GMOs.
+- Voting with your wallet by buying environmentally conscious things from environmentally conscious and if possible, local companies.
+- Opting for long lasting products over ones you will have to replace quickly.
+- Avoiding plastic products.
+- Planting plants and creating gardens! Donate to organizations that plant trees.
+- Reducing meat consumption.
 
 ## Annual Review List
 

@@ -11,7 +11,10 @@
   * Times change, trends change, cultures change.
 * Work in the open and document everything.
   * Processes
+    * Write status updates
   * Conventions
+    * Confirm decisions to move them forward
+    * Offer conclusions in long discussions
   * Meetings
     * Update meetings
       * Progress: what did I accomplish this week?
