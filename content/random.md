@@ -10,6 +10,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - It’s just better to discuss issues without invoking teams.
 - Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on precached ideology.
 - Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government).
+- If you think politics is annoying, then it's because you're privileged enough for it to not matter.
 
 ### Voting Methods
 

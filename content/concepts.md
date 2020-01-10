@@ -76,4 +76,3 @@ Properties to look for in Systems:
 Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
 
 To reach a goal, reduce friction or increase incentives/rewards.
-
