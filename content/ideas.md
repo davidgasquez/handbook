@@ -9,6 +9,15 @@ A few personal random ideas.
 - Creates win-win situations.
 - Network effects.
 
+## Interesting Areas
+
+- Data
+- Gobernance
+- Communities
+- Education
+- Energy
+- Science (biology, astrophisics, ...)
+
 ## Awesome Game
 
 - Modular Approach. The idea is to have a main character and multiple shards to play. Each shard could implement a different ruleset or genre.
