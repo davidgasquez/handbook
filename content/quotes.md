@@ -13,3 +13,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * There is nothing so useless as doing efficiently that which should not be done at all. Peter Drucker.
 * Questions are places in your mind where answers fit. If you haven’t asked the question, the answer has nowhere to go. It hits your mind and bounces right off. You have to ask the question – you have to want to know – in order to open up the space for the answer to fit. Clay Christiansen.
 * Simple rules produce complex behavior. Complex rules produce stupid behavior. Andrew Hunt.
+* You cannot answer a question that you cannot ask, and you cannot ask a question that you have no words for. Judea Pearl.

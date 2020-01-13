@@ -13,8 +13,9 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * Encourage others to talk about themselves.
 * Speak slow and naturally.
 * Remove filler words.
-* Learn to listen. Listening is difficult because it involves suppressing your ego long enough to consider what is being said before you respond. Forget your agenda.
+* Learn to listen. Listening is difficult because it involves suppressing your ego long enough to consider what is being said before you respond. Forget your agenda. Don't have internal monologue.
   * Avoid trying to respond immediately and allow the other person time to finish speaking.
+  * Don't answer your phone while speaking with someone in real life. If the real life conversation starts, has precedence over the asynchronous ones.
 * Aim to make liberal use of the _you_ pronoun.
 
 ## Writting
@@ -34,4 +35,5 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * Human beings are wired to respond to storytelling. A story arc is a way to structure ideas to tap into this response, typically by describing a change in the world.
 * Use positive language rather than negative language.
 * Use second-person and describe actions to a user. Technical content talks to users when support agents can’t.
+* Divide things into small chunks.
 * If you have multiple points in a text, number them to make replies easier.

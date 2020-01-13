@@ -38,3 +38,9 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - [Egoistic Altruism](https://youtu.be/rvskMHn0sqQ): A Selfish Argument for Making the World a Better Place.
 - [Optimistic Nihilism](https://youtu.be/MBRqu0YOH14): A great philosophy.
 - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html): You have limited time, and you should spend it wisely in things and with people you care about.
+
+## Journaling
+
+- Journaling is a "keystone" habit. It tightly locks all of your other habits in place.
+- When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.
+- Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.
