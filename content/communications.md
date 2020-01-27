@@ -27,6 +27,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   * **Be specific**. Avoid vague language. Cut the fluff. Delete unnecessary words.
   * **Be consistent**.
   * **Add rythm**. Vary the sentence lenght to break the monotony.
+* [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro)
 * Have solid Schemas. This allows you to remove the clutter and avoid confusion:
   * Define a clear thesis.
   * Support your thesis with arguments.
@@ -37,3 +38,4 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * Use second-person and describe actions to a user. Technical content talks to users when support agents can’t.
 * Divide things into small chunks.
 * If you have multiple points in a text, number them to make replies easier.
+* Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots.

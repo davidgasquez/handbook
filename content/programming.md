@@ -48,6 +48,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   Doing 100% of anything is difficult.
   Focusing in the 80% is far more efficient and cost-effective.
   Handle the 80% and let the 20% fend for themselves.
+  80% of the impact comes from 20% of the work.
 
 * **Treat all the data as an event log**.
   Use a central log where consumers can subscribe to the relevant events.
@@ -102,3 +103,13 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 1. Make sure everything works end to end. Deploy the model.
 1. Make results reproducible (code, environment and data).
 1. Iterate. Go back to the first point and change one thing at a time. It’s really hard to tell in advance what’s hard and what’s easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It’s possible, even common, for a week spent on modeling data to result in no improvement whatsoever.](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641)
+
+## [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+1. Separate subject from body with a blank line.
+1. Limit the subject line to 50 characters.
+1. Capitalize the subject line.
+1. Do not end the subject line with a period.
+1. Use the imperative mood in the subject line.
+1. Wrap the body at 72 characters.
+1. Use the body to explain what and why vs. how.

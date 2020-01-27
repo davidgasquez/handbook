@@ -13,10 +13,11 @@ A few personal random ideas.
 
 - Data
 - Gobernance
+- Open Source
 - Communities
 - Education
-- Energy
 - Science (biology, astrophisics, ...)
+- Energy
 
 ## Awesome Game
 
