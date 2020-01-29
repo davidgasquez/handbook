@@ -54,3 +54,19 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - How valuable it would be giving your DNA to a competent advertising company? They could be able to profile and predict users with significantly higher personal accuracy.
   - This is analogous to the 1800s when people disagreed over whether one should let a camera take your photo. Ff sequencing prices and mobility continue to advance at current rates, in 30 years your DNA could be sequenced thousands of times a day, everywhere you go in public (the same way you're recorded with security cameras).
 
+## Blockchain
+
+- A blockchain is a decentralised database. Cryptocurrencies are a digital version of money.
+  - Originally, currencies were actual precious metals, like gold and silver coins. For the sake of portability, these were replaced with bank notes. Pieces of paper which entitled the bearer to a certain quantity of precious metal if they presented them to the bank. That system is known as the gold standard.
+  - The gold standard was abandoned in the middle of the 20th century. Now we have "fiat money", which is money that has value simply because everyone agrees it has value. The biggest difference between 20 real dollars and 20 Monopoly dollars now is that you can use the real dollars to pay taxes.
+  - Now that we have an easy way to do consensus in the internet, cryptocurrencies are simply a digial version of money. When you buy Bitcoin you're using the Blockchain to tell it to everyone. If you're going to spend more than you have, everyone will be able to see it!
+- Ethereum serves as a platform (turing complete) to create (blockchain) apps the same way Android/iOS does on mobile.
+- Forks in blockchain act like genetic mutations. The users will apply presusre and protocols will evolve.
+- Fat Protocols.
+- Protocol and Open Source Funding.
+  -  Open Source projects could have a protocol and incentive the economy. You could buy shares of Kubernetes, Tensorflow, Linux or contribute to gain tokens. This incentivices contributing and helping people.
+- Governance.
+- Blockchains is useful when these conditions are met:
+  - The resource is scarce (limited).
+  - Fungible (there isn’t a difference between two items. eg. storing files). All the coins are mutually interchangeable.
+  - The resource can be provided by a lot of people.

@@ -40,7 +40,14 @@ A few personal random ideas.
 
 - A chores app where kids could earn a currency. This could be traded for rewards like going to the cinema or getting a new PC game.
 
-## Data as a Service
+## Open Data
 
-- Startup that gathers and organize datasets on demand. Over time they'll have lots of categorized and linked data that might be useful for other companies.
-- The data could be exposed through a database and the startup could make money selling access to it.
+> Open Data should be easily accesible and free. Imagine a decentralized, distributed platform where people collaborated on dataset the same way they collaborate on code.
+
+- A protocol that makes possible addind, curating and sharing datasets.
+- The main abstractions are `datasets` and `relations`. Both can be updated, forked and discussed like git repositories.
+- Permissionless. People should be able to add new dataset or relation. The main ones will be curated by the community.
+- Built on top of a distributed file system (IPFS, ...) and with incentives to increase collaboration (cryptocurrency, bounties, and other forms of open source funding).
+- People could access the data with a simple CLI (`./opendata get "user/dataset:version") or HTTPS endpoint (`opendata.com/user/dataset:version`).
+- Declarative way of defining the dataset schema and other properties aswell as the relations.
+- Datasets should also be exposed in other places like Google Dataset Search.
