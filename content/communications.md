@@ -35,7 +35,19 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   * Conclusions.
 * Human beings are wired to respond to storytelling. A story arc is a way to structure ideas to tap into this response, typically by describing a change in the world.
 * Use positive language rather than negative language.
+* Write in a conversational tone.
 * Use second-person and describe actions to a user. Technical content talks to users when support agents can’t.
 * Divide things into small chunks.
 * If you have multiple points in a text, number them to make replies easier.
 * Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots.
+
+### Blogging
+
+* Writing is Thinking. Writing things down helps clarifying ideas. One of the tests of whether you understand something is whether you can explain it to someone else. [Writing doesn't just communicate ideas; it generates them](http://www.paulgraham.com/writing44.html).
+* Expect 80% of the ideas in an post to happen after you start writing it, and 50% of those you start with to be wrong.
+* To decide if your idea is worth writing about, [ask these questions](https://jvns.ca/blog/2016/05/22/how-do-you-write-blog-posts/):
+  * Would this have helped me a year ago?
+  * Would this have helped me last week?
+  * Do you think this would be interesting to at least like 2 other people?
+* [You are best positioned to help people one step behind you](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045). The material is still fresh in your mind. Many experts have forgotten what it was like to be a beginner and have forgotten why the topic is hard to understand when you first hear it. The context of your particular background, your particular style, and your knowledge level will give a different twist to what you’re writing about.
+* [Share unoriginal ideas](https://guzey.com/personal/why-have-a-blog/). Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn’t come up with these ideas otherwise.
