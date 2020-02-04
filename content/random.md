@@ -75,3 +75,13 @@ Random thoughts about specific topics. Probably biased based on my experience. A
   - Fungible (there isn’t a difference between two items. eg. storing files). All the coins are mutually interchangeable.
   - The resource can be provided by a lot of people.
 - Smart contracts can be defined as code that's replicated and executed on all the blockchain nodes.
+
+## [Principles of Game Design](https://youtu.be/zaxAdRlyZQ8)
+
+1. Create concrete,achievable, and rewarding goals.
+1. Design for nuanced emotion.
+1. Create rapid and robust controls.
+1. Make fun toys, and combine them into games.
+1. Make the next action obvious.
+1. Give clear and inmmediate feedback with no distraction.
+1. Balance skills with challenge.
