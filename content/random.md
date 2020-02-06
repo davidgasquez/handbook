@@ -30,7 +30,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Voting with your wallet by buying environmentally conscious things from environmentally conscious and if possible, local companies.
 - Opting for long lasting products over ones you will have to replace quickly.
 - Avoiding plastic products.
-- Planting plants and creating gardens! Donate to organizations that plant trees.
+- Planting plants and creating gardens! Donate to organizations that save (better than planting new) trees.
 - Reducing meat consumption.
 
 ## Annual Review List
