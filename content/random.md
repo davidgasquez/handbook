@@ -56,7 +56,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 
 ## Blockchain
 
-- A blockchain is a decentralised database. Cryptocurrencies are a digital version of money protected by cryptography (Merkles Trees).
+- [A blockchain is a decentralised database](https://www.youtube.com/watch?v=bBC-nXj3Ng4). Cryptocurrencies are a digital version of money protected by cryptography (Merkles Trees).
   - Originally, currencies were actual precious metals, like gold and silver coins. For the sake of portability, these were replaced with bank notes. Pieces of paper which entitled the bearer to a certain quantity of precious metal if they presented them to the bank. That system is known as the gold standard.
   - The gold standard was abandoned in the middle of the 20th century. Now we have "fiat money", which is money that has value simply because everyone agrees it has value. The biggest difference between 20 real dollars and 20 Monopoly dollars now is that you can use the real dollars to pay taxes.
   - Now that we have an easy way to do consensus in the internet, cryptocurrencies are simply a digial version of money. When you buy Bitcoin you're using the Blockchain to tell it to everyone. If you're going to spend more than you have, everyone will be able to see it!
@@ -64,7 +64,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Ethereum serves as a platform (turing complete) to create (blockchain) apps the same way Android/iOS does on mobile.
   - Its much more flexible than Bitcoin and that makes it riskier.
 - Forks in blockchain act like genetic mutations. The users will apply presusre and protocols will evolve.
-- Fat Protocols.
+- [Fat Protocols](https://www.usv.com/writing/2016/08/fat-protocols/).
   - On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are neccesary but not valuable. Value is captured by the apps.
   - Fat protocols will use tools like blockchain to store the data. With open protocols and decentralized data, apps are only the frontend of the services.
 - Protocol and Open Source Funding.
