@@ -21,17 +21,19 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 
 ## Reducing Environmental Impact
 
-- Donating to birth control projects.
-- Eating local to reduce costs of transportation.
-- Investing in new tech. Tech will be able to create new solutions (and new problems too).
-- Donating to renewable energies projects.
-- Insulating your house.
-- Using GMOs.
-- Voting with your wallet by buying environmentally conscious things from environmentally conscious and if possible, local companies.
-- Opting for long lasting products over ones you will have to replace quickly.
-- Avoiding plastic products.
-- Planting plants and creating gardens! Donate to organizations that save (better than planting new) trees.
-- Reducing meat consumption.
+- Reduce, Reuse, Recycle. In that order.
+- Eat local to reduce costs of transportation.
+- Invest in new tech. Tech will be able to create new solutions (and new problems too).
+- Donate to renewable energies projects.
+- Insulate your house.
+- Use GMOs.
+- Vote with your wallet by buy environmentally conscious things from environmentally conscious and if possible, local companies.
+- Opt for long lasting products over ones you will have to replace quickly.
+- Avoid plastic products.
+- Plant plants and create gardens! Donate to organizations that save (better than planting new) trees.
+- Reduce meat consumption.
+- Donate to birth control projects.
+- Systemic problems need systemic solutions. We can't get there if everyone thinks they already "did their part" (turning off light switches, turning the thermostat down a degree, paper/metal straws, sorting recycling).
 
 ## Annual Review List
 
@@ -44,6 +46,10 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Journaling is a "keystone" habit. It tightly locks all of your other habits in place.
 - When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.
 - Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.
+- The development of a coherent narrative helps you reorganise and structure old memories, making them less traumatic.
+- Writing on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.
+- [Journaling is a tool you can use to better manage your mental health](https://nesslabs.com/dear-diary).
+- There are many methods. Start with a simple one like "What worked, what didn’t, what’s next".
 
 ## DNA Genetic Testing and Analysis
 
