@@ -41,6 +41,19 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * If you have multiple points in a text, number them to make replies easier.
 * Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots.
 
+## Resolving Disagreement
+
+A few assumptions are required to have a successfull disagreement:
+
+* Epistemic humility. "It's possible that I might be the one who's wrong, here".
+* Good faith. An assumption that people believe things for causal reasons.
+* Confidence in the existence of objective truth or a better position.
+* Curiosity and/or a desire to uncover truth.
+
+[Double crux]((https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement)) is great framework based on the previous assumptions.
+
+One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it’s easier to evaluate arguments like "we should do X before Y" than it is to converge on "X is better than Y".
+
 ### Blogging
 
 * Writing is Thinking. Writing things down helps clarifying ideas. One of the tests of whether you understand something is whether you can explain it to someone else. [Writing doesn't just communicate ideas; it generates them](http://www.paulgraham.com/writing44.html).
