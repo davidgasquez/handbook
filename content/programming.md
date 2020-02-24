@@ -105,6 +105,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 1. Iterate. Go back to the first point and change one thing at a time. It’s really hard to tell in advance what’s hard and what’s easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It’s possible, even common, for a week spent on modeling data to result in no improvement whatsoever.](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641)
 1. Explain your results in terms your audience cares about.
 
+
 ## [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 1. Separate subject from body with a blank line.
@@ -114,3 +115,14 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 1. Use the imperative mood in the subject line.
 1. Wrap the body at 72 characters.
 1. Use the body to explain what and why vs. how.
+
+## [How to make a good Pull Request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
+
+1. Include the purpose of the Pull Request.
+1. Provide an overview of why the work is taking place.
+1. Be explicit about what feedback you want, if any: a quick pair of :eyes: on the code, discussion on the technical approach, critique on design, a review of copy.
+1. [Offering feedback](https://mtlynch.io/human-code-reviews-1/)
+    1. Familiarize yourself with the context of the issue, and reasons why this Pull Request exists.
+    1. Ask, don’t tell.
+    1. Explain your reasons why code should be changed.
+    1. Be aware of negative bias with online communication. Can you use positive language as opposed to neutral?
