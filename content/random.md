@@ -24,9 +24,9 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Reduce, Reuse, Recycle. In that order.
 - Eat local to reduce costs of transportation.
 - Invest in new tech. Tech will be able to create new solutions (and new problems too).
-- Donate to renewable energies projects.
+- Use renewable energy. Donate to renewable energies projects.
 - Insulate your house.
-- Use GMOs.
+- [Use GMOs](https://www.bio.org/blogs/gmos-have-benefits-environment).
 - Vote with your wallet by buy environmentally conscious things from environmentally conscious and if possible, local companies.
 - Opt for long lasting products over ones you will have to replace quickly.
 - Avoid plastic products.
@@ -34,6 +34,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Reduce meat consumption.
 - Donate to birth control projects.
 - Systemic problems need systemic solutions. We can't get there if everyone thinks they already "did their part" (turning off light switches, turning the thermostat down a degree, paper/metal straws, sorting recycling).
+- [Individual actions aren't enought to improve the current state](https://www.youtube.com/watch?v=DYLWZPFEWTw).
 
 ## Annual Review List
 
