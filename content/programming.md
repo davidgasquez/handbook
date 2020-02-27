@@ -49,6 +49,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   Focusing in the 80% is far more efficient and cost-effective.
   Handle the 80% and let the 20% fend for themselves.
   80% of the impact comes from 20% of the work.
+  [Software is never finished, only abandoned](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/).
 
 * **Treat all the data as an event log**.
   Use a central log where consumers can subscribe to the relevant events.
@@ -105,7 +106,6 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 1. Iterate. Go back to the first point and change one thing at a time. It’s really hard to tell in advance what’s hard and what’s easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It’s possible, even common, for a week spent on modeling data to result in no improvement whatsoever.](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641)
 1. Explain your results in terms your audience cares about.
 
-
 ## [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 1. Separate subject from body with a blank line.
@@ -126,3 +126,8 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
     1. Ask, don’t tell.
     1. Explain your reasons why code should be changed.
     1. Be aware of negative bias with online communication. Can you use positive language as opposed to neutral?
+
+## Automation
+
+* Aim for automating all your job. A good way is to start writing a script that only prints out the steps required to do a task. You can replace these steps one by one and do the rest manually until they're all automated.
+* Automation is used for Precision, Stability and Speed. It reduce or eliminate human error and brings stability to a system.
