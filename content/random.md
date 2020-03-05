@@ -34,7 +34,8 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Reduce meat consumption.
 - Donate to birth control projects.
 - Systemic problems need systemic solutions. We can't get there if everyone thinks they already "did their part" (turning off light switches, turning the thermostat down a degree, paper/metal straws, sorting recycling).
-- [Individual actions aren't enought to improve the current state](https://www.youtube.com/watch?v=DYLWZPFEWTw).
+  - [Individual actions aren't enought to improve the current state](https://www.youtube.com/watch?v=DYLWZPFEWTw).
+  - [By focussing on the individuals, we miss the much bigger problem of climate change.](https://youtu.be/RSgXcFdHxFI?list=WL). Around 70% of emissions come for 100 companies. Push governments to transform the economy so individuals don't have all the pressure.
 
 ## Annual Review List
 
