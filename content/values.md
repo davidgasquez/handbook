@@ -12,6 +12,7 @@ Values are what you stand for in life — they are often things that you are for
 - [Mental models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.qmy99z6ug) can help us thinking more effectively and is always good to know argument fallacies.
 - Stress test your ideas with experiments and facts.
 - Live Smarter not Harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy time. Accomplish more with less.
+- Knowing more about the world makes you enjoy it more. [Understanding how music is made increases the pleasure you get from music](https://youtu.be/JbVfcZxfIZo?list=WL).
 
 ## Mindfulness
 
