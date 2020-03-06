@@ -73,6 +73,8 @@ Properties to look for in Systems:
 * Responsiveness. Know what the system is doing and make the feedback loop fast.
 * Some systems might benefics of being distributed
 
+To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/).
+
 ## Incentives
 
 Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.

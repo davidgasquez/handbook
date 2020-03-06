@@ -12,7 +12,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government).
 - If you think politics is annoying, then it's because you're privileged enough for it to not matter.
 
-### Voting Methods
+### [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
 - [No silver bullet](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem).
 - [Politics In The Animal Kingdom](http://www.cgpgrey.com/politics-in-the-animal-kingdom/) is a great summary of a few methods.
@@ -62,28 +62,6 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - How valuable it would be giving your DNA to a competent advertising company? They could be able to profile and predict users with significantly higher personal accuracy.
   - This is analogous to the 1800s when people disagreed over whether one should let a camera take your photo. Ff sequencing prices and mobility continue to advance at current rates, in 30 years your DNA could be sequenced thousands of times a day, everywhere you go in public (the same way you're recorded with security cameras).
 
-## Blockchain
-
-- [A blockchain is a decentralised database](https://www.youtube.com/watch?v=bBC-nXj3Ng4). Cryptocurrencies are a digital version of money protected by cryptography (Merkles Trees).
-  - Originally, currencies were actual precious metals, like gold and silver coins. For the sake of portability, these were replaced with bank notes. Pieces of paper which entitled the bearer to a certain quantity of precious metal if they presented them to the bank. That system is known as the gold standard.
-  - The gold standard was abandoned in the middle of the 20th century. Now we have "fiat money", which is money that has value simply because everyone agrees it has value. The biggest difference between 20 real dollars and 20 Monopoly dollars now is that you can use the real dollars to pay taxes.
-  - Now that we have an easy way to do consensus in the internet, cryptocurrencies are simply a digial version of money. When you buy Bitcoin you're using the Blockchain to tell it to everyone. If you're going to spend more than you have, everyone will be able to see it!
-- Proof of work is a mathematical problem that takes time to solve. Solving it proves that you've spent some time trying combinations until it worked. Proof of work creates scarcity. The blockchain knows that the miners are spending its time and resources on proving the mathematizal puzzles.
-- Ethereum serves as a platform (turing complete) to create (blockchain) apps the same way Android/iOS does on mobile.
-  - Its much more flexible than Bitcoin and that makes it riskier.
-- Forks in blockchain act like genetic mutations. The users will apply presusre and protocols will evolve.
-- [Fat Protocols](https://www.usv.com/writing/2016/08/fat-protocols/).
-  - On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are neccesary but not valuable. Value is captured by the apps.
-  - Fat protocols will use tools like blockchain to store the data. With open protocols and decentralized data, apps are only the frontend of the services.
-- Protocol and Open Source Funding.
-  - Open Source projects could have a protocol and incentive the economy. You could buy shares of Kubernetes, Tensorflow, ... or contribute to gain tokens. This incentivices contributing and helping people.
-- Governance.
-- Blockchains is useful when these conditions are met:
-  - The resource is scarce (limited).
-  - Fungible (there isn’t a difference between two items. eg. storing files). All the coins are mutually interchangeable.
-  - The resource can be provided by a lot of people.
-- Smart contracts can be defined as code that's replicated and executed on all the blockchain nodes.
-
 ## [Principles of Game Design](https://youtu.be/zaxAdRlyZQ8)
 
 1. Create concrete,achievable, and rewarding goals.
@@ -93,11 +71,3 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 1. Make the next action obvious.
 1. Give clear and inmmediate feedback with no distraction.
 1. Balance skills with challenge.
-
-## Productivity
-
-- Define the task requirements and goals clearly.
-- Do the worst thing first. Give yourself a reward once you're done.
-- Create smaller chunks. This helps getting in the flow (find the right balance between the challenge of the activity and your own skills levels). Avoid multitasking.
-- Leverage the power of positive pressure by publicly committing to your goals.
-- [Improve your environment](https://nesslabs.com/neuroscience-of-procrastination). Design your workspace in a way that minimises distractions, whether physical or digital.

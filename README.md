@@ -6,21 +6,21 @@ Personal bits of living knowledge. The goal of this handbook is to save insights
 
 ## Index
 
-* [Programming](content/programming.md)
+* [Animals](content/animals.md)
+* [Blockchain](content/blockchain.md)
+* [Communications](content/communications.md)
 * [Concepts](content/concepts.md)
-* [Feedback](content/feedback.md)
-* [Learning](content/learning.md)
+* [Fitness](content/fitness.md)
 * [Habits](content/habits.md)
+* [Handbooks](content/handbooks.md)
+* [Ideas](content/ideas.md)
+* [Learning](content/learning.md)
+* [Programming](content/programming.md)
+* [Quotes](content/quotes.md)
+* [Random](content/random.md)
 * [Teamwork](content/teamwork.md)
 * [Time](content/time.md)
 * [Values](content/values.md)
-* [Quotes](content/quotes.md)
-* [Ideas](content/ideas.md)
-* [Bookmarks](content/bookmarks.md)
-* [Handbooks](content/handbooks.md)
-* [Communications](content/communications.md)
-* [Fitness](content/fitness.md)
-* [Random](content/random.md)
 
 Please send a [Pull Request](https://github.com/davidgasquez/handbook/pulls) or [fill an issue](https://github.com/davidgasquez/handbok/issues) if you have any feedback!
 

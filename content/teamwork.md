@@ -69,4 +69,12 @@
   * Express what you see!
   * Identify and propose a solution. You should try to build consensus by demonstrating how your solution will resolve everyone’s concerns, not just your own.
   * Outline the benefits and advantages of your proposal.
-  * Understanding. Either nail down agreement on a next action or step, or work together to develop alternatives
+  * Understanding. Either nail down agreement on a next action or step, or work together to develop alternatives.
+
+## Links
+
+* [Remote Platforms List](https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview) - Lots of websites with remote job offers
+* Startups
+  * [Startup Playbook](https://playbook.samaltman.com/) - Some advice about startups from Sam Altman
+  * [Awesome Startup](https://github.com/KrishMunot/awesome-startup) - A curated list of awesome books, videos, courses and resources about making a startup
+  * [Make Handbook](https://makebook.io/) - Learn to bootstrap profitable startups the indie way

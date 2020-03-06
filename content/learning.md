@@ -31,3 +31,35 @@
 * Capture as much as possible. Your thoughts are more valuable than paper. Externalize what you learn. Once an idea is captured in a tangible form you can begin surveying and manipulating it.
 * Organize only after you capture. Filter, but don't delete irrelevant information. Computers are big enough to search and store everything. Make them manage it.
 * Synthesize into new meaning. Re-contextualize what you learn. This is the creative act. Experience becomes art, notes become a novel.
+
+## Links
+
+* [Khan Academy](https://khanacademy.org/) - Free and comprehensive early courses covering a wide range of topics
+* [Udacity](https://www.udacity.com/) - Online Courses for the digital economy
+* [Coursera](https://www.coursera.org/) - Online learning from the world’s best universities and companies
+* [Explorable Explanations](https://explorabl.es/) - A hub for learning through play
+* [Explained Visually](http://setosa.io/ev/) -  Experiment in making hard ideas intuitive using visualizations
+* [No Excuse List](http://noexcuselist.com/) - The best place on the web to learn anything, free
+
+### Computer Science
+
+* [Learn X in Y minutes](http://learnxinyminutes.com/) - Learn the basic of any language in Y minutes
+* [Exercism](http://exercism.io/) - Code practice and mentorship for everyone
+* [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/) - Cool visualizations of common algorithms used in Computer Science
+* [Hackr](http://hackr.io/) - Search for courses on any language, framework or programming topic
+* Hardware
+  * [GPUBoss](http://gpuboss.com/) - Compare graphics cards head to head
+  * [PC Part Picker](https://pcpartpicker.com/) - Build guides, which cover systems for all use-cases and budgets, or create your own and share it with our community
+  * [Logical Increments](http://www.logicalincrements.com/) - The PC builder's tier list
+
+### Others
+
+* [Hack Design](https://hackdesign.org/lessons) - Quick and simple lessons on dessign
+* [Better Explained](http://betterexplained.com/) - Math without endless memorization
+* [Seeing Theory](https://seeing-theory.brown.edu) - A visual introduction to probability and statistics
+* [Tuts+](https://tutsplus.com/) - Collection of How To tutorials on lots of topics
+* [Metaknowledge](https://github.com/RichardLitt/meta-knowledge) - A list of knowledge repositories from multiple people
+* Privacy
+  * [Reddit r/privacy  Wiki](https://www.reddit.com/r/privacy/wiki/index) - Guide to becoming more secure online
+  * [Privacy Tools](https://www.privacytools.io/) - Provides knowledge and tools to protect your privacy against global mass surveillance
+  * [Switching Social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to multiple tools
