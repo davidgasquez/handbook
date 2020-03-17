@@ -57,7 +57,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 
 - Companies like 23andMe look only at a few specific genomic coordinates that are known to be contain pathogenic variants, but chances are if you have the associated disease you don't have a variant at one of those few select locations. Because of this, [a negative test result does not mean someone isn't at risk for the condition](https://www.nytimes.com/interactive/2019/02/01/opinion/23andme-cancer-dna-test-brca.html).
 - If it says I don’t have something, then that means nothing. If it says I do have something, then that means I should be on the lookout for other corroborating data or symptoms.
-- You can retrieve information about your DNA variations at [Promethease](https://promethease.com/)
+- You can retrieve information about your DNA variations at [Promethease](https://promethease.com/). Other kind of data can be extracted with [dna.land](https://dna.land/) and [FoundMyMitness Genetics](https://www.foundmyfitness.com/genetics).
 - Genetic data may help people today, but it can also be sold to insurance companies.
 - How valuable it would be giving your DNA to a competent advertising company? They could be able to profile and predict users with significantly higher personal accuracy.
   - This is analogous to the 1800s when people disagreed over whether one should let a camera take your photo. Ff sequencing prices and mobility continue to advance at current rates, in 30 years your DNA could be sequenced thousands of times a day, everywhere you go in public (the same way you're recorded with security cameras).
@@ -71,3 +71,23 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 1. Make the next action obvious.
 1. Give clear and inmmediate feedback with no distraction.
 1. Balance skills with challenge.
+
+
+## [How To Do Hard Things](https://www.drmaciver.com/2019/05/how-to-do-hard-things/)
+
+It’s a useful conceptual framework for how to get better at things that you currently find difficult.
+
+- The Single-Loop System. Useful when you know what success looks like but cannot currently achieve it.
+  1. Find something that is _like_ the hard thing but is easy.
+  1. Modify the easy thing so that it is like the hard thing in exactly one way that you find hard.
+  1. Do the modified thing until it is no longer hard.
+  1. If you get stuck, do one of the following:
+    1. Go back to step 3 and pick a different way in which the problem is hard.
+    1. Recursively apply the general system for learning to do hard things to the thing you’re stuck on.
+    1. Go ask an expert or a rubber duck for advice.
+    1. If you’re still stuck after trying the first three, it’s possible that you may have hit some sort of natural difficulty limit and may not be able to make progress.
+  1. If the original hard thing is now easy, you’re done. If not, go back to step 2.
+- The Double-Loop System. When you don’t know what success looks like.
+  1. Apply the single loop system to the problem of improving your understanding of the problem space (e.g. consume lots of examples and learn to distinguish good from bad) in order to acquire a sense of good taste.
+  1. Apply the single loop system to the problem of doing well according to your own sense of good taste.
+  1. Get feedback on the result from others. Do they think you did it well? If yes, great! You’re good at the thing. If no, either improve your sense of taste or theirs. If you choose yours, go back to step 1 with the new example. If you choose theirs, apply the single loop system to the hard problem of convincing others that your thing is good.
