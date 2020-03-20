@@ -78,6 +78,15 @@
   * [Gitlab Communications](https://about.gitlab.com/handbook/communication/).
   * [Basecamp Communications](https://basecamp.com/guides/how-we-communicate).
 
+## [Writing a Roadmap](https://github.com/ipfs/team-mgmt/blob/master/ROADMAP_HOW_TO.md)
+
+* Gather Ideas: Collect inputs and data from across your project.
+* Draft top-level goals: Create a vision statement with the top problems you aim to solve. What is important to achieve? For whom? Why?
+* Chunk progress into milestones: Define the incremental targets to hit in order to accomplish the top-level goals. What must be true to reach this milestone? On what timeline? With what dependencies? What does this unlock?
+* Assign projects to milestones: Fill in key projects that are necessary, nice to have, and out of scope to reach those milestones and bucket them accordingly. Why is each project important to achieve that milestone? Which are highest priority? Do they have any dependencies? Approximate how hard/big is each project? (This likely involves iterating on or shuffling the milestones themselves based on capabilities/effort.)
+* Iterate iterate iterate: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you’re prioritizing the right work, which gaps or open questions you haven’t thought of yet.
+* Finalize: Get sign off on this version of the roadmap for the upcoming time window. Present it to cross-functional partners and start using it as a communication device to align effort, priorities, and cross-team information sharing.
+
 ## Links
 
 * [Remote Platforms List](https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview) - Lots of websites with remote job offers
