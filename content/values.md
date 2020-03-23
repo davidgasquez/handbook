@@ -26,13 +26,14 @@ Values are what you stand for in life — they are often things that you are for
 - See and enjoy everything as a child. Prefer delayed gratification, that is, making short term sacrifices to get long term benefits.
 - One task at a time. No distractions.
 - Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to make decisions and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you’ll face.
+- What would the best version of yourself do?
 
 ## Opennes
 
 - Embrace Weirdness. Don't be just another human. Find your place, do what you love and put yourself outside the comfort zone. Unexpected and unconventional things make life more interesting.
 - Embrace change. Don't complain about things you can't change. Be proactive.
 - Celebrate and encourage quirky gifts, habits, behavior, and points of view. No one can compete with you on being you.
-- Share your decisions and ideas so flaws arise earlier in the process. Maintain a very small identity. Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc.
+- Share your decisions and ideas so flaws arise earlier in the process. [Maintain a very small identity](http://www.paulgraham.com/identity.html). Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc.
 - One of the hardest excercises is to receive [feedback](communications.md#Feedback). Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
 - The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete.
   - The real world is analog—gray, amorphous, and endlessly nuanced. Real people are complex and flawed, full of faults but almost always worthy of compassion. Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out. Digitizing an analog view will result in some loss of information. Over-digitizing the real world is pretty bad idea. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros.

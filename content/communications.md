@@ -88,7 +88,7 @@ A few assumptions are required to have a successfull disagreement:
 
 [Double crux]((https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement)) is great framework based on the previous assumptions.
 
-One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it’s easier to evaluate arguments like "we should do X before Y" than it is to converge on "X is better than Y".
+One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Ask "What would need to be true for you to...". Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it’s easier to evaluate arguments like "we should do X before Y" than it is to converge on "X is better than Y".
 
 ### Blogging
 
