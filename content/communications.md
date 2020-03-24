@@ -90,6 +90,8 @@ A few assumptions are required to have a successfull disagreement:
 
 One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Ask "What would need to be true for you to...". Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it’s easier to evaluate arguments like "we should do X before Y" than it is to converge on "X is better than Y".
 
+Don't focus on proving yourself right, instead of focus on getting the best outcome.
+
 ### Blogging
 
 * Writing is Thinking. Writing things down helps clarifying ideas. One of the tests of whether you understand something is whether you can explain it to someone else. [Writing doesn't just communicate ideas; it generates them](http://www.paulgraham.com/writing44.html).

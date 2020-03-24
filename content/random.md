@@ -72,7 +72,6 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 1. Give clear and inmmediate feedback with no distraction.
 1. Balance skills with challenge.
 
-
 ## [How To Do Hard Things](https://www.drmaciver.com/2019/05/how-to-do-hard-things/)
 
 It’s a useful conceptual framework for how to get better at things that you currently find difficult.
@@ -82,10 +81,10 @@ It’s a useful conceptual framework for how to get better at things that you cu
   1. Modify the easy thing so that it is like the hard thing in exactly one way that you find hard.
   1. Do the modified thing until it is no longer hard.
   1. If you get stuck, do one of the following:
-    1. Go back to step 3 and pick a different way in which the problem is hard.
-    1. Recursively apply the general system for learning to do hard things to the thing you’re stuck on.
-    1. Go ask an expert or a rubber duck for advice.
-    1. If you’re still stuck after trying the first three, it’s possible that you may have hit some sort of natural difficulty limit and may not be able to make progress.
+    a. Go back to step 3 and pick a different way in which the problem is hard.
+    b. Recursively apply the general system for learning to do hard things to the thing you’re stuck on.
+    c. Go ask an expert or a rubber duck for advice.
+    d. If you’re still stuck after trying the first three, it’s possible that you may have hit some sort of natural difficulty limit and may not be able to make progress.
   1. If the original hard thing is now easy, you’re done. If not, go back to step 2.
 - The Double-Loop System. When you don’t know what success looks like.
   1. Apply the single loop system to the problem of improving your understanding of the problem space (e.g. consume lots of examples and learn to distinguish good from bad) in order to acquire a sense of good taste.

@@ -73,7 +73,7 @@ Properties to look for in Systems:
 * Responsiveness. Know what the system is doing and make the feedback loop fast.
 * Some systems might benefics of being distributed
 
-To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/).
+To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system.
 
 ## Incentives
 
