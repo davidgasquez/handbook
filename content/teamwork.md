@@ -28,9 +28,14 @@
       * How the team is performing and any people changes needed
       * Financial position of the company and review of metrics
   * Responsibilities
+  * Each thing should have a default place.
 * You can create a Handbook to put everything together. Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.
 * Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
+  * Search should be centralized. Keeping 4 tools causes scattered information.
+  * Link everything together.
+  * Basecamp does that using Basecamp, GitLab uses GitLab.
 * Aim to be a completely autonomous team. You build it, you run it!
+* Run [Automated Checkings](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
 * Build a culture of stopping to fix problems, to get quality right the first time.
 * Standardized tasks and processes are the foundation for continuous improvement and employee empowerment.
 * Someone should be the information hub. It helps connecting the dots that wouldn’t otherwise get connected.
