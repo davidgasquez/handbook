@@ -1,7 +1,8 @@
 
 # Blockchain
 
-- [A blockchain is a decentralised database](https://www.youtube.com/watch?v=bBC-nXj3Ng4). Cryptocurrencies are a digital version of money protected by cryptography (Merkles Trees).
+- [A blockchain is a decentralised database](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
+- Cryptocurrencies are a digital version of money protected by cryptography (Merkles Trees).
   - Originally, currencies were actual precious metals, like gold and silver coins. For the sake of portability, these were replaced with bank notes. Pieces of paper which entitled the bearer to a certain quantity of precious metal if they presented them to the bank. That system is known as the gold standard.
   - The gold standard was abandoned in the middle of the 20th century. Now we have "fiat money", which is money that has value simply because everyone agrees it has value. The biggest difference between 20 real dollars and 20 Monopoly dollars now is that you can use the real dollars to pay taxes.
   - Now that we have an easy way to do consensus in the internet, cryptocurrencies are simply a digial version of money. When you buy Bitcoin you're using the Blockchain to tell it to everyone. If you're going to spend more than you have, everyone will be able to see it!
