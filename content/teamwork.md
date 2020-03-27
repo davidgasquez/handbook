@@ -8,7 +8,7 @@
 * Define the culture and values. [Culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md) is simply a shared way of doing something with passion. Culture is created and re-created by the choices made by individuals every day. It can be reshaped by conscious effort applied gently, subtly, and consistently.
   * Make the right thing to do the easiest thing to do.
   * Solve problems by fixing the environment that allowed them to occur.
-  * Times change, trends change, cultures change.
+  * Times change, trends change, cultures change. Make it explicit.
 * Work in the open and document everything.
   * Processes
     * Write status updates
