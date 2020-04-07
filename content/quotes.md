@@ -16,3 +16,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * You cannot answer a question that you cannot ask, and you cannot ask a question that you have no words for. Judea Pearl.
 * [The mind is its own place, and in itself can make a heaven of hell, a hell of heaven](https://youtu.be/RPicL1AWrs8?list=WL).
 * There's no love in a carbon atom, No hurricane in a water molecule, No financial collapse in a dollar bill. Peter Dodds.
+* All models are wrong, but some are useful. George Box.
