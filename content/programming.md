@@ -135,3 +135,10 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 
 * Aim for automating all your job. A good way is to start writing a script that only prints out the steps required to do a task. You can replace these steps one by one and do the rest manually until they're all automated.
 * Automation is used for Precision, Stability and Speed. It reduce or eliminate human error and brings stability to a system.
+
+## Resources
+
+* [Semantic Versioning](https://semver.org/)
+* [Documentation Guide](https://www.writethedocs.org/guide/#)
+* [Formatting your README](https://guides.github.com/features/wikis/#Formatting-a-readme)
+* [Open Source Guides](https://opensource.guide/)
