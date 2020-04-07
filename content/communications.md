@@ -40,6 +40,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * Divide things into small chunks.
 * If you have multiple points in a text, number them to make replies easier.
 * Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots.
+* You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
 
 ## Feedback
 

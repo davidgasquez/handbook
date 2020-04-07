@@ -13,6 +13,7 @@ A mental model is a thought process about how something works in the real world.
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.vvrgpsu13)
 * [Useful Models](http://www.defmacro.org/2016/12/22/models.html)
 * [The Big Mental Models](https://jamesclear.com/mental-models)
+* [Julian Spahiro's Mental Models](https://www.julian.com/blog/mental-model-examples)
 
 ## Conceptual Compression
 
@@ -63,7 +64,11 @@ Properties to look for in Processes:
 * Low Friction. Simple processes are easier to understand and apply.
 * Short Feedback Loop. Show the results as soon as you can.
 
-A process takes an input to produce an output. A bunch of precesses can be view as a System. Systems archieve goals.
+A process takes an input to produce an output. A bunch of processes can be view as a System.
+
+## Systems
+
+A system is anything with multiple parts that depend on each other. In other words, every machine and activity is a system on some level. Systems archieve goals.
 
 Properties to look for in Systems:
 
@@ -74,6 +79,8 @@ Properties to look for in Systems:
 * Some systems might benefics of being distributed
 
 To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it.
+
+A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
 ## Incentives
 
