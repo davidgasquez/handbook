@@ -92,7 +92,7 @@ It’s a useful conceptual framework for how to get better at things that you cu
   1. Apply the single loop system to the problem of doing well according to your own sense of good taste.
   1. Get feedback on the result from others. Do they think you did it well? If yes, great! You’re good at the thing. If no, either improve your sense of taste or theirs. If you choose yours, go back to step 1 with the new example. If you choose theirs, apply the single loop system to the hard problem of convincing others that your thing is good.
 
-## Signaling
+## [Signaling](https://julian.digital/2020/03/28/signaling-as-a-service/)
 
 - Most of our everyday actions can be traced back to some form of signaling or status seeking
   - A classic example of this would be a luxury watch: A Rolex isn’t better at telling the time than a cheap Casio – but a Rolex signals something about its owner’s economic power and thus their social standing.
@@ -102,7 +102,3 @@ It’s a useful conceptual framework for how to get better at things that you cu
   - Signal Distribution: The method of distributing the signal message.
   - Signal Amplification: How do you make sure your message stand out?
 - Software perfectly complements physical goods by distributing their signal messages at scale. Maximizing scale, however, prevents it from monetizing said distribution. This is why social media services are free to use. The added signaling value is solely captured by the physical products that are being shared.
-
-### Resources
-
-- [Signaling as a Service](https://julian.digital/2020/03/28/signaling-as-a-service/)

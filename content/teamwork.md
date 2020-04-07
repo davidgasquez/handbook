@@ -46,6 +46,7 @@
 * Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships.
 * Strive for constructive conflict. Get people to ask questions. Engage in passionate, unfiltered debate about what you need to do to succeed.
 * Encourage to fail. Failing is good if the team learn from it!
+* Encourage effectiveness. Find ways to free up your time.
 * Push relentlessly toward automation.
   * Investigate where \(and how\) processes and tasks could be automated, and understanding the costs of automating them.
 * A company may be looked as a combination of 3 things:
