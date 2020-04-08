@@ -23,6 +23,10 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 
 ## Making Decisions
 
+* The decisions you make fall into two categories:
+  * Prioritizing — Which path should you take first?
+  * Allocating — How much attention, time, and capital should you spend on this?
+* To maximize your long-term happiness, prioritize the projects you’d most regret not having pursued by the time you’re old and looking back at your life.
 * Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy.
 * If all options are similar take the harder one in the short term \(_Hard decisions easy life, easy decisions, hard life_\).
 * Look for win-win decisions. If someone has to lose, you’re not thinking hard enough or you need to make structural/environmental changes.
@@ -78,7 +82,11 @@ Properties to look for in Systems:
 * Responsiveness. Know what the system is doing and make the feedback loop fast.
 * Some systems might benefics of being distributed
 
-To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it.
+To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. A good approach is to:
+
+  1. Start by identifying the highest-leverage level to optimize at: Ask whether you’re optimizing the machine or a cog within it.
+  2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system’s inputs is constraining its other inputs from achieving a greater total output.
+  3. Re-examine the system from the ground up. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
 A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 

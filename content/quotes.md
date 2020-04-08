@@ -17,3 +17,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * [The mind is its own place, and in itself can make a heaven of hell, a hell of heaven](https://youtu.be/RPicL1AWrs8?list=WL).
 * There's no love in a carbon atom, No hurricane in a water molecule, No financial collapse in a dollar bill. Peter Dodds.
 * All models are wrong, but some are useful. George Box.
+* Relax, no one else knows what they're doing either. Ricky Gervais.
