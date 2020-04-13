@@ -110,6 +110,8 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 1. Iterate. Go back to the first point and change one thing at a time. It’s really hard to tell in advance what’s hard and what’s easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It’s possible, even common, for a week spent on modeling data to result in no improvement whatsoever.](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641)
 1. Explain your results in terms your audience cares about.
 
+[Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006). Reports are rarely read, and often forgotten. Decision-making involves (1) getting data, (2) summarizing and predicting, and (3) taking action. Continuous decision-making -- the kind that leads to impact -- involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, [your impact is tough to measure — data doesn’t always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html).
+
 ## [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 1. Separate subject from body with a blank line.
