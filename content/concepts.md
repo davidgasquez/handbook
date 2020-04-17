@@ -33,6 +33,7 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 * The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
 * Ask what information would cause you to change your mind. If you don’t have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
 * How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can’t take back, then it’s worth really, really understanding.
+* A way to detect bias and minimize the decision impact is to [run it by a bias checklist](https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T).
 
 ## [Problem Solving](http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/)
 

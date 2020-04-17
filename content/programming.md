@@ -138,6 +138,15 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 * Aim for automating all your job. A good way is to start writing a script that only prints out the steps required to do a task. You can replace these steps one by one and do the rest manually until they're all automated.
 * Automation is used for Precision, Stability and Speed. It reduce or eliminate human error and brings stability to a system.
 
+## Databases
+
+* As in any other place, stick to a naming convention to keep things sane.
+* Follow a SQL style guide.
+  * [Kickstarter's SQL Style Guide](https://gist.github.com/fredbenenson/7bb92718e19138c20591)
+  * [Meadmaker's SQL Style Guide](https://github.com/meadmaker/sql-style-guide)
+  * [SQL Style Guide](https://www.sqlstyle.guide/)
+
+
 ## Resources
 
 * [Semantic Versioning](https://semver.org/)
