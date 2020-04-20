@@ -23,6 +23,7 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 
 ## Making Decisions
 
+* Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It’s basically a problem-solving activity, and it can be more or less rational or irrational based on the decision maker’s values, beliefs, and (perceived) knowledge.
 * The decisions you make fall into two categories:
   * Prioritizing — Which path should you take first?
   * Allocating — How much attention, time, and capital should you spend on this?
@@ -34,6 +35,18 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 * Ask what information would cause you to change your mind. If you don’t have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
 * How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can’t take back, then it’s worth really, really understanding.
 * A way to detect bias and minimize the decision impact is to [run it by a bias checklist](https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T).
+* [There are many reasons why smart people may make a poor decision](https://nesslabs.com/decision-making); Overconfidence, Analysis paralysis, Information overload, Lack of emotional or physical resources, ...
+* Decision making styles:
+  * Intuitive vs. Rational. System 1 vs System 2.
+  * Maximising vs. Satisficing. Go for the optimal decisionor simply try to find a solution that is good enough.
+  * Well defined goal vs. blurred objective. Planning all the details or trying to be as flexible as possible.
+* How to make smart decisions once you have the data (DECIDE framework):
+  1. Define the problem. Understand the problem at hand.
+  1. Establish the criteria. List all the factors you want to consider before making a decision.
+  1. Consider the alternatives. Do enough research to have a few solid alternatives.
+  1. Identify the best alternative. See which alternative makes most sense based on your criteria.
+  1. Develop and implement a plan of action. Act on that decision.
+  1. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get.
 
 ## [Problem Solving](http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/)
 
