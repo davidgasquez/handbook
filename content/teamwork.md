@@ -43,7 +43,8 @@
 * Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you’re trying to do when requesting help.
 * How to drive change: find people who agree on the problem, start small, experiment, scale, repeat.
 * [Brainstorm for questions first. Then find the answers.](https://getpocket.com/explore/item/better-brainstorming)
-* Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships.
+* Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships. [Don't try to optimize that number or it'll be gamed](https://www.fast.ai/2019/09/24/metrics/).
+* Data can be valuable in helping us understand the world, test hypotheses, and move beyond gut instincts or hunches. Metrics can be useful when they are in their proper context and place.
 * Strive for constructive conflict. Get people to ask questions. Engage in passionate, unfiltered debate about what you need to do to succeed.
 * Encourage to fail. Failing is good if the team learn from it!
 * Encourage effectiveness. Find ways to free up your time.
