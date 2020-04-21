@@ -150,7 +150,6 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
   * [Meadmaker's SQL Style Guide](https://github.com/meadmaker/sql-style-guide)
   * [SQL Style Guide](https://www.sqlstyle.guide/)
 
-
 ## Resources
 
 * [Semantic Versioning](https://semver.org/)
