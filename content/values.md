@@ -10,7 +10,7 @@ Values are what you stand for in life — they are often things that you are for
 - Practice rational thinking. Make sure you understand that the absolute truth is relative to everyone and you don't know everything. We do not know what we don't know. Gather as much context as you can before making any final statement. Avoid forming an opinion at all about things that are not evident.
   - Research deeply before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
   - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
-- Run your brain in debug mode so you understand why you're thinking in that way.
+- Run your brain in debug mode so you understand why you're thinking in that way. Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is (probably) continuous. 
 - [Mental models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.qmy99z6ug) and [other concepts](concepts.md) can help us thinking more effectively and is always good to know argument fallacies.
 - Stress test your ideas with experiments and facts.
 - Live Smarter not Harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md). Accomplish more with less.
