@@ -61,6 +61,7 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 * [Problem solving can be understood as a search problem](https://rs.io/the-science-of-problem-solving/). You start in some state, there’s a set of neighbor states you can move to, and a final state that you would like to end up in.
 * Taking breaks during working on a problem solving is called incubation. Incubation enhances problem solving ability.
 * To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others.
+* Aim for a Minimum Viable Solution. **Start small and iterate**. Fail early and learn from it. That allows you to explore, then exploit.
 
 ## Processes
 
