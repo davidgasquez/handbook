@@ -25,6 +25,7 @@
 ## Links
 
 - [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Great list of crypto readings and resources
+  - [Undersanding Crypto](https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)- Learn more about cryptocurrencies
 - [Trading View](https://www.tradingview.com/markets/cryptocurrencies/) - Crypto charts
 - [Messari](https://messari.io/) - Curated insights, markets data, and research to crypto's pioneers
 - [ProtoSchool](https://proto.school/) - Interactive tutorials on decentralized web protocols

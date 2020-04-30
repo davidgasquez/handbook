@@ -22,9 +22,9 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 
 * Try to use the active voice whenever possible.
 * Keep in mind your style:
-  * **Be concise**. Understand the topic you’re writing about. Use simple words and sentences.
+  * **Be concise**. Understand the topic you’re writing about. Use simple words and sentences. Put the most important things first.
   * **Be Useful**. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
-  * **Be specific**. Avoid vague language. Cut the fluff. Delete unnecessary words.
+  * **Be specific**. Avoid vague language. Cut the fluff. Delete unnecessary words. Say what you mean.
   * **Be consistent**.
   * **Add rythm**. Vary the sentence lenght to break the monotony.
 * [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro)
