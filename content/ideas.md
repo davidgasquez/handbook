@@ -51,3 +51,9 @@ A few personal random ideas.
 - People could access the data with a simple CLI (`./opendata get "user/dataset:version") or HTTPS endpoint (`opendata.com/user/dataset:version`).
 - Declarative way of defining the dataset schema and other properties aswell as the relations.
 - Datasets should also be exposed in other places like Google Dataset Search.
+
+## City Discovery
+
+- Create an activity similar to a gymkhana mixed with escape room. Players have to solve riddles and puzzzles while learning about the city and its history. 
+- There might be digital and real life puzzles.
+- Clues might be scattered across many checkpoints with actors as "NPC"s to guide the players.
