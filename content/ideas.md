@@ -52,8 +52,19 @@ A few personal random ideas.
 - Declarative way of defining the dataset schema and other properties aswell as the relations.
 - Datasets should also be exposed in other places like Google Dataset Search.
 
+## Personal Knowledge Base
+
+- Replaces this handbook
+- Bidirectional links that helps creating a knowledge graph.
+  - Everything is a graph. Nodes could also be smaller graphs. Our brain is a graph, but these pages are not.
+- Light weight
+- Automatically syncs and has all the history changes (similar to git)
+- Works offline
+- Creates notes/nodes as fast as possible
+- Can be made public
+
 ## City Discovery
 
-- Create an activity similar to a gymkhana mixed with escape room. Players have to solve riddles and puzzzles while learning about the city and its history. 
+- Create an activity similar to a gymkhana mixed with escape room. Players have to solve riddles and puzzzles while learning about the city and its history.
 - There might be digital and real life puzzles.
 - Clues might be scattered across many checkpoints with actors as "NPC"s to guide the players.
