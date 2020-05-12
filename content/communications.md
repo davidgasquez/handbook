@@ -17,6 +17,8 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   * Avoid trying to respond immediately and allow the other person time to finish speaking.
   * Don't answer your phone while speaking with someone in real life. If the real life conversation starts, has precedence over the asynchronous ones.
 * Aim to make liberal use of the _you_ pronoun.
+* No matter how correct you are, you won't get anywhere by making the other person feel stupid.
+* Favor interrogative-led questions over leading questions. A leading question attempts to get the listener to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. "Did you like the movie?" vs "What did you think about the movie?".
 
 ## Writting
 
@@ -39,7 +41,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * Use second-person and describe actions to a user. Technical content talks to users when support agents can’t.
 * Divide things into small chunks.
 * If you have multiple points in a text, number them to make replies easier.
-* Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots.
+* Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601).
 * You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
 
 ## Feedback
@@ -104,3 +106,4 @@ Don't focus on proving yourself right, instead of focus on getting the best outc
 * [You are best positioned to help people one step behind you](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045). The material is still fresh in your mind. Many experts have forgotten what it was like to be a beginner and have forgotten why the topic is hard to understand when you first hear it. The context of your particular background, your particular style, and your knowledge level will give a different twist to what you’re writing about.
 * [Share unoriginal ideas](https://guzey.com/personal/why-have-a-blog/). Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn’t come up with these ideas otherwise.
 * Start with Why. Start with a question. Write the first flawed answer that comes to mind. Write the first question or objection that comes to mind from that answer. Write the first response that comes to mind from that, ...
+* [Writing creates a cache](https://twitter.com/eugeneyan/status/1256828203840073728). The cache (i.e., documents) scales data availability. eople can access the cache instead of going to you.
