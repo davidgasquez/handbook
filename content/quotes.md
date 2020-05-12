@@ -19,3 +19,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * All models are wrong, but some are useful. George Box.
 * Relax, no one else knows what they're doing either. Ricky Gervais.
 * When you view the world as a series of outputs, you form opinions. But when you view the world as a series of systems, you form strategies. Channing Allen.
+* I hate that man. I must get to know him better. Abraham Lincoln.
