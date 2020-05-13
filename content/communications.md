@@ -29,7 +29,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   * **Be specific**. Avoid vague language. Cut the fluff. Delete unnecessary words. Say what you mean.
   * **Be consistent**.
   * **Add rythm**. Vary the sentence lenght to break the monotony.
-* [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro)
+* [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro) The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are.
 * Have solid Schemas. This allows you to remove the clutter and avoid confusion:
   * Define a clear thesis.
   * Support your thesis with arguments.

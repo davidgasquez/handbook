@@ -6,7 +6,7 @@ A logical fallacy is a flaw in reasoning. Logical fallacies are like tricks or i
 
 ## Mental Models
 
-A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems \(a personal algorithm\). Millions of mental models exists, and every discipline has their own set. Some of them overlap and might be called differently.
+A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems \(a personal algorithm\). The world always makes sense. But it can be confusing. When it is, your model of the world is wrong. Millions of mental models exists, and every discipline has their own set. Some of them overlap and might be called differently.
 
 * [Mental Models: The Best Way to Make Intelligent Decisions](https://www.farnamstreetblog.com/mental-models/)
 * [A Searching and Fearless Intellectual Inventory](https://www.facebook.com/notes/kent-beck/a-searching-and-fearless-intellectual-inventory/1179765038723025)
@@ -62,6 +62,7 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 * Taking breaks during working on a problem solving is called incubation. Incubation enhances problem solving ability.
 * To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others.
 * Aim for a Minimum Viable Solution. **Start small and iterate**. Fail early and learn from it. That allows you to explore, then exploit.
+* When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away ([Via Negativa](https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/)). For example, the foods you avoid are more important than the foods you eat.
 
 ## Processes
 
@@ -93,11 +94,11 @@ Properties to look for in Systems:
 
 * Modular.
   * Loosely coupling. Breaking a chair shouldn't break the dinner!
-  * Having multiple parts also allows systems to develop emergent properties.
+  * Having multiple parts also allows systems to develop emergent properties. When things interact, they often birth new, unpredictable forms. The sum total of a system is more than its competent parts.
 * Responsiveness. Know what the system is doing and make the feedback loop fast.
 * Some systems might benefics of being distributed
 
-To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. A good approach is to:
+To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. A good approach is to:
 
   1. Start by identifying the highest-leverage level to optimize at: Ask whether you’re optimizing the machine or a cog within it.
   2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system’s inputs is constraining its other inputs from achieving a greater total output.
@@ -108,5 +109,7 @@ A mental model of a system is the reduction of how it works. The model cuts thro
 ## Incentives
 
 Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
+
+_"Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior"._ Dee Hock.
 
 To reach a goal, reduce friction or increase incentives/rewards.

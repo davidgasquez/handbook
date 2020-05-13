@@ -18,6 +18,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   Build a prototype as soon as possible to get a sense of the entire process.
   Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
   Apply small improvements at each iteration.
+  Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
   [The computer is a machine, but a codebase is an organism](https://meltingasphalt.com/a-codebase-is-an-organism/).
 
 * **Choose portability over efficiency**.

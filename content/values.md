@@ -7,7 +7,7 @@ Values are what you stand for in life — they are often things that you are for
 - Never stop [learning](learning.md). Read about topics you care, observe the world around you, don't be afraid to ask silly questions and test your assumptions as many times as possible. Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
 - Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your idea doesn't work out, the community will have learned better why that approach doesn't make sense.
 - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. Everyone's making it up as they go along. Figure it out yourself, and do it.
-- Practice rational thinking. Make sure you understand that the absolute truth is relative to everyone and you don't know everything. We do not know what we don't know. Gather as much context as you can before making any final statement. Avoid forming an opinion at all about things that are not evident.
+- Practice rational thinking. Make sure you understand that the absolute truth is relative to everyone and you don't know everything. We do not know what we don't know. Gather as much context as you can before making any final statement. Avoid forming an opinion at all about things that are not evident. Your opinions are not yours and they are holding you back.
   - Research deeply before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
   - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
 - Run your brain in debug mode so you understand why you're thinking in that way. Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is (probably) continuous.
@@ -23,7 +23,7 @@ Values are what you stand for in life — they are often things that you are for
 - Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Happiness is a choice.
 - KISS. When communicating, do it in a clear and concise way. When facing a problem, prefer a **lean** approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions.
 - Remove friction. Focus on essentials.
-- Keep Calm. Think, understand, and listen before speaking. Try to plan the possible outcomes and don't rush. Don't worry too much about things that won't matter to you or your loved ones in 10 years.
+- Keep Calm. Think, understand, and listen before speaking. Try to plan the possible outcomes and don't rush. Don't worry too much about things that won't matter to you or your loved ones in 10 years. Assume positive intent. No one is your enemy, you're an NPC in their game. Every person is inherently valuable independent of behavior and beliefs.
 - See and enjoy everything as a child. Prefer delayed gratification, that is, making short term sacrifices to get long term benefits.
 - One task at a time. No distractions.
 - Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to make decisions and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you’ll face.
