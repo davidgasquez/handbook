@@ -11,6 +11,10 @@ There are many handbooks, wikis or documents where people share knowledge. The f
 * [Basecamp](https://github.com/basecamp/handbook)
 * [Loomio](https://github.com/loomio/loomio-coop-handbook)
 * [Madetech](https://github.com/madetech/handbook)
+* [MarsBased](https://github.com/MarsBased/handbook)
+* [Source{d}](https://github.com/src-d/guide)
+* [Bonusly](https://github.com/bonusly/un-handbook)
+* [Nylas](https://github.com/nylas/handbook)
 
 ## Personal Handbooks
 
