@@ -7,10 +7,11 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - To debate politics as in any other field, first gather information and then decide. [Think like a scientist](https://waitbutwhy.com/2019/09/thinking-ladder.html).
 - Think of it as a complex system. Everything is related and has unexpected consequences.
 - Don’t attach to any movement so it doesn’t become part of your identity. Arguments are soldiers. Once you attach to one side, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side.
-- It’s just better to discuss issues without invoking teams.
-- Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on precached ideology.
+- Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on precached ideology. It’s just better to discuss issues without invoking teams.
 - Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government).
 - If you think politics is annoying, then it's because you're privileged enough for it to not matter.
+- Don't forget two things: your perception of reality has probably been at least a little manipulated, and your opponents are behaving the way they are based on a perception of reality that’s different from your own.
+  - What does this look/feel like to the people I don't know?
 
 ### [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
@@ -102,3 +103,17 @@ It’s a useful conceptual framework for how to get better at things that you cu
   - Signal Distribution: The method of distributing the signal message.
   - Signal Amplification: How do you make sure your message stand out?
 - Software perfectly complements physical goods by distributing their signal messages at scale. Maximizing scale, however, prevents it from monetizing said distribution. This is why social media services are free to use. The added signaling value is solely captured by the physical products that are being shared.
+
+## Social Media
+
+- Internet algorithms are profit-maximizing mechanisms that want to spoon feed me whatever I’m most likely to click on. This is a win-win, symbiotic relationship—until it’s not. When the algorythm is luring in your primitive mind against you, the relationship is parasitic. [The algorythm will learn to show thing that will further confirm and strengthen your existing viewpoints](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles).
+- Most of our newsfeeds are insular networks made up of people who get their info from the same filter bubble we do.
+- Social media provides an unfortunate filter: it dumbs down complex information. [Ideas don’t pass perfectly from one person to another the way a virus does. Like a game of Telephone, the message gets mutated with each re-telling…so, over time, ideas ‘evolve’ to be more catchy, copy-able, contagious.](https://ncase.me/crowds/)
+
+## News
+
+- A scam is like a virus that converts trust into cynicism, but it’s the news, in the name of keeping things entertaining and addictive, that distributes the virus across the whole country. News's incentive is to cherry-pick stories that spread fast and people love to read anger or scam news.
+- Portraying [a society where everyone hates each other](https://ncase.itch.io/wbwwb) is the most dangerous virus of all, because it becomes a self-fulfilling prophecy. Nothing spreads faster than anger. Especially anger in the specific format, ["Just look at how awful the people we hate are"](https://www.youtube.com/watch?v=rE3j_RHkqJc).
+- If our perceptions of reality are increasingly informed by media with other-than-truth motivations, we’ll increasingly lose our handle on the truth.
+- We’re losing our ability to think together. Communities can only think when people talk and when they’re free to say what they really think. As echo chambers grow larger and more intimidating, people inside them are afraid to defy the sacred narrative. And the more all-encompassing political identities become, the more topics turn from kickable machines to precious infants. Meanwhile, intergroup communication suffers even more, as opposing groups become totally unable to collaborate on ideas.
+- A polarized country that isn’t capable of building broad coalitions can’t take forward steps—it can only self-inflict.
