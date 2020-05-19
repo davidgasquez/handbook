@@ -1,5 +1,7 @@
 
-# Blockchain
+# Decentralization
+
+## Blockchain
 
 - [A blockchain is a decentralised database](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
 - Cryptocurrencies are a digital version of money protected by cryptography (Merkles Trees).
@@ -22,7 +24,7 @@
   - The resource can be provided by a lot of people.
 - Smart contracts can be defined as code that's replicated and executed on all the blockchain nodes.
 
-## Links
+### Links
 
 - [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Great list of crypto readings and resources
   - [Undersanding Crypto](https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)- Learn more about cryptocurrencies
@@ -36,3 +38,10 @@
 - Interesting Projects
   - [Augur](https://www.augur.net/) - A prediction market protocol owned and operated by the people that use it
   - [Aragon](https://aragon.org/) - Platform that lets you freely organize and collaborate without borders or intermediaries
+
+## Federated Networks
+
+- Traditional social applications like Twitter, Facebook, and Instagram operate on a client-server model. As the user, all your interactions go through a single company’s servers. In a federated network, users are still interacting with a server, but anyone can run a server that interoperates with others in the network, giving users more providers to choose from.
+- This gives users more choices for applications, policies, and community cultures. Email is an example of a federated protocol that everyone on the internet uses. Gmail is a popular email application, but if you use a different provider you can still communicate with anyone with an email address.
+- Federated networks provide a familiar user experience, since users do not have to bear full responsibility for their account credentials, and can interact with content the way they’re used to.
+- On the downside, a federated protocol might be slow to adapt while a centralized service is able to iterate into the modern world and beyond. WhatsApp was able to introduce end-to-end encryption to over a billion users with a single software update (email is still not end-to-end encrypted). Federated services always seem to coalesce around a provider (or instance) that the bulk of people use, federation becomes a sort of implicit threat. [An open source infrastructure for a centralized network now provides almost the same level of control as federated protocols, without giving up the ability to adapt. If a centralized provider with an open source infrastructure ever makes horrible changes, those that disagree have the software they need to run their own alternative instead. It may not be as beautiful as federation, but at this point it seems that it will have to do.](https://signal.org/blog/the-ecosystem-is-moving/)

@@ -7,9 +7,9 @@ Personal bits of living knowledge. The goal of this handbook is to save insights
 ## Index
 
 * [Animals](content/animals.md)
-* [Blockchain](content/blockchain.md)
 * [Communications](content/communications.md)
 * [Concepts](content/concepts.md)
+* [Decentralization](content/decentralization.md)
 * [Fitness](content/fitness.md)
 * [Habits](content/habits.md)
 * [Handbooks](content/handbooks.md)
