@@ -97,7 +97,7 @@ It’s a useful conceptual framework for how to get better at things that you cu
 
 - Most of our everyday actions can be traced back to some form of signaling or status seeking
   - A classic example of this would be a luxury watch: A Rolex isn’t better at telling the time than a cheap Casio – but a Rolex signals something about its owner’s economic power and thus their social standing.
-- Our brains deliberately hide this fact from us and others (self deception)
+- Our brains deliberately hide this fact from us and others (self deception).
 - Signaling can be broken down into different components:
   - Signal Message: This is whatever (hidden) subtext you are trying to convey.
   - Signal Distribution: The method of distributing the signal message.
@@ -117,3 +117,12 @@ It’s a useful conceptual framework for how to get better at things that you cu
 - If our perceptions of reality are increasingly informed by media with other-than-truth motivations, we’ll increasingly lose our handle on the truth.
 - We’re losing our ability to think together. Communities can only think when people talk and when they’re free to say what they really think. As echo chambers grow larger and more intimidating, people inside them are afraid to defy the sacred narrative. And the more all-encompassing political identities become, the more topics turn from kickable machines to precious infants. Meanwhile, intergroup communication suffers even more, as opposing groups become totally unable to collaborate on ideas.
 - A polarized country that isn’t capable of building broad coalitions can’t take forward steps—it can only self-inflict.
+
+## COVID-19
+
+- [Covid-19, your community, and you — a data science perspective](https://www.fast.ai/2020/03/09/coronavirus)
+- [Coronavirus Pandemic Statistics and Research](https://ourworldindata.org/coronavirus)
+- [Flatten The Curve](https://www.flattenthecurve.com/)
+- [Flatten The Curve](https://www.flattenthecurve.com/)
+- As someone said, social distancing measures to work must be done when it seems to be overreacting. And if they work, it will seem as if we overreacted.
+- [The Basic Dance Steps Everybody Can Follow](https://medium.com/@tomaspueyo/coronavirus-the-basic-dance-steps-everybody-can-follow-b3d216daa343)
