@@ -18,6 +18,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   * Don't answer your phone while speaking with someone in real life. If the real life conversation starts, has precedence over the asynchronous ones.
 * Aim to make liberal use of the _you_ pronoun.
 * No matter how correct you are, you won't get anywhere by making the other person feel stupid.
+* Ask for help instead of demanding it.
 * Favor interrogative-led questions over leading questions. A leading question attempts to get the listener to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. "Did you like the movie?" vs "What did you think about the movie?".
 
 ## Writting
@@ -84,7 +85,7 @@ All feedback is good feedback. If you agree with it, it tells you something abou
 A few assumptions are required to have a successfull disagreement:
 
 * Epistemic humility. "It's possible that I might be the one who's wrong, here".
-* Good faith. An assumption that people believe things for causal reasons.
+* Good faith. An assumption that people believe things for causal reasons. Assume good intentions.
 * Confidence in the existence of objective truth or a better position.
 * Curiosity and/or a desire to uncover truth.
 * As much data as possible to backup claims.
@@ -94,6 +95,7 @@ A few assumptions are required to have a successfull disagreement:
 One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Ask "What would need to be true for you to...". Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it’s easier to evaluate arguments like "we should do X before Y" than it is to converge on "X is better than Y".
 
 Don't focus on proving yourself right, instead of focus on getting the best outcome.
+Keep the conversation simple and summarise the conversation during the discussion.
 
 ### Blogging
 
@@ -107,3 +109,7 @@ Don't focus on proving yourself right, instead of focus on getting the best outc
 * [Share unoriginal ideas](https://guzey.com/personal/why-have-a-blog/). Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn’t come up with these ideas otherwise.
 * Start with Why. Start with a question. Write the first flawed answer that comes to mind. Write the first question or objection that comes to mind from that answer. Write the first response that comes to mind from that, ...
 * [Writing creates a cache](https://twitter.com/eugeneyan/status/1256828203840073728). The cache (i.e., documents) scales data availability. eople can access the cache instead of going to you.
+
+## Resources
+
+* [Effective Communications](https://gist.github.com/flopezluis/8b79555b1337e139a9f1d276a42e0019)
