@@ -98,7 +98,9 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
     * Columns are either deleted or added but never renamed
 * Create a few extra columns like `processed_at` or `schema_version`
 
-## Data Science Projects
+## Data Science
+
+### Projects
 
 1. Frame the problem. Define a clear and concise objective.
 1. Get the data.
@@ -112,6 +114,13 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 1. Explain your results in terms your audience cares about.
 
 [Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006). Reports are rarely read, and often forgotten. Decision-making involves (1) getting data, (2) summarizing and predicting, and (3) taking action. Continuous decision-making -- the kind that leads to impact -- involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, [your impact is tough to measure — data doesn’t always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html).
+
+### Resources
+
+* [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
+* [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+* [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
+* [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)
 
 ## [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
@@ -142,6 +151,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
   1. Document the steps. Following a step-by-step guide is automation: you are the CPU.
   1. Create automation equivalents. Add command-line snippets to replace steps.
   1. Create automation. Create a script that runs everything.
+* Makefiles are a great way to document and consolidate different projects of a team. Each project should have a `make` that runs it, and perhaps a `make deploy` to deploy it. Language and tool independent!
 
 ## Databases
 
@@ -157,3 +167,6 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 * [Documentation Guide](https://www.writethedocs.org/guide/#)
 * [Formatting your README](https://guides.github.com/features/wikis/#Formatting-a-readme)
 * [Open Source Guides](https://opensource.guide/)
+* [Github Badges](https://shields.io/)
+
+####
