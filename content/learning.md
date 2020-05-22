@@ -48,6 +48,10 @@
 * [Learn X in Y minutes](http://learnxinyminutes.com/) - Learn the basic of any language in Y minutes
 * [Exercism](http://exercism.io/) - Code practice and mentorship for everyone
 * [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/) - Cool visualizations of common algorithms used in Computer Science
+* [Google Developers Codelabs](https://codelabs.developers.google.com/) - Guided, tutorial, hands-on coding experience on Google Products.
+* [Google AI Hub](https://aihub.cloud.google.com/u/0/) - Learn, build and share notebooks, models, and other AI components.
+* [Katacoda](https://www.katacoda.com/) - Learn new technologies using real environments
+right in your browser.
 * [Hackr](http://hackr.io/) - Search for courses on any language, framework or programming topic
 * Hardware
   * [GPUBoss](http://gpuboss.com/) - Compare graphics cards head to head

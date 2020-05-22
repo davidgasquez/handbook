@@ -33,7 +33,7 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 * Look for win-win decisions. If someone has to lose, you’re not thinking hard enough or you need to make structural/environmental changes.
 * The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
 * Ask what information would cause you to change your mind. If you don’t have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
-* How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can’t take back, then it’s worth really, really understanding.
+* How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can’t take back, then it’s worth really, really understanding. Aim for preserving optionality.
 * A way to detect bias and minimize the decision impact is to [run it by a bias checklist](https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T).
 * [There are many reasons why smart people may make a poor decision](https://nesslabs.com/decision-making); Overconfidence, Analysis paralysis, Information overload, Lack of emotional or physical resources, ...
 * Decision making styles:
@@ -98,11 +98,11 @@ Properties to look for in Systems:
 * Responsiveness. Know what the system is doing and make the feedback loop fast.
 * Some systems might benefics of being distributed
 
-To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. A good approach is to:
+To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. A good approach (similar to natural selection) is to:
 
   1. Start by identifying the highest-leverage level to optimize at: Ask whether you’re optimizing the machine or a cog within it.
-  2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system’s inputs is constraining its other inputs from achieving a greater total output.
-  3. Re-examine the system from the ground up. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
+  2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system’s inputs is constraining its other inputs from achieving a greater total output. Make incremental changes.
+  3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
 A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
