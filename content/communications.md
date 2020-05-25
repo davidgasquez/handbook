@@ -18,6 +18,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   * Don't answer your phone while speaking with someone in real life. If the real life conversation starts, has precedence over the asynchronous ones.
 * Aim to make liberal use of the _you_ pronoun.
 * No matter how correct you are, you won't get anywhere by making the other person feel stupid.
+* Not being annoying is more important than being smart.
 * Ask for help instead of demanding it.
 * Favor interrogative-led questions over leading questions. A leading question attempts to get the listener to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. "Did you like the movie?" vs "What did you think about the movie?".
 
