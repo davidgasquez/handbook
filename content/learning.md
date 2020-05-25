@@ -26,7 +26,7 @@
 * Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.
 * Use spaced repetition. Make cards that are [atomic, connected and meaningful](https://ncase.me/remember/).
 * [Test your knowledge easly and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL).
-* Develop strategies instead of procedures. Do this by interleaving different problems.
+* Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
 
 ## [Capture, Organize, Synthesize](http://gordonbrander.com/pattern/capture-organize-synthesize/)
 

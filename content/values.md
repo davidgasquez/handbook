@@ -4,7 +4,7 @@ Values are what you stand for in life — they are often things that you are for
 
 ## Curiousity
 
-- Never stop [learning](learning.md). Read about topics you care, observe the world around you, don't be afraid to ask silly questions and test your assumptions as many times as possible. Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
+- Never stop [learning](learning.md). Read about topics you care, observe the world around you, keep a beginner's mind (shoshin), don't be afraid to ask silly questions and test your assumptions as many times as possible. Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
 - Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your idea doesn't work out, the community will have learned better why that approach doesn't make sense.
 - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. Everyone's making it up as they go along. Figure it out yourself, and do it.
 - Practice rational thinking. Make sure you understand that the absolute truth is relative to everyone and you don't know everything. We do not know what we don't know. Gather as much context as you can before making any final statement. Avoid forming an opinion at all about things that are not evident. Your opinions are not yours and they are holding you back.

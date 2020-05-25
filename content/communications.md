@@ -109,6 +109,14 @@ Keep the conversation simple and summarise the conversation during the discussio
 * [Share unoriginal ideas](https://guzey.com/personal/why-have-a-blog/). Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn’t come up with these ideas otherwise.
 * Start with Why. Start with a question. Write the first flawed answer that comes to mind. Write the first question or objection that comes to mind from that answer. Write the first response that comes to mind from that, ...
 * [Writing creates a cache](https://twitter.com/eugeneyan/status/1256828203840073728). The cache (i.e., documents) scales data availability. eople can access the cache instead of going to you.
+* For long-form content, the [diamond model](https://dropbox.design/article/mental-models-for-designers) works great for putting a structure around your main idea.
+  1. Attention: Start with a story, statistic, or something similar
+  1. Main topic: Briefly introduce the main topic you’ll cover
+  1. Previews: Give quick previews of your subtopics
+  1. Subtopics: Go into depth with your subtopics
+  1. Summaries: Recap your subtopics
+  1. Conclusion: Paint an ideal vision of the future
+  1. Call to action: Invite your audience to act or make a decision
 
 ## Resources
 
