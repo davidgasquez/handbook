@@ -10,7 +10,7 @@ Personal bits of living knowledge. The goal of this handbook is to save insights
 * [Communications](content/communications.md)
 * [Concepts](content/concepts.md)
 * [Decentralization](content/decentralization.md)
-* [Fitness](content/fitness.md)
+* [Health](content/health.md)
 * [Habits](content/habits.md)
 * [Handbooks](content/handbooks.md)
 * [Ideas](content/ideas.md)
