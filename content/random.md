@@ -52,6 +52,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.
 - The development of a coherent narrative helps you reorganise and structure old memories, making them less traumatic.
 - Writing on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.
+- Premeditatio malorum. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.
 - [Journaling is a tool you can use to better manage your mental health](https://nesslabs.com/dear-diary).
 - There are many methods. Start with a simple one like "What worked, what didn’t, what’s next".
 
@@ -112,11 +113,11 @@ It’s a useful conceptual framework for how to get better at things that you cu
 
 ## News
 
-- A scam is like a virus that converts trust into cynicism, but it’s the news, in the name of keeping things entertaining and addictive, that distributes the virus across the whole country. News's incentive is to cherry-pick stories that spread fast and people love to read anger or scam news.
 - Portraying [a society where everyone hates each other](https://ncase.itch.io/wbwwb) is the most dangerous virus of all, because it becomes a self-fulfilling prophecy. Nothing spreads faster than anger. Especially anger in the specific format, ["Just look at how awful the people we hate are"](https://www.youtube.com/watch?v=rE3j_RHkqJc).
 - If our perceptions of reality are increasingly informed by media with other-than-truth motivations, we’ll increasingly lose our handle on the truth.
 - We’re losing our ability to think together. Communities can only think when people talk and when they’re free to say what they really think. As echo chambers grow larger and more intimidating, people inside them are afraid to defy the sacred narrative. And the more all-encompassing political identities become, the more topics turn from kickable machines to precious infants. Meanwhile, intergroup communication suffers even more, as opposing groups become totally unable to collaborate on ideas.
 - A polarized country that isn’t capable of building broad coalitions can’t take forward steps—it can only self-inflict.
+- News are incentivized to cherry-pick stories that spread fast. For example, scam news. A scam is like a virus that converts trust into cynicism, but it’s the news, in the name of keeping things entertaining and addictive, that distributes the virus across the whole country.
 
 ## COVID-19
 
