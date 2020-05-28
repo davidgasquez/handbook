@@ -31,15 +31,25 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 1. Frame the problem. Define a clear and concise objective.
 1. Get the data.
 1. Explore the data.
-1. Define metrics.
+1. Define metrics. Explain and verify any assumption.
 1. Make the data tidy.
 1. Model the data. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be your [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa).
 1. Make sure everything works end to end. Deploy the model.
+  1. Add a clear description of the model.
 1. Make results reproducible (code, environment and data).
 1. Iterate. Go back to the first point and change one thing at a time. It’s really hard to tell in advance what’s hard and what’s easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It’s possible, even common, for a week spent on modeling data to result in no improvement whatsoever.](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641)
 1. Explain your results in terms your audience cares about.
 
 [Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006). Reports are rarely read, and often forgotten. Decision-making involves (1) getting data, (2) summarizing and predicting, and (3) taking action. Continuous decision-making -- the kind that leads to impact -- involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, [your impact is tough to measure — data doesn’t always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html).
+
+### [Machine Learning Technical Debt](https://matthewmcateer.me/blog/machine-learning-technical-debt)
+
+Tech debt is an analogy for the long-term buildup of costs when engineers make design choices for speed of deployment over everything else. Fixing technical debt can take a lot of work.
+
+* Tack data dependencies.
+* Version the datasets.
+* Make sure your data isn’t all noise and no signal by making sure your model is at least capable of overfitting.
+* Use [reproducibility checklists when releasing code](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).
 
 ### Analysis Requests
 
