@@ -16,6 +16,8 @@ These steps might be helpful when building habits:
 
 Cognitive inertia is the reason that changing our habits can be difficult. The default is always the path of least resistance, which is easy to accept and harder to question. The important thing about inertia is that it is only the initial push that is difficult. After that, progress tends to be smoother.
 
+Use forcing functions to your advantage. A forcing function is any task, activity or event that forces you to take action and produce a result.
+
 ## Themes
 
 To better accomplish positive life change, [give yourself a theme](https://youtu.be/NVGuFdX5guE). A theme will be easy to follow and will impact your daily actions. Resolutions give us the feeling of failure, themes gives us chances to apply them. A good theme can't fail. Just having a theme in your mind will change the way you think. You'll notice paths that weren't there before. Broad themes gives flexibility. Pick a broad directional idea that resonates with you and run with it. Themes can be as long or short as you need. These are some theme ideas:
