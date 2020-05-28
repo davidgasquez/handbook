@@ -106,6 +106,14 @@ To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking
 
 A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
+### Antifragility
+
+Antifragility is a property of systems that increase in capability, resilience, or robustness as a result of stressors, shocks, volatility, noise, mistakes, faults, attacks, or failures.
+
+It's fundamentally different from the concepts of resiliency (ability to recover from failure) and robustness (ability to resist failure).
+
+Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same. The antifragile gets better.
+
 ## Incentives
 
 Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
