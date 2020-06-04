@@ -15,6 +15,7 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 * Do the tasks in the right order! One strategy might be starting with the one that could make the others irrelevant or easiers.
 * Doing one thing requires giving up another. Whenever you explicitly choose to do one thing, you implicitly choose not to do another thing.
 * Work expands to fill the time available. If you have six months to complete a task, it will take six months to complete. That's [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law).
+* When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter.
 
 ## Productivity
 
