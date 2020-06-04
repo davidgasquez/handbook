@@ -1,11 +1,12 @@
 # Values
 
-Values are what you stand for in life — they are often things that you are for or against — what you believe in and are willing to support and stand up for. Values make you even if you don't know what are yours. These are the values I try to stand for. **Curious, Mindful and Open**.
+Values are what you stand for in life — they are often things that you are for or against — what you believe in and are willing to support and stand up for. Values make you even if you don't know what are yours. You are what you do. Not what you say, not what you believe, not how you vote, but what you spend your time on. These are the values I try to stand for. **Curious, Mindful and Open**.
 
 ## Curiousity
 
 - Never stop [learning](learning.md). Read about topics you care, observe the world around you, keep a beginner's mind (shoshin), don't be afraid to ask silly questions and test your assumptions as many times as possible. Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
 - Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your idea doesn't work out, the community will have learned better why that approach doesn't make sense.
+- Don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
 - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. Everyone's making it up as they go along. Figure it out yourself, and do it.
 - Practice rational thinking. Make sure you understand that the absolute truth is relative to everyone and you don't know everything. We do not know what we don't know. Gather as much context as you can before making any final statement. Avoid forming an opinion at all about things that are not evident. Your opinions are not yours and they are holding you back.
   - Research deeply before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
