@@ -13,12 +13,15 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * Encourage others to talk about themselves.
 * Speak slow and naturally.
 * Remove filler words.
-* Learn to listen. Listening is difficult because it involves suppressing your ego long enough to consider what is being said before you respond. Forget your agenda. Don't have internal monologue.
+* Learn to listen. Being able to listen well is a superpower. Listening is difficult because it involves suppressing your ego long enough to consider what is being said before you respond. Forget your agenda. Don't have internal monologue.
   * Avoid trying to respond immediately and allow the other person time to finish speaking.
   * Don't answer your phone while speaking with someone in real life. If the real life conversation starts, has precedence over the asynchronous ones.
+  * While listening to someone you love keep asking them "Is there more?", until there is no more.
 * Aim to make liberal use of the _you_ pronoun.
+  * The more you are interested in others, the more interesting they find you. To be interesting, be interested.
 * No matter how correct you are, you won't get anywhere by making the other person feel stupid.
-* Not being annoying is more important than being smart.
+* Not being annoying is more important than being smart. Aim to make friends.
+  * [Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat.](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 * Ask for help instead of demanding it.
 * Favor interrogative-led questions over leading questions. A leading question attempts to get the listener to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. "Did you like the movie?" vs "What did you think about the movie?".
 
@@ -43,7 +46,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * Use second-person and describe actions to a user. Technical content talks to users when support agents can’t.
 * Divide things into small chunks.
 * If you have multiple points in a text, number them to make replies easier.
-* Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601).
+* Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601). Separate the processes of creation from improving. You can’t write and edit.
 * You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
 
 ## Feedback
@@ -118,6 +121,14 @@ Keep the conversation simple and summarise the conversation during the discussio
   1. Summaries: Recap your subtopics
   1. Conclusion: Paint an ideal vision of the future
   1. Call to action: Invite your audience to act or make a decision
+* For [short-form content](https://sivers.org/7):
+  1. Write all your thoughts on a subject.
+  1. Argue against those ideas.
+  1. Explore different angles.
+  1. Leave it for a few days or years, then repeat those steps.
+  1. Hate how messy these thoughts have become.
+  1. Reduce them to a tiny outline of the key points.
+  1. Post the outline. Trash the rest.
 
 ## Resources
 
