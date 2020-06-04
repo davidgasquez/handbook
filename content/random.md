@@ -127,3 +127,14 @@ It’s a useful conceptual framework for how to get better at things that you cu
 - [Flatten The Curve](https://www.flattenthecurve.com/)
 - As someone said, social distancing measures to work must be done when it seems to be overreacting. And if they work, it will seem as if we overreacted.
 - [The Basic Dance Steps Everybody Can Follow](https://medium.com/@tomaspueyo/coronavirus-the-basic-dance-steps-everybody-can-follow-b3d216daa343)
+
+## Investing
+
+- Today's savings buy tomorrow's liberty. Think long term.
+- Saving money and investing money are both good habits. Small amounts of money invested regularly for many decades without deliberation is one path to wealth.
+
+## Thought Experiments
+
+A thought experiment is a device with which one performs an intentional, structured process of intellectual deliberation in order to speculate, within a specifiable problem domain, about potential consequents (or antecedents) for a designated antecedent (or consequent). A few interesting ones:
+
+- [Experience Machine](https://en.m.wikipedia.org/wiki/Experience_machine).
