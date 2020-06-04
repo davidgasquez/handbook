@@ -20,3 +20,6 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * Relax, no one else knows what they're doing either. Ricky Gervais.
 * When you view the world as a series of outputs, you form opinions. But when you view the world as a series of systems, you form strategies. Channing Allen.
 * I hate that man. I must get to know him better. Abraham Lincoln.
+* You enjoy a trip three times. Getting ready for it, while traveling and when you remember it. Good memories appreciate over time!
+* Extraordinary claims require extraordinary evidence. Carl Sagan.
+* The rabbit runs faster than the fox, because the rabbit is running for his life while the fox is only running for his dinner. Richard Dawkins.
