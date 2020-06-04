@@ -23,3 +23,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * You enjoy a trip three times. Getting ready for it, while traveling and when you remember it. Good memories appreciate over time!
 * Extraordinary claims require extraordinary evidence. Carl Sagan.
 * The rabbit runs faster than the fox, because the rabbit is running for his life while the fox is only running for his dinner. Richard Dawkins.
+* Where all think alike, no one thinks very much. Walter Lippmann.

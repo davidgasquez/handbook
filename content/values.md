@@ -29,6 +29,7 @@ Values are what you stand for in life — they are often things that you are for
 - One task at a time. No distractions.
 - Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to make decisions and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you’ll face.
 - What would the best version of yourself do?
+- Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You’re born, you have a whole set of sensory experiences… and then you die. How you choose to interpret that is up to you. And you do have that choice.
 
 ## Opennes
 

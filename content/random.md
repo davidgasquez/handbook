@@ -110,6 +110,7 @@ It’s a useful conceptual framework for how to get better at things that you cu
 - Internet algorithms are profit-maximizing mechanisms that want to spoon feed me whatever I’m most likely to click on. This is a win-win, symbiotic relationship—until it’s not. When the algorythm is luring in your primitive mind against you, the relationship is parasitic. [The algorythm will learn to show thing that will further confirm and strengthen your existing viewpoints](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles).
 - Most of our newsfeeds are insular networks made up of people who get their info from the same filter bubble we do.
 - Social media provides an unfortunate filter: it dumbs down complex information. [Ideas don’t pass perfectly from one person to another the way a virus does. Like a game of Telephone, the message gets mutated with each re-telling…so, over time, ideas ‘evolve’ to be more catchy, copy-able, contagious.](https://ncase.me/crowds/)
+- Your information diet is nearly as important as your food diet.
 
 ## News
 
