@@ -14,6 +14,7 @@ A mental model is a thought process about how something works in the real world.
 * [Useful Models](http://www.defmacro.org/2016/12/22/models.html)
 * [The Big Mental Models](https://jamesclear.com/mental-models)
 * [Julian Spahiro's Mental Models](https://www.julian.com/blog/mental-model-examples)
+* [Mental models for designers](https://dropbox.design/article/mental-models-for-designers)
 
 ## Conceptual Compression
 
@@ -34,7 +35,7 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 * The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
 * Ask what information would cause you to change your mind. If you don’t have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
 * How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can’t take back, then it’s worth really, really understanding. Aim for preserving optionality.
-* A way to detect bias and minimize the decision impact is to [run it by a bias checklist](https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T).
+* We are all susceptible to bias, almost all the time. A way to detect bias and minimize the decision impact is to [run it by a bias checklist](https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T).
 * [There are many reasons why smart people may make a poor decision](https://nesslabs.com/decision-making); Overconfidence, Analysis paralysis, Information overload, Lack of emotional or physical resources, ...
 * Decision making styles:
   * Intuitive vs. Rational. System 1 vs System 2.
