@@ -15,6 +15,7 @@ A mental model is a thought process about how something works in the real world.
 * [The Big Mental Models](https://jamesclear.com/mental-models)
 * [Julian Spahiro's Mental Models](https://www.julian.com/blog/mental-model-examples)
 * [Mental models for designers](https://dropbox.design/article/mental-models-for-designers)
+* [Mental Models Box](https://www.mentalmodelsbox.com/explore)
 
 ## Conceptual Compression
 
@@ -122,3 +123,8 @@ Incentives matter. Everything around you is driven by incentives. There are rare
 _"Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior"._ Dee Hock.
 
 To reach a goal, reduce friction or increase incentives/rewards.
+
+## Resources
+
+* [Tools for better thinking](https://untools.co/): Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
+*
