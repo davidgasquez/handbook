@@ -62,6 +62,7 @@ A tool and framework to manage knowledge. This will allow compound learning and 
   - Nodes are notes or smaller graphs.
   - Bidirectional links connecting nodes.
   - Nodes could have several parents.
+  - Users can remix and connect ideas in multiple overlapping hierarchies.
 - [Each concept could be linked to external content (video, book, audio)](https://www.notion.so/Models-bb0f4bfd3cd140b3a00cd955e61003f9).
   - Content should have tags (related concepts)
 - Can be made public.
