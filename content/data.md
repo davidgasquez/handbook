@@ -67,3 +67,5 @@ Tech debt is an analogy for the long-term buildup of costs when engineers make d
 * [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)
 * [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html)
 * [Guides for Visualizing Reality](https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/)
+* [Model Interpretability](https://ff06-2020.fastforwardlabs.com/)
+  * [Diverse Counterfactuals](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)
