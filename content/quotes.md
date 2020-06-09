@@ -24,3 +24,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * Extraordinary claims require extraordinary evidence. Carl Sagan.
 * The rabbit runs faster than the fox, because the rabbit is running for his life while the fox is only running for his dinner. Richard Dawkins.
 * Where all think alike, no one thinks very much. Walter Lippmann.
+* Every step and every movement of the multitude, even in what are termed enlightened ages, are made with equal blindness to the future; and nations stumble upon establishments, which [are indeed the result of human action, but not the execution of any human design](https://en.wikipedia.org/wiki/Spontaneous_order). Adam Ferguson.

@@ -13,6 +13,7 @@ Values are what you stand for in life — they are often things that you are for
 - Run your brain in debug mode so you understand why you're thinking in that way. Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is (probably) continuous.
 - Mental models and [other concepts](concepts.md) can help us think more effectively and is always good to know argument fallacies.
 - Stress test your ideas with experiments and facts. Everything you know or do could be wrong.
+- Remix ideas. Ideas are impacted by evolution. The most useful ones survive and evolve. [Innovation is product of the combinations of ideas](https://youtu.be/XUAIIQFoufs?list=WL).
 - Live Smarter not Harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md). Accomplish more with less.
 - Knowing more about the world makes you enjoy it more. [Understanding how music is made increases the pleasure you get from music](https://youtu.be/JbVfcZxfIZo?list=WL).
   - [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail). Surprising detail is a near universal property of getting up close and personal with reality. You experience lots of these details the first time you do something new!

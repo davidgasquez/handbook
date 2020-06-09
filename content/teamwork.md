@@ -38,7 +38,7 @@
 * Run [Automated Checkings](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
 * Build a culture of stopping to fix problems, to get quality right the first time.
 * Standardized tasks and processes are the foundation for continuous improvement and employee empowerment.
-* Standardization should be based on tooling and automation.
+* Standardization should be based on tooling and [automation](programming.md#automation).
 * Someone should be the information hub. It helps connecting the dots that wouldn’t otherwise get connected.
 * Write postmortems after large incidents. This will create a feedback loop to guide learning about what happened and how it can be avoided next time.
 * Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you’re trying to do when requesting help.

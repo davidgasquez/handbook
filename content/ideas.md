@@ -48,7 +48,7 @@ A few personal random ideas.
 - The main abstractions are `datasets` and `relations`. Both can be updated, forked and discussed like git repositories.
 - Permissionless. People should be able to add new dataset or relation. The main ones will be curated by the community.
 - Built on top of a distributed file system (IPFS, ...) and with incentives to increase collaboration (cryptocurrency, bounties, and other forms of open source funding).
-- People could access the data with a simple CLI (`./opendata get "user/dataset:version") or HTTPS endpoint (`opendata.com/user/dataset:version`).
+- People could access the data with a simple CLI (`./opendata get "user/dataset:version")` or HTTPS endpoint (`opendata.com/user/dataset:version`).
 - Declarative way of defining the dataset schema and other properties aswell as the relations.
 - Datasets should also be exposed in other places like Google Dataset Search.
 
