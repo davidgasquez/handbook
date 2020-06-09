@@ -54,14 +54,19 @@ A few personal random ideas.
 
 ## Personal Knowledge Base
 
-- Replaces this handbook
-- Bidirectional links that helps creating a knowledge graph.
-  - Everything is a graph. Nodes could also be smaller graphs. Our brain is a graph, but these pages are not.
-- Light weight
-- Automatically syncs and has all the history changes (similar to git)
-- Works offline
-- Creates notes/nodes as fast as possible
-- Can be made public
+A tool and framework to manage knowledge. This will allow compound learning and make it easier to discover new abstractions or connections between concepts. These are the key properties of my ideal PKB (could replace this handbook):
+
+- Simple, Open Source and multiplatform. Works offline and has a backup mechanism similar to git.
+- Focus on capturing ideas and content as fast as possible.
+- Should be managed as a graph:
+  - Nodes are notes or smaller graphs.
+  - Bidirectional links connecting nodes.
+  - Nodes could have several parents.
+- [Each concept could be linked to external content (video, book, audio)](https://www.notion.so/Models-bb0f4bfd3cd140b3a00cd955e61003f9).
+  - Content should have tags (related concepts)
+- Can be made public.
+
+- What if instead of building the tool, we started with the standard and let other tools (Roam, Notion, Obsidian) use that?
 
 ## City Discovery
 
