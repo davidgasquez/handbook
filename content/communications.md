@@ -2,7 +2,7 @@
 
 > To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others — Tony Robbins
 
-Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, discussion, education, and many more. Communication is a skill that is learnable. Reading is the inhale, writing is the exhale. Breathe.
+Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, discussion, education, and many more. Communication is a skill that is learnable.
 
 ## Talking
 
@@ -129,6 +129,7 @@ Keep the conversation simple and summarise the conversation during the discussio
   1. Hate how messy these thoughts have become.
   1. Reduce them to a tiny outline of the key points.
   1. Post the outline. Trash the rest.
+* Reading is the inhale, writing is the exhale. Breathe.
 
 ## Resources
 
