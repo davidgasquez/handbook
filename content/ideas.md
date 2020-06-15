@@ -66,6 +66,7 @@ A tool and framework to manage knowledge. This will allow compound learning and 
 - [Each concept could be linked to external content (video, book, audio)](https://www.notion.so/Models-bb0f4bfd3cd140b3a00cd955e61003f9).
   - Content should have tags (related concepts)
 - Can be made public.
+- Personal Knowledge bases can be personal [ontologies with similar core components (individuals, classes, attirubtes, relationsm, ...)](https://en.wikipedia.org/wiki/Ontology_components).
 
 - What if instead of building the tool, we started with the standard and let other tools (Roam, Notion, Obsidian) use that?
 
