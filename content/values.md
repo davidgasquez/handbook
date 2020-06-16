@@ -21,15 +21,15 @@ Values are what you stand for in life — they are often things that you are for
 ## Mindfulness
 
 - Enjoy Life. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful about it and practice [mindfulness](https://youtu.be/hQo-CQzoW24).
-- Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Happiness is a choice.
-- KISS. When communicating, do it in a clear and concise way. When facing a problem, prefer a **lean** approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions.
+- Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Happiness is a choice. Explore your mind.
+- KISS. When communicating, do it in a clear and concise way. When facing a problem, prefer a **lean** approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions. What would this look like if it was simple?
 - Remove friction. Focus on essentials.
 - Keep Calm. Think, understand, and listen before [communicating](communications.md). Try to plan the possible outcomes and don't rush. Don't worry too much about things that won't matter to you or your loved ones in 10 years. Assume positive intent. No one is your enemy, you're an NPC in their game. Every person is inherently valuable independent of behavior and beliefs.
 - See and enjoy everything as a child. Prefer delayed gratification, that is, making short term sacrifices to get long term benefits.
 - One task at a time. No distractions.
 - Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to make decisions and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you’ll face.
 - What would the best version of yourself do?
-- Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You’re born, you have a whole set of sensory experiences… and then you die. How you choose to interpret that is up to you. And you do have that choice.
+- Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You’re born, you have a whole set of sensory experiences… and then you die. How you choose to interpret that is up to you. And you do have that choice. Our internal state shapes how we experience the external state.
 
 ## Opennes
 
