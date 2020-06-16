@@ -118,9 +118,10 @@ It’s a useful conceptual framework for how to get better at things that you cu
 - If our perceptions of reality are increasingly informed by media with other-than-truth motivations, we’ll increasingly lose our handle on the truth.
 - We’re losing our ability to think together. Communities can only think when people talk and when they’re free to say what they really think. As echo chambers grow larger and more intimidating, people inside them are afraid to defy the sacred narrative. And the more all-encompassing political identities become, the more topics turn from kickable machines to precious infants. Meanwhile, intergroup communication suffers even more, as opposing groups become totally unable to collaborate on ideas.
 - A polarized country that isn’t capable of building broad coalitions can’t take forward steps—it can only self-inflict.
-- News are incentivized to cherry-pick stories that spread fast. For example, scam news. A scam is like a virus that converts trust into cynicism, but it’s the news, in the name of keeping things entertaining and addictive, that distributes the virus across the whole country.
+- The news also bias the layperson’s perception of risk. The very fact that bad events are rare these days, makes them newsworthy. With a large sample size, unusual tragedies happen daily, and they end up on the news nightly. For example, car crashed might cause more damage than other events like floodings or fires.
+  - News are incentivized to cherry-pick stories that spread fast. For example, scam news. A scam is like a virus that converts trust into cynicism, but it’s the news, in the name of keeping things entertaining and addictive, that distributes the virus across the whole country.
 - [News programs are, with the exception of a few non-profit or publicly funded ones, commercial enterprises designed to turn and maximize profit](https://www.mrmoneymustache.com/2013/10/01/the-low-information-diet/).
-  - The profit comes from advertising, and advertising revenue is maximized by pulling the largest audience, holding their attention for the longest possible time, and putting them into the mental state most conducive to purchasing the products of the advertisers (which turns out to be helplessness and vulnerability). This is why the news always starts out with a sensationalist take on a topic of at least plausible national interest, takes a detour into truly horrific and depressing irrelevant tragedies is one that unfortunately crossed my screen when doing research for this article), then ends on an uplifting note with something like a defiant entrepreneur or a caring soup kitchen. An emotional roller-coaster ride every day of the week.
+  - The profit comes from advertising, and advertising revenue is maximized by pulling the largest audience, holding their attention for the longest possible time, and putting them into the mental state most conducive to purchasing the products of the advertisers (which turns out to be helplessness and vulnerability). This is why the news always starts out with a sensationalist take on a topic of at least plausible national interest, takes a detour into truly horrific and depressing irrelevant tragedies is one that unfortunately crossed my screen when doing research for this article), then ends on an uplifting note with something like a defiant entrepreneur or a caring soup kitchen. An emotional roller-coaster ride every day of the week. They don't explore solutions.
 
 ## COVID-19
 
@@ -140,3 +141,10 @@ It’s a useful conceptual framework for how to get better at things that you cu
 A thought experiment is a device with which one performs an intentional, structured process of intellectual deliberation in order to speculate, within a specifiable problem domain, about potential consequents (or antecedents) for a designated antecedent (or consequent). A few interesting ones:
 
 - [Experience Machine](https://en.m.wikipedia.org/wiki/Experience_machine).
+
+## House Buying
+
+- Be clear about why you're buying a home. Every large decision you have to make about home ownership should somewhat tie in to this.
+- Look at houses based on the life style you have not the life style you aspire to have.
+- Research nearby future facilities. Schools, shopping malls, coffe shops, transportation, ...
+- Treat it as an asset. Think for how much it'll sell.
