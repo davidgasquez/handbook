@@ -40,6 +40,7 @@
 * Standardized tasks and processes are the foundation for continuous improvement and employee empowerment.
 * Standardization should be based on tooling and [automation](programming.md#automation).
 * Someone should be the information hub. It helps connecting the dots that wouldn’t otherwise get connected.
+* Meetings should be as short, focused, and small as possible.
 * Write postmortems after large incidents. This will create a feedback loop to guide learning about what happened and how it can be avoided next time.
 * Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you’re trying to do when requesting help.
 * How to drive change: find people who agree on the problem, start small, experiment, scale, repeat.
