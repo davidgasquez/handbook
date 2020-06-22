@@ -53,6 +53,7 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 ## [Problem Solving](http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/)
 
 * Problems have multiple solutions at multiple levels.
+* Humans get obsessed with solutions rather than first building an obsession with a problem. Obsess around problems, not solutions.
 * Most of the time problems already have solutions:
   * The first group of people that encounter a problem don't know how to solve it.
   * They figure out a way of doing it, and when they get to a solution that's good enough \(not perfect, just good enough\), that's what they settle on.
