@@ -70,7 +70,11 @@
 ## Communication
 
 * Use [common techniques](https://github.com/davidgasquez/handbook/blob/master/content/communications.md) and be friendly.
-* Prefer asynchronous communications.
+* Prefer asynchronous communications. [It allows for self discovery without interruptions](https://snir.dev/blog/remote-async-communication/):
+  * You can keep on your flow without waiting for someone to give you details.
+  * You can get into "deep focus" session without context switching that allows for better productivity.
+  * You can work whenever, since you are not dependent on anyone immediately.
+  * You'll have written records of everything.
 * Have a primary communication channel.
 * You can not not communicate. Not discussing the elephant in the room is communicating. Few things are as important to study, practice, and perfect as clear communication.
 * Use long-form writing, rather than meetings, speaking, and chatting. Speaking only helps who’s in the room, writing helps everyone.
