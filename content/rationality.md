@@ -49,3 +49,13 @@
 * Grossman's Law: Complex problems have simple, easy to understand wrong answers.
 * Aim for a Minimum Viable Solution. **Start small and iterate**. Fail early and learn from it. That allows you to explore, then exploit.
 * When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away ([Via Negativa](https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/)). For example, the foods you avoid are more important than the foods you eat.
+
+## Resources
+
+* [LessWrong](https://www.lesswrong.com/) - A community dedicated to improving reasoning and decision-making.
+* [Rationality Checklist](https://www.rationality.org/resources/rationality-checklist) - Checklist for personal use, so you can have a wish-list of rationality habits and see if you’re acquiring good habits.
+* [Kialo](https://www.kialo.com/) - Tool to explore debates.
+* [Arguman](https://arguman.org/) - An argument analysis platform.
+* [Guesstimate](https://www.getguesstimate.com/) - A spreadsheet for things
+that aren’t certain.
+* [Rationality skill tree](https://www.lesswrong.com/posts/wccxMtZdEvHzLRNTZ/a-practice-of-rationality-sequence?commentId=BFaNYCKd3oQqQoZpH).

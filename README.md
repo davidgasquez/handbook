@@ -19,6 +19,7 @@ Personal bits of living knowledge. The goal of this handbook is to save insights
 * [Learning](content/learning.md)
 * [Programming](content/programming.md)
 * [Quotes](content/quotes.md)
+* [Questions](content/questions.md)
 * [Random](content/random.md)
 * [Teamwork](content/teamwork.md)
 * [Time](content/time.md)

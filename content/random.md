@@ -133,6 +133,10 @@ It’s a useful conceptual framework for how to get better at things that you cu
 - [Flatten The Curve](https://www.flattenthecurve.com/)
 - As someone said, social distancing measures to work must be done when it seems to be overreacting. And if they work, it will seem as if we overreacted.
 - [The Basic Dance Steps Everybody Can Follow](https://medium.com/@tomaspueyo/coronavirus-the-basic-dance-steps-everybody-can-follow-b3d216daa343)
+- [Distant Socializing, during Physical Distancing](https://github.com/Pezmc/distant-socializing/blob/master/README.md) - Suggested distant socializing tools, games and activities to help keep in touch with family, friends and loved ones during social distancing and the coronavirus (COVID-19) pandemic.
+  - Games:
+    - [Wavelength](https://gjeuken.github.io/telewave). [Alternative](https://longwave.web.app/).
+    - [Codenames](https://www.horsepaste.com/). [Alternative](http://those.codes/).
 
 ## Investing
 
@@ -168,7 +172,29 @@ A thought experiment is a device with which one performs an intentional, structu
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ). Maker/robotics enthusiast/non-engineer. Have become somewhat of an expert in shitty robots.
 - [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart). Science videos every week!
 
-## Open Questions
+## Dungeons and Dragons Resources
 
-- [Effective education](https://www.lesswrong.com/posts/mMKKsbxGiNirGjsA9/effective-children-education).
+Dungeons & Dragons is a cooperative storytelling game that harnesses your imagination and invites you to explore a fantastic world of adventure, where heroes battle monsters, find treasures, and overcome epic quests.
 
+- [Dungeons & Dragons 5th Edition wiki](http://dnd5e.wikidot.com/)
+- [Dungeons & Dragons Beyond Essentials](https://www.dndbeyond.com/essentials)
+- [Token Stamp Creator](tokenstamp)
+- [Astral](https://www.astraltabletop.com/) - The easiest way to play tabletop roleplaying games online, free.
+- [Cyanomys’ Guide To Playing RPGs Online](https://paper.dropbox.com/doc/Cyanomys-Guide-To-Playing-RPGs-Online-v2.1.0-Ef83ststlhPqW0LELrgye#:h2=Cyanomys%E2%80%99-Guide-To-Playing-RPG)
+
+## Pixel Art Resources
+
+- [Tutorials](https://blog.studiominiboss.com/pixelart) - Great collection of pixel art tutorials.
+
+## Piano Resources
+
+- [Getting Started as a Beginner](https://www.reddit.com/r/piano/wiki/faq#wiki_getting_started_as_a_beginner).
+- [Practicing for the absolute beginner](https://www.reddit.com/r/piano/comments/7porbg/practicing_for_the_absolute_beginner_where_and/) - Where and how to start playing the piano.
+- [Synthesia](https://synthesiagame.com/) - A fun way to learn how to play the piano.
+- [How to Play Piano](https://www.youtube.com/watch?v=gnMDpBQ_bDQ&app=desktop) - Learn Pop Songs on the Piano in 5 Minutes.
+- [Getting Started with Music Theory](https://www.reddit.com/r/musictheory/wiki/faq/core/new_to_music_theory). More [lessons](https://www.musictheory.net/lessons) and a [great tool](https://play.google.com/store/apps/details?id=com.evilduck.musiciankit&hl=en).
+- Youtube Channels:
+  - [Bill Hilton](https://www.youtube.com/user/billhiltonbiz)
+  - [Nahre Sol](https://www.youtube.com/channel/UC8R8FRt1KcPiR-rtAflXmeg)
+  - [Andrew Furmanczyk](https://www.youtube.com/channel/UCpzgTNTgQsR9YYsyOm3k3KQ)
+  - [Dan the composer](https://www.youtube.com/user/danthecomposer/)
