@@ -17,6 +17,12 @@ A mental model is a thought process about how something works in the real world.
 * [Mental models for designers](https://dropbox.design/article/mental-models-for-designers)
 * [Mental Models Box](https://www.mentalmodelsbox.com/explore)
 
+## Rationality
+
+* You can try things to find out which ideas are right or wrong. It requirest asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
+* Local Validity: Some argument steps are allowed steps and some argument steps aren't, indenpendently of whether they arrive at an answer you agree with.
+* People can fool you by saying they saw things that they didn't see, telling you some things they know but not others or by using flawed steps when drawing conclussions. When you try to make an argument come out with a particular answer, tou can fool yourself in the same way.
+
 ## Conceptual Compression
 
 From time to time, look for abstractions that can compress the information behind them. This way you can reduce mental space. When needed, you can expand the abstraction and go deeper. This is used a lot in programming, where a new tool or package emerges taking care of that was previously done by human minds \(OMRs vs hand writen SQL\)!
