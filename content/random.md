@@ -157,7 +157,7 @@ A thought experiment is a device with which one performs an intentional, structu
 - [The Engineer Guy](https://www.youtube.com/user/engineerguyvideo). Bill Hammack explores the world of engineering (from fiber optic to the [design of aluminium beverage can](https://www.youtube.com/watch?v=hUhisi2FBuw&t=1s)).
 - [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w). Educational videos.
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt). Videos explaining things with optimistic nihilism.
-- [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA). Amazing and interesting explorations.. Michael also appears in [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA) and did a must-watch 3 season series on human behavior, [Mind Field](https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2).
+- [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA). Amazing and interesting explorations. Michael also appears in [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA) and did a must-watch 3 season series on human behavior, [Mind Field](https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2).
 - [Tom Scott](https://www.youtube.com/user/enyay/videos?view=0&sort=p&flow=grid). Curiosities about many topics.
 - [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg). Former NASA engineer. Current YouTuber and friend of science.
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). Maths and entertainment, depending on your disposition.
