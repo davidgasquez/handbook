@@ -10,6 +10,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   Do the [simplest thing](https://landing.google.com/sre/book/chapters/simplicity.html) that could possibly work.
   Benefits of simplicity: ease of understanding, ease of change, ease of debugging, flexibility.
   We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
+  Writing program code is a good way of debugging your thinking.
 
 * **Do one thing and do it well**.
   By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility.

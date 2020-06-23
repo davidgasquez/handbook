@@ -27,3 +27,6 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * Every step and every movement of the multitude, even in what are termed enlightened ages, are made with equal blindness to the future; and nations stumble upon establishments, which [are indeed the result of human action, but not the execution of any human design](https://en.wikipedia.org/wiki/Spontaneous_order). Adam Ferguson.
 * Comparison is the thief of joy. Theodore Roosevelt.
 * I am writing a longer letter than usual because there is not enough time to write a short one. Blaise Pascal.
+* When the facts change, I change my mind. What do you do, sir? John Maynard Keynes.
+* Reality is not optional. Thomas Sowell.
+* History doesn't repeat itself, but it does rhyme. Mark Twain.

@@ -9,6 +9,7 @@ Personal bits of living knowledge. The goal of this handbook is to save insights
 * [Animals](content/animals.md)
 * [Communications](content/communications.md)
 * [Concepts](content/concepts.md)
+* [Rationality](content/rationality.md)
 * [Data](content/data.md)
 * [Decentralization](content/decentralization.md)
 * [Habits](content/habits.md)
