@@ -106,6 +106,7 @@
 * Startups
   * [Startup Playbook](https://playbook.samaltman.com/) - Some advice about startups from Sam Altman
   * [Awesome Startup](https://github.com/KrishMunot/awesome-startup) - A curated list of awesome books, videos, courses and resources about making a startup
+  * [Startup School Resources](https://www.startupschool.org/library) - Startup resources from YCombinator.
   * [Make Handbook](https://makebook.io/) - Learn to bootstrap profitable startups the indie way
 * Team Management
   * [IPFS](https://github.com/ipfs/team-mgmt)
