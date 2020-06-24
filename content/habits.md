@@ -18,6 +18,12 @@ Cognitive inertia is the reason that changing our habits can be difficult. The d
 
 Use forcing functions to your advantage. A forcing function is any task, activity or event that forces you to take action and produce a result.
 
+Turn vague goals into trigger-action plans (TAPs). If X then Y. That works because they help us notice situations where we could carry out our intentions. They force us to turn vague and ambiguous goals into more specific ones. A good TAP fulfills three requirements:
+
+* The trigger is clear. The "when" part is a specific, visible thing that's easy to notice.
+* The trigger is consistent. The action is something that you'll always want to do when the trigger is fulfilled.
+* The TAP furthers your goals.
+
 ## Themes
 
 To better accomplish positive life change, [give yourself a theme](https://youtu.be/NVGuFdX5guE). A theme will be easy to follow and will impact your daily actions. Resolutions give us the feeling of failure, themes gives us chances to apply them. A good theme can't fail. Just having a theme in your mind will change the way you think. You'll notice paths that weren't there before. Broad themes gives flexibility. Pick a broad directional idea that resonates with you and run with it. Themes can be as long or short as you need. These are some theme ideas:
