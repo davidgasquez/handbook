@@ -59,7 +59,7 @@ A tool and framework to manage knowledge. This will allow compound learning and 
 - Simple, Open Source and multiplatform. Works offline and has a backup mechanism similar to git.
 - Focus on capturing ideas and content as fast as possible.
 - Should be managed as a graph:
-  - Nodes are notes or smaller graphs.
+  - Nodes are notes or smaller graphs. Notes should be atomic, concept-oriented and linked.
   - Bidirectional links connecting nodes.
   - Nodes could have several parents.
   - Users can remix and connect ideas in multiple overlapping hierarchies.
