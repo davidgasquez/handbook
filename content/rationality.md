@@ -18,6 +18,7 @@
 * Tactfully disagree in a way that arouses curiosity rather than defensiveness.
 * Leave your colleague a line of retreat.
 * Socially reward people who change their mind.
+* Take into account second and third order effects.
 
 ## Making Decisions
 

@@ -59,9 +59,9 @@ A tool and framework to manage knowledge. This will allow compound learning and 
 - Simple, Open Source and multiplatform. Works offline and has a backup mechanism similar to git.
 - Focus on capturing ideas and content as fast as possible.
 - Should be managed as a graph:
-  - Nodes are notes or smaller graphs. Notes should be atomic, concept-oriented and linked.
+  - Nodes are notes or smaller graphs. Notes should be atomic, concept-oriented and densely linked.
   - Bidirectional links connecting nodes.
-  - Nodes could have several parents.
+  - Nodes could have several parents (concepts).
   - Users can remix and connect ideas in multiple overlapping hierarchies.
 - [Each concept could be linked to external content (video, book, audio)](https://www.notion.so/Models-bb0f4bfd3cd140b3a00cd955e61003f9).
   - Content should have tags (related concepts)
