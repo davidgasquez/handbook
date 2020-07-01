@@ -20,7 +20,7 @@
 - Governance.
 - Blockchains is useful when these conditions are met:
   - The resource is scarce (limited).
-  - Fungible (there isn’t a difference between two items. eg. storing files). All the coins are mutually interchangeable.
+  - Fungible (there isn't a difference between two items. eg. storing files). All the coins are mutually interchangeable.
   - The resource can be provided by a lot of people.
 - Smart contracts can be defined as code that's replicated and executed on all the blockchain nodes.
 
@@ -41,7 +41,7 @@
 
 ## Federated Networks
 
-- Traditional social applications like Twitter, Facebook, and Instagram operate on a client-server model. As the user, all your interactions go through a single company’s servers. In a federated network, users are still interacting with a server, but anyone can run a server that interoperates with others in the network, giving users more providers to choose from.
+- Traditional social applications like Twitter, Facebook, and Instagram operate on a client-server model. As the user, all your interactions go through a single company's servers. In a federated network, users are still interacting with a server, but anyone can run a server that interoperates with others in the network, giving users more providers to choose from.
 - This gives users more choices for applications, policies, and community cultures. Email is an example of a federated protocol that everyone on the internet uses. Gmail is a popular email application, but if you use a different provider you can still communicate with anyone with an email address.
-- Federated networks provide a familiar user experience, since users do not have to bear full responsibility for their account credentials, and can interact with content the way they’re used to.
+- Federated networks provide a familiar user experience, since users do not have to bear full responsibility for their account credentials, and can interact with content the way they're used to.
 - On the downside, a federated protocol might be slow to adapt while a centralized service is able to iterate into the modern world and beyond. WhatsApp was able to introduce end-to-end encryption to over a billion users with a single software update (email is still not end-to-end encrypted). Federated services always seem to coalesce around a provider (or instance) that the bulk of people use, federation becomes a sort of implicit threat. [An open source infrastructure for a centralized network now provides almost the same level of control as federated protocols, without giving up the ability to adapt. If a centralized provider with an open source infrastructure ever makes horrible changes, those that disagree have the software they need to run their own alternative instead. It may not be as beautiful as federation, but at this point it seems that it will have to do.](https://signal.org/blog/the-ecosystem-is-moving/)

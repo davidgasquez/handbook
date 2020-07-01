@@ -25,13 +25,13 @@ Conceptual compression also allows lazy learning. If you're using the compressed
 
 ## Processes
 
-Whether you’re compiling code or making breakfast, everything can be modeled as a repeatable process. Understanding the elements of production — inputs, outputs, timing, limiting steps, quality controls, variability — lets us create and improve the _machinery_ needed to fulfill our goals. We all aim to achieve the same thing: high quality results in less time with least waste.
+Whether you're compiling code or making breakfast, everything can be modeled as a repeatable process. Understanding the elements of production — inputs, outputs, timing, limiting steps, quality controls, variability — lets us create and improve the _machinery_ needed to fulfill our goals. We all aim to achieve the same thing: high quality results in less time with least waste.
 
 > If you can't describe what you are doing as a process, you don't know what you're doing. — W. Edwards Deming
 
 Write down processes and iterate over them. You cannot improve what you cannot explain.
 
-As [Tobi Lütke points out in the Farnam Streen podcast](https://fs.blog/tobi-lutke/), _there are three kinds of processes_. There’s a kind of process that makes things that were previously impossible to do, possible. That’s good. Then there’s a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there’s everything else \(just telling people to behave slightly different from what common sense tells them to do\).
+As [Tobi Lütke points out in the Farnam Streen podcast](https://fs.blog/tobi-lutke/), _there are three kinds of processes_. There's a kind of process that makes things that were previously impossible to do, possible. That's good. Then there's a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there's everything else \(just telling people to behave slightly different from what common sense tells them to do\).
 
 You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments](https://rs.io/how-to-get-started-with-anything/) and experiences removing barriers or adding tools.
 
@@ -59,8 +59,8 @@ Properties to look for in Systems:
 
 To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. A good approach (similar to natural selection) is to:
 
-  1. Start by identifying the highest-leverage level to optimize at: Ask whether you’re optimizing the machine or a cog within it.
-  2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system’s inputs is constraining its other inputs from achieving a greater total output. Make incremental changes.
+  1. Start by identifying the highest-leverage level to optimize at: Ask whether you're optimizing the machine or a cog within it.
+  2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes.
   3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
 A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.

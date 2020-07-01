@@ -38,7 +38,7 @@
 
 * [Khan Academy](https://khanacademy.org/) - Free and comprehensive early courses covering a wide range of topics
 * [Udacity](https://www.udacity.com/) - Online Courses for the digital economy
-* [Coursera](https://www.coursera.org/) - Online learning from the world’s best universities and companies
+* [Coursera](https://www.coursera.org/) - Online learning from the world's best universities and companies
 * [Explorable Explanations](https://explorabl.es/) - A hub for learning through play
 * [Explained Visually](http://setosa.io/ev/) -  Experiment in making hard ideas intuitive using visualizations
 * [No Excuse List](http://noexcuselist.com/) - The best place on the web to learn anything, free

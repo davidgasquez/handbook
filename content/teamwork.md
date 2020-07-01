@@ -39,10 +39,10 @@
 * Build a culture of stopping to fix problems, to get quality right the first time.
 * Standardized tasks and processes are the foundation for continuous improvement and employee empowerment.
 * Standardization should be based on tooling and [automation](programming.md#automation).
-* Someone should be the information hub. It helps connecting the dots that wouldn’t otherwise get connected.
+* Someone should be the information hub. It helps connecting the dots that wouldn't otherwise get connected.
 * Meetings should be as short, focused, and small as possible.
 * Write postmortems after large incidents. This will create a feedback loop to guide learning about what happened and how it can be avoided next time.
-* Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you’re trying to do when requesting help.
+* Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you're trying to do when requesting help.
 * How to drive change: find people who agree on the problem, start small, experiment, scale, repeat.
 * [Brainstorm for questions first. Then find the answers.](https://getpocket.com/explore/item/better-brainstorming)
 * Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships. [Don't try to optimize that number or it'll be gamed](https://www.fast.ai/2019/09/24/metrics/). When a measure becomes a target, it ceases to be a good measure. Not everything that counts can be measured, and not everything that can be measured counts.
@@ -77,14 +77,14 @@
   * You'll have written records of everything.
 * Have a primary communication channel.
 * You can not not communicate. Not discussing the elephant in the room is communicating. Few things are as important to study, practice, and perfect as clear communication.
-* Use long-form writing, rather than meetings, speaking, and chatting. Speaking only helps who’s in the room, writing helps everyone.
+* Use long-form writing, rather than meetings, speaking, and chatting. Speaking only helps who's in the room, writing helps everyone.
 * Whenever possible, communicate directly with those you're addressing rather than passing the message through intermediaries.
 * If you want an answer, you have to ask a question. People typically have a lot to say, but they'll volunteer little.
 * Agree on the terminology. Similar understanding of terms makes discussion more productive.
 * Work through confrontations mindfully:
   * Acknowledge the positive intentions. Try to understanding his or her rationale and state it out loud directly to them.
   * Express what you see and what you think! Remember, kindness matters. You are looking at a screen, but you are really talking to a person.
-  * Identify and propose a solution. You should try to build consensus by demonstrating how your solution will resolve everyone’s concerns, not just your own.
+  * Identify and propose a solution. You should try to build consensus by demonstrating how your solution will resolve everyone's concerns, not just your own.
   * Outline the benefits and advantages of your proposal.
   * Understanding. Either nail down agreement on a next action or step, or work together to develop alternatives.
 * Guides to Communications:
@@ -97,7 +97,7 @@
 * Draft top-level goals: Create a vision statement with the top problems you aim to solve. What is important to achieve? For whom? Why?
 * Chunk progress into milestones: Define the incremental targets to hit in order to accomplish the top-level goals. What must be true to reach this milestone? On what timeline? With what dependencies? What does this unlock?
 * Assign projects to milestones: Fill in key projects that are necessary, nice to have, and out of scope to reach those milestones and bucket them accordingly. Why is each project important to achieve that milestone? Which are highest priority? Do they have any dependencies? Approximate how hard/big is each project? (This likely involves iterating on or shuffling the milestones themselves based on capabilities/effort.)
-* Iterate iterate iterate: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you’re prioritizing the right work, which gaps or open questions you haven’t thought of yet.
+* Iterate iterate iterate: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you're prioritizing the right work, which gaps or open questions you haven't thought of yet.
 * Finalize: Get sign off on this version of the roadmap for the upcoming time window. Present it to cross-functional partners and start using it as a communication device to align effort, priorities, and cross-team information sharing.
 
 ## Links

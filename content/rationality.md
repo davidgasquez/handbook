@@ -24,17 +24,17 @@
 
 ## Making Decisions
 
-* Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It’s basically a problem-solving activity, and it can be more or less rational or irrational based on the decision maker’s values, beliefs, and (perceived) knowledge.
+* Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a problem-solving activity, and it can be more or less rational or irrational based on the decision maker's values, beliefs, and (perceived) knowledge.
 * The decisions you make fall into two categories:
   * Prioritizing — Which path should you take first?
   * Allocating — How much attention, time, and capital should you spend on this?
-* To maximize your long-term happiness, prioritize the projects you’d most regret not having pursued by the time you’re old and looking back at your life.
+* To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
 * Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy.
 * If all options are similar take the harder one in the short term \(_Hard decisions easy life, easy decisions, hard life_\).
-* Look for win-win decisions. If someone has to lose, you’re not thinking hard enough or you need to make structural/environmental changes.
+* Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/environmental changes.
 * The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
-* Ask what information would cause you to change your mind. If you don’t have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
-* How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can’t take back, then it’s worth really, really understanding. Aim for preserving optionality.
+* Ask what information would cause you to change your mind. If you don't have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
+* How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can't take back, then it's worth really, really understanding. Aim for preserving optionality.
 * We are all susceptible to bias, almost all the time. A way to detect bias and minimize the decision impact is to [run it by a bias checklist](https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T).
 * [There are many reasons why smart people may make a poor decision](https://nesslabs.com/decision-making); Overconfidence, Analysis paralysis, Information overload, Lack of emotional or physical resources, ...
 * Decision making styles:
@@ -61,7 +61,7 @@
 * The best thing that can be done to a problem is to dissolve it, to redesign the entity that has it or its environment so as to eliminate the problem.
   * A problem well stated is a problem half solved.
   * Insight is best thought of as a change in problem representation. The way we frame problems makes them more or less difficult.
-* [Problem solving can be understood as a search problem](https://rs.io/the-science-of-problem-solving/). You start in some state, there’s a set of neighbor states you can move to, and a final state that you would like to end up in.
+* [Problem solving can be understood as a search problem](https://rs.io/the-science-of-problem-solving/). You start in some state, there's a set of neighbor states you can move to, and a final state that you would like to end up in.
 * Taking breaks during working on a problem solving is called incubation. Incubation enhances problem solving ability.
 * To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others.
 * Grossman's Law: Complex problems have simple, easy to understand wrong answers.
@@ -71,9 +71,9 @@
 ## Resources
 
 * [LessWrong](https://www.lesswrong.com/) - A community dedicated to improving reasoning and decision-making.
-* [Rationality Checklist](https://www.rationality.org/resources/rationality-checklist) - Checklist for personal use, so you can have a wish-list of rationality habits and see if you’re acquiring good habits.
+* [Rationality Checklist](https://www.rationality.org/resources/rationality-checklist) - Checklist for personal use, so you can have a wish-list of rationality habits and see if you're acquiring good habits.
 * [Kialo](https://www.kialo.com/) - Tool to explore debates.
 * [Arguman](https://arguman.org/) - An argument analysis platform.
 * [Guesstimate](https://www.getguesstimate.com/) - A spreadsheet for things
-that aren’t certain.
+that aren't certain.
 * [Rationality skill tree](https://www.lesswrong.com/posts/wccxMtZdEvHzLRNTZ/a-practice-of-rationality-sequence?commentId=BFaNYCKd3oQqQoZpH).

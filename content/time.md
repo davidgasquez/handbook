@@ -24,4 +24,4 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 * Create smaller chunks. This helps getting in the flow (find the right balance between the challenge of the activity and your own skills levels). Avoid multitasking.
 * Leverage the power of positive pressure by publicly committing to your goals.
 * [Improve your environment](https://nesslabs.com/neuroscience-of-procrastination). Design your workspace in a way that minimises distractions, whether physical or digital.
-* What is optimal for me won’t be optimal for you. You’ll have to experiment to find out what works best for you.
+* What is optimal for me won't be optimal for you. You'll have to experiment to find out what works best for you.

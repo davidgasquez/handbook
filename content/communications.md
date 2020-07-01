@@ -29,7 +29,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 
 * Try to use the active voice whenever possible.
 * Keep in mind your style:
-  * **Be concise**. Understand the topic you’re writing about. Use simple words and sentences. Put the most important things first.
+  * **Be concise**. Understand the topic you're writing about. Use simple words and sentences. Put the most important things first.
   * **Be Useful**. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
   * **Be specific**. Avoid vague language. Cut the fluff. Delete unnecessary words. Say what you mean.
   * **Be consistent**.
@@ -43,10 +43,10 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 * Human beings are wired to respond to storytelling. A story arc is a way to structure ideas to tap into this response, typically by describing a change in the world.
 * Use positive language rather than negative language.
 * Write in a conversational tone.
-* Use second-person and describe actions to a user. Technical content talks to users when support agents can’t.
+* Use second-person and describe actions to a user. Technical content talks to users when support agents can't.
 * Divide things into small chunks.
 * If you have multiple points in a text, number them to make replies easier.
-* Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601). Separate the processes of creation from improving. You can’t write and edit.
+* Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601). Separate the processes of creation from improving. You can't write and edit.
 * You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
 
 ## Feedback
@@ -79,7 +79,7 @@ All feedback is good feedback. If you agree with it, it tells you something abou
 * Prepare. What do you value in someone? Where do you think are their biggest opportunities to improve?
 * Keep the feedback actionable, specific, and kind.
 * How to compose a successful critical commentary \(_from_ [_Daniel Dennett_](https://en.wikipedia.org/wiki/Daniel_Dennett)\):
-  * You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, _"Thanks, I wish I’d thought of putting it that way"_.
+  * You should attempt to re-express your target's position so clearly, vividly, and fairly that your target says, _"Thanks, I wish I'd thought of putting it that way"_.
   * You should list any points of agreement \(if they are not matters of general or widespread agreement\).
   * You should mention anything you have learned from your target.
   * Only then are you permitted to say so much as a word of rebuttal or criticism.
@@ -96,7 +96,7 @@ A few assumptions are required to have a successfull disagreement:
 
 [Double crux]((https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement)) is great framework based on the previous assumptions.
 
-One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Ask "What would need to be true for you to...". Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it’s easier to evaluate arguments like "we should do X before Y" than it is to converge on "X is better than Y".
+One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Ask "What would need to be true for you to...". Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it's easier to evaluate arguments like "we should do X before Y" than it is to converge on "X is better than Y".
 
 Don't focus on proving yourself right, instead of focus on getting the best outcome.
 Keep the conversation simple and summarise the conversation during the discussion.
@@ -109,13 +109,13 @@ Keep the conversation simple and summarise the conversation during the discussio
   * Would this have helped me a year ago?
   * Would this have helped me last week?
   * Do you think this would be interesting to at least like 2 other people?
-* [You are best positioned to help people one step behind you](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045). The material is still fresh in your mind. Many experts have forgotten what it was like to be a beginner and have forgotten why the topic is hard to understand when you first hear it. The context of your particular background, your particular style, and your knowledge level will give a different twist to what you’re writing about.
-* [Share unoriginal ideas](https://guzey.com/personal/why-have-a-blog/). Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn’t come up with these ideas otherwise.
+* [You are best positioned to help people one step behind you](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045). The material is still fresh in your mind. Many experts have forgotten what it was like to be a beginner and have forgotten why the topic is hard to understand when you first hear it. The context of your particular background, your particular style, and your knowledge level will give a different twist to what you're writing about.
+* [Share unoriginal ideas](https://guzey.com/personal/why-have-a-blog/). Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn't come up with these ideas otherwise.
 * Start with Why. Start with a question. Write the first flawed answer that comes to mind. Write the first question or objection that comes to mind from that answer. Write the first response that comes to mind from that, ...
 * [Writing creates a cache](https://twitter.com/eugeneyan/status/1256828203840073728). The cache (i.e., documents) scales data availability. eople can access the cache instead of going to you.
 * For long-form content, the [diamond model](https://dropbox.design/article/mental-models-for-designers) works great for putting a structure around your main idea.
   1. Attention: Start with a story, statistic, or something similar
-  1. Main topic: Briefly introduce the main topic you’ll cover
+  1. Main topic: Briefly introduce the main topic you'll cover
   1. Previews: Give quick previews of your subtopics
   1. Subtopics: Go into depth with your subtopics
   1. Summaries: Recap your subtopics

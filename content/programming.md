@@ -93,7 +93,7 @@ Like any other field, the world of Software Development has some interesting and
 1. Be explicit about what feedback you want, if any: a quick pair of :eyes: on the code, discussion on the technical approach, critique on design, a review of copy.
 1. [Offering feedback](https://mtlynch.io/human-code-reviews-1/)
     1. Familiarize yourself with the context of the issue, and reasons why this Pull Request exists.
-    1. Ask, don’t tell.
+    1. Ask, don't tell.
     1. Explain your reasons why code should be changed.
     1. Be aware of negative bias with online communication. Can you use positive language as opposed to neutral?
 

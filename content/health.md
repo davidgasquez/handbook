@@ -21,7 +21,7 @@
 - [Body Weight Fitness Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) - Best routinne if you like to use your own body to train
 - [Molding Mobility](https://www.youtube.com/watch?v=Aoyy3bKtD84) - Routinne designed to increase general range of motion in your movements
 - [Starting Stretching](https://www.youtube.com/watch?v=w1iXMvTMvBo) - A 15 minute stretching routine that serves as a starting point for beginners to improve overall flexibility
-- [The Best Fat Loss Article on the Motherfuckin’ Internet](http://physiqonomics.com/fat-loss/) - Facts and usefull information about fat loss
+- [The Best Fat Loss Article on the Motherfuckin' Internet](http://physiqonomics.com/fat-loss/) - Facts and usefull information about fat loss
 - [Phrak's Greyskull LP](https://old.reddit.com/r/Fitness/wiki/phraks-gslp) - Introductory lifting program to build familiarity and comfortability with the fundamental barbell movements that are a core component of most strength training routines
 - [Building Muscle](https://www.julian.com/guide/muscle/intro) - Article that cover what the science says about exercising and eating to build muscle.
 
