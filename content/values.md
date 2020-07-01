@@ -4,7 +4,7 @@ Values are what you stand for in life — they are often things that you are for
 
 ## Curiousity
 
-- Never stop [learning](learning.md). Read about topics you care, observe the world around you, keep a beginner's mind (shoshin), don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it. Test your assumptions as many times as possible. Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
+- Never stop [learning](learning.md). Read about topics you care, observe the world around you, keep a beginner's mind (shoshin), don’t be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it. Test your assumptions/beliefs as many times as possible. Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
 - Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your idea doesn't work out, the community will have learned better why that approach doesn't make sense.
 - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. Everyone's making it up as they go along. Figure it out yourself, and do it.
 - Practice [rational](rationality.md) thinking. Make sure you understand that the absolute truth is relative to everyone and you don't know everything. We do not know what we don't know. Gather as much context as you can before making any final statement. Avoid forming an opinion at all about things that are not evident. Your opinions are not yours and they are holding you back.
@@ -24,7 +24,7 @@ Values are what you stand for in life — they are often things that you are for
 - Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn’t worth doing is a wonderful way to spend your time. Happiness is a choice.
 - KISS. When communicating, do it in a clear and concise way. When facing a problem, prefer a **lean** approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions. What would this look like if it was simple?
 - Remove friction. Focus on essentials.
-- Keep Calm. Think, understand, and listen before [communicating](communications.md). Try to plan the possible outcomes and don't rush. Don't worry too much about things that won't matter to you or your loved ones in 10 years. Assume positive intent. No one is your enemy, you're an NPC in their game. Every person is inherently valuable independent of behavior and beliefs.
+- Keep Calm. Think, understand, and listen before [communicating](communications.md). Try to plan the possible outcomes and don't rush. Don't worry too much about things that won't matter to you or your loved ones in 10 years. Assume positive intent. No one is your enemy, you're an NPC in their game. Every person is inherently valuable independent of behavior and beliefs. Create safe spaces for people, and a dangerous space for ideas ([idea labs](https://mobile.twitter.com/waitbutwhy/status/1278035160454348800)).
 - When you have a nice thing to say about someone, say it to them right away, instead of waiting. You might not see them again.
 - See and enjoy everything as a child. Prefer delayed gratification, that is, making short term sacrifices to get long term benefits.
 - One task at a time. No distractions.
@@ -36,7 +36,9 @@ Values are what you stand for in life — they are often things that you are for
 - Embrace Weirdness. Don't be just another human. Find your place, do what you love and put yourself outside the comfort zone. Unexpected and unconventional things make life more interesting.
 - Embrace change. Don't complain about things you can't change. Be proactive.
 - Celebrate and encourage quirky gifts, [habits](habits.md), behavior, and points of view. No one can compete with you on being you.
-- Share your decisions and ideas so flaws arise earlier in the process. [Maintain a very small identity](http://www.paulgraham.com/identity.html). Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc. Honesty demands that we communicate any uncertainty we may feel about the relevance of our own opinions.
+- Share your decisions and ideas so flaws arise earlier in the process.
+- [Maintain a very small identity](http://www.paulgraham.com/identity.html). Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc. You're not your ideas.
+- Honesty demands that we communicate any uncertainty we may feel about the relevance of our own opinions.
 - One of the hardest excercises is to receive [feedback](communications.md#Feedback). Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
 - The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete.
   - The real world is analog—gray, amorphous, and endlessly nuanced. Real people are complex and flawed, full of faults but almost always worthy of compassion. Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out. Digitizing an analog view will result in some loss of information. Over-digitizing the real world is pretty bad idea. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros.

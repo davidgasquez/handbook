@@ -1,13 +1,15 @@
 # Rationality
 
 * You can try things to find out which ideas are right or wrong. It requirest asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
+* Aim to get an accurate picture of reality, even when that's unpleasant.
 * Local Validity: Some argument steps are allowed steps and some argument steps aren't, indenpendently of whether they arrive at an answer you agree with.
 * People can fool you by saying they saw things that they didn't see, telling you some things they know but not others or by using flawed steps when drawing conclussions. When you try to make an argument come out with a particular answer, tou can fool yourself in the same way.
 * You can be the wrong person.
 * Assume good faith. Trust the other person to be believing things that make sense to them, which you'd have ended up believing if you were exposed to the same stimuli, and that they are generally trying to find the the truth.
 * [Notice](https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html) your internal state (cognitive and emotional). Notice when you are in a failure mode, and step out. For example:
-  * You are fighting to make sure an argument wins.
-  * You are fighting to make another argument lose.
+  * [Motivated Reasoning or Soldier Mindset](https://youtu.be/w4RLfVxTGH4?list=WL):
+    * You are fighting to make sure an argument wins.
+    * You are fighting to make another argument lose.
   * You are incentivized to believe something, or not to notice something, because of social or financial rewards.
   * You're incentivized not to notice something or think it's important because it'd be physically inconvenient/annoying.
   * You are offended/angered/defensive/agitated.
