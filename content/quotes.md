@@ -30,3 +30,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 * When the facts change, I change my mind. What do you do, sir? John Maynard Keynes.
 * Reality is not optional. Thomas Sowell.
 * History doesn't repeat itself, but it does rhyme. Mark Twain.
+* Seek not for events to happen as you wish but rather wish for events to happen as they do and your life will go smoothly. Epictetus.
