@@ -133,6 +133,7 @@ It’s a useful conceptual framework for how to get better at things that you cu
 - [Flatten The Curve](https://www.flattenthecurve.com/)
 - As someone said, social distancing measures to work must be done when it seems to be overreacting. And if they work, it will seem as if we overreacted.
 - [The Basic Dance Steps Everybody Can Follow](https://medium.com/@tomaspueyo/coronavirus-the-basic-dance-steps-everybody-can-follow-b3d216daa343)
+- [Justified Practical Advice](https://www.lesswrong.com/posts/LwcKYR8bykM6vDHyo/coronavirus-justified-practical-advice-thread) and [What should we do once infected with COVID-19](https://www.lesswrong.com/posts/F3q7eL7pdQqhWFTYh/what-should-we-do-once-infected-with-covid-19#NR3wH8DxZX2eBBvG7) are useful once infected.
 - [Distant Socializing, during Physical Distancing](https://github.com/Pezmc/distant-socializing/blob/master/README.md) - Suggested distant socializing tools, games and activities to help keep in touch with family, friends and loved ones during social distancing and the coronavirus (COVID-19) pandemic.
   - Games:
     - [Wavelength](https://gjeuken.github.io/telewave). [Alternative](https://longwave.web.app/).
@@ -153,6 +154,9 @@ A thought experiment is a device with which one performs an intentional, structu
 
 - Be clear about why you're buying a home. Every large decision you have to make about home ownership should somewhat tie in to this.
 - Look at houses based on the life style you have not the life style you aspire to have.
+- Balance commuting against other goods and costs (Commuting Paradox).
+- The availability heuristic says that people overcount scenarios that are easy and vivid to imagine, and undercount scenarios that don't involve any readily available examples or mental images. The real estate version of this fallacy involves exciting opportunities that you will rarely or never use. For example, a house with a pool may bring to mind the opportunity to hold pool parties. But most such plans will probably fall victim to akrasia, and even if they don't, how often can one person throw pool parties without exhausting their friends' interest? Pool parties may be fun to imagine, but they'll probably only affect a few hours every couple of months. Other factors, like the commuting distance and whether your children end up in a nice school, may affect several hours every day.
+- Good illumination (daylight has a strong effect on mood) and a view of natural beauty (nature increases mental functioning and concentration) aren't just pleasant luxuries, but can make important practical differences in your life.
 - Research nearby future facilities. Schools, shopping malls, coffe shops, transportation, ...
 - Treat it as an asset. Think for how much it'll sell.
 
