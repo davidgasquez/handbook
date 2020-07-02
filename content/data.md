@@ -6,23 +6,23 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 
 ### Basic Principles
 
-* Simplicity: Each steps is easy to understand and modify.
-* Reliability: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done extracting the column from the intermediary data without having to query the data source.
-* Modularity: Steps are independent.
-* Consistency: Same conventions and design patterns across pipelines.
-* Efficiency: Low event latency when needed. Easy to scale up and down.
-* Flexibility: Steps change to confort data points. Changes don't stop the pipeline or losses data.
+- Simplicity: Each steps is easy to understand and modify.
+- Reliability: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done extracting the column from the intermediary data without having to query the data source.
+- Modularity: Steps are independent.
+- Consistency: Same conventions and design patterns across pipelines.
+- Efficiency: Low event latency when needed. Easy to scale up and down.
+- Flexibility: Steps change to confort data points. Changes don't stop the pipeline or losses data.
 
 ### Data Flow
 
-* In each step of the pipeline there are producers of data and consumers. Consumers can be also producers, e.g `B` in `A | B | C`.
-  * Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a database.
-* Schemas changes. Most of the time you won't be there at the exact time of the change so try to save everything.
-  * Ideally, the schema will evolve in a backward compatible way:
-    * Data types don't change in the same column
-    * Columns are either deleted or added but never renamed
-* Create a few extra columns like `processed_at` or `schema_version`
-* Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the [Functional Data Engineering Paradigm](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).
+- In each step of the pipeline there are producers of data and consumers. Consumers can be also producers, e.g `B` in `A | B | C`.
+  - Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a database.
+- Schemas changes. Most of the time you won't be there at the exact time of the change so try to save everything.
+  - Ideally, the schema will evolve in a backward compatible way:
+    - Data types don't change in the same column
+    - Columns are either deleted or added but never renamed
+- Create a few extra columns like `processed_at` or `schema_version`
+- Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the [Functional Data Engineering Paradigm](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).
 
 ## Data Science
 
@@ -48,10 +48,10 @@ Continuous decision-making — the kind that leads to impact — involves doing 
 
 Tech debt is an analogy for the long-term buildup of costs when engineers make design choices for speed of deployment over everything else. Fixing technical debt can take a lot of work.
 
-* Tack data dependencies.
-* Version the datasets.
-* Make sure your data isn't all noise and no signal by making sure your model is at least capable of overfitting.
-* Use [reproducibility checklists when releasing code](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).
+- Tack data dependencies.
+- Version the datasets.
+- Make sure your data isn't all noise and no signal by making sure your model is at least capable of overfitting.
+- Use [reproducibility checklists when releasing code](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).
 
 ### Analysis Requests
 
@@ -63,11 +63,11 @@ Tech debt is an analogy for the long-term buildup of costs when engineers make d
 
 ### Resources
 
-* [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
-* [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
-* [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
-* [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)
-* [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html)
-* [Guides for Visualizing Reality](https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/)
-* [Model Interpretability](https://ff06-2020.fastforwardlabs.com/)
-  * [Diverse Counterfactuals](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)
+- [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
+- [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+- [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
+- [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)
+- [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html)
+- [Guides for Visualizing Reality](https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/)
+- [Model Interpretability](https://ff06-2020.fastforwardlabs.com/)
+  - [Diverse Counterfactuals](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)

@@ -1,71 +1,71 @@
 # Learning
 
-* Understand the base and build from it. First Principles Method. Start from basics before going into complexities.
-* You can apply [The Feynman Technique](https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/):
+- Understand the base and build from it. First Principles Method. Start from basics before going into complexities.
+- You can apply [The Feynman Technique](https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/):
   1. Identify the subject.
   2. Teach it to a child. Use simple vocabulary and make it short. Keep questions and answers simple.
   3. Identify your knowledge gaps. What are you missing?
   4. Organize and Simplify. Tell a story to teach. Analogies help here!
-* Follow the guidelines stated in Coursera's [_Learning How to Learn_ summary](https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/).
-* Write down the process that better worked for you.
-* Keep improving the processes with the learning of failed experiences.
-* [Learn iterating over the process](https://twitter.com/naval/status/1052856864965152769).
-* Everything is always subject to change \(including this handbook\).
-* Learn to ask better questions. Distill what you know to figure out what part you're missing or which link is missing.
-* There are two modes of thinking:
-  * Focused: When you're actively trying to learn something.
-  * Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks \(playing, sleeping, doing exercise, ...\).
-* Reading is a meta-skill. Learn to read and understand so you can trade time reading for some skills.
-* Experience ideas directly. Use the [ADEPT](https://betterexplained.com/articles/adept-method/) method as a checklist for what helps a concept click:
-  * Have an Analogy about it.
-  * Visualize it in a Diagram.
-  * Gather Examples.
-  * Come with a Plain-English description of the concept.
-  * The give into the Technical side.
-* When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new mental model.
-* Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.
-* Use spaced repetition. Make cards that are [atomic, connected and meaningful](https://ncase.me/remember/).
-* [Test your knowledge easly and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL).
-* Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
+- Follow the guidelines stated in Coursera's [_Learning How to Learn_ summary](https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/).
+- Write down the process that better worked for you.
+- Keep improving the processes with the learning of failed experiences.
+- [Learn iterating over the process](https://twitter.com/naval/status/1052856864965152769).
+- Everything is always subject to change \(including this handbook\).
+- Learn to ask better questions. Distill what you know to figure out what part you're missing or which link is missing.
+- There are two modes of thinking:
+  - Focused: When you're actively trying to learn something.
+  - Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks \(playing, sleeping, doing exercise, ...\).
+- Reading is a meta-skill. Learn to read and understand so you can trade time reading for some skills.
+- Experience ideas directly. Use the [ADEPT](https://betterexplained.com/articles/adept-method/) method as a checklist for what helps a concept click:
+  - Have an Analogy about it.
+  - Visualize it in a Diagram.
+  - Gather Examples.
+  - Come with a Plain-English description of the concept.
+  - The give into the Technical side.
+- When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new mental model.
+- Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.
+- Use spaced repetition. Make cards that are [atomic, connected and meaningful](https://ncase.me/remember/).
+- [Test your knowledge easly and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL).
+- Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
 
 ## [Capture, Organize, Synthesize](http://gordonbrander.com/pattern/capture-organize-synthesize/)
 
-* Capture as much as possible. Your thoughts are more valuable than paper. Externalize what you learn. Once an idea is captured in a tangible form you can begin surveying and manipulating it.
-* Organize only after you capture. Filter, but don't delete irrelevant information. Computers are big enough to search and store everything. Make them manage it.
-* Synthesize into new meaning. Re-contextualize what you learn. This is the creative act. Experience becomes art, notes become a novel.
+- Capture as much as possible. Your thoughts are more valuable than paper. Externalize what you learn. Once an idea is captured in a tangible form you can begin surveying and manipulating it.
+- Organize only after you capture. Filter, but don't delete irrelevant information. Computers are big enough to search and store everything. Make them manage it.
+- Synthesize into new meaning. Re-contextualize what you learn. This is the creative act. Experience becomes art, notes become a novel.
 
 ## Links
 
-* [Khan Academy](https://khanacademy.org/) - Free and comprehensive early courses covering a wide range of topics
-* [Udacity](https://www.udacity.com/) - Online Courses for the digital economy
-* [Coursera](https://www.coursera.org/) - Online learning from the world's best universities and companies
-* [Explorable Explanations](https://explorabl.es/) - A hub for learning through play
-* [Explained Visually](http://setosa.io/ev/) -  Experiment in making hard ideas intuitive using visualizations
-* [No Excuse List](http://noexcuselist.com/) - The best place on the web to learn anything, free
+- [Khan Academy](https://khanacademy.org/) - Free and comprehensive early courses covering a wide range of topics
+- [Udacity](https://www.udacity.com/) - Online Courses for the digital economy
+- [Coursera](https://www.coursera.org/) - Online learning from the world's best universities and companies
+- [Explorable Explanations](https://explorabl.es/) - A hub for learning through play
+- [Explained Visually](http://setosa.io/ev/) -  Experiment in making hard ideas intuitive using visualizations
+- [No Excuse List](http://noexcuselist.com/) - The best place on the web to learn anything, free
 
 ### Computer Science
 
-* [Learn X in Y minutes](http://learnxinyminutes.com/) - Learn the basic of any language in Y minutes
-* [Exercism](http://exercism.io/) - Code practice and mentorship for everyone
-* [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/) - Cool visualizations of common algorithms used in Computer Science
-* [Google Developers Codelabs](https://codelabs.developers.google.com/) - Guided, tutorial, hands-on coding experience on Google Products.
-* [Google AI Hub](https://aihub.cloud.google.com/u/0/) - Learn, build and share notebooks, models, and other AI components.
-* [Katacoda](https://www.katacoda.com/) - Learn new technologies using real environments
+- [Learn X in Y minutes](http://learnxinyminutes.com/) - Learn the basic of any language in Y minutes
+- [Exercism](http://exercism.io/) - Code practice and mentorship for everyone
+- [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/) - Cool visualizations of common algorithms used in Computer Science
+- [Google Developers Codelabs](https://codelabs.developers.google.com/) - Guided, tutorial, hands-on coding experience on Google Products.
+- [Google AI Hub](https://aihub.cloud.google.com/u/0/) - Learn, build and share notebooks, models, and other AI components.
+- [Katacoda](https://www.katacoda.com/) - Learn new technologies using real environments
 right in your browser.
-* [Hackr](http://hackr.io/) - Search for courses on any language, framework or programming topic
-* Hardware
-  * [GPUBoss](http://gpuboss.com/) - Compare graphics cards head to head
-  * [PC Part Picker](https://pcpartpicker.com/) - Build guides, which cover systems for all use-cases and budgets, or create your own and share it with our community
-  * [Logical Increments](http://www.logicalincrements.com/) - The PC builder's tier list
+- [Hackr](http://hackr.io/) - Search for courses on any language, framework or programming topic
+- Hardware
+  - [GPUBoss](http://gpuboss.com/) - Compare graphics cards head to head
+  - [PC Part Picker](https://pcpartpicker.com/) - Build guides, which cover systems for all use-cases and budgets, or create your own and share it with our community
+  - [Logical Increments](http://www.logicalincrements.com/) - The PC builder's tier list
 
 ### Others
 
-* [Hack Design](https://hackdesign.org/lessons) - Quick and simple lessons on dessign
-* [Better Explained](http://betterexplained.com/) - Math without endless memorization
-* [Seeing Theory](https://seeing-theory.brown.edu) - A visual introduction to probability and statistics
-* [Tuts+](https://tutsplus.com/) - Collection of How To tutorials on lots of topics
-* [Metaknowledge](https://github.com/RichardLitt/meta-knowledge) - A list of knowledge repositories from multiple people
-* Privacy
-  * [Reddit r/privacy  Wiki](https://www.reddit.com/r/privacy/wiki/index) - Guide to becoming more secure online
-  * [Privacy Tools](https://www.privacytools.io/) - Provides knowledge and tools to protect your privacy against global mass surveillance
-  * [Switching Social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to multiple tools
+- [Hack Design](https://hackdesign.org/lessons) - Quick and simple lessons on dessign
+- [Better Explained](http://betterexplained.com/) - Math without endless memorization
+- [Seeing Theory](https://seeing-theory.brown.edu) - A visual introduction to probability and statistics
+- [Tuts+](https://tutsplus.com/) - Collection of How To tutorials on lots of topics
+- [Metaknowledge](https://github.com/RichardLitt/meta-knowledge) - A list of knowledge repositories from multiple people
+- Privacy
+  - [Reddit r/privacy  Wiki](https://www.reddit.com/r/privacy/wiki/index) - Guide to becoming more secure online
+  - [Privacy Tools](https://www.privacytools.io/) - Provides knowledge and tools to protect your privacy against global mass surveillance
+  - [Switching Social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to multiple tools
