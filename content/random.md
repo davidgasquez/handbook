@@ -211,5 +211,7 @@ Dungeons & Dragons is a cooperative storytelling game that harnesses your imagin
 - The 3 Stoic principal leaders are Marcus Aurelius, Epictetus and Seneca.
 - Stoicism teaches how to keep a calm and [rational](rationality.md) mind no matter what happens to you and it helps you understand and focus on what you can control and not worry about and accept what you can't control.
 - We'd be crazy to want to face difficulty in life. But we'd be equally crazy to think that it isn't going to happen. Prepare for it and plan for the worst. The idea of premeditation of adversity is to repeatedly imagine potentially "bad" scenarios in advance, so that they will not catch you by surprise, and you'll be able to face them calmly and act according to virtue.
-- Accept rather than fight every little thing.
 - Stoic ideas inevitably lead to greater mindfulness.
+- Accept rather than fight every little thing.
+- Judge yourself accurately and honestly.
+- Causes (stress, overwhlem) are within us. Don't blame people or circunstances. You have a choice.

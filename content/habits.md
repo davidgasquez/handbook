@@ -41,3 +41,4 @@ To better accomplish positive life change, [give yourself a theme](https://youtu
 * Knowledge
 * Nature
 * Reflection
+* Iteration

@@ -8,14 +8,14 @@ A logical fallacy is a flaw in reasoning. Logical fallacies are like tricks or i
 
 A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems \(a personal algorithm\). The world always makes sense. But it can be confusing. When it is, your model of the world is wrong. Millions of mental models exists, and every discipline has their own set. Some of them overlap and might be called differently.
 
-* [Mental Models: The Best Way to Make Intelligent Decisions](https://www.farnamstreetblog.com/mental-models/)
-* [A Searching and Fearless Intellectual Inventory](https://www.facebook.com/notes/kent-beck/a-searching-and-fearless-intellectual-inventory/1179765038723025)
-* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.vvrgpsu13)
-* [Useful Models](http://www.defmacro.org/2016/12/22/models.html)
-* [The Big Mental Models](https://jamesclear.com/mental-models)
-* [Julian Spahiro's Mental Models](https://www.julian.com/blog/mental-model-examples)
-* [Mental models for designers](https://dropbox.design/article/mental-models-for-designers)
-* [Mental Models Box](https://www.mentalmodelsbox.com/explore)
+- [Mental Models: The Best Way to Make Intelligent Decisions](https://www.farnamstreetblog.com/mental-models/)
+- [A Searching and Fearless Intellectual Inventory](https://www.facebook.com/notes/kent-beck/a-searching-and-fearless-intellectual-inventory/1179765038723025)
+- [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.vvrgpsu13)
+- [Useful Models](http://www.defmacro.org/2016/12/22/models.html)
+- [The Big Mental Models](https://jamesclear.com/mental-models)
+- [Julian Spahiro's Mental Models](https://www.julian.com/blog/mental-model-examples)
+- [Mental models for designers](https://dropbox.design/article/mental-models-for-designers)
+- [Mental Models Box](https://www.mentalmodelsbox.com/explore)
 
 ## Conceptual Compression
 
@@ -37,11 +37,11 @@ You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments]
 
 Properties to look for in Processes:
 
-* Algorithmic. So you don't need to think about choices. This reduces mental overhead and anxiety (The Paradox of Choice).
-  * A way to reduce choices i self binding (like Ulyses did). Limiting our actions in the future will reduce the choices we'll need to do.
-* Flexible. Make if fluid enough to keep up with changes.
-* Low Friction. Simple processes are easier to understand and apply.
-* Short Feedback Loop. Show the results as soon as you can.
+- Algorithmic. So you don't need to think about choices. This reduces mental overhead and anxiety (The Paradox of Choice).
+  - A way to reduce choices i self binding (like Ulyses did). Limiting our actions in the future will reduce the choices we'll need to do.
+- Flexible. Make if fluid enough to keep up with changes.
+- Low Friction. Simple processes are easier to understand and apply.
+- Short Feedback Loop. Show the results as soon as you can.
 
 A process takes an input to produce an output. A bunch of processes can be view as a System.
 
@@ -51,11 +51,11 @@ A system is anything with multiple parts that depend on each other. In other wor
 
 Properties to look for in Systems:
 
-* Modular.
-  * Loosely coupling. Breaking a chair shouldn't break the dinner!
-  * Having multiple parts also allows systems to develop emergent properties. When things interact, they often birth new, unpredictable forms. The sum total of a system is more than its competent parts.
-* Responsiveness. Know what the system is doing and make the feedback loop fast.
-* Some systems might benefics of being distributed
+- Modular.
+  - Loosely coupling. Breaking a chair shouldn't break the dinner!
+  - Having multiple parts also allows systems to develop emergent properties. When things interact, they often birth new, unpredictable forms. The sum total of a system is more than its competent parts.
+- Responsiveness. Know what the system is doing and make the feedback loop fast.
+- Some systems might benefics of being distributed
 
 To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. A good approach (similar to natural selection) is to:
 
@@ -83,4 +83,4 @@ To reach a goal, reduce friction or increase incentives/rewards.
 
 ## Resources
 
-* [Tools for better thinking](https://untools.co/): Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
+- [Tools for better thinking](https://untools.co/): Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
