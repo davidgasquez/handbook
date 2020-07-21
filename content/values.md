@@ -33,7 +33,7 @@ Values are what you stand for in life — they are often things that you are for
 - One task at a time. No distractions.
 - KISS. When [communicating](communications.md), do it in a clear and concise way. When [facing a problem](rationality.md#problem-solving), prefer a **lean** approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions. What would this look like if it was simple?
 - Remove friction. Focus on essentials.
-- Keep Calm.
+- Keep Calm. Own and deal with your emotions.
   - Think, understand, and listen before [communicating](communications.md).
   - Try to plan the possible outcomes and don't rush.
   - Don't worry too much about things that won't matter to you or your loved ones in 10 years.
