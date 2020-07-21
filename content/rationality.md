@@ -18,6 +18,7 @@
   - You are confused or surprised. Treat this as a red flag that something about your models is wrong.
 - Notice if someone else seems to be in one of the above failure modes.
 - Tactfully disagree in a way that arouses curiosity rather than defensiveness.
+- [Be prejudiced in favor of tolerating dissent](https://www.lesswrong.com/posts/ZQG9cwKbct2LtmL3p/evaporative-cooling-of-group-beliefs#fn3x57).
 - Leave your colleague a line of retreat.
 - Socially reward people who change their mind.
 - Take into account second and third order effects.
