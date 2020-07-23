@@ -22,6 +22,7 @@
 - Leave your colleague a line of retreat.
 - Socially reward people who change their mind.
 - Take into account second and third order effects.
+- Bet on everything where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and underconfidence, which will serve you in good stead emotionally when you try to do inadequacy reasoning.
 
 ## Making Decisions
 
@@ -49,6 +50,7 @@
   1. Identify the best alternative. See which alternative makes most sense based on your criteria.
   1. Develop and implement a plan of action. Act on that decision.
   1. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get.
+- Cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else;
 
 ## [Problem Solving](http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/)
 

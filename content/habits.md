@@ -16,7 +16,7 @@ These steps might be helpful when building habits:
 
 Cognitive inertia is the reason that changing our habits can be difficult. The default is always the path of least resistance, which is easy to accept and harder to question. The important thing about inertia is that it is only the initial push that is difficult. After that, progress tends to be smoother.
 
-Use forcing functions to your advantage. A forcing function is any task, activity or event that forces you to take action and produce a result.
+Use forcing functions to your advantage. A forcing function is any task, activity or event that forces you to take action and produce a result. Have a bias toward taking action. No lazy deferring.
 
 Turn vague goals into trigger-action plans (TAPs). If X then Y. That works because they help us notice situations where we could carry out our intentions. They force us to turn vague and ambiguous goals into more specific ones. A good TAP fulfills three requirements:
 
