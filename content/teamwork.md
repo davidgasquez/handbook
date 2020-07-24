@@ -101,13 +101,41 @@
 - Iterate iterate iterate: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you're prioritizing the right work, which gaps or open questions you haven't thought of yet.
 - Finalize: Get sign off on this version of the roadmap for the upcoming time window. Present it to cross-functional partners and start using it as a communication device to align effort, priorities, and cross-team information sharing.
 
+## [Writing a Design Doc or RFC](https://www.industrialempathy.com/posts/design-docs-at-google/)
+
+- These are relatively informal documents that the primary author or authors of a software system or application create before they embark on the coding project. If code is the bricks and mortar, then these docs are the blueprints.
+- Even if no one else reads them, they force you to clarify my thinking before you start the (more expensive) process of implementation.
+- Design docs fulfill the following functions in the software development lifecycle:
+  - Early identification of design issues when making changes is still cheap.
+  - Achieving consensus around a design in the organization.
+  - Ensuring consideration of cross-cutting concerns.
+  - Scaling knowledge of senior engineers into the organization.
+  - Form the basis of an organizational memory around design decisions.
+- Write them in whatever form makes the most sense for the particular project.
+- A good-to-start-with structure can be:
+  1. Context and scope. Overview of the landscape in which the new system is being built and what is actually being built. Focused on objective background facts. Keep it short.
+  2. Goals and non-goals. What the goals of the system are, and, sometimes more importantly, what non-goals are.
+  3. Design. This is the place to write down the trade-offs you made in designing your software. Given the context (facts), goals and non-goals (requirements), the design doc is the place to suggest solutions and show why a particular solution best satisfies those goals.
+  4. APIs. If the system under design exposes an API, then sketching out that API is usually a good idea.
+  5. Data storage. Systems that store data should likely discuss how and in what rough form this happens.
+  6. Alternatives considered. Share alternative designs that would have reasonably achieved similar outcomes.
+  7. Cross-cutting concerns. This is where your organization can ensure that certain cross-cutting concerns such as security, privacy, and observability are always taken into consideration. These are often relatively short sections that explain how the design impacts the concern and how the concern is addressed. Teams should standardize what these concerns are in their case.
+- In many docs a diagram can be useful.
+- The steps in the lifecycle of a design document are: Create, Iterate, Review, Implement, Iterate and Learn.
+
+### Resources
+
+- [Google Design Doc Template](https://docs.google.com/document/d/18hYAQCTsDgaFUo-VJGhT0UqyetL2LbAzkWNK1fYS8R0/edit#)
+- [Awesome Tech Specs](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)
+- [On Writing Tech Specs](https://codeburst.io/on-writing-tech-specs-6404c9791159)
+
 ## Links
 
-- [Remote Platforms List](https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview) - Lots of websites with remote job offers
-- Startups
-  - [Startup Playbook](https://playbook.samaltman.com/) - Some advice about startups from Sam Altman
-  - [Awesome Startup](https://github.com/KrishMunot/awesome-startup) - A curated list of awesome books, videos, courses and resources about making a startup
+- [Remote Platforms List](https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview) - Lots of websites with remote job offers.
+- Startups:
+  - [Startup Playbook](https://playbook.samaltman.com/) - Some advice about startups from Sam Altman.
+  - [Awesome Startup](https://github.com/KrishMunot/awesome-startup) - A curated list of awesome books, videos, courses and resources about making a startup.
   - [Startup School Resources](https://www.startupschool.org/library) - Startup resources from YCombinator.
   - [Make Handbook](https://makebook.io/) - Learn to bootstrap profitable startups the indie way
-- Team Management
-  - [IPFS](https://github.com/ipfs/team-mgmt)
+- Team Management.
+  - [IPFS](https://github.com/ipfs/team-mgmt).
