@@ -22,5 +22,8 @@ There are many handbooks, wikis or documents where people share knowledge. The f
 - [Daryll Santos](https://github.com/daryllxd/lifelong-learning)
 - [Daniel Schildt](https://github.com/d2s/knowledge)
 - [Julian Shapiro](https://www.julian.com/)
+- [Gordon Brander](http://gordonbrander.com/pattern/)
+- [h0p3](https://philosopher.life/#h0p3)
+- [Karlicoss](https://beepb00p.xyz/exobrain/)
 
-More at the [Meta Knowledge Github repository](https://github.com/RichardLitt/meta-knowledge).
+More at the [Meta Knowledge Github repository](https://github.com/RichardLitt/meta-knowledge) and the [Second Brain collection](https://github.com/KasperZutterman/Second-Brain).
