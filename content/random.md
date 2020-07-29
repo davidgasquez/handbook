@@ -98,6 +98,7 @@ It's a useful conceptual framework for how to get better at things that you curr
 
 - Most of our everyday actions can be traced back to some form of signaling or status seeking
   - A classic example of this would be a luxury watch: A Rolex isn't better at telling the time than a cheap Casio – but a Rolex signals something about its owner's economic power and thus their social standing.
+  - When signaling, the more expensive and useless the item is, the more effective it is as a signal. Although eyeglasses are expensive, they’re a poor way to signal wealth because they’re very useful; a person might get them not because ey is very rich but because ey really needs glasses. On the other hand, a large diamond is an excellent signal; no one needs a large diamond, so anybody who gets one anyway must have money to burn.
 - Our brains deliberately hide this fact from us and others (self deception).
 - Signaling can be broken down into different components:
   - Signal Message: This is whatever (hidden) subtext you are trying to convey.
@@ -115,6 +116,9 @@ It's a useful conceptual framework for how to get better at things that you curr
 ## News
 
 - Portraying [a society where everyone hates each other](https://ncase.itch.io/wbwwb) is the most dangerous virus of all, because it becomes a self-fulfilling prophecy. Nothing spreads faster than anger. Especially anger in the specific format, ["Just look at how awful the people we hate are"](https://www.youtube.com/watch?v=rE3j_RHkqJc).
+  - There is a hierarchy of interestingness that applies to the great information currents and media outlets that shape society as a whole. It's better to raise up [cotrovertials topics than high impact one like charity](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/).
+  - Social and news media usually works against fixing the issues which most of us agree should be fixed. Instead they focus only on perpetuating the things which keep us all discussing, forever.
+- [The amygdala (emotional core of the mind) is built to make us react to "threatening" information that doens't fit into our worldview the same way we react to a predator. That's called the "Backfire Effect"](https://theoatmeal.com/comics/believe). Remember that your worldview is not perfect!
 - If our perceptions of reality are increasingly informed by media with other-than-truth motivations, we'll increasingly lose our handle on the truth.
 - We're losing our ability to think together. Communities can only think when people talk and when they're free to say what they really think. As echo chambers grow larger and more intimidating, people inside them are afraid to defy the sacred narrative. And the more all-encompassing political identities become, the more topics turn from kickable machines to precious infants. Meanwhile, intergroup communication suffers even more, as opposing groups become totally unable to collaborate on ideas.
 - A polarized country that isn't capable of building broad coalitions can't take forward steps—it can only self-inflict.
