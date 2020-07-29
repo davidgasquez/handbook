@@ -18,6 +18,8 @@ Cognitive inertia is the reason that changing our habits can be difficult. The d
 
 Use forcing functions to your advantage. A forcing function is any task, activity or event that forces you to take action and produce a result. Have a bias toward taking action. No lazy deferring.
 
+**Habit stacking**. Connect the what you don't like to what you strongly like. Then you'll be doing it for what you like.
+
 Turn vague goals into trigger-action plans (TAPs). If X then Y. That works because they help us notice situations where we could carry out our intentions. They force us to turn vague and ambiguous goals into more specific ones. A good TAP fulfills three requirements:
 
 - The trigger is clear. The "when" part is a specific, visible thing that's easy to notice.
