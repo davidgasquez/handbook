@@ -32,3 +32,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - History doesn't repeat itself, but it does rhyme. Mark Twain.
 - Seek not for events to happen as you wish but rather wish for events to happen as they do and your life will go smoothly. Epictetus.
 - It is impossible for a man to learn what he thinks he already knows. Epictetus.
+- You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally. Robert M. Pirsig.
