@@ -23,6 +23,7 @@
 - Socially reward people who change their mind.
 - Take into account second and third order effects.
 - Bet on everything where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and underconfidence, which will serve you in good stead emotionally when you try to do inadequacy reasoning.
+- Do your philosophical thinking in advance ([cached thoughts](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts)), so you can concentrate on explaining well. Above all, practice staying within the one-inferential-step bound. [Think for yourself about "wise" or important or emotionally fraught topics](https://www.lessestwrong.com/posts/aSQy7yHj6nPD44RNo/how-to-seem-and-be-deep) rather than letting your brain complete the pattern. If you don't stop at the first answer, and cast out replies that seem vaguely unsatisfactory, in time your thoughts will form a coherent whole, flowing from the single source of yourself, rather than being fragmentary repetitions of other people's conclusions.
 
 ## Making Decisions
 
