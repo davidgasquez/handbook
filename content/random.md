@@ -216,3 +216,11 @@ Dungeons & Dragons is a cooperative storytelling game that harnesses your imagin
 - Accept rather than fight every little thing.
 - Judge yourself accurately and honestly.
 - Causes (stress, overwhlem) are within us. Don't blame people or circunstances. You have a choice.
+
+## Trip Planning
+
+- Select a theme and make sure everyone is in the same page.
+- Have a flexible schedule. Don’t try to control things too much, it will never go as planned and you’ll end up ruining your own personal experience.
+- Ask everyone to make a list of things they would like to see/do.
+- Bring card/board games for long travel days.
+- Ensure you have similar budget expectations. This determines so many things! It's not just about paying equal share.
