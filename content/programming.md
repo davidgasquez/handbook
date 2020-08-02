@@ -115,6 +115,16 @@ Like any other field, the world of Software Development has some interesting and
   - [Meadmaker's SQL Style Guide](https://github.com/meadmaker/sql-style-guide)
   - [SQL Style Guide](https://www.sqlstyle.guide/)
 
+## [Principles of Game Design](https://youtu.be/zaxAdRlyZQ8)
+
+1. Create concrete,achievable, and rewarding goals.
+1. Design for nuanced emotion.
+1. Create rapid and robust controls.
+1. Make fun toys, and combine them into games.
+1. Make the next action obvious.
+1. Give clear and inmmediate feedback with no distraction.
+1. Balance skills with challenge.
+
 ## Resources
 
 - [Semantic Versioning](https://semver.org/)

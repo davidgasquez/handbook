@@ -45,58 +45,17 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html): You have limited time, and you should spend it wisely in things and with people you care about.
 - [The Sagan Series](http://www.saganseries.com/): Breath-taking cinematography and a mesmerising soundtrack lend a powerful scenery to Sagan's narration from his hit TV series, Cosmos.
 
-## Journaling
-
-- Journaling is a "keystone" habit. It tightly locks all of your other habits in place.
-- When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.
-- Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.
-- The development of a coherent narrative helps you reorganise and structure old memories, making them less traumatic.
-- Writing on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.
-- Premeditatio malorum. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.
-- [Journaling is a tool you can use to better manage your mental health](https://nesslabs.com/dear-diary).
-- There are many methods. Start with a simple one like "What worked, what didn't, what's next".
-
 ## DNA Genetic Testing and Analysis
 
 - Companies like 23andMe look only at a few specific genomic coordinates that are known to be contain pathogenic variants, but chances are if you have the associated disease you don't have a variant at one of those few select locations. Because of this, [a negative test result does not mean someone isn't at risk for the condition](https://www.nytimes.com/interactive/2019/02/01/opinion/23andme-cancer-dna-test-brca.html).
-- If it says I don't have something, then that means nothing. If it says I do have something, then that means I should be on the lookout for other corroborating data or symptoms.
+- If it says you don't have something, then that means nothing. If it says you do have something, then that means you should be on the lookout for other corroborating data or symptoms.
 - You can retrieve information about your DNA variations at [Promethease](https://promethease.com/). Other kind of data can be extracted with [dna.land](https://dna.land/) and [FoundMyMitness Genetics](https://www.foundmyfitness.com/genetics).
 - Genetic data may help people today, but it can also be sold to insurance companies.
-- How valuable it would be giving your DNA to a competent advertising company? They could be able to profile and predict users with significantly higher personal accuracy.
-  - This is analogous to the 1800s when people disagreed over whether one should let a camera take your photo. Ff sequencing prices and mobility continue to advance at current rates, in 30 years your DNA could be sequenced thousands of times a day, everywhere you go in public (the same way you're recorded with security cameras).
-
-## [Principles of Game Design](https://youtu.be/zaxAdRlyZQ8)
-
-1. Create concrete,achievable, and rewarding goals.
-1. Design for nuanced emotion.
-1. Create rapid and robust controls.
-1. Make fun toys, and combine them into games.
-1. Make the next action obvious.
-1. Give clear and inmmediate feedback with no distraction.
-1. Balance skills with challenge.
-
-## [How To Do Hard Things](https://www.drmaciver.com/2019/05/how-to-do-hard-things/)
-
-It's a useful conceptual framework for how to get better at things that you currently find difficult.
-
-- The Single-Loop System. Useful when you know what success looks like but cannot currently achieve it.
-  1. Find something that is _like_ the hard thing but is easy.
-  1. Modify the easy thing so that it is like the hard thing in exactly one way that you find hard.
-  1. Do the modified thing until it is no longer hard.
-  1. If you get stuck, do one of the following:
-    a. Go back to step 3 and pick a different way in which the problem is hard.
-    b. Recursively apply the general system for learning to do hard things to the thing you're stuck on.
-    c. Go ask an expert or a rubber duck for advice.
-    d. If you're still stuck after trying the first three, it's possible that you may have hit some sort of natural difficulty limit and may not be able to make progress.
-  1. If the original hard thing is now easy, you're done. If not, go back to step 2.
-- The Double-Loop System. When you don't know what success looks like.
-  1. Apply the single loop system to the problem of improving your understanding of the problem space (e.g. consume lots of examples and learn to distinguish good from bad) in order to acquire a sense of good taste.
-  1. Apply the single loop system to the problem of doing well according to your own sense of good taste.
-  1. Get feedback on the result from others. Do they think you did it well? If yes, great! You're good at the thing. If no, either improve your sense of taste or theirs. If you choose yours, go back to step 1 with the new example. If you choose theirs, apply the single loop system to the hard problem of convincing others that your thing is good.
+- How valuable it would be giving your DNA to a competent advertising company? They could be able to profile and predict users with significantly higher personal accuracy. On the other hand, this is analogous to the 1800s when people disagreed over whether one should let a camera take your photo. If sequencing prices and mobility continue to advance at current rates, in 30 years your DNA could be sequenced thousands of times a day, everywhere you go in public (the same way you're recorded with security cameras).
 
 ## [Signaling](https://julian.digital/2020/03/28/signaling-as-a-service/)
 
-- Most of our everyday actions can be traced back to some form of signaling or status seeking
+- Most of our everyday actions can be traced back to some form of signaling or status seeking.
   - A classic example of this would be a luxury watch: A Rolex isn't better at telling the time than a cheap Casio – but a Rolex signals something about its owner's economic power and thus their social standing.
   - When signaling, the more expensive and useless the item is, the more effective it is as a signal. Although eyeglasses are expensive, they’re a poor way to signal wealth because they’re very useful; a person might get them not because ey is very rich but because ey really needs glasses. On the other hand, a large diamond is an excellent signal; no one needs a large diamond, so anybody who gets one anyway must have money to burn.
 - Our brains deliberately hide this fact from us and others (self deception).
@@ -108,10 +67,10 @@ It's a useful conceptual framework for how to get better at things that you curr
 
 ## Social Media
 
-- Internet algorithms are profit-maximizing mechanisms that want to spoon feed me whatever I'm most likely to click on. This is a win-win, symbiotic relationship—until it's not. When the algorythm is luring in your primitive mind against you, the relationship is parasitic. [The algorythm will learn to show thing that will further confirm and strengthen your existing viewpoints](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles).
+- Internet algorithms are profit-maximizing mechanisms that want to spoon feed you whatever you're most likely to click on. This is a win-win, symbiotic relationship—until it's not. When the algorithm is luring in your primitive mind against you, the relationship is parasitic. [The algorithm will learn to show thing that will further confirm and strengthen your existing viewpoints](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles).
 - Most of our newsfeeds are insular networks made up of people who get their info from the same filter bubble we do.
-- Social media provides an unfortunate filter: it dumbs down complex information. [Ideas don't pass perfectly from one person to another. Like a game of Telephone, the message gets mutated with each re-telling so, over time, ideas "evolve" to be more catchy, copy-able, contagious.](https://ncase.me/crowds/)
-- Your information diet is nearly as important as your food diet. We are what we consume.
+- Social media provides an unfortunate filter: it dumbs down complex information. [Ideas don't pass perfectly from one person to another. Like a game of Telephone, the message gets mutated with each re-telling so, over time, ideas "evolve" to be more catchy, copy-able, contagious.](https://ncase.me/crowds/) The fittest ideas doesn't need to be true.
+- Your information diet is nearly as important as your food diet. We are what we consume. By excesses to which our hardwired biology and natural tendencies have led us over billions of years of evolution. Today's excess of easy-to-access information will have a drastic an effect on health in the 21st century similar to what excess food had in the 20th century. Unhealthy food costs something financially. Consuming seven hours of pointless information is a lot easier and cheaper than eating thirty Twinkies.
 
 ## News
 
@@ -128,8 +87,6 @@ It's a useful conceptual framework for how to get better at things that you curr
 - [News programs are, with the exception of a few non-profit or publicly funded ones, commercial enterprises designed to turn and maximize profit](https://www.mrmoneymustache.com/2013/10/01/the-low-information-diet/).
   - The profit comes from advertising, and advertising revenue is maximized by pulling the largest audience, holding their attention for the longest possible time, and putting them into the mental state most conducive to purchasing the products of the advertisers (which turns out to be helplessness and vulnerability). This is why the news always starts out with a sensationalist take on a topic of at least plausible national interest, takes a detour into truly horrific and depressing irrelevant tragedies is one that unfortunately crossed my screen when doing research for this article), then ends on an uplifting note with something like a defiant entrepreneur or a caring soup kitchen. An emotional roller-coaster ride every day of the week. They don't explore solutions.
 - [There isn't enough actual news (ie events that are "new") to fill the standard news slot — so the fillers became pundits and commentators interpreting "news" and "potential news" for us](https://jjbeshara.com/2018/11/20/the-information-pathology-2/). Humans are good at finding efficiencies, and potential events far outweigh the number of past events, and potential negative events captivate our attention better than potential positive events, so these news-cycles naturally became dominated by commentators interpreting any number of potential negative events.
-- By excesses to which our hardwired biology and preternatural tendencies have led us over billions of years of evolution. Today these have culminated today in an excess of easy-to-access information that will have as drastic an effect on health in the 21st century that excess food has had in the 20th century.
-  - Unhealthy food costs something financially. Consuming seven hours of pointless information is a lot easier and cheaper than eating thirty Twinkies.
 
 ## COVID-19
 
@@ -143,11 +100,6 @@ It's a useful conceptual framework for how to get better at things that you curr
   - Games:
     - [Wavelength](https://gjeuken.github.io/telewave). [Alternative](https://longwave.web.app/).
     - [Codenames](https://www.horsepaste.com/). [Alternative](http://those.codes/).
-
-## Investing
-
-- Today's savings buy tomorrow's liberty. Think long term.
-- Saving money and investing money are both good habits. Small amounts of money invested regularly for many decades without deliberation is one path to wealth.
 
 ## Thought Experiments
 
@@ -207,19 +159,6 @@ Dungeons & Dragons is a cooperative storytelling game that harnesses your imagin
   - [Nahre Sol](https://www.youtube.com/channel/UC8R8FRt1KcPiR-rtAflXmeg)
   - [Andrew Furmanczyk](https://www.youtube.com/channel/UCpzgTNTgQsR9YYsyOm3k3KQ)
   - [Dan the composer](https://www.youtube.com/user/danthecomposer/)
-
-## Stoicism
-
-- [Stoicism is a tool set that helps us direct our thoughts and actions in an unpredictable world](https://www.njlifehacks.com/what-is-stoicism-overview-definition-10-stoic-principles/).
-- We don't control and cannot rely on external events, but we can (to a certain extent) control our mind and choose our behavior.
-- It's not what happens to us but our reactions to it that matter.
-- The 3 Stoic principal leaders are Marcus Aurelius, Epictetus and Seneca.
-- Stoicism teaches how to keep a calm and [rational](rationality.md) mind no matter what happens to you and it helps you understand and focus on what you can control and not worry about and accept what you can't control.
-- We'd be crazy to want to face difficulty in life. But we'd be equally crazy to think that it isn't going to happen. Prepare for it and plan for the worst. The idea of premeditation of adversity is to repeatedly imagine potentially "bad" scenarios in advance, so that they will not catch you by surprise, and you'll be able to face them calmly and act according to virtue.
-- Stoic ideas inevitably lead to greater mindfulness.
-- Accept rather than fight every little thing.
-- Judge yourself accurately and honestly.
-- Causes (stress, overwhlem) are within us. Don't blame people or circunstances. You have a choice.
 
 ## Trip Planning
 

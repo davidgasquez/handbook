@@ -25,3 +25,8 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 - Leverage the power of positive pressure by publicly committing to your goals.
 - [Improve your environment](https://nesslabs.com/neuroscience-of-procrastination). Design your workspace in a way that minimises distractions, whether physical or digital.
 - What is optimal for me won't be optimal for you. You'll have to experiment to find out what works best for you.
+
+## Investing
+
+- Today's savings buy tomorrow's liberty. Think long term.
+- Saving money and investing money are both good habits. Small amounts of money invested regularly for many decades without deliberation is one path to wealth.

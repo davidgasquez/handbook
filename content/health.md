@@ -34,6 +34,11 @@
 - When you have the best and tastiest ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.
 - Experiment! The worst it couyld happen is that you don't like it. Cooking has a short feedback loop. Take risks and you'll get the payoffs. Learn from your mistakes until you succeed.
 
+### Resources
+
+- [Examine.com](https://examine.com/) - Nutrition and Supplement Articles
+- [Eat This Much](https://www.eatthismuch.com/) - Create personalized meal plans based on your food preferences, budget, and schedule.
+
 ## Meditation
 
 - Meditation is a simple practice available to all, which can reduce stress, increase calmness and clarity and promote happiness. Learning how to meditate is straightforward, and the benefits can come quickly. Even just a few minutes a day can make a big difference revealing and refactoring various [mental motions](https://www.lesswrong.com/posts/WYmmC3W6ZNhEgAmWG/a-mechanistic-model-of-meditation#Uses_for_moments_of_introspective_awareness_).
@@ -45,7 +50,26 @@
   3. Stop to notice the sensations throughout your body — the warmth, the coolness or any discomfort. Be aware of them, but try not to fidget too much.
   4. Keep your attention on your breath. Your mind will wander. Notice it whenever it happens, congratulate yourself for having noticed it, and then return to the breath. After a few moments, your mind may wander again. Once again, notice that and simply return your attention back to the present moment.
 
-### Resources
+## Journaling
 
-- [Examine.com](https://examine.com/) - Nutrition and Supplement Articles
-- [Eat This Much](https://www.eatthismuch.com/) - Create personalized meal plans based on your food preferences, budget, and schedule.
+- Journaling is a "keystone" habit. It tightly locks all of your other habits in place.
+- When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.
+- Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.
+- The development of a coherent narrative helps you reorganise and structure old memories, making them less traumatic.
+- Writing on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.
+- Premeditatio malorum. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.
+- [Journaling is a tool you can use to better manage your mental health](https://nesslabs.com/dear-diary).
+- There are many methods. Start with a simple one like "What worked, what didn't, what's next".
+
+## Stoicism
+
+- [Stoicism is a tool set that helps us direct our thoughts and actions in an unpredictable world](https://www.njlifehacks.com/what-is-stoicism-overview-definition-10-stoic-principles/).
+- We don't control and cannot rely on external events, but we can (to a certain extent) control our mind and choose our behavior.
+- It's not what happens to us but our reactions to it that matter.
+- The 3 Stoic principal leaders are Marcus Aurelius, Epictetus and Seneca.
+- Stoicism teaches how to keep a calm and [rational](rationality.md) mind no matter what happens to you and it helps you understand and focus on what you can control and not worry about and accept what you can't control.
+- We'd be crazy to want to face difficulty in life. But we'd be equally crazy to think that it isn't going to happen. Prepare for it and plan for the worst. The idea of premeditation of adversity is to repeatedly imagine potentially "bad" scenarios in advance, so that they will not catch you by surprise, and you'll be able to face them calmly and act according to virtue.
+- Stoic ideas inevitably lead to greater mindfulness.
+- Accept rather than fight every little thing.
+- Judge yourself accurately and honestly.
+- Causes (stress, overwhlem) are within us. Don't blame people or circunstances. You have a choice.
