@@ -17,7 +17,7 @@ Values are what you stand for in life — they are often things that you are for
   - Avoid forming an opinion at all about things that are not evident. Your opinions are not yours and they are holding you back.
   - Research before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
   - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
-- Run your brain in debug mode so you understand why you're thinking in that way.
+- Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much and was built for a different world.
 - Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete. Real people are complex and flawed, full of faults but almost always worthy of compassion. Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out.
   - Digitizing an analog view will result in some loss of information. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros.
 - Mental models and [other concepts](concepts.md) can help us think more effectively.
