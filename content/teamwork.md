@@ -10,25 +10,25 @@
   - Solve problems by fixing the environment that allowed them to occur.
   - Times change, trends change, cultures change. Make it explicit.
 - Work in the open and document everything.
-  - Processes
-    - Write status updates
-  - Conventions
-    - Confirm decisions to move them forward
-    - Offer conclusions in long discussions
-  - Meetings
-    - Update meetings
+  - Processes:
+    - Write status updates.
+  - Conventions:
+    - Confirm decisions to move them forward.
+    - Offer conclusions in long discussions.
+  - Meetings:
+    - Update meetings:
       - Progress: what did I accomplish this week?
       - Plans: What tasks am I doing next week?
       - Problems: what is blocking progress?
       - Other: what else should the team know?
-    - Decision meetings
-      - Progress on achieving current quarterly objectives
-      - How the product is being received in the market
-      - How the most important customers are succeeding (or not) using the product
-      - How the team is performing and any people changes needed
-      - Financial position of the company and review of metrics
-  - Responsibilities
-  - Each thing should have a default place.
+    - Decision meetings:
+      - Progress on achieving current quarterly objectives.
+      - How the product is being received in the market.
+      - How the most important customers are succeeding (or not) using the product.
+      - How the team is performing and any people changes needed.
+      - Financial position of the company and review of metrics.
+  - Responsibilities.
+  - Defaults. For example, each thing should have a place by default, docs, issues, ...
 - You can create a Handbook to put everything together. Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.
 - Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
   - Search should be centralized. Keeping 4 tools causes scattered information.
