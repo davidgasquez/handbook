@@ -26,7 +26,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 
 ## Data Science
 
-### Machine Learning Projects
+### [Machine Learning Projects](https://github.com/eugeneyan/applied-ml)
 
 1. Frame the problem. Define a clear and concise objective.
 1. Get the data.
