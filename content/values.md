@@ -30,6 +30,7 @@ Values are what you stand for in life — they are often things that you are for
 
 - Enjoy Life. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful about it and practice [mindfulness](https://youtu.be/hQo-CQzoW24).
 - Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your time. Happiness is a choice.
+- Be aware of your internal state. Making this more visible makes a better feedback loop.
 - One task at a time. No distractions.
 - KISS. When [communicating](communications.md), do it in a clear and concise way. When [facing a problem](rationality.md#problem-solving), prefer a **lean** approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions. What would this look like if it was simple?
 - Remove friction. Focus on essentials.
@@ -49,6 +50,6 @@ Values are what you stand for in life — they are often things that you are for
 - Embrace change. Don't complain about things you can't change. Be proactive.
 - Celebrate and encourage quirky gifts, [habits](habits.md), behavior, and points of view. No one can compete with you on being you.
 - Share your decisions and ideas so flaws arise earlier in the process.
-- [Maintain a very small identity](http://www.paulgraham.com/identity.html). Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc. You're not your ideas.
+- [Maintain a very small identity](http://www.paulgraham.com/identity.html). Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc. You're not your ideas. Opinions are external objects, they are not you.
 - Honesty demands that we communicate any uncertainty we may feel about the relevance of our own opinions.
 - One of the hardest excercises is to receive [feedback](communications.md#feedback). Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.

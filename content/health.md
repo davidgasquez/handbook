@@ -1,5 +1,7 @@
 # Health
 
+Your health also impact your loved ones. Don't [maximize misery](https://www.youtube.com/watch?v=LO1mTELoj6o).
+
 ## Fitness
 
 - Never sit for prolonged times. Take breaks standing or walking around.
@@ -27,7 +29,9 @@
 
 ## Sleep
 
+- Don't use screens before sleep.
 - Stick to a consistent routinne.
+- If possible, don't use an alarm.
 
 ## Cooking
 
@@ -53,6 +57,7 @@
 ## Journaling
 
 - Journaling is a "keystone" habit. It tightly locks all of your other habits in place.
+- It helps build a self evaluation loop in your life. It gives you the ability to discover what were you thinking and how the decissions turned out. If you don't reflect on your past, any improvements you do in the future will be by randomness.
 - When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.
 - Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.
 - The development of a coherent narrative helps you reorganise and structure old memories, making them less traumatic.
@@ -60,6 +65,11 @@
 - Premeditatio malorum. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.
 - [Journaling is a tool you can use to better manage your mental health](https://nesslabs.com/dear-diary).
 - There are many methods. Start with a simple one like "What worked, what didn't, what's next".
+- Weekly Review:
+  - How did the week go? Wins/Improvements
+  - What would you like to acomplish next week?
+    - Do you need to clarify something?
+    - Which actions will you move closer to your goals?
 
 ## Stoicism
 

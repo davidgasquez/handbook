@@ -29,7 +29,7 @@ Whether you're compiling code or making breakfast, everything can be modeled as 
 
 > If you can't describe what you are doing as a process, you don't know what you're doing. — W. Edwards Deming
 
-Write down processes and iterate over them. You cannot improve what you cannot explain.
+You cannot improve what you cannnot measure. You cannot improve what you cannot explain. Write down processes, take measures and then iterate.
 
 As [Tobi Lütke points out in the Farnam Streen podcast](https://fs.blog/tobi-lutke/), _there are three kinds of processes_. There's a kind of process that makes things that were previously impossible to do, possible. That's good. Then there's a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there's everything else \(just telling people to behave slightly different from what common sense tells them to do\).
 

@@ -128,6 +128,7 @@ Keep the conversation simple and summarise the conversation during the discussio
   1. Reduce them to a tiny outline of the key points.
   1. Post the outline. Trash the rest.
 - Reading is the inhale, writing is the exhale. Breathe.
+- The more you create, the more ideas come yo you to continue creating. That's the creativity feedback loop.
 
 ## Resources
 
