@@ -43,6 +43,7 @@ Values are what you stand for in life — they are often things that you are for
 - Enjoy everything as a child does. Prefer delayed gratification, that is, making short term sacrifices to get long term benefits.
 - Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to make decisions and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.
 - Don't judge. Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Our internal state shapes how we experience the external state.
+- Recognize that tradeoffs happen everywhere. We trade time against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.
 
 ## Openness
 
@@ -52,4 +53,4 @@ Values are what you stand for in life — they are often things that you are for
 - Share your decisions and ideas so flaws arise earlier in the process.
 - [Maintain a very small identity](http://www.paulgraham.com/identity.html). Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc. You're not your ideas. Opinions are external objects, they are not you.
 - Honesty demands that we communicate any uncertainty we may feel about the relevance of our own opinions.
-- One of the hardest excercises is to receive [feedback](communications.md#feedback). Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
+- One of the hardest exercises is to receive [feedback](communications.md#feedback). Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
