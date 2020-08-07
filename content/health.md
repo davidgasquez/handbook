@@ -20,23 +20,23 @@ Your health also impact your loved ones. Don't [maximize misery](https://www.you
 
 - [Fitness Reddit Wiki](https://www.reddit.com/r/Fitness/wiki/) - Extensive resource of fitness information, contributed to by the community and curated by the moderators
 - [Simple Science Fitness](https://ss.fitness/) - Everything you need to know about eating and exercising backed by science
-- [Body Weight Fitness Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) - Best routinne if you like to use your own body to train
-- [Molding Mobility](https://www.youtube.com/watch?v=Aoyy3bKtD84) - Routinne designed to increase general range of motion in your movements
+- [Body Weight Fitness Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) - Best routine if you like to use your own body to train
+- [Molding Mobility](https://www.youtube.com/watch?v=Aoyy3bKtD84) - Routine designed to increase general range of motion in your movements
 - [Starting Stretching](https://www.youtube.com/watch?v=w1iXMvTMvBo) - A 15 minute stretching routine that serves as a starting point for beginners to improve overall flexibility
-- [The Best Fat Loss Article on the Motherfuckin' Internet](http://physiqonomics.com/fat-loss/) - Facts and usefull information about fat loss
+- [The Best Fat Loss Article on the Motherfuckin' Internet](http://physiqonomics.com/fat-loss/) - Facts and useful information about fat loss
 - [Phrak's Greyskull LP](https://old.reddit.com/r/Fitness/wiki/phraks-gslp) - Introductory lifting program to build familiarity and comfortability with the fundamental barbell movements that are a core component of most strength training routines
 - [Building Muscle](https://www.julian.com/guide/muscle/intro) - Article that cover what the science says about exercising and eating to build muscle.
 
 ## Sleep
 
 - Don't use screens before sleep.
-- Stick to a consistent routinne.
+- Stick to a consistent routine.
 - If possible, don't use an alarm.
 
 ## Cooking
 
 - When you have the best and tastiest ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.
-- Experiment! The worst it couyld happen is that you don't like it. Cooking has a short feedback loop. Take risks and you'll get the payoffs. Learn from your mistakes until you succeed.
+- Experiment! The worst that could happen is that you don't like it. Cooking has a short feedback loop. Take risks and you'll get the payoffs. Learn from your mistakes until you succeed.
 
 ### Resources
 
@@ -57,17 +57,17 @@ Your health also impact your loved ones. Don't [maximize misery](https://www.you
 ## Journaling
 
 - Journaling is a "keystone" habit. It tightly locks all of your other habits in place.
-- It helps build a self evaluation loop in your life. It gives you the ability to discover what were you thinking and how the decissions turned out. If you don't reflect on your past, any improvements you do in the future will be by randomness.
+- It helps build a self evaluation loop in your life. It gives you the ability to discover what were you thinking and how the decisions turned out. If you don't reflect on your past, any improvements you do in the future will be by randomness.
 - When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.
 - Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.
-- The development of a coherent narrative helps you reorganise and structure old memories, making them less traumatic.
+- The development of a coherent narrative helps you reorganize and structure old memories, making them less traumatic.
 - Writing on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.
 - Premeditatio malorum. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.
 - [Journaling is a tool you can use to better manage your mental health](https://nesslabs.com/dear-diary).
 - There are many methods. Start with a simple one like "What worked, what didn't, what's next".
 - Weekly Review:
   - How did the week go? Wins/Improvements
-  - What would you like to acomplish next week?
+  - What would you like to accomplish next week?
     - Do you need to clarify something?
     - Which actions will you move closer to your goals?
 
@@ -82,4 +82,4 @@ Your health also impact your loved ones. Don't [maximize misery](https://www.you
 - Stoic ideas inevitably lead to greater mindfulness.
 - Accept rather than fight every little thing.
 - Judge yourself accurately and honestly.
-- Causes (stress, overwhlem) are within us. Don't blame people or circunstances. You have a choice.
+- Causes (stress, overwhelm) are within us. Don't blame people or circumstances. You have a choice.

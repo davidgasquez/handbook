@@ -25,7 +25,7 @@
 - When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new mental model.
 - Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.
 - Use spaced repetition. Make cards that are [atomic, connected and meaningful](https://ncase.me/remember/).
-- [Test your knowledge easly and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL).
+- [Test your knowledge easily and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL).
 - Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
 
 ## [Capture, Organize, Synthesize](http://gordonbrander.com/pattern/capture-organize-synthesize/)
@@ -79,7 +79,7 @@ right in your browser.
 
 ### Others
 
-- [Hack Design](https://hackdesign.org/lessons) - Quick and simple lessons on dessign
+- [Hack Design](https://hackdesign.org/lessons) - Quick and simple lessons on design
 - [Better Explained](http://betterexplained.com/) - Math without endless memorization
 - [Seeing Theory](https://seeing-theory.brown.edu) - A visual introduction to probability and statistics
 - [Tuts+](https://tutsplus.com/) - Collection of How To tutorials on lots of topics

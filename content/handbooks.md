@@ -1,6 +1,6 @@
 # Handbooks
 
-There are many handbooks, wikis or documents where people share knowledge. The follogind shares handbooks that I enjoy reading. Some of these are curated by companies and others are personal.
+There are many handbooks, wikis or documents where people share knowledge. The following shares handbooks that I enjoy reading. Some of these are curated by companies and others are personal.
 
 ## Company Handbooks
 

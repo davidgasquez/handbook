@@ -35,7 +35,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Reduce meat consumption.
 - Donate to birth control projects.
 - Systemic problems need systemic solutions. We can't get there if everyone thinks they already "did their part" (turning off light switches, turning the thermostat down a degree, paper/metal straws, sorting recycling).
-  - [Individual actions aren't enought to improve the current state](https://www.youtube.com/watch?v=DYLWZPFEWTw).
+  - [Individual actions aren't enoughs to improve the current state](https://www.youtube.com/watch?v=DYLWZPFEWTw).
   - [By focussing on the individuals, we miss the much bigger problem of climate change.](https://youtu.be/RSgXcFdHxFI?list=WL). Around 70% of emissions come for 100 companies. Push governments to transform the economy so individuals don't have all the pressure.
 
 ## Annual Review List
@@ -43,7 +43,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - [Egoistic Altruism](https://youtu.be/rvskMHn0sqQ): A Selfish Argument for Making the World a Better Place.
 - [Optimistic Nihilism](https://youtu.be/MBRqu0YOH14): A great philosophy.
 - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html): You have limited time, and you should spend it wisely in things and with people you care about.
-- [The Sagan Series](http://www.saganseries.com/): Breath-taking cinematography and a mesmerising soundtrack lend a powerful scenery to Sagan's narration from his hit TV series, Cosmos.
+- [The Sagan Series](http://www.saganseries.com/): Breath-taking cinematography and a mesmerizing soundtrack lend a powerful scenery to Sagan's narration from his hit TV series, Cosmos.
 
 ## DNA Genetic Testing and Analysis
 
@@ -76,9 +76,9 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 ## News
 
 - Portraying [a society where everyone hates each other](https://ncase.itch.io/wbwwb) is the most dangerous virus of all, because it becomes a self-fulfilling prophecy. Nothing spreads faster than anger. Especially anger in the specific format, ["Just look at how awful the people we hate are"](https://www.youtube.com/watch?v=rE3j_RHkqJc).
-  - There is a hierarchy of interestingness that applies to the great information currents and media outlets that shape society as a whole. It's better to raise up [cotrovertials topics than high impact one like charity](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/).
+  - There is a hierarchy of interestingness that applies to the great information currents and media outlets that shape society as a whole. It's better to raise up [controversial topics than high impact one like charity](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/).
   - Social and news media usually works against fixing the issues which most of us agree should be fixed. Instead they focus only on perpetuating the things which keep us all discussing, forever.
-- [The amygdala (emotional core of the mind) is built to make us react to "threatening" information that doens't fit into our worldview the same way we react to a predator. That's called the "Backfire Effect"](https://theoatmeal.com/comics/believe). Remember that your worldview is not perfect!
+- [The amygdala (emotional core of the mind) is built to make us react to "threatening" information that doesn't fit into our worldview the same way we react to a predator. That's called the "Backfire Effect"](https://theoatmeal.com/comics/believe). Remember that your worldview is not perfect!
 - If our perceptions of reality are increasingly informed by media with other-than-truth motivations, we'll increasingly lose our handle on the truth.
 - We're losing our ability to think together. Communities can only think when people talk and when they're free to say what they really think. As echo chambers grow larger and more intimidating, people inside them are afraid to defy the sacred narrative. And the more all-encompassing political identities become, the more topics turn from kickable machines to precious infants. Meanwhile, intergroup communication suffers even more, as opposing groups become totally unable to collaborate on ideas.
 - A polarized country that isn't capable of building broad coalitions can't take forward steps—it can only self-inflict.
@@ -115,10 +115,10 @@ A thought experiment is a device with which one performs an intentional, structu
 - Balance commuting against other goods and costs (Commuting Paradox).
 - The availability heuristic says that people overcount scenarios that are easy and vivid to imagine, and undercount scenarios that don't involve any readily available examples or mental images. The real estate version of this fallacy involves exciting opportunities that you will rarely or never use. For example, a house with a pool may bring to mind the opportunity to hold pool parties. But most such plans will probably fall victim to akrasia, and even if they don't, how often can one person throw pool parties without exhausting their friends' interest? Pool parties may be fun to imagine, but they'll probably only affect a few hours every couple of months. Other factors, like the commuting distance and whether your children end up in a nice school, may affect several hours every day.
 - Good illumination (daylight has a strong effect on mood) and a view of natural beauty (nature increases mental functioning and concentration) aren't just pleasant luxuries, but can make important practical differences in your life.
-- Research nearby future facilities. Schools, shopping malls, coffe shops, transportation, ...
+- Research nearby future facilities. Schools, shopping malls, coffee shops, transportation, ...
 - Treat it as an asset. Think for how much it'll sell.
 
-## Interesting Youtube Channels
+## Interesting YouTube Channels
 
 - [The Engineer Guy](https://www.youtube.com/user/engineerguyvideo). Bill Hammack explores the world of engineering (from fiber optic to the [design of aluminium beverage can](https://www.youtube.com/watch?v=hUhisi2FBuw&t=1s)).
 - [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w). Educational videos.

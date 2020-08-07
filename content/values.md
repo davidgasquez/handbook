@@ -2,7 +2,7 @@
 
 Values are what you stand for in life — they are often things that you are for or against — what you believe in and are willing to support and stand up for. Values make you even if you don't know what are yours. You are what you do (eat, listen, read, watch). Not what you say, not what you believe, not how you vote, but what you spend your time on. These are the values I try to stand for. **Curious, Mindful and Open**.
 
-## Curiousity
+## Curiosity
 
 - Never stop [learning](learning.md).
   - Read about topics you care, observe the world around you and keep a beginner's mind (*shoshin*).
@@ -44,7 +44,7 @@ Values are what you stand for in life — they are often things that you are for
 - Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to make decisions and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.
 - Don't judge. Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Our internal state shapes how we experience the external state.
 
-## Opennes
+## Openness
 
 - Embrace Weirdness. Don't be another human. Find your place, do what you love and put yourself outside the comfort zone. Unexpected and unconventional things make life more interesting.
 - Embrace change. Don't complain about things you can't change. Be proactive.

@@ -45,7 +45,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **The sum of the parts is greater than the whole**.
   A large application built from a collection of smaller programs is more flexible and hence more useful than a single large program.
   The same functional capability may exist in both solutions, but the collection-of-small-programs approach is the more forward-looking of the two.
-  [The computer is a machine, but a codebase is an organism](https://meltingasphalt.com/a-codebase-is-an-organism/). The organic nature of code manifests itself in the dual forces of growth and decay. It also suggests that you should know your code smells. These smeels won't be causing problems during execution, on the machine. Instead, it's going to cause problems during evolution of the codebase.
+  [The computer is a machine, but a codebase is an organism](https://meltingasphalt.com/a-codebase-is-an-organism/). The organic nature of code manifests itself in the dual forces of growth and decay. It also suggests that you should know your code smells. These smells won't be causing problems during execution, on the machine. Instead, it's going to cause problems during evolution of the codebase.
 
 - **Look for the 80% solution**.
   Doing 100% of anything is difficult.
@@ -64,7 +64,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   Discuss [tradeoffs](https://twitter.com/kelseyhightower/status/774076482637312001), which you prefer, and reach a resolution.
 
 - **Keep the iteration loop short**.
-  Invest in tools to automate and improve the development cycle \(CI, CD\). Decreasing build times a few seconds actually saves a lot of time over time. Deploy often to make the loop end to end. If you need to sinetgubg manually more than twice, then write a tool for the third time.
+  Invest in tools to automate and improve the development cycle \(CI, CD\). Decreasing build times a few seconds actually saves a lot of time over time. Deploy often to make the loop end to end. If you need to do something manually more than twice, then write a tool for the third time.
 
 - **Avoid implicit rules**.
   Implicit rules should always be made explicit and shared with others or automated. Ideally, all processes should be written as code, stored, and versioned.
@@ -122,7 +122,7 @@ Like any other field, the world of Software Development has some interesting and
 1. Create rapid and robust controls.
 1. Make fun toys, and combine them into games.
 1. Make the next action obvious.
-1. Give clear and inmmediate feedback with no distraction.
+1. Give clear and immediate feedback with no distraction.
 1. Balance skills with challenge.
 
 ## Resources

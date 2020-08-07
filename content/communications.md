@@ -1,4 +1,4 @@
-# Comunications
+# Communications
 
 > To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others — Tony Robbins
 
@@ -23,7 +23,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 - Ask for help instead of demanding it.
 - Favor interrogative-led questions over leading questions. A leading question attempts to get the listener to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. "Did you like the movie?" vs "What did you think about the movie?".
 
-## Writting
+## Writing
 
 - Try to use the active voice whenever possible.
 - Keep in mind your style:
@@ -31,7 +31,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   - **Be Useful**. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
   - **Be specific**. Avoid vague language. Cut the fluff. Delete unnecessary words. Say what you mean.
   - **Be consistent**.
-  - **Add rythm**. Vary the sentence lenght to break the monotony.
+  - **Add rhythm**. Vary the sentence length to break the monotony.
 - [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro) The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are.
 - Have solid Schemas. This allows you to remove the clutter and avoid confusion:
   - Define a clear thesis.
@@ -84,7 +84,7 @@ All feedback is good feedback. If you agree with it, it tells you something abou
 
 ## Resolving Disagreement
 
-A few assumptions are required to have a successfull disagreement:
+A few assumptions are required to have a successfully disagreement:
 
 - Epistemic humility. "It's possible that I might be the one who's wrong, here".
 - Good faith. An assumption that people believe things for causal reasons. Assume good intentions.
@@ -97,7 +97,7 @@ A few assumptions are required to have a successfull disagreement:
 One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Ask "What would need to be true for you to...". Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it's easier to evaluate arguments like "we should do X before Y" than it is to converge on "X is better than Y".
 
 Don't focus on proving yourself right, instead of focus on getting the best outcome.
-Keep the conversation simple and summarise the conversation during the discussion.
+Keep the conversation simple and summarize the conversation during the discussion.
 
 ### Blogging
 
@@ -110,7 +110,7 @@ Keep the conversation simple and summarise the conversation during the discussio
 - [You are best positioned to help people one step behind you](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045). The material is still fresh in your mind. Many experts have forgotten what it was like to be a beginner and have forgotten why the topic is hard to understand when you first hear it. The context of your particular background, your particular style, and your knowledge level will give a different twist to what you're writing about.
 - [Share unoriginal ideas](https://guzey.com/personal/why-have-a-blog/). Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn't come up with these ideas otherwise.
 - Start with Why. Start with a question. Write the first flawed answer that comes to mind. Write the first question or objection that comes to mind from that answer. Write the first response that comes to mind from that, ...
-- [Writing creates a cache](https://twitter.com/eugeneyan/status/1256828203840073728). The cache (i.e., documents) scales data availability. eople can access the cache instead of going to you.
+- [Writing creates a cache](https://twitter.com/eugeneyan/status/1256828203840073728). The cache (i.e., documents) scales data availability. people can access the cache instead of going to you.
 - For long-form content, the [diamond model](https://dropbox.design/article/mental-models-for-designers) works great for putting a structure around your main idea.
   1. Attention: Start with a story, statistic, or something similar
   1. Main topic: Briefly introduce the main topic you'll cover

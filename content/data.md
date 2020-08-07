@@ -11,7 +11,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 - Modularity: Steps are independent.
 - Consistency: Same conventions and design patterns across pipelines.
 - Efficiency: Low event latency when needed. Easy to scale up and down.
-- Flexibility: Steps change to confort data points. Changes don't stop the pipeline or losses data.
+- Flexibility: Steps change to conform data points. Changes don't stop the pipeline or losses data.
 
 ### Data Flow
 
@@ -63,10 +63,10 @@ Tech debt is an analogy for the long-term buildup of costs when engineers make d
 ### Resources
 
 - [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
-- [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/)
 - [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
 - [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)
-- [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html)
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/search.html)
 - [Guides for Visualizing Reality](https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/)
 - [Model Interpretability](https://ff06-2020.fastforwardlabs.com/)
   - [Diverse Counterfactuals](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)

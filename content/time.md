@@ -11,8 +11,8 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 - Lists help you to summarize your next steps and to not lose focus. If you place them in a very visible place it makes easier to accomplish goals.
   - Decompose lists items into smaller steps.
 - Doing the same thing over and over again without getting tired is what computers are good at, humans have other skills.
-- If a task takes less than [two minutes](https://jamesclear.com/how-to-stop-procrastinating), do it. It'll make you more productive and also declutter your mind task's backlog.
-- Do the tasks in the right order! One strategy might be starting with the one that could make the others irrelevant or easiers.
+- If a task takes less than [two minutes](https://jamesclear.com/how-to-stop-procrastinating), do it. It'll make you more productive and also unclutter your mind task's backlog.
+- Do the tasks in the right order! One strategy might be starting with the one that could make the others irrelevant or easier.
 - Doing one thing requires giving up another. Whenever you explicitly choose to do one thing, you implicitly choose not to do another thing.
 - Success can be measured in the percentage of time you have under your control.
 - Work expands to fill the time available. If you have six months to complete a task, it will take six months to complete. That's [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law).
@@ -24,7 +24,7 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 - Do the worst thing first. Give yourself a reward once you're done.
 - Create smaller chunks. This helps getting in the flow (find the right balance between the challenge of the activity and your own skills levels). Avoid multitasking.
 - Leverage the power of positive pressure by publicly committing to your goals.
-- [Improve your environment](https://nesslabs.com/neuroscience-of-procrastination). Design your workspace in a way that minimises distractions, whether physical or digital.
+- [Improve your environment](https://nesslabs.com/neuroscience-of-procrastination). Design your workspace in a way that minimizes distractions, whether physical or digital.
 - What is optimal for me won't be optimal for you. You'll have to experiment to find out what works best for you.
 
 ## Investing

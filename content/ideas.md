@@ -5,18 +5,18 @@ A few personal random ideas.
 ## Key Properties of Ideas
 
 - Timeless.
-- No repication costs.
+- No replication costs.
 - Creates win-win situations.
 - Network effects.
 
 ## Interesting Areas
 
 - Data
-- Gobernance
+- Governance
 - Open Source
 - Communities
 - Education
-- Science (biology, astrophisics, ...)
+- Science (biology, astrophysics, ...)
 - Energy
 
 ## Awesome Game
@@ -27,14 +27,14 @@ A few personal random ideas.
 - Companion Apps. Some tasks like trading or planning could be done from a mobile device.
 - Systems \(items, skills, monsters, ...\) could be affected by evolutionary processes.
   - Merging two skills could produce a new one \(inheriting properties and perhaps with a small mutation\)
-  - Monsters will develop resistance agains what's killing them.
+  - Monsters will develop resistance against what's killing them.
   - Quests rewards will also change dynamically.
 - Players can vote for the next patch changes with ingame money. This way developers gets feedback on what's important.
 
 ## Unconventional Changelogs
 
 - What if each city or town had a changelog? What changed in the last _release_? Did it change a street direction or opened a new commerce?
-- What if stores had a changelog? That'd mean price history for each product and also new products woulf be easier to find.
+- What if stores had a changelog? That'd mean price history for each product and also new products would be easier to find.
 
 ## Fake Currencies
 
@@ -42,14 +42,14 @@ A few personal random ideas.
 
 ## Open Data
 
-> Open Data should be easily accesible and free. Imagine a decentralized, distributed platform where people collaborated on dataset the same way they collaborate on code.
+> Open Data should be easily accessible and free. Imagine a decentralized, distributed platform where people collaborated on dataset the same way they collaborate on code.
 
-- A protocol that makes possible addind, curating and sharing datasets.
+- A protocol that makes possible adding, curating and sharing datasets.
 - The main abstractions are `datasets` and `relations`. Both can be updated, forked and discussed like git repositories.
 - Permissionless. People should be able to add new dataset or relation. The main ones will be curated by the community.
 - Built on top of a distributed file system (IPFS, ...) and with incentives to increase collaboration (cryptocurrency, bounties, and other forms of open source funding).
 - People could access the data with a simple CLI (`./opendata get "user/dataset:version")` or HTTPS endpoint (`opendata.com/user/dataset:version`).
-- Declarative way of defining the dataset schema and other properties aswell as the relations.
+- Declarative way of defining the dataset schema and other properties as well as the relations.
 - Datasets should also be exposed in other places like Google Dataset Search.
 
 ## Personal Knowledge Base
@@ -66,12 +66,12 @@ A tool and framework to manage knowledge. This will allow compound learning and 
 - [Each concept could be linked to external content (video, book, audio)](https://www.notion.so/Models-bb0f4bfd3cd140b3a00cd955e61003f9).
   - Content should have tags (related concepts)
 - Can be made public.
-- Personal Knowledge bases can be personal [ontologies with similar core components (individuals, classes, attirubtes, relationsm, ...)](https://en.wikipedia.org/wiki/Ontology_components).
+- Personal Knowledge bases can be personal [ontologies with similar core components (individuals, classes, attributes, relations, ...)](https://en.wikipedia.org/wiki/Ontology_components).
 
 - What if instead of building the tool, we started with the standard and let other tools (Roam, Notion, Obsidian) use that?
 
 ## City Discovery
 
-- Create an activity similar to a gymkhana mixed with escape room. Players have to solve riddles and puzzzles while learning about the city and its history.
+- Create an activity similar to a gymkhana mixed with escape room. Players have to solve riddles and puzzles while learning about the city and its history.
 - There might be digital and real life puzzles.
 - Clues might be scattered across many checkpoints with actors as "NPC"s to guide the players.

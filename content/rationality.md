@@ -1,9 +1,9 @@
 # Rationality
 
-- You can try things to find out which ideas are right or wrong. It requirest asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
+- You can try things to find out which ideas are right or wrong. It requires asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
 - Aim to get an accurate picture of reality, even when that's unpleasant.
-- Local Validity: Some argument steps are allowed steps and some argument steps aren't, indenpendently of whether they arrive at an answer you agree with.
-- People can fool you by saying they saw things that they didn't see, telling you some things they know but not others or by using flawed steps when drawing conclussions. When you try to make an argument come out with a particular answer, tou can fool yourself in the same way.
+- Local Validity: Some argument steps are allowed steps and some argument steps aren't, independently of whether they arrive at an answer you agree with.
+- People can fool you by saying they saw things that they didn't see, telling you some things they know but not others or by using flawed steps when drawing conclusions. When you try to make an argument come out with a particular answer, tou can fool yourself in the same way.
 - You can be the wrong person.
 - Assume good faith. Trust the other person to be believing things that make sense to them, which you'd have ended up believing if you were exposed to the same stimuli, and that they are generally trying to find the the truth.
 - [Notice](https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html) your internal state (cognitive and emotional). Notice when you are in a failure mode, and step out. For example:
@@ -42,7 +42,7 @@
 - [There are many reasons why smart people may make a poor decision](https://nesslabs.com/decision-making); Overconfidence, Analysis paralysis, Information overload, Lack of emotional or physical resources, ...
 - Decision making styles:
   - Intuitive vs. Rational. System 1 vs System 2.
-  - Maximising vs. Satisficing. Go for the optimal decisionor simply try to find a solution that is good enough.
+  - Maximizing vs. Satisficing. Go for the optimal decision or simply try to find a solution that is good enough.
   - Well defined goal vs. blurred objective. Planning all the details or trying to be as flexible as possible.
 - How to make smart decisions once you have the data (DECIDE framework):
   1. Define the problem. Understand the problem at hand.
