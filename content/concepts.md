@@ -76,6 +76,12 @@ It's fundamentally different from the concepts of resiliency (ability to recover
 
 Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same. The antifragile gets better.
 
+### Pareto Principle
+
+There is a cost to pursuing any strategy, whether it’s in time, money, effort, resources, etc. Most strategies have diminishing returns, meaning that, as you keep at them, you get less and less out of an additional marginal bit of effort.
+
+The **Pareto principle or the 80/20 rule states that eighty percent of the results come from twenty percent of the effort**.  Early gains tend to be the largest and most of strategies eventually stops being worthwhile.
+
 ## Incentives
 
 Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
