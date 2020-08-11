@@ -11,7 +11,7 @@ Helpful steps when building habits:
   > If you want to change a river's path, you don't place a sign with the direction in which you want water to go, you dig holes so water flows into them.
 
 - **Learn to say no**. If someone wants you to do something else during this time slot, say no, and tell them why.
-- **Never break the routine**. Breaking it once makes it much easier to break the next scheduled time. Instead think about the smallest thing you can perform and make it your goal for the day. If you do break it, feel bad about it and get back on the horse as fast as you can. Use forcing functions to your advantage. A forcing function is any task, activity or event that forces you to take action and produce a result. Have a bias toward taking action. No lazy deferring.
+- **Never break the routine**. Breaking it once makes it much easier to break the next scheduled time. Instead think about the smallest thing you can perform and make it your goal for the day. If you do break it, feel bad about it and get back on the horse as fast as you can. Use forcing functions to your advantage. A forcing function is any task, activity or event that forces you to take action and produce a result. Have a bias toward taking action. No lazy deferring. When it’s habit time, it should require more willpower to break the habit than to keep going.
 - **Use the power of accountability to reinforce the routine**. If you can find someone who will hold you accountable, do it. Someone who does the routine with you, or a coach who will call you out if you make excuses. Whatever you value, hang around people that are better at it than you are.
 - **One thing at a time**. Don't build a big routine of 15 tasks at once. Ease into it one habit at a time. Changing one at a time routine allows you to isolate the benefits. Remove related bad habits at the same time.
 - **Don't overload yourself**. Leave time in your schedule for play. If it gets to be too much, decide which one you will drop permanently to make rooms for the rest.
@@ -30,7 +30,7 @@ That's a system. Goals are good for setting a direction, but systems are best fo
 
 ## Themes
 
-To better accomplish positive life change, [give yourself a theme](https://youtu.be/NVGuFdX5guE). A theme will be easy to follow and will impact your daily actions. Resolutions give us the feeling of failure, themes gives us chances to apply them. A good theme can't fail. Just having a theme in your mind will change the way you think. You'll notice paths that weren't there before. Broad themes gives flexibility. Pick a broad directional idea that resonates with you and run with it. Themes can be as long or short as you need. These are some theme ideas:
+To better accomplish positive life change, [give yourself a theme](https://youtu.be/NVGuFdX5guE). A theme will be easy to follow and will impact your daily actions. Without knowing where you want to go you just wonder. Resolutions give us the feeling of failure, themes gives us chances to apply them. A good theme can't fail. Just having a theme in your mind will change the way you think. You'll notice paths that weren't there before. Broad themes gives flexibility. Pick a broad directional idea that resonates with you and run with it. Themes can be as long or short as you need. These are some theme ideas:
 
 - Order
 - Simplicity
