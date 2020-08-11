@@ -4,6 +4,8 @@
 
 Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, discussion, education, and many more. Communication is a skill that is learnable.
 
+You become an average of the people you spend the most time with. Choose wisely!
+
 ## Talking
 
 - Smile and look at the eyes.
