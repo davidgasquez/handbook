@@ -25,10 +25,11 @@ Values are what you stand for in life — they are often things that you are for
 - Live Smarter not Harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md). Accomplish more with less.
 - Knowing more about the world makes you enjoy it more. [Understanding how music is made increases the pleasure you get from music](https://youtu.be/JbVfcZxfIZo?list=WL).
   - [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail). Surprising detail is a near universal property of getting up close and personal with reality. You experience lots of these details the first time you do something new!
+- [If you think you’re going to regret not doing something, you should probably do it](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short). Regret is the worst, and most people regret far more things they didn’t do than things they did do.
 
 ## Mindfulness
 
-- Enjoy Life. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful about it and practice [mindfulness](https://youtu.be/hQo-CQzoW24).
+- Enjoy Life. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful about it and practice [mindfulness](https://youtu.be/hQo-CQzoW24). You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. [Life is short](http://paulgraham.com/vb.html).
 - Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your time. Happiness is a choice.
 - Be aware of your internal state. Making this more visible makes a better feedback loop.
 - One task at a time. No distractions.
@@ -42,7 +43,7 @@ Values are what you stand for in life — they are often things that you are for
   - Every person is inherently valuable independent of behavior and beliefs. Create safe spaces for people, and a dangerous space for ideas ([idea labs](https://mobile.twitter.com/waitbutwhy/status/1278035160454348800)). When you have a nice thing to say about someone, say it to them right away, instead of waiting. You might not see them again.
 - Enjoy everything as a child does. Prefer delayed gratification, that is, making short term sacrifices to get long term benefits.
 - Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to make decisions and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.
-- Don't judge. Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Our internal state shapes how we experience the external state.
+- Don't judge. Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Our internal state shapes how we experience the external state. You never know the whole story.
 - Recognize that tradeoffs happen everywhere. We trade time against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.
 
 ## Openness

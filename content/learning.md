@@ -28,6 +28,7 @@
 - [Test your knowledge easily and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL).
 - Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
 - One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad habits right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.
+- For some subjects, [there’s no speed limit](https://sive.rs/kimo). If you’re more driven than most people, you can do way more than anyone expects.
 
 ## [Capture, Organize, Synthesize](http://gordonbrander.com/pattern/capture-organize-synthesize/)
 

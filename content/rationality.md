@@ -58,11 +58,11 @@
   1. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get.
 - Cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else;
 
-## [Problem Solving](http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/)
+## Problem Solving
 
 - Problems have multiple solutions at multiple levels.
 - Humans get obsessed with solutions rather than first building an obsession with a problem. Obsess around problems, not solutions.
-- Most of the time problems already have solutions:
+- [Most of the time problems already have solutions](http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/):
   - The first group of people that encounter a problem don't know how to solve it.
   - They figure out a way of doing it, and when they get to a solution that's good enough \(not perfect, just good enough\), that's what they settle on.
   - The next time they encounter the problem, they use the same solution.
@@ -77,6 +77,7 @@
 - Aim for a Minimum Viable Solution. **Start small and iterate**. Fail early and learn from it. That allows you to explore, then exploit.
 - When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away ([Via Negativa](https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/)). For example, the foods you avoid are more important than the foods you eat.
 - Your problems will tend to either be **adaptive** or **technical**. Adaptive problems require experimentation, novel strategies, or new ways of thinking and being; they're problems containing "unknown unknowns" and are often opaque in addition to being difficult. Technical problems may be equally difficult, but their difficulty lies in execution. Technical problems are those where the path to the solution is known or knowable and does not need to be discovered.
+- [There's a kind of thinking you do without trying to](http://www.paulgraham.com/top.html). This type of thinking is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly. Try to get yourself into situations where the most urgent problems are ones you want to think about.
 
 ## Resources
 
