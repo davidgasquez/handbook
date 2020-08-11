@@ -5,7 +5,7 @@
   - Stick to defining components and keep concepts. Show how the components interact.
   - Define boundaries and limitations of each component.
   - Write tech specs before you write software \(examples in [Codeburst](https://codeburst.io/on-writing-tech-specs-6404c9791159) and [Lyft](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)\). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
-- Define the culture and values. [Culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md) is simply a shared way of doing something with passion. Culture is created and re-created by the choices made by individuals every day. It can be reshaped by conscious effort applied gently, subtly, and consistently.
+- Define the culture and values. [Culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md) is simply a shared way of doing something with passion. Culture is created and re-created by the choices made by individuals every day. It can be reshaped by conscious effort applied gently, subtly, and consistently. It is also a shared mechanism for problem solving.
   - Make the right thing to do the easiest thing to do.
   - Solve problems by fixing the environment that allowed them to occur.
   - Times change, trends change, cultures change. Make it explicit.

@@ -1,13 +1,13 @@
 # Time
 
-Time is the most valuable and least replaceable resource. Just like money, [time must be explicitly managed](https://youtu.be/oTugjssqOT0). If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive.
+Time is the most valuable and least replaceable resource. Life is short. Just like money, [time must be explicitly managed](https://youtu.be/oTugjssqOT0). If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive. Days are long but decades are short.
 
 - Learn to prioritize, and value your time. "I don't have time" is another way of saying "it's not a priority".
   - [Separate decisions into four possibilities based on the type of decision](https://fs.blog/2018/09/decision-matrix/):
     1. Irreversible and inconsequential
-    1. Irreversible and consequential. These are the ones that you really need to focus on.
-    1. Reversible and inconsequential
-    1. Reversible and consequential. Perfect decisions to run experiments and gather information.
+    2. Irreversible and consequential. These are the ones that you really need to focus on.
+    3. Reversible and inconsequential
+    4. Reversible and consequential. Perfect decisions to run experiments and gather information.
 - Lists help you to summarize your next steps and to not lose focus. If you place them in a very visible place it makes easier to accomplish goals.
   - Decompose lists items into smaller steps.
 - Doing the same thing over and over again without getting tired is what computers are good at, humans have other skills.
