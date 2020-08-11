@@ -27,6 +27,10 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 - [Improve your environment](https://nesslabs.com/neuroscience-of-procrastination). Design your workspace in a way that minimizes distractions, whether physical or digital.
 - What is optimal for me won't be optimal for you. You'll have to experiment to find out what works best for you.
 
+## Focus
+
+- Disable notifications and badges so that you don’t mindlessly open distracting apps.
+
 ## Investing
 
 - Today's savings buy tomorrow's liberty. Think long term.
