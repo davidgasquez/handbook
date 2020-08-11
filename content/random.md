@@ -1,24 +1,6 @@
-# Uncategorized
+# Random
 
 Random thoughts about specific topics. Probably biased based on my experience. As with the rest of the handbook, think of them as a work in progress.
-
-## Politics
-
-- To debate politics as in any other field, first gather information and then decide. [Think like a scientist](https://waitbutwhy.com/2019/09/thinking-ladder.html).
-- Think of it as a complex system. Everything is related and has unexpected consequences.
-- Don't attach to any movement so it doesn't become part of your identity. Arguments are soldiers. Once you attach to one side, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side.
-- Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on precached ideology. It's just better to discuss issues without invoking teams.
-- Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government).
-- If you think politics is annoying, then it's because you're privileged enough for it to not matter.
-- Don't forget two things: your perception of reality has probably been at least a little manipulated, and your opponents are behaving the way they are based on a perception of reality that's different from your own.
-  - What does this look/feel like to the people I don't know?
-
-### [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
-
-- [No silver bullet](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem).
-- [Politics In The Animal Kingdom](http://www.cgpgrey.com/politics-in-the-animal-kingdom/) is a great summary of a few methods.
-- There are [better ways to build a ballot](https://ncase.me/ballot/).
-- Approval voting is usually a good choice. Is simple to explain and to count, and comprehensibility is an important factor when choosing a voting method. That said, there are [really good alternatives](https://electionscience.github.io/vse-sim/VSEbasic/).
 
 ## Reducing Environmental Impact
 
@@ -134,33 +116,6 @@ A thought experiment is a device with which one performs an intentional, structu
 - [Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg). Take a look at interesting countries, policies and decisions from the point of view of an economist.
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ). Maker/robotics enthusiast/non-engineer. Have become somewhat of an expert in shitty robots.
 - [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart). Science videos every week!
-
-## Dungeons and Dragons Resources
-
-Dungeons & Dragons is a cooperative storytelling game that harnesses your imagination and invites you to explore a fantastic world of adventure, where heroes battle monsters, find treasures, and overcome epic quests.
-
-- [Dungeons & Dragons 5th Edition wiki](http://dnd5e.wikidot.com/)
-- [Dungeons & Dragons Beyond Essentials](https://www.dndbeyond.com/essentials)
-- [Token Stamp Creator](tokenstamp)
-- [Astral](https://www.astraltabletop.com/) - The easiest way to play tabletop roleplaying games online, free.
-- [Cyanomys' Guide To Playing RPGs Online](https://paper.dropbox.com/doc/Cyanomys-Guide-To-Playing-RPGs-Online-v2.1.0-Ef83ststlhPqW0LELrgye#:h2=Cyanomys%E2%80%99-Guide-To-Playing-RPG)
-
-## Pixel Art Resources
-
-- [Tutorials](https://blog.studiominiboss.com/pixelart) - Great collection of pixel art tutorials.
-
-## Piano Resources
-
-- [Getting Started as a Beginner](https://www.reddit.com/r/piano/wiki/faq#wiki_getting_started_as_a_beginner).
-- [Practicing for the absolute beginner](https://www.reddit.com/r/piano/comments/7porbg/practicing_for_the_absolute_beginner_where_and/) - Where and how to start playing the piano.
-- [Synthesia](https://synthesiagame.com/) - A fun way to learn how to play the piano.
-- [How to Play Piano](https://www.youtube.com/watch?v=gnMDpBQ_bDQ&app=desktop) - Learn Pop Songs on the Piano in 5 Minutes.
-- [Getting Started with Music Theory](https://www.reddit.com/r/musictheory/wiki/faq/core/new_to_music_theory). More [lessons](https://www.musictheory.net/lessons) and a [great tool](https://play.google.com/store/apps/details?id=com.evilduck.musiciankit&hl=en).
-- Youtube Channels:
-  - [Bill Hilton](https://www.youtube.com/user/billhiltonbiz)
-  - [Nahre Sol](https://www.youtube.com/channel/UC8R8FRt1KcPiR-rtAflXmeg)
-  - [Andrew Furmanczyk](https://www.youtube.com/channel/UCpzgTNTgQsR9YYsyOm3k3KQ)
-  - [Dan the composer](https://www.youtube.com/user/danthecomposer/)
 
 ## Trip Planning
 
