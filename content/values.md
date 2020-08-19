@@ -7,14 +7,14 @@ Values are what you stand for in life — they are often things that you are for
 - Never stop [learning](learning.md).
   - Read about topics you care, observe the world around you and keep a beginner's mind (*shoshin*).
   - Don't be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
-  - Test your assumptions/beliefs as many times as possible. Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
+  - Test your assumptions/beliefs as many times as possible. A great way to do that is to bet on future outcomes.
+  - Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
 - Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your idea doesn't work out, the community will have learned better why that approach doesn't make sense.
 - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it.
 - Practice [rational](rationality.md) thinking.
   - Absolute truth is relative to everyone and you don't know everything.
   - Stress test your ideas with experiments and facts. Everything you know or do could be wrong.
   - We do not know what we don't know. Gather as much context as you can before making any final statement.
-  - Avoid forming an opinion at all about things that are not evident. Your opinions are not yours and they are holding you back.
   - Research before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
   - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
 - Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much and was built for a different world.
@@ -52,6 +52,6 @@ Values are what you stand for in life — they are often things that you are for
 - Embrace change. Don't complain about things you can't change. Be proactive.
 - Celebrate and encourage quirky gifts, [habits](habits.md), behavior, and points of view. No one can compete with you on being you.
 - Share your decisions and ideas so flaws arise earlier in the process.
-- [Maintain a very small identity](http://www.paulgraham.com/identity.html). Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc. You're not your ideas. Opinions are external objects, they are not you.
+- [Maintain a very small identity](http://www.paulgraham.com/identity.html). Avoid forming an opinion at all about things that are not evident. Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc. You're not your opinions. Opinions are external objects.
 - Honesty demands that we communicate any uncertainty we may feel about the relevance of our own opinions.
 - One of the hardest exercises is to receive [feedback](communications.md#feedback). Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
