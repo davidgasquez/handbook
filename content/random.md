@@ -84,6 +84,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
   - Games:
     - [Wavelength](https://gjeuken.github.io/telewave). [Alternative](https://longwave.web.app/).
     - [Codenames](https://www.horsepaste.com/). [Alternative](http://those.codes/).
+    - [Hanabi](https://hanabi.cards/).
 
 ## Thought Experiments
 
