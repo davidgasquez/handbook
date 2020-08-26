@@ -52,7 +52,7 @@
 - Encourage to fail. Failing is good if the team learn from it!
 - Encourage effectiveness. Find ways to free up your time.
 - Push relentlessly toward automation.
-  - Investigate where \(and how\) processes and tasks could be automated, and understanding the costs of automating them.
+  - Investigate where (and how) processes and tasks could be automated, and understanding the costs of automating them.
 - A company may be looked as a combination of 3 things:
   - The people who work at the company.
   - The process the company uses to get work done.
