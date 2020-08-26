@@ -35,7 +35,7 @@ You become an average of the people you spend the most time with. Choose wisely!
   - **Be consistent**.
   - **Add rhythm**. Vary the sentence length to break the monotony.
 - [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro) The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are.
-- Have solid Schemas. This allows you to remove the clutter and avoid confusion:
+- Have solid schemas. List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion:
   - Define a clear thesis.
   - Support your thesis with arguments.
   - Declare and reject the antithesis.
