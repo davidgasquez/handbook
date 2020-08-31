@@ -38,6 +38,7 @@
   - Allocating — How much attention, time, and capital should you spend on this?
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
 - Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy.
+- The fog of the future hides vital information.
 - If all options are similar take the harder one in the short term \(_Hard decisions easy life, easy decisions, hard life_\).
 - Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/environmental changes.
 - The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
@@ -51,11 +52,11 @@
   - Well defined goal vs. blurred objective. Planning all the details or trying to be as flexible as possible.
 - How to make smart decisions once you have the data (DECIDE framework):
   1. Define the problem. Understand the problem at hand.
-  1. Establish the criteria. List all the factors you want to consider before making a decision.
-  1. Consider the alternatives. Do enough research to have a few solid alternatives.
-  1. Identify the best alternative. See which alternative makes most sense based on your criteria.
-  1. Develop and implement a plan of action. Act on that decision.
-  1. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get.
+  2. Establish the criteria. List all the factors you want to consider before making a decision.
+  3. Consider the alternatives. Do enough research to have a few solid alternatives.
+  4. Identify the best alternative. See which alternative makes most sense based on your criteria.
+  5. Develop and implement a plan of action. Act on that decision.
+  6. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get.
 - Cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else;
 
 ## Problem Solving
