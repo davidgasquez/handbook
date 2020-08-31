@@ -8,6 +8,7 @@ How you live affects how long you live. Most people could do better. Your health
 - Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.
 - Too much sugar leads to a heavy body. Too many distractions lead to a heavy mind.
 - [It's been shown that the timing of your meals and more specifically your protein intake, doesn't make any difference to the growth of your muscles. Just get adequate protein and calories throughout the day, though you might want to eat something post workout anyway for energy.](https://www.reddit.com/r/leangains/comments/9fxkof/if_you_eat_a_big_preworkout_meal_do_you_need_to/)
+- [Going for a walk has lots benefits](https://www.betterhealth.vic.gov.au/health/healthyliving/walking-for-good-health). Around 30 minutes a day or more on most days of the week is a great way to improve or maintain your overall health.
 
 ### Posture
 
@@ -33,10 +34,11 @@ How you live affects how long you live. Most people could do better. Your health
 - Stick to a consistent routine.
 - If possible, don't use an alarm.
 
-## Cooking
+## Nutrition
 
 - When you have the best and tastiest ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.
 - Experiment! The worst that could happen is that you don't like it. Cooking has a short feedback loop. Take risks and you'll get the payoffs. Learn from your mistakes until you succeed.
+- [Fasting can be useful in some situations](https://www.reddit.com/r/productivity/comments/6demoi/why_you_should_try_intermittent_fasting_mood/).
 
 ### Resources
 
