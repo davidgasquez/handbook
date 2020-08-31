@@ -55,6 +55,11 @@ It's a useful conceptual framework for how to get better at things that you curr
   1. Apply the single loop system to the problem of doing well according to your own sense of good taste.
   1. Get feedback on the result from others. Do they think you did it well? If yes, great! You're good at the thing. If no, either improve your sense of taste or theirs. If you choose yours, go back to step 1 with the new example. If you choose theirs, apply the single loop system to the hard problem of convincing others that your thing is good.
 
+## [Learning Soft Skills](https://www.lesswrong.com/posts/ZGzDNfNCXzfx6hYAH/how-to-learn-soft-skills)
+
+- Pick a soft skill, X, that you’d like to get better at. Then, set a 5-minute timer. Spend those 5 minutes explaining to yourself, in writing, how to do X. Brainstorm on what the key tricky bits are, or strategies for navigating them.
+- Explore how is skill X really actually just the same as skill Y. In the sense that anyone who is fluent in skill Y already knows all they need to know to be good at X — they just need to apply their Y-skill to X. Your goal, as you do this, is to create a very short guide that enables anyone who already knows Y to hit the ground running with X.
+
 ## Links
 
 - [Khan Academy](https://khanacademy.org/) - Free and comprehensive early courses covering a wide range of topics

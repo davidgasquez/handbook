@@ -3,7 +3,7 @@
 ## Politics
 
 - To debate politics as in any other field, first gather information and then decide. [Think like a scientist](https://waitbutwhy.com/2019/09/thinking-ladder.html).
-- Think of it as a complex system. Everything is related and has unexpected consequences.
+- Think of it as a complex system. Everything is related and has unexpected consequences. Don't missatribute sistemic failures to scapegoats.
 - Don't attach to any movement so it doesn't become part of your identity. Arguments are soldiers. Once you attach to one side, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side.
 - Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on precached ideology. It's just better to discuss issues without invoking teams.
 - Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government).
