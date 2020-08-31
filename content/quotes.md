@@ -35,3 +35,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally. Robert M. Pirsig.
 - Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Richard Feynman.
 - There are no solutions. There are only trade-offs. Thomas Sowell.
+- It's not that life is short, it's that we waste to much of it. Seneca.
