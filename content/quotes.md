@@ -36,3 +36,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Richard Feynman.
 - There are no solutions. There are only trade-offs. Thomas Sowell.
 - It's not that life is short, it's that we waste to much of it. Seneca.
+- Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in. Isaac Asimov.
