@@ -2,7 +2,7 @@
 
 [We, humans, are basically habit machines](https://twitter.com/JamesClear/status/1059504529111158784). We form habits. We run on those habits all day long. Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time. The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it ([ego depletion](https://en.wikipedia.org/wiki/Ego_depletion)). Habits will keep the frontal cortex free to solve other problems.
 
-They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them [compound](https://www.investopedia.com/terms/c/compoundinterest.asp). Remember, there are [no hacks](http://www.collaborativefund.com/blog/useful-hacks/) in life! Your outcomes are a lagging measure of your habits.
+They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them [compound](https://www.investopedia.com/terms/c/compoundinterest.asp). Remember, there are [no hacks](http://www.collaborativefund.com/blog/useful-hacks/) in life! Your outcomes are a lagging measure of your habits. How we spend your days is how you spend your life.
 
 Helpful steps when building habits:
 

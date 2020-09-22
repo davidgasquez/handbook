@@ -10,6 +10,12 @@
 - If you think politics is annoying, then it's because you're privileged enough for it to not matter.
 - Don't forget two things: your perception of reality has probably been at least a little manipulated, and your opponents are behaving the way they are based on a perception of reality that's different from your own.
   - What does this look/feel like to the people I don't know?
+- [Coordination](https://vitalik.ca/general/2020/09/11/coordination.html), the ability for large groups of actors to work together for their common interest, is one of the most powerful forces in the universe. It can be improved in many ways:
+  - Faster spread of information.
+  - Better norms that identify what behaviors are classified as cheating along with more effective punishments.
+  - Stronger and more powerful organizations.
+  - Tools like smart contracts that allow interactions with reduced levels of trust.
+  - Governance technologies (voting, shares, decision markets...)
 
 ### [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 

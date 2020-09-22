@@ -24,12 +24,13 @@ You become an average of the people you spend the most time with. Choose wisely!
 - No matter how correct you are, you won't get anywhere by making the other person feel stupid. Not being annoying is more important than being smart. Aim to make friends. [Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/).
 - Ask for help instead of demanding it.
 - Favor interrogative-led questions over leading questions. A leading question attempts to get the listener to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. "Did you like the movie?" vs "What did you think about the movie?".
+- Make [interesting questions](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic) to know people better.
 
 ## Writing
 
 - Try to use the active voice whenever possible.
 - Keep in mind your style:
-  - **Be concise**. Understand the topic you're writing about. Use simple words and sentences. Put the most important things first.
+  - **Be concise**. Understand the topic you're writing about. Use simple words and sentences. Put the most important things first. Never use a long word when a short one will do.
   - **Be Useful**. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
   - **Be specific**. Avoid vague language. Cut the fluff. Delete unnecessary words. Say what you mean.
   - **Be consistent**.

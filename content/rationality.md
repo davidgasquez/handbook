@@ -79,6 +79,17 @@
 - When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away ([Via Negativa](https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/)). For example, the foods you avoid are more important than the foods you eat.
 - Your problems will tend to either be **adaptive** or **technical**. Adaptive problems require experimentation, novel strategies, or new ways of thinking and being; they're problems containing "unknown unknowns" and are often opaque in addition to being difficult. Technical problems may be equally difficult, but their difficulty lies in execution. Technical problems are those where the path to the solution is known or knowable and does not need to be discovered.
 - [There's a kind of thinking you do without trying to](http://www.paulgraham.com/top.html). This type of thinking is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly. Try to get yourself into situations where the most urgent problems are ones you want to think about.
+- If a problem has no solution, it may not be a problem, but a fact - not to be solved, but to be coped with over time.
+
+## Asking Questions
+
+- [Ask swart questions](http://www.catb.org/esr/faqs/smart-questions.html):
+  1. Do your own research first.
+  2. Include things you have tried and thought of before asking the question.
+  3. Be explicit about what you want to achieve in the end and provide as much up-front information as possible to help.
+  4. Respect other people's time. Follow up after you get an answer.
+- [When asking for help, let the people know what the problem you are trying to solve actually is instead of simply saying your solution and the reader guessing what it is you are actually trying to do](http://xyproblem.info/).
+- [Think about the question like a child](https://www.aaronkharris.com/asking-questions).
 
 ## Resources
 

@@ -30,6 +30,8 @@ A few personal random ideas.
   - Monsters will develop resistance against what's killing them.
   - Quests rewards will also change dynamically.
 - Players can vote for the next patch changes with ingame money. This way developers gets feedback on what's important.
+- Could have a GPS RPG extension. Locations in the real world would be named similarly to the real place but with a twist given by a Neural Network.
+- Factions can tace control of a region and build new things there.
 
 ## Unconventional Changelogs
 

@@ -38,3 +38,8 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 
 - Today's savings buy tomorrow's liberty. Think long term.
 - Saving money and investing money are both good habits. Small amounts of money invested regularly for many decades without deliberation is one path to wealth.
+- Before you get into investing, get into [budgeting](https://www.reddit.com/r/ynab/comments/8d4ab4/what_is_the_best_approach_for_budgeting_savings/).
+
+### Resources
+
+- [Bogleheads](https://www.bogleheads.org/wiki/Getting_started).

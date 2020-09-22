@@ -10,7 +10,7 @@ Values are what you stand for in life — they are often things that you are for
   - Test your assumptions/beliefs as many times as possible. A great way to do that is to bet on future outcomes.
   - Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
 - Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your idea doesn't work out, the community will have learned better why that approach doesn't make sense.
-- Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it.
+- Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. Mistakes are the portals of discovery.
 - Practice [rational](rationality.md) thinking.
   - Absolute truth is relative to everyone and you don't know everything.
   - Stress test your ideas with experiments and facts. Everything you know or do could be wrong.

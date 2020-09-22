@@ -37,3 +37,11 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - There are no solutions. There are only trade-offs. Thomas Sowell.
 - It's not that life is short, it's that we waste to much of it. Seneca.
 - Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in. Isaac Asimov.
+- Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again. Steve Jobs.
+- A witty saying proves nothing. Voltaire.
+- This too shall pass. Persian adage.
+
+## External Lists
+
+- [Nikita Voloboev's favorites quotes](https://nikitavoloboev.xyz/likes/#quotes).
+- [Ask HN: What is your favorite motto? (2020)](https://news.ycombinator.com/item?id=24436135)
