@@ -1,0 +1,399 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Random - Handbook</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="../favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="../favicon.png">
+        
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="../custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../index.html">Handbook</a></li><li class="chapter-item expanded "><a href="../values.html">Values</a></li><li class="chapter-item expanded "><a href="../communications.html">Communications</a></li><li class="chapter-item expanded "><a href="../concepts.html">Concepts</a></li><li class="chapter-item expanded "><a href="../data.html">Data</a></li><li class="chapter-item expanded "><a href="../decentralization.html">Decentralization</a></li><li class="chapter-item expanded "><a href="../governance.html">Governance</a></li><li class="chapter-item expanded "><a href="../habits.html">Habits</a></li><li class="chapter-item expanded "><a href="../health.html">Health</a></li><li class="chapter-item expanded "><a href="../hobbies.html">Hobbies</a></li><li class="chapter-item expanded "><a href="../learning.html">Learning</a></li><li class="chapter-item expanded "><a href="../programming.html">Programming</a></li><li class="chapter-item expanded "><a href="../quotes.html">Quotes</a></li><li class="chapter-item expanded "><a href="../rationality.html">Rationality</a></li><li class="chapter-item expanded "><a href="../teamwork.html">Teamwork</a></li><li class="chapter-item expanded "><a href="../time.html">Time</a></li><li class="chapter-item expanded "><a href="../random/random.html" class="active">Random</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../random/ideas.html">Ideas</a></li><li class="chapter-item expanded "><a href="../random/animals.html">Animals</a></li><li class="chapter-item expanded "><a href="../random/questions.html">Questions</a></li><li class="chapter-item expanded "><a href="../random/handbooks.html">Handbooks</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Handbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#random" id="random">Random</a></h1>
+<p>Random thoughts about specific topics. Probably biased based on my experience. As with the rest of the handbook, think of them as a work in progress.</p>
+<h2><a class="header" href="#reducing-environmental-impact" id="reducing-environmental-impact">Reducing Environmental Impact</a></h2>
+<ul>
+<li>Reduce, Reuse, Recycle. In that order.</li>
+<li>Eat local to reduce costs of transportation.</li>
+<li>Invest in new tech. Tech will be able to create new solutions (and new problems too).</li>
+<li>Use renewable energy. Donate to renewable energies projects.</li>
+<li>Insulate your house.</li>
+<li><a href="https://www.bio.org/blogs/gmos-have-benefits-environment">Use GMOs</a>.</li>
+<li>Vote with your wallet by buy environmentally conscious things from environmentally conscious and if possible, local companies.</li>
+<li>Opt for long lasting products over ones you will have to replace quickly.</li>
+<li>Avoid plastic products.</li>
+<li>Plant plants and create gardens! Donate to organizations that save (better than planting new) trees.</li>
+<li>Reduce meat consumption.</li>
+<li>Donate to birth control projects.</li>
+<li>Systemic problems need systemic solutions. We can't get there if everyone thinks they already &quot;did their part&quot; (turning off light switches, turning the thermostat down a degree, paper/metal straws, sorting recycling).
+<ul>
+<li><a href="https://www.youtube.com/watch?v=DYLWZPFEWTw">Individual actions aren't enoughs to improve the current state</a>.</li>
+<li><a href="https://youtu.be/RSgXcFdHxFI?list=WL">By focussing on the individuals, we miss the much bigger problem of climate change.</a>. Around 70% of emissions come for 100 companies. Push governments to transform the economy so individuals don't have all the pressure.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#annual-review-list" id="annual-review-list">Annual Review List</a></h2>
+<ul>
+<li><a href="https://youtu.be/rvskMHn0sqQ">Egoistic Altruism</a>: A Selfish Argument for Making the World a Better Place.</li>
+<li><a href="https://youtu.be/MBRqu0YOH14">Optimistic Nihilism</a>: A great philosophy.</li>
+<li><a href="https://waitbutwhy.com/2015/12/the-tail-end.html">The Tail End</a>: You have limited time, and you should spend it wisely in things and with people you care about.</li>
+<li><a href="http://www.saganseries.com/">The Sagan Series</a>: Breath-taking cinematography and a mesmerizing soundtrack lend a powerful scenery to Sagan's narration from his hit TV series, Cosmos.</li>
+<li>This Handbook.</li>
+</ul>
+<h2><a class="header" href="#dna-genetic-testing-and-analysis" id="dna-genetic-testing-and-analysis">DNA Genetic Testing and Analysis</a></h2>
+<ul>
+<li>Companies like 23andMe look only at a few specific genomic coordinates that are known to be contain pathogenic variants, but chances are if you have the associated disease you don't have a variant at one of those few select locations. Because of this, <a href="https://www.nytimes.com/interactive/2019/02/01/opinion/23andme-cancer-dna-test-brca.html">a negative test result does not mean someone isn't at risk for the condition</a>.</li>
+<li>If it says you don't have something, then that means nothing. If it says you do have something, then that means you should be on the lookout for other corroborating data or symptoms.</li>
+<li>You can retrieve information about your DNA variations at <a href="https://promethease.com/">Promethease</a>. Other kind of data can be extracted with <a href="https://dna.land/">dna.land</a> and <a href="https://www.foundmyfitness.com/genetics">FoundMyMitness Genetics</a>.</li>
+<li>Genetic data may help people today, but it can also be sold to insurance companies.</li>
+<li>How valuable it would be giving your DNA to a competent advertising company? They could be able to profile and predict users with significantly higher personal accuracy. On the other hand, this is analogous to the 1800s when people disagreed over whether one should let a camera take your photo. If sequencing prices and mobility continue to advance at current rates, in 30 years your DNA could be sequenced thousands of times a day, everywhere you go in public (the same way you're recorded with security cameras).</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpsjuliandigital20200328signaling-as-a-servicesignalinga" id="a-hrefhttpsjuliandigital20200328signaling-as-a-servicesignalinga"><a href="https://julian.digital/2020/03/28/signaling-as-a-service/">Signaling</a></a></h2>
+<ul>
+<li>Most of our everyday actions can be traced back to some form of signaling or status seeking.
+<ul>
+<li>A classic example of this would be a luxury watch: A Rolex isn't better at telling the time than a cheap Casio – but a Rolex signals something about its owner's economic power and thus their social standing.</li>
+<li>When signaling, the more expensive and useless the item is, the more effective it is as a signal. Although eyeglasses are expensive, they’re a poor way to signal wealth because they’re very useful; a person might get them not because ey is very rich but because ey really needs glasses. On the other hand, a large diamond is an excellent signal; no one needs a large diamond, so anybody who gets one anyway must have money to burn.</li>
+</ul>
+</li>
+<li>Our brains deliberately hide this fact from us and others (self deception).</li>
+<li>Signaling can be broken down into different components:
+<ul>
+<li>Signal Message: This is whatever (hidden) subtext you are trying to convey.</li>
+<li>Signal Distribution: The method of distributing the signal message.</li>
+<li>Signal Amplification: How do you make sure your message stand out?</li>
+</ul>
+</li>
+<li>Software perfectly complements physical goods by distributing their signal messages at scale. Maximizing scale, however, prevents it from monetizing said distribution. This is why social media services are free to use. The added signaling value is solely captured by the physical products that are being shared.</li>
+</ul>
+<h2><a class="header" href="#social-media" id="social-media">Social Media</a></h2>
+<ul>
+<li>Internet algorithms are profit-maximizing mechanisms that want to spoon feed you whatever you're most likely to click on. This is a win-win, symbiotic relationship—until it's not. When the algorithm is luring in your primitive mind against you, the relationship is parasitic. <a href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles">The algorithm will learn to show thing that will further confirm and strengthen your existing viewpoints</a>.</li>
+<li>Each app is competing against the other apps. Only the apps that grains your attention continue. Over time, your attention is more and more hacked by these apps.</li>
+<li>Most of our newsfeeds are insular networks made up of people who get their info from the same filter bubble we do.</li>
+<li>Social media provides an unfortunate filter: it dumbs down complex information. <a href="https://ncase.me/crowds/">Ideas don't pass perfectly from one person to another. Like a game of Telephone, the message gets mutated with each re-telling so, over time, ideas &quot;evolve&quot; to be more catchy, copy-able, contagious.</a> The fittest ideas doesn't need to be true.</li>
+<li>Your information diet is nearly as important as your food diet. We are what we consume. By excesses to which our hardwired biology and natural tendencies have led us over billions of years of evolution. Today's excess of easy-to-access information will have a drastic an effect on health in the 21st century similar to what excess food had in the 20th century. Unhealthy food costs something financially. Consuming seven hours of pointless information is a lot easier and cheaper than eating thirty Twinkies.</li>
+</ul>
+<h2><a class="header" href="#news" id="news">News</a></h2>
+<ul>
+<li>Portraying <a href="https://ncase.itch.io/wbwwb">a society where everyone hates each other</a> is the most dangerous virus of all, because it becomes a self-fulfilling prophecy. Nothing spreads faster than anger. Especially anger in the specific format, <a href="https://www.youtube.com/watch?v=rE3j_RHkqJc">&quot;Just look at how awful the people we hate are&quot;</a>.
+<ul>
+<li>There is a hierarchy of interestingness that applies to the great information currents and media outlets that shape society as a whole. It's better to raise up <a href="https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/">controversial topics than high impact one like charity</a>.</li>
+<li>Social and news media usually works against fixing the issues which most of us agree should be fixed. Instead they focus only on perpetuating the things which keep us all discussing, forever.</li>
+</ul>
+</li>
+<li><a href="https://theoatmeal.com/comics/believe">The amygdala (emotional core of the mind) is built to make us react to &quot;threatening&quot; information that doesn't fit into our worldview the same way we react to a predator. That's called the &quot;Backfire Effect&quot;</a>. Remember that your worldview is not perfect!</li>
+<li>If our perceptions of reality are increasingly informed by media with other-than-truth motivations, we'll increasingly lose our handle on the truth.</li>
+<li>We're losing our ability to think together. Communities can only think when people talk and when they're free to say what they really think. As echo chambers grow larger and more intimidating, people inside them are afraid to defy the sacred narrative. And the more all-encompassing political identities become, the more topics turn from kickable machines to precious infants. Meanwhile, intergroup communication suffers even more, as opposing groups become totally unable to collaborate on ideas.</li>
+<li>A polarized country that isn't capable of building broad coalitions can't take forward steps—it can only self-inflict.</li>
+<li>The news also bias the layperson's perception of risk. The very fact that bad events are rare these days, makes them newsworthy. With a large sample size, unusual tragedies happen daily, and they end up on the news nightly. For example, car crashed might cause more damage than other events like floodings or fires.
+<ul>
+<li>News are incentivized to cherry-pick stories that spread fast. For example, scam news. A scam is like a virus that converts trust into cynicism, but it's the news, in the name of keeping things entertaining and addictive, that distributes the virus across the whole country.</li>
+<li>Media is business and business is for profit. The market is incentivizing bad media. Media is called on bias/inaccuracy only by their political foes, which isn't their audience. Audiences have to start pushing back on the media that shares their bias.</li>
+</ul>
+</li>
+<li><a href="https://www.mrmoneymustache.com/2013/10/01/the-low-information-diet/">News programs are, with the exception of a few non-profit or publicly funded ones, commercial enterprises designed to turn and maximize profit</a>.
+<ul>
+<li>The profit comes from advertising, and advertising revenue is maximized by pulling the largest audience, holding their attention for the longest possible time, and putting them into the mental state most conducive to purchasing the products of the advertisers (which turns out to be helplessness and vulnerability). This is why the news always starts out with a sensationalist take on a topic of at least plausible national interest, takes a detour into truly horrific and depressing irrelevant tragedies is one that unfortunately crossed my screen when doing research for this article), then ends on an uplifting note with something like a defiant entrepreneur or a caring soup kitchen. An emotional roller-coaster ride every day of the week. They don't explore solutions.</li>
+</ul>
+</li>
+<li><a href="https://jjbeshara.com/2018/11/20/the-information-pathology-2/">There isn't enough actual news (ie events that are &quot;new&quot;) to fill the standard news slot — so the fillers became pundits and commentators interpreting &quot;news&quot; and &quot;potential news&quot; for us</a>. Humans are good at finding efficiencies, and potential events far outweigh the number of past events, and potential negative events captivate our attention better than potential positive events, so these news-cycles naturally became dominated by commentators interpreting any number of potential negative events.</li>
+<li><a href="https://en.wikipedia.org/wiki/Sturgeon%27s_law">Sturgeon's law</a>: 90% of everything is crap.</li>
+</ul>
+<h2><a class="header" href="#covid-19" id="covid-19">COVID-19</a></h2>
+<ul>
+<li><a href="https://www.fast.ai/2020/03/09/coronavirus">Covid-19, your community, and you — a data science perspective</a></li>
+<li><a href="https://ourworldindata.org/coronavirus">Coronavirus Pandemic Statistics and Research</a></li>
+<li><a href="https://www.flattenthecurve.com/">Flatten The Curve</a></li>
+<li>As someone said, social distancing measures to work must be done when it seems to be overreacting. And if they work, it will seem as if we overreacted.</li>
+<li><a href="https://medium.com/@tomaspueyo/coronavirus-the-basic-dance-steps-everybody-can-follow-b3d216daa343">The Basic Dance Steps Everybody Can Follow</a></li>
+<li><a href="https://www.lesswrong.com/posts/LwcKYR8bykM6vDHyo/coronavirus-justified-practical-advice-thread">Justified Practical Advice</a> and <a href="https://www.lesswrong.com/posts/F3q7eL7pdQqhWFTYh/what-should-we-do-once-infected-with-covid-19#NR3wH8DxZX2eBBvG7">What should we do once infected with COVID-19</a> are useful once infected.</li>
+<li><a href="https://github.com/Pezmc/distant-socializing/blob/master/README.md">Distant Socializing, during Physical Distancing</a> - Suggested distant socializing tools, games and activities to help keep in touch with family, friends and loved ones during social distancing and the coronavirus (COVID-19) pandemic.
+<ul>
+<li>Games:
+<ul>
+<li><a href="https://gjeuken.github.io/telewave">Wavelength</a>. <a href="https://longwave.web.app/">Alternative</a>.</li>
+<li><a href="https://www.horsepaste.com/">Codenames</a>. <a href="http://those.codes/">Alternative</a>.</li>
+<li><a href="https://hanabi.cards/">Hanabi</a>.</li>
+<li><a href="https://friendsand.games/">Friends and Games</a>. A list of hand picked free online games to play during calls with your friends or family.</li>
+<li><a href="https://netgames.io/">Netgames</a>. Social games for your phone.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#thought-experiments" id="thought-experiments">Thought Experiments</a></h2>
+<p>A thought experiment is a device with which one performs an intentional, structured process of intellectual deliberation in order to speculate, within a specifiable problem domain, about potential consequents (or antecedents) for a designated antecedent (or consequent). A few interesting ones:</p>
+<ul>
+<li><a href="https://en.m.wikipedia.org/wiki/Experience_machine">Experience Machine</a>.</li>
+</ul>
+<h2><a class="header" href="#house-buying" id="house-buying">House Buying</a></h2>
+<ul>
+<li>Be clear about why you're buying a home. Every large decision you have to make about home ownership should somewhat tie in to this.</li>
+<li>Look at houses based on the life style you have not the life style you aspire to have.</li>
+<li>Balance commuting against other goods and costs (Commuting Paradox).</li>
+<li>The availability heuristic says that people overcount scenarios that are easy and vivid to imagine, and undercount scenarios that don't involve any readily available examples or mental images. The real estate version of this fallacy involves exciting opportunities that you will rarely or never use. For example, a house with a pool may bring to mind the opportunity to hold pool parties. But most such plans will probably fall victim to akrasia, and even if they don't, how often can one person throw pool parties without exhausting their friends' interest? Pool parties may be fun to imagine, but they'll probably only affect a few hours every couple of months. Other factors, like the commuting distance and whether your children end up in a nice school, may affect several hours every day.</li>
+<li>Good illumination (daylight has a strong effect on mood) and a view of natural beauty (nature increases mental functioning and concentration) aren't just pleasant luxuries, but can make important practical differences in your life.</li>
+<li>Research nearby future facilities. Schools, shopping malls, coffee shops, transportation, ...</li>
+<li>Treat it as an asset. Think for how much it'll sell.</li>
+</ul>
+<h2><a class="header" href="#interesting-youtube-channels" id="interesting-youtube-channels">Interesting YouTube Channels</a></h2>
+<ul>
+<li><a href="https://www.youtube.com/user/engineerguyvideo">The Engineer Guy</a>. Bill Hammack explores the world of engineering (from fiber optic to the <a href="https://www.youtube.com/watch?v=hUhisi2FBuw&amp;t=1s">design of aluminium beverage can</a>).</li>
+<li><a href="https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w">CGP Grey</a>. Educational videos.</li>
+<li><a href="https://www.youtube.com/user/Kurzgesagt">Kurzgesagt</a>. Videos explaining things with optimistic nihilism.</li>
+<li><a href="https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA">Vsauce</a>. Amazing and interesting explorations. Michael also appears in <a href="https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA">D!NG</a> and did a must-watch 3 season series on human behavior, <a href="https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2">Mind Field</a>.</li>
+<li><a href="https://www.youtube.com/user/enyay/videos?view=0&amp;sort=p&amp;flow=grid">Tom Scott</a>. Curiosities about many topics.</li>
+<li><a href="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg">Mark Rober</a>. Former NASA engineer. Current YouTuber and friend of science.</li>
+<li><a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown</a>. Maths and entertainment, depending on your disposition.</li>
+<li><a href="https://www.youtube.com/user/1veritasium">Veritasium</a>. Videos about science, education, and anything else.</li>
+<li><a href="https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ">Primer</a>. Communicating the deep ideas of academic subjects.</li>
+<li><a href="https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A">ColdFusion</a>. Stories about science, tech and economy.</li>
+<li><a href="https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg">Economics Explained</a>. Take a look at interesting countries, policies and decisions from the point of view of an economist.</li>
+<li><a href="https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ">Simone Giertz</a>. Maker/robotics enthusiast/non-engineer. Have become somewhat of an expert in shitty robots.</li>
+<li><a href="https://www.youtube.com/user/itsokaytobesmart">It's Okay To Be Smart</a>. Science videos every week!</li>
+</ul>
+<h2><a class="header" href="#interesting-podcasts" id="interesting-podcasts">Interesting Podcasts</a></h2>
+<ul>
+<li><a href="https://lexfridman.com/podcast/">Lex Fridman Podcast</a>. Conversations about science, technology, history, philosophy and the nature of intelligence, consciousness, love, and power.</li>
+<li><a href="https://madeyouthinkpodcast.com/">Made You Think</a>. Episodes will explore books, essays, podcasts, and anything else that warrants further discussion, teaches something useful, or at the very least, exercises our brain muscles.</li>
+<li><a href="https://www.dancarlin.com/hardcore-history-series/">Hardcore History</a>. Explores topics throughout world history.</li>
+<li><a href="https://fs.blog/knowledge-project/">The Knowledge Project</a>. Helps you master the best of what other people have already figured out.</li>
+<li><a href="https://tim.blog/podcast/">The Tim Ferriss Show</a>. He deconstruct world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use.</li>
+<li><a href="https://www.relay.fm/cortex">Cortex</a>. CGP Grey and Myke Hurley get together to discuss their working lives.</li>
+<li>Spanish.
+<ul>
+<li><a href="https://www.gabinetepodcast.com/">Gabinete de Curiosidades</a>.</li>
+<li><a href="https://www.jaimerodriguezdesantiago.com/">Kaizen</a>.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#trip-planning" id="trip-planning">Trip Planning</a></h2>
+<ul>
+<li>Select a theme and make sure everyone is in the same page.</li>
+<li>Have a flexible schedule. Don’t try to control things too much, it will never go as planned and you’ll end up ruining your own personal experience.</li>
+<li>Ask everyone to make a list of things they would like to see/do.</li>
+<li>Bring card/board games for long travel days.</li>
+<li>Ensure you have similar budget expectations. This determines so many things! It's not just about paying equal share.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../time.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../random/ideas.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../time.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../random/ideas.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

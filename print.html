@@ -1,0 +1,1951 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Handbook</title>
+        
+        <meta name="robots" content="noindex" />
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../index.html">Handbook</a></li><li class="chapter-item expanded "><a href="values.html">Values</a></li><li class="chapter-item expanded "><a href="communications.html">Communications</a></li><li class="chapter-item expanded "><a href="concepts.html">Concepts</a></li><li class="chapter-item expanded "><a href="data.html">Data</a></li><li class="chapter-item expanded "><a href="decentralization.html">Decentralization</a></li><li class="chapter-item expanded "><a href="governance.html">Governance</a></li><li class="chapter-item expanded "><a href="habits.html">Habits</a></li><li class="chapter-item expanded "><a href="health.html">Health</a></li><li class="chapter-item expanded "><a href="hobbies.html">Hobbies</a></li><li class="chapter-item expanded "><a href="learning.html">Learning</a></li><li class="chapter-item expanded "><a href="programming.html">Programming</a></li><li class="chapter-item expanded "><a href="quotes.html">Quotes</a></li><li class="chapter-item expanded "><a href="rationality.html">Rationality</a></li><li class="chapter-item expanded "><a href="teamwork.html">Teamwork</a></li><li class="chapter-item expanded "><a href="time.html">Time</a></li><li class="chapter-item expanded "><a href="random/random.html">Random</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="random/ideas.html">Ideas</a></li><li class="chapter-item expanded "><a href="random/animals.html">Animals</a></li><li class="chapter-item expanded "><a href="random/questions.html">Questions</a></li><li class="chapter-item expanded "><a href="random/handbooks.html">Handbooks</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Handbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#handbook" id="handbook">Handbook</a></h1>
+<p><img src="https://images.unsplash.com/photo-1483546363825-7ebf25fb7513?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=34f06173fc9d9c014d643c39fb7bfa13&amp;auto=format&amp;fit=crop&amp;w=1350&amp;q=80" alt="&quot;Open Book&quot;" /></p>
+<p>Personal bits of living knowledge. The goal of this handbook is to save insights as I learn them. Instead of publishing a blog post about the topics, storing them in <code>git</code> allows me and everyone to search and improve it over time.</p>
+<p>Please send a <a href="https://github.com/davidgasquez/handbook/pulls">Pull Request</a> or <a href="https://github.com/davidgasquez/handbok/issues">fill an issue</a> if you have any feedback!</p>
+<p><em>Photo by <a href="https://unsplash.com/@honza_kahanek">Jan Kahánek</a> on <a href="https://unsplash.com">Unsplash</a></em></p>
+<h1><a class="header" href="#values" id="values">Values</a></h1>
+<p>Values are what you stand for in life — they are often things that you are for or against — what you believe in and are willing to support and stand up for. Values make you even if you don't know what are yours. You are what you do (eat, listen, read, watch). Not what you say, not what you believe, not how you vote, but what you spend your time on. These are the values I try to stand for. <strong>Curious, Mindful and Open</strong>.</p>
+<h2><a class="header" href="#curiosity" id="curiosity">Curiosity</a></h2>
+<ul>
+<li>Never stop <a href="learning.html">learning</a>.
+<ul>
+<li>Read about topics you care, observe the world around you and keep a beginner's mind (<em>shoshin</em>).</li>
+<li>Don't be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.</li>
+<li>Test your assumptions/beliefs as many times as possible. A great way to do that is to bet on future outcomes.</li>
+<li>Knowledge is a powerful tool. The more you <a href="http://paulgraham.com/noob.html">feel like a noob</a>, the better.</li>
+</ul>
+</li>
+<li>Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your idea doesn't work out, the community will have learned better why that approach doesn't make sense.</li>
+<li>Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. Mistakes are the portals of discovery.</li>
+<li>Practice <a href="rationality.html">rational</a> thinking.
+<ul>
+<li>Absolute truth is relative to everyone and you don't know everything.</li>
+<li>Stress test your ideas with experiments and facts. Everything you know or do could be wrong.</li>
+<li>We do not know what we don't know. Gather as much context as you can before making any final statement.</li>
+<li>Research before judging! <a href="https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/">No one knows everything and everyone is doing the best they can</a>. These are opportunities for you to help and learn more about the world.</li>
+<li>You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.</li>
+</ul>
+</li>
+<li>Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much and was built for a different world.</li>
+<li>Think in distributions instead of <a href="http://cassandraxia.com/cogbiases">magic answers</a>. The world is <a href="https://waitbutwhy.com/2019/12/political-disney-world.html">analog and not digital</a>, continuous and not discrete. Real people are complex and flawed, <a href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg">full of faults and biases</a>. Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out.
+<ul>
+<li>Digitizing an analog view will result in some loss of information. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros.</li>
+</ul>
+</li>
+<li>Mental models and <a href="concepts.html">other concepts</a> can help us think more effectively.</li>
+<li>Remix ideas. Ideas are impacted by evolution. The most useful ones survive and evolve. <a href="https://youtu.be/XUAIIQFoufs?list=WL">Innovation is product of the combinations of ideas</a>.</li>
+<li>Live Smarter not Harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy <a href="time.html">time</a>. Accomplish more with less.</li>
+<li>Knowing more about the world makes you enjoy it more. <a href="https://youtu.be/JbVfcZxfIZo?list=WL">Understanding how music is made increases the pleasure you get from music</a>.
+<ul>
+<li><a href="http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail">Reality has a surprising amount of detail</a>. Surprising detail is a near universal property of getting up close and personal with reality. You experience lots of these details the first time you do something new!</li>
+</ul>
+</li>
+<li><a href="https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short">If you think you’re going to regret not doing something, you should probably do it</a>. Regret is the worst, and most people regret far more things they didn’t do than things they did do.</li>
+</ul>
+<h2><a class="header" href="#mindfulness" id="mindfulness">Mindfulness</a></h2>
+<ul>
+<li>Enjoy Life. Appreciate the fact that <a href="https://youtu.be/9D05ej8u-gU">you're alive</a>. Be grateful about it and practice <a href="https://youtu.be/hQo-CQzoW24">mindfulness</a>. You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment. <a href="http://paulgraham.com/vb.html">Life is short</a>.</li>
+<li>Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your time. Happiness is a choice.</li>
+<li>Be aware of your internal state. Making this more visible makes a better feedback loop.</li>
+<li>One task at a time. No distractions.</li>
+<li>KISS. When <a href="communications.html">communicating</a>, do it in a clear and concise way. When <a href="rationality.html#problem-solving">facing a problem</a>, prefer a <strong>lean</strong> approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions. What would this look like if it was simple?</li>
+<li>Remove friction. Focus on essentials.</li>
+<li>Keep Calm. Own and deal with your emotions.
+<ul>
+<li>Think, understand, and listen before <a href="communications.html">communicating</a>.</li>
+<li>Try to plan the possible outcomes and don't rush.</li>
+<li>Don't worry too much about things that won't matter to you or your loved ones in 10 years.</li>
+<li>Assume positive intent. No one is your enemy, you're an NPC in their game.</li>
+<li>Every person is inherently valuable independent of behavior and beliefs. Create safe spaces for people, and a dangerous space for ideas (<a href="https://mobile.twitter.com/waitbutwhy/status/1278035160454348800">idea labs</a>). When you have a nice thing to say about someone, say it to them right away, instead of waiting. You might not see them again.</li>
+</ul>
+</li>
+<li>Enjoy everything as a child does. Prefer delayed gratification, that is, making short term sacrifices to get long term benefits.</li>
+<li>Don't be a <a href="https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5">whatever person</a>. Don't be afraid to make decisions and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.</li>
+<li>Don't judge. Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Our internal state shapes how we experience the external state. You never know the whole story. Everything is connected. Humans are messy and life is messy. Yet we try to fit everything into human made buckets. Losing most of the nuance in the process.</li>
+<li>Recognize that tradeoffs happen everywhere. We trade time against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.</li>
+<li>Appreciate what you have. Showing gratitude for the good things you have is the most powerful happiness boosting activity there is.</li>
+<li>Do not change because of what others or society want, change because of what you want. It's easy to get carried by the environment and start doing things you don't want to do.</li>
+</ul>
+<h2><a class="header" href="#openness" id="openness">Openness</a></h2>
+<ul>
+<li>Embrace Weirdness. Don't be another human. Find your place, do what you love and put yourself outside the comfort zone. Unexpected and unconventional things make life more interesting.</li>
+<li>Embrace change. Don't complain about things you can't change. Be proactive.</li>
+<li>Celebrate and encourage quirky gifts, <a href="habits.html">habits</a>, behavior, and points of view. No one can compete with you on being you.</li>
+<li>Share your decisions and ideas so flaws arise earlier in the process.</li>
+<li><a href="http://www.paulgraham.com/identity.html">Maintain a very small identity</a>. Avoid forming an opinion at all about things that are not evident. Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc. You're not your opinions. Opinions are external objects. Don't define yourself by what you work on or what you hate.</li>
+<li>Honesty demands that we communicate any uncertainty we may feel about the relevance of our own opinions.</li>
+<li>One of the hardest exercises is to receive <a href="communications.html#feedback">feedback</a>. Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.</li>
+</ul>
+<h1><a class="header" href="#communications" id="communications">Communications</a></h1>
+<blockquote>
+<p>To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others — Tony Robbins</p>
+</blockquote>
+<p>Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, discussion, education, and many more. Communication is a skill that is learnable.</p>
+<p>You become an average of the people you spend the most time with. Choose wisely!</p>
+<h2><a class="header" href="#talking" id="talking">Talking</a></h2>
+<ul>
+<li>Smile and look at the eyes.</li>
+<li>Remove filler words.</li>
+<li>Speak with sincerity and passion.</li>
+<li>Speak slow and naturally.</li>
+<li>Learn to <strong>listen</strong>.
+<ul>
+<li>Become interested in other people. Encourage others to talk about themselves. The more you are interested in others, the more interesting they find you. To be interesting, be interested.</li>
+<li>Being able to listen well is a superpower. Listening is difficult because it involves suppressing your ego long enough to consider what is being said before you respond.</li>
+<li>Forget your agenda. Don't have internal monologue.</li>
+<li>Avoid trying to respond immediately and allow the other person time to finish speaking.</li>
+<li>Don't answer your phone while speaking with someone in real life. If the real life conversation starts, has precedence over the asynchronous ones.</li>
+<li>While listening to someone sharing a problem keep asking them &quot;Is there more?&quot;, until there is no more.</li>
+<li>Connect with people, don't perform for them.</li>
+</ul>
+</li>
+<li>Aim to make liberal use of the <em>you</em> pronoun.</li>
+<li>No matter how correct you are, you won't get anywhere by making the other person feel stupid. Not being annoying is more important than being smart. Aim to make friends. <a href="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/">Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat</a>.</li>
+<li>Ask for help instead of demanding it.</li>
+<li>Favor interrogative-led questions over leading questions. A leading question attempts to get the listener to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. &quot;Did you like the movie?&quot; vs &quot;What did you think about the movie?&quot;.</li>
+<li>Make <a href="https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic">interesting questions</a> to know people better.</li>
+</ul>
+<h2><a class="header" href="#writing" id="writing">Writing</a></h2>
+<ul>
+<li>Try to use the active voice whenever possible.</li>
+<li>Keep in mind your style:
+<ul>
+<li><strong>Be concise</strong>. Understand the topic you're writing about. Use simple words and sentences. Put the most important things first. Never use a long word when a short one will do.</li>
+<li><strong>Be Useful</strong>. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?</li>
+<li><strong>Be specific</strong>. Avoid vague language. Cut the fluff. Delete unnecessary words. Say what you mean.</li>
+<li><strong>Be consistent</strong>.</li>
+<li><strong>Add rhythm</strong>. Vary the sentence length to break the monotony.</li>
+</ul>
+</li>
+<li><a href="https://www.julian.com/guide/write/intro">Style is a small part of writing well. Most of writing is thinking clearly.</a> The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are.</li>
+<li>Have solid schemas. List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion:
+<ul>
+<li>Define a clear thesis.</li>
+<li>Support your thesis with arguments.</li>
+<li>Declare and reject the antithesis.</li>
+<li>Conclusions.</li>
+</ul>
+</li>
+<li>Human beings are wired to respond to storytelling. A story arc is a way to structure ideas to tap into this response, typically by describing a change in the world.</li>
+<li>Use positive language rather than negative language.</li>
+<li>Write in a conversational tone.</li>
+<li>Use second-person and describe actions to a user. Technical content talks to users when support agents can't.</li>
+<li>Divide things into small chunks.</li>
+<li>If you have multiple points in a text, number them to make replies easier.</li>
+<li>Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. <a href="https://twitter.com/eugeneyan/status/1256828197410201601">Write whatever helps you think better</a>. Separate the processes of creation from improving. You can't write and edit.</li>
+<li>You can use tools like <a href="http://www.hemingwayapp.com/">Hemingway</a> or <a href="https://ludwig.guru/">Ludwig</a> to improve.</li>
+</ul>
+<h2><a class="header" href="#feedback" id="feedback">Feedback</a></h2>
+<p>Feedback is the core of personal and professional growth. Feedback help us being better at what we do establishing clear communications and expectations.</p>
+<p>All feedback is good feedback. If you agree with it, it tells you something about yourself which you can to work on correcting. If you don't agree with it, it tells you that there is an incorrect perception about you in the other persons mind. You can also work on correcting that.</p>
+<h3><a class="header" href="#taking-feedback" id="taking-feedback">Taking Feedback</a></h3>
+<ul>
+<li>Use the word advice instead of feedback to get more results.</li>
+<li>The only constant in the world is change. Be open to it and accept it with a smile.</li>
+<li>Understand and accept that you will make mistakes.</li>
+<li>Be mindful. Develop meta-awareness around the areas that you received feedback.
+<ul>
+<li>Look for opportunities to <em>stop doing</em> or <em>start doing</em> critiqued behaviors.</li>
+</ul>
+</li>
+</ul>
+<h4><a class="header" href="#technical-feedback" id="technical-feedback">Technical Feedback</a></h4>
+<ul>
+<li>You are not your work (code, design, ...).</li>
+<li>No matter how much you know about something, someone else will always know more.</li>
+<li>Treat people who know less than you with respect, deference, and patience.</li>
+<li>True authority stems from knowledge, not from position.</li>
+<li>Critique code instead of people — be kind to the coder, not to the code.</li>
+<li>Focus on <a href="http://bravenewgeek.com/engineering-empathy/">Empathy</a>.</li>
+</ul>
+<h3><a class="header" href="#giving-feedback" id="giving-feedback">Giving Feedback</a></h3>
+<ul>
+<li>Feedback needs to be informal, frequent, and done authentically.</li>
+<li>Address behavior, but don't label people.</li>
+<li>Prepare. What do you value in someone? Where do you think are their biggest opportunities to improve?</li>
+<li>Keep the feedback actionable, specific, and kind.</li>
+<li>Imagine what things feel like from the other perspective.</li>
+<li>How to compose a successful critical commentary (<em>from</em> <a href="https://en.wikipedia.org/wiki/Daniel_Dennett"><em>Daniel Dennett</em></a>):
+<ul>
+<li>You should attempt to re-express your target's position so clearly, vividly, and fairly that your target says, <em>&quot;Thanks, I wish I'd thought of putting it that way&quot;</em>.</li>
+<li>You should list any points of agreement (if they are not matters of general or widespread agreement).</li>
+<li>You should mention anything you have learned from your target.</li>
+<li>Only then are you permitted to say so much as a word of rebuttal or criticism.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#resolving-disagreement" id="resolving-disagreement">Resolving Disagreement</a></h2>
+<p>A few assumptions are required to have a successfully disagreement:</p>
+<ul>
+<li>Epistemic humility. &quot;It's possible that I might be the one who's wrong, here&quot;.</li>
+<li>Good faith. An assumption that people believe things for causal reasons. Assume good intentions.</li>
+<li>Confidence in the existence of objective truth or a better position.</li>
+<li>Curiosity and/or a desire to uncover truth.</li>
+<li>As much data as possible to backup claims.</li>
+</ul>
+<p><a href="(https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement)">Double crux</a> is great framework based on the previous assumptions.</p>
+<p>One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Ask &quot;What would need to be true for you to...&quot;. Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it's easier to evaluate arguments like &quot;we should do X before Y&quot; than it is to converge on &quot;X is better than Y&quot;.</p>
+<p>Don't focus on proving yourself right, instead of focus on getting the best outcome.
+Keep the conversation simple and summarize the conversation during the discussion.</p>
+<h3><a class="header" href="#blogging" id="blogging">Blogging</a></h3>
+<ul>
+<li>Writing is Thinking. Writing things down helps clarifying ideas. One of the tests of whether you understand something is whether you can explain it to someone else. <a href="http://www.paulgraham.com/writing44.html">Writing doesn't just communicate ideas; it generates them</a>.</li>
+<li>Expect 80% of the ideas in an post to happen after you start writing it, and 50% of those you start with to be wrong.</li>
+<li>To decide if your idea is worth writing about, <a href="https://jvns.ca/blog/2016/05/22/how-do-you-write-blog-posts/">ask these questions</a>:
+<ul>
+<li>Would this have helped me a year ago?</li>
+<li>Would this have helped me last week?</li>
+<li>Do you think this would be interesting to at least like 2 other people?</li>
+</ul>
+</li>
+<li><a href="https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045">You are best positioned to help people one step behind you</a>. The material is still fresh in your mind. Many experts have forgotten what it was like to be a beginner and have forgotten why the topic is hard to understand when you first hear it. The context of your particular background, your particular style, and your knowledge level will give a different twist to what you're writing about.</li>
+<li><a href="https://guzey.com/personal/why-have-a-blog/">Share unoriginal ideas</a>. Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn't come up with these ideas otherwise.</li>
+<li>Start with Why. Start with a question. Write the first flawed answer that comes to mind. Write the first question or objection that comes to mind from that answer. Write the first response that comes to mind from that, ...</li>
+<li><a href="https://twitter.com/eugeneyan/status/1256828203840073728">Writing creates a cache</a>. The cache (i.e., documents) scales data availability. people can access the cache instead of going to you.</li>
+<li>For long-form content, the <a href="https://dropbox.design/article/mental-models-for-designers">diamond model</a> works great for putting a structure around your main idea.
+<ol>
+<li>Attention: Start with a story, statistic, or something similar</li>
+<li>Main topic: Briefly introduce the main topic you'll cover</li>
+<li>Previews: Give quick previews of your subtopics</li>
+<li>Subtopics: Go into depth with your subtopics</li>
+<li>Summaries: Recap your subtopics</li>
+<li>Conclusion: Paint an ideal vision of the future</li>
+<li>Call to action: Invite your audience to act or make a decision</li>
+</ol>
+</li>
+<li>For <a href="https://sivers.org/7">short-form content</a>:
+<ol>
+<li>Write all your thoughts on a subject.</li>
+<li>Argue against those ideas.</li>
+<li>Explore different angles.</li>
+<li>Leave it for a few days or years, then repeat those steps.</li>
+<li>Hate how messy these thoughts have become.</li>
+<li>Reduce them to a tiny outline of the key points.</li>
+<li>Post the outline. Trash the rest.</li>
+</ol>
+</li>
+<li>Reading is the inhale, writing is the exhale. Breathe.</li>
+<li>The more you create, the more ideas come yo you to continue creating. That's the creativity feedback loop.</li>
+</ul>
+<h2><a class="header" href="#resources" id="resources">Resources</a></h2>
+<ul>
+<li><a href="https://gist.github.com/flopezluis/8b79555b1337e139a9f1d276a42e0019">Effective Communications</a></li>
+</ul>
+<h1><a class="header" href="#concepts" id="concepts">Concepts</a></h1>
+<h2><a class="header" href="#fallacies" id="fallacies">Fallacies</a></h2>
+<p>A logical fallacy is a flaw in reasoning. Logical fallacies are like tricks or illusions of thought, and they're often sneakily used by politicians and the media to fool people. They are <a href="https://yourlogicalfallacyis.com/">tools</a> designed to help us identify and call out dodgy logic wherever it may raise its ugly, incoherent head.</p>
+<h2><a class="header" href="#mental-models" id="mental-models">Mental Models</a></h2>
+<p>A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems (a personal algorithm). The world always makes sense. But it can be confusing. When it is, your model of the world is wrong. Millions of mental models exists, and every discipline has their own set. Some of them overlap and might be called differently.</p>
+<ul>
+<li><a href="https://www.farnamstreetblog.com/mental-models/">Mental Models: The Best Way to Make Intelligent Decisions</a></li>
+<li><a href="https://www.facebook.com/notes/kent-beck/a-searching-and-fearless-intellectual-inventory/1179765038723025">A Searching and Fearless Intellectual Inventory</a></li>
+<li><a href="https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.vvrgpsu13">Mental Models I Find Repeatedly Useful</a></li>
+<li><a href="http://www.defmacro.org/2016/12/22/models.html">Useful Models</a></li>
+<li><a href="https://jamesclear.com/mental-models">The Big Mental Models</a></li>
+<li><a href="https://www.julian.com/blog/mental-model-examples">Julian Spahiro's Mental Models</a></li>
+<li><a href="https://dropbox.design/article/mental-models-for-designers">Mental models for designers</a></li>
+<li><a href="https://www.mentalmodelsbox.com/explore">Mental Models Box</a></li>
+</ul>
+<h2><a class="header" href="#conceptual-compression" id="conceptual-compression">Conceptual Compression</a></h2>
+<p>From time to time, look for abstractions that can compress the information behind them. This way you can reduce mental space. When needed, you can expand the abstraction and go deeper. This is used a lot in programming, where a new tool or package emerges taking care of that was previously done by human minds (OMRs vs hand written SQL)!</p>
+<p>Conceptual compression also allows lazy learning. If you're using the compressed version you don't need to care about what's behind. If you need, you can learn it at that time. Not everything needs to be learned upfront.</p>
+<h2><a class="header" href="#processes" id="processes">Processes</a></h2>
+<p>Whether you're compiling code or making breakfast, everything can be modeled as a repeatable process. Understanding the elements of production — inputs, outputs, timing, limiting steps, quality controls, variability — lets us create and improve the <em>machinery</em> needed to fulfill our goals. We all aim to achieve the same thing: high quality results in less time with least waste.</p>
+<blockquote>
+<p>If you can't describe what you are doing as a process, you don't know what you're doing. — W. Edwards Deming</p>
+</blockquote>
+<p>You cannot improve what you cannot measure. You cannot improve what you cannot explain. Write down processes, take measures and then iterate.</p>
+<p>As <a href="https://fs.blog/tobi-lutke/">Tobi Lütke points out in the Farnam Streen podcast</a>, <em>there are three kinds of processes</em>. There's a kind of process that makes things that were previously impossible to do, possible. That's good. Then there's a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there's everything else (just telling people to behave slightly different from what common sense tells them to do).</p>
+<p>You can <a href="https://youtu.be/lhbLNBqhQkc">optimize processes</a> through <a href="https://rs.io/how-to-get-started-with-anything/">experiments</a> and experiences removing barriers or adding tools.</p>
+<p>Properties to look for in Processes:</p>
+<ul>
+<li>Algorithmic. So you don't need to think about choices. This reduces mental overhead and anxiety (The Paradox of Choice).
+<ul>
+<li>A way to reduce choices i self binding (like Ulyses did). Limiting our actions in the future will reduce the choices we'll need to do.</li>
+</ul>
+</li>
+<li>Flexible. Make if fluid enough to keep up with changes.</li>
+<li>Low Friction. Simple processes are easier to understand and apply.</li>
+<li>Short Feedback Loop. Show the results as soon as you can.</li>
+</ul>
+<p>A process takes an input to produce an output. A bunch of processes can be view as a System.</p>
+<h2><a class="header" href="#systems" id="systems">Systems</a></h2>
+<p>A system is anything with multiple parts that depend on each other. In other words, every machine and activity is a system on some level. Systems achieve goals.</p>
+<p>Properties to look for in Systems:</p>
+<ul>
+<li>Modular.
+<ul>
+<li>Loosely coupling. Breaking a chair shouldn't break the dinner!</li>
+<li>Having multiple parts also allows systems to develop emergent properties. When things interact, they often birth new, unpredictable forms. The sum total of a system is more than its competent parts. E.g: biological evolution, Conway's Game of Life, Wikipedia, Minecraft. <a href="http://gordonbrander.com/pattern/provoking-emergence/">You can't top-down plan emergent systems, but you can provoke them into being. Here are some attributes that emergent systems often have</a>:
+<ul>
+<li>Evolution: Mutation, Heredity and Selection. Evolutionary systems often generate unexpected solutions. Nature selects for good enough.</li>
+<li>More than one goal that can be achieved in more than one way.</li>
+<li>Alphabet: An alphabet is a kit of parts, together with rules for combining them (e.g Lego).</li>
+<li>An easy initial learning curve but infinite potential (e.g. Minecraft).</li>
+<li>Involves multiple agents. It has network effects.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Responsiveness. Know what the system is doing and make the feedback loop fast.</li>
+<li>Some systems might benefit of being distributed</li>
+<li>Bad Incentive design can lead to the <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">tragedy of the commons</a>.</li>
+</ul>
+<p>To <a href="https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/">change a system</a> you need vision, skills, incentives, resources and an action plan. Changing a <a href="https://complexityexplained.github.io/">complex system</a> is hard and <a href="https://fs.blog/2013/10/iatrogenics/">even if the intention is good, the result might not</a>. Small things can have non-linear impacts on a complex system. <a href="https://en.wikipedia.org/wiki/John_Gall_(author)#Gall&#x27;s_law">A complex system that works is invariably found to have evolved from a simple system that worked</a>. Complex systems also have <a href="https://ncase.me/attractors/">attractor landscapes</a> that can be used to change it. A good approach (similar to natural selection) is to:</p>
+<ol>
+<li>Start by identifying the highest-leverage level to optimize at: Ask whether you're optimizing the machine or a cog within it.</li>
+<li>Begin optimizing the system by following the <a href="https://en.wikipedia.org/wiki/Theory_of_constraints">Theory of Constraints</a>: At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes.</li>
+<li>Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.</li>
+</ol>
+<p>Some <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better</a>, even though, in principle, some <a href="https://equilibriabook.com/molochs-toolbox/">magically coordinated action could move to a new stable state</a>.</p>
+<p>A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.</p>
+<h3><a class="header" href="#antifragility" id="antifragility">Antifragility</a></h3>
+<p>Antifragility is a property of systems that increase in capability, resilience, or robustness as a result of stressors, shocks, volatility, noise, mistakes, faults, attacks, or failures.</p>
+<p>It's fundamentally different from the concepts of resiliency (ability to recover from failure) and robustness (ability to resist failure).</p>
+<p>Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same. The antifragile gets better.</p>
+<h3><a class="header" href="#pareto-principle" id="pareto-principle">Pareto Principle</a></h3>
+<p>There is a cost to pursuing any strategy, whether it’s in time, money, effort, resources, etc. Most strategies have diminishing returns, meaning that, as you keep at them, you get less and less out of an additional marginal bit of effort.</p>
+<p>The <strong>Pareto principle or the 80/20 rule states that eighty percent of the results come from twenty percent of the effort</strong>.  Early gains tend to be the largest and most of strategies eventually stops being worthwhile.</p>
+<h2><a class="header" href="#incentives" id="incentives">Incentives</a></h2>
+<p>Incentives matter. Everything around you is driven by incentives. There are rarely true &quot;irrational&quot; decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.</p>
+<p><em>&quot;Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior&quot;.</em> Dee Hock.</p>
+<p>To reach a goal, reduce friction or increase incentives/rewards.</p>
+<h2><a class="header" href="#resources-1" id="resources-1">Resources</a></h2>
+<ul>
+<li><a href="https://untools.co/">Tools for better thinking</a>: Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.</li>
+</ul>
+<h1><a class="header" href="#data" id="data">Data</a></h1>
+<h2><a class="header" href="#data-engineering" id="data-engineering">Data Engineering</a></h2>
+<p>Data Pipelines are a set of actions that extract data, transform it, and then load the final data somewhere. As any <a href="https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/">distributed system</a>, they're tricky to work with. These are some great principles to keep in mind as <a href="https://towardsdatascience.com/lessons-from-a-year-in-the-data-science-trenches-f06efa6355fd">production data engineering is mostly computer science</a>.</p>
+<h3><a class="header" href="#basic-principles" id="basic-principles">Basic Principles</a></h3>
+<ul>
+<li>Simplicity: Each steps is easy to understand and modify.</li>
+<li>Reliability: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done extracting the column from the intermediary data without having to query the data source.</li>
+<li>Modularity: Steps are independent.</li>
+<li>Consistency: Same conventions and design patterns across pipelines.</li>
+<li>Efficiency: Low event latency when needed. Easy to scale up and down.</li>
+<li>Flexibility: Steps change to conform data points. Changes don't stop the pipeline or losses data.</li>
+</ul>
+<h3><a class="header" href="#data-flow" id="data-flow">Data Flow</a></h3>
+<ul>
+<li>In each step of the pipeline there are producers of data and consumers. Consumers can be also producers, e.g <code>B</code> in <code>A | B | C</code>.
+<ul>
+<li>Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a database.</li>
+</ul>
+</li>
+<li>Schemas changes. Most of the time you won't be there at the exact time of the change so try to save everything.
+<ul>
+<li>Ideally, the schema will evolve in a backward compatible way:
+<ul>
+<li>Data types don't change in the same column</li>
+<li>Columns are either deleted or added but never renamed</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Create a few extra columns like <code>processed_at</code> or <code>schema_version</code></li>
+<li>Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the <a href="https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a">Functional Data Engineering Paradigm</a>.</li>
+</ul>
+<h2><a class="header" href="#data-science" id="data-science">Data Science</a></h2>
+<h3><a class="header" href="#a-hrefhttpsgithubcomeugeneyanapplied-mlmachine-learning-projectsa" id="a-hrefhttpsgithubcomeugeneyanapplied-mlmachine-learning-projectsa"><a href="https://github.com/eugeneyan/applied-ml">Machine Learning Projects</a></a></h3>
+<ol>
+<li>Frame the problem. Define a clear and concise objective.</li>
+<li>Get the data.</li>
+<li>Explore the data.</li>
+<li>Define metrics. Explain and verify any assumption.</li>
+<li>Make the data tidy.</li>
+<li>Model the data. <a href="https://developers.google.com/machine-learning/guides/rules-of-ml/">Start with the simplest model!</a>. That will be your <a href="https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa">baseline model</a>.</li>
+<li>Make sure everything works end to end. Deploy the model. Add a clear description of the model.</li>
+<li>Make results reproducible (code, environment and data).</li>
+<li>Iterate. Go back to the first point and change one thing at a time. It's really hard to tell in advance what's hard and what's easy. <a href="https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641">Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever.</a></li>
+<li>Explain your results in terms your audience cares about.</li>
+</ol>
+<p><a href="https://news.ycombinator.com/item?id=22808006">Real impact comes from continuous decision-making and implementing actions with feedback</a>. Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.</p>
+<p>Continuous decision-making — the kind that leads to impact — involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, <a href="https://dfrieds.com/articles/data-science-reality-vs-expectations.html">your impact is tough to measure — data doesn't always translate to value</a>.</p>
+<h3><a class="header" href="#a-hrefhttpsmatthewmcateermeblogmachine-learning-technical-debtmachine-learning-technical-debta" id="a-hrefhttpsmatthewmcateermeblogmachine-learning-technical-debtmachine-learning-technical-debta"><a href="https://matthewmcateer.me/blog/machine-learning-technical-debt">Machine Learning Technical Debt</a></a></h3>
+<p>Tech debt is an analogy for the long-term buildup of costs when engineers make design choices for speed of deployment over everything else. Fixing technical debt can take a lot of work.</p>
+<ul>
+<li>Tack data dependencies.</li>
+<li>Version the datasets.</li>
+<li>Make sure your data isn't all noise and no signal by making sure your model is at least capable of overfitting.</li>
+<li>Use <a href="https://www.cs.mcgill.ca/%7Ejpineau/ReproducibilityChecklist.pdf">reproducibility checklists when releasing code</a>.</li>
+</ul>
+<h3><a class="header" href="#analysis-requests" id="analysis-requests">Analysis Requests</a></h3>
+<ol>
+<li>What's the goal of the analysis? Are there related actionable actions? Which kind of decisions is it going to enable?</li>
+<li>Where is the data?</li>
+<li>Is the data in the correct format and is it accurate?</li>
+<li>Make the analysis reproducible.</li>
+<li>Before delivering, summarize.</li>
+</ol>
+<h3><a class="header" href="#resources-2" id="resources-2">Resources</a></h3>
+<ul>
+<li><a href="https://github.com/datasciencemasters/go">The Open-Source Data Science Masters</a></li>
+<li><a href="https://datavizcatalogue.com/">The Data Visualization Catalogue</a></li>
+<li><a href="https://ujjwalkarn.github.io/Machine-Learning-Tutorials/">Machine Learning Tutorials</a></li>
+<li><a href="https://www.darkhorseanalytics.com/blog/data-looks-better-naked">Data looks better naked</a></li>
+<li><a href="https://datavizcatalogue.com/search.html">The Data Visualization Catalogue</a></li>
+<li><a href="https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/">Guides for Visualizing Reality</a></li>
+<li><a href="https://ff06-2020.fastforwardlabs.com/">Model Interpretability</a>
+<ul>
+<li><a href="https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/">Diverse Counterfactuals</a></li>
+</ul>
+</li>
+</ul>
+<h1><a class="header" href="#decentralization" id="decentralization">Decentralization</a></h1>
+<h2><a class="header" href="#blockchain" id="blockchain">Blockchain</a></h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=bBC-nXj3Ng4">A blockchain is a decentralized database</a>.</li>
+<li>Cryptocurrencies are a digital version of money protected by cryptography (Merkles Trees).
+<ul>
+<li>Originally, currencies were actual precious metals, like gold and silver coins. For the sake of portability, these were replaced with bank notes. Pieces of paper which entitled the bearer to a certain quantity of precious metal if they presented them to the bank. That system is known as the gold standard.</li>
+<li>The gold standard was abandoned in the middle of the 20th century. Now we have &quot;fiat money&quot;, which is money that has value simply because everyone agrees it has value. The biggest difference between 20 real dollars and 20 Monopoly dollars now is that you can use the real dollars to pay taxes.</li>
+<li>Now that we have an easy way to do consensus in the internet, cryptocurrencies are simply a digital version of money. When you buy Bitcoin you're using the Blockchain to tell it to everyone. If you're going to spend more than you have, everyone will be able to see it!</li>
+</ul>
+</li>
+<li>Proof of work is a mathematical problem that takes time to solve. Solving it proves that you've spent some time trying combinations until it worked. Proof of work creates scarcity. The blockchain knows that the miners are spending its time and resources on proving the mathematical puzzles.</li>
+<li>Ethereum serves as a platform (turing complete) to create (blockchain) apps the same way Android/iOS does on mobile.
+<ul>
+<li>Its much more flexible than Bitcoin and that makes it riskier.</li>
+</ul>
+</li>
+<li>Forks in blockchain act like genetic mutations. The users will apply pressure and protocols will evolve.</li>
+<li><a href="https://www.usv.com/writing/2016/08/fat-protocols/">Fat Protocols</a>.
+<ul>
+<li>On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are necessary but not valuable. Value is captured by the apps.</li>
+<li>Fat protocols will use tools like blockchain to store the data. With open protocols and decentralized data, apps are only the frontend of the services.</li>
+</ul>
+</li>
+<li><a href="https://youtu.be/few99D5WnRg?list=WL">Protocol and Open Source Funding</a>.
+<ul>
+<li>Open Source projects could have a protocol and incentive the economy. You could buy shares of Kubernetes, Tensorflow, ... or contribute to gain tokens. This incentives contributing and helping people.</li>
+</ul>
+</li>
+<li>Governance.</li>
+<li>Blockchains is useful when these conditions are met:
+<ul>
+<li>The resource is scarce (limited).</li>
+<li>Fungible (there isn't a difference between two items. eg. storing files). All the coins are mutually interchangeable.</li>
+<li>The resource can be provided by a lot of people.</li>
+</ul>
+</li>
+<li>Smart contracts can be defined as code that's replicated and executed on all the blockchain nodes.</li>
+</ul>
+<h3><a class="header" href="#links" id="links">Links</a></h3>
+<ul>
+<li><a href="https://a16z.com/2018/02/10/crypto-readings-resources/">Crypto Canon</a> - Great list of crypto readings and resources
+<ul>
+<li><a href="https://a16z.com/2020/04/30/explaining-crypto-from-a16z/">Understanding Crypto</a>- Learn more about cryptocurrencies</li>
+</ul>
+</li>
+<li><a href="https://www.tradingview.com/markets/cryptocurrencies/">Trading View</a> - Crypto charts</li>
+<li><a href="https://messari.io/">Messari</a> - Curated insights, markets data, and research to crypto's pioneers</li>
+<li><a href="https://proto.school/">ProtoSchool</a> - Interactive tutorials on decentralized web protocols</li>
+<li>Bounty Based Collaboration
+<ul>
+<li><a href="https://bounties.network/">Bounties Network</a> - Find freelancers and bounty programs for any task paid in any token on Ethereum</li>
+<li><a href="https://openbounty.status.im/">Open Bounty</a> - Bounty-based collaboration tool that plugs right into GitHub</li>
+<li><a href="https://gitcoin.co/">Gitcoin</a> - The easiest way to leverage the open source community to incentivize or monetize work</li>
+</ul>
+</li>
+<li>Interesting Projects
+<ul>
+<li><a href="https://www.augur.net/">Augur</a> - A prediction market protocol owned and operated by the people that use it</li>
+<li><a href="https://aragon.org/">Aragon</a> - Platform that lets you freely organize and collaborate without borders or intermediaries</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#federated-networks" id="federated-networks">Federated Networks</a></h2>
+<ul>
+<li>Traditional social applications like Twitter, Facebook, and Instagram operate on a client-server model. As the user, all your interactions go through a single company's servers. In a federated network, users are still interacting with a server, but anyone can run a server that interoperates with others in the network, giving users more providers to choose from.</li>
+<li>This gives users more choices for applications, policies, and community cultures. Email is an example of a federated protocol that everyone on the internet uses. Gmail is a popular email application, but if you use a different provider you can still communicate with anyone with an email address.</li>
+<li>Federated networks provide a familiar user experience, since users do not have to bear full responsibility for their account credentials, and can interact with content the way they're used to.</li>
+<li>On the downside, a federated protocol might be slow to adapt while a centralized service is able to iterate into the modern world and beyond. WhatsApp was able to introduce end-to-end encryption to over a billion users with a single software update (email is still not end-to-end encrypted). Federated services always seem to coalesce around a provider (or instance) that the bulk of people use, federation becomes a sort of implicit threat. <a href="https://signal.org/blog/the-ecosystem-is-moving/">An open source infrastructure for a centralized network now provides almost the same level of control as federated protocols, without giving up the ability to adapt. If a centralized provider with an open source infrastructure ever makes horrible changes, those that disagree have the software they need to run their own alternative instead. It may not be as beautiful as federation, but at this point it seems that it will have to do.</a></li>
+<li>It has also <a href="https://drewdevault.com/2020/09/20/The-potential-of-federation.html">many potentials</a>. Because there are hundreds or even thousands of instances, the users get the privilege of choosing an instance whose rules they like, and which federates with other instances they wish to talk to. This system also makes it hard for marketing and spam to get a foothold — it optimizes for a self-governing system of human beings talking to human beings, and not for corporations to push their products.</li>
+<li>The governance of a federated system then becomes distributed among many operators. Every instance has the following privileges:
+<ul>
+<li>To set the rules which govern users of their instance.</li>
+<li>To set the rules which govern who they federate with.</li>
+</ul>
+</li>
+</ul>
+<h1><a class="header" href="#governance" id="governance">Governance</a></h1>
+<h2><a class="header" href="#politics" id="politics">Politics</a></h2>
+<ul>
+<li>To debate politics as in any other field, first gather information and then decide. <a href="https://waitbutwhy.com/2019/09/thinking-ladder.html">Think like a scientist</a>.</li>
+<li>Think of it as a complex system. Everything is related and has unexpected consequences. Don't missatribute sistemic failures to scapegoats.</li>
+<li>Don't attach to any movement so it doesn't become part of your identity. Arguments are soldiers. Once you attach to one side, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side.</li>
+<li>Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on precached ideology. It's just better to discuss issues without invoking teams.</li>
+<li>Democracy is the worst form of government, except for all the others — Winston Churchill <a href="https://richardlangworth.com/worst-form-of-government"><em>probably quoting someone else</em></a>.</li>
+<li>If you think politics is annoying, then it's because you're privileged enough for it to not matter.</li>
+<li>Don't forget two things: your perception of reality has probably been at least a little manipulated, and your opponents are behaving the way they are based on a perception of reality that's different from your own.
+<ul>
+<li>What does this look/feel like to the people I don't know?</li>
+</ul>
+</li>
+<li><a href="https://vitalik.ca/general/2020/09/11/coordination.html">Coordination</a>, the ability for large groups of actors to work together for their common interest, is one of the most powerful forces in the universe. It can be improved in many ways:
+<ul>
+<li>Faster spread of information.</li>
+<li>Better norms that identify what behaviors are classified as cheating along with more effective punishments.</li>
+<li>Stronger and more powerful organizations.</li>
+<li>Tools like smart contracts that allow interactions with reduced levels of trust.</li>
+<li>Governance technologies (voting, shares, decision markets...)</li>
+</ul>
+</li>
+</ul>
+<h3><a class="header" href="#a-hrefhttpswwwlesswrongcompostsd6trazh6dapkphbv4a-voting-theory-primer-for-rationalistsvoting-theorya" id="a-hrefhttpswwwlesswrongcompostsd6trazh6dapkphbv4a-voting-theory-primer-for-rationalistsvoting-theorya"><a href="https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists">Voting Theory</a></a></h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem">No silver bullet</a>.</li>
+<li><a href="http://www.cgpgrey.com/politics-in-the-animal-kingdom/">Politics In The Animal Kingdom</a> is a great summary of a few methods.</li>
+<li>There are <a href="https://ncase.me/ballot/">better ways to build a ballot</a>.</li>
+<li>Approval voting is usually a good choice. Is simple to explain and to count, and comprehensibility is an important factor when choosing a voting method. That said, there are <a href="https://electionscience.github.io/vse-sim/VSEbasic/">really good alternatives</a>.</li>
+</ul>
+<h1><a class="header" href="#habits" id="habits">Habits</a></h1>
+<p><a href="https://twitter.com/JamesClear/status/1059504529111158784">We, humans, are basically habit machines</a>. We form habits. We run on those habits all day long. Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time. The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it (<a href="https://en.wikipedia.org/wiki/Ego_depletion">ego depletion</a>). Habits will keep the frontal cortex free to solve other problems.</p>
+<p>They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them <a href="https://www.investopedia.com/terms/c/compoundinterest.asp">compound</a>. Remember, there are <a href="http://www.collaborativefund.com/blog/useful-hacks/">no hacks</a> in life! Your outcomes are a lagging measure of your habits. How we spend your days is how you spend your life.</p>
+<p>Helpful steps when building habits:</p>
+<ul>
+<li>
+<p><strong>Build a routine</strong>. Set a specific, repeating time when you will do the thing in your calendar. Keep that slot clear, always. Never let something interrupt this task. Shape the environment to support your routine and habits. Make it easy to start and make it hard or impossible to not do it. Replace self-control with planning and proper environment (uninstalling a game makes removes a future decision to play it). You can also <strong>stack habits</strong>. Connect the habit that doesn't appear that much to you to what you strongly like. Then you'll be doing it for what you like.</p>
+<blockquote>
+<p>If you want to change a river's path, you don't place a sign with the direction in which you want water to go, you dig holes so water flows into them.</p>
+</blockquote>
+</li>
+<li>
+<p><strong>Learn to say no</strong>. If someone wants you to do something else during this time slot, say no, and tell them why.</p>
+</li>
+<li>
+<p><strong>Never break the routine</strong>. Breaking it once makes it much easier to break the next scheduled time. Instead think about the smallest thing you can perform and make it your goal for the day. If you do break it, feel bad about it and get back on the horse as fast as you can. Use forcing functions to your advantage. A forcing function is any task, activity or event that forces you to take action and produce a result. Have a bias toward taking action. No lazy deferring. When it’s habit time, it should require more willpower to break the habit than to keep going. <a href="https://tiffanymatthe.com/not-thinking">Become a mindless robot and don't think twice</a>.</p>
+<ul>
+<li>Make the decision in advance. E.g. the two-minute rule. Where you decide that for anything that takes less than two minutes, you do it. No thinking, no arguing, just swift action. Another method is planning out your days in advance. Then when the time comes, you can mindlessly follow the schedule you have made for yourself.</li>
+</ul>
+</li>
+<li>
+<p><strong>Use the power of accountability to reinforce the routine</strong>. If you can find someone who will hold you accountable, do it. Someone who does the routine with you, or a coach who will call you out if you make excuses. Whatever you value, hang around people that are better at it than you are.</p>
+</li>
+<li>
+<p><strong>One thing at a time</strong>. Don't build a big routine of 15 tasks at once. Ease into it one habit at a time. Changing one at a time routine allows you to isolate the benefits. Remove related bad habits at the same time.</p>
+</li>
+<li>
+<p><strong>Don't overload yourself</strong>. Leave time in your schedule for play. If it gets to be too much, decide which one you will drop permanently to make rooms for the rest.</p>
+</li>
+</ul>
+<p>Cognitive inertia is the reason that changing our habits can be difficult. The default is always the path of least resistance, which is easy to accept and harder to question. The important thing about inertia is that it is only the initial push that is difficult. After that, progress tends to be smoother.</p>
+<h2><a class="header" href="#taps" id="taps">TAPs</a></h2>
+<p>Turn vague goals into trigger-action plans (TAPs). <strong>If X then Y</strong>. That works because they help us notice situations where we could carry out our intentions. They force us to turn vague and ambiguous goals into more specific ones. A good TAP fulfills three requirements:</p>
+<ul>
+<li><strong>The trigger is clear</strong>. The <em>when</em> part is a specific, visible thing that's easy to notice.</li>
+<li><strong>The trigger is consistent</strong>. The action is something that you'll always want to do when the trigger is fulfilled.</li>
+<li><strong>The TAP furthers your goals</strong>.</li>
+</ul>
+<p>That's a system. Goals are good for setting a direction, but systems are best for making progress. You do not rise to the level of your goals. You fall to the level of your systems.</p>
+<h2><a class="header" href="#themes" id="themes">Themes</a></h2>
+<p>To better accomplish positive life change, <a href="https://youtu.be/NVGuFdX5guE">give yourself a theme</a>. A theme will be easy to follow and will impact your daily actions. Without knowing where you want to go you just wonder. Resolutions give us the feeling of failure, themes gives us chances to apply them. A good theme can't fail. Just having a theme in your mind will change the way you think. You'll notice paths that weren't there before. Broad themes gives flexibility. Pick a broad directional idea that resonates with you and run with it. Themes can be as long or short as you need. These are some theme ideas:</p>
+<ul>
+<li>Order</li>
+<li>Simplicity</li>
+<li>Novelty</li>
+<li>Experiments</li>
+<li>Joy</li>
+<li>Health</li>
+<li>Finances</li>
+<li>Discipline</li>
+<li>Growth</li>
+<li>People</li>
+<li>Knowledge</li>
+<li>Nature</li>
+<li>Reflection</li>
+<li>Iteration</li>
+<li>Attention</li>
+</ul>
+<h2><a class="header" href="#routine" id="routine">Routine</a></h2>
+<p>A way to keep yourself on track with your habits is to have a morning routine.</p>
+<ol>
+<li>Rules. Remind yourself on the current set of rules, constrains, various addictions, time-draining things. E.g. limit social media</li>
+<li>Gratitude. Visualize and meditate on the idea that you might die today.</li>
+<li>Long-term goals and short-term goals. Review big goals that you would like to achieve in the next years and the short term goals that lead to them that you can act on.</li>
+<li>Visualize the day. Visualize yourself going through the day challenges and wins.</li>
+<li>Review your core <a href="values.html">values</a>.</li>
+</ol>
+<h1><a class="header" href="#health" id="health">Health</a></h1>
+<p>How you live affects how long you live. Most people could do better. Your health also impact your loved ones. Don't <a href="https://www.youtube.com/watch?v=LO1mTELoj6o">maximize misery</a>.</p>
+<h2><a class="header" href="#fitness" id="fitness">Fitness</a></h2>
+<ul>
+<li>Never sit for prolonged times. Take breaks standing or walking around.</li>
+<li>Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.</li>
+<li>Too much sugar leads to a heavy body. Too many distractions lead to a heavy mind.</li>
+<li><a href="https://www.reddit.com/r/leangains/comments/9fxkof/if_you_eat_a_big_preworkout_meal_do_you_need_to/">It's been shown that the timing of your meals and more specifically your protein intake, doesn't make any difference to the growth of your muscles. Just get adequate protein and calories throughout the day, though you might want to eat something post workout anyway for energy.</a></li>
+<li><a href="https://www.betterhealth.vic.gov.au/health/healthyliving/walking-for-good-health">Going for a walk has lots benefits</a>. Around 30 minutes a day or more on most days of the week is a great way to improve or maintain your overall health.</li>
+</ul>
+<h3><a class="header" href="#posture" id="posture">Posture</a></h3>
+<ul>
+<li>Fix your habits. Spending 30 minutes stretching every day and an hour at the gym 3 times a week won't offset the more than 80 hours a week you probably spend sitting at your office, sofa, computer, etc.</li>
+<li>Pick certain moments where you would always check your posture. Walking through doorways, standing up, ...</li>
+<li>Another great tip is to brush your teeth with <a href="https://www.youtube.com/watch?v=GbGSvAEkE68">your back against the wall</a> for 3 minutes.</li>
+<li>Exercise and live a less sedentary lifestyle. Focus on <a href="https://www.youtube.com/watch?v=4BOTvaRaDjI">building core strength</a>.</li>
+</ul>
+<h3><a class="header" href="#resources-3" id="resources-3">Resources</a></h3>
+<ul>
+<li><a href="https://www.reddit.com/r/Fitness/wiki/">Fitness Reddit Wiki</a> - Extensive resource of fitness information, contributed to by the community and curated by the moderators</li>
+<li><a href="https://ss.fitness/">Simple Science Fitness</a> - Everything you need to know about eating and exercising backed by science</li>
+<li><a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine">Body Weight Fitness Recommended Routine</a> - Best routine if you like to use your own body to train</li>
+<li><a href="https://www.youtube.com/watch?v=Aoyy3bKtD84">Molding Mobility</a> - Routine designed to increase general range of motion in your movements</li>
+<li><a href="https://www.youtube.com/watch?v=w1iXMvTMvBo">Starting Stretching</a> - A 15 minute stretching routine that serves as a starting point for beginners to improve overall flexibility</li>
+<li><a href="http://physiqonomics.com/fat-loss/">The Best Fat Loss Article on the Motherfuckin' Internet</a> - Facts and useful information about fat loss</li>
+<li><a href="https://old.reddit.com/r/Fitness/wiki/phraks-gslp">Phrak's Greyskull LP</a> - Introductory lifting program to build familiarity and comfortability with the fundamental barbell movements that are a core component of most strength training routines</li>
+<li><a href="https://www.julian.com/guide/muscle/intro">Building Muscle</a> - Article that cover what the science says about exercising and eating to build muscle.</li>
+</ul>
+<h2><a class="header" href="#sleep" id="sleep">Sleep</a></h2>
+<ul>
+<li>Don't use screens before sleep.</li>
+<li>Stick to a consistent routine.</li>
+<li>If possible, don't use an alarm.</li>
+</ul>
+<h2><a class="header" href="#nutrition" id="nutrition">Nutrition</a></h2>
+<ul>
+<li>When you have the best and tastiest ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.</li>
+<li>Experiment! The worst that could happen is that you don't like it. Cooking has a short feedback loop. Take risks and you'll get the payoffs. Learn from your mistakes until you succeed.</li>
+<li><a href="https://www.reddit.com/r/productivity/comments/6demoi/why_you_should_try_intermittent_fasting_mood/">Fasting can be useful in some situations</a>.</li>
+</ul>
+<h3><a class="header" href="#resources-4" id="resources-4">Resources</a></h3>
+<ul>
+<li><a href="https://examine.com/">Examine.com</a> - Nutrition and Supplement Articles</li>
+<li><a href="https://www.eatthismuch.com/">Eat This Much</a> - Create personalized meal plans based on your food preferences, budget, and schedule.</li>
+</ul>
+<h2><a class="header" href="#meditation" id="meditation">Meditation</a></h2>
+<ul>
+<li>Meditation is a simple practice available to all, which can reduce stress, increase calmness and clarity and promote happiness. Learning how to meditate is straightforward, and the benefits can come quickly. Even just a few minutes a day can make a big difference revealing and refactoring various <a href="https://www.lesswrong.com/posts/WYmmC3W6ZNhEgAmWG/a-mechanistic-model-of-meditation#Uses_for_moments_of_introspective_awareness_">mental motions</a>.
+<ul>
+<li>If you have more introspective awareness of the exact processes that are happening in your mind, you can make more implicit assumptions conscious, causing your brain's built-in contradiction detector to notice when they contradict your later learning. Also, getting more feedback about what exactly is happening in your mind allows you to notice more wasted motion in general.</li>
+</ul>
+</li>
+<li>The goal of meditation is not to quit having thoughts, but to observe them, watch them without reacting and rationalizing them. This helps rewire the way your brain works similar to cognitive behavioral therapy. Typically, people who work towards this, have less anxiety and depression because they don't react to every thought they have, which gives them a greater control of their emotions.</li>
+<li><a href="https://www.nytimes.com/guides/well/how-to-meditate">How to Meditate</a>:
+<ol>
+<li>Find a comfortable place to sit, and a posture that is both alert and relaxed at the same time. See if you can make the spine erect, without being too rigid.</li>
+<li>Close your eyes (or leave them slightly open if you prefer), and take a few slow breaths. Take a few moments to loosen your body from your head to your toes, and take a few more deep breaths. Scan your body to see if you can find any other tension that you can release.</li>
+<li>Stop to notice the sensations throughout your body — the warmth, the coolness or any discomfort. Be aware of them, but try not to fidget too much.</li>
+<li>Keep your attention on your breath. Your mind will wander. Notice it whenever it happens, congratulate yourself for having noticed it, and then return to the breath. After a few moments, your mind may wander again. Once again, notice that and simply return your attention back to the present moment.</li>
+</ol>
+</li>
+</ul>
+<h2><a class="header" href="#journaling" id="journaling">Journaling</a></h2>
+<ul>
+<li>Journaling is a &quot;keystone&quot; habit. It tightly locks all of your other habits in place.</li>
+<li>It helps build a self evaluation loop in your life. It gives you the ability to discover what were you thinking and how the decisions turned out. If you don't reflect on your past, any improvements you do in the future will be by randomness.</li>
+<li>When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.</li>
+<li>Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.</li>
+<li>The development of a coherent narrative helps you reorganize and structure old memories, making them less traumatic.</li>
+<li>Writing on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.</li>
+<li>Premeditatio malorum. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.</li>
+<li><a href="https://nesslabs.com/dear-diary">Journaling is a tool you can use to better manage your mental health</a>.</li>
+<li>There are many methods. Start with a simple one like &quot;What worked, what didn't, what's next&quot;.</li>
+<li>Weekly Review:
+<ul>
+<li><a href="https://www.benkuhn.net/weekly/">Review what happened during the week</a>. How did the week go? Write down a list of topics to think about and take written notes on each topic as you think about them.</li>
+<li>Review a set of recurrent prompts. Tweak them over time. For example:
+<ul>
+<li>Consistency at your core habits this week (exercise, morning routine, todo system, etc.). How can you tweak them to be more consistent or more useful?</li>
+<li>What did you do this week that was a mistake and how can I avoid repeating it?</li>
+</ul>
+</li>
+<li>What would you like to accomplish next week?
+<ul>
+<li>Do you need to clarify something?</li>
+<li>Which actions will you move closer to your goals?</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#stoicism" id="stoicism">Stoicism</a></h2>
+<ul>
+<li><a href="https://www.njlifehacks.com/what-is-stoicism-overview-definition-10-stoic-principles/">Stoicism is a tool set that helps us direct our thoughts and actions in an unpredictable world</a>.</li>
+<li>We don't control and cannot rely on external events, but we can (to a certain extent) control our mind and choose our behavior.</li>
+<li>It's not what happens to us but our reactions to it that matter.</li>
+<li>The 3 Stoic principal leaders are Marcus Aurelius, Epictetus and Seneca.</li>
+<li>Stoicism teaches how to keep a calm and <a href="rationality.html">rational</a> mind no matter what happens to you and it helps you understand and focus on what you can control and not worry about and accept what you can't control.</li>
+<li>We'd be crazy to want to face difficulty in life. But we'd be equally crazy to think that it isn't going to happen. Prepare for it and plan for the worst. The idea of premeditation of adversity is to repeatedly imagine potentially &quot;bad&quot; scenarios in advance, so that they will not catch you by surprise, and you'll be able to face them calmly and act according to virtue.</li>
+<li>Stoic ideas inevitably lead to greater mindfulness.</li>
+<li>Accept rather than fight every little thing.</li>
+<li>Judge yourself accurately and honestly.</li>
+<li>Causes (stress, overwhelm) are within us. Don't blame people or circumstances. You have a choice.</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpsbronniewarecomblogregrets-of-the-dyinglifes-most-common-regretsa" id="a-hrefhttpsbronniewarecomblogregrets-of-the-dyinglifes-most-common-regretsa"><a href="https://bronnieware.com/blog/regrets-of-the-dying/">Life's Most Common Regrets</a></a></h2>
+<ol>
+<li>I wish I'd had the courage to live a life true to myself, not the life others expected of me.</li>
+<li>I wish I didn't work so hard.</li>
+<li>I wish I'd had the courage to express my feelings.</li>
+<li>I wish I had stayed in touch with my friends.</li>
+<li>I wish that I had let myself be happier.</li>
+</ol>
+<h1><a class="header" href="#hobbies" id="hobbies">Hobbies</a></h1>
+<h2><a class="header" href="#dungeons-and-dragons-resources" id="dungeons-and-dragons-resources">Dungeons and Dragons Resources</a></h2>
+<p>Dungeons &amp; Dragons is a cooperative storytelling game that harnesses your imagination and invites you to explore a fantastic world of adventure, where heroes battle monsters, find treasures, and overcome epic quests.</p>
+<ul>
+<li><a href="http://dnd5e.wikidot.com/">Dungeons &amp; Dragons 5th Edition wiki</a></li>
+<li><a href="https://www.dndbeyond.com/essentials">Dungeons &amp; Dragons Beyond Essentials</a></li>
+<li><a href="tokenstamp">Token Stamp Creator</a></li>
+<li><a href="https://www.astraltabletop.com/">Astral</a> - The easiest way to play tabletop roleplaying games online, free.</li>
+<li><a href="https://paper.dropbox.com/doc/Cyanomys-Guide-To-Playing-RPGs-Online-v2.1.0-Ef83ststlhPqW0LELrgye#:h2=Cyanomys%E2%80%99-Guide-To-Playing-RPG">Cyanomys' Guide To Playing RPGs Online</a></li>
+</ul>
+<h2><a class="header" href="#pixel-art-resources" id="pixel-art-resources">Pixel Art Resources</a></h2>
+<ul>
+<li><a href="https://blog.studiominiboss.com/pixelart">Tutorials</a> - Great collection of pixel art tutorials.</li>
+</ul>
+<h2><a class="header" href="#piano-resources" id="piano-resources">Piano Resources</a></h2>
+<ul>
+<li><a href="https://www.reddit.com/r/piano/wiki/faq#wiki_getting_started_as_a_beginner">Getting Started as a Beginner</a>.</li>
+<li><a href="https://www.reddit.com/r/piano/comments/7porbg/practicing_for_the_absolute_beginner_where_and/">Practicing for the absolute beginner</a> - Where and how to start playing the piano.</li>
+<li><a href="https://synthesiagame.com/">Synthesia</a> - A fun way to learn how to play the piano.</li>
+<li><a href="https://www.youtube.com/watch?v=gnMDpBQ_bDQ&amp;app=desktop">How to Play Piano</a> - Learn Pop Songs on the Piano in 5 Minutes.</li>
+<li><a href="https://www.reddit.com/r/musictheory/wiki/faq/core/new_to_music_theory">Getting Started with Music Theory</a>. More <a href="https://www.musictheory.net/lessons">lessons</a> and a <a href="https://play.google.com/store/apps/details?id=com.evilduck.musiciankit&amp;hl=en">great tool</a>. If you're in a hurry, check <a href="https://www.lightnote.co/">How Music Works</a>.</li>
+<li>Youtube Channels:
+<ul>
+<li><a href="https://www.youtube.com/user/billhiltonbiz">Bill Hilton</a></li>
+<li><a href="https://www.youtube.com/channel/UC8R8FRt1KcPiR-rtAflXmeg">Nahre Sol</a></li>
+<li><a href="https://www.youtube.com/channel/UCpzgTNTgQsR9YYsyOm3k3KQ">Andrew Furmanczyk</a></li>
+<li><a href="https://www.youtube.com/user/danthecomposer/">Dan the composer</a></li>
+</ul>
+</li>
+</ul>
+<h1><a class="header" href="#learning" id="learning">Learning</a></h1>
+<ul>
+<li>Understand the base and build from it. First Principles Method. Start from basics before going into complexities.</li>
+<li>You can apply <a href="https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/">The Feynman Technique</a>:
+<ol>
+<li>Identify the subject.</li>
+<li>Teach it to a child. Use simple vocabulary and make it short. Keep questions and answers simple.</li>
+<li>Identify your knowledge gaps. What are you missing?</li>
+<li>Organize and Simplify. Tell a story to teach. Analogies help here!</li>
+</ol>
+</li>
+<li>Follow the guidelines stated in Coursera's <a href="https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/"><em>Learning How to Learn</em> summary</a>.</li>
+<li>Write down the process that better worked for you.</li>
+<li>Keep improving the processes with the learning of failed experiences.</li>
+<li><a href="https://twitter.com/naval/status/1052856864965152769">Learn iterating over the process</a>.</li>
+<li>Everything is always subject to change (including this handbook).</li>
+<li>Learn to ask better questions. Distill what you know to figure out what part you're missing or which link is missing.</li>
+<li>There are two modes of thinking:
+<ul>
+<li>Focused: When you're actively trying to learn something.</li>
+<li>Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks (playing, sleeping, doing exercise, ...).</li>
+</ul>
+</li>
+<li>Reading is a meta-skill. Learn to read and understand so you can trade time reading for some skills.</li>
+<li>Experience ideas directly. Use the <a href="https://betterexplained.com/articles/adept-method/">ADEPT</a> method as a checklist for what helps a concept click:
+<ul>
+<li>Have an Analogy about it.</li>
+<li>Visualize it in a Diagram.</li>
+<li>Gather Examples.</li>
+<li>Come with a Plain-English description of the concept.</li>
+<li>The give into the Technical side.</li>
+</ul>
+</li>
+<li>When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new mental model.</li>
+<li>Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.</li>
+<li>Use spaced repetition. Make cards that are <a href="https://ncase.me/remember/">atomic, connected and meaningful</a>.</li>
+<li><a href="https://youtu.be/Y_B6VADhY84?list=WL">Test your knowledge easily and often and iterate</a>.</li>
+<li>Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.</li>
+<li>One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad habits right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.</li>
+<li>For some subjects, <a href="https://sive.rs/kimo">there’s no speed limit</a>. If you’re more driven than most people, you can do way more than anyone expects.</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpgordonbrandercompatterncapture-organize-synthesizecapture-organize-synthesizea" id="a-hrefhttpgordonbrandercompatterncapture-organize-synthesizecapture-organize-synthesizea"><a href="http://gordonbrander.com/pattern/capture-organize-synthesize/">Capture, Organize, Synthesize</a></a></h2>
+<ul>
+<li>Capture as much as possible. Your thoughts are more valuable than paper. Externalize what you learn. Once an idea is captured in a tangible form you can begin surveying and manipulating it.</li>
+<li>Organize only after you capture. Filter, but don't delete irrelevant information. Computers are big enough to search and store everything. Make them manage it.</li>
+<li>Synthesize into new meaning. Re-contextualize what you learn. This is the creative act. Experience becomes art, notes become a novel.</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpswwwdrmacivercom201905how-to-do-hard-thingshow-to-do-hard-thingsa" id="a-hrefhttpswwwdrmacivercom201905how-to-do-hard-thingshow-to-do-hard-thingsa"><a href="https://www.drmaciver.com/2019/05/how-to-do-hard-things/">How To Do Hard Things</a></a></h2>
+<p>It's a useful conceptual framework for how to get better at things that you currently find difficult.</p>
+<ul>
+<li>The Single-Loop System. Useful when you know what success looks like but cannot currently achieve it.
+<ol>
+<li>Find something that is <em>like</em> the hard thing but is easy.</li>
+<li>Modify the easy thing so that it is like the hard thing in exactly one way that you find hard.</li>
+<li>Do the modified thing until it is no longer hard.</li>
+<li>If you get stuck, do one of the following:
+a. Go back to step 3 and pick a different way in which the problem is hard.
+b. Recursively apply the general system for learning to do hard things to the thing you're stuck on.
+c. Go ask an expert or a rubber duck for advice.
+d. If you're still stuck after trying the first three, it's possible that you may have hit some sort of natural difficulty limit and may not be able to make progress.</li>
+<li>If the original hard thing is now easy, you're done. If not, go back to step 2.</li>
+</ol>
+</li>
+<li>The Double-Loop System. When you don't know what success looks like.
+<ol>
+<li>Apply the single loop system to the problem of improving your understanding of the problem space (e.g. consume lots of examples and learn to distinguish good from bad) in order to acquire a sense of good taste.</li>
+<li>Apply the single loop system to the problem of doing well according to your own sense of good taste.</li>
+<li>Get feedback on the result from others. Do they think you did it well? If yes, great! You're good at the thing. If no, either improve your sense of taste or theirs. If you choose yours, go back to step 1 with the new example. If you choose theirs, apply the single loop system to the hard problem of convincing others that your thing is good.</li>
+</ol>
+</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpswwwlesswrongcompostszgzdnfncxzfx6hyahhow-to-learn-soft-skillslearning-soft-skillsa" id="a-hrefhttpswwwlesswrongcompostszgzdnfncxzfx6hyahhow-to-learn-soft-skillslearning-soft-skillsa"><a href="https://www.lesswrong.com/posts/ZGzDNfNCXzfx6hYAH/how-to-learn-soft-skills">Learning Soft Skills</a></a></h2>
+<ul>
+<li>Pick a soft skill, X, that you’d like to get better at. Then, set a 5-minute timer. Spend those 5 minutes explaining to yourself, in writing, how to do X. Brainstorm on what the key tricky bits are, or strategies for navigating them.</li>
+<li>Explore how is skill X really actually just the same as skill Y. In the sense that anyone who is fluent in skill Y already knows all they need to know to be good at X — they just need to apply their Y-skill to X. Your goal, as you do this, is to create a very short guide that enables anyone who already knows Y to hit the ground running with X.</li>
+</ul>
+<h2><a class="header" href="#links-1" id="links-1">Links</a></h2>
+<ul>
+<li><a href="https://khanacademy.org/">Khan Academy</a> - Free and comprehensive early courses covering a wide range of topics</li>
+<li><a href="https://www.udacity.com/">Udacity</a> - Online Courses for the digital economy</li>
+<li><a href="https://www.coursera.org/">Coursera</a> - Online learning from the world's best universities and companies</li>
+<li><a href="https://explorabl.es/">Explorable Explanations</a> - A hub for learning through play</li>
+<li><a href="http://setosa.io/ev/">Explained Visually</a> -  Experiment in making hard ideas intuitive using visualizations</li>
+<li><a href="http://noexcuselist.com/">No Excuse List</a> - The best place on the web to learn anything, free</li>
+</ul>
+<h3><a class="header" href="#computer-science" id="computer-science">Computer Science</a></h3>
+<ul>
+<li><a href="http://learnxinyminutes.com/">Learn X in Y minutes</a> - Learn the basic of any language in Y minutes</li>
+<li><a href="http://exercism.io/">Exercism</a> - Code practice and mentorship for everyone</li>
+<li><a href="http://bost.ocks.org/mike/algorithms/">Visualizing Algorithms</a> - Cool visualizations of common algorithms used in Computer Science</li>
+<li><a href="https://codelabs.developers.google.com/">Google Developers Codelabs</a> - Guided, tutorial, hands-on coding experience on Google Products.</li>
+<li><a href="https://aihub.cloud.google.com/u/0/">Google AI Hub</a> - Learn, build and share notebooks, models, and other AI components.</li>
+<li><a href="https://www.katacoda.com/">Katacoda</a> - Learn new technologies using real environments
+right in your browser.</li>
+<li><a href="http://hackr.io/">Hackr</a> - Search for courses on any language, framework or programming topic</li>
+<li>Hardware
+<ul>
+<li><a href="http://gpuboss.com/">GPUBoss</a> - Compare graphics cards head to head</li>
+<li><a href="https://pcpartpicker.com/">PC Part Picker</a> - Build guides, which cover systems for all use-cases and budgets, or create your own and share it with our community</li>
+<li><a href="http://www.logicalincrements.com/">Logical Increments</a> - The PC builder's tier list</li>
+</ul>
+</li>
+</ul>
+<h3><a class="header" href="#others" id="others">Others</a></h3>
+<ul>
+<li><a href="https://hackdesign.org/lessons">Hack Design</a> - Quick and simple lessons on design</li>
+<li><a href="http://betterexplained.com/">Better Explained</a> - Math without endless memorization</li>
+<li><a href="https://seeing-theory.brown.edu">Seeing Theory</a> - A visual introduction to probability and statistics</li>
+<li><a href="https://tutsplus.com/">Tuts+</a> - Collection of How To tutorials on lots of topics</li>
+<li><a href="https://github.com/RichardLitt/meta-knowledge">Metaknowledge</a> - A list of knowledge repositories from multiple people</li>
+<li>Privacy
+<ul>
+<li><a href="https://www.reddit.com/r/privacy/wiki/index">Reddit r/privacy  Wiki</a> - Guide to becoming more secure online</li>
+<li><a href="https://www.privacytools.io/">Privacy Tools</a> - Provides knowledge and tools to protect your privacy against global mass surveillance</li>
+<li><a href="https://switching.social/">Switching Social</a> - Ethical, easy-to-use and privacy-conscious alternatives to multiple tools</li>
+</ul>
+</li>
+</ul>
+<h1><a class="header" href="#programming" id="programming">Programming</a></h1>
+<p>A programmer should know <a href="http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book">lots</a> <a href="http://www.artima.com/weblogs/viewpost.jsp?thread=331531">of</a> <a href="http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions">concepts</a>. Try to keep in mind the following principles:</p>
+<ul>
+<li>
+<p><strong>Small is beautiful</strong>.
+Small things have tremendous advantages over their larger counterparts.
+Among these is the ability to combine with other small things in unique and useful ways.</p>
+</li>
+<li>
+<p><strong>Design for simplicity</strong>.
+Do the <a href="https://landing.google.com/sre/book/chapters/simplicity.html">simplest thing</a> that could possibly work.
+Benefits of simplicity: ease of understanding, ease of change, ease of debugging, flexibility.
+We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
+Writing program code is a good way of debugging your thinking.</p>
+</li>
+<li>
+<p><strong>Do one thing and do it well</strong>.
+By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility.</p>
+</li>
+<li>
+<p><strong>Make it work, make it right, make it fast</strong>.
+Build a prototype as soon as possible to get a sense of the entire process.
+Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
+Apply small improvements at each iteration.
+Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
+<a href="https://meltingasphalt.com/a-codebase-is-an-organism/">The computer is a machine, but a codebase is an organism</a>.</p>
+</li>
+<li>
+<p><strong>Choose portability over efficiency</strong>.
+If today's hardware just about runs a program with just about adequate efficiency, tomorrow's will run it with power to spare.
+The developer task is to make sure his program will run on that new hardware with minimal effort.</p>
+</li>
+<li>
+<p><strong>Data is only useful as long as it's being used</strong>.
+Flat files help ensure that data is usable for the longest possible time.
+For complex data structures where plain text really isn't appropriate, use a structured text format instead.</p>
+</li>
+<li>
+<p><strong>A programmer who can't re-use other programs is condemned to re-write them</strong>.
+Use software leverage to your advantage.
+Many programmers have only a superficial understanding of the importance of re-usable code modules.</p>
+</li>
+<li>
+<p><strong>Silence is golden</strong>.
+A silent command is often more usable, providing the function asked for and nothing more.</p>
+</li>
+<li>
+<p><strong>Think parallel</strong>.
+Most tasks are composed of sub-tasks which may be attacked in parallel.
+This also applies to user interactions.
+Parallelism can save a great deal of time and frustration.</p>
+</li>
+<li>
+<p><strong>The sum of the parts is greater than the whole</strong>.
+A large application built from a collection of smaller programs is more flexible and hence more useful than a single large program.
+The same functional capability may exist in both solutions, but the collection-of-small-programs approach is the more forward-looking of the two.
+<a href="https://meltingasphalt.com/a-codebase-is-an-organism/">The computer is a machine, but a codebase is an organism</a>. The organic nature of code manifests itself in the dual forces of growth and decay. It also suggests that you should know your code smells. These smells won't be causing problems during execution, on the machine. Instead, it's going to cause problems during evolution of the codebase.</p>
+</li>
+<li>
+<p><strong>Look for the 80% solution</strong>.
+Doing 100% of anything is difficult.
+Focusing in the 80% is far more efficient and cost-effective.
+Handle the 80% and let the 20% fend for themselves.
+80% of the impact comes from 20% of the work.
+<a href="https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/">Software is never finished, only abandoned</a>.</p>
+</li>
+<li>
+<p><strong>Treat all the data as an event log</strong>.
+Use a central log where consumers can subscribe to the relevant events.
+Having a central place (<a href="https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying">the log</a>) for continuous events make easy to create a stream of data to process and sets a source of truth.</p>
+</li>
+<li>
+<p><strong>There is no silver bullet</strong>.
+Accept that many programming decisions are opinions.
+Make the trade-offs explicit when making judgments and decisions.
+Discuss <a href="https://twitter.com/kelseyhightower/status/774076482637312001">tradeoffs</a>, which you prefer, and reach a resolution.</p>
+</li>
+<li>
+<p><strong>Keep the iteration loop short</strong>.
+Invest in tools to automate and improve the development cycle (CI, CD). Decreasing build times a few seconds actually saves a lot of time over time. Deploy often to make the loop end to end. If you need to do something manually more than twice, then write a tool for the third time.</p>
+</li>
+<li>
+<p><strong>Avoid implicit rules</strong>.
+Implicit rules should always be made explicit and shared with others or automated. Ideally, all processes should be written as code, stored, and versioned.</p>
+</li>
+</ul>
+<p>Like any other field, the world of Software Development has some interesting and famous &quot;laws&quot;. These are some of them I've found interesting, funny or worth knowing:</p>
+<ul>
+<li><a href="http://www.globalnerdy.com/2007/07/18/laws-of-software-development/">Laws of Software Development</a></li>
+<li><a href="https://www.timsommer.be/famous-laws-of-software-development/">Famous Laws Of Software Development</a></li>
+<li><a href="https://gist.github.com/sorahn/905f67acf00d6f2aa69e74a39de65941">Laws of Computing</a></li>
+<li><a href="https://github.com/dwmkerr/hacker-laws">Hacker Laws</a></li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpschrisbeamsiopostsgit-commithow-to-write-a-git-commit-messagea" id="a-hrefhttpschrisbeamsiopostsgit-commithow-to-write-a-git-commit-messagea"><a href="https://chris.beams.io/posts/git-commit/">How to Write a Git Commit Message</a></a></h2>
+<ol>
+<li>Separate subject from body with a blank line.</li>
+<li>Limit the subject line to 50 characters.</li>
+<li>Capitalize the subject line.</li>
+<li>Do not end the subject line with a period.</li>
+<li>Use the imperative mood in the subject line.</li>
+<li>Wrap the body at 72 characters.</li>
+<li>Use the body to explain what and why vs. how.</li>
+</ol>
+<h2><a class="header" href="#a-hrefhttpsgithubblog2015-01-21-how-to-write-the-perfect-pull-requesthow-to-make-a-good-pull-requesta" id="a-hrefhttpsgithubblog2015-01-21-how-to-write-the-perfect-pull-requesthow-to-make-a-good-pull-requesta"><a href="https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/">How to make a good Pull Request</a></a></h2>
+<ol>
+<li>Include the purpose of the Pull Request.</li>
+<li>Provide an overview of why the work is taking place.</li>
+<li>Be explicit about what feedback you want, if any: a quick pair of :eyes: on the code, discussion on the technical approach, critique on design, a review of copy.</li>
+<li><a href="https://mtlynch.io/human-code-reviews-1/">Offering feedback</a>
+<ol>
+<li>Familiarize yourself with the context of the issue, and reasons why this Pull Request exists.</li>
+<li>Ask, don't tell.</li>
+<li>Explain your reasons why code should be changed.</li>
+<li>Be aware of negative bias with online communication. Can you use positive language as opposed to neutral?</li>
+</ol>
+</li>
+</ol>
+<h2><a class="header" href="#automation" id="automation">Automation</a></h2>
+<ul>
+<li>Aim for automating all your job. A good way is to start writing a script that only prints out the steps required to do a task. You can replace these steps one by one and do the rest manually until they're all automated.</li>
+<li>Automation is used for Precision, Stability and Speed. It reduce or eliminate human error and brings stability to a system.</li>
+<li><a href="https://queue.acm.org/detail.cfm?id=3197520">Automation is putting process into code</a>.
+<ol>
+<li>Document the steps. Following a step-by-step guide is automation: you are the CPU.</li>
+<li>Create automation equivalents. Add command-line snippets to replace steps.</li>
+<li>Create automation. Create a script that runs everything.</li>
+</ol>
+</li>
+<li>Makefiles are a great way to document and consolidate different projects of a team. Each project should have a <code>make</code> that runs it, and perhaps a <code>make deploy</code> to deploy it. Language and tool independent!</li>
+</ul>
+<h2><a class="header" href="#databases" id="databases">Databases</a></h2>
+<ul>
+<li>As in any other place, stick to a naming convention to keep things sane.</li>
+<li>Follow a SQL style guide.
+<ul>
+<li><a href="https://gist.github.com/fredbenenson/7bb92718e19138c20591">Kickstarter's SQL Style Guide</a></li>
+<li><a href="https://github.com/meadmaker/sql-style-guide">Meadmaker's SQL Style Guide</a></li>
+<li><a href="https://www.sqlstyle.guide/">SQL Style Guide</a></li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpsyoutubezaxadrlyzq8principles-of-game-designa" id="a-hrefhttpsyoutubezaxadrlyzq8principles-of-game-designa"><a href="https://youtu.be/zaxAdRlyZQ8">Principles of Game Design</a></a></h2>
+<ol>
+<li>Create concrete,achievable, and rewarding goals.</li>
+<li>Design for nuanced emotion.</li>
+<li>Create rapid and robust controls.</li>
+<li>Make fun toys, and combine them into games.</li>
+<li>Make the next action obvious.</li>
+<li>Give clear and immediate feedback with no distraction.</li>
+<li>Balance skills with challenge.</li>
+</ol>
+<h2><a class="header" href="#resources-5" id="resources-5">Resources</a></h2>
+<ul>
+<li><a href="https://semver.org/">Semantic Versioning</a></li>
+<li><a href="https://www.writethedocs.org/guide/#">Documentation Guide</a></li>
+<li><a href="https://guides.github.com/features/wikis/#Formatting-a-readme">Formatting your README</a></li>
+<li><a href="https://opensource.guide/">Open Source Guides</a></li>
+<li><a href="https://shields.io/">Github Badges</a></li>
+</ul>
+<h1><a class="header" href="#quotes" id="quotes">Quotes</a></h1>
+<p>A quote is a distilled piece of knowledge. These are some of my favorites.</p>
+<ul>
+<li>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. Anthony Robbins.</li>
+<li>The good thing about science is that it's true whether or not you believe in it. Neil deGrasse Tyson.</li>
+<li>Don't raise your voice, improve your argument. Desmond Tutu.</li>
+<li>Desire is a contract you make with yourself to be unhappy until you get what you want. Naval Ravikant.</li>
+<li>Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely. Roy T. Bennett.</li>
+<li>If you want to feel good, brainstorm it. If you want to appear good, test it. If you want to know if you're any good, ship it. Jason Fried.</li>
+<li>Life doesn't get better. You get better at it.</li>
+<li>It is not the things we do in life that we regret on our death bed. It is the things we do not. Randy Pausch.</li>
+<li>There is nothing so useless as doing efficiently that which should not be done at all. Peter Drucker.</li>
+<li>Questions are places in your mind where answers fit. If you haven't asked the question, the answer has nowhere to go. It hits your mind and bounces right off. You have to ask the question – you have to want to know – in order to open up the space for the answer to fit. Clay Christiansen.</li>
+<li>Simple rules produce complex behavior. Complex rules produce stupid behavior. Andrew Hunt.</li>
+<li>You cannot answer a question that you cannot ask, and you cannot ask a question that you have no words for. Judea Pearl.</li>
+<li><a href="https://youtu.be/RPicL1AWrs8?list=WL">The mind is its own place, and in itself can make a heaven of hell, a hell of heaven</a>.</li>
+<li>There's no love in a carbon atom, No hurricane in a water molecule, No financial collapse in a dollar bill. Peter Dodds.</li>
+<li>All models are wrong, but some are useful. George Box.</li>
+<li>Relax, no one else knows what they're doing either. Ricky Gervais.</li>
+<li>When you view the world as a series of outputs, you form opinions. But when you view the world as a series of systems, you form strategies. Channing Allen.</li>
+<li>I hate that man. I must get to know him better. Abraham Lincoln.</li>
+<li>You enjoy a trip three times. Getting ready for it, while traveling and when you remember it. Good memories appreciate over time!</li>
+<li>Extraordinary claims require extraordinary evidence. Carl Sagan.</li>
+<li>The rabbit runs faster than the fox, because the rabbit is running for his life while the fox is only running for his dinner. Richard Dawkins.</li>
+<li>Where all think alike, no one thinks very much. Walter Lippmann.</li>
+<li>Every step and every movement of the multitude, even in what are termed enlightened ages, are made with equal blindness to the future; and nations stumble upon establishments, which <a href="https://en.wikipedia.org/wiki/Spontaneous_order">are indeed the result of human action, but not the execution of any human design</a>. Adam Ferguson.</li>
+<li>Comparison is the thief of joy. Theodore Roosevelt.</li>
+<li>I am writing a longer letter than usual because there is not enough time to write a short one. Blaise Pascal.</li>
+<li>When the facts change, I change my mind. What do you do, sir? John Maynard Keynes.</li>
+<li>Reality is not optional. Thomas Sowell.</li>
+<li>History doesn't repeat itself, but it does rhyme. Mark Twain.</li>
+<li>Seek not for events to happen as you wish but rather wish for events to happen as they do and your life will go smoothly. Epictetus.</li>
+<li>It is impossible for a man to learn what he thinks he already knows. Epictetus.</li>
+<li>You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally. Robert M. Pirsig.</li>
+<li>Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Richard Feynman.</li>
+<li>There are no solutions. There are only trade-offs. Thomas Sowell.</li>
+<li>It's not that life is short, it's that we waste to much of it. Seneca.</li>
+<li>Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in. Isaac Asimov.</li>
+<li>Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again. Steve Jobs.</li>
+<li>A witty saying proves nothing. Voltaire.</li>
+<li>This too shall pass. Persian adage.</li>
+</ul>
+<h2><a class="header" href="#external-lists" id="external-lists">External Lists</a></h2>
+<ul>
+<li><a href="https://nikitavoloboev.xyz/likes/#quotes">Nikita Voloboev's favorites quotes</a>.</li>
+<li><a href="https://news.ycombinator.com/item?id=24436135">Ask HN: What is your favorite motto? (2020)</a></li>
+</ul>
+<h1><a class="header" href="#rationality" id="rationality">Rationality</a></h1>
+<ul>
+<li>You can try things to find out which ideas are right or wrong. It requires asking &quot;What else would be true if this thing were true?&quot; or &quot;What would be different depending on whether X versus Y were true?&quot;.</li>
+<li>Aim to get an accurate picture of reality, even when that's unpleasant.</li>
+<li>Local Validity: Some argument steps are allowed steps and some argument steps aren't, independently of whether they arrive at an answer you agree with.</li>
+<li>People can fool you by saying they saw things that they didn't see, telling you some things they know but not others or by using flawed steps when drawing conclusions. When you try to make an argument come out with a particular answer, tou can fool yourself in the same way.</li>
+<li>You can be the wrong person.</li>
+<li>Assume good faith. Trust the other person to be believing things that make sense to them, which you'd have ended up believing if you were exposed to the same stimuli, and that they are generally trying to find the the truth.</li>
+<li><a href="https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html">Notice</a> your internal state (cognitive and emotional). Notice when you are in a failure mode, and step out. For example:
+<ul>
+<li><a href="https://youtu.be/w4RLfVxTGH4?list=WL">Motivated Reasoning or Soldier Mindset</a>:
+<ul>
+<li>You are fighting to make sure an argument wins.</li>
+<li>You are fighting to make another argument lose.</li>
+</ul>
+</li>
+<li>You are incentivized to believe something, or not to notice something, because of social or financial rewards.</li>
+<li>You're incentivized not to notice something or think it's important because it'd be physically inconvenient/annoying.</li>
+<li>You are offended/angered/defensive/agitated.</li>
+<li>You are afraid you'll lose something important if you lose a belief.</li>
+<li>You are arguing about definitions of words instead of ideas.</li>
+<li>You are confused or surprised. Treat this as a red flag that something about your models is wrong.</li>
+</ul>
+</li>
+<li>Notice if someone else seems to be in one of the above failure modes.</li>
+<li>Tactfully disagree in a way that arouses curiosity rather than defensiveness.</li>
+<li><a href="https://www.lesswrong.com/posts/ZQG9cwKbct2LtmL3p/evaporative-cooling-of-group-beliefs#fn3x57">Be prejudiced in favor of tolerating dissent</a>.</li>
+<li>Leave your colleague a line of retreat.</li>
+<li>Socially reward people who change their mind.</li>
+<li>Take into account second and third order effects.</li>
+<li>Mistrust simple comparisons.</li>
+<li>The real costs aren't always what is shown. Costs and values are often made of multiple parts. Beware repeated costs—they add up!</li>
+<li>Bet on everything where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and underconfidence, which will serve you in good stead emotionally when you try to do inadequacy reasoning.</li>
+<li>Do your philosophical thinking in advance (<a href="https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts">cached thoughts</a>), so you can concentrate on explaining well. Above all, practice staying within the one-inferential-step bound. <a href="https://www.lessestwrong.com/posts/aSQy7yHj6nPD44RNo/how-to-seem-and-be-deep">Think for yourself about &quot;wise&quot; or important or emotionally fraught topics</a> rather than letting your brain complete the pattern. If you don't stop at the first answer, and cast out replies that seem vaguely unsatisfactory, in time your thoughts will form a coherent whole, flowing from the single source of yourself, rather than being fragmentary repetitions of other people's conclusions.</li>
+<li>There's a distinction between tacit knowledge and explicit knowledge:
+<ul>
+<li>Tacit knowledge is like the knowledge that you use to ride a bicycle—it's complex, experiential, intuitive, hard to put into words.</li>
+<li>Explicit knowledge is clear and concrete and transferable and (at least somewhat) objectively verifiable. How you ride a bicycle is tacit, but the fact that you can ride a bicycle is explicit. It's a binary fact that can be completely and compactly transferred through words, and that is checkable through experiment.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#making-decisions" id="making-decisions">Making Decisions</a></h2>
+<ul>
+<li>Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a problem-solving activity, and it can be more or less rational or irrational based on the decision maker's values, beliefs, and (perceived) knowledge.</li>
+<li>The decisions you make fall into two categories:
+<ul>
+<li>Prioritizing — Which path should you take first?</li>
+<li>Allocating — How much attention, time, and capital should you spend on this?</li>
+</ul>
+</li>
+<li>To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.</li>
+<li>Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy.</li>
+<li><a href="https://youtu.be/SVmEXdGqO-s">The fog of the future hides vital information</a>.</li>
+<li>If all options are similar take the harder one in the short term (<em>Hard decisions easy life, easy decisions, hard life</em>).</li>
+<li>Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/environmental changes.</li>
+<li>The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.</li>
+<li>Ask what information would cause you to change your mind. If you don't have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.</li>
+<li>How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can't take back, then it's worth really, really understanding. Aim for preserving optionality.</li>
+<li>We are all susceptible to bias, almost all the time. A way to detect bias and minimize the decision impact is to <a href="https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T">run it by a bias checklist</a>.</li>
+<li><a href="https://nesslabs.com/decision-making">There are many reasons why smart people may make a poor decision</a>; Overconfidence, Analysis paralysis, Information overload, Lack of emotional or physical resources, ...</li>
+<li>Decision making styles:
+<ul>
+<li>Intuitive vs. Rational. System 1 vs System 2.</li>
+<li>Maximizing vs. Satisficing. Go for the optimal decision or simply try to find a solution that is good enough.</li>
+<li>Well defined goal vs. blurred objective. Planning all the details or trying to be as flexible as possible.</li>
+</ul>
+</li>
+<li>How to make smart decisions once you have the data (DECIDE framework):
+<ol>
+<li>Define the problem. Understand the problem at hand.</li>
+<li>Establish the criteria. List all the factors you want to consider before making a decision.</li>
+<li>Consider the alternatives. Do enough research to have a few solid alternatives.</li>
+<li>Identify the best alternative. See which alternative makes most sense based on your criteria.</li>
+<li>Develop and implement a plan of action. Act on that decision.</li>
+<li>Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get.</li>
+</ol>
+</li>
+<li>Cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else;</li>
+</ul>
+<h2><a class="header" href="#problem-solving" id="problem-solving">Problem Solving</a></h2>
+<ul>
+<li>Problems have multiple solutions at multiple levels.</li>
+<li>Humans get obsessed with solutions rather than first building an obsession with a problem. Obsess around problems, not solutions.</li>
+<li><a href="http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/">Most of the time problems already have solutions</a>:
+<ul>
+<li>The first group of people that encounter a problem don't know how to solve it.</li>
+<li>They figure out a way of doing it, and when they get to a solution that's good enough (not perfect, just good enough), that's what they settle on.</li>
+<li>The next time they encounter the problem, they use the same solution.</li>
+<li>That keeps happening until later people don't even think about how to do it. <a href="https://en.wikipedia.org/wiki/Einstellung_effect">It's just how things are done</a>.</li>
+</ul>
+</li>
+<li>The best thing that can be done to a problem is to dissolve it, to redesign the entity that has it or its environment so as to eliminate the problem.
+<ul>
+<li>A problem well stated is a problem half solved.</li>
+<li>Insight is best thought of as a change in problem representation. The way we frame problems makes them more or less difficult.</li>
+</ul>
+</li>
+<li><a href="https://rs.io/the-science-of-problem-solving/">Problem solving can be understood as a search problem</a>. You start in some state, there's a set of neighbor states you can move to, and a final state that you would like to end up in.</li>
+<li>Taking breaks during working on a problem solving is called incubation. Incubation enhances problem solving ability.</li>
+<li>To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others.</li>
+<li>Grossman's Law: Complex problems have simple, easy to understand wrong answers.</li>
+<li>Aim for a Minimum Viable Solution. <strong>Start small and iterate</strong>. Fail early and learn from it. That allows you to explore, then exploit.</li>
+<li>When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away (<a href="https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/">Via Negativa</a>). For example, the foods you avoid are more important than the foods you eat.</li>
+<li>Your problems will tend to either be <strong>adaptive</strong> or <strong>technical</strong>. Adaptive problems require experimentation, novel strategies, or new ways of thinking and being; they're problems containing &quot;unknown unknowns&quot; and are often opaque in addition to being difficult. Technical problems may be equally difficult, but their difficulty lies in execution. Technical problems are those where the path to the solution is known or knowable and does not need to be discovered.</li>
+<li><a href="http://www.paulgraham.com/top.html">There's a kind of thinking you do without trying to</a>. This type of thinking is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly. Try to get yourself into situations where the most urgent problems are ones you want to think about.</li>
+<li>If a problem has no solution, it may not be a problem, but a fact - not to be solved, but to be coped with over time.</li>
+</ul>
+<h2><a class="header" href="#asking-questions" id="asking-questions">Asking Questions</a></h2>
+<ul>
+<li><a href="http://www.catb.org/esr/faqs/smart-questions.html">Ask swart questions</a>:
+<ol>
+<li>Do your own research first.</li>
+<li>Include things you have tried and thought of before asking the question.</li>
+<li>Be explicit about what you want to achieve in the end and provide as much up-front information as possible to help.</li>
+<li>Respect other people's time. Follow up after you get an answer.</li>
+</ol>
+</li>
+<li><a href="http://xyproblem.info/">When asking for help, let the people know what the problem you are trying to solve actually is instead of simply saying your solution and the reader guessing what it is you are actually trying to do</a>.</li>
+<li><a href="https://www.aaronkharris.com/asking-questions">Think about the question like a child</a>.</li>
+</ul>
+<h2><a class="header" href="#resources-6" id="resources-6">Resources</a></h2>
+<ul>
+<li><a href="https://www.lesswrong.com/">LessWrong</a> - A community dedicated to improving reasoning and decision-making.</li>
+<li><a href="https://www.rationality.org/resources/rationality-checklist">Rationality Checklist</a> - Checklist for personal use, so you can have a wish-list of rationality habits and see if you're acquiring good habits.</li>
+<li><a href="https://www.kialo.com/">Kialo</a> - Tool to explore debates.</li>
+<li><a href="https://arguman.org/">Arguman</a> - An argument analysis platform.</li>
+<li><a href="https://www.getguesstimate.com/">Guesstimate</a> - A spreadsheet for things
+that aren't certain.</li>
+<li><a href="https://www.lesswrong.com/posts/wccxMtZdEvHzLRNTZ/a-practice-of-rationality-sequence?commentId=BFaNYCKd3oQqQoZpH">Rationality skill tree</a>.</li>
+</ul>
+<h1><a class="header" href="#teamwork" id="teamwork">Teamwork</a></h1>
+<ul>
+<li>Share a vision to make <a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">loosely coupled, tightly aligned teams</a>.</li>
+<li>When coming up with a long-term technical vision is important to stay abstract.
+<ul>
+<li>Stick to defining components and keep concepts. Show how the components interact.</li>
+<li>Define boundaries and limitations of each component.</li>
+<li>Write tech specs before you write software (examples in <a href="https://codeburst.io/on-writing-tech-specs-6404c9791159">Codeburst</a> and <a href="https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9">Lyft</a>). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.</li>
+</ul>
+</li>
+<li>Define the culture and values. <a href="https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md">Culture</a> is simply a shared way of doing something with passion. Culture is created and re-created by the choices made by individuals every day. It can be reshaped by conscious effort applied gently, subtly, and consistently. It is also a shared mechanism for problem solving.
+<ul>
+<li>Make the right thing to do the easiest thing to do.</li>
+<li>Solve problems by fixing the environment that allowed them to occur.</li>
+<li>Times change, trends change, cultures change. Make it explicit.</li>
+</ul>
+</li>
+<li>Work in the open and document everything.
+<ul>
+<li>Processes:
+<ul>
+<li>Write status updates.</li>
+</ul>
+</li>
+<li>Conventions:
+<ul>
+<li>Confirm decisions to move them forward.</li>
+<li>Offer conclusions in long discussions.</li>
+</ul>
+</li>
+<li>Meetings:
+<ul>
+<li>Update meetings:
+<ul>
+<li>Progress: what did I accomplish this week?</li>
+<li>Plans: What tasks am I doing next week?</li>
+<li>Problems: what is blocking progress?</li>
+<li>Other: what else should the team know?</li>
+</ul>
+</li>
+<li>Decision meetings:
+<ul>
+<li>Progress on achieving current quarterly objectives.</li>
+<li>How the product is being received in the market.</li>
+<li>How the most important customers are succeeding (or not) using the product.</li>
+<li>How the team is performing and any people changes needed.</li>
+<li>Financial position of the company and review of metrics.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Responsibilities.</li>
+<li>Defaults. For example, each thing should have a place by default, docs, issues, ...</li>
+</ul>
+</li>
+<li>You can create a Handbook to put everything together. Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.</li>
+<li>Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
+<ul>
+<li>Search should be centralized. Keeping 4 tools causes scattered information.</li>
+<li>Link everything together.</li>
+<li>Basecamp does that using Basecamp, GitLab uses GitLab.</li>
+</ul>
+</li>
+<li>Aim to be a completely autonomous team. You build it, you run it!</li>
+<li>Run <a href="https://basecamp.com/features/checkins">Automated Checkings</a> to share things explicitly. What are people working on, what are they planning to work on next, ...</li>
+<li>Build a culture of stopping to fix problems, to get quality right the first time.</li>
+<li>Standardized tasks and processes are the foundation for continuous improvement and employee empowerment.</li>
+<li>Standardization should be based on tooling and <a href="programming.html#automation">automation</a>.</li>
+<li>Someone should be the information hub. It helps connecting the dots that wouldn't otherwise get connected.</li>
+<li>Meetings should be as short, focused, and small as possible.</li>
+<li>Write postmortems after large incidents. This will create a feedback loop to guide learning about what happened and how it can be avoided next time.</li>
+<li>Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you're trying to do when requesting help.</li>
+<li>How to drive change: find people who agree on the problem, start small, experiment, scale, repeat.</li>
+<li>The group with the most power determine the system that reflect and reinforce their own way of thinking. Aim for inclusion. Diversity is being invited to the party. Inclusion is being asked to dance and help organizing the party.</li>
+<li><a href="https://getpocket.com/explore/item/better-brainstorming">Brainstorm for questions first. Then find the answers.</a></li>
+<li>Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships. <a href="https://www.fast.ai/2019/09/24/metrics/">Don't try to optimize that number or it'll be gamed</a>. When a measure becomes a target, it ceases to be a good measure. Not everything that counts can be measured, and not everything that can be measured counts.</li>
+<li>Data can be valuable in helping us understand the world, test hypotheses, and move beyond gut instincts or hunches. Metrics can be useful when they are in their proper context and place.</li>
+<li>Strive for constructive conflict. Get people to ask questions. Engage in passionate, unfiltered debate about what you need to do to succeed.</li>
+<li>Encourage to fail. Failing is good if the team learn from it!</li>
+<li>Encourage effectiveness. Find ways to free up your time.</li>
+<li>Push relentlessly toward automation.
+<ul>
+<li>Investigate where (and how) processes and tasks could be automated, and understanding the costs of automating them.</li>
+</ul>
+</li>
+<li>A company may be looked as a combination of 3 things:
+<ul>
+<li>The people who work at the company.</li>
+<li>The process the company uses to get work done.</li>
+<li>The purpose for which the company exists.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#engineering-process" id="engineering-process">Engineering Process</a></h2>
+<ol>
+<li>Always create an issue and assign it to you for anything you work on. If it is worth spending time on, it is worth creating an issue for it since that enables other people to learn and help. You can always edit the description or close it when the problem is something different or disappears.</li>
+<li>When working on an issue, make sure that the issue body contains the latest information. The issue body should be the single source of truth.</li>
+<li>After a discussion related to an issue update the issue body with the consensus or final conclusions. This makes it much easier to see the current state of an issue for everyone involved in the implementation and prevents confusion later on.</li>
+<li>Submit the smallest item of work that makes sense. When creating an issue describe the smallest fix possible, put suggestions for enhancements in separate issues and link them.</li>
+<li>Do not leave issues open for a long time, issues should be actionable and realistic. If an issue has been addressed or is not relevant anymore, close it. If someone disagrees, they can re-open it and explain what is still relevant.</li>
+<li>If you complete part of an issue and need someone else to take the next step, re-assign the issue to that person.</li>
+<li>When working on an issue, ask for feedback from your peers. Try to get a <a href="https://github.com/thoughtbot/guides/tree/master/code-review">review</a> of your work. Even a quick look could do it. If they suggest changes, you get the opportunity to improve. This promotes collaboration and advances everyone's skills.</li>
+</ol>
+<h2><a class="header" href="#communication" id="communication">Communication</a></h2>
+<ul>
+<li>Use <a href="https://github.com/davidgasquez/handbook/blob/master/content/communications.md">common techniques</a> and be friendly.</li>
+<li>Prefer asynchronous communications. <a href="https://snir.dev/blog/remote-async-communication/">It allows for self discovery without interruptions</a>:
+<ul>
+<li>You can keep on your flow without waiting for someone to give you details.</li>
+<li>You can get into &quot;deep focus&quot; session without context switching that allows for better productivity.</li>
+<li>You can work whenever, since you are not dependent on anyone immediately.</li>
+<li>You'll have written records of everything.</li>
+</ul>
+</li>
+<li>Have a primary communication channel.</li>
+<li>You can not not communicate. Not discussing the elephant in the room is communicating. Few things are as important to study, practice, and perfect as clear communication.</li>
+<li>Use long-form writing, rather than meetings, speaking, and chatting. Speaking only helps who's in the room, writing helps everyone.</li>
+<li>Whenever possible, communicate directly with those you're addressing rather than passing the message through intermediaries.</li>
+<li>If you want an answer, you have to ask a question. People typically have a lot to say, but they'll volunteer little.</li>
+<li>Agree on the terminology. Similar understanding of terms makes discussion more productive.</li>
+<li>Work through confrontations mindfully:
+<ul>
+<li>Acknowledge the positive intentions. Try to understanding his or her rationale and state it out loud directly to them.</li>
+<li>Express what you see and what you think! Remember, kindness matters. You are looking at a screen, but you are really talking to a person.</li>
+<li>Identify and propose a solution. You should try to build consensus by demonstrating how your solution will resolve everyone's concerns, not just your own.</li>
+<li>Outline the benefits and advantages of your proposal.</li>
+<li>Understanding. Either nail down agreement on a next action or step, or work together to develop alternatives.</li>
+</ul>
+</li>
+<li>Guides to Communications:
+<ul>
+<li><a href="https://about.gitlab.com/handbook/communication/">Gitlab Communications</a>.</li>
+<li><a href="https://basecamp.com/guides/how-we-communicate">Basecamp Communications</a>.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpsgithubcomipfsteam-mgmtblobmasterroadmap_how_tomdwriting-a-roadmapa" id="a-hrefhttpsgithubcomipfsteam-mgmtblobmasterroadmap_how_tomdwriting-a-roadmapa"><a href="https://github.com/ipfs/team-mgmt/blob/master/ROADMAP_HOW_TO.md">Writing a Roadmap</a></a></h2>
+<ul>
+<li>Gather Ideas: Collect inputs and data from across your project.</li>
+<li>Draft top-level goals: Create a vision statement with the top problems you aim to solve. What is important to achieve? For whom? Why?</li>
+<li>Chunk progress into milestones: Define the incremental targets to hit in order to accomplish the top-level goals. What must be true to reach this milestone? On what timeline? With what dependencies? What does this unlock?</li>
+<li>Assign projects to milestones: Fill in key projects that are necessary, nice to have, and out of scope to reach those milestones and bucket them accordingly. Why is each project important to achieve that milestone? Which are highest priority? Do they have any dependencies? Approximate how hard/big is each project? (This likely involves iterating on or shuffling the milestones themselves based on capabilities/effort.)</li>
+<li>Iterate iterate iterate: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you're prioritizing the right work, which gaps or open questions you haven't thought of yet.</li>
+<li>Finalize: Get sign off on this version of the roadmap for the upcoming time window. Present it to cross-functional partners and start using it as a communication device to align effort, priorities, and cross-team information sharing.</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpswwwindustrialempathycompostsdesign-docs-at-googlewriting-a-design-doc-or-rfca" id="a-hrefhttpswwwindustrialempathycompostsdesign-docs-at-googlewriting-a-design-doc-or-rfca"><a href="https://www.industrialempathy.com/posts/design-docs-at-google/">Writing a Design Doc or RFC</a></a></h2>
+<ul>
+<li>These are relatively informal documents that the primary author or authors of a software system or application create before they embark on the coding project. If code is the bricks and mortar, then these docs are the blueprints.</li>
+<li>Even if no one else reads them, they force you to clarify my thinking before you start the (more expensive) process of implementation.</li>
+<li>Design docs fulfill the following functions in the software development lifecycle:
+<ul>
+<li>Early identification of design issues when making changes is still cheap.</li>
+<li>Achieving consensus around a design in the organization.</li>
+<li>Ensuring consideration of cross-cutting concerns.</li>
+<li>Scaling knowledge of senior engineers into the organization.</li>
+<li>Form the basis of an organizational memory around design decisions.</li>
+</ul>
+</li>
+<li>Write them in whatever form makes the most sense for the particular project.</li>
+<li>A good-to-start-with structure can be:
+<ol>
+<li>Context and scope. Overview of the landscape in which the new system is being built and what is actually being built. Focused on objective background facts. Keep it short.</li>
+<li>Goals and non-goals. What the goals of the system are, and, sometimes more importantly, what non-goals are.</li>
+<li>Design. This is the place to write down the trade-offs you made in designing your software. Given the context (facts), goals and non-goals (requirements), the design doc is the place to suggest solutions and show why a particular solution best satisfies those goals.</li>
+<li>APIs. If the system under design exposes an API, then sketching out that API is usually a good idea.</li>
+<li>Data storage. Systems that store data should likely discuss how and in what rough form this happens.</li>
+<li>Alternatives considered. Share alternative designs that would have reasonably achieved similar outcomes.</li>
+<li>Cross-cutting concerns. This is where your organization can ensure that certain cross-cutting concerns such as security, privacy, and observability are always taken into consideration. These are often relatively short sections that explain how the design impacts the concern and how the concern is addressed. Teams should standardize what these concerns are in their case.</li>
+</ol>
+</li>
+<li>In many docs a diagram can be useful.</li>
+<li>The steps in the lifecycle of a design document are: Create, Iterate, Review, Implement, Iterate and Learn.</li>
+</ul>
+<h3><a class="header" href="#resources-7" id="resources-7">Resources</a></h3>
+<ul>
+<li><a href="https://docs.google.com/document/d/18hYAQCTsDgaFUo-VJGhT0UqyetL2LbAzkWNK1fYS8R0/edit#">Google Design Doc Template</a></li>
+<li><a href="https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9">Awesome Tech Specs</a></li>
+<li><a href="https://codeburst.io/on-writing-tech-specs-6404c9791159">On Writing Tech Specs</a></li>
+</ul>
+<h2><a class="header" href="#links-2" id="links-2">Links</a></h2>
+<ul>
+<li>Remote Jobs:
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview">Remote Platforms List</a> - Lots of websites with remote job offers.</li>
+<li><a href="https://github.com/lukasz-madon/awesome-remote-job">Awesome Remote Job</a> - A curated list of awesome remote working resources.</li>
+<li><a href="https://remotive.io/">Remotive</a>. Hand-screens live remote jobs from remote companies.</li>
+</ul>
+</li>
+<li>Startups:
+<ul>
+<li><a href="https://playbook.samaltman.com/">Startup Playbook</a> - Some advice about startups from Sam Altman.</li>
+<li><a href="https://github.com/KrishMunot/awesome-startup">Awesome Startup</a> - A curated list of awesome books, videos, courses and resources about making a startup.</li>
+<li><a href="https://www.startupschool.org/library">Startup School Resources</a> - Startup resources from YCombinator.</li>
+<li><a href="https://makebook.io/">Make Handbook</a> - Learn to bootstrap profitable startups the indie way</li>
+</ul>
+</li>
+<li>Team Management.
+<ul>
+<li><a href="https://github.com/ipfs/team-mgmt">IPFS</a>.</li>
+</ul>
+</li>
+</ul>
+<h1><a class="header" href="#time" id="time">Time</a></h1>
+<p>Time is the most valuable and least replaceable resource. Life is short. Just like money, <a href="https://youtu.be/oTugjssqOT0">time must be explicitly managed</a>. If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive. Days are long but decades are short.</p>
+<ul>
+<li>Learn to prioritize, and value your time. &quot;I don't have time&quot; is another way of saying &quot;it's not a priority&quot;.
+<ul>
+<li><a href="https://fs.blog/2018/09/decision-matrix/">Separate decisions into four possibilities based on the type of decision</a>:
+<ol>
+<li>Irreversible and inconsequential</li>
+<li>Irreversible and consequential. These are the ones that you really need to focus on.</li>
+<li>Reversible and inconsequential</li>
+<li>Reversible and consequential. Perfect decisions to run experiments and gather information.</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>Lists help you to summarize your next steps and to not lose focus. If you place them in a very visible place it makes easier to accomplish goals.
+<ul>
+<li>Decompose lists items into smaller steps.</li>
+</ul>
+</li>
+<li>Doing the same thing over and over again without getting tired is what computers are good at, humans have other skills.</li>
+<li>If a task takes less than <a href="https://jamesclear.com/how-to-stop-procrastinating">two minutes</a>, do it. It'll make you more productive and also unclutter your mind task's backlog.</li>
+<li>Do the tasks in the right order! One strategy might be starting with the one that could make the others irrelevant or easier.</li>
+<li>Doing one thing requires giving up another. Whenever you explicitly choose to do one thing, you implicitly choose not to do another thing.</li>
+<li>Success can be measured in the percentage of time you have under your control.</li>
+<li>Work expands to fill the time available. If you have six months to complete a task, it will take six months to complete. That's <a href="https://en.wikipedia.org/wiki/Parkinson%27s_law">Parkinson's law</a>.</li>
+<li>When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter.</li>
+<li>Routines speed up your life. Time will blow by quicker if you are covered in meaningless routines. What is worse, your days will become blurred - each day - too similar to the next - for you brain to hold on to distinct memories. On the other hand, routines also help to reduce decision fatigue so that you have room for more important decisions. Make sure the routines you have are the ones you need.</li>
+</ul>
+<h2><a class="header" href="#productivity" id="productivity">Productivity</a></h2>
+<ul>
+<li>Define the task requirements and goals clearly.</li>
+<li>Do the worst thing first. Give yourself a reward once you're done.</li>
+<li>Create smaller chunks. This helps getting in the flow (find the right balance between the challenge of the activity and your own skills levels). Avoid multitasking.</li>
+<li>Leverage the power of positive pressure by publicly committing to your goals.</li>
+<li><a href="https://nesslabs.com/neuroscience-of-procrastination">Improve your environment</a>. Design your workspace in a way that minimizes distractions, whether physical or digital.</li>
+<li>What is optimal for me won't be optimal for you. You'll have to experiment to find out what works best for you.</li>
+<li>Keep a log of what happened each day. You can also add what you've learned!</li>
+<li>Create checklist for repetitive processes. For example, a checklist detailing all the task to do before ending the day.</li>
+</ul>
+<h2><a class="header" href="#focus" id="focus">Focus</a></h2>
+<ul>
+<li>Disable notifications and badges so that you don’t mindlessly open distracting apps.</li>
+</ul>
+<h2><a class="header" href="#investing" id="investing">Investing</a></h2>
+<ul>
+<li>Today's savings buy tomorrow's liberty. Think long term.</li>
+<li>Saving money and investing money are both good habits. Small amounts of money invested regularly for many decades without deliberation is one path to wealth.</li>
+<li>Before you get into investing, get into <a href="https://www.reddit.com/r/ynab/comments/8d4ab4/what_is_the_best_approach_for_budgeting_savings/">budgeting</a>.</li>
+</ul>
+<h3><a class="header" href="#resources-8" id="resources-8">Resources</a></h3>
+<ul>
+<li><a href="https://www.bogleheads.org/wiki/Getting_started">Bogleheads</a>.</li>
+</ul>
+<h1><a class="header" href="#random" id="random">Random</a></h1>
+<p>Random thoughts about specific topics. Probably biased based on my experience. As with the rest of the handbook, think of them as a work in progress.</p>
+<h2><a class="header" href="#reducing-environmental-impact" id="reducing-environmental-impact">Reducing Environmental Impact</a></h2>
+<ul>
+<li>Reduce, Reuse, Recycle. In that order.</li>
+<li>Eat local to reduce costs of transportation.</li>
+<li>Invest in new tech. Tech will be able to create new solutions (and new problems too).</li>
+<li>Use renewable energy. Donate to renewable energies projects.</li>
+<li>Insulate your house.</li>
+<li><a href="https://www.bio.org/blogs/gmos-have-benefits-environment">Use GMOs</a>.</li>
+<li>Vote with your wallet by buy environmentally conscious things from environmentally conscious and if possible, local companies.</li>
+<li>Opt for long lasting products over ones you will have to replace quickly.</li>
+<li>Avoid plastic products.</li>
+<li>Plant plants and create gardens! Donate to organizations that save (better than planting new) trees.</li>
+<li>Reduce meat consumption.</li>
+<li>Donate to birth control projects.</li>
+<li>Systemic problems need systemic solutions. We can't get there if everyone thinks they already &quot;did their part&quot; (turning off light switches, turning the thermostat down a degree, paper/metal straws, sorting recycling).
+<ul>
+<li><a href="https://www.youtube.com/watch?v=DYLWZPFEWTw">Individual actions aren't enoughs to improve the current state</a>.</li>
+<li><a href="https://youtu.be/RSgXcFdHxFI?list=WL">By focussing on the individuals, we miss the much bigger problem of climate change.</a>. Around 70% of emissions come for 100 companies. Push governments to transform the economy so individuals don't have all the pressure.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#annual-review-list" id="annual-review-list">Annual Review List</a></h2>
+<ul>
+<li><a href="https://youtu.be/rvskMHn0sqQ">Egoistic Altruism</a>: A Selfish Argument for Making the World a Better Place.</li>
+<li><a href="https://youtu.be/MBRqu0YOH14">Optimistic Nihilism</a>: A great philosophy.</li>
+<li><a href="https://waitbutwhy.com/2015/12/the-tail-end.html">The Tail End</a>: You have limited time, and you should spend it wisely in things and with people you care about.</li>
+<li><a href="http://www.saganseries.com/">The Sagan Series</a>: Breath-taking cinematography and a mesmerizing soundtrack lend a powerful scenery to Sagan's narration from his hit TV series, Cosmos.</li>
+<li>This Handbook.</li>
+</ul>
+<h2><a class="header" href="#dna-genetic-testing-and-analysis" id="dna-genetic-testing-and-analysis">DNA Genetic Testing and Analysis</a></h2>
+<ul>
+<li>Companies like 23andMe look only at a few specific genomic coordinates that are known to be contain pathogenic variants, but chances are if you have the associated disease you don't have a variant at one of those few select locations. Because of this, <a href="https://www.nytimes.com/interactive/2019/02/01/opinion/23andme-cancer-dna-test-brca.html">a negative test result does not mean someone isn't at risk for the condition</a>.</li>
+<li>If it says you don't have something, then that means nothing. If it says you do have something, then that means you should be on the lookout for other corroborating data or symptoms.</li>
+<li>You can retrieve information about your DNA variations at <a href="https://promethease.com/">Promethease</a>. Other kind of data can be extracted with <a href="https://dna.land/">dna.land</a> and <a href="https://www.foundmyfitness.com/genetics">FoundMyMitness Genetics</a>.</li>
+<li>Genetic data may help people today, but it can also be sold to insurance companies.</li>
+<li>How valuable it would be giving your DNA to a competent advertising company? They could be able to profile and predict users with significantly higher personal accuracy. On the other hand, this is analogous to the 1800s when people disagreed over whether one should let a camera take your photo. If sequencing prices and mobility continue to advance at current rates, in 30 years your DNA could be sequenced thousands of times a day, everywhere you go in public (the same way you're recorded with security cameras).</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpsjuliandigital20200328signaling-as-a-servicesignalinga" id="a-hrefhttpsjuliandigital20200328signaling-as-a-servicesignalinga"><a href="https://julian.digital/2020/03/28/signaling-as-a-service/">Signaling</a></a></h2>
+<ul>
+<li>Most of our everyday actions can be traced back to some form of signaling or status seeking.
+<ul>
+<li>A classic example of this would be a luxury watch: A Rolex isn't better at telling the time than a cheap Casio – but a Rolex signals something about its owner's economic power and thus their social standing.</li>
+<li>When signaling, the more expensive and useless the item is, the more effective it is as a signal. Although eyeglasses are expensive, they’re a poor way to signal wealth because they’re very useful; a person might get them not because ey is very rich but because ey really needs glasses. On the other hand, a large diamond is an excellent signal; no one needs a large diamond, so anybody who gets one anyway must have money to burn.</li>
+</ul>
+</li>
+<li>Our brains deliberately hide this fact from us and others (self deception).</li>
+<li>Signaling can be broken down into different components:
+<ul>
+<li>Signal Message: This is whatever (hidden) subtext you are trying to convey.</li>
+<li>Signal Distribution: The method of distributing the signal message.</li>
+<li>Signal Amplification: How do you make sure your message stand out?</li>
+</ul>
+</li>
+<li>Software perfectly complements physical goods by distributing their signal messages at scale. Maximizing scale, however, prevents it from monetizing said distribution. This is why social media services are free to use. The added signaling value is solely captured by the physical products that are being shared.</li>
+</ul>
+<h2><a class="header" href="#social-media" id="social-media">Social Media</a></h2>
+<ul>
+<li>Internet algorithms are profit-maximizing mechanisms that want to spoon feed you whatever you're most likely to click on. This is a win-win, symbiotic relationship—until it's not. When the algorithm is luring in your primitive mind against you, the relationship is parasitic. <a href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles">The algorithm will learn to show thing that will further confirm and strengthen your existing viewpoints</a>.</li>
+<li>Each app is competing against the other apps. Only the apps that grains your attention continue. Over time, your attention is more and more hacked by these apps.</li>
+<li>Most of our newsfeeds are insular networks made up of people who get their info from the same filter bubble we do.</li>
+<li>Social media provides an unfortunate filter: it dumbs down complex information. <a href="https://ncase.me/crowds/">Ideas don't pass perfectly from one person to another. Like a game of Telephone, the message gets mutated with each re-telling so, over time, ideas &quot;evolve&quot; to be more catchy, copy-able, contagious.</a> The fittest ideas doesn't need to be true.</li>
+<li>Your information diet is nearly as important as your food diet. We are what we consume. By excesses to which our hardwired biology and natural tendencies have led us over billions of years of evolution. Today's excess of easy-to-access information will have a drastic an effect on health in the 21st century similar to what excess food had in the 20th century. Unhealthy food costs something financially. Consuming seven hours of pointless information is a lot easier and cheaper than eating thirty Twinkies.</li>
+</ul>
+<h2><a class="header" href="#news" id="news">News</a></h2>
+<ul>
+<li>Portraying <a href="https://ncase.itch.io/wbwwb">a society where everyone hates each other</a> is the most dangerous virus of all, because it becomes a self-fulfilling prophecy. Nothing spreads faster than anger. Especially anger in the specific format, <a href="https://www.youtube.com/watch?v=rE3j_RHkqJc">&quot;Just look at how awful the people we hate are&quot;</a>.
+<ul>
+<li>There is a hierarchy of interestingness that applies to the great information currents and media outlets that shape society as a whole. It's better to raise up <a href="https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/">controversial topics than high impact one like charity</a>.</li>
+<li>Social and news media usually works against fixing the issues which most of us agree should be fixed. Instead they focus only on perpetuating the things which keep us all discussing, forever.</li>
+</ul>
+</li>
+<li><a href="https://theoatmeal.com/comics/believe">The amygdala (emotional core of the mind) is built to make us react to &quot;threatening&quot; information that doesn't fit into our worldview the same way we react to a predator. That's called the &quot;Backfire Effect&quot;</a>. Remember that your worldview is not perfect!</li>
+<li>If our perceptions of reality are increasingly informed by media with other-than-truth motivations, we'll increasingly lose our handle on the truth.</li>
+<li>We're losing our ability to think together. Communities can only think when people talk and when they're free to say what they really think. As echo chambers grow larger and more intimidating, people inside them are afraid to defy the sacred narrative. And the more all-encompassing political identities become, the more topics turn from kickable machines to precious infants. Meanwhile, intergroup communication suffers even more, as opposing groups become totally unable to collaborate on ideas.</li>
+<li>A polarized country that isn't capable of building broad coalitions can't take forward steps—it can only self-inflict.</li>
+<li>The news also bias the layperson's perception of risk. The very fact that bad events are rare these days, makes them newsworthy. With a large sample size, unusual tragedies happen daily, and they end up on the news nightly. For example, car crashed might cause more damage than other events like floodings or fires.
+<ul>
+<li>News are incentivized to cherry-pick stories that spread fast. For example, scam news. A scam is like a virus that converts trust into cynicism, but it's the news, in the name of keeping things entertaining and addictive, that distributes the virus across the whole country.</li>
+<li>Media is business and business is for profit. The market is incentivizing bad media. Media is called on bias/inaccuracy only by their political foes, which isn't their audience. Audiences have to start pushing back on the media that shares their bias.</li>
+</ul>
+</li>
+<li><a href="https://www.mrmoneymustache.com/2013/10/01/the-low-information-diet/">News programs are, with the exception of a few non-profit or publicly funded ones, commercial enterprises designed to turn and maximize profit</a>.
+<ul>
+<li>The profit comes from advertising, and advertising revenue is maximized by pulling the largest audience, holding their attention for the longest possible time, and putting them into the mental state most conducive to purchasing the products of the advertisers (which turns out to be helplessness and vulnerability). This is why the news always starts out with a sensationalist take on a topic of at least plausible national interest, takes a detour into truly horrific and depressing irrelevant tragedies is one that unfortunately crossed my screen when doing research for this article), then ends on an uplifting note with something like a defiant entrepreneur or a caring soup kitchen. An emotional roller-coaster ride every day of the week. They don't explore solutions.</li>
+</ul>
+</li>
+<li><a href="https://jjbeshara.com/2018/11/20/the-information-pathology-2/">There isn't enough actual news (ie events that are &quot;new&quot;) to fill the standard news slot — so the fillers became pundits and commentators interpreting &quot;news&quot; and &quot;potential news&quot; for us</a>. Humans are good at finding efficiencies, and potential events far outweigh the number of past events, and potential negative events captivate our attention better than potential positive events, so these news-cycles naturally became dominated by commentators interpreting any number of potential negative events.</li>
+<li><a href="https://en.wikipedia.org/wiki/Sturgeon%27s_law">Sturgeon's law</a>: 90% of everything is crap.</li>
+</ul>
+<h2><a class="header" href="#covid-19" id="covid-19">COVID-19</a></h2>
+<ul>
+<li><a href="https://www.fast.ai/2020/03/09/coronavirus">Covid-19, your community, and you — a data science perspective</a></li>
+<li><a href="https://ourworldindata.org/coronavirus">Coronavirus Pandemic Statistics and Research</a></li>
+<li><a href="https://www.flattenthecurve.com/">Flatten The Curve</a></li>
+<li>As someone said, social distancing measures to work must be done when it seems to be overreacting. And if they work, it will seem as if we overreacted.</li>
+<li><a href="https://medium.com/@tomaspueyo/coronavirus-the-basic-dance-steps-everybody-can-follow-b3d216daa343">The Basic Dance Steps Everybody Can Follow</a></li>
+<li><a href="https://www.lesswrong.com/posts/LwcKYR8bykM6vDHyo/coronavirus-justified-practical-advice-thread">Justified Practical Advice</a> and <a href="https://www.lesswrong.com/posts/F3q7eL7pdQqhWFTYh/what-should-we-do-once-infected-with-covid-19#NR3wH8DxZX2eBBvG7">What should we do once infected with COVID-19</a> are useful once infected.</li>
+<li><a href="https://github.com/Pezmc/distant-socializing/blob/master/README.md">Distant Socializing, during Physical Distancing</a> - Suggested distant socializing tools, games and activities to help keep in touch with family, friends and loved ones during social distancing and the coronavirus (COVID-19) pandemic.
+<ul>
+<li>Games:
+<ul>
+<li><a href="https://gjeuken.github.io/telewave">Wavelength</a>. <a href="https://longwave.web.app/">Alternative</a>.</li>
+<li><a href="https://www.horsepaste.com/">Codenames</a>. <a href="http://those.codes/">Alternative</a>.</li>
+<li><a href="https://hanabi.cards/">Hanabi</a>.</li>
+<li><a href="https://friendsand.games/">Friends and Games</a>. A list of hand picked free online games to play during calls with your friends or family.</li>
+<li><a href="https://netgames.io/">Netgames</a>. Social games for your phone.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#thought-experiments" id="thought-experiments">Thought Experiments</a></h2>
+<p>A thought experiment is a device with which one performs an intentional, structured process of intellectual deliberation in order to speculate, within a specifiable problem domain, about potential consequents (or antecedents) for a designated antecedent (or consequent). A few interesting ones:</p>
+<ul>
+<li><a href="https://en.m.wikipedia.org/wiki/Experience_machine">Experience Machine</a>.</li>
+</ul>
+<h2><a class="header" href="#house-buying" id="house-buying">House Buying</a></h2>
+<ul>
+<li>Be clear about why you're buying a home. Every large decision you have to make about home ownership should somewhat tie in to this.</li>
+<li>Look at houses based on the life style you have not the life style you aspire to have.</li>
+<li>Balance commuting against other goods and costs (Commuting Paradox).</li>
+<li>The availability heuristic says that people overcount scenarios that are easy and vivid to imagine, and undercount scenarios that don't involve any readily available examples or mental images. The real estate version of this fallacy involves exciting opportunities that you will rarely or never use. For example, a house with a pool may bring to mind the opportunity to hold pool parties. But most such plans will probably fall victim to akrasia, and even if they don't, how often can one person throw pool parties without exhausting their friends' interest? Pool parties may be fun to imagine, but they'll probably only affect a few hours every couple of months. Other factors, like the commuting distance and whether your children end up in a nice school, may affect several hours every day.</li>
+<li>Good illumination (daylight has a strong effect on mood) and a view of natural beauty (nature increases mental functioning and concentration) aren't just pleasant luxuries, but can make important practical differences in your life.</li>
+<li>Research nearby future facilities. Schools, shopping malls, coffee shops, transportation, ...</li>
+<li>Treat it as an asset. Think for how much it'll sell.</li>
+</ul>
+<h2><a class="header" href="#interesting-youtube-channels" id="interesting-youtube-channels">Interesting YouTube Channels</a></h2>
+<ul>
+<li><a href="https://www.youtube.com/user/engineerguyvideo">The Engineer Guy</a>. Bill Hammack explores the world of engineering (from fiber optic to the <a href="https://www.youtube.com/watch?v=hUhisi2FBuw&amp;t=1s">design of aluminium beverage can</a>).</li>
+<li><a href="https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w">CGP Grey</a>. Educational videos.</li>
+<li><a href="https://www.youtube.com/user/Kurzgesagt">Kurzgesagt</a>. Videos explaining things with optimistic nihilism.</li>
+<li><a href="https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA">Vsauce</a>. Amazing and interesting explorations. Michael also appears in <a href="https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA">D!NG</a> and did a must-watch 3 season series on human behavior, <a href="https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2">Mind Field</a>.</li>
+<li><a href="https://www.youtube.com/user/enyay/videos?view=0&amp;sort=p&amp;flow=grid">Tom Scott</a>. Curiosities about many topics.</li>
+<li><a href="https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg">Mark Rober</a>. Former NASA engineer. Current YouTuber and friend of science.</li>
+<li><a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown</a>. Maths and entertainment, depending on your disposition.</li>
+<li><a href="https://www.youtube.com/user/1veritasium">Veritasium</a>. Videos about science, education, and anything else.</li>
+<li><a href="https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ">Primer</a>. Communicating the deep ideas of academic subjects.</li>
+<li><a href="https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A">ColdFusion</a>. Stories about science, tech and economy.</li>
+<li><a href="https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg">Economics Explained</a>. Take a look at interesting countries, policies and decisions from the point of view of an economist.</li>
+<li><a href="https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ">Simone Giertz</a>. Maker/robotics enthusiast/non-engineer. Have become somewhat of an expert in shitty robots.</li>
+<li><a href="https://www.youtube.com/user/itsokaytobesmart">It's Okay To Be Smart</a>. Science videos every week!</li>
+</ul>
+<h2><a class="header" href="#interesting-podcasts" id="interesting-podcasts">Interesting Podcasts</a></h2>
+<ul>
+<li><a href="https://lexfridman.com/podcast/">Lex Fridman Podcast</a>. Conversations about science, technology, history, philosophy and the nature of intelligence, consciousness, love, and power.</li>
+<li><a href="https://madeyouthinkpodcast.com/">Made You Think</a>. Episodes will explore books, essays, podcasts, and anything else that warrants further discussion, teaches something useful, or at the very least, exercises our brain muscles.</li>
+<li><a href="https://www.dancarlin.com/hardcore-history-series/">Hardcore History</a>. Explores topics throughout world history.</li>
+<li><a href="https://fs.blog/knowledge-project/">The Knowledge Project</a>. Helps you master the best of what other people have already figured out.</li>
+<li><a href="https://tim.blog/podcast/">The Tim Ferriss Show</a>. He deconstruct world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use.</li>
+<li><a href="https://www.relay.fm/cortex">Cortex</a>. CGP Grey and Myke Hurley get together to discuss their working lives.</li>
+<li>Spanish.
+<ul>
+<li><a href="https://www.gabinetepodcast.com/">Gabinete de Curiosidades</a>.</li>
+<li><a href="https://www.jaimerodriguezdesantiago.com/">Kaizen</a>.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#trip-planning" id="trip-planning">Trip Planning</a></h2>
+<ul>
+<li>Select a theme and make sure everyone is in the same page.</li>
+<li>Have a flexible schedule. Don’t try to control things too much, it will never go as planned and you’ll end up ruining your own personal experience.</li>
+<li>Ask everyone to make a list of things they would like to see/do.</li>
+<li>Bring card/board games for long travel days.</li>
+<li>Ensure you have similar budget expectations. This determines so many things! It's not just about paying equal share.</li>
+</ul>
+<h1><a class="header" href="#ideas" id="ideas">Ideas</a></h1>
+<p>A few personal random ideas.</p>
+<h2><a class="header" href="#key-properties-of-ideas" id="key-properties-of-ideas">Key Properties of Ideas</a></h2>
+<ul>
+<li>Timeless.</li>
+<li>No replication costs.</li>
+<li>Creates win-win situations.</li>
+<li>Network effects.</li>
+</ul>
+<h2><a class="header" href="#interesting-areas" id="interesting-areas">Interesting Areas</a></h2>
+<ul>
+<li>Data</li>
+<li>Governance</li>
+<li>Open Source</li>
+<li>Communities</li>
+<li>Education</li>
+<li>Science (biology, astrophysics, ...)</li>
+<li>Energy</li>
+</ul>
+<h2><a class="header" href="#awesome-game" id="awesome-game">Awesome Game</a></h2>
+<ul>
+<li>Modular Approach. The idea is to have a main character and multiple shards to play. Each shard could implement a different ruleset or genre.</li>
+<li>The modularity could also be implemented in the graphic side. You can choose the graphics pack you like just like another cosmetic.</li>
+<li>Player Driven Economy. Everything is made by players and traded for real life currency. The developers only get a fee for each trade. This makes the game fully F2P but also supports the developers.</li>
+<li>Companion Apps. Some tasks like trading or planning could be done from a mobile device.</li>
+<li>Systems (items, skills, monsters, ...) could be affected by evolutionary processes.
+<ul>
+<li>Merging two skills could produce a new one (inheriting properties and perhaps with a small mutation)</li>
+<li>Monsters will develop resistance against what's killing them.</li>
+<li>Quests rewards will also change dynamically.</li>
+</ul>
+</li>
+<li>Players can vote for the next patch changes with ingame money. This way developers gets feedback on what's important.</li>
+<li>Could have a GPS RPG extension. Locations in the real world would be named similarly to the real place but with a twist given by a Neural Network.</li>
+<li>Factions can tace control of a region and build new things there.</li>
+</ul>
+<h2><a class="header" href="#unconventional-changelogs" id="unconventional-changelogs">Unconventional Changelogs</a></h2>
+<ul>
+<li>What if each city or town had a changelog? What changed in the last <em>release</em>? Did it change a street direction or opened a new commerce?</li>
+<li>What if stores had a changelog? That'd mean price history for each product and also new products would be easier to find.</li>
+</ul>
+<h2><a class="header" href="#fake-currencies" id="fake-currencies">Fake Currencies</a></h2>
+<ul>
+<li>A chores app where kids could earn a currency. This could be traded for rewards like going to the cinema or getting a new PC game.</li>
+</ul>
+<h2><a class="header" href="#open-data" id="open-data">Open Data</a></h2>
+<blockquote>
+<p>Open Data should be easily accessible and free. Imagine a decentralized, distributed platform where people collaborated on dataset the same way they collaborate on code.</p>
+</blockquote>
+<ul>
+<li>A protocol that makes possible adding, curating and sharing datasets.</li>
+<li>The main abstractions are <code>datasets</code> and <code>relations</code>. Both can be updated, forked and discussed like git repositories.</li>
+<li>Permissionless. People should be able to add new dataset or relation. The main ones will be curated by the community.</li>
+<li>Built on top of a distributed file system (IPFS, ...) and with incentives to increase collaboration (cryptocurrency, bounties, and other forms of open source funding).</li>
+<li>People could access the data with a simple CLI (<code>./opendata get &quot;user/dataset:version&quot;)</code> or HTTPS endpoint (<code>opendata.com/user/dataset:version</code>).</li>
+<li>Declarative way of defining the dataset schema and other properties as well as the relations.</li>
+<li>Datasets should also be exposed in other places like Google Dataset Search.</li>
+</ul>
+<h2><a class="header" href="#personal-knowledge-base" id="personal-knowledge-base">Personal Knowledge Base</a></h2>
+<p>A tool and framework to manage knowledge. This will allow compound learning and make it easier to discover new abstractions or connections between concepts. These are the key properties of my ideal PKB (could replace this handbook):</p>
+<ul>
+<li>
+<p>Simple, Open Source and multiplatform. Works offline and has a backup mechanism similar to git.</p>
+</li>
+<li>
+<p>Focus on capturing ideas and content as fast as possible.</p>
+</li>
+<li>
+<p>Should be managed as a graph:</p>
+<ul>
+<li>Nodes are notes or smaller graphs. Notes should be atomic, concept-oriented and densely linked.</li>
+<li>Bidirectional links connecting nodes.</li>
+<li>Nodes could have several parents (concepts).</li>
+<li>Users can remix and connect ideas in multiple overlapping hierarchies.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.notion.so/Models-bb0f4bfd3cd140b3a00cd955e61003f9">Each concept could be linked to external content (video, book, audio)</a>.</p>
+<ul>
+<li>Content should have tags (related concepts)</li>
+</ul>
+</li>
+<li>
+<p>Can be made public.</p>
+</li>
+<li>
+<p>Personal Knowledge bases can be personal <a href="https://en.wikipedia.org/wiki/Ontology_components">ontologies with similar core components (individuals, classes, attributes, relations, ...)</a>.</p>
+</li>
+<li>
+<p>What if instead of building the tool, we started with the standard and let other tools (Roam, Notion, Obsidian) use that?</p>
+</li>
+</ul>
+<h2><a class="header" href="#city-discovery" id="city-discovery">City Discovery</a></h2>
+<ul>
+<li>Create an activity similar to a gymkhana mixed with escape room. Players have to solve riddles and puzzles while learning about the city and its history.</li>
+<li>There might be digital and real life puzzles.</li>
+<li>Clues might be scattered across many checkpoints with actors as &quot;NPC&quot;s to guide the players.</li>
+</ul>
+<h1><a class="header" href="#cats" id="cats">Cats</a></h1>
+<ul>
+<li>Get a brush and brush your kitty! It's recommended that short haired cats should be brushed once a week.</li>
+<li>It's recommended to let your kitty eat as much as it wills, until it reaches adulthood. They need to grow big and strong!</li>
+<li>Buy a scratching post and other scratching toys to encourage them to scratch the right surfaces. Catnip also helps.</li>
+<li>Slowly blinking at cats says &quot;I'm comfortable around you&quot; and is a show of contentment and non hostility.</li>
+<li>Do things at roughly the same time every day, and stick to a schedule. they operate their entire lives off their schedule, and will be more reasonable if you are consistent with doing their stuff.</li>
+<li>Toys, buy a variety at first to see what your cat likes.</li>
+<li>Wet food, not dry food since dry food will make their bodies work too hard and put your cat into a constant state of dehydration.</li>
+<li>Have one of the playing sessions right before the last meal of the day. A good hunt ends with a hefty meal. After a quick grooming session, she'll sleep like an angel, allowing you to do the same.</li>
+</ul>
+<h1><a class="header" href="#questions" id="questions">Questions</a></h1>
+<h1><a class="header" href="#handbooks" id="handbooks">Handbooks</a></h1>
+<p>There are many handbooks, wikis or documents where people share knowledge. The following shares handbooks that I enjoy reading. Some of these are curated by companies and others are personal.</p>
+<h2><a class="header" href="#company-handbooks" id="company-handbooks">Company Handbooks</a></h2>
+<ul>
+<li><a href="https://about.gitlab.com/handbook/">GitLab</a></li>
+<li><a href="https://github.com/clef/handbook">Clef</a></li>
+<li><a href="https://thoughtbot.com/playbook">Thoughtbot</a></li>
+<li><a href="https://handbook.18f.gov/">18F</a></li>
+<li><a href="https://github.com/basecamp/handbook">Basecamp</a></li>
+<li><a href="https://github.com/loomio/loomio-coop-handbook">Loomio</a></li>
+<li><a href="https://github.com/madetech/handbook">Madetech</a></li>
+<li><a href="https://github.com/MarsBased/handbook">MarsBased</a></li>
+<li><a href="https://github.com/src-d/guide">Source{d}</a></li>
+<li><a href="https://github.com/bonusly/un-handbook">Bonusly</a></li>
+<li><a href="https://github.com/nylas/handbook">Nylas</a></li>
+</ul>
+<h2><a class="header" href="#personal-handbooks" id="personal-handbooks">Personal Handbooks</a></h2>
+<ul>
+<li><a href="https://github.com/nikitavoloboev/knowledge">Nikita Voloboev</a></li>
+<li><a href="https://github.com/daryllxd/lifelong-learning">Daryll Santos</a></li>
+<li><a href="https://github.com/d2s/knowledge">Daniel Schildt</a></li>
+<li><a href="https://www.julian.com/">Julian Shapiro</a></li>
+<li><a href="http://gordonbrander.com/pattern/">Gordon Brander</a></li>
+<li><a href="https://philosopher.life/#h0p3">h0p3</a></li>
+<li><a href="https://beepb00p.xyz/exobrain/">Karlicoss</a></li>
+</ul>
+<p>More at the <a href="https://github.com/RichardLitt/meta-knowledge">Meta Knowledge Github repository</a> and the <a href="https://github.com/KasperZutterman/Second-Brain">Second Brain collection</a>.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+        
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+        
+        
+
+    </body>
+</html>

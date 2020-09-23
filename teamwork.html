@@ -1,0 +1,434 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Teamwork - Handbook</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../index.html">Handbook</a></li><li class="chapter-item expanded "><a href="values.html">Values</a></li><li class="chapter-item expanded "><a href="communications.html">Communications</a></li><li class="chapter-item expanded "><a href="concepts.html">Concepts</a></li><li class="chapter-item expanded "><a href="data.html">Data</a></li><li class="chapter-item expanded "><a href="decentralization.html">Decentralization</a></li><li class="chapter-item expanded "><a href="governance.html">Governance</a></li><li class="chapter-item expanded "><a href="habits.html">Habits</a></li><li class="chapter-item expanded "><a href="health.html">Health</a></li><li class="chapter-item expanded "><a href="hobbies.html">Hobbies</a></li><li class="chapter-item expanded "><a href="learning.html">Learning</a></li><li class="chapter-item expanded "><a href="programming.html">Programming</a></li><li class="chapter-item expanded "><a href="quotes.html">Quotes</a></li><li class="chapter-item expanded "><a href="rationality.html">Rationality</a></li><li class="chapter-item expanded "><a href="teamwork.html" class="active">Teamwork</a></li><li class="chapter-item expanded "><a href="time.html">Time</a></li><li class="chapter-item expanded "><a href="random/random.html">Random</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="random/ideas.html">Ideas</a></li><li class="chapter-item expanded "><a href="random/animals.html">Animals</a></li><li class="chapter-item expanded "><a href="random/questions.html">Questions</a></li><li class="chapter-item expanded "><a href="random/handbooks.html">Handbooks</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Handbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#teamwork" id="teamwork">Teamwork</a></h1>
+<ul>
+<li>Share a vision to make <a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">loosely coupled, tightly aligned teams</a>.</li>
+<li>When coming up with a long-term technical vision is important to stay abstract.
+<ul>
+<li>Stick to defining components and keep concepts. Show how the components interact.</li>
+<li>Define boundaries and limitations of each component.</li>
+<li>Write tech specs before you write software (examples in <a href="https://codeburst.io/on-writing-tech-specs-6404c9791159">Codeburst</a> and <a href="https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9">Lyft</a>). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.</li>
+</ul>
+</li>
+<li>Define the culture and values. <a href="https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md">Culture</a> is simply a shared way of doing something with passion. Culture is created and re-created by the choices made by individuals every day. It can be reshaped by conscious effort applied gently, subtly, and consistently. It is also a shared mechanism for problem solving.
+<ul>
+<li>Make the right thing to do the easiest thing to do.</li>
+<li>Solve problems by fixing the environment that allowed them to occur.</li>
+<li>Times change, trends change, cultures change. Make it explicit.</li>
+</ul>
+</li>
+<li>Work in the open and document everything.
+<ul>
+<li>Processes:
+<ul>
+<li>Write status updates.</li>
+</ul>
+</li>
+<li>Conventions:
+<ul>
+<li>Confirm decisions to move them forward.</li>
+<li>Offer conclusions in long discussions.</li>
+</ul>
+</li>
+<li>Meetings:
+<ul>
+<li>Update meetings:
+<ul>
+<li>Progress: what did I accomplish this week?</li>
+<li>Plans: What tasks am I doing next week?</li>
+<li>Problems: what is blocking progress?</li>
+<li>Other: what else should the team know?</li>
+</ul>
+</li>
+<li>Decision meetings:
+<ul>
+<li>Progress on achieving current quarterly objectives.</li>
+<li>How the product is being received in the market.</li>
+<li>How the most important customers are succeeding (or not) using the product.</li>
+<li>How the team is performing and any people changes needed.</li>
+<li>Financial position of the company and review of metrics.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Responsibilities.</li>
+<li>Defaults. For example, each thing should have a place by default, docs, issues, ...</li>
+</ul>
+</li>
+<li>You can create a Handbook to put everything together. Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.</li>
+<li>Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
+<ul>
+<li>Search should be centralized. Keeping 4 tools causes scattered information.</li>
+<li>Link everything together.</li>
+<li>Basecamp does that using Basecamp, GitLab uses GitLab.</li>
+</ul>
+</li>
+<li>Aim to be a completely autonomous team. You build it, you run it!</li>
+<li>Run <a href="https://basecamp.com/features/checkins">Automated Checkings</a> to share things explicitly. What are people working on, what are they planning to work on next, ...</li>
+<li>Build a culture of stopping to fix problems, to get quality right the first time.</li>
+<li>Standardized tasks and processes are the foundation for continuous improvement and employee empowerment.</li>
+<li>Standardization should be based on tooling and <a href="programming.html#automation">automation</a>.</li>
+<li>Someone should be the information hub. It helps connecting the dots that wouldn't otherwise get connected.</li>
+<li>Meetings should be as short, focused, and small as possible.</li>
+<li>Write postmortems after large incidents. This will create a feedback loop to guide learning about what happened and how it can be avoided next time.</li>
+<li>Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you're trying to do when requesting help.</li>
+<li>How to drive change: find people who agree on the problem, start small, experiment, scale, repeat.</li>
+<li>The group with the most power determine the system that reflect and reinforce their own way of thinking. Aim for inclusion. Diversity is being invited to the party. Inclusion is being asked to dance and help organizing the party.</li>
+<li><a href="https://getpocket.com/explore/item/better-brainstorming">Brainstorm for questions first. Then find the answers.</a></li>
+<li>Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships. <a href="https://www.fast.ai/2019/09/24/metrics/">Don't try to optimize that number or it'll be gamed</a>. When a measure becomes a target, it ceases to be a good measure. Not everything that counts can be measured, and not everything that can be measured counts.</li>
+<li>Data can be valuable in helping us understand the world, test hypotheses, and move beyond gut instincts or hunches. Metrics can be useful when they are in their proper context and place.</li>
+<li>Strive for constructive conflict. Get people to ask questions. Engage in passionate, unfiltered debate about what you need to do to succeed.</li>
+<li>Encourage to fail. Failing is good if the team learn from it!</li>
+<li>Encourage effectiveness. Find ways to free up your time.</li>
+<li>Push relentlessly toward automation.
+<ul>
+<li>Investigate where (and how) processes and tasks could be automated, and understanding the costs of automating them.</li>
+</ul>
+</li>
+<li>A company may be looked as a combination of 3 things:
+<ul>
+<li>The people who work at the company.</li>
+<li>The process the company uses to get work done.</li>
+<li>The purpose for which the company exists.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#engineering-process" id="engineering-process">Engineering Process</a></h2>
+<ol>
+<li>Always create an issue and assign it to you for anything you work on. If it is worth spending time on, it is worth creating an issue for it since that enables other people to learn and help. You can always edit the description or close it when the problem is something different or disappears.</li>
+<li>When working on an issue, make sure that the issue body contains the latest information. The issue body should be the single source of truth.</li>
+<li>After a discussion related to an issue update the issue body with the consensus or final conclusions. This makes it much easier to see the current state of an issue for everyone involved in the implementation and prevents confusion later on.</li>
+<li>Submit the smallest item of work that makes sense. When creating an issue describe the smallest fix possible, put suggestions for enhancements in separate issues and link them.</li>
+<li>Do not leave issues open for a long time, issues should be actionable and realistic. If an issue has been addressed or is not relevant anymore, close it. If someone disagrees, they can re-open it and explain what is still relevant.</li>
+<li>If you complete part of an issue and need someone else to take the next step, re-assign the issue to that person.</li>
+<li>When working on an issue, ask for feedback from your peers. Try to get a <a href="https://github.com/thoughtbot/guides/tree/master/code-review">review</a> of your work. Even a quick look could do it. If they suggest changes, you get the opportunity to improve. This promotes collaboration and advances everyone's skills.</li>
+</ol>
+<h2><a class="header" href="#communication" id="communication">Communication</a></h2>
+<ul>
+<li>Use <a href="https://github.com/davidgasquez/handbook/blob/master/content/communications.md">common techniques</a> and be friendly.</li>
+<li>Prefer asynchronous communications. <a href="https://snir.dev/blog/remote-async-communication/">It allows for self discovery without interruptions</a>:
+<ul>
+<li>You can keep on your flow without waiting for someone to give you details.</li>
+<li>You can get into &quot;deep focus&quot; session without context switching that allows for better productivity.</li>
+<li>You can work whenever, since you are not dependent on anyone immediately.</li>
+<li>You'll have written records of everything.</li>
+</ul>
+</li>
+<li>Have a primary communication channel.</li>
+<li>You can not not communicate. Not discussing the elephant in the room is communicating. Few things are as important to study, practice, and perfect as clear communication.</li>
+<li>Use long-form writing, rather than meetings, speaking, and chatting. Speaking only helps who's in the room, writing helps everyone.</li>
+<li>Whenever possible, communicate directly with those you're addressing rather than passing the message through intermediaries.</li>
+<li>If you want an answer, you have to ask a question. People typically have a lot to say, but they'll volunteer little.</li>
+<li>Agree on the terminology. Similar understanding of terms makes discussion more productive.</li>
+<li>Work through confrontations mindfully:
+<ul>
+<li>Acknowledge the positive intentions. Try to understanding his or her rationale and state it out loud directly to them.</li>
+<li>Express what you see and what you think! Remember, kindness matters. You are looking at a screen, but you are really talking to a person.</li>
+<li>Identify and propose a solution. You should try to build consensus by demonstrating how your solution will resolve everyone's concerns, not just your own.</li>
+<li>Outline the benefits and advantages of your proposal.</li>
+<li>Understanding. Either nail down agreement on a next action or step, or work together to develop alternatives.</li>
+</ul>
+</li>
+<li>Guides to Communications:
+<ul>
+<li><a href="https://about.gitlab.com/handbook/communication/">Gitlab Communications</a>.</li>
+<li><a href="https://basecamp.com/guides/how-we-communicate">Basecamp Communications</a>.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpsgithubcomipfsteam-mgmtblobmasterroadmap_how_tomdwriting-a-roadmapa" id="a-hrefhttpsgithubcomipfsteam-mgmtblobmasterroadmap_how_tomdwriting-a-roadmapa"><a href="https://github.com/ipfs/team-mgmt/blob/master/ROADMAP_HOW_TO.md">Writing a Roadmap</a></a></h2>
+<ul>
+<li>Gather Ideas: Collect inputs and data from across your project.</li>
+<li>Draft top-level goals: Create a vision statement with the top problems you aim to solve. What is important to achieve? For whom? Why?</li>
+<li>Chunk progress into milestones: Define the incremental targets to hit in order to accomplish the top-level goals. What must be true to reach this milestone? On what timeline? With what dependencies? What does this unlock?</li>
+<li>Assign projects to milestones: Fill in key projects that are necessary, nice to have, and out of scope to reach those milestones and bucket them accordingly. Why is each project important to achieve that milestone? Which are highest priority? Do they have any dependencies? Approximate how hard/big is each project? (This likely involves iterating on or shuffling the milestones themselves based on capabilities/effort.)</li>
+<li>Iterate iterate iterate: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you're prioritizing the right work, which gaps or open questions you haven't thought of yet.</li>
+<li>Finalize: Get sign off on this version of the roadmap for the upcoming time window. Present it to cross-functional partners and start using it as a communication device to align effort, priorities, and cross-team information sharing.</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpswwwindustrialempathycompostsdesign-docs-at-googlewriting-a-design-doc-or-rfca" id="a-hrefhttpswwwindustrialempathycompostsdesign-docs-at-googlewriting-a-design-doc-or-rfca"><a href="https://www.industrialempathy.com/posts/design-docs-at-google/">Writing a Design Doc or RFC</a></a></h2>
+<ul>
+<li>These are relatively informal documents that the primary author or authors of a software system or application create before they embark on the coding project. If code is the bricks and mortar, then these docs are the blueprints.</li>
+<li>Even if no one else reads them, they force you to clarify my thinking before you start the (more expensive) process of implementation.</li>
+<li>Design docs fulfill the following functions in the software development lifecycle:
+<ul>
+<li>Early identification of design issues when making changes is still cheap.</li>
+<li>Achieving consensus around a design in the organization.</li>
+<li>Ensuring consideration of cross-cutting concerns.</li>
+<li>Scaling knowledge of senior engineers into the organization.</li>
+<li>Form the basis of an organizational memory around design decisions.</li>
+</ul>
+</li>
+<li>Write them in whatever form makes the most sense for the particular project.</li>
+<li>A good-to-start-with structure can be:
+<ol>
+<li>Context and scope. Overview of the landscape in which the new system is being built and what is actually being built. Focused on objective background facts. Keep it short.</li>
+<li>Goals and non-goals. What the goals of the system are, and, sometimes more importantly, what non-goals are.</li>
+<li>Design. This is the place to write down the trade-offs you made in designing your software. Given the context (facts), goals and non-goals (requirements), the design doc is the place to suggest solutions and show why a particular solution best satisfies those goals.</li>
+<li>APIs. If the system under design exposes an API, then sketching out that API is usually a good idea.</li>
+<li>Data storage. Systems that store data should likely discuss how and in what rough form this happens.</li>
+<li>Alternatives considered. Share alternative designs that would have reasonably achieved similar outcomes.</li>
+<li>Cross-cutting concerns. This is where your organization can ensure that certain cross-cutting concerns such as security, privacy, and observability are always taken into consideration. These are often relatively short sections that explain how the design impacts the concern and how the concern is addressed. Teams should standardize what these concerns are in their case.</li>
+</ol>
+</li>
+<li>In many docs a diagram can be useful.</li>
+<li>The steps in the lifecycle of a design document are: Create, Iterate, Review, Implement, Iterate and Learn.</li>
+</ul>
+<h3><a class="header" href="#resources" id="resources">Resources</a></h3>
+<ul>
+<li><a href="https://docs.google.com/document/d/18hYAQCTsDgaFUo-VJGhT0UqyetL2LbAzkWNK1fYS8R0/edit#">Google Design Doc Template</a></li>
+<li><a href="https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9">Awesome Tech Specs</a></li>
+<li><a href="https://codeburst.io/on-writing-tech-specs-6404c9791159">On Writing Tech Specs</a></li>
+</ul>
+<h2><a class="header" href="#links" id="links">Links</a></h2>
+<ul>
+<li>Remote Jobs:
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview">Remote Platforms List</a> - Lots of websites with remote job offers.</li>
+<li><a href="https://github.com/lukasz-madon/awesome-remote-job">Awesome Remote Job</a> - A curated list of awesome remote working resources.</li>
+<li><a href="https://remotive.io/">Remotive</a>. Hand-screens live remote jobs from remote companies.</li>
+</ul>
+</li>
+<li>Startups:
+<ul>
+<li><a href="https://playbook.samaltman.com/">Startup Playbook</a> - Some advice about startups from Sam Altman.</li>
+<li><a href="https://github.com/KrishMunot/awesome-startup">Awesome Startup</a> - A curated list of awesome books, videos, courses and resources about making a startup.</li>
+<li><a href="https://www.startupschool.org/library">Startup School Resources</a> - Startup resources from YCombinator.</li>
+<li><a href="https://makebook.io/">Make Handbook</a> - Learn to bootstrap profitable startups the indie way</li>
+</ul>
+</li>
+<li>Team Management.
+<ul>
+<li><a href="https://github.com/ipfs/team-mgmt">IPFS</a>.</li>
+</ul>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="rationality.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="time.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="rationality.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="time.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

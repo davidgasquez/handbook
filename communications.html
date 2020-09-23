@@ -1,0 +1,387 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Communications - Handbook</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../index.html">Handbook</a></li><li class="chapter-item expanded "><a href="values.html">Values</a></li><li class="chapter-item expanded "><a href="communications.html" class="active">Communications</a></li><li class="chapter-item expanded "><a href="concepts.html">Concepts</a></li><li class="chapter-item expanded "><a href="data.html">Data</a></li><li class="chapter-item expanded "><a href="decentralization.html">Decentralization</a></li><li class="chapter-item expanded "><a href="governance.html">Governance</a></li><li class="chapter-item expanded "><a href="habits.html">Habits</a></li><li class="chapter-item expanded "><a href="health.html">Health</a></li><li class="chapter-item expanded "><a href="hobbies.html">Hobbies</a></li><li class="chapter-item expanded "><a href="learning.html">Learning</a></li><li class="chapter-item expanded "><a href="programming.html">Programming</a></li><li class="chapter-item expanded "><a href="quotes.html">Quotes</a></li><li class="chapter-item expanded "><a href="rationality.html">Rationality</a></li><li class="chapter-item expanded "><a href="teamwork.html">Teamwork</a></li><li class="chapter-item expanded "><a href="time.html">Time</a></li><li class="chapter-item expanded "><a href="random/random.html">Random</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="random/ideas.html">Ideas</a></li><li class="chapter-item expanded "><a href="random/animals.html">Animals</a></li><li class="chapter-item expanded "><a href="random/questions.html">Questions</a></li><li class="chapter-item expanded "><a href="random/handbooks.html">Handbooks</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Handbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#communications" id="communications">Communications</a></h1>
+<blockquote>
+<p>To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others — Tony Robbins</p>
+</blockquote>
+<p>Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, discussion, education, and many more. Communication is a skill that is learnable.</p>
+<p>You become an average of the people you spend the most time with. Choose wisely!</p>
+<h2><a class="header" href="#talking" id="talking">Talking</a></h2>
+<ul>
+<li>Smile and look at the eyes.</li>
+<li>Remove filler words.</li>
+<li>Speak with sincerity and passion.</li>
+<li>Speak slow and naturally.</li>
+<li>Learn to <strong>listen</strong>.
+<ul>
+<li>Become interested in other people. Encourage others to talk about themselves. The more you are interested in others, the more interesting they find you. To be interesting, be interested.</li>
+<li>Being able to listen well is a superpower. Listening is difficult because it involves suppressing your ego long enough to consider what is being said before you respond.</li>
+<li>Forget your agenda. Don't have internal monologue.</li>
+<li>Avoid trying to respond immediately and allow the other person time to finish speaking.</li>
+<li>Don't answer your phone while speaking with someone in real life. If the real life conversation starts, has precedence over the asynchronous ones.</li>
+<li>While listening to someone sharing a problem keep asking them &quot;Is there more?&quot;, until there is no more.</li>
+<li>Connect with people, don't perform for them.</li>
+</ul>
+</li>
+<li>Aim to make liberal use of the <em>you</em> pronoun.</li>
+<li>No matter how correct you are, you won't get anywhere by making the other person feel stupid. Not being annoying is more important than being smart. Aim to make friends. <a href="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/">Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat</a>.</li>
+<li>Ask for help instead of demanding it.</li>
+<li>Favor interrogative-led questions over leading questions. A leading question attempts to get the listener to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. &quot;Did you like the movie?&quot; vs &quot;What did you think about the movie?&quot;.</li>
+<li>Make <a href="https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic">interesting questions</a> to know people better.</li>
+</ul>
+<h2><a class="header" href="#writing" id="writing">Writing</a></h2>
+<ul>
+<li>Try to use the active voice whenever possible.</li>
+<li>Keep in mind your style:
+<ul>
+<li><strong>Be concise</strong>. Understand the topic you're writing about. Use simple words and sentences. Put the most important things first. Never use a long word when a short one will do.</li>
+<li><strong>Be Useful</strong>. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?</li>
+<li><strong>Be specific</strong>. Avoid vague language. Cut the fluff. Delete unnecessary words. Say what you mean.</li>
+<li><strong>Be consistent</strong>.</li>
+<li><strong>Add rhythm</strong>. Vary the sentence length to break the monotony.</li>
+</ul>
+</li>
+<li><a href="https://www.julian.com/guide/write/intro">Style is a small part of writing well. Most of writing is thinking clearly.</a> The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are.</li>
+<li>Have solid schemas. List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion:
+<ul>
+<li>Define a clear thesis.</li>
+<li>Support your thesis with arguments.</li>
+<li>Declare and reject the antithesis.</li>
+<li>Conclusions.</li>
+</ul>
+</li>
+<li>Human beings are wired to respond to storytelling. A story arc is a way to structure ideas to tap into this response, typically by describing a change in the world.</li>
+<li>Use positive language rather than negative language.</li>
+<li>Write in a conversational tone.</li>
+<li>Use second-person and describe actions to a user. Technical content talks to users when support agents can't.</li>
+<li>Divide things into small chunks.</li>
+<li>If you have multiple points in a text, number them to make replies easier.</li>
+<li>Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. <a href="https://twitter.com/eugeneyan/status/1256828197410201601">Write whatever helps you think better</a>. Separate the processes of creation from improving. You can't write and edit.</li>
+<li>You can use tools like <a href="http://www.hemingwayapp.com/">Hemingway</a> or <a href="https://ludwig.guru/">Ludwig</a> to improve.</li>
+</ul>
+<h2><a class="header" href="#feedback" id="feedback">Feedback</a></h2>
+<p>Feedback is the core of personal and professional growth. Feedback help us being better at what we do establishing clear communications and expectations.</p>
+<p>All feedback is good feedback. If you agree with it, it tells you something about yourself which you can to work on correcting. If you don't agree with it, it tells you that there is an incorrect perception about you in the other persons mind. You can also work on correcting that.</p>
+<h3><a class="header" href="#taking-feedback" id="taking-feedback">Taking Feedback</a></h3>
+<ul>
+<li>Use the word advice instead of feedback to get more results.</li>
+<li>The only constant in the world is change. Be open to it and accept it with a smile.</li>
+<li>Understand and accept that you will make mistakes.</li>
+<li>Be mindful. Develop meta-awareness around the areas that you received feedback.
+<ul>
+<li>Look for opportunities to <em>stop doing</em> or <em>start doing</em> critiqued behaviors.</li>
+</ul>
+</li>
+</ul>
+<h4><a class="header" href="#technical-feedback" id="technical-feedback">Technical Feedback</a></h4>
+<ul>
+<li>You are not your work (code, design, ...).</li>
+<li>No matter how much you know about something, someone else will always know more.</li>
+<li>Treat people who know less than you with respect, deference, and patience.</li>
+<li>True authority stems from knowledge, not from position.</li>
+<li>Critique code instead of people — be kind to the coder, not to the code.</li>
+<li>Focus on <a href="http://bravenewgeek.com/engineering-empathy/">Empathy</a>.</li>
+</ul>
+<h3><a class="header" href="#giving-feedback" id="giving-feedback">Giving Feedback</a></h3>
+<ul>
+<li>Feedback needs to be informal, frequent, and done authentically.</li>
+<li>Address behavior, but don't label people.</li>
+<li>Prepare. What do you value in someone? Where do you think are their biggest opportunities to improve?</li>
+<li>Keep the feedback actionable, specific, and kind.</li>
+<li>Imagine what things feel like from the other perspective.</li>
+<li>How to compose a successful critical commentary (<em>from</em> <a href="https://en.wikipedia.org/wiki/Daniel_Dennett"><em>Daniel Dennett</em></a>):
+<ul>
+<li>You should attempt to re-express your target's position so clearly, vividly, and fairly that your target says, <em>&quot;Thanks, I wish I'd thought of putting it that way&quot;</em>.</li>
+<li>You should list any points of agreement (if they are not matters of general or widespread agreement).</li>
+<li>You should mention anything you have learned from your target.</li>
+<li>Only then are you permitted to say so much as a word of rebuttal or criticism.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#resolving-disagreement" id="resolving-disagreement">Resolving Disagreement</a></h2>
+<p>A few assumptions are required to have a successfully disagreement:</p>
+<ul>
+<li>Epistemic humility. &quot;It's possible that I might be the one who's wrong, here&quot;.</li>
+<li>Good faith. An assumption that people believe things for causal reasons. Assume good intentions.</li>
+<li>Confidence in the existence of objective truth or a better position.</li>
+<li>Curiosity and/or a desire to uncover truth.</li>
+<li>As much data as possible to backup claims.</li>
+</ul>
+<p><a href="(https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement)">Double crux</a> is great framework based on the previous assumptions.</p>
+<p>One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Ask &quot;What would need to be true for you to...&quot;. Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it's easier to evaluate arguments like &quot;we should do X before Y&quot; than it is to converge on &quot;X is better than Y&quot;.</p>
+<p>Don't focus on proving yourself right, instead of focus on getting the best outcome.
+Keep the conversation simple and summarize the conversation during the discussion.</p>
+<h3><a class="header" href="#blogging" id="blogging">Blogging</a></h3>
+<ul>
+<li>Writing is Thinking. Writing things down helps clarifying ideas. One of the tests of whether you understand something is whether you can explain it to someone else. <a href="http://www.paulgraham.com/writing44.html">Writing doesn't just communicate ideas; it generates them</a>.</li>
+<li>Expect 80% of the ideas in an post to happen after you start writing it, and 50% of those you start with to be wrong.</li>
+<li>To decide if your idea is worth writing about, <a href="https://jvns.ca/blog/2016/05/22/how-do-you-write-blog-posts/">ask these questions</a>:
+<ul>
+<li>Would this have helped me a year ago?</li>
+<li>Would this have helped me last week?</li>
+<li>Do you think this would be interesting to at least like 2 other people?</li>
+</ul>
+</li>
+<li><a href="https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045">You are best positioned to help people one step behind you</a>. The material is still fresh in your mind. Many experts have forgotten what it was like to be a beginner and have forgotten why the topic is hard to understand when you first hear it. The context of your particular background, your particular style, and your knowledge level will give a different twist to what you're writing about.</li>
+<li><a href="https://guzey.com/personal/why-have-a-blog/">Share unoriginal ideas</a>. Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn't come up with these ideas otherwise.</li>
+<li>Start with Why. Start with a question. Write the first flawed answer that comes to mind. Write the first question or objection that comes to mind from that answer. Write the first response that comes to mind from that, ...</li>
+<li><a href="https://twitter.com/eugeneyan/status/1256828203840073728">Writing creates a cache</a>. The cache (i.e., documents) scales data availability. people can access the cache instead of going to you.</li>
+<li>For long-form content, the <a href="https://dropbox.design/article/mental-models-for-designers">diamond model</a> works great for putting a structure around your main idea.
+<ol>
+<li>Attention: Start with a story, statistic, or something similar</li>
+<li>Main topic: Briefly introduce the main topic you'll cover</li>
+<li>Previews: Give quick previews of your subtopics</li>
+<li>Subtopics: Go into depth with your subtopics</li>
+<li>Summaries: Recap your subtopics</li>
+<li>Conclusion: Paint an ideal vision of the future</li>
+<li>Call to action: Invite your audience to act or make a decision</li>
+</ol>
+</li>
+<li>For <a href="https://sivers.org/7">short-form content</a>:
+<ol>
+<li>Write all your thoughts on a subject.</li>
+<li>Argue against those ideas.</li>
+<li>Explore different angles.</li>
+<li>Leave it for a few days or years, then repeat those steps.</li>
+<li>Hate how messy these thoughts have become.</li>
+<li>Reduce them to a tiny outline of the key points.</li>
+<li>Post the outline. Trash the rest.</li>
+</ol>
+</li>
+<li>Reading is the inhale, writing is the exhale. Breathe.</li>
+<li>The more you create, the more ideas come yo you to continue creating. That's the creativity feedback loop.</li>
+</ul>
+<h2><a class="header" href="#resources" id="resources">Resources</a></h2>
+<ul>
+<li><a href="https://gist.github.com/flopezluis/8b79555b1337e139a9f1d276a42e0019">Effective Communications</a></li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="values.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="concepts.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="values.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="concepts.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

@@ -1,0 +1,310 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Data - Handbook</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../index.html">Handbook</a></li><li class="chapter-item expanded "><a href="values.html">Values</a></li><li class="chapter-item expanded "><a href="communications.html">Communications</a></li><li class="chapter-item expanded "><a href="concepts.html">Concepts</a></li><li class="chapter-item expanded "><a href="data.html" class="active">Data</a></li><li class="chapter-item expanded "><a href="decentralization.html">Decentralization</a></li><li class="chapter-item expanded "><a href="governance.html">Governance</a></li><li class="chapter-item expanded "><a href="habits.html">Habits</a></li><li class="chapter-item expanded "><a href="health.html">Health</a></li><li class="chapter-item expanded "><a href="hobbies.html">Hobbies</a></li><li class="chapter-item expanded "><a href="learning.html">Learning</a></li><li class="chapter-item expanded "><a href="programming.html">Programming</a></li><li class="chapter-item expanded "><a href="quotes.html">Quotes</a></li><li class="chapter-item expanded "><a href="rationality.html">Rationality</a></li><li class="chapter-item expanded "><a href="teamwork.html">Teamwork</a></li><li class="chapter-item expanded "><a href="time.html">Time</a></li><li class="chapter-item expanded "><a href="random/random.html">Random</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="random/ideas.html">Ideas</a></li><li class="chapter-item expanded "><a href="random/animals.html">Animals</a></li><li class="chapter-item expanded "><a href="random/questions.html">Questions</a></li><li class="chapter-item expanded "><a href="random/handbooks.html">Handbooks</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Handbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#data" id="data">Data</a></h1>
+<h2><a class="header" href="#data-engineering" id="data-engineering">Data Engineering</a></h2>
+<p>Data Pipelines are a set of actions that extract data, transform it, and then load the final data somewhere. As any <a href="https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/">distributed system</a>, they're tricky to work with. These are some great principles to keep in mind as <a href="https://towardsdatascience.com/lessons-from-a-year-in-the-data-science-trenches-f06efa6355fd">production data engineering is mostly computer science</a>.</p>
+<h3><a class="header" href="#basic-principles" id="basic-principles">Basic Principles</a></h3>
+<ul>
+<li>Simplicity: Each steps is easy to understand and modify.</li>
+<li>Reliability: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done extracting the column from the intermediary data without having to query the data source.</li>
+<li>Modularity: Steps are independent.</li>
+<li>Consistency: Same conventions and design patterns across pipelines.</li>
+<li>Efficiency: Low event latency when needed. Easy to scale up and down.</li>
+<li>Flexibility: Steps change to conform data points. Changes don't stop the pipeline or losses data.</li>
+</ul>
+<h3><a class="header" href="#data-flow" id="data-flow">Data Flow</a></h3>
+<ul>
+<li>In each step of the pipeline there are producers of data and consumers. Consumers can be also producers, e.g <code>B</code> in <code>A | B | C</code>.
+<ul>
+<li>Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a database.</li>
+</ul>
+</li>
+<li>Schemas changes. Most of the time you won't be there at the exact time of the change so try to save everything.
+<ul>
+<li>Ideally, the schema will evolve in a backward compatible way:
+<ul>
+<li>Data types don't change in the same column</li>
+<li>Columns are either deleted or added but never renamed</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Create a few extra columns like <code>processed_at</code> or <code>schema_version</code></li>
+<li>Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the <a href="https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a">Functional Data Engineering Paradigm</a>.</li>
+</ul>
+<h2><a class="header" href="#data-science" id="data-science">Data Science</a></h2>
+<h3><a class="header" href="#a-hrefhttpsgithubcomeugeneyanapplied-mlmachine-learning-projectsa" id="a-hrefhttpsgithubcomeugeneyanapplied-mlmachine-learning-projectsa"><a href="https://github.com/eugeneyan/applied-ml">Machine Learning Projects</a></a></h3>
+<ol>
+<li>Frame the problem. Define a clear and concise objective.</li>
+<li>Get the data.</li>
+<li>Explore the data.</li>
+<li>Define metrics. Explain and verify any assumption.</li>
+<li>Make the data tidy.</li>
+<li>Model the data. <a href="https://developers.google.com/machine-learning/guides/rules-of-ml/">Start with the simplest model!</a>. That will be your <a href="https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa">baseline model</a>.</li>
+<li>Make sure everything works end to end. Deploy the model. Add a clear description of the model.</li>
+<li>Make results reproducible (code, environment and data).</li>
+<li>Iterate. Go back to the first point and change one thing at a time. It's really hard to tell in advance what's hard and what's easy. <a href="https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641">Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever.</a></li>
+<li>Explain your results in terms your audience cares about.</li>
+</ol>
+<p><a href="https://news.ycombinator.com/item?id=22808006">Real impact comes from continuous decision-making and implementing actions with feedback</a>. Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.</p>
+<p>Continuous decision-making — the kind that leads to impact — involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, <a href="https://dfrieds.com/articles/data-science-reality-vs-expectations.html">your impact is tough to measure — data doesn't always translate to value</a>.</p>
+<h3><a class="header" href="#a-hrefhttpsmatthewmcateermeblogmachine-learning-technical-debtmachine-learning-technical-debta" id="a-hrefhttpsmatthewmcateermeblogmachine-learning-technical-debtmachine-learning-technical-debta"><a href="https://matthewmcateer.me/blog/machine-learning-technical-debt">Machine Learning Technical Debt</a></a></h3>
+<p>Tech debt is an analogy for the long-term buildup of costs when engineers make design choices for speed of deployment over everything else. Fixing technical debt can take a lot of work.</p>
+<ul>
+<li>Tack data dependencies.</li>
+<li>Version the datasets.</li>
+<li>Make sure your data isn't all noise and no signal by making sure your model is at least capable of overfitting.</li>
+<li>Use <a href="https://www.cs.mcgill.ca/%7Ejpineau/ReproducibilityChecklist.pdf">reproducibility checklists when releasing code</a>.</li>
+</ul>
+<h3><a class="header" href="#analysis-requests" id="analysis-requests">Analysis Requests</a></h3>
+<ol>
+<li>What's the goal of the analysis? Are there related actionable actions? Which kind of decisions is it going to enable?</li>
+<li>Where is the data?</li>
+<li>Is the data in the correct format and is it accurate?</li>
+<li>Make the analysis reproducible.</li>
+<li>Before delivering, summarize.</li>
+</ol>
+<h3><a class="header" href="#resources" id="resources">Resources</a></h3>
+<ul>
+<li><a href="https://github.com/datasciencemasters/go">The Open-Source Data Science Masters</a></li>
+<li><a href="https://datavizcatalogue.com/">The Data Visualization Catalogue</a></li>
+<li><a href="https://ujjwalkarn.github.io/Machine-Learning-Tutorials/">Machine Learning Tutorials</a></li>
+<li><a href="https://www.darkhorseanalytics.com/blog/data-looks-better-naked">Data looks better naked</a></li>
+<li><a href="https://datavizcatalogue.com/search.html">The Data Visualization Catalogue</a></li>
+<li><a href="https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/">Guides for Visualizing Reality</a></li>
+<li><a href="https://ff06-2020.fastforwardlabs.com/">Model Interpretability</a>
+<ul>
+<li><a href="https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/">Diverse Counterfactuals</a></li>
+</ul>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="concepts.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="decentralization.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="concepts.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="decentralization.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

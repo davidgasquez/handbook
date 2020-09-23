@@ -1,0 +1,279 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Quotes - Handbook</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../index.html">Handbook</a></li><li class="chapter-item expanded "><a href="values.html">Values</a></li><li class="chapter-item expanded "><a href="communications.html">Communications</a></li><li class="chapter-item expanded "><a href="concepts.html">Concepts</a></li><li class="chapter-item expanded "><a href="data.html">Data</a></li><li class="chapter-item expanded "><a href="decentralization.html">Decentralization</a></li><li class="chapter-item expanded "><a href="governance.html">Governance</a></li><li class="chapter-item expanded "><a href="habits.html">Habits</a></li><li class="chapter-item expanded "><a href="health.html">Health</a></li><li class="chapter-item expanded "><a href="hobbies.html">Hobbies</a></li><li class="chapter-item expanded "><a href="learning.html">Learning</a></li><li class="chapter-item expanded "><a href="programming.html">Programming</a></li><li class="chapter-item expanded "><a href="quotes.html" class="active">Quotes</a></li><li class="chapter-item expanded "><a href="rationality.html">Rationality</a></li><li class="chapter-item expanded "><a href="teamwork.html">Teamwork</a></li><li class="chapter-item expanded "><a href="time.html">Time</a></li><li class="chapter-item expanded "><a href="random/random.html">Random</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="random/ideas.html">Ideas</a></li><li class="chapter-item expanded "><a href="random/animals.html">Animals</a></li><li class="chapter-item expanded "><a href="random/questions.html">Questions</a></li><li class="chapter-item expanded "><a href="random/handbooks.html">Handbooks</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Handbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#quotes" id="quotes">Quotes</a></h1>
+<p>A quote is a distilled piece of knowledge. These are some of my favorites.</p>
+<ul>
+<li>Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. Anthony Robbins.</li>
+<li>The good thing about science is that it's true whether or not you believe in it. Neil deGrasse Tyson.</li>
+<li>Don't raise your voice, improve your argument. Desmond Tutu.</li>
+<li>Desire is a contract you make with yourself to be unhappy until you get what you want. Naval Ravikant.</li>
+<li>Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely. Roy T. Bennett.</li>
+<li>If you want to feel good, brainstorm it. If you want to appear good, test it. If you want to know if you're any good, ship it. Jason Fried.</li>
+<li>Life doesn't get better. You get better at it.</li>
+<li>It is not the things we do in life that we regret on our death bed. It is the things we do not. Randy Pausch.</li>
+<li>There is nothing so useless as doing efficiently that which should not be done at all. Peter Drucker.</li>
+<li>Questions are places in your mind where answers fit. If you haven't asked the question, the answer has nowhere to go. It hits your mind and bounces right off. You have to ask the question – you have to want to know – in order to open up the space for the answer to fit. Clay Christiansen.</li>
+<li>Simple rules produce complex behavior. Complex rules produce stupid behavior. Andrew Hunt.</li>
+<li>You cannot answer a question that you cannot ask, and you cannot ask a question that you have no words for. Judea Pearl.</li>
+<li><a href="https://youtu.be/RPicL1AWrs8?list=WL">The mind is its own place, and in itself can make a heaven of hell, a hell of heaven</a>.</li>
+<li>There's no love in a carbon atom, No hurricane in a water molecule, No financial collapse in a dollar bill. Peter Dodds.</li>
+<li>All models are wrong, but some are useful. George Box.</li>
+<li>Relax, no one else knows what they're doing either. Ricky Gervais.</li>
+<li>When you view the world as a series of outputs, you form opinions. But when you view the world as a series of systems, you form strategies. Channing Allen.</li>
+<li>I hate that man. I must get to know him better. Abraham Lincoln.</li>
+<li>You enjoy a trip three times. Getting ready for it, while traveling and when you remember it. Good memories appreciate over time!</li>
+<li>Extraordinary claims require extraordinary evidence. Carl Sagan.</li>
+<li>The rabbit runs faster than the fox, because the rabbit is running for his life while the fox is only running for his dinner. Richard Dawkins.</li>
+<li>Where all think alike, no one thinks very much. Walter Lippmann.</li>
+<li>Every step and every movement of the multitude, even in what are termed enlightened ages, are made with equal blindness to the future; and nations stumble upon establishments, which <a href="https://en.wikipedia.org/wiki/Spontaneous_order">are indeed the result of human action, but not the execution of any human design</a>. Adam Ferguson.</li>
+<li>Comparison is the thief of joy. Theodore Roosevelt.</li>
+<li>I am writing a longer letter than usual because there is not enough time to write a short one. Blaise Pascal.</li>
+<li>When the facts change, I change my mind. What do you do, sir? John Maynard Keynes.</li>
+<li>Reality is not optional. Thomas Sowell.</li>
+<li>History doesn't repeat itself, but it does rhyme. Mark Twain.</li>
+<li>Seek not for events to happen as you wish but rather wish for events to happen as they do and your life will go smoothly. Epictetus.</li>
+<li>It is impossible for a man to learn what he thinks he already knows. Epictetus.</li>
+<li>You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally. Robert M. Pirsig.</li>
+<li>Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Richard Feynman.</li>
+<li>There are no solutions. There are only trade-offs. Thomas Sowell.</li>
+<li>It's not that life is short, it's that we waste to much of it. Seneca.</li>
+<li>Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in. Isaac Asimov.</li>
+<li>Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again. Steve Jobs.</li>
+<li>A witty saying proves nothing. Voltaire.</li>
+<li>This too shall pass. Persian adage.</li>
+</ul>
+<h2><a class="header" href="#external-lists" id="external-lists">External Lists</a></h2>
+<ul>
+<li><a href="https://nikitavoloboev.xyz/likes/#quotes">Nikita Voloboev's favorites quotes</a>.</li>
+<li><a href="https://news.ycombinator.com/item?id=24436135">Ask HN: What is your favorite motto? (2020)</a></li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="programming.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="rationality.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="programming.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="rationality.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

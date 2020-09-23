@@ -1,0 +1,344 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Health - Handbook</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../index.html">Handbook</a></li><li class="chapter-item expanded "><a href="values.html">Values</a></li><li class="chapter-item expanded "><a href="communications.html">Communications</a></li><li class="chapter-item expanded "><a href="concepts.html">Concepts</a></li><li class="chapter-item expanded "><a href="data.html">Data</a></li><li class="chapter-item expanded "><a href="decentralization.html">Decentralization</a></li><li class="chapter-item expanded "><a href="governance.html">Governance</a></li><li class="chapter-item expanded "><a href="habits.html">Habits</a></li><li class="chapter-item expanded "><a href="health.html" class="active">Health</a></li><li class="chapter-item expanded "><a href="hobbies.html">Hobbies</a></li><li class="chapter-item expanded "><a href="learning.html">Learning</a></li><li class="chapter-item expanded "><a href="programming.html">Programming</a></li><li class="chapter-item expanded "><a href="quotes.html">Quotes</a></li><li class="chapter-item expanded "><a href="rationality.html">Rationality</a></li><li class="chapter-item expanded "><a href="teamwork.html">Teamwork</a></li><li class="chapter-item expanded "><a href="time.html">Time</a></li><li class="chapter-item expanded "><a href="random/random.html">Random</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="random/ideas.html">Ideas</a></li><li class="chapter-item expanded "><a href="random/animals.html">Animals</a></li><li class="chapter-item expanded "><a href="random/questions.html">Questions</a></li><li class="chapter-item expanded "><a href="random/handbooks.html">Handbooks</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Handbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#health" id="health">Health</a></h1>
+<p>How you live affects how long you live. Most people could do better. Your health also impact your loved ones. Don't <a href="https://www.youtube.com/watch?v=LO1mTELoj6o">maximize misery</a>.</p>
+<h2><a class="header" href="#fitness" id="fitness">Fitness</a></h2>
+<ul>
+<li>Never sit for prolonged times. Take breaks standing or walking around.</li>
+<li>Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.</li>
+<li>Too much sugar leads to a heavy body. Too many distractions lead to a heavy mind.</li>
+<li><a href="https://www.reddit.com/r/leangains/comments/9fxkof/if_you_eat_a_big_preworkout_meal_do_you_need_to/">It's been shown that the timing of your meals and more specifically your protein intake, doesn't make any difference to the growth of your muscles. Just get adequate protein and calories throughout the day, though you might want to eat something post workout anyway for energy.</a></li>
+<li><a href="https://www.betterhealth.vic.gov.au/health/healthyliving/walking-for-good-health">Going for a walk has lots benefits</a>. Around 30 minutes a day or more on most days of the week is a great way to improve or maintain your overall health.</li>
+</ul>
+<h3><a class="header" href="#posture" id="posture">Posture</a></h3>
+<ul>
+<li>Fix your habits. Spending 30 minutes stretching every day and an hour at the gym 3 times a week won't offset the more than 80 hours a week you probably spend sitting at your office, sofa, computer, etc.</li>
+<li>Pick certain moments where you would always check your posture. Walking through doorways, standing up, ...</li>
+<li>Another great tip is to brush your teeth with <a href="https://www.youtube.com/watch?v=GbGSvAEkE68">your back against the wall</a> for 3 minutes.</li>
+<li>Exercise and live a less sedentary lifestyle. Focus on <a href="https://www.youtube.com/watch?v=4BOTvaRaDjI">building core strength</a>.</li>
+</ul>
+<h3><a class="header" href="#resources" id="resources">Resources</a></h3>
+<ul>
+<li><a href="https://www.reddit.com/r/Fitness/wiki/">Fitness Reddit Wiki</a> - Extensive resource of fitness information, contributed to by the community and curated by the moderators</li>
+<li><a href="https://ss.fitness/">Simple Science Fitness</a> - Everything you need to know about eating and exercising backed by science</li>
+<li><a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine">Body Weight Fitness Recommended Routine</a> - Best routine if you like to use your own body to train</li>
+<li><a href="https://www.youtube.com/watch?v=Aoyy3bKtD84">Molding Mobility</a> - Routine designed to increase general range of motion in your movements</li>
+<li><a href="https://www.youtube.com/watch?v=w1iXMvTMvBo">Starting Stretching</a> - A 15 minute stretching routine that serves as a starting point for beginners to improve overall flexibility</li>
+<li><a href="http://physiqonomics.com/fat-loss/">The Best Fat Loss Article on the Motherfuckin' Internet</a> - Facts and useful information about fat loss</li>
+<li><a href="https://old.reddit.com/r/Fitness/wiki/phraks-gslp">Phrak's Greyskull LP</a> - Introductory lifting program to build familiarity and comfortability with the fundamental barbell movements that are a core component of most strength training routines</li>
+<li><a href="https://www.julian.com/guide/muscle/intro">Building Muscle</a> - Article that cover what the science says about exercising and eating to build muscle.</li>
+</ul>
+<h2><a class="header" href="#sleep" id="sleep">Sleep</a></h2>
+<ul>
+<li>Don't use screens before sleep.</li>
+<li>Stick to a consistent routine.</li>
+<li>If possible, don't use an alarm.</li>
+</ul>
+<h2><a class="header" href="#nutrition" id="nutrition">Nutrition</a></h2>
+<ul>
+<li>When you have the best and tastiest ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.</li>
+<li>Experiment! The worst that could happen is that you don't like it. Cooking has a short feedback loop. Take risks and you'll get the payoffs. Learn from your mistakes until you succeed.</li>
+<li><a href="https://www.reddit.com/r/productivity/comments/6demoi/why_you_should_try_intermittent_fasting_mood/">Fasting can be useful in some situations</a>.</li>
+</ul>
+<h3><a class="header" href="#resources-1" id="resources-1">Resources</a></h3>
+<ul>
+<li><a href="https://examine.com/">Examine.com</a> - Nutrition and Supplement Articles</li>
+<li><a href="https://www.eatthismuch.com/">Eat This Much</a> - Create personalized meal plans based on your food preferences, budget, and schedule.</li>
+</ul>
+<h2><a class="header" href="#meditation" id="meditation">Meditation</a></h2>
+<ul>
+<li>Meditation is a simple practice available to all, which can reduce stress, increase calmness and clarity and promote happiness. Learning how to meditate is straightforward, and the benefits can come quickly. Even just a few minutes a day can make a big difference revealing and refactoring various <a href="https://www.lesswrong.com/posts/WYmmC3W6ZNhEgAmWG/a-mechanistic-model-of-meditation#Uses_for_moments_of_introspective_awareness_">mental motions</a>.
+<ul>
+<li>If you have more introspective awareness of the exact processes that are happening in your mind, you can make more implicit assumptions conscious, causing your brain's built-in contradiction detector to notice when they contradict your later learning. Also, getting more feedback about what exactly is happening in your mind allows you to notice more wasted motion in general.</li>
+</ul>
+</li>
+<li>The goal of meditation is not to quit having thoughts, but to observe them, watch them without reacting and rationalizing them. This helps rewire the way your brain works similar to cognitive behavioral therapy. Typically, people who work towards this, have less anxiety and depression because they don't react to every thought they have, which gives them a greater control of their emotions.</li>
+<li><a href="https://www.nytimes.com/guides/well/how-to-meditate">How to Meditate</a>:
+<ol>
+<li>Find a comfortable place to sit, and a posture that is both alert and relaxed at the same time. See if you can make the spine erect, without being too rigid.</li>
+<li>Close your eyes (or leave them slightly open if you prefer), and take a few slow breaths. Take a few moments to loosen your body from your head to your toes, and take a few more deep breaths. Scan your body to see if you can find any other tension that you can release.</li>
+<li>Stop to notice the sensations throughout your body — the warmth, the coolness or any discomfort. Be aware of them, but try not to fidget too much.</li>
+<li>Keep your attention on your breath. Your mind will wander. Notice it whenever it happens, congratulate yourself for having noticed it, and then return to the breath. After a few moments, your mind may wander again. Once again, notice that and simply return your attention back to the present moment.</li>
+</ol>
+</li>
+</ul>
+<h2><a class="header" href="#journaling" id="journaling">Journaling</a></h2>
+<ul>
+<li>Journaling is a &quot;keystone&quot; habit. It tightly locks all of your other habits in place.</li>
+<li>It helps build a self evaluation loop in your life. It gives you the ability to discover what were you thinking and how the decisions turned out. If you don't reflect on your past, any improvements you do in the future will be by randomness.</li>
+<li>When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.</li>
+<li>Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.</li>
+<li>The development of a coherent narrative helps you reorganize and structure old memories, making them less traumatic.</li>
+<li>Writing on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.</li>
+<li>Premeditatio malorum. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.</li>
+<li><a href="https://nesslabs.com/dear-diary">Journaling is a tool you can use to better manage your mental health</a>.</li>
+<li>There are many methods. Start with a simple one like &quot;What worked, what didn't, what's next&quot;.</li>
+<li>Weekly Review:
+<ul>
+<li><a href="https://www.benkuhn.net/weekly/">Review what happened during the week</a>. How did the week go? Write down a list of topics to think about and take written notes on each topic as you think about them.</li>
+<li>Review a set of recurrent prompts. Tweak them over time. For example:
+<ul>
+<li>Consistency at your core habits this week (exercise, morning routine, todo system, etc.). How can you tweak them to be more consistent or more useful?</li>
+<li>What did you do this week that was a mistake and how can I avoid repeating it?</li>
+</ul>
+</li>
+<li>What would you like to accomplish next week?
+<ul>
+<li>Do you need to clarify something?</li>
+<li>Which actions will you move closer to your goals?</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#stoicism" id="stoicism">Stoicism</a></h2>
+<ul>
+<li><a href="https://www.njlifehacks.com/what-is-stoicism-overview-definition-10-stoic-principles/">Stoicism is a tool set that helps us direct our thoughts and actions in an unpredictable world</a>.</li>
+<li>We don't control and cannot rely on external events, but we can (to a certain extent) control our mind and choose our behavior.</li>
+<li>It's not what happens to us but our reactions to it that matter.</li>
+<li>The 3 Stoic principal leaders are Marcus Aurelius, Epictetus and Seneca.</li>
+<li>Stoicism teaches how to keep a calm and <a href="rationality.html">rational</a> mind no matter what happens to you and it helps you understand and focus on what you can control and not worry about and accept what you can't control.</li>
+<li>We'd be crazy to want to face difficulty in life. But we'd be equally crazy to think that it isn't going to happen. Prepare for it and plan for the worst. The idea of premeditation of adversity is to repeatedly imagine potentially &quot;bad&quot; scenarios in advance, so that they will not catch you by surprise, and you'll be able to face them calmly and act according to virtue.</li>
+<li>Stoic ideas inevitably lead to greater mindfulness.</li>
+<li>Accept rather than fight every little thing.</li>
+<li>Judge yourself accurately and honestly.</li>
+<li>Causes (stress, overwhelm) are within us. Don't blame people or circumstances. You have a choice.</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpsbronniewarecomblogregrets-of-the-dyinglifes-most-common-regretsa" id="a-hrefhttpsbronniewarecomblogregrets-of-the-dyinglifes-most-common-regretsa"><a href="https://bronnieware.com/blog/regrets-of-the-dying/">Life's Most Common Regrets</a></a></h2>
+<ol>
+<li>I wish I'd had the courage to live a life true to myself, not the life others expected of me.</li>
+<li>I wish I didn't work so hard.</li>
+<li>I wish I'd had the courage to express my feelings.</li>
+<li>I wish I had stayed in touch with my friends.</li>
+<li>I wish that I had let myself be happier.</li>
+</ol>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="habits.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="hobbies.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="habits.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="hobbies.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

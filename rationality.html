@@ -1,0 +1,362 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Rationality - Handbook</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../index.html">Handbook</a></li><li class="chapter-item expanded "><a href="values.html">Values</a></li><li class="chapter-item expanded "><a href="communications.html">Communications</a></li><li class="chapter-item expanded "><a href="concepts.html">Concepts</a></li><li class="chapter-item expanded "><a href="data.html">Data</a></li><li class="chapter-item expanded "><a href="decentralization.html">Decentralization</a></li><li class="chapter-item expanded "><a href="governance.html">Governance</a></li><li class="chapter-item expanded "><a href="habits.html">Habits</a></li><li class="chapter-item expanded "><a href="health.html">Health</a></li><li class="chapter-item expanded "><a href="hobbies.html">Hobbies</a></li><li class="chapter-item expanded "><a href="learning.html">Learning</a></li><li class="chapter-item expanded "><a href="programming.html">Programming</a></li><li class="chapter-item expanded "><a href="quotes.html">Quotes</a></li><li class="chapter-item expanded "><a href="rationality.html" class="active">Rationality</a></li><li class="chapter-item expanded "><a href="teamwork.html">Teamwork</a></li><li class="chapter-item expanded "><a href="time.html">Time</a></li><li class="chapter-item expanded "><a href="random/random.html">Random</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="random/ideas.html">Ideas</a></li><li class="chapter-item expanded "><a href="random/animals.html">Animals</a></li><li class="chapter-item expanded "><a href="random/questions.html">Questions</a></li><li class="chapter-item expanded "><a href="random/handbooks.html">Handbooks</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Handbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#rationality" id="rationality">Rationality</a></h1>
+<ul>
+<li>You can try things to find out which ideas are right or wrong. It requires asking &quot;What else would be true if this thing were true?&quot; or &quot;What would be different depending on whether X versus Y were true?&quot;.</li>
+<li>Aim to get an accurate picture of reality, even when that's unpleasant.</li>
+<li>Local Validity: Some argument steps are allowed steps and some argument steps aren't, independently of whether they arrive at an answer you agree with.</li>
+<li>People can fool you by saying they saw things that they didn't see, telling you some things they know but not others or by using flawed steps when drawing conclusions. When you try to make an argument come out with a particular answer, tou can fool yourself in the same way.</li>
+<li>You can be the wrong person.</li>
+<li>Assume good faith. Trust the other person to be believing things that make sense to them, which you'd have ended up believing if you were exposed to the same stimuli, and that they are generally trying to find the the truth.</li>
+<li><a href="https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html">Notice</a> your internal state (cognitive and emotional). Notice when you are in a failure mode, and step out. For example:
+<ul>
+<li><a href="https://youtu.be/w4RLfVxTGH4?list=WL">Motivated Reasoning or Soldier Mindset</a>:
+<ul>
+<li>You are fighting to make sure an argument wins.</li>
+<li>You are fighting to make another argument lose.</li>
+</ul>
+</li>
+<li>You are incentivized to believe something, or not to notice something, because of social or financial rewards.</li>
+<li>You're incentivized not to notice something or think it's important because it'd be physically inconvenient/annoying.</li>
+<li>You are offended/angered/defensive/agitated.</li>
+<li>You are afraid you'll lose something important if you lose a belief.</li>
+<li>You are arguing about definitions of words instead of ideas.</li>
+<li>You are confused or surprised. Treat this as a red flag that something about your models is wrong.</li>
+</ul>
+</li>
+<li>Notice if someone else seems to be in one of the above failure modes.</li>
+<li>Tactfully disagree in a way that arouses curiosity rather than defensiveness.</li>
+<li><a href="https://www.lesswrong.com/posts/ZQG9cwKbct2LtmL3p/evaporative-cooling-of-group-beliefs#fn3x57">Be prejudiced in favor of tolerating dissent</a>.</li>
+<li>Leave your colleague a line of retreat.</li>
+<li>Socially reward people who change their mind.</li>
+<li>Take into account second and third order effects.</li>
+<li>Mistrust simple comparisons.</li>
+<li>The real costs aren't always what is shown. Costs and values are often made of multiple parts. Beware repeated costs—they add up!</li>
+<li>Bet on everything where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and underconfidence, which will serve you in good stead emotionally when you try to do inadequacy reasoning.</li>
+<li>Do your philosophical thinking in advance (<a href="https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts">cached thoughts</a>), so you can concentrate on explaining well. Above all, practice staying within the one-inferential-step bound. <a href="https://www.lessestwrong.com/posts/aSQy7yHj6nPD44RNo/how-to-seem-and-be-deep">Think for yourself about &quot;wise&quot; or important or emotionally fraught topics</a> rather than letting your brain complete the pattern. If you don't stop at the first answer, and cast out replies that seem vaguely unsatisfactory, in time your thoughts will form a coherent whole, flowing from the single source of yourself, rather than being fragmentary repetitions of other people's conclusions.</li>
+<li>There's a distinction between tacit knowledge and explicit knowledge:
+<ul>
+<li>Tacit knowledge is like the knowledge that you use to ride a bicycle—it's complex, experiential, intuitive, hard to put into words.</li>
+<li>Explicit knowledge is clear and concrete and transferable and (at least somewhat) objectively verifiable. How you ride a bicycle is tacit, but the fact that you can ride a bicycle is explicit. It's a binary fact that can be completely and compactly transferred through words, and that is checkable through experiment.</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#making-decisions" id="making-decisions">Making Decisions</a></h2>
+<ul>
+<li>Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a problem-solving activity, and it can be more or less rational or irrational based on the decision maker's values, beliefs, and (perceived) knowledge.</li>
+<li>The decisions you make fall into two categories:
+<ul>
+<li>Prioritizing — Which path should you take first?</li>
+<li>Allocating — How much attention, time, and capital should you spend on this?</li>
+</ul>
+</li>
+<li>To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.</li>
+<li>Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy.</li>
+<li><a href="https://youtu.be/SVmEXdGqO-s">The fog of the future hides vital information</a>.</li>
+<li>If all options are similar take the harder one in the short term (<em>Hard decisions easy life, easy decisions, hard life</em>).</li>
+<li>Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/environmental changes.</li>
+<li>The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.</li>
+<li>Ask what information would cause you to change your mind. If you don't have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.</li>
+<li>How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can't take back, then it's worth really, really understanding. Aim for preserving optionality.</li>
+<li>We are all susceptible to bias, almost all the time. A way to detect bias and minimize the decision impact is to <a href="https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T">run it by a bias checklist</a>.</li>
+<li><a href="https://nesslabs.com/decision-making">There are many reasons why smart people may make a poor decision</a>; Overconfidence, Analysis paralysis, Information overload, Lack of emotional or physical resources, ...</li>
+<li>Decision making styles:
+<ul>
+<li>Intuitive vs. Rational. System 1 vs System 2.</li>
+<li>Maximizing vs. Satisficing. Go for the optimal decision or simply try to find a solution that is good enough.</li>
+<li>Well defined goal vs. blurred objective. Planning all the details or trying to be as flexible as possible.</li>
+</ul>
+</li>
+<li>How to make smart decisions once you have the data (DECIDE framework):
+<ol>
+<li>Define the problem. Understand the problem at hand.</li>
+<li>Establish the criteria. List all the factors you want to consider before making a decision.</li>
+<li>Consider the alternatives. Do enough research to have a few solid alternatives.</li>
+<li>Identify the best alternative. See which alternative makes most sense based on your criteria.</li>
+<li>Develop and implement a plan of action. Act on that decision.</li>
+<li>Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get.</li>
+</ol>
+</li>
+<li>Cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else;</li>
+</ul>
+<h2><a class="header" href="#problem-solving" id="problem-solving">Problem Solving</a></h2>
+<ul>
+<li>Problems have multiple solutions at multiple levels.</li>
+<li>Humans get obsessed with solutions rather than first building an obsession with a problem. Obsess around problems, not solutions.</li>
+<li><a href="http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/">Most of the time problems already have solutions</a>:
+<ul>
+<li>The first group of people that encounter a problem don't know how to solve it.</li>
+<li>They figure out a way of doing it, and when they get to a solution that's good enough (not perfect, just good enough), that's what they settle on.</li>
+<li>The next time they encounter the problem, they use the same solution.</li>
+<li>That keeps happening until later people don't even think about how to do it. <a href="https://en.wikipedia.org/wiki/Einstellung_effect">It's just how things are done</a>.</li>
+</ul>
+</li>
+<li>The best thing that can be done to a problem is to dissolve it, to redesign the entity that has it or its environment so as to eliminate the problem.
+<ul>
+<li>A problem well stated is a problem half solved.</li>
+<li>Insight is best thought of as a change in problem representation. The way we frame problems makes them more or less difficult.</li>
+</ul>
+</li>
+<li><a href="https://rs.io/the-science-of-problem-solving/">Problem solving can be understood as a search problem</a>. You start in some state, there's a set of neighbor states you can move to, and a final state that you would like to end up in.</li>
+<li>Taking breaks during working on a problem solving is called incubation. Incubation enhances problem solving ability.</li>
+<li>To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others.</li>
+<li>Grossman's Law: Complex problems have simple, easy to understand wrong answers.</li>
+<li>Aim for a Minimum Viable Solution. <strong>Start small and iterate</strong>. Fail early and learn from it. That allows you to explore, then exploit.</li>
+<li>When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away (<a href="https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/">Via Negativa</a>). For example, the foods you avoid are more important than the foods you eat.</li>
+<li>Your problems will tend to either be <strong>adaptive</strong> or <strong>technical</strong>. Adaptive problems require experimentation, novel strategies, or new ways of thinking and being; they're problems containing &quot;unknown unknowns&quot; and are often opaque in addition to being difficult. Technical problems may be equally difficult, but their difficulty lies in execution. Technical problems are those where the path to the solution is known or knowable and does not need to be discovered.</li>
+<li><a href="http://www.paulgraham.com/top.html">There's a kind of thinking you do without trying to</a>. This type of thinking is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly. Try to get yourself into situations where the most urgent problems are ones you want to think about.</li>
+<li>If a problem has no solution, it may not be a problem, but a fact - not to be solved, but to be coped with over time.</li>
+</ul>
+<h2><a class="header" href="#asking-questions" id="asking-questions">Asking Questions</a></h2>
+<ul>
+<li><a href="http://www.catb.org/esr/faqs/smart-questions.html">Ask swart questions</a>:
+<ol>
+<li>Do your own research first.</li>
+<li>Include things you have tried and thought of before asking the question.</li>
+<li>Be explicit about what you want to achieve in the end and provide as much up-front information as possible to help.</li>
+<li>Respect other people's time. Follow up after you get an answer.</li>
+</ol>
+</li>
+<li><a href="http://xyproblem.info/">When asking for help, let the people know what the problem you are trying to solve actually is instead of simply saying your solution and the reader guessing what it is you are actually trying to do</a>.</li>
+<li><a href="https://www.aaronkharris.com/asking-questions">Think about the question like a child</a>.</li>
+</ul>
+<h2><a class="header" href="#resources" id="resources">Resources</a></h2>
+<ul>
+<li><a href="https://www.lesswrong.com/">LessWrong</a> - A community dedicated to improving reasoning and decision-making.</li>
+<li><a href="https://www.rationality.org/resources/rationality-checklist">Rationality Checklist</a> - Checklist for personal use, so you can have a wish-list of rationality habits and see if you're acquiring good habits.</li>
+<li><a href="https://www.kialo.com/">Kialo</a> - Tool to explore debates.</li>
+<li><a href="https://arguman.org/">Arguman</a> - An argument analysis platform.</li>
+<li><a href="https://www.getguesstimate.com/">Guesstimate</a> - A spreadsheet for things
+that aren't certain.</li>
+<li><a href="https://www.lesswrong.com/posts/wccxMtZdEvHzLRNTZ/a-practice-of-rationality-sequence?commentId=BFaNYCKd3oQqQoZpH">Rationality skill tree</a>.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="quotes.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="teamwork.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="quotes.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="teamwork.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

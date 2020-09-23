@@ -1,0 +1,350 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Learning - Handbook</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="favicon.png">
+        
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+        <link rel="stylesheet" href="custom.css">
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../index.html">Handbook</a></li><li class="chapter-item expanded "><a href="values.html">Values</a></li><li class="chapter-item expanded "><a href="communications.html">Communications</a></li><li class="chapter-item expanded "><a href="concepts.html">Concepts</a></li><li class="chapter-item expanded "><a href="data.html">Data</a></li><li class="chapter-item expanded "><a href="decentralization.html">Decentralization</a></li><li class="chapter-item expanded "><a href="governance.html">Governance</a></li><li class="chapter-item expanded "><a href="habits.html">Habits</a></li><li class="chapter-item expanded "><a href="health.html">Health</a></li><li class="chapter-item expanded "><a href="hobbies.html">Hobbies</a></li><li class="chapter-item expanded "><a href="learning.html" class="active">Learning</a></li><li class="chapter-item expanded "><a href="programming.html">Programming</a></li><li class="chapter-item expanded "><a href="quotes.html">Quotes</a></li><li class="chapter-item expanded "><a href="rationality.html">Rationality</a></li><li class="chapter-item expanded "><a href="teamwork.html">Teamwork</a></li><li class="chapter-item expanded "><a href="time.html">Time</a></li><li class="chapter-item expanded "><a href="random/random.html">Random</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="random/ideas.html">Ideas</a></li><li class="chapter-item expanded "><a href="random/animals.html">Animals</a></li><li class="chapter-item expanded "><a href="random/questions.html">Questions</a></li><li class="chapter-item expanded "><a href="random/handbooks.html">Handbooks</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">Handbook</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#learning" id="learning">Learning</a></h1>
+<ul>
+<li>Understand the base and build from it. First Principles Method. Start from basics before going into complexities.</li>
+<li>You can apply <a href="https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/">The Feynman Technique</a>:
+<ol>
+<li>Identify the subject.</li>
+<li>Teach it to a child. Use simple vocabulary and make it short. Keep questions and answers simple.</li>
+<li>Identify your knowledge gaps. What are you missing?</li>
+<li>Organize and Simplify. Tell a story to teach. Analogies help here!</li>
+</ol>
+</li>
+<li>Follow the guidelines stated in Coursera's <a href="https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/"><em>Learning How to Learn</em> summary</a>.</li>
+<li>Write down the process that better worked for you.</li>
+<li>Keep improving the processes with the learning of failed experiences.</li>
+<li><a href="https://twitter.com/naval/status/1052856864965152769">Learn iterating over the process</a>.</li>
+<li>Everything is always subject to change (including this handbook).</li>
+<li>Learn to ask better questions. Distill what you know to figure out what part you're missing or which link is missing.</li>
+<li>There are two modes of thinking:
+<ul>
+<li>Focused: When you're actively trying to learn something.</li>
+<li>Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks (playing, sleeping, doing exercise, ...).</li>
+</ul>
+</li>
+<li>Reading is a meta-skill. Learn to read and understand so you can trade time reading for some skills.</li>
+<li>Experience ideas directly. Use the <a href="https://betterexplained.com/articles/adept-method/">ADEPT</a> method as a checklist for what helps a concept click:
+<ul>
+<li>Have an Analogy about it.</li>
+<li>Visualize it in a Diagram.</li>
+<li>Gather Examples.</li>
+<li>Come with a Plain-English description of the concept.</li>
+<li>The give into the Technical side.</li>
+</ul>
+</li>
+<li>When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new mental model.</li>
+<li>Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.</li>
+<li>Use spaced repetition. Make cards that are <a href="https://ncase.me/remember/">atomic, connected and meaningful</a>.</li>
+<li><a href="https://youtu.be/Y_B6VADhY84?list=WL">Test your knowledge easily and often and iterate</a>.</li>
+<li>Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.</li>
+<li>One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad habits right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.</li>
+<li>For some subjects, <a href="https://sive.rs/kimo">there’s no speed limit</a>. If you’re more driven than most people, you can do way more than anyone expects.</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpgordonbrandercompatterncapture-organize-synthesizecapture-organize-synthesizea" id="a-hrefhttpgordonbrandercompatterncapture-organize-synthesizecapture-organize-synthesizea"><a href="http://gordonbrander.com/pattern/capture-organize-synthesize/">Capture, Organize, Synthesize</a></a></h2>
+<ul>
+<li>Capture as much as possible. Your thoughts are more valuable than paper. Externalize what you learn. Once an idea is captured in a tangible form you can begin surveying and manipulating it.</li>
+<li>Organize only after you capture. Filter, but don't delete irrelevant information. Computers are big enough to search and store everything. Make them manage it.</li>
+<li>Synthesize into new meaning. Re-contextualize what you learn. This is the creative act. Experience becomes art, notes become a novel.</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpswwwdrmacivercom201905how-to-do-hard-thingshow-to-do-hard-thingsa" id="a-hrefhttpswwwdrmacivercom201905how-to-do-hard-thingshow-to-do-hard-thingsa"><a href="https://www.drmaciver.com/2019/05/how-to-do-hard-things/">How To Do Hard Things</a></a></h2>
+<p>It's a useful conceptual framework for how to get better at things that you currently find difficult.</p>
+<ul>
+<li>The Single-Loop System. Useful when you know what success looks like but cannot currently achieve it.
+<ol>
+<li>Find something that is <em>like</em> the hard thing but is easy.</li>
+<li>Modify the easy thing so that it is like the hard thing in exactly one way that you find hard.</li>
+<li>Do the modified thing until it is no longer hard.</li>
+<li>If you get stuck, do one of the following:
+a. Go back to step 3 and pick a different way in which the problem is hard.
+b. Recursively apply the general system for learning to do hard things to the thing you're stuck on.
+c. Go ask an expert or a rubber duck for advice.
+d. If you're still stuck after trying the first three, it's possible that you may have hit some sort of natural difficulty limit and may not be able to make progress.</li>
+<li>If the original hard thing is now easy, you're done. If not, go back to step 2.</li>
+</ol>
+</li>
+<li>The Double-Loop System. When you don't know what success looks like.
+<ol>
+<li>Apply the single loop system to the problem of improving your understanding of the problem space (e.g. consume lots of examples and learn to distinguish good from bad) in order to acquire a sense of good taste.</li>
+<li>Apply the single loop system to the problem of doing well according to your own sense of good taste.</li>
+<li>Get feedback on the result from others. Do they think you did it well? If yes, great! You're good at the thing. If no, either improve your sense of taste or theirs. If you choose yours, go back to step 1 with the new example. If you choose theirs, apply the single loop system to the hard problem of convincing others that your thing is good.</li>
+</ol>
+</li>
+</ul>
+<h2><a class="header" href="#a-hrefhttpswwwlesswrongcompostszgzdnfncxzfx6hyahhow-to-learn-soft-skillslearning-soft-skillsa" id="a-hrefhttpswwwlesswrongcompostszgzdnfncxzfx6hyahhow-to-learn-soft-skillslearning-soft-skillsa"><a href="https://www.lesswrong.com/posts/ZGzDNfNCXzfx6hYAH/how-to-learn-soft-skills">Learning Soft Skills</a></a></h2>
+<ul>
+<li>Pick a soft skill, X, that you’d like to get better at. Then, set a 5-minute timer. Spend those 5 minutes explaining to yourself, in writing, how to do X. Brainstorm on what the key tricky bits are, or strategies for navigating them.</li>
+<li>Explore how is skill X really actually just the same as skill Y. In the sense that anyone who is fluent in skill Y already knows all they need to know to be good at X — they just need to apply their Y-skill to X. Your goal, as you do this, is to create a very short guide that enables anyone who already knows Y to hit the ground running with X.</li>
+</ul>
+<h2><a class="header" href="#links" id="links">Links</a></h2>
+<ul>
+<li><a href="https://khanacademy.org/">Khan Academy</a> - Free and comprehensive early courses covering a wide range of topics</li>
+<li><a href="https://www.udacity.com/">Udacity</a> - Online Courses for the digital economy</li>
+<li><a href="https://www.coursera.org/">Coursera</a> - Online learning from the world's best universities and companies</li>
+<li><a href="https://explorabl.es/">Explorable Explanations</a> - A hub for learning through play</li>
+<li><a href="http://setosa.io/ev/">Explained Visually</a> -  Experiment in making hard ideas intuitive using visualizations</li>
+<li><a href="http://noexcuselist.com/">No Excuse List</a> - The best place on the web to learn anything, free</li>
+</ul>
+<h3><a class="header" href="#computer-science" id="computer-science">Computer Science</a></h3>
+<ul>
+<li><a href="http://learnxinyminutes.com/">Learn X in Y minutes</a> - Learn the basic of any language in Y minutes</li>
+<li><a href="http://exercism.io/">Exercism</a> - Code practice and mentorship for everyone</li>
+<li><a href="http://bost.ocks.org/mike/algorithms/">Visualizing Algorithms</a> - Cool visualizations of common algorithms used in Computer Science</li>
+<li><a href="https://codelabs.developers.google.com/">Google Developers Codelabs</a> - Guided, tutorial, hands-on coding experience on Google Products.</li>
+<li><a href="https://aihub.cloud.google.com/u/0/">Google AI Hub</a> - Learn, build and share notebooks, models, and other AI components.</li>
+<li><a href="https://www.katacoda.com/">Katacoda</a> - Learn new technologies using real environments
+right in your browser.</li>
+<li><a href="http://hackr.io/">Hackr</a> - Search for courses on any language, framework or programming topic</li>
+<li>Hardware
+<ul>
+<li><a href="http://gpuboss.com/">GPUBoss</a> - Compare graphics cards head to head</li>
+<li><a href="https://pcpartpicker.com/">PC Part Picker</a> - Build guides, which cover systems for all use-cases and budgets, or create your own and share it with our community</li>
+<li><a href="http://www.logicalincrements.com/">Logical Increments</a> - The PC builder's tier list</li>
+</ul>
+</li>
+</ul>
+<h3><a class="header" href="#others" id="others">Others</a></h3>
+<ul>
+<li><a href="https://hackdesign.org/lessons">Hack Design</a> - Quick and simple lessons on design</li>
+<li><a href="http://betterexplained.com/">Better Explained</a> - Math without endless memorization</li>
+<li><a href="https://seeing-theory.brown.edu">Seeing Theory</a> - A visual introduction to probability and statistics</li>
+<li><a href="https://tutsplus.com/">Tuts+</a> - Collection of How To tutorials on lots of topics</li>
+<li><a href="https://github.com/RichardLitt/meta-knowledge">Metaknowledge</a> - A list of knowledge repositories from multiple people</li>
+<li>Privacy
+<ul>
+<li><a href="https://www.reddit.com/r/privacy/wiki/index">Reddit r/privacy  Wiki</a> - Guide to becoming more secure online</li>
+<li><a href="https://www.privacytools.io/">Privacy Tools</a> - Provides knowledge and tools to protect your privacy against global mass surveillance</li>
+<li><a href="https://switching.social/">Switching Social</a> - Ethical, easy-to-use and privacy-conscious alternatives to multiple tools</li>
+</ul>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="hobbies.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="programming.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="hobbies.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="programming.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
