@@ -1,0 +1,10 @@
+[book]
+authors = ["David Gasquez"]
+language = "en"
+multilingual = false
+src = "content"
+title = "Handbook"
+
+[output.html]
+no-section-label = true
+additional-css = ["custom.css"]
