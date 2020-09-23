@@ -2,3 +2,7 @@
   font-weight: 600;
   color: #BF616A;
 }
+
+.light {
+  --sidebar-spacer: #E5E9F0;
+}
