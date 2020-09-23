@@ -1,6 +1,8 @@
 # Summary
 
-- [Handbook](../README.md)
+[README](README.md)
+
+---
 
 - [Values](values.md)
 - [Communications](communications.md)

@@ -6,7 +6,7 @@ build:
 
 .PHONY: serve
 serve:
-	mdbook serve
+	mdbook serve -o
 
 .PHONY: deploy
 deploy: book
