@@ -86,6 +86,8 @@ Random thoughts about specific topics. Probably biased based on my experience. A
     - [Wavelength](https://gjeuken.github.io/telewave). [Alternative](https://longwave.web.app/).
     - [Codenames](https://www.horsepaste.com/). [Alternative](http://those.codes/).
     - [Hanabi](https://hanabi.cards/).
+    - [Friends and Games](https://friendsand.games/). A list of hand picked free online games to play during calls with your friends or family.
+    - [Netgames](https://netgames.io/). Social games for your phone.
 
 ## Thought Experiments
 
