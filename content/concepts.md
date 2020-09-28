@@ -38,7 +38,7 @@ You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments]
 Properties to look for in Processes:
 
 - Algorithmic. So you don't need to think about choices. This reduces mental overhead and anxiety (The Paradox of Choice).
-  - A way to reduce choices i self binding (like Ulyses did). Limiting our actions in the future will reduce the choices we'll need to do.
+  - A way to reduce choices is self binding (like Ulyses did). Limiting our actions in the future will reduce the choices we'll need to do.
 - Flexible. Make if fluid enough to keep up with changes.
 - Low Friction. Simple processes are easier to understand and apply.
 - Short Feedback Loop. Show the results as soon as you can.
