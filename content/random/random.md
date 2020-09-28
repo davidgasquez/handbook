@@ -55,6 +55,13 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Most of our newsfeeds are insular networks made up of people who get their info from the same filter bubble we do.
 - Social media provides an unfortunate filter: it dumbs down complex information. [Ideas don't pass perfectly from one person to another. Like a game of Telephone, the message gets mutated with each re-telling so, over time, ideas "evolve" to be more catchy, copy-able, contagious.](https://ncase.me/crowds/) The fittest ideas doesn't need to be true.
 - Your information diet is nearly as important as your food diet. We are what we consume. By excesses to which our hardwired biology and natural tendencies have led us over billions of years of evolution. Today's excess of easy-to-access information will have a drastic an effect on health in the 21st century similar to what excess food had in the 20th century. Unhealthy food costs something financially. Consuming seven hours of pointless information is a lot easier and cheaper than eating thirty Twinkies.
+- Dopamine hits you get from social media affect your behavior. If you don't pay for the product, you (changes in your conduct) are the product.
+- Under pressure to prioritize engagement and growth, technology platforms have created a race for human attention that unleashed [invisible harms to society](https://ledger.humanetech.com/).
+  - Misinformation, conspiracy theories and fake news makes harder understanding our world.
+  - Technology's constant interruptions and precisely-targeted distractions are taking a toll on our ability to think, to focus, to solve problems, and to be present with each other.
+  - Social Media affects on our happiness, our self image, and our mental health.
+  - While social networks claim to connect us, all too often they distract us from connecting with those directly in front of us, leaving many feeling both connected and socially isolated.
+  - Social media platforms are incentivized to amplify the most engaging content, tilting public attention towards polarizing and often misleading content. By selling micro targeting to the highest bidder, they enable manipulative practices that undermine democracies around the world.
 
 ## News
 

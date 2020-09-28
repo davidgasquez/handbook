@@ -3,7 +3,8 @@
 - Smile and look at the eyes.
 - Remove filler words.
 - Speak with sincerity and passion.
-- Speak slow and naturally.
+- Speak [slow](https://sive.rs/slow) and naturally.
+  - Your first reaction is usually outdated. Either it’s an answer you came up with long ago and now use instead of thinking, or it’s a knee-jerk emotional response to something in your past.
 - Learn to **listen**.
   - Become interested in other people. Encourage others to talk about themselves. The more you are interested in others, the more interesting they find you. To be interesting, be interested.
   - Being able to listen well is a superpower. Listening is difficult because it involves suppressing your ego long enough to consider what is being said before you respond.

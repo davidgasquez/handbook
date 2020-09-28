@@ -96,6 +96,9 @@
 
 - Gather Ideas: Collect inputs and data from across your project.
 - Draft top-level goals: Create a vision statement with the top problems you aim to solve. What is important to achieve? For whom? Why?
+  - Mission: How do we win the fight?
+  - Vision: What will the world look like when we win?
+  - Purpose: What are we fighting for?
 - Chunk progress into milestones: Define the incremental targets to hit in order to accomplish the top-level goals. What must be true to reach this milestone? On what timeline? With what dependencies? What does this unlock?
 - Assign projects to milestones: Fill in key projects that are necessary, nice to have, and out of scope to reach those milestones and bucket them accordingly. Why is each project important to achieve that milestone? Which are highest priority? Do they have any dependencies? Approximate how hard/big is each project? (This likely involves iterating on or shuffling the milestones themselves based on capabilities/effort.)
 - Iterate iterate iterate: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you're prioritizing the right work, which gaps or open questions you haven't thought of yet.
@@ -135,6 +138,7 @@
   - [Remote Platforms List](https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/htmlview) - Lots of websites with remote job offers.
   - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote working resources.
   - [Remotive](https://remotive.io/). Hand-screens live remote jobs from remote companies.
+  - [Outer Join](https://outerjoin.us/). Remote jobs in data science.
 - Startups:
   - [Startup Playbook](https://playbook.samaltman.com/) - Some advice about startups from Sam Altman.
   - [Awesome Startup](https://github.com/KrishMunot/awesome-startup) - A curated list of awesome books, videos, courses and resources about making a startup.
