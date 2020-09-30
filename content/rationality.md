@@ -100,3 +100,4 @@
 - [Guesstimate](https://www.getguesstimate.com/) - A spreadsheet for things
 that aren't certain.
 - [Rationality skill tree](https://www.lesswrong.com/posts/wccxMtZdEvHzLRNTZ/a-practice-of-rationality-sequence?commentId=BFaNYCKd3oQqQoZpH).
+- [Center For Applied Rationality Handbook](https://www.rationality.org/files/cfar-handbook.pdf)

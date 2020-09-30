@@ -57,6 +57,7 @@
   - The people who work at the company.
   - The process the company uses to get work done.
   - The purpose for which the company exists.
+- [Apolitical](https://twitter.com/naval/status/1263322014372130817) work environment is hard to maintain but more effective. Choose your company battles.
 
 ## Engineering Process
 

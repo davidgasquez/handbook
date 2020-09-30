@@ -26,3 +26,7 @@ Dungeons & Dragons is a cooperative storytelling game that harnesses your imagin
   - [Nahre Sol](https://www.youtube.com/channel/UC8R8FRt1KcPiR-rtAflXmeg)
   - [Andrew Furmanczyk](https://www.youtube.com/channel/UCpzgTNTgQsR9YYsyOm3k3KQ)
   - [Dan the composer](https://www.youtube.com/user/danthecomposer/)
+
+## Resources
+
+- [The NoSurf Activities List](https://nosurf.net/activity-list/)
