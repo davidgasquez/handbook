@@ -97,7 +97,6 @@ _"Simple, clear purpose and principles give rise to complex and intelligent beha
 
 To reach a goal, reduce friction or increase incentives/rewards.
 
-
 ## Resources
 
 - [Tools for better thinking](https://untools.co/): Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
