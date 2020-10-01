@@ -74,7 +74,7 @@
 - [Problem solving can be understood as a search problem](https://rs.io/the-science-of-problem-solving/). You start in some state, there's a set of neighbor states you can move to, and a final state that you would like to end up in.
 - Taking breaks during working on a problem solving is called incubation. Incubation enhances problem solving ability.
 - To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others.
-- Grossman's Law: Complex problems have simple, easy to understand wrong answers.
+- Grossman's Law: Complex problems have simple, easy to understand wrong answers. Simple explanations are appealing even when they're wrong.
 - Aim for a Minimum Viable Solution. **Start small and iterate**. Fail early and learn from it. That allows you to explore, then exploit.
 - When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away ([Via Negativa](https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/)). For example, the foods you avoid are more important than the foods you eat.
 - Your problems will tend to either be **adaptive** or **technical**. Adaptive problems require experimentation, novel strategies, or new ways of thinking and being; they're problems containing "unknown unknowns" and are often opaque in addition to being difficult. Technical problems may be equally difficult, but their difficulty lies in execution. Technical problems are those where the path to the solution is known or knowable and does not need to be discovered.

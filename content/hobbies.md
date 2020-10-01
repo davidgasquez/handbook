@@ -21,6 +21,7 @@ Dungeons & Dragons is a cooperative storytelling game that harnesses your imagin
 - [Synthesia](https://synthesiagame.com/) - A fun way to learn how to play the piano.
 - [How to Play Piano](https://www.youtube.com/watch?v=gnMDpBQ_bDQ&app=desktop) - Learn Pop Songs on the Piano in 5 Minutes.
 - [Getting Started with Music Theory](https://www.reddit.com/r/musictheory/wiki/faq/core/new_to_music_theory). More [lessons](https://www.musictheory.net/lessons) and a [great tool](https://play.google.com/store/apps/details?id=com.evilduck.musiciankit&hl=en). If you're in a hurry, check [How Music Works](https://www.lightnote.co/).
+  - In the academic side, [Intro Theory by Dmiti Tymoczko](https://dmitri.mycpanel.princeton.edu/teaching.html). His course works on a much more fundamental level than any other music theory course.
 - Youtube Channels:
   - [Bill Hilton](https://www.youtube.com/user/billhiltonbiz)
   - [Nahre Sol](https://www.youtube.com/channel/UC8R8FRt1KcPiR-rtAflXmeg)

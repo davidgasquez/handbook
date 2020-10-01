@@ -4,6 +4,8 @@
 
 Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, discussion, education, and many more. Communication is a skill that is learnable.
 
+**The person who tells the most compelling story wins**. Not the best idea. Just the story that catches people's attention and gets them to nod their heads. Tell people what they want to hear and you can be wrong indefinitely without penalty.
+
 You become an average of the people you spend the most time with. Choose wisely!
 
 ## Feedback
