@@ -12,6 +12,7 @@
 - [Learn iterating over the process](https://twitter.com/naval/status/1052856864965152769).
 - Everything is always subject to change \(including this handbook\).
 - Learn to ask better questions. Distill what you know to figure out what part you're missing or which link is missing.
+- People learn when they're surprised.
 - There are two modes of thinking:
   - Focused: When you're actively trying to learn something.
   - Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks \(playing, sleeping, doing exercise, ...\).
