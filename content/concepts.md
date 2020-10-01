@@ -91,10 +91,12 @@ The **Pareto principle or the 80/20 rule states that eighty percent of the resul
 ## Incentives
 
 Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
+Behavior is hard to fix. When people say they've learned their lesson they underestimate how much of their previous mistake was caused by emotions that will return when faced with the same circumstances unless incentives have changed.
 
 _"Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior"._ Dee Hock.
 
 To reach a goal, reduce friction or increase incentives/rewards.
+
 
 ## Resources
 
