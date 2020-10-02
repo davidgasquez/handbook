@@ -37,6 +37,11 @@ How you live affects how long you live. Most people could do better. Your health
 - Stick to a consistent routine.
 - If possible, don't use an alarm.
 
+## Mental
+
+- When it comes to [mental health](https://jjbeshara.com/2020/06/04/mental-wealth/), our society approaches it like we did with physical health 50 years ago. We only think about it when something goes wrong.
+- We benefit from approaching mental health like we invest in anything else in our lives (finances, relationships, careers, physical health, etc), where one builds wealth in this area by continuous, conscious investment.
+
 ## Nutrition
 
 - When you have the best and tastiest ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.
