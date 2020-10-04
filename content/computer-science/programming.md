@@ -105,6 +105,7 @@ Like any other field, the world of Software Development has some interesting and
   1. Document the steps. Following a step-by-step guide is automation: you are the CPU.
   1. Create automation equivalents. Add command-line snippets to replace steps.
   1. Create automation. Create a script that runs everything.
+- Drive standards through automation and building internal tools/scripts rather than through extensive documentation.
 - Makefiles are a great way to document and consolidate different projects of a team. Each project should have a `make` that runs it, and perhaps a `make deploy` to deploy it. Language and tool independent!
 
 ## Databases

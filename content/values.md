@@ -10,7 +10,7 @@ Values are what you stand for in life — they are often things that you are for
   - Test your assumptions/beliefs as many times as possible. A great way to do that is to bet on future outcomes.
   - Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
 - Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your idea doesn't work out, the community will have learned better why that approach doesn't make sense.
-- Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it.
+- Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. Mistakes are the portals of discovery.
 - Practice [rational](rationality.md) thinking.
   - Absolute truth is relative to everyone and you don't know everything.
   - Stress test your ideas with experiments and facts. Everything you know or do could be wrong.
@@ -46,6 +46,7 @@ Values are what you stand for in life — they are often things that you are for
 - Don't judge. Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Our internal state shapes how we experience the external state. You never know the whole story. Everything is connected. Humans are messy and life is messy. Yet we try to fit everything into human made buckets. Losing most of the nuance in the process.
 - Recognize that tradeoffs happen everywhere. We trade time against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.
 - Appreciate what you have. Showing gratitude for the good things you have is the most powerful happiness boosting activity there is.
+- Do not change because of what others or society want, change because of what you want. It's easy to get carried by the environment and start doing things you don't want to do.
 
 ## Openness
 

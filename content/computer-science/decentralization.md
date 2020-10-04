@@ -15,8 +15,11 @@
 - [Fat Protocols](https://www.usv.com/writing/2016/08/fat-protocols/).
   - On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are necessary but not valuable. Value is captured by the apps.
   - Fat protocols will use tools like blockchain to store the data. With open protocols and decentralized data, apps are only the frontend of the services.
-- [Protocol and Open Source Funding](https://youtu.be/few99D5WnRg?list=WL).
-  - Open Source projects could have a protocol and incentive the economy. You could buy shares of Kubernetes, Tensorflow, ... or contribute to gain tokens. This incentives contributing and helping people.
+- [Protocol and Open Source Funding](https://youtu.be/few99D5WnRg?list=WL). It'll add to the current ways to to fund open source projects:
+  - Consulting: open source the code, sell consulting.
+  - Cloud: open source some code, but sell a closed source cloud complement.
+  - [Community](https://mobile.twitter.com/balajis/status/1310101055816921090): open source all code, and issue a token or charge for access to the community.
+    - Open Source projects would have a protocol. You could buy shares of Kubernetes, Tensorflow, ... or contribute to gain tokens. This incentives contributing and helping people.
 - Governance.
 - Blockchains is useful when these conditions are met:
   - The resource is scarce (limited).
@@ -45,3 +48,7 @@
 - This gives users more choices for applications, policies, and community cultures. Email is an example of a federated protocol that everyone on the internet uses. Gmail is a popular email application, but if you use a different provider you can still communicate with anyone with an email address.
 - Federated networks provide a familiar user experience, since users do not have to bear full responsibility for their account credentials, and can interact with content the way they're used to.
 - On the downside, a federated protocol might be slow to adapt while a centralized service is able to iterate into the modern world and beyond. WhatsApp was able to introduce end-to-end encryption to over a billion users with a single software update (email is still not end-to-end encrypted). Federated services always seem to coalesce around a provider (or instance) that the bulk of people use, federation becomes a sort of implicit threat. [An open source infrastructure for a centralized network now provides almost the same level of control as federated protocols, without giving up the ability to adapt. If a centralized provider with an open source infrastructure ever makes horrible changes, those that disagree have the software they need to run their own alternative instead. It may not be as beautiful as federation, but at this point it seems that it will have to do.](https://signal.org/blog/the-ecosystem-is-moving/)
+- It has also [many potentials](https://drewdevault.com/2020/09/20/The-potential-of-federation.html). Because there are hundreds or even thousands of instances, the users get the privilege of choosing an instance whose rules they like, and which federates with other instances they wish to talk to. This system also makes it hard for marketing and spam to get a foothold — it optimizes for a self-governing system of human beings talking to human beings, and not for corporations to push their products.
+- The governance of a federated system then becomes distributed among many operators. Every instance has the following privileges:
+  - To set the rules which govern users of their instance.
+  - To set the rules which govern who they federate with.

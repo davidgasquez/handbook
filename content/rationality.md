@@ -38,6 +38,7 @@
   - Allocating — How much attention, time, and capital should you spend on this?
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
 - Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy.
+- [The fog of the future hides vital information](https://youtu.be/SVmEXdGqO-s).
 - If all options are similar take the harder one in the short term \(_Hard decisions easy life, easy decisions, hard life_\).
 - Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/environmental changes.
 - The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
@@ -51,11 +52,11 @@
   - Well defined goal vs. blurred objective. Planning all the details or trying to be as flexible as possible.
 - How to make smart decisions once you have the data (DECIDE framework):
   1. Define the problem. Understand the problem at hand.
-  1. Establish the criteria. List all the factors you want to consider before making a decision.
-  1. Consider the alternatives. Do enough research to have a few solid alternatives.
-  1. Identify the best alternative. See which alternative makes most sense based on your criteria.
-  1. Develop and implement a plan of action. Act on that decision.
-  1. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get.
+  2. Establish the criteria. List all the factors you want to consider before making a decision.
+  3. Consider the alternatives. Do enough research to have a few solid alternatives.
+  4. Identify the best alternative. See which alternative makes most sense based on your criteria.
+  5. Develop and implement a plan of action. Act on that decision.
+  6. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get.
 - Cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else;
 
 ## Problem Solving
@@ -73,11 +74,22 @@
 - [Problem solving can be understood as a search problem](https://rs.io/the-science-of-problem-solving/). You start in some state, there's a set of neighbor states you can move to, and a final state that you would like to end up in.
 - Taking breaks during working on a problem solving is called incubation. Incubation enhances problem solving ability.
 - To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others.
-- Grossman's Law: Complex problems have simple, easy to understand wrong answers.
+- Grossman's Law: Complex problems have simple, easy to understand wrong answers. Simple explanations are appealing even when they're wrong.
 - Aim for a Minimum Viable Solution. **Start small and iterate**. Fail early and learn from it. That allows you to explore, then exploit.
 - When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away ([Via Negativa](https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/)). For example, the foods you avoid are more important than the foods you eat.
 - Your problems will tend to either be **adaptive** or **technical**. Adaptive problems require experimentation, novel strategies, or new ways of thinking and being; they're problems containing "unknown unknowns" and are often opaque in addition to being difficult. Technical problems may be equally difficult, but their difficulty lies in execution. Technical problems are those where the path to the solution is known or knowable and does not need to be discovered.
 - [There's a kind of thinking you do without trying to](http://www.paulgraham.com/top.html). This type of thinking is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly. Try to get yourself into situations where the most urgent problems are ones you want to think about.
+- If a problem has no solution, it may not be a problem, but a fact - not to be solved, but to be coped with over time.
+
+## Asking Questions
+
+- [Ask swart questions](http://www.catb.org/esr/faqs/smart-questions.html):
+  1. Do your own research first.
+  2. Include things you have tried and thought of before asking the question.
+  3. Be explicit about what you want to achieve in the end and provide as much up-front information as possible to help.
+  4. Respect other people's time. Follow up after you get an answer.
+- [When asking for help, let the people know what the problem you are trying to solve actually is instead of simply saying your solution and the reader guessing what it is you are actually trying to do](http://xyproblem.info/).
+- [Think about the question like a child](https://www.aaronkharris.com/asking-questions).
 
 ## Resources
 
@@ -88,3 +100,4 @@
 - [Guesstimate](https://www.getguesstimate.com/) - A spreadsheet for things
 that aren't certain.
 - [Rationality skill tree](https://www.lesswrong.com/posts/wccxMtZdEvHzLRNTZ/a-practice-of-rationality-sequence?commentId=BFaNYCKd3oQqQoZpH).
+- [Center For Applied Rationality Handbook](https://www.rationality.org/files/cfar-handbook.pdf)

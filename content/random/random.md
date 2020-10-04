@@ -55,6 +55,13 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Most of our newsfeeds are insular networks made up of people who get their info from the same filter bubble we do.
 - Social media provides an unfortunate filter: it dumbs down complex information. [Ideas don't pass perfectly from one person to another. Like a game of Telephone, the message gets mutated with each re-telling so, over time, ideas "evolve" to be more catchy, copy-able, contagious.](https://ncase.me/crowds/) The fittest ideas doesn't need to be true.
 - Your information diet is nearly as important as your food diet. We are what we consume. By excesses to which our hardwired biology and natural tendencies have led us over billions of years of evolution. Today's excess of easy-to-access information will have a drastic an effect on health in the 21st century similar to what excess food had in the 20th century. Unhealthy food costs something financially. Consuming seven hours of pointless information is a lot easier and cheaper than eating thirty Twinkies.
+- Dopamine hits you get from social media affect your behavior. If you don't pay for the product, you (changes in your conduct) are the product.
+- Under pressure to prioritize engagement and growth, technology platforms have created a race for human attention that unleashed [invisible harms to society](https://ledger.humanetech.com/).
+  - Misinformation, conspiracy theories and fake news makes harder understanding our world.
+  - Technology's constant interruptions and precisely-targeted distractions are taking a toll on our ability to think, to focus, to solve problems, and to be present with each other.
+  - Social Media affects on our happiness, our self image, and our mental health.
+  - While social networks claim to connect us, all too often they distract us from connecting with those directly in front of us, leaving many feeling both connected and socially isolated.
+  - Social media platforms are incentivized to amplify the most engaging content, tilting public attention towards polarizing and often misleading content. By selling micro targeting to the highest bidder, they enable manipulative practices that undermine democracies around the world.
 
 ## News
 
@@ -71,6 +78,8 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - [News programs are, with the exception of a few non-profit or publicly funded ones, commercial enterprises designed to turn and maximize profit](https://www.mrmoneymustache.com/2013/10/01/the-low-information-diet/).
   - The profit comes from advertising, and advertising revenue is maximized by pulling the largest audience, holding their attention for the longest possible time, and putting them into the mental state most conducive to purchasing the products of the advertisers (which turns out to be helplessness and vulnerability). This is why the news always starts out with a sensationalist take on a topic of at least plausible national interest, takes a detour into truly horrific and depressing irrelevant tragedies is one that unfortunately crossed my screen when doing research for this article), then ends on an uplifting note with something like a defiant entrepreneur or a caring soup kitchen. An emotional roller-coaster ride every day of the week. They don't explore solutions.
 - [There isn't enough actual news (ie events that are "new") to fill the standard news slot — so the fillers became pundits and commentators interpreting "news" and "potential news" for us](https://jjbeshara.com/2018/11/20/the-information-pathology-2/). Humans are good at finding efficiencies, and potential events far outweigh the number of past events, and potential negative events captivate our attention better than potential positive events, so these news-cycles naturally became dominated by commentators interpreting any number of potential negative events.
+- Progress happens too slowly to notice, setbacks happen too fast to ignore.
+- [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law): 90% of everything is crap.
 
 ## COVID-19
 
@@ -85,6 +94,8 @@ Random thoughts about specific topics. Probably biased based on my experience. A
     - [Wavelength](https://gjeuken.github.io/telewave). [Alternative](https://longwave.web.app/).
     - [Codenames](https://www.horsepaste.com/). [Alternative](http://those.codes/).
     - [Hanabi](https://hanabi.cards/).
+    - [Friends and Games](https://friendsand.games/). A list of hand picked free online games to play during calls with your friends or family.
+    - [Netgames](https://netgames.io/). Social games for your phone.
 
 ## Thought Experiments
 
@@ -118,6 +129,18 @@ A thought experiment is a device with which one performs an intentional, structu
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ). Maker/robotics enthusiast/non-engineer. Have become somewhat of an expert in shitty robots.
 - [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart). Science videos every week!
 
+## Interesting Podcasts
+
+- [Lex Fridman Podcast](https://lexfridman.com/podcast/). Conversations about science, technology, history, philosophy and the nature of intelligence, consciousness, love, and power.
+- [Made You Think](https://madeyouthinkpodcast.com/). Episodes will explore books, essays, podcasts, and anything else that warrants further discussion, teaches something useful, or at the very least, exercises our brain muscles.
+- [Hardcore History](https://www.dancarlin.com/hardcore-history-series/). Explores topics throughout world history.
+- [The Knowledge Project](https://fs.blog/knowledge-project/). Helps you master the best of what other people have already figured out.
+- [The Tim Ferriss Show](https://tim.blog/podcast/). He deconstruct world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use.
+- [Cortex](https://www.relay.fm/cortex). CGP Grey and Myke Hurley get together to discuss their working lives.
+- Spanish.
+  - [Gabinete de Curiosidades](https://www.gabinetepodcast.com/).
+  - [Kaizen](https://www.jaimerodriguezdesantiago.com/).
+
 ## Trip Planning
 
 - Select a theme and make sure everyone is in the same page.
@@ -125,3 +148,14 @@ A thought experiment is a device with which one performs an intentional, structu
 - Ask everyone to make a list of things they would like to see/do.
 - Bring card/board games for long travel days.
 - Ensure you have similar budget expectations. This determines so many things! It's not just about paying equal share.
+
+## Cats
+
+- Get a brush and brush your kitty! It's recommended that short haired cats should be brushed once a week.
+- It's recommended to let your kitty eat as much as it wills, until it reaches adulthood. They need to grow big and strong!
+- Buy a scratching post and other scratching toys to encourage them to scratch the right surfaces. Catnip also helps.
+- Slowly blinking at cats says "I'm comfortable around you" and is a show of contentment and non hostility.
+- Do things at roughly the same time every day, and stick to a schedule. they operate their entire lives off their schedule, and will be more reasonable if you are consistent with doing their stuff.
+- Toys, buy a variety at first to see what your cat likes.
+- Wet food, not dry food since dry food will make their bodies work too hard and put your cat into a constant state of dehydration.
+- Have one of the playing sessions right before the last meal of the day. A good hunt ends with a hefty meal. After a quick grooming session, she'll sleep like an angel, allowing you to do the same.

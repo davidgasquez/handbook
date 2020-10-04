@@ -2,7 +2,7 @@
 
 [We, humans, are basically habit machines](https://twitter.com/JamesClear/status/1059504529111158784). We form habits. We run on those habits all day long. Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time. The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it ([ego depletion](https://en.wikipedia.org/wiki/Ego_depletion)). Habits will keep the frontal cortex free to solve other problems.
 
-They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them [compound](https://www.investopedia.com/terms/c/compoundinterest.asp). Remember, there are [no hacks](http://www.collaborativefund.com/blog/useful-hacks/) in life! Your outcomes are a lagging measure of your habits.
+They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them [compound](https://www.investopedia.com/terms/c/compoundinterest.asp). Remember, there are [no hacks](http://www.collaborativefund.com/blog/useful-hacks/) in life! Your outcomes are a lagging measure of your habits. How we spend your days is how you spend your life.
 
 Helpful steps when building habits:
 
@@ -48,3 +48,13 @@ To better accomplish positive life change, [give yourself a theme](https://youtu
 - Reflection
 - Iteration
 - Attention
+
+## Routine
+
+A way to keep yourself on track with your habits is to have a morning routine.
+
+1. Rules. Remind yourself on the current set of rules, constrains, various addictions, time-draining things. E.g. limit social media, do some stretching, ...
+2. Gratitude. Visualize and meditate on the idea that you might die today.
+3. Long-term goals and short-term goals. Review big goals that you would like to achieve in the next years and the short term goals that lead to them that you can act on.
+4. Visualize the day. Visualize yourself going through the day challenges and wins.
+5. Review your core [values](values.md).

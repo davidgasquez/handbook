@@ -35,3 +35,15 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally. Robert M. Pirsig.
 - Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Richard Feynman.
 - There are no solutions. There are only trade-offs. Thomas Sowell.
+- It's not that life is short, it's that we waste to much of it. Seneca.
+- Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in. Isaac Asimov.
+- Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you'll never be the same again. Steve Jobs.
+- A witty saying proves nothing. Voltaire.
+- This too shall pass. Persian adage.
+- [Show me a man who thinks he's objective and I'll show you a man who's deceiving himself](https://www.collaborativefund.com/blog/a-few-rules/). Henry Luce.
+- The real problem of humanity is the following: we have Paleolithic emotions, medieval institutions, and god-like technology. Edward O. Wilson.
+
+## External Lists
+
+- [Nikita Voloboev's favorites quotes](https://nikitavoloboev.xyz/likes/#quotes).
+- [Ask HN: What is your favorite motto? (2020)](https://news.ycombinator.com/item?id=24436135)

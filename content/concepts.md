@@ -38,7 +38,7 @@ You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments]
 Properties to look for in Processes:
 
 - Algorithmic. So you don't need to think about choices. This reduces mental overhead and anxiety (The Paradox of Choice).
-  - A way to reduce choices i self binding (like Ulyses did). Limiting our actions in the future will reduce the choices we'll need to do.
+  - A way to reduce choices is self binding (like Ulyses did). Limiting our actions in the future will reduce the choices we'll need to do.
 - Flexible. Make if fluid enough to keep up with changes.
 - Low Friction. Simple processes are easier to understand and apply.
 - Short Feedback Loop. Show the results as soon as you can.
@@ -60,6 +60,9 @@ Properties to look for in Systems:
     - An easy initial learning curve but infinite potential (e.g. Minecraft).
     - Involves multiple agents. It has network effects.
 - Responsiveness. Know what the system is doing and make the feedback loop fast.
+- Some systems might benefit of being distributed
+- Bad Incentive design can lead to the [tragedy of the commons](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
+  - [Loopholes will be abused](https://www.youtube.com/watch?v=dDYFiq1l5Dg) if the system can't change quickly enough to fix itself.
 
 To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. A good approach (similar to natural selection) is to:
 
@@ -88,6 +91,7 @@ The **Pareto principle or the 80/20 rule states that eighty percent of the resul
 ## Incentives
 
 Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
+Behavior is hard to fix. When people say they've learned their lesson they underestimate how much of their previous mistake was caused by emotions that will return when faced with the same circumstances unless incentives have changed.
 
 _"Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior"._ Dee Hock.
 

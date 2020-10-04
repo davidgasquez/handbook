@@ -4,50 +4,9 @@
 
 Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, discussion, education, and many more. Communication is a skill that is learnable.
 
+**The person who tells the most compelling story wins**. Not the best idea. Just the story that catches people's attention and gets them to nod their heads. Tell people what they want to hear and you can be wrong indefinitely without penalty.
+
 You become an average of the people you spend the most time with. Choose wisely!
-
-## Talking
-
-- Smile and look at the eyes.
-- Remove filler words.
-- Speak with sincerity and passion.
-- Speak slow and naturally.
-- Learn to **listen**.
-  - Become interested in other people. Encourage others to talk about themselves. The more you are interested in others, the more interesting they find you. To be interesting, be interested.
-  - Being able to listen well is a superpower. Listening is difficult because it involves suppressing your ego long enough to consider what is being said before you respond.
-  - Forget your agenda. Don't have internal monologue.
-  - Avoid trying to respond immediately and allow the other person time to finish speaking.
-  - Don't answer your phone while speaking with someone in real life. If the real life conversation starts, has precedence over the asynchronous ones.
-  - While listening to someone sharing a problem keep asking them "Is there more?", until there is no more.
-  - Connect with people, don't perform for them.
-- Aim to make liberal use of the _you_ pronoun.
-- No matter how correct you are, you won't get anywhere by making the other person feel stupid. Not being annoying is more important than being smart. Aim to make friends. [Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/).
-- Ask for help instead of demanding it.
-- Favor interrogative-led questions over leading questions. A leading question attempts to get the listener to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. "Did you like the movie?" vs "What did you think about the movie?".
-
-## Writing
-
-- Try to use the active voice whenever possible.
-- Keep in mind your style:
-  - **Be concise**. Understand the topic you're writing about. Use simple words and sentences. Put the most important things first.
-  - **Be Useful**. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
-  - **Be specific**. Avoid vague language. Cut the fluff. Delete unnecessary words. Say what you mean.
-  - **Be consistent**.
-  - **Add rhythm**. Vary the sentence length to break the monotony.
-- [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro) The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are.
-- Have solid schemas. List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion:
-  - Define a clear thesis.
-  - Support your thesis with arguments.
-  - Declare and reject the antithesis.
-  - Conclusions.
-- Human beings are wired to respond to storytelling. A story arc is a way to structure ideas to tap into this response, typically by describing a change in the world.
-- Use positive language rather than negative language.
-- Write in a conversational tone.
-- Use second-person and describe actions to a user. Technical content talks to users when support agents can't.
-- Divide things into small chunks.
-- If you have multiple points in a text, number them to make replies easier.
-- Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601). Separate the processes of creation from improving. You can't write and edit.
-- You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
 
 ## Feedback
 

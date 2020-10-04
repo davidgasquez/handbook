@@ -17,6 +17,7 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 - Success can be measured in the percentage of time you have under your control.
 - Work expands to fill the time available. If you have six months to complete a task, it will take six months to complete. That's [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law).
 - When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter.
+- Routines speed up your life. Time will blow by quicker if you are covered in meaningless routines. What is worse, your days will become blurred - each day - too similar to the next - for you brain to hold on to distinct memories. On the other hand, routines also help to reduce decision fatigue so that you have room for more important decisions. Make sure the routines you have are the ones you need.
 
 ## Productivity
 
@@ -37,3 +38,8 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 
 - Today's savings buy tomorrow's liberty. Think long term.
 - Saving money and investing money are both good habits. Small amounts of money invested regularly for many decades without deliberation is one path to wealth.
+- Before you get into investing, get into [budgeting](https://www.reddit.com/r/ynab/comments/8d4ab4/what_is_the_best_approach_for_budgeting_savings/).
+
+### Resources
+
+- [Bogleheads](https://www.bogleheads.org/wiki/Getting_started).
