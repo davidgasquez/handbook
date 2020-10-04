@@ -60,8 +60,6 @@ Properties to look for in Systems:
     - An easy initial learning curve but infinite potential (e.g. Minecraft).
     - Involves multiple agents. It has network effects.
 - Responsiveness. Know what the system is doing and make the feedback loop fast.
-- Some systems might benefit of being distributed
-- Bad Incentive design can lead to the [tragedy of the commons](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
 
 To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. A good approach (similar to natural selection) is to:
 
