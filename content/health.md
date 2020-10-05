@@ -41,6 +41,7 @@ How you live affects how long you live. Most people could do better. Your health
 
 - When it comes to [mental health](https://jjbeshara.com/2020/06/04/mental-wealth/), our society approaches it like we did with physical health 50 years ago. We only think about it when something goes wrong.
 - We benefit from approaching mental health like we invest in anything else in our lives (finances, relationships, careers, physical health, etc), where one builds wealth in this area by continuous, conscious investment.
+- Be grateful for all the people and things you have. Accept you're not in full control of your destiny. [Success is luck dependant](https://youtu.be/3LopI4YeC4I).
 
 ## Nutrition
 
@@ -48,6 +49,14 @@ How you live affects how long you live. Most people could do better. Your health
 - Experiment! The worst that could happen is that you don't like it. Cooking has a short feedback loop. Take risks and you'll get the payoffs. Learn from your mistakes until you succeed.
 - [Fasting can be useful in some situations](https://www.reddit.com/r/productivity/comments/6demoi/why_you_should_try_intermittent_fasting_mood/).
 - [Eat like an adult](https://thefitness.wiki/improving-your-diet/).
+
+### Supplements
+
+- [Fish Oil](https://examine.com/supplements/fish-oil/)
+- Vitamin D
+- B12
+- [Creatine](https://examine.com/supplements/creatine/)
+- [Caffeine](https://examine.com/supplements/caffeine/)
 
 ### Resources
 
