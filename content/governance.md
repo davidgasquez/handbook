@@ -6,6 +6,7 @@
 - Think of it as a complex system. Everything is related and has unexpected consequences. Don't misattribute systemic failures to scapegoats.
 - Don't attach to any movement so it doesn't become part of your identity. Arguments are soldiers. Once you attach to one side, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side.
 - Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on pre-cached ideology. It's just better to discuss issues without invoking teams.
+  - Issues are rarely binary. The political parties make it seem so to make it work with their political interests. When you spot a binary question, think if its really a binary one or could be much more nuanced.
 - Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government).
 - If you think politics is annoying, then it's because you're privileged enough for it to not matter.
 - Don't forget two things: your perception of reality has probably been at least a little manipulated, and your opponents are behaving the way they are based on a perception of reality that's different from your own.
