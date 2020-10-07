@@ -14,7 +14,11 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 - If a task takes less than [two minutes](https://jamesclear.com/how-to-stop-procrastinating), do it. It'll make you more productive and also unclutter your mind task's backlog.
 - Do the tasks in the right order! One strategy might be starting with the one that could make the others irrelevant or easier.
 - Doing one thing requires giving up another. Whenever you explicitly choose to do one thing, you implicitly choose not to do another thing.
-- Success can be measured in the percentage of time you have under your control.
+- Success can be measured in the percentage of time you have under your control. [To achieve success](https://blog.samaltman.com/how-to-be-successful):
+  - Compound yourself. Compounding is magic. Keep long-term thinking with a broad view of how different systems in the world are going to come together.
+  - Learn to think independently.
+  - Make it easy to take risks. Most people overestimate risk and underestimate reward. It's often easier to take risks early in your career; you don't have much to lose, and you potentially have a lot to gain.
+  - Build a network. Help people as much as you can.
 - Work expands to fill the time available. If you have six months to complete a task, it will take six months to complete. That's [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law).
 - When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter.
 - Routines speed up your life. Time will blow by quicker if you are covered in meaningless routines. What is worse, your days will become blurred - each day - too similar to the next - for you brain to hold on to distinct memories. On the other hand, routines also help to reduce decision fatigue so that you have room for more important decisions. Make sure the routines you have are the ones you need.
@@ -32,7 +36,7 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 
 ## Focus
 
-- Disable notifications and badges so that you don’t mindlessly open distracting apps.
+- Disable notifications and badges so that you don't mindlessly open distracting apps.
 
 ## Investing
 
