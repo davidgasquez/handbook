@@ -4,6 +4,7 @@
 
 - To debate politics as in any other field, first gather information and then decide. [Think like a scientist](https://waitbutwhy.com/2019/09/thinking-ladder.html).
 - Think of it as a complex system. Everything is related and has unexpected consequences. Don't misattribute systemic failures to scapegoats.
+  - If everyone hates the current system, who perpetuates it? Probably [incentives](concepts.md#systems).
 - Don't attach to any movement so it doesn't become part of your identity. Arguments are soldiers. Once you attach to one side, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side.
 - Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on pre-cached ideology. It's just better to discuss issues without invoking teams.
   - Issues are rarely binary. The political parties make it seem so to make it work with their political interests. When you spot a binary question, think if its really a binary one or could be much more nuanced.

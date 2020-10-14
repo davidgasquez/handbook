@@ -1,6 +1,6 @@
 # Health
 
-How you live affects how long you live. Most people could do better. Your health also impact your loved ones. Don't [maximize misery](https://www.youtube.com/watch?v=LO1mTELoj6o).
+How you live affects how long you live. Most people could do better. Your health also impact your loved ones. Don't [maximize misery](https://www.youtube.com/watch?v=LO1mTELoj6o). Our bodies and minds are built to live in a tribe in 50,000BC, which leaves modern humans with a number of unfortunate traits (fixation with tribal-style social survival, attracted to energy dense food, ...).
 
 ## Fitness
 
