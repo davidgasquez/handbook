@@ -25,11 +25,19 @@
   - The give into the Technical side.
 - When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new mental model.
 - Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.
-- Use spaced repetition. Make cards that are [atomic, connected and meaningful](https://ncase.me/remember/).
+- Use [spaced repetition](##spaced-repetition).
 - [Test your knowledge easily and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL). It's the number of iterations, not the number of hours, that drives learning. Shorten the feedback loops.
 - Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
 - One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad habits right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.
 - For some subjects, [there’s no speed limit](https://sive.rs/kimo). If you’re more driven than most people, you can do way more than anyone expects.
+
+## Spaced Repetition
+
+- Make cards that are [atomic, connected and meaningful](https://ncase.me/remember/).
+- Use one big deck.
+- [What makes Spaced Repetition better than conventional flashcards is that it manages the review schedule. If you can answer a question correctly, the time interval between reviews gradually expands](http://augmentingcognition.com/ltm.html).
+- Make cards following the [20 rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules).
+- If memorizing something will likely save you five minutes in the future, add it to your preferred Spaded Repetition Software.
 
 ## [Capture, Organize, Synthesize](http://gordonbrander.com/pattern/capture-organize-synthesize/)
 
