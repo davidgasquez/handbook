@@ -4,7 +4,7 @@
 
 Dungeons & Dragons is a cooperative storytelling game that harnesses your imagination and invites you to explore a fantastic world of adventure, where heroes battle monsters, find treasures, and overcome epic quests.
 
-- [Dungeons & Dragons 5th Edition wiki](http://dnd5e.wikidot.com/)
+- [Dungeons & Dragons 5th Edition Wiki](http://dnd5e.wikidot.com/)
 - [Dungeons & Dragons Beyond Essentials](https://www.dndbeyond.com/essentials)
 - [Token Stamp Creator](tokenstamp)
 - [Astral](https://www.astraltabletop.com/) - The easiest way to play tabletop roleplaying games online, free.

@@ -7,13 +7,12 @@ Values are what you stand for in life — they are often things that you are for
 - Never stop [learning](learning.md).
   - Read about topics you care, observe the world around you and keep a beginner's mind (*shoshin*).
   - Don't be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
-  - Test your assumptions/beliefs as many times as possible. A great way to do that is to bet on future outcomes.
   - Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
 - Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your idea doesn't work out, the community will have learned better why that approach doesn't make sense.
 - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. Mistakes are the portals of discovery.
 - Practice [rational](rationality.md) thinking.
   - Absolute truth is relative to everyone and you don't know everything.
-  - Stress test your ideas with experiments and facts. Everything you know or do could be wrong.
+  - Stress test your ideas with experiments and facts. Test your assumptions/beliefs as many times as possible. A great way to do that is to bet on future outcomes. Anything you know or do could be wrong.
   - We do not know what we don't know. Gather as much context as you can before making any final statement.
   - Research before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
   - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
@@ -22,7 +21,6 @@ Values are what you stand for in life — they are often things that you are for
   - Digitizing an analog view will result in some loss of information. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros.
 - Mental models and [other concepts](concepts.md) can help us think more effectively.
 - Remix ideas. Ideas are impacted by evolution. The most useful ones survive and evolve. [Innovation is product of the combinations of ideas](https://youtu.be/XUAIIQFoufs?list=WL).
-- Live Smarter not Harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md). Accomplish more with less.
 - Knowing more about the world makes you enjoy it more. [Understanding how music is made increases the pleasure you get from music](https://youtu.be/JbVfcZxfIZo?list=WL).
   - [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail). Surprising detail is a near universal property of getting up close and personal with reality. You experience lots of these details the first time you do something new!
 - [If you think you’re going to regret not doing something, you should probably do it](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short). Regret is the worst, and most people regret far more things they didn’t do than things they did do.
@@ -30,11 +28,12 @@ Values are what you stand for in life — they are often things that you are for
 ## Mindfulness
 
 - Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful about it and practice [mindfulness](https://youtu.be/hQo-CQzoW24). You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment. [Life is short](http://paulgraham.com/vb.html).
-- Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your time. Happiness is a choice.
+- Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your time.
 - Be aware of your internal state. Making this more visible makes a better feedback loop.
 - One task at a time. No distractions.
-- KISS. When [communicating](communications.md), do it in a clear and concise way. When [facing a problem](rationality.md#problem-solving), prefer a **lean** approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions. What would this look like if it was simple?
+- KISS. When [communicating](communications.md), do it in a clear and concise way. When [facing a problem](rationality.md#problem-solving), prefer a lean approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions. What would this look like if it was simple?
 - Remove friction. Focus on essentials.
+- Live Smarter not Harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md). Accomplish more with less.
 - Keep Calm. Own and deal with your emotions. [Focus on what you can control](health.md#stoicism).
   - Think, understand, and listen before [communicating](communications.md).
   - Try to plan the possible outcomes and don't rush.
