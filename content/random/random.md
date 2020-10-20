@@ -64,6 +64,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
   - While social networks claim to connect us, all too often they distract us from connecting with those directly in front of us, leaving many feeling both connected and socially isolated.
   - Social media platforms are incentivized to amplify the most engaging content, tilting public attention towards polarizing and often misleading content. By selling micro targeting to the highest bidder, they enable manipulative practices that undermine democracies around the world.
 - Any alternative social media company that grows to a sufficient size will have to embrace the evil tactics used by Facebook and Twitter in order to remain competitive in the market. It's all about profit for these companies, not about a better society.
+- You compare yourself with the best possible version of everyone else curated in their feeds.
 
 ## News
 
