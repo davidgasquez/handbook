@@ -80,6 +80,7 @@
 - Your problems will tend to either be **adaptive** or **technical**. Adaptive problems require experimentation, novel strategies, or new ways of thinking and being; they're problems containing "unknown unknowns" and are often opaque in addition to being difficult. Technical problems may be equally difficult, but their difficulty lies in execution. Technical problems are those where the path to the solution is known or knowable and does not need to be discovered.
 - [There's a kind of thinking you do without trying to](http://www.paulgraham.com/top.html). This type of thinking is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly. Try to get yourself into situations where the most urgent problems are ones you want to think about.
 - If a problem has no solution, it may not be a problem, but a fact - not to be solved, but to be coped with over time.
+- Sometimes you can find the solution easier if you think about how not to solve the problem ([Inversion Principle](https://www.mymentalmodels.info/mms-inversion/)).
 
 ## Asking Questions
 
