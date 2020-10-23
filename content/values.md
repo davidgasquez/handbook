@@ -52,7 +52,7 @@ Values are what you stand for in life — they are often things that you are for
 
 ## Openness
 
-- Embrace Weirdness. Don't be another human. Find your place, do what you love and put yourself outside the comfort zone. Unexpected and unconventional things make life more interesting.
+- Embrace Weirdness. Don't be another human. Find your place, do what you love and put yourself outside the comfort zone. Unexpected and unconventional things make life more interesting. [If you fit in you disappear](https://twitter.com/tobi/status/1319017087948435458).
 - Embrace change. Don't complain about things you can't change. Be proactive.
 - Celebrate and encourage quirky gifts, [habits](habits.md), behavior, and points of view. No one can compete with you on being you.
 - Share your decisions and ideas so flaws arise earlier in the process.
