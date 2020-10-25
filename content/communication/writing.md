@@ -4,7 +4,7 @@
 - Keep in mind your style:
   - **Be concise**. Understand the topic you're writing about. Use simple words and sentences. Put the most important things first. Never use a long word when a short one will do.
   - **Be Useful**. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
-  - **Be specific**. Avoid vague language. Cut the fluff. Delete unnecessary words. Say what you mean.
+  - **Be specific**. Avoid vague language (remove qualifiers). Cut the fluff. Delete unnecessary words. Say what you mean. Make positive statements about reality.
   - **Be consistent**.
   - **Add rhythm**. Vary the sentence length to break the monotony.
 - [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro) The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are.
