@@ -305,7 +305,7 @@
 <li>More than one goal that can be achieved in more than one way.</li>
 <li>Alphabet: An alphabet is a kit of parts, together with rules for combining them (e.g Lego).</li>
 <li>An easy initial learning curve but infinite potential (e.g. Minecraft).</li>
-<li>Involves multiple agents. It has network effects.</li>
+<li>Involves multiple agents. It has <a href="https://www.meltingasphalt.com/interactive/going-critical/">network effects</a>.</li>
 </ul>
 </li>
 </ul>
@@ -330,9 +330,10 @@
 <p>Antifragility is a property of systems that increase in capability, resilience, or robustness as a result of stressors, shocks, volatility, noise, mistakes, faults, attacks, or failures.</p>
 <p>It's fundamentally different from the concepts of resiliency (ability to recover from failure) and robustness (ability to resist failure).</p>
 <p>Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same. The antifragile gets better.</p>
-<h3><a class="header" href="#pareto-principle" id="pareto-principle">Pareto Principle</a></h3>
+<h3><a class="header" href="#a-hrefhttpbillyshallcomblogparetos-principlepareto-principlea" id="a-hrefhttpbillyshallcomblogparetos-principlepareto-principlea"><a href="http://billyshall.com/blog/paretos-principle">Pareto Principle</a></a></h3>
 <p>There is a cost to pursuing any strategy, whether it’s in time, money, effort, resources, etc. Most strategies have diminishing returns, meaning that, as you keep at them, you get less and less out of an additional marginal bit of effort.</p>
 <p>The <strong>Pareto principle or the 80/20 rule states that eighty percent of the results come from twenty percent of the effort</strong>.  Early gains tend to be the largest and most of strategies eventually stops being worthwhile.</p>
+<p>Today, Pareto's Principle can also be observed in our daily lives, we only need to take a glance around to observe it in action. Once we can identify the occurrence, we can focus more of our energy on tasks that produce the most results.</p>
 <h2><a class="header" href="#incentives" id="incentives">Incentives</a></h2>
 <p>Incentives matter. Everything around you is driven by incentives. There are rarely true &quot;irrational&quot; decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
 Behavior is hard to fix. When people say they've learned their lesson they underestimate how much of their previous mistake was caused by emotions that will return when faced with the same circumstances unless incentives have changed.</p>
@@ -875,7 +876,7 @@ that aren't certain.</li>
 <li>If everyone hates the current system, who perpetuates it? Probably <a href="concepts.html#systems">incentives</a>.</li>
 </ul>
 </li>
-<li>Don't attach to any movement so it doesn't become part of your identity. Arguments are soldiers. Once you attach to one side, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side.</li>
+<li>Don't attach to any movement so it doesn't become part of your identity. <a href="https://www.lesswrong.com/posts/9weLK2AJ9JEt2Tt8f/politics-is-the-mind-killer">Arguments are soldiers</a>. Once you attach to one side, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side.</li>
 <li>Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on pre-cached ideology. It's just better to discuss issues without invoking teams.
 <ul>
 <li>Issues are rarely binary. The political parties make it seem so to make it work with their political interests. When you spot a binary question, think if its really a binary one or could be much more nuanced.</li>
@@ -1047,7 +1048,7 @@ Keep the conversation simple and summarize the conversation during the discussio
 <ul>
 <li><strong>Be concise</strong>. Understand the topic you're writing about. Use simple words and sentences. Put the most important things first. Never use a long word when a short one will do.</li>
 <li><strong>Be Useful</strong>. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?</li>
-<li><strong>Be specific</strong>. Avoid vague language. Cut the fluff. Delete unnecessary words. Say what you mean.</li>
+<li><strong>Be specific</strong>. Avoid vague language (remove qualifiers). Cut the fluff. Delete unnecessary words. Say what you mean. Make positive statements about reality.</li>
 <li><strong>Be consistent</strong>.</li>
 <li><strong>Add rhythm</strong>. Vary the sentence length to break the monotony.</li>
 </ul>
@@ -1164,6 +1165,7 @@ Implicit rules should always be made explicit and shared with others or automate
 <li><a href="https://github.com/dwmkerr/hacker-laws">Hacker Laws</a></li>
 </ul>
 <h2><a class="header" href="#a-hrefhttpschrisbeamsiopostsgit-commithow-to-write-a-git-commit-messagea" id="a-hrefhttpschrisbeamsiopostsgit-commithow-to-write-a-git-commit-messagea"><a href="https://chris.beams.io/posts/git-commit/">How to Write a Git Commit Message</a></a></h2>
+<p>Version control software enables teams to work in distributed and asynchronous environments, manage changes and versions of code and artifacts, and resolve merge conflicts and related anomalies.</p>
 <ol>
 <li>Separate subject from body with a blank line.</li>
 <li>Limit the subject line to 50 characters.</li>
@@ -1271,8 +1273,15 @@ Implicit rules should always be made explicit and shared with others or automate
 <li>Define metrics. Explain and verify any assumption.</li>
 <li>Make the data tidy.</li>
 <li>Model the data. <a href="https://developers.google.com/machine-learning/guides/rules-of-ml/">Start with the simplest model!</a>. That will be your <a href="https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa">baseline model</a>.</li>
-<li>Make sure everything works end to end. Deploy the model. Add a clear description of the model.</li>
-<li>Make results reproducible (code, environment and data).</li>
+<li>Make sure everything works end to end. Deploy the model. Add a clear description of the model. Monitor models in production.</li>
+<li>Make results reproducible (code, environment and data).
+<ol>
+<li>You need to version your code, and you need to version your data.</li>
+<li>Make your feature dependencies explicit in your code.</li>
+<li>Separate code from configuration.</li>
+<li>Separate code from configuration.</li>
+</ol>
+</li>
 <li>Iterate. Go back to the first point and change one thing at a time. It's really hard to tell in advance what's hard and what's easy. <a href="https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641">Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever.</a></li>
 <li>Explain your results in terms your audience cares about.</li>
 </ol>
@@ -1665,7 +1674,7 @@ Implicit rules should always be made explicit and shared with others or automate
 <li>Internet algorithms are profit-maximizing mechanisms that want to spoon feed you whatever you're most likely to click on. This is a win-win, symbiotic relationship—until it's not. When the algorithm is luring in your primitive mind against you, the relationship is parasitic. <a href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles">The algorithm will learn to show thing that will further confirm and strengthen your existing viewpoints</a>.</li>
 <li>Each app is competing against the other apps. Only the apps that grains your attention continue. Over time, your attention is more and more hacked by these apps. All exist to sell your attention to advertisers. Each one has a team optimizing the attention hacking.
 <ul>
-<li>Social Media apps might be dangerous due to the ammount of dsata they track. <a href="https://www.socialcooling.com/">If you feel you are being watched, you change your behavior</a>. <a href="https://robindoherty.com/2016/01/06/nothing-to-hide.html">Loss of privacy leads to loss of freedom</a>. </li>
+<li>Social Media apps might be dangerous due to the ammount of dsata they track. <a href="https://www.socialcooling.com/">If you feel you are being watched, you change your behavior</a>. <a href="https://robindoherty.com/2016/01/06/nothing-to-hide.html">Loss of privacy leads to loss of freedom</a>.</li>
 </ul>
 </li>
 <li>Most of our newsfeeds are insular networks made up of people who get their info from the same filter bubble we do.</li>
@@ -1712,7 +1721,7 @@ Implicit rules should always be made explicit and shared with others or automate
 </ul>
 </li>
 <li><a href="https://jjbeshara.com/2018/11/20/the-information-pathology-2/">There isn't enough actual news (ie events that are &quot;new&quot;) to fill the standard news slot — so the fillers became pundits and commentators interpreting &quot;news&quot; and &quot;potential news&quot; for us</a>. Humans are good at finding efficiencies, and potential events far outweigh the number of past events, and potential negative events captivate our attention better than potential positive events, so these news-cycles naturally became dominated by commentators interpreting any number of potential negative events.</li>
-<li>Progress happens too slowly to notice, setbacks happen too fast to ignore.</li>
+<li><a href="https://www.collaborativefund.com/blog/lots-of-overnight-tragedies-no-overnight-miracles/">Progress happens too slowly to notice</a>, setbacks happen too fast to ignore.</li>
 <li><a href="https://en.wikipedia.org/wiki/Sturgeon%27s_law">Sturgeon's law</a>: 90% of everything is crap.</li>
 </ul>
 <h2><a class="header" href="#covid-19" id="covid-19">COVID-19</a></h2>

@@ -210,8 +210,15 @@
 <li>Define metrics. Explain and verify any assumption.</li>
 <li>Make the data tidy.</li>
 <li>Model the data. <a href="https://developers.google.com/machine-learning/guides/rules-of-ml/">Start with the simplest model!</a>. That will be your <a href="https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa">baseline model</a>.</li>
-<li>Make sure everything works end to end. Deploy the model. Add a clear description of the model.</li>
-<li>Make results reproducible (code, environment and data).</li>
+<li>Make sure everything works end to end. Deploy the model. Add a clear description of the model. Monitor models in production.</li>
+<li>Make results reproducible (code, environment and data).
+<ol>
+<li>You need to version your code, and you need to version your data.</li>
+<li>Make your feature dependencies explicit in your code.</li>
+<li>Separate code from configuration.</li>
+<li>Separate code from configuration.</li>
+</ol>
+</li>
 <li>Iterate. Go back to the first point and change one thing at a time. It's really hard to tell in advance what's hard and what's easy. <a href="https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641">Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever.</a></li>
 <li>Explain your results in terms your audience cares about.</li>
 </ol>
