@@ -58,7 +58,7 @@ Properties to look for in Systems:
     - More than one goal that can be achieved in more than one way.
     - Alphabet: An alphabet is a kit of parts, together with rules for combining them (e.g Lego).
     - An easy initial learning curve but infinite potential (e.g. Minecraft).
-    - Involves multiple agents. It has network effects.
+    - Involves multiple agents. It has [network effects](https://www.meltingasphalt.com/interactive/going-critical/).
 - Responsiveness. Know what the system is doing and make the feedback loop fast.
 - Some systems might benefit of being distributed.
 - Bad Incentive design can lead to the [tragedy of the commons](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
@@ -82,11 +82,13 @@ It's fundamentally different from the concepts of resiliency (ability to recover
 
 Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same. The antifragile gets better.
 
-### Pareto Principle
+### [Pareto Principle](http://billyshall.com/blog/paretos-principle)
 
 There is a cost to pursuing any strategy, whether it’s in time, money, effort, resources, etc. Most strategies have diminishing returns, meaning that, as you keep at them, you get less and less out of an additional marginal bit of effort.
 
 The **Pareto principle or the 80/20 rule states that eighty percent of the results come from twenty percent of the effort**.  Early gains tend to be the largest and most of strategies eventually stops being worthwhile.
+
+Today, Pareto's Principle can also be observed in our daily lives, we only need to take a glance around to observe it in action. Once we can identify the occurrence, we can focus more of our energy on tasks that produce the most results.
 
 ## Incentives
 

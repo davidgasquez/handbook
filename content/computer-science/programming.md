@@ -78,6 +78,8 @@ Like any other field, the world of Software Development has some interesting and
 
 ## [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
+Version control software enables teams to work in distributed and asynchronous environments, manage changes and versions of code and artifacts, and resolve merge conflicts and related anomalies.
+
 1. Separate subject from body with a blank line.
 1. Limit the subject line to 50 characters.
 1. Capitalize the subject line.
