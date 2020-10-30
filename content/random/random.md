@@ -133,7 +133,7 @@ A thought experiment is a device with which one performs an intentional, structu
 - [Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg). Take a look at interesting countries, policies and decisions from the point of view of an economist.
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ). Maker/robotics enthusiast/non-engineer. Have become somewhat of an expert in shitty robots.
 - [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart). Science videos every week!
-- [This Place](https://www.youtube.com/channel/UCViwi-dXACoy9Pee73NvgJw). Interesting and science and technology videos. 
+- [This Place](https://www.youtube.com/channel/UCViwi-dXACoy9Pee73NvgJw). Interesting and science and technology videos.
 
 ## Interesting Podcasts
 

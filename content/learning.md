@@ -7,14 +7,12 @@
   3. Identify your knowledge gaps. What are you missing?
   4. Organize and Simplify. Tell a story to teach. Analogies help here!
 - Follow the guidelines stated in Coursera's [_Learning How to Learn_ summary](https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/).
-- Write down the process that better worked for you.
-- Keep improving the processes with the learning of failed experiences.
-- [Learn iterating over the process](https://twitter.com/naval/status/1052856864965152769).
-- Everything is always subject to change \(including this handbook\).
-- Learn to ask better questions. Distill what you know to figure out what part you're missing or which link is missing.
+- Write down the process that better worked for you. Keep improving the process with the learning of failed experiences. [Learn iterating over the process](https://twitter.com/naval/status/1052856864965152769).
+- Everything is always subject to change (including this handbook).
+- Learn to [ask better questions](rationality.md##asking-questions). Distill what you know to figure out what part you're missing or which link is missing.
 - People learn when they're surprised.
 - There are two modes of thinking:
-  - Focused: When you're actively trying to learn something.
+  - Focused: When you're actively trying to learn something. One task at a time.
   - Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks \(playing, sleeping, doing exercise, ...\).
 - Reading is a meta-skill. Learn to read and understand so you can trade time reading for some skills.
 - Experience ideas directly. Use the [ADEPT](https://betterexplained.com/articles/adept-method/) method as a checklist for what helps a concept click:
@@ -23,9 +21,9 @@
   - Gather Examples.
   - Come with a Plain-English description of the concept.
   - The give into the Technical side.
-- When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new mental model.
-- Learning to program shapes the mind the same way a new language does. Each learning help modelling the world.
-- Use [spaced repetition](##spaced-repetition).
+- When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [mental model](concepts.md##mental-models).
+- Learning to program shapes the mind the same way learning a new language does. Each new word, concept or expression helps you model the world.
+- Use [spaced repetition](##spaced-repetition) and get some sleep.
 - [Test your knowledge easily and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL). It's the number of iterations, not the number of hours, that drives learning. Shorten the feedback loops.
 - Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
 - One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad habits right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.
