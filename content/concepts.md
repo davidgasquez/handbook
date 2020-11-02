@@ -63,6 +63,7 @@ Properties to look for in Systems:
 - Some systems might benefit of being distributed.
 - Bad Incentive design can lead to the [tragedy of the commons](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
   - [Loopholes will be abused](https://www.youtube.com/watch?v=dDYFiq1l5Dg) if the system can't change quickly enough to fix itself.
+- A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/). Dividing a large systems into multiple smaller ones might be better as they can evolve different ruleset and will allow you to pick the best one.
 
 To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/). A good approach to incrementally chance a system (similar to natural selection) is to:
 

@@ -40,7 +40,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 
 - Most of our everyday actions can be traced back to some form of signaling or status seeking.
   - A classic example of this would be a luxury watch: A Rolex isn't better at telling the time than a cheap Casio – but a Rolex signals something about its owner's economic power and thus their social standing.
-  - When signaling, the more expensive and useless the item is, the more effective it is as a signal. Although eyeglasses are expensive, they’re a poor way to signal wealth because they’re very useful; a person might get them not because ey is very rich but because ey really needs glasses. On the other hand, a large diamond is an excellent signal; no one needs a large diamond, so anybody who gets one anyway must have money to burn.
+  - When signaling, the more expensive and useless the item is, the more effective it is as a signal. Although eyeglasses are expensive, they're a poor way to signal wealth because they're very useful; a person might get them not because ey is very rich but because ey really needs glasses. On the other hand, a large diamond is an excellent signal; no one needs a large diamond, so anybody who gets one anyway must have money to burn.
 - Our brains deliberately hide this fact from us and others (self deception).
 - Signaling can be broken down into different components:
   - Signal Message: This is whatever (hidden) subtext you are trying to convey.
@@ -83,7 +83,8 @@ Random thoughts about specific topics. Probably biased based on my experience. A
   - The profit comes from advertising, and advertising revenue is maximized by pulling the largest audience, holding their attention for the longest possible time, and putting them into the mental state most conducive to purchasing the products of the advertisers (which turns out to be helplessness and vulnerability). This is why the news always starts out with a sensationalist take on a topic of at least plausible national interest, takes a detour into truly horrific and depressing irrelevant tragedies is one that unfortunately crossed my screen when doing research for this article), then ends on an uplifting note with something like a defiant entrepreneur or a caring soup kitchen. An emotional roller-coaster ride every day of the week. They don't explore solutions.
 - [There isn't enough actual news (ie events that are "new") to fill the standard news slot — so the fillers became pundits and commentators interpreting "news" and "potential news" for us](https://jjbeshara.com/2018/11/20/the-information-pathology-2/). Humans are good at finding efficiencies, and potential events far outweigh the number of past events, and potential negative events captivate our attention better than potential positive events, so these news-cycles naturally became dominated by commentators interpreting any number of potential negative events.
 - [Progress happens too slowly to notice](https://www.collaborativefund.com/blog/lots-of-overnight-tragedies-no-overnight-miracles/), setbacks happen too fast to ignore.
-- [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law): 90% of everything is crap.
+- [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law): 90% of everything is crap. News are often "correct" on a basic level, but really more like "yes, but it's complicated" on a deeper level. If you've ever seen a surface-level description of something you know about at a deep level, and you realise how wrong it is, or at least how much nuance it's missing. Realise that it's like that with everything.
+- When we're talking about very unpopular beliefs, polls can only give a weak signal. Any possible source of noise ([Lizardman's Constant](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/)) can easily overwhelm the signal. Beware of [bad designed polls](https://slatestarcodex.com/2020/05/28/bush-did-north-dakota/).
 
 ## COVID-19
 
@@ -150,7 +151,7 @@ A thought experiment is a device with which one performs an intentional, structu
 ## Trip Planning
 
 - Select a theme and make sure everyone is in the same page.
-- Have a flexible schedule. Don’t try to control things too much, it will never go as planned and you’ll end up ruining your own personal experience.
+- Have a flexible schedule. Don't try to control things too much, it will never go as planned and you'll end up ruining your own personal experience.
 - Ask everyone to make a list of things they would like to see/do.
 - Bring card/board games for long travel days.
 - Ensure you have similar budget expectations. This determines so many things! It's not just about paying equal share.
