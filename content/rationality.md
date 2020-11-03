@@ -99,6 +99,7 @@
 - [Kialo](https://www.kialo.com/) - Tool to explore debates.
 - [Arguman](https://arguman.org/) - An argument analysis platform.
 - [Guesstimate](https://www.getguesstimate.com/) - A spreadsheet for things
+- [Metaculus](https://www.metaculus.com/) - Community dedicated to generating accurate predictions about future real-world events by aggregating the collective wisdom, insight, and intelligence of its participants.
 that aren't certain.
 - [Rationality skill tree](https://www.lesswrong.com/posts/wccxMtZdEvHzLRNTZ/a-practice-of-rationality-sequence?commentId=BFaNYCKd3oQqQoZpH).
 - [Center For Applied Rationality Handbook](https://www.rationality.org/files/cfar-handbook.pdf)
