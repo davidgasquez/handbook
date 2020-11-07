@@ -29,27 +29,27 @@ Whether you're compiling code or making breakfast, everything can be modeled as 
 
 > If you can't describe what you are doing as a process, you don't know what you're doing. — W. Edwards Deming
 
-You cannot improve what you cannot measure. You cannot improve what you cannot explain. Write down processes, take measures and then iterate.
+Write down processes, take measures and then iterate. You cannot improve what you cannot measure. You cannot improve what you cannot explain.
 
-As [Tobi Lütke points out in the Farnam Streen podcast](https://fs.blog/tobi-lutke/), _there are three kinds of processes_. There's a kind of process that makes things that were previously impossible to do, possible. That's good. Then there's a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there's everything else \(just telling people to behave slightly different from what common sense tells them to do\).
+[There are three kinds of processes](https://fs.blog/tobi-lutke). There's a kind of process that makes things that were previously impossible to do, possible. That's good. Then there's a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there's everything else. E.g: telling people to behave slightly different from what common sense tells them to do without making any impact.
 
-You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments](https://rs.io/how-to-get-started-with-anything/) and experiences removing barriers or adding tools.
+You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments](https://rs.io/how-to-get-started-with-anything/), removing barriers, or adding tools.
 
-Properties to look for in Processes:
+When designing processes, look for these properties:
 
 - Algorithmic. So you don't need to think about choices. This reduces mental overhead and anxiety (The Paradox of Choice).
   - A way to reduce choices is self binding (like Ulyses did). Limiting our actions in the future will reduce the choices we'll need to do.
-- Flexible. Make if fluid enough to keep up with changes.
+- Flexible. Make if fluid enough to keep up with changes. [Loopholes will be abused](https://www.youtube.com/watch?v=dDYFiq1l5Dg) if the process can't change quickly enough to fix itself.
 - Low Friction. Simple processes are easier to understand and apply.
 - Short Feedback Loop. Show the results as soon as you can.
 
-A process takes an input to produce an output. A bunch of processes can be view as a System.
+A process takes an input to produce an output. A group of processes can be view as a System.
 
 ## Systems
 
 A system is anything with multiple parts that depend on each other. In other words, every machine and activity is a system on some level. Systems achieve goals.
 
-Properties to look for in Systems:
+When designing systems, look for these properties:
 
 - Modular.
   - Loosely coupling. Breaking a chair shouldn't break the dinner!
@@ -61,17 +61,16 @@ Properties to look for in Systems:
     - Involves multiple agents. It has [network effects](https://www.meltingasphalt.com/interactive/going-critical/).
 - Responsiveness. Know what the system is doing and make the feedback loop fast.
 - Some systems might benefit of being distributed.
-- Bad Incentive design can lead to the [tragedy of the commons](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
-  - [Loopholes will be abused](https://www.youtube.com/watch?v=dDYFiq1l5Dg) if the system can't change quickly enough to fix itself.
-- A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/). Dividing a large systems into multiple smaller ones might be better as they can evolve different ruleset and will allow you to pick the best one.
+- Focus on incentives.
 
-To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). Small things can have non-linear impacts on a complex system. [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems also have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/). A good approach to incrementally chance a system (similar to natural selection) is to:
+To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems usually have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/). A good approach to incrementally chance a system (similar to natural selection) is to:
 
   1. Start by identifying the highest-leverage level to optimize at: Ask whether you're optimizing the machine or a cog within it.
   2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes. Alter the incentive landscape.
   3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
 Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
+A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/). Dividing a large systems into multiple smaller competing ones will make them evolve different ruleset and will allow you to pick the best one.
 
 A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
@@ -94,6 +93,7 @@ Today, Pareto's Principle can also be observed in our daily lives, we only need 
 ## Incentives
 
 Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
+
 Behavior is hard to fix. When people say they've learned their lesson they underestimate how much of their previous mistake was caused by emotions that will return when faced with the same circumstances unless incentives have changed.
 
 _"Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior"._ Dee Hock.
