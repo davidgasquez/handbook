@@ -70,7 +70,7 @@ A tool and framework to manage knowledge. This will allow compound learning and 
 - Can be made public.
 - Personal Knowledge bases can be personal [ontologies with similar core components (individuals, classes, attributes, relations, ...)](https://en.wikipedia.org/wiki/Ontology_components).
 
-- What if instead of building the tool, we started with the standard and let other tools (Roam, Notion, Obsidian) use that?
+Instead of building the tool, we can start with a standard protocol and let other tools (Roam, Notion, Obsidian) use that.
 
 ## City Discovery
 
