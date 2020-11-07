@@ -60,3 +60,4 @@ Values are what you stand for in life — they are often things that you are for
 - Honesty demands that we communicate any uncertainty we may feel about the relevance of our own opinions.
 - One of the hardest exercises is to receive [feedback](communications.md#feedback). Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
 - As the saying goes, "No man steps in the same river twice". The second time around, both man and river are different than they were before. Experience things again (books, movies, ...). They are are the same, but you change between. The world changes, too.
+- Look for new experiences. It is the most important factor for memorable experiences. When all days follow the same routine, there is no way to differentiate the memories. 
