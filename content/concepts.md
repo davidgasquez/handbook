@@ -6,7 +6,7 @@ A logical fallacy is a flaw in reasoning. Logical fallacies are like tricks or i
 
 ## Mental Models
 
-A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems (a personal algorithm). The world always makes sense. But it can be confusing. When it is, your model of the world is wrong. Millions of mental models exists, and every discipline has their own set. Some of them overlap and might be called differently.
+A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems (a personal algorithm). The world is confusing when your model of the world is wrong. Millions of mental models exists, and every discipline has their own set. Some of them overlap and might be called differently.
 
 - [Mental Models: The Best Way to Make Intelligent Decisions](https://www.farnamstreetblog.com/mental-models/)
 - [A Searching and Fearless Intellectual Inventory](https://www.facebook.com/notes/kent-beck/a-searching-and-fearless-intellectual-inventory/1179765038723025)

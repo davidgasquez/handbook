@@ -70,6 +70,7 @@ How you live affects how long you live. Most people could do better. Your health
   - If you have more introspective awareness of the exact processes that are happening in your mind, you can make more implicit assumptions conscious, causing your brain's built-in contradiction detector to notice when they contradict your later learning. Also, getting more feedback about what exactly is happening in your mind allows you to notice more wasted motion in general.
 - The goal of meditation is not to quit having thoughts, but to observe them, watch them without reacting and rationalizing them. This helps rewire the way your brain works similar to cognitive behavioral therapy. Typically, people who work towards this, have less anxiety and depression because they don't react to every thought they have, which gives them a greater control of their emotions.
 - Too many distractions lead to a heavy mind.
+- A common meditation practice is [mindfulness](https://youtu.be/hQo-CQzoW24).
 - [How to Meditate](https://www.nytimes.com/guides/well/how-to-meditate):
   1. Find a comfortable place to sit, and a posture that is both alert and relaxed at the same time. See if you can make the spine erect, without being too rigid.
   2. Close your eyes (or leave them slightly open if you prefer), and take a few slow breaths. Take a few moments to loosen your body from your head to your toes, and take a few more deep breaths. Scan your body to see if you can find any other tension that you can release.
