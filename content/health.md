@@ -42,6 +42,7 @@ How you live affects how long you live. Most people could do better. Your health
 - When it comes to [mental health](https://jjbeshara.com/2020/06/04/mental-wealth/), our society approaches it like we did with physical health 50 years ago. We only think about it when something goes wrong.
 - We benefit from approaching mental health like we invest in anything else in our lives (finances, relationships, careers, physical health, etc), where one builds wealth in this area by continuous, conscious investment.
 - Be grateful for all the people and things you have. Accept you're not in full control of your destiny. [Success is luck dependant](https://youtu.be/3LopI4YeC4I).
+- Lots of little good things is the path to happiness. You want frequent boosts not rare big stuff.
 
 ## Nutrition
 
