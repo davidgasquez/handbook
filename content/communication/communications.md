@@ -12,7 +12,7 @@ You become an average of the people you spend the most time with. Choose wisely!
 
 Feedback is the core of personal and professional growth. Feedback help us being better at what we do establishing clear communications and expectations.
 
-All feedback is good feedback. If you agree with it, it tells you something about yourself which you can to work on correcting. If you don't agree with it, it tells you that there is an incorrect perception about you in the other persons mind. You can also work on correcting that.
+All feedback is good feedback. If you agree with it, it tells you something about yourself which you can to work on correcting. If you don't agree with it, it tells you that there is an incorrect perception about you in the other persons mind. You can also work on correcting that. When someone tells you something is wrong, they're almost always right. When someone tells you how to fix it, they're almost always wrong.
 
 ### Taking Feedback
 
