@@ -34,7 +34,7 @@ All feedback is good feedback. If you agree with it, it tells you something abou
 ### Giving Feedback
 
 - Feedback needs to be informal, frequent, and done authentically.
-- Address behavior, but don't label people.
+- Challenge ideas not people. Address behavior, but don't label people.
 - Prepare. What do you value in someone? Where do you think are their biggest opportunities to improve?
 - Keep the feedback actionable, specific, and kind.
 - Imagine what things feel like from the other perspective.
