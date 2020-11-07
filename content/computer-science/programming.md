@@ -34,6 +34,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **A programmer who can't re-use other programs is condemned to re-write them**.
   Use software leverage to your advantage.
   Many programmers have only a superficial understanding of the importance of re-usable code modules.
+  [Code isn't just meant to be executed. Code is also a means of communication across a team, a way to describe to others the solution to a problem](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
 
 - **Silence is golden**.
   A silent command is often more usable, providing the function asked for and nothing more.
