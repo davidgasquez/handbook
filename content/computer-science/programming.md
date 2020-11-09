@@ -13,7 +13,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   Writing program code is a good way of debugging your thinking.
 
 - **Do one thing and do it well**.
-  By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility.
+  By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
 
 - **Make it work, make it right, make it fast**.
   Build a prototype as soon as possible to get a sense of the entire process.
@@ -67,7 +67,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   Invest in tools to automate and improve the development cycle \(CI, CD\). Decreasing build times a few seconds actually saves a lot of time over time. Deploy often to make the loop end to end. If you need to do something manually more than twice, then write a tool for the third time. An evolutionary architecture consists of three primary aspects: incremental change, fitness functions, and appropriate coupling.
 
 - **Avoid implicit rules**.
-  Implicit rules should always be made explicit and shared with others or automated. Ideally, all processes should be written as code, stored, and versioned.
+  Implicit rules should always be made explicit and shared with others or automated. Ideally, all processes should be written as code, stored, and versioned. Ninimize the cognitive load imposed on your users.
 
 Like any other field, the world of Software Development has some interesting and famous "laws". These are some of them I've found interesting, funny or worth knowing:
 
@@ -135,3 +135,4 @@ Version control software enables teams to work in distributed and asynchronous e
 - [Formatting your README](https://guides.github.com/features/wikis/#Formatting-a-readme)
 - [Open Source Guides](https://opensource.guide/)
 - [Github Badges](https://shields.io/)
+- [Icons and Photos For Everything](https://thenounproject.com/)

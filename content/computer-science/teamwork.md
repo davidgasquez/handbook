@@ -149,3 +149,4 @@
   - [Occuply](https://occuply.io/) - Apply to hundreds of jobs without ever answering the same question twice.
 - Team Management.
   - [IPFS](https://github.com/ipfs/team-mgmt).
+  - [Kubernetes Governanve](https://github.com/kubernetes/community/blob/master/governance.md).
