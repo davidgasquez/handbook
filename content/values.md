@@ -6,44 +6,42 @@ Values are what you stand for in life — they are often things that you are for
 
 - Never stop [learning](learning.md).
   - Read about topics you care, observe the world around you and keep a beginner's mind (*shoshin*).
-  - Don't be afraid to ask a question that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
+  - Don't be afraid to [ask a question](rationality.md##asking-questions) that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
   - Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
-- Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your idea doesn't work out, the community will have learned better why that approach doesn't make sense.
+- Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your [ideas](random/ideas.md) doesn't work out, the community will have learned better why that approach doesn't make sense.
 - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. Mistakes are the portals of discovery.
 - Practice [rational](rationality.md) thinking.
-  - Absolute truth is relative to everyone and you don't know everything.
-  - Stress test your ideas with experiments and facts. Test your assumptions/beliefs as many times as possible. A great way to do that is to bet on future outcomes. Anything you know or do could be wrong.
-  - Avoiding stupidity is easier than seeking brilliance. Think backward so that you can avoid failures.
-  - We do not know what we don't know. Gather as much context as you can before making any final statement.
-  - Research before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
-  - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
 - Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much and was built for a different world.
-- Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete. Real people are complex and flawed, [full of faults and biases](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg). Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out.
+- Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete.
+  - Real people are complex and flawed, [full of faults and biases](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg). Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out.
   - Digitizing an analog view will result in some loss of information. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros.
-- Mental models and [other concepts](concepts.md) can help us think more effectively.
+- [Mental models and other concepts](concepts.md) can help us think more effectively.
 - Remix ideas. Ideas are impacted by evolution. The most useful ones survive and evolve. [Innovation is product of the combinations of ideas](https://youtu.be/XUAIIQFoufs?list=WL).
-- Knowing more about the world makes you enjoy it more. [Understanding how music is made increases the pleasure you get from music](https://youtu.be/JbVfcZxfIZo?list=WL).
-  - [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail). Surprising detail is a near universal property of getting up close and personal with reality. You experience lots of these details the first time you do something new!
+- [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail). Surprising detail is a near universal property of getting up close and personal with reality. You experience lots of these details the first time you do something new!
+  - Knowing more about the world makes you enjoy it more. [Understanding how music is made increases the pleasure you get from music](https://youtu.be/JbVfcZxfIZo?list=WL).
 - [If you think you’re going to regret not doing something, you should probably do it](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short). Regret is the worst, and most people regret far more things they didn’t do than things they did do.
 
 ## Mindfulness
 
-- Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful about it and practice [mindfulness](https://youtu.be/hQo-CQzoW24). You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment. [Life is short](http://paulgraham.com/vb.html).
+- Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful and [mindful](health.md##meditation) about it. You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment as a child does. [Life is short](http://paulgraham.com/vb.html).
 - Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your time.
 - Be aware of your internal state. Making this more visible makes a better feedback loop.
-- One task at a time. No distractions.
-- KISS. When [communicating](communications.md), do it in a clear and concise way. When [facing a problem](rationality.md#problem-solving), prefer a lean approach with a simple solution and built upon it. Re-framing questions will make easy to give simpler solutions. What would this look like if it was simple?
-- Remove friction. Focus on essentials.
-- Live Smarter not Harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md). Accomplish more with less.
+- One task at a time. [No distractions](time.md##focus).
+- KISS.
+  - When [communicating](communications.md), do it in a clear and concise way.
+  - When [facing a problem](rationality.md#problem-solving), prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would this look like if it was simple?
+  - Remove friction. Focus on essentials.
+- Live Smarter not Harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md).
 - Keep Calm. Own and deal with your emotions. [Focus on what you can control](health.md#stoicism).
   - Think, understand, and listen before [communicating](communications.md).
   - Try to plan the possible outcomes and don't rush.
   - Don't worry too much about things that won't matter to you or your loved ones in 10 years.
   - Assume positive intent. No one is your enemy, you're an NPC in their game.
   - Every person is inherently valuable independent of behavior and beliefs. Create safe spaces for people, and a dangerous space for ideas ([idea labs](https://mobile.twitter.com/waitbutwhy/status/1278035160454348800)). When you have a nice thing to say about someone, say it to them right away, instead of waiting. You might not see them again.
-- Enjoy everything as a child does. Prefer delayed gratification, that is, making short term sacrifices to get long term benefits.
+- Prefer delayed gratification, making short term sacrifices to get long term benefits.
 - Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to make decisions and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.
-- Don't judge. Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Our internal state shapes how we experience the external state. You never know the whole story. Everything is connected. Humans are messy and life is messy. Yet we try to fit everything into human made buckets. Losing most of the nuance in the process.
+- Don't judge. Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice.
+- Our internal state shapes how we experience the external state. You never know the whole story. Everything is connected. Humans are messy and life is messy. Yet we try to fit everything into human made buckets. Losing most of the nuance in the process.
 - Recognize that tradeoffs happen everywhere. List them explicitly.
   - We trade time against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.
 - Appreciate what you have. Showing gratitude for the good things you have is the most powerful happiness boosting activity there is.
@@ -53,9 +51,10 @@ Values are what you stand for in life — they are often things that you are for
 ## Openness
 
 - Embrace Weirdness. Don't be another human. Find your place, do what you love and put yourself outside the comfort zone. Unexpected and unconventional things make life more interesting. [If you fit in you disappear](https://twitter.com/tobi/status/1319017087948435458).
-- Embrace change. Don't complain about things you can't change. Be proactive.
 - Celebrate and encourage quirky gifts, [habits](habits.md), behavior, and points of view. No one can compete with you on being you.
-- Share your decisions and ideas so flaws arise earlier in the process.
+- Share your decisions, state, and ideas so flaws arise earlier in the process.
 - [Maintain a very small identity](http://www.paulgraham.com/identity.html). Avoid forming an opinion at all about things that are not evident. Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc. You're not your opinions. Opinions are external objects. Don't define yourself by what you work on or what you hate.
-- Honesty demands that we communicate any uncertainty we may feel about the relevance of our own opinions.
+- Communicate any uncertainty you may feel about the relevance of your own opinions.
 - One of the hardest exercises is to receive [feedback](communications.md#feedback). Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
+- Experience things again (books, movies, ...). They might be the same, but you change and are a different person now. The world changes, too. No man steps in the same river twice.
+- Look for new experiences. It is the most important factor for memorable experiences. When all days follow the same routine, there is no way to differentiate the memories.

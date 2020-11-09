@@ -11,6 +11,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   Benefits of simplicity: ease of understanding, ease of change, ease of debugging, flexibility.
   We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
   Writing program code is a good way of debugging your thinking.
+  Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time. 
 
 - **Do one thing and do it well**.
   By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
@@ -33,6 +34,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **A programmer who can't re-use other programs is condemned to re-write them**.
   Use software leverage to your advantage.
   Many programmers have only a superficial understanding of the importance of re-usable code modules.
+  [Code isn't just meant to be executed. Code is also a means of communication across a team, a way to describe to others the solution to a problem](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
 
 - **Silence is golden**.
   A silent command is often more usable, providing the function asked for and nothing more.
@@ -49,7 +51,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 
 - **Look for the 80% solution**.
   Doing 100% of anything is difficult.
-  Focusing in the 80% is far more efficient and cost-effective.
+  Focusing in the 80% is far more efficient and cost-effective. "Better" is the enemy of "good".
   Handle the 80% and let the 20% fend for themselves.
   80% of the impact comes from 20% of the work.
   [Software is never finished, only abandoned](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/).

@@ -1,10 +1,12 @@
 # Habits
 
-[We, humans, are basically habit machines](https://twitter.com/JamesClear/status/1059504529111158784). We form habits. We run on those habits all day long. Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time. The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it ([ego depletion](https://en.wikipedia.org/wiki/Ego_depletion)). Habits will keep the frontal cortex free to solve other problems.
+[We, humans, are basically habit machines](https://twitter.com/JamesClear/status/1059504529111158784). We form habits. We run on those habits all day long. Your outcomes are a lagging measure of your habits. How we spend your days is how you spend your life.
 
-They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them [compound](https://www.investopedia.com/terms/c/compoundinterest.asp). Remember, there are [no hacks](http://www.collaborativefund.com/blog/useful-hacks/) in life! Your outcomes are a lagging measure of your habits. How we spend your days is how you spend your life.
+Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time. The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it ([ego depletion](https://en.wikipedia.org/wiki/Ego_depletion)). Habits will keep the frontal cortex free to solve other problems.
 
-Helpful steps when building habits:
+They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them [compound](https://www.investopedia.com/terms/c/compoundinterest.asp). Remember, there are [no hacks](http://www.collaborativefund.com/blog/useful-hacks/) in life!
+
+Helpful steps for building habits:
 
 - **Build a routine**. Set a specific, repeating time when you will do the thing in your calendar. Keep that slot clear, always. Never let something interrupt this task. Shape the environment to support your routine and habits. Make it easy to start and make it hard or impossible to not do it. Replace self-control with planning and proper environment (uninstalling a game makes removes a future decision to play it). You can also **stack habits**. Connect the habit that doesn't appear that much to you to what you strongly like. Then you'll be doing it for what you like.
 
