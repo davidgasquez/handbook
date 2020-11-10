@@ -54,6 +54,15 @@ A few personal random ideas.
 - Declarative way of defining the dataset schema and other properties as well as the relations.
 - Datasets should also be exposed in other places like Google Dataset Search.
 
+### Open Knowledge
+
+- Research.
+  - Each publication is a repository, where people can contribute to make corrections.
+- Distillation. Deeply digesting ideas, and putting them together into a framework of thinking.
+  - Made by a small number of people with a strong vision and a deep investment in the article.
+- Publication.
+  - Should have different resolutions. E.g: Blog post for the general public, article for the scientific community, paper for the raw idea.
+
 ## Personal Knowledge Base
 
 A tool and framework to manage knowledge. This will allow compound learning and make it easier to discover new abstractions or connections between concepts. These are the key properties of my ideal PKB (could replace this handbook):
@@ -77,3 +86,10 @@ Instead of building the tool, we can start with a standard protocol and let othe
 - Create an activity similar to a gymkhana mixed with escape room. Players have to solve riddles and puzzles while learning about the city and its history.
 - There might be digital and real life puzzles.
 - Clues might be scattered across many checkpoints with actors as "NPC"s to guide the players.
+
+## Social Network Improvements
+
+- [Federate and open source current networks](computer-science/decentralization.md##federated-networks) to improve communities.
+  - [The protocol should evolve differently for each community](https://youtu.be/P-2P3MSZrBM?t=5953). Communities will mix and match protocols (rules, monetization, rewarding, actions, gobernance, ...) to make the protocol fit their network.
+- We need a social network that does not cause divisiveness and negativity that is currently the natural by-product of optimizing for greater engagement.
+- How can the network incentivize healthy conversations and encourage nuanced discussions?
