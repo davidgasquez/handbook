@@ -90,6 +90,6 @@ Instead of building the tool, we can start with a standard protocol and let othe
 ## Social Network Improvements
 
 - [Federate and open source current networks](computer-science/decentralization.md##federated-networks) to improve communities.
-  - [The protocol should evolve differently for each community](https://youtu.be/P-2P3MSZrBM?t=5953). Communities will mix and match protocols (rules, monetization, rewarding, actions, gobernance, ...) to make the protocol fit their network.
+  - [The protocol should evolve differently for each community](https://youtu.be/P-2P3MSZrBM?t=5953). Communities will mix and match protocols (rules, monetization, rewarding, actions, governance, ...) to make the protocol fit their network.
 - We need a social network that does not cause divisiveness and negativity that is currently the natural by-product of optimizing for greater engagement.
 - How can the network incentivize healthy conversations and encourage nuanced discussions?
