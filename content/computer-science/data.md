@@ -28,20 +28,23 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 
 ### [Machine Learning Projects](https://github.com/eugeneyan/applied-ml)
 
-1. Frame the problem. Define a clear and concise objective.
-1. Get the data.
-1. Explore the data.
-1. Define metrics. Explain and verify any assumption.
-1. Make the data tidy.
-1. Model the data. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be your [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa).
-1. Make sure everything works end to end. Deploy the model. Add a clear description of the model. Monitor models in production.
-1. Make results reproducible (code, environment and data).
+1. Frame the problem.
+   1. Define a clear and concise objective.
+   2. Define metrics.
+   3. Explain and verify any assumptions.
+2. Get the data.
+3. Explore the data.
+4. Make the data tidy.
+5. Model the data. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be your [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa).
+6. Make sure everything works end to end.
+   1. [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html). Add a clear description of the model. Monitor models in production.
+7. Make results reproducible (code, environment and data).
    1. You need to version your code, and you need to version your data.
-   1. Make your feature dependencies explicit in your code.
-   1. Separate code from configuration.
-   1. Separate code from configuration.
-1. Iterate. Go back to the first point and change one thing at a time. It's really hard to tell in advance what's hard and what's easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever.](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641)
-1. Explain your results in terms your audience cares about.
+   2. Make your feature dependencies explicit in your code.
+   3. Separate code from configuration.
+   4. Separate code from configuration.
+8. Iterate. Go back to the first point and change one thing at a time. It's really hard to tell in advance what's hard and what's easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever.](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641)
+9. Explain your results in terms your audience cares about.
 
 [Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006). Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.
 
