@@ -60,3 +60,4 @@ A way to keep yourself on track with your habits is to have a morning routine.
 3. Long-term goals and short-term goals. Review big goals that you would like to achieve in the next years and the short term goals that lead to them that you can act on.
 4. Visualize the day. Visualize yourself going through the day challenges and wins.
 5. Review your core [values](values.md).
+

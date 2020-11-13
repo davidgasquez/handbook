@@ -19,6 +19,9 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Systemic problems need systemic solutions. We can't get there if everyone thinks they already "did their part" (turning off light switches, turning the thermostat down a degree, paper/metal straws, sorting recycling).
   - [Individual actions aren't enoughs to improve the current state](https://www.youtube.com/watch?v=DYLWZPFEWTw).
   - [By focussing on the individuals, we miss the much bigger problem of climate change.](https://youtu.be/RSgXcFdHxFI?list=WL). Around 70% of emissions come for 100 companies. Push governments to transform the economy so individuals don't have all the pressure.
+  - It's hard to make changes since climate change happens slowly and doesn't trigger our fight and fly response. We need incentives that makes buying and using the good things the selfish thing to do.
+    - What's good for the individual is harming the collective and no one is going to concede because is not rational. E.g: it's cheaper to buy an oul car than an electric one.
+    - Tesla is changing the inventives so even if you don't care about enviromental change, you'd buy a Tesla.
 
 ## Annual Review List
 

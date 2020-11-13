@@ -2,7 +2,7 @@
 
 Time is the most valuable and least replaceable resource. Life is short. Just like money, [time must be explicitly managed](https://youtu.be/oTugjssqOT0). If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive. Days are long but decades are short.
 
-- Learn to prioritize, and value your time. "I don't have time" is another way of saying "it's not a priority".
+- Learn to prioritize, and value your time. "I don't have time" is another way of saying "it's not a priority". Busyness is a lack of priorities.
   - [Separate decisions into four possibilities based on the type of decision](https://fs.blog/2018/09/decision-matrix/):
     1. Irreversible and inconsequential
     2. Irreversible and consequential. These are the ones that you really need to focus on.
@@ -22,6 +22,7 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 - Work expands to fill the time available. If you have six months to complete a task, it will take six months to complete. That's [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law).
 - When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter.
 - Routines speed up your life. Time will blow by quicker if you are covered in meaningless routines. What is worse, your days will become blurred - each day - too similar to the next - for you brain to hold on to distinct memories. On the other hand, routines also help to reduce decision fatigue so that you have room for more important decisions. Make sure the routines you have are the ones you need.
+- Protect attention. Attention is a ridiculously valuable resource and should be treated as such. Reduce cognitive load, reduce distractions, reduce mental clutter, etc.
 
 ## Productivity
 

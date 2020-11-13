@@ -31,8 +31,10 @@ How you live affects how long and how happy you live. Your health impacts everyo
 ## Sleep
 
 - Don't use screens before sleep.
-- Stick to a consistent routine.
-- If possible, don't use an alarm.
+- Stick to a consistent routine. If possible, don't use an alarm to wake up.
+- [Avoid sleep disruptors](https://alexvermeer.com/life-hacking/#sleep). Don't drink a lot of alcohol, don't eat large meals right before bed, don't have caffeine past mid-afternoon, don't watch super-intense movies right before bed, etc.
+- Spend the time to find the mattress, pillow, and sheets that work for you.
+- [Exercise](##fitness).
 
 ## Mental
 
@@ -43,10 +45,11 @@ How you live affects how long and how happy you live. Your health impacts everyo
 
 ## Nutrition
 
-- When you havegreat ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.
+- What you eat is one of the most important things to understand, given how much it affects the rest of your life.
+- When you have great ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.
 - Experiment! The worst that could happen is that you don't like it. Cooking has a short feedback loop. Take risks and you'll get the payoffs. Learn from your mistakes until you succeed.
 - [Fasting can be useful in some situations](https://www.reddit.com/r/productivity/comments/6demoi/why_you_should_try_intermittent_fasting_mood/).
-- [Eat like an adult](https://thefitness.wiki/improving-your-diet/).
+- [Eat like an adult](https://thefitness.wiki/improving-your-diet/). Eat as healthy as possible.
 
 ### Supplements
 
