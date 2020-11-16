@@ -105,6 +105,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
     - [Friends and Games](https://friendsand.games/). A list of hand picked free online games to play during calls with your friends or family.
     - [Netgames](https://netgames.io/). Social games for your phone.
     - [Rocket Crab](https://rocketcrab.com/). Party games for phones.
+  - [Activity List](https://www.reddit.com/r/nosurf/wiki/activities)
 
 ## Thought Experiments
 
