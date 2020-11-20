@@ -36,6 +36,7 @@
   - Tacit knowledge is like the knowledge that you use to ride a bicycle—it's complex, experiential, intuitive, hard to put into words.
   - Explicit knowledge is clear and concrete and transferable and (at least somewhat) objectively verifiable. How you ride a bicycle is tacit, but the fact that you can ride a bicycle is explicit. It's a binary fact that can be completely and compactly transferred through words, and that is checkable through experiment.
 - People think in very different styles, related to how they use their senses while thinking. For example, some people see images during a conversation for each concept, others "feel" concepts in their body, others have explicit models that they update, and many have some combination. Also, some people can’t imagine in images, and others can't store faces. It’s very strange that we enter adult life without a shared understanding of this.
+- Sometimes inferential distances can be very far apart. You need [willingness to entertain and explore ideas before deciding that they are wrong](https://slatestarcodex.com/2020/05/12/studies-on-slack/). The other person might be on a self-consistent equilibria (someone christian, creationistm, ...) and only changing one view of the world wouldn't work. you have to convince them for all the views. [A clear argument has to lay out an inferential pathway, starting from what the audience already knows or accepts](https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances).
 
 ## Making Decisions
 

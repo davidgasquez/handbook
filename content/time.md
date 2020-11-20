@@ -2,6 +2,7 @@
 
 Time is the most valuable and least replaceable resource. Life is short. Just like money, [time must be explicitly managed](https://youtu.be/oTugjssqOT0). If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive. Days are long but decades are short.
 
+- We have limited time and we must choose how to spend it. Unfortunately, we rarely take the time to consciously do this.
 - Learn to prioritize, and value your time. "I don't have time" is another way of saying "it's not a priority". Busyness is a lack of priorities.
   - [Separate decisions into four possibilities based on the type of decision](https://fs.blog/2018/09/decision-matrix/):
     1. Irreversible and inconsequential
@@ -37,6 +38,8 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 
 ## Focus
 
+- Whatever your primary motivations are in life, you won't get anywhere by waiting for something to happen. Plan!
+  - Humans do not think strategically by default.
 - Disable notifications and badges so that you don't mindlessly open distracting apps.
 
 ## Investing

@@ -30,6 +30,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html): You have limited time, and you should spend it wisely in things and with people you care about.
 - [The Sagan Series](http://www.saganseries.com/): Breath-taking cinematography and a mesmerizing soundtrack lend a powerful scenery to Sagan's narration from his hit TV series, Cosmos.
 - This Handbook.
+- [How to get the most out of next year](https://drive.google.com/file/d/0B2PaeRjVqAN7MngxTXFPQkpLVjg/view).
 
 ## DNA Genetic Testing and Analysis
 
@@ -109,7 +110,11 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 
 ## Thought Experiments
 
-A thought experiment is a device with which one performs an intentional, structured process of intellectual deliberation in order to speculate, within a specifiable problem domain, about potential consequents (or antecedents) for a designated antecedent (or consequent). A few interesting ones:
+A thought experiment is a device with which one performs an intentional, structured process of intellectual deliberation in order to speculate, within a specifiable problem domain, about potential consequents (or antecedents) for a designated antecedent (or consequent).
+
+Thought experiments enable us to explore for the purpose of thinking. They reveal our instinctive knowledge, allow us to predict implications and outcomes, and anticipate problems.
+
+A few interesting ones:
 
 - [Experience Machine](https://en.m.wikipedia.org/wiki/Experience_machine).
 

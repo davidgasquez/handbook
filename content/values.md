@@ -9,7 +9,7 @@ Values are what you stand for in life — they are often things that you are for
   - Don't be afraid to [ask a question](rationality.md##asking-questions) that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
   - Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
 - Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your [ideas](random/ideas.md) doesn't work out, the community will have learned better why that approach doesn't make sense.
-- Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. Mistakes are the portals of discovery.
+- Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. [Mistakes](https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...) are the portals of discovery.
 - Practice [rational](rationality.md) thinking.
 - Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much and was built for a different world.
 - Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete.
