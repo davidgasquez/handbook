@@ -4,7 +4,7 @@
 - When coming up with a long-term technical vision is important to stay abstract.
   - Stick to defining components and keep concepts. Show how the components interact.
   - Define boundaries and limitations of each component.
-  - Write tech specs before you write software \(examples in [Codeburst](https://codeburst.io/on-writing-tech-specs-6404c9791159) and [Lyft](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)\). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
+  - Write tech specs before you write software (examples in [Codeburst](https://codeburst.io/on-writing-tech-specs-6404c9791159) and [Lyft](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
 - Define the culture and values. [Culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md) is simply a shared way of doing something with passion. Culture is created and re-created by the choices made by individuals every day. It can be reshaped by conscious effort applied gently, subtly, and consistently. It is also a shared mechanism for problem solving.
   - Make the right thing to do the easiest thing to do.
   - Solve problems by fixing the environment that allowed them to occur.
@@ -50,6 +50,7 @@
 - Data can be valuable in helping us understand the world, test hypotheses, and move beyond gut instincts or hunches. Metrics can be useful when they are in their proper context and place.
 - Strive for constructive conflict. Get people to ask questions. Engage in passionate, unfiltered debate about what you need to do to succeed.
 - Encourage to fail. Failing is good if the team learn from it!
+- Beware of Law of triviality. People within an organization commonly or typically give disproportionate weight to trivial issues.
 - Encourage effectiveness. Find ways to free up your time.
 - Push relentlessly toward automation.
   - Investigate where (and how) processes and tasks could be automated, and understanding the costs of automating them.

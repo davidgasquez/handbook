@@ -64,7 +64,7 @@
   3. Consider the alternatives. Do enough research to have a few solid alternatives.
   4. Identify the best alternative. See which alternative makes most sense based on your criteria.
   5. Develop and implement a plan of action. Act on that decision.
-  6. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get.
+  6. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get. The evaluation should be made [without taking account the outcome](https://en.wikipedia.org/wiki/Outcome_bias) since it wasn't known at decission time.
 - Cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else;
 
 ## Problem Solving
