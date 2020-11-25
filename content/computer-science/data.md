@@ -42,7 +42,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
    1. You need to version your code, and you need to version your data.
    2. Make your feature dependencies explicit in your code.
    3. Separate code from configuration.
-   4. Separate code from configuration.
+   4. [Keep a reverse-time sorted doc where we you bullet points of what ideas you've tried and how they've gone](https://operatorai.substack.com/p/why-do-we-write-machine-learning).
 8. Iterate. Go back to the first point and change one thing at a time. It's really hard to tell in advance what's hard and what's easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever.](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641)
 9. Explain your results in terms your audience cares about.
 
