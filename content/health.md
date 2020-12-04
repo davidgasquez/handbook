@@ -2,13 +2,17 @@
 
 How you live affects how long and how happy you live. Your health impacts everyone around you including your loved ones. Don't [maximize misery](https://www.youtube.com/watch?v=LO1mTELoj6o). Our bodies and minds are built to live in a tribe in 50,000BC, which leaves modern humans with a number of unfortunate traits (fixation with tribal-style social survival, attracted to energy dense food, ...).
 
+You get healthy, and more importantly stay healthy, by accumulating significant, but livable, improvements to your lifestyle over time, and building on that.
+
 ## Fitness
 
 - Never sit for prolonged times. Take breaks standing or walking around.
 - Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.
-- [It's been shown that the timing of your meals and more specifically your protein intake, doesn't make any difference to the growth of your muscles. Just get adequate protein and calories throughout the day, though you might want to eat something post workout anyway for energy.](https://www.reddit.com/r/leangains/comments/9fxkof/if_you_eat_a_big_preworkout_meal_do_you_need_to/)
 - [Going for a walk has lots benefits](https://www.betterhealth.vic.gov.au/health/healthyliving/walking-for-good-health). Around 30 minutes a day on most days of the week is a great way to improve or maintain your overall health.
 - If you train for strength rest for at least 4 minutes before doing another set.
+- Lifting weights makes you stronger and healthier, improves your posture, makes you less injury prone, and strengthens your bones.
+- Cardio helps stabilize hormone levels, improves endurance and recovery, helps the body fuel calories away from the fat cells and into the muscle, helps with weight maintenance, generally keeps you healthy, and finally burns calories.
+- Static stretching (any stretching done in place, holding for X number of seconds) should never be done before exercise. Instead, perform active movements simulating the exercise you are about to perform.
 
 ### Posture
 
@@ -27,6 +31,7 @@ How you live affects how long and how happy you live. Your health impacts everyo
 - [The Best Fat Loss Article on the Motherfuckin' Internet](http://physiqonomics.com/fat-loss/) - Facts and useful information about fat loss
 - [Phrak's Greyskull LP](https://old.reddit.com/r/Fitness/wiki/phraks-gslp) - Introductory lifting program to build familiarity and comfortability with the fundamental barbell movements that are a core component of most strength training routines
 - [Building Muscle](https://www.julian.com/guide/muscle/intro) - Article that cover what the science says about exercising and eating to build muscle.
+- [Beginner's Health and Fitness Guide](http://www.liamrosen.com/fitness.html) - Great information and resources on fitness and overal health.
 
 ## Sleep
 
@@ -45,19 +50,21 @@ How you live affects how long and how happy you live. Your health impacts everyo
 
 ## Nutrition
 
-- What you eat is one of the most important things to understand, given how much it affects the rest of your life.
+- What you eat is one of the most important things to understand, given how much it affects the rest of your life. Diet is probably the most important single factor in your health, body composition and overall appearance.
 - When you have great ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.
 - Experiment! The worst that could happen is that you don't like it. Cooking has a short feedback loop. Take risks and you'll get the payoffs. Learn from your mistakes until you succeed.
 - [Fasting can be useful in some situations](https://www.reddit.com/r/productivity/comments/6demoi/why_you_should_try_intermittent_fasting_mood/).
 - [Eat like an adult](https://thefitness.wiki/improving-your-diet/). Eat as healthy as possible.
+- Drink more water. Water regulates virtually every bodily process in some way. Drinking more water is a simple, virtually cost-free thing you can do to improve your overall health.
+- [It's been shown that the timing of your meals and more specifically your protein intake, doesn't make any difference to the growth of your muscles. Just get adequate protein and calories throughout the day, though you might want to eat something post workout anyway for energy.](https://www.reddit.com/r/leangains/comments/9fxkof/if_you_eat_a_big_preworkout_meal_do_you_need_to/)
 
 ### Supplements
 
-- [Fish Oil](https://examine.com/supplements/fish-oil/)
-- Vitamin D
-- B12
-- [Creatine](https://examine.com/supplements/creatine/)
-- [Caffeine](https://examine.com/supplements/caffeine/)
+- [Fish Oil](https://examine.com/supplements/fish-oil/). Approximately 720mg of EPA and 480mg of DHA a day.
+- Vitamin D. 5000 IU a day.
+- B12.
+- [Creatine](https://examine.com/supplements/creatine/). Get it in monohydrate form and take 5g every day.
+- [Caffeine](https://examine.com/supplements/caffeine/).
 
 ### Resources
 
