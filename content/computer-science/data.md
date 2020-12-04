@@ -24,27 +24,36 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 - Create a few extra columns like `processed_at` or `schema_version`
 - Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the [Functional Data Engineering Paradigm](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).
 
-## Data Science
+## Machine Learning
 
-### [Machine Learning Projects](https://github.com/eugeneyan/applied-ml)
+### [Production Project Checklist](https://github.com/eugeneyan/applied-ml)
 
 1. Frame the problem.
-   1. Define a clear and concise objective.
-   2. Define metrics.
-   3. Explain and verify any assumptions.
+  1. Define a clear and concise objective.
+  2. Define metrics.
+  3. Explain and verify any assumptions.
 2. Get the data.
 3. Explore the data.
 4. Make the data tidy.
-5. Model the data. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be your [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa).
+5. Create a model.
+  1. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be your [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa).
+  2. Evaluate the model with the defined metric.
 6. Make sure everything works end to end.
-   1. [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html) and automatically. Add a clear description of the model. Monitor models in production. [Also monitor model output](https://youtu.be/hqxQO7MoQIE).
-7. Make results (models, analysis, ...) reproducible (code, environment and data).
-   1. You need to version your code, and you need to version your data.
-   2. Make your feature dependencies explicit in your code.
-   3. Separate code from configuration.
-   4. [Keep a reverse-time sorted doc where we you bullet points of what ideas you've tried and how they've gone](https://operatorai.substack.com/p/why-do-we-write-machine-learning).
-8. Iterate. Go back to the first point and change one thing at a time. It's really hard to tell in advance what's hard and what's easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641).
-9. Explain your results in terms your audience cares about.
+  1. [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html) and automatically.
+  2. Add a clear description of the model.
+  3. Monitor models in production. [Monitor model output](https://youtu.be/hqxQO7MoQIE).
+7. Make results (models, analysis, graphs, ...) reproducible (code, environment and data).
+  1. You need to version your code, data and configuration.
+  2. Make your feature dependencies explicit in your code.
+  3. Separate code from configuration.
+8. Test every part of the system ([ML Test Score](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)):
+  1. data (distributions, unexpected values, biases, ...).
+9. Iterate.
+  1. Go back to the first point and change one thing at a time. Machine Learning progress is nonlinear. It's really hard to tell in advance what's hard and what's easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641).
+  2. Track every experient you do. [Keep a reverse-time sorted doc where we you bullet points of what ideas you've tried and how they've gone](https://operatorai.substack.com/p/why-do-we-write-machine-learning).
+  3. Look for data flywheel. That means harnessing the power of users to rapidly improve the whole system. These are powerful feedback loops.
+  4. Attempt a portfolio of approaches
+10. Explain your results in terms your audience cares about.
 
 [Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006). Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.
 
