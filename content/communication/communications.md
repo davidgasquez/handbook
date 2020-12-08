@@ -46,17 +46,31 @@ All feedback is good feedback. If you agree with it, it tells you something abou
 
 ## Resolving Disagreement
 
-A few assumptions are required to have a successfully disagreement:
+We should be arguing in a constructive fashion: treating arguments as an opportunity to expand knowledge, finding points of disagreement, and collaborating towards a common truth. A few assumptions are required to have a successfully disagreement:
 
 - Epistemic humility. "It's possible that I might be the one who's wrong, here".
+- Arguments are not soldiers. Most people go into debate with a war-like mentality, they feel they must fly the flag for all points that their side supports, regardless of how much they actually agree with them.
+  - Do not be afraid to agree with the arguments of the other side when they strike you as reasonable, and critique the arguments of your own side when they strike you as unreasonable.
 - Good faith. An assumption that people believe things for causal reasons. Assume good intentions.
 - Confidence in the existence of objective truth or a better position.
 - Curiosity and/or a desire to uncover truth.
-- As much data as possible to backup claims.
+- As much data as possible to backup claims. Cognitive biases are limits and mistakes in human judgement that prevent someone from acting rationally. They are present in every aspect of human life, and in tense situations like arguments, they tend to appear more often as emotions are heightened and the brain gets overloaded.
 
-[Double crux]((https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement)) is great framework based on the previous assumptions.
+[Specific strategies we can employ to make sure a debate stays as constructive as possible](http://www.liamrosen.com/arguments.html):
+  - Let your opponent know exactly how strongly you feel about a certain argument.
+  - Find the crux, the point where you and your opponent's argument intersect.
+  - Restate someone's point back to them to make sure you understood it correctly. This is called echoing and is more necessary for synchronous debates where information flows quickly. Not only does this make them feel heard, it also allows them the chance to clarify their beliefs.
+  - Leave your partner a line of retreat.
+  - Instead of taking on a weaker version of your opponent's argument, help the entire debate out by thinking of the best and most charitable version of your opponent's argument, then repeat it back to them to see if it makes sense.
 
-One of the first thing to focus is narrowing the scope of the discussion. Find common ground. Ask "What would need to be true for you to...". Define terms to avoid getting lost in semantic confusions that miss the real point. Find specific test cases. Wherever possible, try to think in terms of actions rather than beliefs—it's easier to evaluate arguments like "we should do X before Y" than it is to converge on "X is better than Y".
+### [Double crux]((https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement))
+
+Double crux is great framework based on the previous assumptions, were both parties abstract their arguments by one level and find a falsifiable fact that, if proven true, would cause them to change their beliefs.
+
+- Focus on narrowing the scope of the discussion. Find common ground.
+- Define terms to avoid getting lost in semantic confusions that miss the real point.
+- Ask "What would need to be true for you to change your mind?".
+- Find specific test cases.
 
 Don't focus on proving yourself right, instead of focus on getting the best outcome.
 Keep the conversation simple and summarize the conversation during the discussion.
