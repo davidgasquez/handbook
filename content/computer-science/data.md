@@ -38,7 +38,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 5. Create a model.
   1. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be your [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa).
   2. Evaluate the model with the defined metric.
-6. Make sure everything works end to end.
+6. Make sure everything works end to end. You design it, you train it, you deploy it.
   1. [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html) and automatically.
   2. Add a clear description of the model.
   3. Monitor models in production. [Monitor model output](https://youtu.be/hqxQO7MoQIE).
@@ -55,9 +55,11 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
   4. Attempt a portfolio of approaches
 10. Explain your results in terms your audience cares about.
 
-[Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006). Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.
+#### Resources
 
-Continuous decision-making — the kind that leads to impact — involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, [your impact is tough to measure — data doesn't always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html).
+- [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/).
+- [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/).
+- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/).
 
 ### [Machine Learning Technical Debt](https://matthewmcateer.me/blog/machine-learning-technical-debt)
 
@@ -68,21 +70,28 @@ Tech debt is an analogy for the long-term buildup of costs when engineers make d
 - Make sure your data isn't all noise and no signal by making sure your model is at least capable of overfitting.
 - Use [reproducibility checklists when releasing code](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf).
 
-### Analysis Requests
+## Data Analysis Requests
 
-1. What's the goal of the analysis? Are there related actionable actions? Which kind of decisions is it going to enable?
+[Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006). Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.
+
+Continuous decision-making — the kind that leads to impact — involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, [your impact is tough to measure — data doesn't always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html).
+
+### Request Checklist
+
+1. What's the goal of the analysis? Are there related actionable actions? Which kind of decisions is it going to enable? How will this deliver business value within 90 days?
 1. Where is the data?
+1. Which is more important? Getting the answer quickly or getting an accurate answer?
 1. Is the data in the correct format and is it accurate?
 1. Make the analysis reproducible.
 1. Before delivering, summarize.
 
-### Resources
+## Resources
 
-- [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
-- [The Data Visualization Catalogue](https://datavizcatalogue.com/)
-- [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
-- [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)
-- [The Data Visualization Catalogue](https://datavizcatalogue.com/search.html)
-- [Guides for Visualizing Reality](https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/)
-- [Model Interpretability](https://ff06-2020.fastforwardlabs.com/)
-  - [Diverse Counterfactuals](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)
+- [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go).
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/).
+- [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/).
+- [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked).
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/search.html).
+- [Guides for Visualizing Reality](https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/).
+- [Model Interpretability](https://ff06-2020.fastforwardlabs.com/).
+  - [Diverse Counterfactuals](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/).
