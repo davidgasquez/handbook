@@ -1328,7 +1328,7 @@ Implicit rules should always be made explicit and shared with others or automate
 <li>Create a model.</li>
 <li><a href="https://developers.google.com/machine-learning/guides/rules-of-ml/">Start with the simplest model!</a>. That will be your <a href="https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa">baseline model</a>.</li>
 <li>Evaluate the model with the defined metric.</li>
-<li>Make sure everything works end to end.</li>
+<li>Make sure everything works end to end. You design it, you train it, you deploy it.</li>
 <li><a href="https://nlathia.github.io/2019/08/Machine-learning-faster.html">Deploy the model quickly</a> and automatically.</li>
 <li>Add a clear description of the model.</li>
 <li>Monitor models in production. <a href="https://youtu.be/hqxQO7MoQIE">Monitor model output</a>.</li>
@@ -1345,8 +1345,12 @@ Implicit rules should always be made explicit and shared with others or automate
 <li>Attempt a portfolio of approaches</li>
 <li>Explain your results in terms your audience cares about.</li>
 </ol>
-<p><a href="https://news.ycombinator.com/item?id=22808006">Real impact comes from continuous decision-making and implementing actions with feedback</a>. Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.</p>
-<p>Continuous decision-making — the kind that leads to impact — involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, <a href="https://dfrieds.com/articles/data-science-reality-vs-expectations.html">your impact is tough to measure — data doesn't always translate to value</a>.</p>
+<h4><a class="header" href="#resources-7" id="resources-7">Resources</a></h4>
+<ul>
+<li><a href="https://madewithml.com/courses/applied-ml-in-production/">Applied ML in Production</a>.</li>
+<li><a href="https://se-ml.github.io/practices/">Engineering best practices for Machine Learning</a>.</li>
+<li><a href="https://course.fullstackdeeplearning.com/">Full Stack Deep Learning</a>.</li>
+</ul>
 <h3><a class="header" href="#a-hrefhttpsmatthewmcateermeblogmachine-learning-technical-debtmachine-learning-technical-debta" id="a-hrefhttpsmatthewmcateermeblogmachine-learning-technical-debtmachine-learning-technical-debta"><a href="https://matthewmcateer.me/blog/machine-learning-technical-debt">Machine Learning Technical Debt</a></a></h3>
 <p>Tech debt is an analogy for the long-term buildup of costs when engineers make design choices for speed of deployment over everything else. Fixing technical debt can take a lot of work.</p>
 <ul>
@@ -1355,25 +1359,29 @@ Implicit rules should always be made explicit and shared with others or automate
 <li>Make sure your data isn't all noise and no signal by making sure your model is at least capable of overfitting.</li>
 <li>Use <a href="https://www.cs.mcgill.ca/%7Ejpineau/ReproducibilityChecklist.pdf">reproducibility checklists when releasing code</a>.</li>
 </ul>
-<h3><a class="header" href="#analysis-requests" id="analysis-requests">Analysis Requests</a></h3>
+<h2><a class="header" href="#data-analysis-requests" id="data-analysis-requests">Data Analysis Requests</a></h2>
+<p><a href="https://news.ycombinator.com/item?id=22808006">Real impact comes from continuous decision-making and implementing actions with feedback</a>. Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.</p>
+<p>Continuous decision-making — the kind that leads to impact — involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, <a href="https://dfrieds.com/articles/data-science-reality-vs-expectations.html">your impact is tough to measure — data doesn't always translate to value</a>.</p>
+<h3><a class="header" href="#request-checklist" id="request-checklist">Request Checklist</a></h3>
 <ol>
-<li>What's the goal of the analysis? Are there related actionable actions? Which kind of decisions is it going to enable?</li>
+<li>What's the goal of the analysis? Are there related actionable actions? Which kind of decisions is it going to enable? How will this deliver business value within 90 days?</li>
 <li>Where is the data?</li>
+<li>Which is more important? Getting the answer quickly or getting an accurate answer?</li>
 <li>Is the data in the correct format and is it accurate?</li>
 <li>Make the analysis reproducible.</li>
 <li>Before delivering, summarize.</li>
 </ol>
-<h3><a class="header" href="#resources-7" id="resources-7">Resources</a></h3>
+<h2><a class="header" href="#resources-8" id="resources-8">Resources</a></h2>
 <ul>
-<li><a href="https://github.com/datasciencemasters/go">The Open-Source Data Science Masters</a></li>
-<li><a href="https://datavizcatalogue.com/">The Data Visualization Catalogue</a></li>
-<li><a href="https://ujjwalkarn.github.io/Machine-Learning-Tutorials/">Machine Learning Tutorials</a></li>
-<li><a href="https://www.darkhorseanalytics.com/blog/data-looks-better-naked">Data looks better naked</a></li>
-<li><a href="https://datavizcatalogue.com/search.html">The Data Visualization Catalogue</a></li>
-<li><a href="https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/">Guides for Visualizing Reality</a></li>
-<li><a href="https://ff06-2020.fastforwardlabs.com/">Model Interpretability</a>
+<li><a href="https://github.com/datasciencemasters/go">The Open-Source Data Science Masters</a>.</li>
+<li><a href="https://datavizcatalogue.com/">The Data Visualization Catalogue</a>.</li>
+<li><a href="https://ujjwalkarn.github.io/Machine-Learning-Tutorials/">Machine Learning Tutorials</a>.</li>
+<li><a href="https://www.darkhorseanalytics.com/blog/data-looks-better-naked">Data looks better naked</a>.</li>
+<li><a href="https://datavizcatalogue.com/search.html">The Data Visualization Catalogue</a>.</li>
+<li><a href="https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/">Guides for Visualizing Reality</a>.</li>
+<li><a href="https://ff06-2020.fastforwardlabs.com/">Model Interpretability</a>.
 <ul>
-<li><a href="https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/">Diverse Counterfactuals</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/">Diverse Counterfactuals</a>.</li>
 </ul>
 </li>
 </ul>
@@ -1641,7 +1649,7 @@ Implicit rules should always be made explicit and shared with others or automate
 <li>In many docs a diagram can be useful.</li>
 <li>The steps in the lifecycle of a design document are: Create, Iterate, Review, Implement, Iterate and Learn.</li>
 </ul>
-<h3><a class="header" href="#resources-8" id="resources-8">Resources</a></h3>
+<h3><a class="header" href="#resources-9" id="resources-9">Resources</a></h3>
 <ul>
 <li><a href="https://docs.google.com/document/d/18hYAQCTsDgaFUo-VJGhT0UqyetL2LbAzkWNK1fYS8R0/edit#">Google Design Doc Template</a></li>
 <li><a href="https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9">Awesome Tech Specs</a></li>
