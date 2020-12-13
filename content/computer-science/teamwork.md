@@ -13,7 +13,7 @@
   - Processes:
     - Write status updates.
   - Conventions:
-    - [Confirm and log decisions](https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/) to move them forward.
+    - [Confirm and log decisions](https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/) to move them forward. Decisions (and rationale) must be documented in a durable location.
     - Offer conclusions in long discussions.
   - Meetings:
     - Update meetings:
@@ -29,7 +29,14 @@
       - Financial position of the company and review of metrics.
   - Responsibilities.
   - Defaults. For example, each thing should have a place by default, docs, issues, ...
-- You can create a Handbook to put everything together. Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.
+- You can create a Handbook to put everything together.
+  - Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.
+  - Avoid duplicating knowledge.
+  - Everything is a WIP. No need to create empty sections or say it’ll be updated later.
+  - Make it Permissionless. Anyone can edit anything, similar to PRs on GitHub.
+  - Link everything together to improve discoverability.
+  - Each kind of document should have an explicit place.
+  - Documentation should have a common entry point (index) to increase discoverability. Each team could have their own processes on top.
 - Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
   - Search should be centralized. Keeping 4 tools causes scattered information.
   - Link everything together.
@@ -105,6 +112,7 @@
 - Assign projects to milestones: Fill in key projects that are necessary, nice to have, and out of scope to reach those milestones and bucket them accordingly. Why is each project important to achieve that milestone? Which are highest priority? Do they have any dependencies? Approximate how hard/big is each project? (This likely involves iterating on or shuffling the milestones themselves based on capabilities/effort.)
 - Iterate iterate iterate: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you're prioritizing the right work, which gaps or open questions you haven't thought of yet.
 - Finalize: Get sign off on this version of the roadmap for the upcoming time window. Present it to cross-functional partners and start using it as a communication device to align effort, priorities, and cross-team information sharing.
+- Expose the Roadmap. It should be easy to view and collaborate on!
 
 ## [Writing a Design Doc or RFC](https://www.industrialempathy.com/posts/design-docs-at-google/)
 
