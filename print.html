@@ -1331,30 +1331,54 @@ Implicit rules should always be made explicit and shared with others or automate
 <h3><a class="header" href="#a-hrefhttpsgithubcomeugeneyanapplied-mlproduction-project-checklista" id="a-hrefhttpsgithubcomeugeneyanapplied-mlproduction-project-checklista"><a href="https://github.com/eugeneyan/applied-ml">Production Project Checklist</a></a></h3>
 <ol>
 <li>Frame the problem.</li>
+</ol>
+<ul>
 <li>Define a clear and concise objective.</li>
 <li>Define metrics.</li>
 <li>Explain and verify any assumptions.</li>
+</ul>
+<ol start="2">
 <li>Get the data.</li>
 <li>Explore the data.</li>
 <li>Make the data tidy.</li>
 <li>Create a model.</li>
+</ol>
+<ul>
 <li><a href="https://developers.google.com/machine-learning/guides/rules-of-ml/">Start with the simplest model!</a>. That will be your <a href="https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa">baseline model</a>. Deliver value first, then iterate.</li>
 <li>Evaluate the model with the defined metric.</li>
+</ul>
+<ol start="6">
 <li>Make sure everything works end to end. You design it, you train it, you deploy it.</li>
+</ol>
+<ul>
 <li><a href="https://nlathia.github.io/2019/08/Machine-learning-faster.html">Deploy the model quickly</a> and automatically.</li>
 <li>Add a clear description of the model.</li>
 <li>Monitor models in production. <a href="https://youtu.be/hqxQO7MoQIE">Monitor model output</a>.</li>
+</ul>
+<ol start="7">
 <li>Make results (models, analysis, graphs, ...) reproducible (code, environment and data).</li>
+</ol>
+<ul>
 <li>You need to version your code, data and configuration.</li>
 <li>Make your feature dependencies explicit in your code.</li>
 <li>Separate code from configuration.</li>
+</ul>
+<ol start="8">
 <li>Test every part of the system (<a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf">ML Test Score</a>):</li>
+</ol>
+<ul>
 <li>data (distributions, unexpected values, biases, ...).</li>
+</ul>
+<ol start="9">
 <li>Iterate.</li>
+</ol>
+<ul>
 <li>Go back to the first point and change one thing at a time. Machine Learning progress is nonlinear. It's really hard to tell in advance what's hard and what's easy. <a href="https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641">Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever</a>.</li>
 <li>Track every experient you do. <a href="https://operatorai.substack.com/p/why-do-we-write-machine-learning">Keep a reverse-time sorted doc where we you bullet points of what ideas you've tried and how they've gone</a>.</li>
 <li>Look for data flywheel. That means harnessing the power of users to rapidly improve the whole system. These are powerful feedback loops.</li>
 <li>Attempt a portfolio of approaches</li>
+</ul>
+<ol start="10">
 <li>Explain your results in terms your audience cares about. Data is only useful as long as it's being used.</li>
 </ol>
 <h4><a class="header" href="#resources-7" id="resources-7">Resources</a></h4>
