@@ -29,30 +29,30 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 ### [Production Project Checklist](https://github.com/eugeneyan/applied-ml)
 
 1. Frame the problem.
-  1. Define a clear and concise objective.
-  2. Define metrics.
-  3. Explain and verify any assumptions.
+  - Define a clear and concise objective.
+  - Define metrics.
+  - Explain and verify any assumptions.
 2. Get the data.
 3. Explore the data.
 4. Make the data tidy.
 5. Create a model.
-  1. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be your [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa). Deliver value first, then iterate.
-  2. Evaluate the model with the defined metric.
+  - [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be your [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa). Deliver value first, then iterate.
+  - Evaluate the model with the defined metric.
 6. Make sure everything works end to end. You design it, you train it, you deploy it.
-  1. [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html) and automatically.
-  2. Add a clear description of the model.
-  3. Monitor models in production. [Monitor model output](https://youtu.be/hqxQO7MoQIE).
+  - [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html) and automatically.
+  - Add a clear description of the model.
+  - Monitor models in production. [Monitor model output](https://youtu.be/hqxQO7MoQIE).
 7. Make results (models, analysis, graphs, ...) reproducible (code, environment and data).
-  1. You need to version your code, data and configuration.
-  2. Make your feature dependencies explicit in your code.
-  3. Separate code from configuration.
+  - You need to version your code, data and configuration.
+  - Make your feature dependencies explicit in your code.
+  - Separate code from configuration.
 8. Test every part of the system ([ML Test Score](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)):
-  1. data (distributions, unexpected values, biases, ...).
+  - data (distributions, unexpected values, biases, ...).
 9. Iterate.
-  1. Go back to the first point and change one thing at a time. Machine Learning progress is nonlinear. It's really hard to tell in advance what's hard and what's easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641).
-  2. Track every experient you do. [Keep a reverse-time sorted doc where we you bullet points of what ideas you've tried and how they've gone](https://operatorai.substack.com/p/why-do-we-write-machine-learning).
-  3. Look for data flywheel. That means harnessing the power of users to rapidly improve the whole system. These are powerful feedback loops.
-  4. Attempt a portfolio of approaches
+  - Go back to the first point and change one thing at a time. Machine Learning progress is nonlinear. It's really hard to tell in advance what's hard and what's easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641).
+  - Track every experient you do. [Keep a reverse-time sorted doc where we you bullet points of what ideas you've tried and how they've gone](https://operatorai.substack.com/p/why-do-we-write-machine-learning).
+  - Look for data flywheel. That means harnessing the power of users to rapidly improve the whole system. These are powerful feedback loops.
+  - Attempt a portfolio of approaches
 10. Explain your results in terms your audience cares about. Data is only useful as long as it's being used.
 
 #### Resources
