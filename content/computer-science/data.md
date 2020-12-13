@@ -36,7 +36,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 3. Explore the data.
 4. Make the data tidy.
 5. Create a model.
-  1. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be your [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa).
+  1. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be your [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa). Deliver value first, then iterate.
   2. Evaluate the model with the defined metric.
 6. Make sure everything works end to end.
   1. [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html) and automatically.
@@ -53,7 +53,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
   2. Track every experient you do. [Keep a reverse-time sorted doc where we you bullet points of what ideas you've tried and how they've gone](https://operatorai.substack.com/p/why-do-we-write-machine-learning).
   3. Look for data flywheel. That means harnessing the power of users to rapidly improve the whole system. These are powerful feedback loops.
   4. Attempt a portfolio of approaches
-10. Explain your results in terms your audience cares about.
+10. Explain your results in terms your audience cares about. Data is only useful as long as it's being used.
 
 [Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006). Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.
 
