@@ -60,6 +60,11 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 - [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/).
 - [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/).
 - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/).
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning).
+- [Awesome Machine Learning Engineer](https://github.com/radix-ai/awesome-machine-learning-engineer).
+- [Machine Learning Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap).
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops).[Another awesome MLOps](https://github.com/kelvins/awesome-mlops).
+-
 
 ### [Machine Learning Technical Debt](https://matthewmcateer.me/blog/machine-learning-technical-debt)
 
