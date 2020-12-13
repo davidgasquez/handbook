@@ -340,7 +340,7 @@ A system needs competition and <a href="https://slatestarcodex.com/2020/05/12/st
 <li><a href="https://untools.co/">Tools for better thinking</a>: Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.</li>
 </ul>
 <h1><a class="header" href="#habits" id="habits">Habits</a></h1>
-<p><a href="https://twitter.com/JamesClear/status/1059504529111158784">We, humans, are basically habit machines</a>. We form habits. We run on those habits all day long. Your outcomes are a lagging measure of your habits. How we spend your days is how you spend your life.</p>
+<p><a href="https://twitter.com/JamesClear/status/1059504529111158784">We, humans, are basically habit machines</a>. We form habits. We run on those habits all day long. Your outcomes are a lagging measure of your habits. How we spend your days is how you spend your life. Every action you take is a vote for the type of person you wish to become.</p>
 <p>Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time. The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it (<a href="https://en.wikipedia.org/wiki/Ego_depletion">ego depletion</a>). Habits will keep the frontal cortex free to solve other problems.</p>
 <p>They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them <a href="https://www.investopedia.com/terms/c/compoundinterest.asp">compound</a>. Remember, there are <a href="http://www.collaborativefund.com/blog/useful-hacks/">no hacks</a> in life!</p>
 <p>Helpful steps for building habits:</p>
@@ -1155,7 +1155,8 @@ Build a prototype as soon as possible to get a sense of the entire process.
 Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
 Apply small improvements at each iteration.
 Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
-<a href="https://meltingasphalt.com/a-codebase-is-an-organism/">The computer is a machine, but a codebase is an organism</a>.</p>
+<a href="https://meltingasphalt.com/a-codebase-is-an-organism/">The computer is a machine, but a codebase is an organism</a>.
+Software which is broken because there is no incentive to ship good software is going to stay broken until we manage to change those incentives.</p>
 </li>
 <li>
 <p><strong>Choose portability over efficiency</strong>.
@@ -1510,7 +1511,7 @@ Implicit rules should always be made explicit and shared with others or automate
 </li>
 <li>Conventions:
 <ul>
-<li>Confirm decisions to move them forward.</li>
+<li><a href="https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/">Confirm and log decisions</a> to move them forward. Decisions (and rationale) must be documented in a durable location.</li>
 <li>Offer conclusions in long discussions.</li>
 </ul>
 </li>
@@ -1539,7 +1540,17 @@ Implicit rules should always be made explicit and shared with others or automate
 <li>Defaults. For example, each thing should have a place by default, docs, issues, ...</li>
 </ul>
 </li>
-<li>You can create a Handbook to put everything together. Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.</li>
+<li>You can create a Handbook to put everything together.
+<ul>
+<li>Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.</li>
+<li>Avoid duplicating knowledge.</li>
+<li>Everything is a WIP. No need to create empty sections or say it’ll be updated later.</li>
+<li>Make it Permissionless. Anyone can edit anything, similar to PRs on GitHub.</li>
+<li>Link everything together to improve discoverability.</li>
+<li>Each kind of document should have an explicit place.</li>
+<li>Documentation should have a common entry point (index) to increase discoverability. Each team could have their own processes on top.</li>
+</ul>
+</li>
 <li>Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
 <ul>
 <li>Search should be centralized. Keeping 4 tools causes scattered information.</li>
@@ -1636,6 +1647,7 @@ Implicit rules should always be made explicit and shared with others or automate
 <li>Assign projects to milestones: Fill in key projects that are necessary, nice to have, and out of scope to reach those milestones and bucket them accordingly. Why is each project important to achieve that milestone? Which are highest priority? Do they have any dependencies? Approximate how hard/big is each project? (This likely involves iterating on or shuffling the milestones themselves based on capabilities/effort.)</li>
 <li>Iterate iterate iterate: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you're prioritizing the right work, which gaps or open questions you haven't thought of yet.</li>
 <li>Finalize: Get sign off on this version of the roadmap for the upcoming time window. Present it to cross-functional partners and start using it as a communication device to align effort, priorities, and cross-team information sharing.</li>
+<li>Expose the Roadmap. It should be easy to view and collaborate on!</li>
 </ul>
 <h2><a class="header" href="#a-hrefhttpswwwindustrialempathycompostsdesign-docs-at-googlewriting-a-design-doc-or-rfca" id="a-hrefhttpswwwindustrialempathycompostsdesign-docs-at-googlewriting-a-design-doc-or-rfca"><a href="https://www.industrialempathy.com/posts/design-docs-at-google/">Writing a Design Doc or RFC</a></a></h2>
 <ul>
