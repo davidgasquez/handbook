@@ -21,3 +21,13 @@
 - If you have multiple points in a text, number them to make replies easier.
 - Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601). Separate the processes of creation from improving. You can't write and edit.
 - You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
+
+## [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
+
+- Don't expose one bullet point of a list at a time. Your audience will ask to go back a slide or two, you end up half way in a build, or worse, with an empty slide. None of this is needed.
+- Use fewer words. There is a place for details and context, but the most important is the actual message you want to get across.
+- Have a summary.
+- Structure. Stories can be told in many different ways. One way that works well in most situations is to divide the story arc up in Situation, Complication and Solution. Leaving one of these three components out will seriously hamper your ability to convince your audience, just like it is hard to ascend a staircase with stairs missing.
+- Number the slides.
+- Don't present any slide with a wall of text.
+- Titles for the graphs should be the conclusion.
