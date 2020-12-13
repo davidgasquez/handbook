@@ -22,6 +22,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   Apply small improvements at each iteration.
   Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
   [The computer is a machine, but a codebase is an organism](https://meltingasphalt.com/a-codebase-is-an-organism/).
+  Software which is broken because there is no incentive to ship good software is going to stay broken until we manage to change those incentives.
 
 - **Choose portability over efficiency**.
   If today's hardware just about runs a program with just about adequate efficiency, tomorrow's will run it with power to spare.

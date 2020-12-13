@@ -13,7 +13,7 @@
   - Processes:
     - Write status updates.
   - Conventions:
-    - Confirm decisions to move them forward.
+    - [Confirm and log decisions](https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/) to move them forward.
     - Offer conclusions in long discussions.
   - Meetings:
     - Update meetings:
