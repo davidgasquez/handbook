@@ -1,7 +1,10 @@
 # Rationality
 
+- For each subject you think you know, ask the following questions:
+  - How could I be wrong about this?
+  - What evidence would convince me I'm wrong?
 - Absolute truth is relative to everyone and you don't know everything.
-- Stress test your ideas with experiments and facts. Test your assumptions/beliefs as many times as possible. A great way to do that is to bet on future outcomes. Anything you know or do could be wrong.
+- Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible. A great way to do that is to bet on future outcomes. Anything you know or do could be wrong.
 - Avoiding stupidity is easier than seeking brilliance. Think backward so that you can avoid failures.
 - We do not know what we don't know. Gather as much context as you can before making any final statement.
 - Research before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
