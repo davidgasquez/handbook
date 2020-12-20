@@ -43,7 +43,9 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - [Show me a man who thinks he's objective and I'll show you a man who's deceiving himself](https://www.collaborativefund.com/blog/a-few-rules/). Henry Luce.
 - The real problem of humanity is the following: we have Paleolithic emotions, medieval institutions, and god-like technology. Edward O. Wilson.
 - You could be good today. But instead, you choose tomorrow. Marcus Aurelius.
-- Happiness is a cookie that your brain bakes for itself. It's not made by the environment. The environment cannot make you happy. Joscha Bach
+- Happiness is a cookie that your brain bakes for itself. It's not made by the environment. The environment cannot make you happy. Joscha Bach.
+- Start now. Start where you are. Start with fear. Start with pain. Start with doubt. Start with hands shaking. Start with voice trembling but start. Start and don’t stop. Start where you are, with what you have. Just... start. Ijeoma Umebinyuo
+- We have two lives, and the second begins when we realize we only have one. Confucius.
 
 ## External Lists
 
