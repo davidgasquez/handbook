@@ -4,6 +4,8 @@ How you live affects how long and how happy you live. Your health impacts everyo
 
 You get healthy, and more importantly stay healthy, by accumulating significant, but livable, improvements to your lifestyle over time, and building on that.
 
+Self-improvement can mean getting better at managing difficult parts of your genetic profile, and those lessons can be handed on to future generations who share those traits, which improves the lives of all the generations downstream.
+
 ## Fitness
 
 - Exercise is the most important lifestyle intervention you can do.
