@@ -4,7 +4,7 @@
   - How could I be wrong about this?
   - What evidence would convince me I'm wrong?
 - Absolute truth is relative to everyone and you don't know everything.
-- Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible. A great way to do that is to bet on future outcomes. Anything you know or do could be wrong.
+- Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible. A great way to do that is to bet on future outcomes. Anything you know or do could be wrong. You get less dumb by saying things and getting feedback.
 - Avoiding stupidity is easier than seeking brilliance. Think backward so that you can avoid failures.
 - We do not know what we don't know. Gather as much context as you can before making any final statement.
 - Research before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
@@ -56,6 +56,7 @@
 - Ask what information would cause you to change your mind. If you don't have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
 - How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can't take back, then it's worth really, really understanding. Aim for preserving optionality.
 - We are all susceptible to bias, almost all the time. A way to detect bias and minimize the decision impact is to [run it by a bias checklist](https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T).
+  - Noticing biases in others is easy, noticing biases in yourself is hard.
 - [There are many reasons why smart people may make a poor decision](https://nesslabs.com/decision-making); Overconfidence, Analysis paralysis, Information overload, Lack of emotional or physical resources, ...
 - Decision making styles:
   - Intuitive vs. Rational. System 1 vs System 2.
@@ -69,6 +70,7 @@
   5. Develop and implement a plan of action. Act on that decision.
   6. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get. The evaluation should be made [without taking account the outcome](https://en.wikipedia.org/wiki/Outcome_bias) since it wasn't known at decission time.
 - Beware of cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else. They have no skin in the game and no incentives.
+- You have a plan. A time-traveller from the future appears and tells you your plan failed. Which part of your plan do you think is the one that fails? Fix that part.
 
 ## Problem Solving
 
@@ -84,7 +86,7 @@
   - Insight is best thought of as a change in problem representation. The way we frame problems makes them more or less difficult.
 - [Problem solving can be understood as a search problem](https://rs.io/the-science-of-problem-solving/). You start in some state, there's a set of neighbor states you can move to, and a final state that you would like to end up in.
 - Taking breaks during working on a problem solving is called incubation. Incubation enhances problem solving ability.
-- To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others.
+- To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others. Explaining problems is good. Often in the process of laying out a problem, a solution will present itself.
 - Grossman's Law: Complex problems have simple, easy to understand wrong answers. Simple explanations are appealing even when they're wrong.
 - Aim for a Minimum Viable Solution. **Start small and iterate**. Fail early and learn from it. That allows you to explore, then exploit.
 - When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away ([Via Negativa](https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/)). For example, the foods you avoid are more important than the foods you eat.

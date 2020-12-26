@@ -1,6 +1,6 @@
 # Habits
 
-[We, humans, are basically habit machines](https://twitter.com/JamesClear/status/1059504529111158784). We form habits. We run on those habits all day long. Your outcomes are a lagging measure of your habits. How we spend your days is how you spend your life. Every action you take is a vote for the type of person you wish to become.
+[We, humans, are basically habit machines](https://twitter.com/JamesClear/status/1059504529111158784). We form habits. We run on those habits all day long. Your outcomes are a lagging measure of your habits. How you spend your days is how you spend your life. Every action you take is a vote for the type of person you wish to become.
 
 Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time. The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it ([ego depletion](https://en.wikipedia.org/wiki/Ego_depletion)). Habits will keep the frontal cortex free to solve other problems.
 

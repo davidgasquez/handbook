@@ -27,7 +27,7 @@
       - How the most important customers are succeeding (or not) using the product.
       - How the team is performing and any people changes needed.
       - Financial position of the company and review of metrics.
-  - Responsibilities.
+  - Responsibilities. Things that aren’t your fault can still be your responsibility.
   - Defaults. For example, each thing should have a place by default, docs, issues, ...
 - You can create a Handbook to put everything together.
   - Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.

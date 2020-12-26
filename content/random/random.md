@@ -124,7 +124,7 @@ A few interesting ones:
 - Look at houses based on the life style you have not the life style you aspire to have.
 - Balance commuting against other goods and costs (Commuting Paradox).
 - The availability heuristic says that people overcount scenarios that are easy and vivid to imagine, and undercount scenarios that don't involve any readily available examples or mental images. The real estate version of this fallacy involves exciting opportunities that you will rarely or never use. For example, a house with a pool may bring to mind the opportunity to hold pool parties. But most such plans will probably fall victim to akrasia, and even if they don't, how often can one person throw pool parties without exhausting their friends' interest? Pool parties may be fun to imagine, but they'll probably only affect a few hours every couple of months. Other factors, like the commuting distance and whether your children end up in a nice school, may affect several hours every day.
-- Good illumination (daylight has a strong effect on mood) and a view of natural beauty (nature increases mental functioning and concentration) aren't just pleasant luxuries, but can make important practical differences in your life.
+- Good illumination (daylight has a strong effect on mood) and a view of natural beauty (nature increases mental functioning and concentration) aren't just pleasant luxuries, but can make important practical differences in your life. Light and plants make a difference!
 - Research nearby future facilities. Schools, shopping malls, coffee shops, transportation, ...
 - Treat it as an asset. Think for how much it'll sell.
 

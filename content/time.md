@@ -2,7 +2,7 @@
 
 Time is the most valuable and least replaceable resource. Life is short. Just like money, [time must be explicitly managed](https://youtu.be/oTugjssqOT0). If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive. Days are long but decades are short.
 
-- We have limited time and we must choose how to spend it. Unfortunately, we rarely take the time to consciously do this.
+- We have limited time and we must choose how to spend it. Unfortunately, we rarely take the time to consciously do this. Remember that you are dying.
 - Learn to prioritize, and value your time. "I don't have time" is another way of saying "it's not a priority". Busyness is a lack of priorities.
   - [Separate decisions into four possibilities based on the type of decision](https://fs.blog/2018/09/decision-matrix/):
     1. Irreversible and inconsequential
@@ -24,10 +24,12 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 - When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter.
 - Routines speed up your life. Time will blow by quicker if you are covered in meaningless routines. What is worse, your days will become blurred - each day - too similar to the next - for you brain to hold on to distinct memories. On the other hand, routines also help to reduce decision fatigue so that you have room for more important decisions. Make sure the routines you have are the ones you need.
 - Protect attention. Attention is a ridiculously valuable resource and should be treated as such. Reduce cognitive load, reduce distractions, reduce mental clutter, etc.
+- Things you use for a significant fraction of your life are worth investing in.
 
 ## Productivity
 
 - Define the task requirements and goals clearly.
+- Done is better than perfect.
 - Do the worst thing first. Give yourself a reward once you're done.
 - Create smaller chunks. This helps getting in the flow (find the right balance between the challenge of the activity and your own skills levels). Avoid multitasking.
 - Leverage the power of positive pressure by publicly committing to your goals.
@@ -35,6 +37,7 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 - What is optimal for me won't be optimal for you. You'll have to experiment to find out what works best for you.
 - Keep a log of what happened each day. You can also add what you've learned!
 - Create checklist for repetitive processes. For example, a checklist detailing all the task to do before ending the day.
+- "Where is the good knife?" If you're looking for your good X, you have bad Xs. Throw those out.
 
 ## Focus
 

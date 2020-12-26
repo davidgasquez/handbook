@@ -27,7 +27,7 @@ Values are what you stand for in life — they are often things that you are for
 - Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your time.
 - Be aware of your internal state. Making this more visible makes a better feedback loop.
 - One task at a time. [No distractions](time.md##focus).
-- KISS.
+- KISS. What would less/simple look like?
   - When [communicating](communications.md), do it in a clear and concise way.
   - When [facing a problem](rationality.md#problem-solving), prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would this look like if it was simple?
   - Remove friction. Focus on essentials.
@@ -40,13 +40,14 @@ Values are what you stand for in life — they are often things that you are for
   - Every person is inherently valuable independent of behavior and beliefs. Create safe spaces for people, and a dangerous space for ideas ([idea labs](https://mobile.twitter.com/waitbutwhy/status/1278035160454348800)). When you have a nice thing to say about someone, say it to them right away, instead of waiting. You might not see them again.
 - Prefer delayed gratification, making short term sacrifices to get long term benefits.
 - Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to make decisions and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.
-- Don't judge. Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice.
+- Don't judge. Reality is neutral. Reality has no judgments. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Why are you taking something so seriously?
 - Our internal state shapes how we experience the external state. You never know the whole story. Everything is connected. Humans are messy and life is messy. Yet we try to fit everything into human made buckets. Losing most of the nuance in the process.
 - Recognize that tradeoffs happen everywhere. List them explicitly.
   - We trade time against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.
 - Appreciate what you have. Showing gratitude for the good things you have is the most powerful happiness boosting activity there is.
 - Do not change because of what others or society want, change because of what you want. It's easy to get carried by the environment and start doing things you don't want to do.
 - Ignore the irrational and [unproductive obsession](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) with what other people think of you. Figure out what actually matters to you and live according to it.
+- Don't punish people for trying. You teach them to not try things or not to try them with you.
 
 ## Openness
 

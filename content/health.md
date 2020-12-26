@@ -6,6 +6,7 @@ You get healthy, and more importantly stay healthy, by accumulating significant,
 
 ## Fitness
 
+- Exercise is the most important lifestyle intervention you can do.
 - Never sit for prolonged times. Take breaks standing or walking around.
 - Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.
 - [Going for a walk has lots benefits](https://www.betterhealth.vic.gov.au/health/healthyliving/walking-for-good-health). Around 30 minutes a day on most days of the week is a great way to improve or maintain your overall health.
@@ -124,3 +125,9 @@ You get healthy, and more importantly stay healthy, by accumulating significant,
 3. I wish I'd had the courage to express my feelings.
 4. I wish I had stayed in touch with my friends.
 5. I wish that I had let myself be happier.
+
+## Life Advice
+
+- If you listen to successful people talk about their approaches, remember that all the people who used the same methods and failed [did not share anything about it](https://en.wikipedia.org/wiki/Survivorship_bias).
+- [100 Ways To Live Better](https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-better).
+- [Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life).
