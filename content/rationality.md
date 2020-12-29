@@ -5,6 +5,7 @@
   - What evidence would convince me I'm wrong?
 - Absolute truth is relative to everyone and you don't know everything.
 - Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible. A great way to do that is to bet on future outcomes. Anything you know or do could be wrong. You get less dumb by saying things and getting feedback.
+  - Knowledge decays. Things you learned in the past might not be true nowadays (_status of Pluto as a planet, dinosaurs with feathers, number of people living, ..._). [Facts decay over time until they are no longer facts or perhaps no longer complete](https://fs.blog/2018/03/half-life/).
 - Avoiding stupidity is easier than seeking brilliance. Think backward so that you can avoid failures.
 - We do not know what we don't know. Gather as much context as you can before making any final statement.
 - Research before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
@@ -48,7 +49,7 @@
   - Prioritizing — Which path should you take first?
   - Allocating — How much attention, time, and capital should you spend on this?
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
-- Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy.
+- Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. Transparency is key for group decissions.
 - [The fog of the future hides vital information](https://youtu.be/SVmEXdGqO-s).
 - If all options are similar take the harder one in the short term (_Hard decisions easy life, easy decisions, hard life_).
 - Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/incentives/environmental changes.
@@ -70,6 +71,7 @@
   5. Develop and implement a plan of action. Act on that decision.
   6. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get. The evaluation should be made [without taking account the outcome](https://en.wikipedia.org/wiki/Outcome_bias) since it wasn't known at decission time.
 - Beware of cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else. They have no skin in the game and no incentives.
+  - [The decision makers shouldn't have competing incentives with the decision outcome](https://www.youtube.com/watch?v=Rwxkqno1PTc).
 - You have a plan. A time-traveller from the future appears and tells you your plan failed. Which part of your plan do you think is the one that fails? Fix that part.
 
 ## Problem Solving

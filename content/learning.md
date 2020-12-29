@@ -13,7 +13,7 @@
 - People learn when they're surprised.
 - There are two modes of thinking:
   - Focused: When you're actively trying to learn something. One task at a time.
-  - Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks \(playing, sleeping, doing exercise, ...\).
+  - Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks (playing, sleeping, doing exercise, ...).
 - Reading is a meta-skill. Learn to read and understand so you can trade time reading for some skills.
 - Experience ideas directly. Use the [ADEPT](https://betterexplained.com/articles/adept-method/) method as a checklist for what helps a concept click:
   - Have an Analogy about it.
@@ -28,6 +28,7 @@
 - Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
 - One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad habits right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.
 - For some subjects, [there’s no speed limit](https://sive.rs/kimo). If you’re more driven than most people, you can do way more than anyone expects.
+- A great way to spot what is probably true in any field is to find multiple people with different worldviews on a topic and see which parts do they agree upon.
 
 ## Spaced Repetition
 
