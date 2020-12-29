@@ -20,7 +20,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Make it work, make it right, make it fast**.
   Build a prototype as soon as possible to get a sense of the entire process.
   Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
-  Apply small improvements at each iteration.
+  Apply small improvements at each iteration. Running the program will make it more resilient and robust as more errors get fixed.
   Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
   [The computer is a machine, but a codebase is an organism](https://meltingasphalt.com/a-codebase-is-an-organism/).
   Software which is broken because there is no incentive to ship good software is going to stay broken until we manage to change those incentives.
@@ -52,7 +52,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   [The computer is a machine, but a codebase is an organism](https://meltingasphalt.com/a-codebase-is-an-organism/). The organic nature of code manifests itself in the dual forces of growth and decay. It also suggests that you should know your code smells. These smells won't be causing problems during execution, on the machine. Instead, it's going to cause problems during evolution of the codebase.
 
 - **Look for the 80% solution**.
-  Doing 100% of anything is difficult.
+  Doing 100% of anything is difficult. [Don't focus on perfection](https://youtu.be/pYIho556BS8?list=PLypiXJdtIca7i8IrNye4IenjnUCP9LF35).
   Focusing in the 80% is far more efficient and cost-effective. "Better" is the enemy of "good".
   Handle the 80% and let the 20% fend for themselves.
   80% of the impact comes from 20% of the work.
