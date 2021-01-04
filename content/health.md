@@ -2,7 +2,7 @@
 
 How you live affects how long and how happy you live. Your health impacts everyone around you including your loved ones. Don't [maximize misery](https://www.youtube.com/watch?v=LO1mTELoj6o). Our bodies and minds are built to live in a tribe in 50,000BC, which leaves modern humans with a number of unfortunate traits (fixation with tribal-style social survival, attracted to energy dense food, ...).
 
-You get healthy, and more importantly stay healthy, by accumulating significant, but livable, improvements to your lifestyle over time, and building on that.
+You get healthy, and more importantly stay healthy, by accumulating significant, but livable, improvements to your lifestyle over time, and building on that. Although time is the ultimate resource, the lack of energy will always be the first limiting factor. Therefore prioritizing health, sleep, exercise, and other such aspects will always pay off far more than what you sacrifice on them.
 
 Self-improvement can mean getting better at managing difficult parts of your genetic profile, and those lessons can be handed on to future generations who share those traits, which improves the lives of all the generations downstream.
 
@@ -43,6 +43,7 @@ Self-improvement can mean getting better at managing difficult parts of your gen
 - [Avoid sleep disruptors](https://alexvermeer.com/life-hacking/#sleep). Don't drink a lot of alcohol, don't eat large meals right before bed, don't have caffeine past mid-afternoon, don't watch super-intense movies right before bed, etc.
 - Spend the time to find the mattress, pillow, and sheets that work for you.
 - [Exercise](##fitness).
+- Resting well is one of the highest compounding life habits. Makes everything else better. The better you rest, the more you enjoy life.
 
 ## Mental
 

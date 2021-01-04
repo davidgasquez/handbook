@@ -51,6 +51,8 @@ To better accomplish positive life change, [give yourself a theme](https://youtu
 - Iteration
 - Attention
 
+The goal is to continually make some progress on areas of your life that are important but not urgent.
+
 ## Routine
 
 A way to keep yourself on track with your habits is to have a morning routine.
