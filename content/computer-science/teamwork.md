@@ -135,6 +135,8 @@
   7. Cross-cutting concerns. This is where your organization can ensure that certain cross-cutting concerns such as security, privacy, and observability are always taken into consideration. These are often relatively short sections that explain how the design impacts the concern and how the concern is addressed. Teams should standardize what these concerns are in their case.
 - In many docs a diagram can be useful.
 - The steps in the lifecycle of a design document are: Create, Iterate, Review, Implement, Iterate and Learn.
+- [The RFC and feedbacks should be posted publicly. Everyone can join the discussion. The goal is to include as many people as possible to access more points of view and spread the knowledge simultaneously](https://candost.blog/how-to-stop-endless-discussions/).
+- The process brings accountability. Whoever writes the proposal should be kept accountable. When people know that they will be accountable, they tend to approach more carefully and consider different aspects seriously.
 
 ### Resources
 
