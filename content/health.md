@@ -15,6 +15,8 @@ Self-improvement can mean getting better at managing difficult parts of your gen
 - If you train for strength rest for at least 4 minutes before doing another set.
 - Lifting weights makes you stronger and healthier, improves your posture, makes you less injury prone, and strengthens your bones.
 - Cardio helps stabilize hormone levels, improves endurance and recovery, helps the body fuel calories away from the fat cells and into the muscle, helps with weight maintenance, generally keeps you healthy, and finally burns calories.
+- For fat loss, HIIT is better than cardio.
+- [Having more muscle mass will increase your metabolioc rate and help you stay lean more time](https://youtu.be/IX7MZrgIycw).
 - Static stretching (any stretching done in place, holding for X number of seconds) should never be done before exercise. Instead, perform active movements simulating the exercise you are about to perform.
 
 ### Posture
@@ -51,6 +53,7 @@ Self-improvement can mean getting better at managing difficult parts of your gen
 - We benefit from approaching mental health like we invest in anything else in our lives (finances, relationships, careers, physical health, etc), where one builds wealth in this area by continuous, conscious investment.
 - Be grateful for all the people and things you have. Accept you're not in full control of your destiny. [Success is luck dependant](https://youtu.be/3LopI4YeC4I).
 - Lots of little good things is the path to happiness. You want frequent boosts not rare big stuff.
+- Maintain strong social ties. Social relationships boost happiness.
 
 ## Nutrition
 
