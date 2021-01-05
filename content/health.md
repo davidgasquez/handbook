@@ -43,7 +43,7 @@ Self-improvement can mean getting better at managing difficult parts of your gen
 - [Avoid sleep disruptors](https://alexvermeer.com/life-hacking/#sleep). Don't drink a lot of alcohol, don't eat large meals right before bed, don't have caffeine past mid-afternoon, don't watch super-intense movies right before bed, etc.
 - Spend the time to find the mattress, pillow, and sheets that work for you.
 - [Exercise](##fitness).
-- Resting well is one of the highest compounding life habits. Makes everything else better. The better you rest, the more you enjoy life.
+- [Resting well is one of the highest compounding life habits](https://news.ycombinator.com/item?id=25582000). Makes everything else better. The better you rest, the more you enjoy life.
 
 ## Mental
 

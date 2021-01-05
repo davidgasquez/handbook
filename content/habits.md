@@ -51,7 +51,7 @@ To better accomplish positive life change, [give yourself a theme](https://youtu
 - Iteration
 - Attention
 
-The goal is to continually make some progress on areas of your life that are important but not urgent.
+[The goal is to continually make some progress on areas of your life that are important but not urgent](https://news.ycombinator.com/item?id=25582580).
 
 ## Routine
 
