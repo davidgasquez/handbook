@@ -48,6 +48,7 @@ Values are what you stand for in life — they are often things that you are for
 - Do not change because of what others or society want, change because of what you want. It's easy to get carried by the environment and start doing things you don't want to do.
 - Ignore the irrational and [unproductive obsession](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) with what other people think of you. Figure out what actually matters to you and live according to it.
 - Don't punish people for trying. You teach them to not try things or not to try them with you.
+- [What gives you energy and what sucks your energy?](https://twitter.com/rrhoover/status/1346268904239161344) Figure it out and act accordingly.
 
 ## Openness
 
