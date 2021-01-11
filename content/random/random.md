@@ -146,6 +146,7 @@ A few interesting ones:
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ). Maker/robotics enthusiast/non-engineer. Have become somewhat of an expert in shitty robots.
 - [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart). Science videos every week!
 - [This Place](https://www.youtube.com/channel/UCViwi-dXACoy9Pee73NvgJw). Interesting and science and technology videos.
+- [exurb1a](https://www.youtube.com/channel/UCViwi-dXACoy9Pee73NvgJw). Explores our weird universe in a fun way.
 
 ## Interesting Podcasts
 
