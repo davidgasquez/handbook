@@ -23,7 +23,7 @@ Values are what you stand for in life — they are often things that you are for
 
 ## Mindfulness
 
-- Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful and [mindful](health.md##meditation) about it. You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment as a child does. [Life is short](http://paulgraham.com/vb.html).
+- Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful and [mindful](health.md##meditation) about it. You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment as a child does. [Life is short](http://paulgraham.com/vb.html), [enjoy the silly bit in between](https://youtu.be/-mu780uB7mI).
 - Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your time.
 - Be aware of your internal state. Making this more visible makes a better feedback loop. Ask yourself, as many times as possible every day "Am I conscious now?".
 - One task at a time. [No distractions](time.md##focus).

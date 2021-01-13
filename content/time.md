@@ -23,7 +23,7 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 - Work expands to fill the time available. If you have six months to complete a task, it will take six months to complete. That's [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law).
 - When you get an invitation to do something in the future, ask yourself: would you accept this if it was scheduled for tomorrow? Not too many promises will pass that immediacy filter.
 - Routines speed up your life. Time will blow by quicker if you are covered in meaningless routines. What is worse, your days will become blurred - each day - too similar to the next - for you brain to hold on to distinct memories. On the other hand, routines also help to reduce decision fatigue so that you have room for more important decisions. Make sure the routines you have are the ones you need.
-- Protect attention. Attention is a ridiculously valuable resource and should be treated as such. Reduce cognitive load, reduce distractions, reduce mental clutter, etc.
+- [Protect attention](https://youtu.be/VpHyLG-sc4g). Attention is a ridiculously valuable resource and should be treated as such. Reduce cognitive load, reduce distractions, reduce mental clutter, etc.
 - Things you use for a significant fraction of your life are worth investing in.
 
 ## Productivity
