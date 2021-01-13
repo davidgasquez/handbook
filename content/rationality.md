@@ -51,6 +51,11 @@
 - The decisions you make fall into two categories:
   - Prioritizing — Which path should you take first?
   - Allocating — How much attention, time, and capital should you spend on this?
+- [Separate decisions into four possibilities based on the type of decision](https://fs.blog/2018/09/decision-matrix/):
+  1. Irreversible and inconsequential.
+  2. Irreversible and consequential. These are the ones that you really need to focus on.
+  3. Reversible and inconsequential
+  4. Reversible and consequential. Perfect decisions to run experiments and gather information.
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
 - Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. Transparency is key for group decissions.
 - [The fog of the future hides vital information](https://youtu.be/SVmEXdGqO-s).

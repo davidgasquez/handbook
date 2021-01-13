@@ -4,7 +4,6 @@
 - When coming up with a long-term technical vision is important to stay abstract.
   - Stick to defining components and keep concepts. Show how the components interact.
   - Define boundaries and limitations of each component.
-  - Write tech specs before you write software (examples in [Codeburst](https://codeburst.io/on-writing-tech-specs-6404c9791159) and [Lyft](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
 - Define the culture and values. [Culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md) is simply a shared way of doing something with passion. Culture is created and re-created by the choices made by individuals every day. It can be reshaped by conscious effort applied gently, subtly, and consistently. It is also a shared mechanism for problem solving.
   - Make the right thing to do the easiest thing to do.
   - Solve problems by fixing the environment that allowed them to occur.
@@ -46,8 +45,9 @@
 - Build a culture of stopping to fix problems, to get quality right the first time.
 - Standardized tasks and processes are the foundation for continuous improvement and employee empowerment.
 - Standardization should be based on tooling and [automation](programming.md#automation).
-- Someone should be the information hub. It helps connecting the dots that wouldn't otherwise get connected.
+- Someone should be the information hub (librarian). It helps connecting the dots that wouldn't otherwise get connected.
 - Meetings should be as short, focused, and small as possible.
+- Write tech specs before you write software (examples in [Codeburst](https://codeburst.io on-writing-tech-specs-6404c9791159) and [Lyft](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
 - Write postmortems after large incidents. This will create a feedback loop to guide learning about what happened and how it can be avoided next time.
 - Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you're trying to do when requesting help.
 - How to drive change: find people who agree on the problem, start small, experiment, scale, repeat.
@@ -65,7 +65,7 @@
   - The people who work at the company.
   - The process the company uses to get work done.
   - The purpose for which the company exists.
-- [Apolitical](https://twitter.com/naval/status/1263322014372130817) work environment is hard to maintain but more effective. Choose your company battles.
+- [Apolitical](https://twitter.com/naval/status/1263322014372130817) work environment is hard to maintain. Choose your company battles and causes.
 
 ## Engineering Process
 

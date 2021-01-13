@@ -4,11 +4,6 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 
 - We have limited time and we must choose how to spend it. Unfortunately, we rarely take the time to consciously do this. Remember that you are dying.
 - Learn to prioritize, and value your time. "I don't have time" is another way of saying "it's not a priority". Busyness is a lack of priorities.
-  - [Separate decisions into four possibilities based on the type of decision](https://fs.blog/2018/09/decision-matrix/):
-    1. Irreversible and inconsequential
-    2. Irreversible and consequential. These are the ones that you really need to focus on.
-    3. Reversible and inconsequential
-    4. Reversible and consequential. Perfect decisions to run experiments and gather information.
 - Lists help you to summarize your next steps and to not lose focus. If you place them in a very visible place it makes easier to accomplish goals.
   - Decompose lists items into smaller steps.
 - Doing the same thing over and over again without getting tired is what computers are good at, humans have other skills.
