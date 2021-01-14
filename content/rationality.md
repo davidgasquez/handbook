@@ -22,7 +22,7 @@
     - You are fighting to make another argument lose.
   - You are incentivized to believe something, or not to notice something, because of social or financial rewards.
   - You're incentivized not to notice something or think it's important because it'd be physically inconvenient/annoying.
-  - You are offended/angered/defensive/agitated.
+  - You are [offended/angered/defensive/agitated](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world).
   - You are afraid you'll lose something important if you lose a belief.
   - You are arguing about definitions of words instead of ideas.
   - You are confused or surprised. Treat this as a red flag that something about your models is wrong.

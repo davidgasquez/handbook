@@ -19,7 +19,7 @@ Helpful steps for building habits:
 - **One thing at a time**. Don't build a big routine of 15 tasks at once. Ease into it one habit at a time. Changing one at a time routine allows you to isolate the benefits. Remove related bad habits at the same time.
 - **Don't overload yourself**. Leave time in your schedule for play. If it gets to be too much, decide which one you will drop permanently to make rooms for the rest.
 
-Cognitive inertia is the reason that changing our habits can be difficult. The default is always the path of least resistance, which is easy to accept and harder to question. The important thing about inertia is that it is only the initial push that is difficult. After that, progress tends to be smoother.
+Cognitive inertia is the reason that changing our habits can be difficult. The default is always the path of least resistance, which is easy to accept and harder to question. The important thing about inertia is that it is only the initial push that is difficult. After that, progress tends to be smoother. A good life is a series of good days!
 
 ## TAPs
 
