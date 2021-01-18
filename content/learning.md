@@ -29,6 +29,7 @@
 - One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad habits right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.
 - For some subjects, [there’s no speed limit](https://sive.rs/kimo). If you’re more driven than most people, you can do way more than anyone expects.
 - A great way to spot what is probably true in any field is to find multiple people with different worldviews on a topic and see which parts do they agree upon.
+- [Practice, practice, practice](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy). Spend time in the field, practicing the relevant skills first-hand; see both what works and what makes sense. Collect data; run trials. See what other people suggest and test those things yourself. Directly study which things actually produce good results.
 
 ## Spaced Repetition
 
