@@ -29,7 +29,7 @@ Turn vague goals into trigger-action plans (TAPs). **If X then Y**. That works b
 - **The trigger is consistent**. The action is something that you'll always want to do when the trigger is fulfilled.
 - **The TAP furthers your goals**.
 
-That's a system. Goals are good for setting a direction, but systems are best for making progress. You do not rise to the level of your goals. You fall to the level of your systems.
+That's a system. Goals are good for setting a direction, but systems are best for making progress. You do not rise to the level of your goals. You fall to the level of your systems. Build systems to take the right actions effortlessly. Stop trying and start doing. And learn what it really means to optimise.
 
 ## Themes
 

@@ -6,6 +6,11 @@ You get healthy, and more importantly stay healthy, by accumulating significant,
 
 Self-improvement can mean getting better at managing difficult parts of your genetic profile, and those lessons can be handed on to future generations who share those traits, which improves the lives of all the generations downstream.
 
+## Overall
+
+- [We spend most of our lives stuck in bad local optima](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule). We have a set of default actions, standards ways of doing things and solving problems we come across. And these are way better than nothing, but nowhere near optimal. So to get out of a local optima, you need to develop the skill of noticing when you’re in one, being creative to find a better way, and implementing that to move to a better one.
+- Run experiments and try new things, appreciate the value of information. This breaks you out of bad local optima.
+
 ## Fitness
 
 - Exercise is the most important lifestyle intervention you can do.
@@ -61,16 +66,17 @@ Self-improvement can mean getting better at managing difficult parts of your gen
 - When you have great ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.
 - Experiment! The worst that could happen is that you don't like it. Cooking has a short feedback loop. Take risks and you'll get the payoffs. Learn from your mistakes until you succeed.
 - [Fasting can be useful in some situations](https://www.reddit.com/r/productivity/comments/6demoi/why_you_should_try_intermittent_fasting_mood/).
-- [Eat like an adult](https://thefitness.wiki/improving-your-diet/). Eat as healthy as possible.
+- [Eat like an adult](https://thefitness.wiki/improving-your-diet/). Eat as healthy as possible. Generally avoid processed foods, favor nuts and berries for snacks. Elimnate sugars.
 - Drink more water. Water regulates virtually every bodily process in some way. Drinking more water is a simple, virtually cost-free thing you can do to improve your overall health.
-- [It's been shown that the timing of your meals and more specifically your protein intake, doesn't make any difference to the growth of your muscles. Just get adequate protein and calories throughout the day, though you might want to eat something post workout anyway for energy.](https://www.reddit.com/r/leangains/comments/9fxkof/if_you_eat_a_big_preworkout_meal_do_you_need_to/)
+- [It's been shown that the timing of your meals and more specifically your protein intake, doesn't make any difference to the growth of your muscles. Just get adequate protein and calories throughout the day, though you might want to eat something post workout anyway for energy](https://www.reddit.com/r/leangains/comments/9fxkof/if_you_eat_a_big_preworkout_meal_do_you_need_to/).
+-
 
 ### Supplements
 
-- [Fish Oil](https://examine.com/supplements/fish-oil/). Approximately 720mg of EPA and 480mg of DHA a day.
-- Vitamin D. 5000 IU a day.
+- [Fish Oil (Omega 3)](https://examine.com/supplements/fish-oil/). Approximately 720mg of EPA and 480mg of DHA a day.
+- [Vitamin D](https://examine.com/supplements/vitamin-d/). 2000-5000 IU a day from D3. Paired with Vitamin K2 (200 µg).
 - B12.
-- [Creatine](https://examine.com/supplements/creatine/). Get it in monohydrate form and take 5g every day.
+- [Creatine](https://examine.com/supplements/creatine/). Get it in monohydrate form and take 2-5g every morning.
 - [Caffeine](https://examine.com/supplements/caffeine/).
 
 ### Resources
