@@ -40,7 +40,7 @@
 - There's a distinction between tacit knowledge and explicit knowledge:
   - Tacit knowledge is like the knowledge that you use to ride a bicycle—it's complex, experiential, intuitive, hard to put into words.
   - Explicit knowledge is clear and concrete and transferable and (at least somewhat) objectively verifiable. How you ride a bicycle is tacit, but the fact that you can ride a bicycle is explicit. It's a binary fact that can be completely and compactly transferred through words, and that is checkable through experiment.
-- People think in very different styles, related to how they use their senses while thinking. For example, some people see images during a conversation for each concept, others "feel" concepts in their body, others have explicit models that they update, and many have some combination. Also, some people can’t imagine in images, and others can't store faces. It’s very strange that we enter adult life without a shared understanding of this.
+- People think in very different styles, related to how they use their senses while thinking. For example, some people see images during a conversation for each concept, others "feel" concepts in their body, others have explicit models that they update, and many have some combination. Also, some people can't imagine in images, and others can't store faces. It's very strange that we enter adult life without a shared understanding of this.
 - Sometimes inferential distances can be very far apart. You need [willingness to entertain and explore ideas before deciding that they are wrong](https://slatestarcodex.com/2020/05/12/studies-on-slack/). The other person might be on a self-consistent equilibria (someone christian, creationistm, ...) and only changing one view of the world wouldn't work. you have to convince them for all the views. [A clear argument has to lay out an inferential pathway, starting from what the audience already knows or accepts](https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances).
 - [Predictive processing](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) gives us more confidence in an admission that bias is possible, and a hope that there's something other than bias which we can latch onto as a guide. It helps provide a convincing framework we can use to figure out what's going on at all levels of cognition.
 - Don't model the minds inside other people's brains as exactly the same as your own mind. We only have direct first-person knowledge one one mind, one psyche, and one social circle, and we find it tempting to treat it as typical even in the face of contrary evidence. Humans lack insight into their own minds and what is [common among everyone](https://slatestarcodex.com/2014/03/17/what-universal-human-experiences-are-you-missing-without-realizing-it/) or [unusually specific to a few](https://www.lesswrong.com/posts/baTWMegR42PAsH9qJ/generalizing-from-one-example).
@@ -57,7 +57,7 @@
   3. Reversible and inconsequential
   4. Reversible and consequential. Perfect decisions to run experiments and gather information.
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
-- Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. Transparency is key for group decissions.
+- Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. Transparency is key for group decissions. Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow.
 - [The fog of the future hides vital information](https://youtu.be/SVmEXdGqO-s).
 - If all options are similar take the harder one in the short term (_Hard decisions easy life, easy decisions, hard life_).
 - Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/incentives/environmental changes.
@@ -81,6 +81,7 @@
 - Beware of cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else. They have no skin in the game and no incentives.
   - [The decision makers shouldn't have competing incentives with the decision outcome](https://www.youtube.com/watch?v=Rwxkqno1PTc).
 - You have a plan. A time-traveller from the future appears and tells you your plan failed. Which part of your plan do you think is the one that fails? Fix that part.
+- People reason more wisely about other people's problems than about their own.
 
 ## Problem Solving
 
