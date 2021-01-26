@@ -47,6 +47,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - Start now. Start where you are. Start with fear. Start with pain. Start with doubt. Start with hands shaking. Start with voice trembling but start. Start and don’t stop. Start where you are, with what you have. Just... start. Ijeoma Umebinyuo
 - We have two lives, and the second begins when we realize we only have one. Confucius.
 - Civilization advances by extending the number of important operations which we can perform without thinking of them. Alfred North Whitehead.
+- That which can be destroyed by the truth should be. P.C. Hodgell.
 
 ## External Lists
 

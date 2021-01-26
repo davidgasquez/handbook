@@ -6,13 +6,17 @@ Dungeons & Dragons is a cooperative storytelling game that harnesses your imagin
 
 - [Dungeons & Dragons 5th Edition Wiki](http://dnd5e.wikidot.com/).
 - [Dungeons & Dragons Beyond Essentials](https://www.dndbeyond.com/essentials).
-- [Astral](https://www.astraltabletop.com/) - The easiest way to play tabletop roleplaying games online, free.
 - [Cyanomys' Guide To Playing RPGs Online](https://paper.dropbox.com/doc/Cyanomys-Guide-To-Playing-RPGs-Online-v2.1.0-Ef83ststlhPqW0LELrgye#:h2=Cyanomys%E2%80%99-Guide-To-Playing-RPG).
-- Tips:
-  - Try to get information about your current quests from every character. Ask questions for everything that you don't understand.
-  - Explore each place you visit. Check for traps!
-  - Take notes of events, characters, quests and objects.
-  - Let the tank go first.
+- [Practical Guide to Dungeoneering](https://rpgbot.net/dnd5/players/dungeoneering/).
+
+### Tools
+
+- [Astral](https://www.astraltabletop.com/) - The easiest way to play tabletop roleplaying games online, free.
+- [5e Tools/](https://5e.tools/). A suite of tools for 5th Edition Dungeons & Dragons players and Dungeon Masters.
+- [Dungeon Scrawl](https://dungeonscrawl.com/) - Great mapping tool.
+- [Hero Forge](https://www.heroforge.com/). Customize tabletop miniatures.
+- [Tabletop Audio](https://tabletopaudio.com/) - Original 10 minute ambiences and music for your games and stories.
+- [Ambient Mixer](https://rpg.ambient-mixer.com/) - Free audio atmospheres.
 
 ## Pixel Art Resources
 

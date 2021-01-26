@@ -69,7 +69,7 @@ To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking
   2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes. Alter the incentive landscape.
   3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
-Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
+The implicit question is – if everyone hates the current system, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
 A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/). Dividing a large systems into multiple smaller competing ones will make them evolve different ruleset and will allow you to pick the best one.
 
 A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
