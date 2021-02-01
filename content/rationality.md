@@ -9,6 +9,9 @@
 - Avoiding stupidity is easier than seeking brilliance. Think backward so that you can avoid failures.
 - We do not know what we don't know. Gather as much context as you can before making any final statement.
 - Research before judging! [No one knows everything and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
+- Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete.
+  - Real people are complex and flawed, [full of faults and biases](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg). Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out.
+  - Digitizing an analog view will result in some loss of information. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros.
 - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
 - You can try things to find out which ideas are right or wrong. It requires asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
 - Aim to get an accurate picture of reality, even when that's unpleasant.
@@ -35,7 +38,7 @@
 - Mistrust simple comparisons.
 - Be [specific](https://www.lesswrong.com/posts/XosKB3mkvmXMZ3fBQ/specificity-your-brain-s-superpower). Ask yourself the question, "What's an example of that?" Or more bluntly, "Can I be more specific?"
 - The real costs aren't always what is shown. Costs and values are often made of multiple parts. Beware of repeated costs—they add up!
-- [Bet on everything](https://www.lesswrong.com/posts/ybYBCK9D7MZCcdArB/how-to-measure-anything) where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and underconfidence, which will serve you in good stead emotionally when you try to do inadequacy reasoning.
+- [Bet on everything](https://www.lesswrong.com/posts/ybYBCK9D7MZCcdArB/how-to-measure-anything) where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and underconfidence, which will serve you in good stead emotionally when you try to do inadequacy reasoning. It'll also force you to do falsifiable predictions.
 - Do your philosophical thinking in advance ([cached thoughts](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts)), so you can concentrate on explaining well. Above all, practice staying within the one-inferential-step bound. [Think for yourself about "wise" or important or emotionally fraught topics](https://www.lessestwrong.com/posts/aSQy7yHj6nPD44RNo/how-to-seem-and-be-deep) rather than letting your brain complete the pattern. If you don't stop at the first answer, and cast out replies that seem vaguely unsatisfactory, in time your thoughts will form a coherent whole, flowing from the single source of yourself, rather than being fragmentary repetitions of other people's conclusions.
 - There's a distinction between tacit knowledge and explicit knowledge:
   - Tacit knowledge is like the knowledge that you use to ride a bicycle—it's complex, experiential, intuitive, hard to put into words.

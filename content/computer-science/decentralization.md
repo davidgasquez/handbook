@@ -20,6 +20,7 @@
   - Cloud: open source some code, but sell a closed source cloud complement.
   - [Community](https://mobile.twitter.com/balajis/status/1310101055816921090): open source all code, and issue a token or charge for access to the community.
     - Open Source projects would have a protocol. You could buy shares of Kubernetes, Tensorflow, ... or contribute to gain tokens. This incentives contributing and helping people.
+- [Moving to protocols, not platforms](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech), is an approach for free speech in the twenty-first century. Rather than relying on a “marketplace of ideas” within an individual platform—which can be hijacked by those with malicious intent—protocols could lead to a marketplace of ideals, where competition occurs to provide better services that minimize the impact of those with malicious intent, without cutting off their ability to speak entirely.
 - Governance.
 - Blockchains is useful when these conditions are met:
   - The resource is scarce (limited).

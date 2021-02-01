@@ -1,6 +1,8 @@
 # Values
 
-Values are what you stand for in life — they are often things that you are for or against — what you believe in and are willing to support and stand up for. Values make you even if you don't know what are yours. You are what you do (eat, listen, read, watch). Not what you say, not what you believe, not how you vote, but what you spend your time on. These are the values I try to stand for. **Curious, Mindful and Open**.
+Values are what you stand for in life — they are often things that you are for or against — what you believe in and are willing to support and stand up for. Values make you even if you don't know what are yours.
+
+You are what you do (eat, listen, read, watch). Not what you say, not what you believe, not how you vote, but what you spend your time on. These are the values I try to stand for. **Curious, Mindful and Open**.
 
 ## Curiosity
 
@@ -8,30 +10,25 @@ Values are what you stand for in life — they are often things that you are for
   - Read about topics you care, observe the world around you and keep a beginner's mind (*shoshin*).
   - Don't be afraid to [ask a question](rationality.md##asking-questions) that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
   - Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better.
-- Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your [ideas](random/ideas.md) doesn't work out, the community will have learned better why that approach doesn't make sense.
-- Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. [Mistakes](https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...) are the portals of discovery.
-- Practice [rational](rationality.md) thinking.
-- Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much and was built for a different world.
-- Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete.
-  - Real people are complex and flawed, [full of faults and biases](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg). Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out.
-  - Digitizing an analog view will result in some loss of information. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros.
-- [Mental models and other concepts](concepts.md) can help us think more effectively.
-- Remix ideas. Ideas are impacted by evolution. The most useful ones survive and evolve. [Innovation is product of the combinations of ideas](https://youtu.be/XUAIIQFoufs?list=WL).
-- [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail). Surprising detail is a near universal property of getting up close and personal with reality. You experience lots of these details the first time you do something new!
-  - Knowing more about the world makes you enjoy it more. [Understanding how music is made increases the pleasure you get from music](https://youtu.be/JbVfcZxfIZo?list=WL).
-- [If you think you’re going to regret not doing something, you should probably do it](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short). Regret is the worst, and most people regret far more things they didn’t do than things they did do.
+  - [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail). Knowing more about the world makes you enjoy it more. [Understanding how music is made increases the pleasure you get from music](https://youtu.be/JbVfcZxfIZo).
+- Practice [rational](rationality.md) thinking. Learn [mental models and other concepts](concepts.md) that help us think more effectively.
+- Do stuff! Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your [ideas](random/ideas.md) don't work out, the community will learn why that approach doesn't make sense.
+  - Remix ideas. Ideas are impacted by evolution. The most useful ones survive and evolve. [Innovation is product of the combinations of ideas](https://youtu.be/XUAIIQFoufs).
+  - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. [Mistakes](https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...) are the portals of discovery.
+  - [If you think you’re going to regret not doing something, you should probably do it](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short). Most people regret far more things they didn’t do than things they did do.
+- Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much in the last few thousands years and was built for a different world.
 
 ## Mindfulness
 
-- Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful and [mindful](health.md##meditation) about it. You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment as a child does. [Life is short](http://paulgraham.com/vb.html), [enjoy the silly bit in between](https://youtu.be/-mu780uB7mI). More so knowing that [humans quickly return to a relatively stable level of happiness despite major positive or negative events or life changes](https://en.wikipedia.org/wiki/Hedonic_treadmill).
+- Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful and [mindful](health.md##meditation) about it. You take things for granted, and then, they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment as a child does. [Life is short](http://paulgraham.com/vb.html), so [enjoy the silly bit in between](https://youtu.be/-mu780uB7mI). More so knowing that [humans quickly return to a relatively stable level of happiness despite major positive or negative events or life changes](https://en.wikipedia.org/wiki/Hedonic_treadmill).
 - Make time to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your time.
 - Be aware of your internal state. Making this more visible makes a better feedback loop. Ask yourself, as many times as possible every day "Am I conscious now?".
 - One task at a time. [No distractions](time.md##focus).
 - KISS. What would less/simple look like?
   - When [communicating](communications.md), do it in a clear and concise way.
-  - When [facing a problem](rationality.md#problem-solving), prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would this look like if it was simple?
+  - When [facing a problem](rationality.md#problem-solving), prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would it look like if it was simple?
   - Remove friction. Focus on essentials.
-- Live Smarter not Harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md).
+- Live smarter, not harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md).
 - Keep Calm. Own and deal with your emotions. [Focus on what you can control](health.md#stoicism).
   - Think, understand, and listen before [communicating](communications.md).
   - Try to plan the possible outcomes and don't rush.
@@ -44,7 +41,7 @@ Values are what you stand for in life — they are often things that you are for
 - Our internal state shapes how we experience the external state. You never know the whole story. Everything is connected. Humans are messy and life is messy. Yet we try to fit everything into human made buckets. Losing most of the nuance in the process.
 - Recognize that tradeoffs happen everywhere. List them explicitly.
   - We trade time against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.
-- Appreciate what you have. Showing gratitude for the good things you have is the most powerful happiness boosting activity there is. There's no second chance at life. [This is the one chance you have to live as a talking monkey in space at the best point in history as the smartest species on the planet using magic on a daily basis like the internet and jet planes and smartphones with access to all human knowledge at your fingertips and the chance to talk about how cool being alive is](https://youtu.be/VLAAy_pM-k8).
+- Appreciate what you have. [Don't overestimate the hedonic impact of future events](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html). Showing gratitude for the good things you have is the most powerful happiness boosting activity there is. There's no second chance at life. [This is the one chance you have to live as a talking monkey in space at the best point in history as the smartest species on the planet using magic on a daily basis like the internet and jet planes and smartphones with access to all human knowledge at your fingertips and the chance to talk about how cool being alive is](https://youtu.be/VLAAy_pM-k8).
 - Do not change because of what others or society want, change because of what you want. It's easy to get carried by the environment and start doing things you don't want to do.
 - Ignore the irrational and [unproductive obsession](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) with what other people think of you. Figure out what actually matters to you and live according to it.
 - Don't punish people for trying. You teach them to not try things or not to try them with you.
