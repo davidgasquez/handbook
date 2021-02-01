@@ -43,6 +43,7 @@
 - Aim to be a completely autonomous team. You build it, you run it!
 - Run [Automated Checkings](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
 - Build a culture of stopping to fix problems, to get quality right the first time.
+- Have direct responsible individuals for everything. Everyone's problem is no one's problem. Having a name accountable instead of a vague "the team" or "the process" makes it easy to make changes.
 - Standardized tasks and processes are the foundation for continuous improvement and employee empowerment.
 - Standardization should be based on tooling and [automation](programming.md#automation).
 - Someone should be the information hub (librarian). It helps connecting the dots that wouldn't otherwise get connected.
