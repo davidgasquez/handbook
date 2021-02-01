@@ -4,7 +4,7 @@
   - How could I be wrong about this?
   - What evidence would convince me I'm wrong?
 - Absolute truth is relative to everyone and you don't know everything.
-- Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible. A great way to do that is to bet on future outcomes. Anything you know or do could be wrong. You get less dumb by saying things and getting feedback.
+- Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible. A great way to do that is to bet on future outcomes. Anything you know or do could be wrong. You get less dumb by saying things and getting feedback. [We all have crony beliefs](https://meltingasphalt.com/crony-beliefs/).
   - Knowledge decays. Things you learned in the past might not be true nowadays (_status of Pluto as a planet, dinosaurs with feathers, number of people living, ..._). [Facts decay over time until they are no longer facts or perhaps no longer complete](https://fs.blog/2018/03/half-life/).
 - Avoiding stupidity is easier than seeking brilliance. Think backward so that you can avoid failures.
 - We do not know what we don't know. Gather as much context as you can before making any final statement.
@@ -12,6 +12,8 @@
 - Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete.
   - Real people are complex and flawed, [full of faults and biases](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg). Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out.
   - Digitizing an analog view will result in some loss of information. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros.
+- Everyone belongs to a tribe and underestimates how influential that tribe is on their thinking. Tribes reduce the ability to challenge ideas or diversify your views because no one wants to lose support of the tribe. Tribes are as self-interested as people, encouraging ideas and narratives that promote their survival. But they're exponentially more influential than any single person. So tribes are very effective at promoting views that aren't analytical or rational, and people loyal to their tribes are very poor at realizing it.
+- [We're all biased to our own personal history](https://www.collaborativefund.com/blog/ideas-that-changed-my-life/). Your personal experiences make up maybe 0.00000001% of what's happened in the world but maybe 80% of how you think the world works.
 - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
 - You can try things to find out which ideas are right or wrong. It requires asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
 - Aim to get an accurate picture of reality, even when that's unpleasant.
