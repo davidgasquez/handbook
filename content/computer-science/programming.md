@@ -115,6 +115,15 @@ Version control software enables teams to work in distributed and asynchronous e
 - Drive standards through automation and building internal tools/scripts rather than through extensive documentation.
 - Makefiles are a great way to document and consolidate different projects of a team. Each project should have a `make` that runs it, and perhaps a `make deploy` to deploy it. Language and tool independent!
 
+## Documentation
+
+- If your product/tool/process documentation is not good enough, people will not use it.
+- [Documentation needs to include and be structured around its four different functions: tutorials, how-to guides, technical reference and explanation](https://documentation.divio.com/introduction/). Each of them requires a distinct mode of writing.
+  - A tutorial is learning-oriented, allows the newcomer to get started, similar to a lesson. E.g: teaching a small child how to cook.
+- A how-to guide is goal-oriented, shows how to solve a specific problem with a series of steps. E.g: a recipe in a cookery book.
+- An explanation is understanding-oriented, provides background and context. E.g: an article on culinary social history.
+- A reference guide is information-oriented, describes the machinery and is accurate and complete. E.g: a reference encyclopaedia article.
+
 ## Databases
 
 - As in any other place, stick to a naming convention to keep things sane.
