@@ -55,7 +55,7 @@
 - The group with the most power determine the system that reflect and reinforce their own way of thinking. Aim for inclusion. Diversity is being invited to the party. Inclusion is being asked to dance and help organizing the party.
 - [Brainstorm for questions first. Then find the answers.](https://getpocket.com/explore/item/better-brainstorming)
 - Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships. [Don't try to optimize that number or it'll be gamed](https://www.fast.ai/2019/09/24/metrics/). When a measure becomes a target, it ceases to be a good measure. Not everything that counts can be measured, and not everything that can be measured counts.
-- Data can be valuable in helping us understand the world, test hypotheses, and move beyond gut instincts or hunches. Metrics can be useful when they are in their proper context and place.
+- Data can be valuable in helping us understand the world, test hypotheses, and move beyond gut instincts or hunches. Metrics can be useful when they are in their proper context and place. [The trickiest part of designing a metric is defining it](https://twitter.com/bbalfour/status/1357819749263052800).
 - Strive for constructive conflict. Get people to ask questions. Engage in passionate, unfiltered debate about what you need to do to succeed.
 - Encourage to fail. Failing is good if the team learn from it!
 - Beware of Law of triviality. People within an organization commonly or typically give disproportionate weight to trivial issues.
