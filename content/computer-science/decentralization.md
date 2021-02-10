@@ -11,7 +11,7 @@
 - Proof of work is a mathematical problem that takes time to solve. Solving it proves that you've spent some time trying combinations until it worked. Proof of work creates scarcity. The blockchain knows that the miners are spending its time and resources on proving the mathematical puzzles.
 - Ethereum serves as a platform (turing complete) to create (blockchain) apps the same way Android/iOS does on mobile.
   - Its much more flexible than Bitcoin and that makes it riskier.
-- Forks in blockchain act like genetic mutations. The users will apply pressure and protocols will evolve.
+- Forks in blockchain act like genetic mutations. The users will apply pressure and protocols will evolve. You can fork cryptocurrencies, you can't do that with companies and that makes blockchains more resilient.
 - [Fat Protocols](https://www.usv.com/writing/2016/08/fat-protocols/).
   - On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are necessary but not valuable. Value is captured by the apps.
   - Fat protocols will use tools like blockchain to store the data. With open protocols and decentralized data, apps are only the frontend of the services.
