@@ -44,3 +44,8 @@ Collection of awesome web based tools.
 - [Figma](https://www.figma.com/)
 - [Photopea](https://www.photopea.com/)
 - [Veed.io](https://www.veed.io/)
+
+### Teamwork
+
+- [HackMD](https://hackmd.io/)
+- [Jitsi](https://meet.jit.si/)
