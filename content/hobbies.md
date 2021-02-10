@@ -33,7 +33,6 @@ Dungeons & Dragons is a cooperative storytelling game that harnesses your imagin
 
 - [The NoSurf Activities List](https://nosurf.net/activity-list/)
 
-
 ## Tools
 
 Collection of awesome web based tools.
