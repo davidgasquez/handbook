@@ -32,3 +32,15 @@ Dungeons & Dragons is a cooperative storytelling game that harnesses your imagin
 ## Resources
 
 - [The NoSurf Activities List](https://nosurf.net/activity-list/)
+
+
+## Tools
+
+Collection of awesome web based tools.
+
+### Design
+
+- [Canva](https://www.canva.com/)
+- [Figma](https://www.figma.com/)
+- [Photopea](https://www.photopea.com/)
+- [Veed.io](https://www.veed.io/)
