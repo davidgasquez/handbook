@@ -48,6 +48,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - We have two lives, and the second begins when we realize we only have one. Confucius.
 - Civilization advances by extending the number of important operations which we can perform without thinking of them. Alfred North Whitehead.
 - That which can be destroyed by the truth should be. P.C. Hodgell.
+- The past is a foreign country, they do things differently there. Leslie Poles Hartley.
 
 ## External Lists
 
