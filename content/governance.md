@@ -9,6 +9,7 @@
 - Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on pre-cached ideology. It's just better to discuss issues without invoking teams.
   - Issues aren't binary. Political parties make it seem so to make it work with their political interests. When you spot a binary question, think if its really a binary one or it is much more nuanced.
 - Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government).
+- [Meritocracy isn't an "-ocracy" like democracy or autocracy, where people in wigs sit down to frame a constitution and decide how things should work. It's a dubious abstraction over the fact that people prefer to have jobs done well rather than poorly, and use their financial and social clout to make this happen](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart).
 - If you think politics is annoying, it's because you're privileged enough to not care about it.
 - Your perception of reality has probably been at least a little manipulated. Your opponents are behaving the way they are based on a perception of reality that's different from your own.
   - What does this look/feel like to the people I don't know?
