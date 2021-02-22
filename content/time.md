@@ -10,6 +10,7 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 - If a task takes less than [two minutes](https://jamesclear.com/how-to-stop-procrastinating), do it. It'll make you more productive and also unclutter your mind task's backlog.
 - Do the tasks in the right order! One strategy might be starting with the one that could make the others irrelevant or easier.
 - Doing one thing requires giving up another. Whenever you explicitly choose to do one thing, you implicitly choose not to do another thing.
+- Timeboxing is planning how you spend your days in advance and it's so effective because it allows you to iterate. If you didn't complete everything you outlined, you know exactly why -- because you've documented how you planned to spend your time.
 - Success can be measured in the percentage of time you have under your control. [To achieve success](https://blog.samaltman.com/how-to-be-successful):
   - Compound yourself. Compounding is magic. Keep long-term thinking with a broad view of how different systems in the world are going to come together.
   - Learn to think independently.
@@ -21,6 +22,7 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 - [Life is lived in 16 hours mini-episodes that we can affect](https://youtu.be/-dYgnvrvQ3M?list=WL).
 - [Protect attention](https://youtu.be/VpHyLG-sc4g). Attention is a ridiculously valuable resource and should be treated as such. Reduce cognitive load, reduce distractions, reduce mental clutter, etc.
 - Things you use for a significant fraction of your life are worth investing in.
+- Mortality is the main source of scarcity. If we had infinite time, we would be less concerned with whether something was faster. The reason speed has value is because time has value; the reason time has value is because human life has value, and lifespans are finite. [If you made lifespans much longer, you'd reduce the effective cost of everything](https://balajis.com/the-purpose-of-technology/). The ultimate purpose of technology is to eliminate mortality.
 
 ## Productivity
 
