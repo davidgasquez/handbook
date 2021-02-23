@@ -169,10 +169,10 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1><a class="header" href="#data" id="data">Data</a></h1>
-<h2><a class="header" href="#data-engineering" id="data-engineering">Data Engineering</a></h2>
+                        <h1 id="data"><a class="header" href="#data">Data</a></h1>
+<h2 id="data-engineering"><a class="header" href="#data-engineering">Data Engineering</a></h2>
 <p>Data Pipelines are a set of actions that extract data, transform it, and then load the final data somewhere. As any <a href="https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/">distributed system</a>, they're tricky to work with. These are some great principles to keep in mind as <a href="https://towardsdatascience.com/lessons-from-a-year-in-the-data-science-trenches-f06efa6355fd">production data engineering is mostly computer science</a>.</p>
-<h3><a class="header" href="#basic-principles" id="basic-principles">Basic Principles</a></h3>
+<h3 id="basic-principles"><a class="header" href="#basic-principles">Basic Principles</a></h3>
 <ul>
 <li>Simplicity: Each steps is easy to understand and modify.</li>
 <li>Reliability: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done extracting the column from the intermediary data without having to query the data source.</li>
@@ -181,7 +181,7 @@
 <li>Efficiency: Low event latency when needed. Easy to scale up and down.</li>
 <li>Flexibility: Steps change to conform data points. Changes don't stop the pipeline or losses data.</li>
 </ul>
-<h3><a class="header" href="#data-flow" id="data-flow">Data Flow</a></h3>
+<h3 id="data-flow"><a class="header" href="#data-flow">Data Flow</a></h3>
 <ul>
 <li>In each step of the pipeline there are producers of data and consumers. Consumers can be also producers, e.g <code>B</code> in <code>A | B | C</code>.
 <ul>
@@ -201,8 +201,8 @@
 <li>Create a few extra columns like <code>processed_at</code> or <code>schema_version</code></li>
 <li>Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the <a href="https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a">Functional Data Engineering Paradigm</a>.</li>
 </ul>
-<h2><a class="header" href="#machine-learning" id="machine-learning">Machine Learning</a></h2>
-<h3><a class="header" href="#a-hrefhttpsgithubcomeugeneyanapplied-mlproduction-project-checklista" id="a-hrefhttpsgithubcomeugeneyanapplied-mlproduction-project-checklista"><a href="https://github.com/eugeneyan/applied-ml">Production Project Checklist</a></a></h3>
+<h2 id="machine-learning"><a class="header" href="#machine-learning">Machine Learning</a></h2>
+<h3 id="a-hrefhttpsgithubcomeugeneyanapplied-mlproduction-project-checklista"><a class="header" href="#a-hrefhttpsgithubcomeugeneyanapplied-mlproduction-project-checklista"><a href="https://github.com/eugeneyan/applied-ml">Production Project Checklist</a></a></h3>
 <ol>
 <li>Frame the problem. Define a clear and concise objective with clear metrics.</li>
 <li>Get the data. Make the data tidy.</li>
@@ -214,7 +214,7 @@
 <li>Iterate. Deliver value first, then iterate. Go back to the first point and change one thing at a time. Machine Learning progress is nonlinear. It's really hard to tell in advance what's hard and what's easy. <a href="https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641">Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever</a>. Track every experient you do. <a href="https://operatorai.substack.com/p/why-do-we-write-machine-learning">Keep a reverse-time sorted doc where we you bullet points of what ideas you've tried and how they've gone</a>. Look for data flywheel, harnessing the power of user's generated data to rapidly improve the whole system. These are powerful feedback loops. Attempt a portfolio of approaches.</li>
 <li>Explain your results in terms your audience cares about. Data is only useful as long as it's being used.</li>
 </ol>
-<h4><a class="header" href="#resources" id="resources">Resources</a></h4>
+<h4 id="resources"><a class="header" href="#resources">Resources</a></h4>
 <ul>
 <li><a href="https://madewithml.com/courses/applied-ml-in-production/">Applied ML in Production</a>.</li>
 <li><a href="https://se-ml.github.io/practices/">Engineering best practices for Machine Learning</a>.</li>
@@ -224,7 +224,7 @@
 <li><a href="https://github.com/chris-chris/ml-engineer-roadmap">Machine Learning Engineer Roadmap</a>.</li>
 <li><a href="https://github.com/visenger/awesome-mlops">Awesome MLOps</a>.<a href="https://github.com/kelvins/awesome-mlops">Another awesome MLOps</a>.</li>
 </ul>
-<h3><a class="header" href="#a-hrefhttpsmatthewmcateermeblogmachine-learning-technical-debtmachine-learning-technical-debta" id="a-hrefhttpsmatthewmcateermeblogmachine-learning-technical-debtmachine-learning-technical-debta"><a href="https://matthewmcateer.me/blog/machine-learning-technical-debt">Machine Learning Technical Debt</a></a></h3>
+<h3 id="a-hrefhttpsmatthewmcateermeblogmachine-learning-technical-debtmachine-learning-technical-debta"><a class="header" href="#a-hrefhttpsmatthewmcateermeblogmachine-learning-technical-debtmachine-learning-technical-debta"><a href="https://matthewmcateer.me/blog/machine-learning-technical-debt">Machine Learning Technical Debt</a></a></h3>
 <p>Tech debt is an analogy for the long-term buildup of costs when engineers make design choices for speed of deployment over everything else. Fixing technical debt can take a lot of work.</p>
 <ul>
 <li>Tack data dependencies.</li>
@@ -232,10 +232,10 @@
 <li>Make sure your data isn't all noise and no signal by making sure your model is at least capable of overfitting.</li>
 <li>Use <a href="https://www.cs.mcgill.ca/%7Ejpineau/ReproducibilityChecklist.pdf">reproducibility checklists when releasing code</a>.</li>
 </ul>
-<h2><a class="header" href="#data-analysis-requests" id="data-analysis-requests">Data Analysis Requests</a></h2>
+<h2 id="data-analysis-requests"><a class="header" href="#data-analysis-requests">Data Analysis Requests</a></h2>
 <p><a href="https://news.ycombinator.com/item?id=22808006">Real impact comes from continuous decision-making and implementing actions with feedback</a>. Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.</p>
 <p>Continuous decision-making — the kind that leads to impact — involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, <a href="https://dfrieds.com/articles/data-science-reality-vs-expectations.html">your impact is tough to measure — data doesn't always translate to value</a>.</p>
-<h3><a class="header" href="#request-checklist" id="request-checklist">Request Checklist</a></h3>
+<h3 id="request-checklist"><a class="header" href="#request-checklist">Request Checklist</a></h3>
 <ol>
 <li>What's the goal of the analysis? Are there related actionable actions? Which kind of decisions is it going to enable? How will this deliver business value within 90 days?</li>
 <li>Where is the data?</li>
@@ -244,7 +244,7 @@
 <li>Make the analysis reproducible.</li>
 <li>Before delivering, summarize.</li>
 </ol>
-<h2><a class="header" href="#resources-1" id="resources-1">Resources</a></h2>
+<h2 id="resources-1"><a class="header" href="#resources-1">Resources</a></h2>
 <ul>
 <li><a href="https://github.com/datasciencemasters/go">The Open-Source Data Science Masters</a>.</li>
 <li><a href="https://datavizcatalogue.com/">The Data Visualization Catalogue</a>.</li>
@@ -258,7 +258,7 @@
 </ul>
 </li>
 </ul>
-<h2><a class="header" href="#great-blog-posts-about-data-engineering" id="great-blog-posts-about-data-engineering">Great Blog Posts about Data Engineering</a></h2>
+<h2 id="great-blog-posts-about-data-engineering"><a class="header" href="#great-blog-posts-about-data-engineering">Great Blog Posts about Data Engineering</a></h2>
 <ul>
 <li><a href="https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007">The AI Hierarchy of Needs</a>.</li>
 <li><a href="https://medium.com/@HelenLeeKupp/why-is-data-hard-3ed96ec70f3f">Why is data hard?</a>.</li>
