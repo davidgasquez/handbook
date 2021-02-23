@@ -1,9 +1,12 @@
-
 # Decentralization
 
 ## Blockchain
 
 - [A blockchain is a decentralized database](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
+- Blockchain solve the Byzantine Generals Problem: [How do participants in a decentralized network communicate and coordinate with each other towards some action without relying on a trusted third-party?](https://a16z.com/2019/11/08/crypto-glossary/).
+  - Blockchains are "trustless". There are mechanisms in place by which all parties in the system can reach a consensus on what the canonical truth is.
+  - Power and trust is distributed (or shared) among the network’s stakeholders (e.g. developers, miners, and consumers), rather than concentrated in a single individual or entity (e.g. banks, governments, and financial institutions).
+  - Blockchains put the code in charge.
 - Cryptocurrencies are a digital version of money protected by cryptography (Merkles Trees).
   - Originally, currencies were actual precious metals, like gold and silver coins. For the sake of portability, these were replaced with bank notes. Pieces of paper which entitled the bearer to a certain quantity of precious metal if they presented them to the bank. That system is known as the gold standard.
   - The gold standard was abandoned in the middle of the 20th century. Now we have "fiat money", which is money that has value simply because everyone agrees it has value. The biggest difference between 20 real dollars and 20 Monopoly dollars now is that you can use the real dollars to pay taxes.
@@ -20,13 +23,19 @@
   - Cloud: open source some code, but sell a closed source cloud complement.
   - [Community](https://mobile.twitter.com/balajis/status/1310101055816921090): open source all code, and issue a token or charge for access to the community.
     - Open Source projects would have a protocol. You could buy shares of Kubernetes, Tensorflow, ... or contribute to gain tokens. This incentives contributing and helping people.
-- [Moving to protocols, not platforms](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech), is an approach for free speech in the twenty-first century. Rather than relying on a “marketplace of ideas” within an individual platform—which can be hijacked by those with malicious intent—protocols could lead to a marketplace of ideals, where competition occurs to provide better services that minimize the impact of those with malicious intent, without cutting off their ability to speak entirely.
-- Governance.
+- [Moving to protocols, not platforms](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech), is an approach for free speech in the twenty-first century. Rather than relying on a "marketplace of ideas" within an individual platform — which can be hijacked by those with malicious intent—protocols could lead to a marketplace of ideals, where competition occurs to provide better services that minimize the impact of those with malicious intent, without cutting off their ability to speak entirely.
+- Governance. Key decisions associated with maintaining and updating cryptonetwork protocols. As with every human organization, aligning interests and beliefs among human participants to reach agreement is the goal of governance.
+  - [In cryptonetworks, these decisions are made by the community, using open and transparent mechanisms](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e).
 - Blockchains is useful when these conditions are met:
   - The resource is scarce (limited).
   - Fungible (there isn't a difference between two items. eg. storing files). All the coins are mutually interchangeable.
   - The resource can be provided by a lot of people.
 - Smart contracts can be defined as code that's replicated and executed on all the blockchain nodes.
+- NFTs (non-fungible tokens): unique assets whose value is independent from one another. For example, an NFT might represent a piece of unique digital artwork.
+  - Today, if you create something digital, ownership is tied in with distribution. If someone makes an `mp3` or a `jpeg` piece of art and post it or sell it online you'll have to have it to consume it (DRM can sometime change this).
+  - With NFTs, the digital asset you create has a clear, provable owner (you!) and anyone you sell it to (and anyone thereafter) can trace it back to you, the creator, and know it is authentic.
+  - When you create this NFT thing, you can create rules around it via a smart contract. One of these rules could be that anytime this piece of art you made is transferred across owners, you get 5% of what the new person paid for it, in perpetuity, automatically.
+- [Blockchains could replace networks with markets](https://twitter.com/naval/status/877467629308395521).
 
 ### Links
 
