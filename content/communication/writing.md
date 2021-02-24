@@ -17,8 +17,7 @@
 - Use positive language rather than negative language.
 - Write in a conversational tone.
 - Use second-person and describe actions to a user. Technical content talks to users when support agents can't.
-- Divide things into small chunks.
-- If you have multiple points in a text, number them to make replies easier.
+- [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/).
 - Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601). Separate the processes of creation from improving. You can't write and edit.
 - You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
 
