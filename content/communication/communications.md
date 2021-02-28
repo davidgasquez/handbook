@@ -63,6 +63,15 @@ We should be arguing in a constructive fashion: treating arguments as an opportu
   - Leave your partner a line of retreat.
   - Instead of taking on a weaker version of your opponent's argument, help the entire debate out by thinking of the best and most charitable version of your opponent's argument, then repeat it back to them to see if it makes sense.
 
+#### [Nonviolent Communication](https://www.clearerthinking.org/post/2019/03/06/want-to-improve-your-relationships-try-nonviolent-communication-1)
+
+Nonviolent communication (NVC) is a popular method of conflict resolution that privileges unbiased evidence and specificity. It is also a tool for thinking that may help improve the way you communicate, whether it be with family, friends, colleagues. The Four Steps of NVC:
+
+1. Observe Facts - observe the specific facts that are affecting our wellbeing, and bring them up with the other person.
+2. Note Feelings - introspect about what exactly we are feeling in response to what we've observed, and communicate these feelings.
+3. Uncover Desires - figure out the desires, wants and values that are creating our feelings, and explain them to the other person.
+4. Make Requests - ask for concrete actions to help resolve the situation.
+
 ### [Double crux]((https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-resolving-disagreement))
 
 Double crux is great framework based on the previous assumptions, were both parties abstract their arguments by one level and find a falsifiable fact that, if proven true, would cause them to change their beliefs.
