@@ -19,7 +19,7 @@
 - Aim to get an accurate picture of reality, even when that's unpleasant.
 - Local Validity: Some argument steps are allowed steps and some argument steps aren't, independently of whether they arrive at an answer you agree with.
 - People can fool you by saying they saw things that they didn't see, telling you some things they know but not others or by using flawed steps when drawing conclusions. When you try to make an argument come out with a particular answer, tou can fool yourself in the same way.
-- You can be the wrong person.
+- You can be the wrong person. [In general, be less sure about what you know than intuition implies](https://www.lesswrong.com/tag/epistemic-modesty).
 - Assume good faith. Trust the other person to be believing things that make sense to them, which you'd have ended up believing if you were exposed to the same stimuli, and that they are generally trying to find the the truth.
 - [Notice](https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html) your internal state (cognitive and emotional). Notice when you are in a failure mode, and step out. For example:
   - [Motivated Reasoning or Soldier Mindset](https://youtu.be/w4RLfVxTGH4?list=WL):
