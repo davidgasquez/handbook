@@ -3,7 +3,7 @@
 - For each subject you think you know, ask the following questions:
   - How could I be wrong about this?
   - What evidence would convince me I'm wrong?
-- Absolute truth is relative to everyone and you don't know everything.
+- Absolute truth is relative to everyone and you don't know everything. Nuance is everywhere.
 - Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible. A great way to do that is to bet on future outcomes. Anything you know or do could be wrong. You get less dumb by saying things and getting feedback. [We all have crony beliefs](https://meltingasphalt.com/crony-beliefs/).
   - Knowledge decays. Things you learned in the past might not be true nowadays (_status of Pluto as a planet, dinosaurs with feathers, number of people living, ..._). [Facts decay over time until they are no longer facts or perhaps no longer complete](https://fs.blog/2018/03/half-life/).
 - Avoiding stupidity is easier than seeking brilliance. Think backward so that you can avoid failures.
@@ -87,6 +87,8 @@
   - [The decision makers shouldn't have competing incentives with the decision outcome](https://www.youtube.com/watch?v=Rwxkqno1PTc).
 - You have a plan. A time-traveller from the future appears and tells you your plan failed. Which part of your plan do you think is the one that fails? Fix that part.
 - People reason more wisely about other people's problems than about their own.
+- When you share something, add the level of confidence you have on it.
+
 
 ## Problem Solving
 
