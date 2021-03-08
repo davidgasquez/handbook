@@ -62,7 +62,9 @@
   3. Reversible and inconsequential
   4. Reversible and consequential. Perfect decisions to run experiments and gather information.
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
-- Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. Transparency is key for group decissions. Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow.
+- Gather all the information you can. Then, schedule time to think deeply about it.
+  - Learn from the mistakes of others. You can't live long enough to make them all yourself.
+  - Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. Transparency is key for group decissions. Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow.
 - [The fog of the future hides vital information](https://youtu.be/SVmEXdGqO-s).
 - If all options are similar take the harder one in the short term (_Hard decisions easy life, easy decisions, hard life_).
 - Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/incentives/environmental changes.

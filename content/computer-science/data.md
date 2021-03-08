@@ -29,7 +29,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 ### [Production Project Checklist](https://github.com/eugeneyan/applied-ml)
 
 1. Frame the problem. Define a clear and concise objective with clear metrics.
-1. Get the data. Make the data tidy.
+1. Get the data. Make the data tidy. Machine learning models are only as reliable as the data used to train them.
 1. Explore the data. Verify any assumptions.
 1. Create a model. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be the [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa). Evaluate the model with the defined metric.
 1. Make sure everything works end to end. _You design it, you train it, you deploy it_. [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html) and automatically. Add a clear description of the model. [Monitor model performance in production](https://youtu.be/hqxQO7MoQIE).

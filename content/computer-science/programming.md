@@ -20,6 +20,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Make it work, make it right, make it fast**.
   Build a prototype as soon as possible to get a sense of the entire process.
   Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
+  There is nothing so useless as doing efficiently that which should not be done at all.
   Apply small improvements at each iteration. Running the program will make it more resilient and robust as more errors get fixed.
   Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
   [The computer is a machine, but a codebase is an organism](https://meltingasphalt.com/a-codebase-is-an-organism/).
