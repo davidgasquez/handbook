@@ -41,9 +41,13 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 
 ## Focus
 
+[Focus (absorption, concentration) is the ability to narrow the attention so as to apply it in a more detailed and penetrating way for sustained periods of time on some chosen part of your present experience](https://www.lesswrong.com/s/xqgwpmwDYsn8osoje/p/35eEHAXis3jMqETod).
+
 - Whatever your primary motivations are in life, you won't get anywhere by waiting for something to happen. Plan!
   - Humans do not think strategically by default.
-- Disable notifications and badges so that you don't mindlessly open distracting apps.
+- Environmental changes can make it easier to attend effectively to the right things.
+  - Removing clutter and other distractions can make attention less difficult, for which the virtues of orderliness and simplicity can help.
+  - Disable notifications and badges so that you don't mindlessly open distracting apps.
 
 ## Investing
 

@@ -30,7 +30,7 @@ You are what you do (eat, listen, read, watch). Not what you say, not what you b
   - Remove friction. Focus on essentials. Complexity itself has costs. It makes life harder to manage, reduces our degrees of freedom, and so forth. Often people do not factor those costs into their decisions as they incrementally and inattentively complexify their lives. A person with the virtue of simplicity asks, of any decision they make, "does this make my life more complex, and if so is that worth it?"
 - Live smarter, not harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md).
 - Keep Calm. Own and deal with your emotions. [Focus on what you can control](health.md#stoicism).
-  - Think, understand, and listen before [communicating](communications.md).
+  - Think, understand, and listen before [communicating](communication/communications.md).
   - Try to plan the possible outcomes and don't rush.
   - Don't worry too much about things that won't matter to you or your loved ones in 10 years.
   - Assume positive intent. No one is your enemy, you're an NPC in their game.
