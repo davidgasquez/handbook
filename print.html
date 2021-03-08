@@ -854,7 +854,12 @@ right in your browser.</li>
 </ol>
 </li>
 <li>To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.</li>
-<li>Gather all the information you can. Then, schedule time to think deeply about it. Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. Transparency is key for group decissions. Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow.</li>
+<li>Gather all the information you can. Then, schedule time to think deeply about it.
+<ul>
+<li>Learn from the mistakes of others. You can't live long enough to make them all yourself.</li>
+<li>Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. Transparency is key for group decissions. Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow.</li>
+</ul>
+</li>
 <li><a href="https://youtu.be/SVmEXdGqO-s">The fog of the future hides vital information</a>.</li>
 <li>If all options are similar take the harder one in the short term (<em>Hard decisions easy life, easy decisions, hard life</em>).</li>
 <li>Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/incentives/environmental changes.</li>
@@ -1285,6 +1290,7 @@ By focusing on a single task, a program or function can eliminate much extraneou
 <p><strong>Make it work, make it right, make it fast</strong>.
 Build a prototype as soon as possible to get a sense of the entire process.
 Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
+There is nothing so useless as doing efficiently that which should not be done at all.
 Apply small improvements at each iteration. Running the program will make it more resilient and robust as more errors get fixed.
 Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
 <a href="https://meltingasphalt.com/a-codebase-is-an-organism/">The computer is a machine, but a codebase is an organism</a>.
@@ -1476,7 +1482,7 @@ Implicit rules should always be made explicit and shared with others or automate
 <h3 id="a-hrefhttpsgithubcomeugeneyanapplied-mlproduction-project-checklista"><a class="header" href="#a-hrefhttpsgithubcomeugeneyanapplied-mlproduction-project-checklista"><a href="https://github.com/eugeneyan/applied-ml">Production Project Checklist</a></a></h3>
 <ol>
 <li>Frame the problem. Define a clear and concise objective with clear metrics.</li>
-<li>Get the data. Make the data tidy.</li>
+<li>Get the data. Make the data tidy. Machine learning models are only as reliable as the data used to train them.</li>
 <li>Explore the data. Verify any assumptions.</li>
 <li>Create a model. <a href="https://developers.google.com/machine-learning/guides/rules-of-ml/">Start with the simplest model!</a>. That will be the <a href="https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa">baseline model</a>. Evaluate the model with the defined metric.</li>
 <li>Make sure everything works end to end. <em>You design it, you train it, you deploy it</em>. <a href="https://nlathia.github.io/2019/08/Machine-learning-faster.html">Deploy the model quickly</a> and automatically. Add a clear description of the model. <a href="https://youtu.be/hqxQO7MoQIE">Monitor model performance in production</a>.</li>
