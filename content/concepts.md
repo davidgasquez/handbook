@@ -70,9 +70,29 @@ To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking
   3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
 The implicit question is – if everyone hates the current system, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
-A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/). Dividing a large systems into multiple smaller competing ones will make them evolve different ruleset and will allow you to pick the best one.
+A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/). Dividing a large systems into multiple smaller competing ones will make them evolve different ruleset and will allow you to pick the best one. [Beware trivial inconveniencese, they usually have more implications than it seems](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences).
 
 A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
+
+#### [Inadequate Equilibria](https://equilibriabook.com/molochs-toolbox/)
+
+An Inadequate Equilibrium is a situation in which a community, an institution, or society at large is in a bad _Nash Equilibrium_. The group as a whole has some sub-optimal set of norms and it would be better off with a different set of norms, but there's no individual actor who has both the power and the incentive to change the norms for the group. So the bad equilibrium persists. These concepts can be sorted in 3 categories:
+
+1. Cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else.
+1. Cases where decision-makers can't reliably learn the information they need to make decisions, even though someone else has that information.
+1. Systems that are broken in multiple places so that no one actor can make them better, even though, in principle, some magically coordinated action could move to a new stable state.
+
+Some examples:
+
+- Making the switch from not relying on prediction markets to relying on prediction markets is fraught, because it might embarrass the leadership of existing institutions by revealing that their professed estimates are not very credible.
+- There are several newly designed voting methods which are likely to be improvements over the current system, but most have seen limited, if any, uptake.
+  - It's difficult to change political systems from the outside.
+  - Within a two-party system, both benefit from first past the post voting, as they know they have a ~50% chance of winning each election, so there is no incentive for them to change from within.
+  - Proponents of voting reform have not yet been able to coordinate on which method they recommend.
+- Ongoing overfishing of ocean fish. Each individual fishery (and, at a higher level, each country) would prefer a world where everyone fishes a sustainable amount, rather than overfishing and crashing the fish populations that they all rely upon, but without a centralized enforcement mechanism, they have no way of ensuring that the other fisheries (or countries) go along with them in cutting back on fishing, so unilaterally doing so would simply make them get out-competed by others.
+- Countries building up their militaries. Most of the use of sizable militiaries is fighting against other militaries (and as a deterrent against such), so they are overall a negative-sum game. If countries all agreed to cut back their militaries, they would (for the most part) all benefit, but due to the competitive nature, there is a strong incentive to not cut back.
+- Using companies producing widgets as an example, each company might wish to fairly pay their workers, maintain a safe work environment, and not pollute the environment. However, other companies can gain an edge by sacrificing things in favor of producing more widgets (e.g. hiring more workers at cheaper wages). Thus, the principled company must make similar changes, or get outcompeted. This can continue until the companies have all sacrificed everything they can in favor of more productivity, even if all of them would have preferred to peacefully coexist with comfortable work conditions.
+- Doctors being overly cautious in treatment. The incentives punish positive mistakes much more heavily than negative ones. In this case, any deviation from what is considered to be the "proper" way of dealing with a case subjects the doctor to risk of being sued for malpractice in a way that sticking to the "proper" method does not, even if the deviation would have been a net positive in expectation for the patient.
 
 ### Antifragility
 
@@ -84,7 +104,7 @@ Antifragility is beyond resilience or robustness. The resilient resists shocks a
 
 ### [Pareto Principle](http://billyshall.com/blog/paretos-principle)
 
-There is a cost to pursuing any strategy, whether it’s in time, money, effort, resources, etc. Most strategies have diminishing returns, meaning that, as you keep at them, you get less and less out of an additional marginal bit of effort.
+There is a cost to pursuing any strategy, whether it's in time, money, effort, resources, etc. Most strategies have diminishing returns, meaning that, as you keep at them, you get less and less out of an additional marginal bit of effort.
 
 The **Pareto principle or the 80/20 rule states that eighty percent of the results come from twenty percent of the effort**.  Early gains tend to be the largest and most of strategies eventually stops being worthwhile.
 

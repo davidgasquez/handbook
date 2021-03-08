@@ -27,7 +27,7 @@ You are what you do (eat, listen, read, watch). Not what you say, not what you b
 - KISS. What would less/simple look like?
   - When [communicating](communications.md), do it in a clear and concise way.
   - When [facing a problem](rationality.md#problem-solving), prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would it look like if it was simple?
-  - Remove friction. Focus on essentials.
+  - Remove friction. Focus on essentials. Complexity itself has costs. It makes life harder to manage, reduces our degrees of freedom, and so forth. Often people do not factor those costs into their decisions as they incrementally and inattentively complexify their lives. A person with the virtue of simplicity asks, of any decision they make, "does this make my life more complex, and if so is that worth it?"
 - Live smarter, not harder. Don't complain about stuff you can easily fix, automate, or delegate. Money can buy [time](time.md).
 - Keep Calm. Own and deal with your emotions. [Focus on what you can control](health.md#stoicism).
   - Think, understand, and listen before [communicating](communications.md).
