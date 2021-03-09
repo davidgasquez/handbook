@@ -50,6 +50,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - Civilization advances by extending the number of important operations which we can perform without thinking of them. Alfred North Whitehead.
 - That which can be destroyed by the truth should be. P.C. Hodgell.
 - The past is a foreign country, they do things differently there. Leslie Poles Hartley.
+- Most advice is basically people mistaking correlation for causation. Leo Polovets.
 
 ## External Lists
 

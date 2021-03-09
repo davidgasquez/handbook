@@ -152,3 +152,4 @@ Version control software enables teams to work in distributed and asynchronous e
 - [Open Source Guides](https://opensource.guide/)
 - [Github Badges](https://shields.io/)
 - [Icons and Photos For Everything](https://thenounproject.com/)
+- [Command Line Interface Guidelines](https://clig.dev/)
