@@ -25,6 +25,7 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
   - Some activities will make you experience time quicker but won't provide any new and signifficant memories. Rapid stimullating streams of experience (news, twitter feed, mindless browsing, ...) will provide a fullness that will make time fly away. Retrospectively, they won't provide any fullfillment and make it seem like nothing happened.
 - Things you use for a significant fraction of your life are worth investing in.
 - Mortality is the main source of scarcity. If we had infinite time, we would be less concerned with whether something was faster. The reason speed has value is because time has value; the reason time has value is because human life has value, and lifespans are finite. [If you made lifespans much longer, you'd reduce the effective cost of everything](https://balajis.com/the-purpose-of-technology/). The ultimate purpose of technology is to eliminate mortality.
+- You become an average of the people you spend the most time with. Choose wisely!
 
 ## Productivity
 

@@ -31,11 +31,11 @@ Whether you're compiling code or making breakfast, everything can be modeled as 
 
 Write down processes, take measures and then iterate. You cannot improve what you cannot measure. You cannot improve what you cannot explain.
 
-[There are three kinds of processes](https://fs.blog/tobi-lutke). There's a kind of process that makes things that were previously impossible to do, possible. That's good. Then there's a kind of process that makes something that was previously possible significantly simpler, which is also good. And then there's everything else. E.g: telling people to behave slightly different from what common sense tells them to do without making any impact.
+[There are three kinds of processes](https://fs.blog/tobi-lutke). There's a kind of process that makes things that were previously impossible to do, possible. Then there's a kind of process that makes something that was previously possible significantly simpler. And then there's everything else. E.g: telling people to behave slightly different from what common sense tells them to do without making any impact.
 
-You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments](https://rs.io/how-to-get-started-with-anything/), removing barriers, or adding tools.
+You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments](https://rs.io/how-to-get-started-with-anything/), removing barriers, adding incentives, or using technology.
 
-When designing processes, look for these properties:
+When designing a process, look for these properties:
 
 - Algorithmic. So you don't need to think about choices. This reduces mental overhead and anxiety (The Paradox of Choice).
   - A way to reduce choices is self binding (like Ulyses did). Limiting our actions in the future will reduce the choices we'll need to do.
@@ -63,14 +63,19 @@ When designing systems, look for these properties:
 - Some systems might benefit of being distributed.
 - Focus on incentives. [Don't be angry at the people who are benefiting from a system, or at the system itself](https://news.ycombinator.com/item?id=22043088). Most just end up that way, the same way a river meanders towards the sea, or an electrical current tries to find ground.
 
-To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/). [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems usually have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/). A good approach to incrementally chance a system (similar to natural selection) is to:
+To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/).
+
+[A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems usually have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/).
+
+A good approach to incrementally chance a system (similar to natural selection) is to:
 
   1. Start by identifying the highest-leverage level to optimize at: Ask whether you're optimizing the machine or a cog within it.
   2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes. Alter the incentive landscape. [If you can make your system less miserable, make your system less miserable!](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart)
   3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
-The implicit question is – if everyone hates the current system, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
-A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/). Dividing a large systems into multiple smaller competing ones will make them evolve different ruleset and will allow you to pick the best one. [Beware trivial inconveniencese, they usually have more implications than it seems](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences).
+The implicit question is — if everyone hates the current system, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
+
+A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/). Dividing a large systems into multiple smaller competing ones will make them evolve different ruleset and will allow you to pick the best one. Systems will have [trivial inconveniencese, and they usually have more implications than it seems](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences).
 
 A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
@@ -94,6 +99,16 @@ Some examples:
 - Using companies producing widgets as an example, each company might wish to fairly pay their workers, maintain a safe work environment, and not pollute the environment. However, other companies can gain an edge by sacrificing things in favor of producing more widgets (e.g. hiring more workers at cheaper wages). Thus, the principled company must make similar changes, or get outcompeted. This can continue until the companies have all sacrificed everything they can in favor of more productivity, even if all of them would have preferred to peacefully coexist with comfortable work conditions.
 - Doctors being overly cautious in treatment. The incentives punish positive mistakes much more heavily than negative ones. In this case, any deviation from what is considered to be the "proper" way of dealing with a case subjects the doctor to risk of being sued for malpractice in a way that sticking to the "proper" method does not, even if the deviation would have been a net positive in expectation for the patient.
 
+## Incentives
+
+Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
+
+Behavior is hard to fix. When people say they've learned their lesson they underestimate how much of their previous mistake was caused by emotions that will return when faced with the same circumstances unless incentives have changed.
+
+_"Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior"._ Dee Hock.
+
+To reach a goal, reduce friction or increase incentives/rewards. To build better institutions, alter the incentive landscape.
+
 ### Antifragility
 
 Antifragility is a property of systems that increase in capability, resilience, or robustness as a result of stressors, shocks, volatility, noise, mistakes, faults, attacks, or failures.
@@ -109,16 +124,6 @@ There is a cost to pursuing any strategy, whether it's in time, money, effort, r
 The **Pareto principle or the 80/20 rule states that eighty percent of the results come from twenty percent of the effort**.  Early gains tend to be the largest and most of strategies eventually stops being worthwhile.
 
 Today, Pareto's Principle can also be observed in our daily lives, we only need to take a glance around to observe it in action. Once we can identify the occurrence, we can focus more of our energy on tasks that produce the most results.
-
-## Incentives
-
-Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
-
-Behavior is hard to fix. When people say they've learned their lesson they underestimate how much of their previous mistake was caused by emotions that will return when faced with the same circumstances unless incentives have changed.
-
-_"Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior"._ Dee Hock.
-
-To reach a goal, reduce friction or increase incentives/rewards. To build better institutions, alter the incentive landscape.
 
 ## Resources
 
