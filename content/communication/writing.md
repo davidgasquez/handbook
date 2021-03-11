@@ -1,29 +1,28 @@
 # Writing
 
-- Try to use the active voice whenever possible.
-- Keep in mind your style:
-  - **Be concise**. Understand the topic you're writing about. Use simple words and sentences. Put the most important things first. Never use a long word when a short one will do.
+- Writing things down helps clarifying ideas. One of the tests of whether you understand something is whether you can explain it to someone else. [Writing doesn't just communicate ideas; it generates them](http://www.paulgraham.com/writing44.html).
+- [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro) The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are. For style:
+  - **Be concise**. Understand the topic you're writing about. [Use simple words and sentences](http://www.paulgraham.com/simply.html). Put the most important things first. Never use a long word when a short one will do.
   - **Be Useful**. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
   - **Be specific**. Avoid vague language (remove qualifiers). Cut the fluff. Delete unnecessary words. Say what you mean. Make positive statements about reality.
   - **Be consistent**.
   - **Add rhythm**. Vary the sentence length to break the monotony.
-- [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro) The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are.
-- Have solid schemas. List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion:
+- Use the active voice.
+- Write in a conversational tone.
+- [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. A standard structure is to:
   - Define a clear thesis.
   - Support your thesis with arguments.
   - Declare and reject the antithesis.
   - Conclusions.
-- Human beings are wired to respond to storytelling. A story arc is a way to structure ideas to tap into this response, typically by describing a change in the world.
 - Use positive language rather than negative language.
-- Write in a conversational tone.
-- Use second-person and describe actions to a user. Technical content talks to users when support agents can't.
-- [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/).
-- Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601). Separate the processes of creation from improving. You can't write and edit.
+- Human beings are wired to respond to storytelling. A story arc is a way to structure ideas to tap into this response, typically by describing a change in the world.
+- Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601).
+- Separate the processes of creation from improving. **You can't write and edit**. Write the first draft fast, then iterate on it editing things. Much of this editing will be cutting, and that makes simple writing even simpler.
 - You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
+- When writting tutorials or guides, use the second-person and describe actions to a user. These types of content talks to people when humans can't. [Technical documentation follows the same rules than normal writting](https://developers.google.com/tech-writing/one).
 
 ### Blogging
 
-- Writing is Thinking. Writing things down helps clarifying ideas. One of the tests of whether you understand something is whether you can explain it to someone else. [Writing doesn't just communicate ideas; it generates them](http://www.paulgraham.com/writing44.html).
 - Expect 80% of the ideas in an post to happen after you start writing it, and 50% of those you start with to be wrong.
 - To decide if your idea is worth writing about, [ask these questions](https://jvns.ca/blog/2016/05/22/how-do-you-write-blog-posts/):
   - Would this have helped me a year ago?
