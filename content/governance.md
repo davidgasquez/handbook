@@ -22,6 +22,9 @@
   - Tools like smart contracts that allow interactions with reduced levels of trust.
   - Governance technologies (voting, shares, decision markets...)
 
+
+
+
 ### [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
 - [No silver bullet](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem).

@@ -15,7 +15,7 @@ You are what you do (eat, listen, read, watch). Not what you say, not what you b
 - Do stuff! Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your [ideas](random/ideas.md) don't work out, the community will learn why that approach doesn't make sense.
   - Remix ideas. Ideas are impacted by evolution. The most useful ones survive and evolve. [Innovation is product of the combinations of ideas](https://youtu.be/XUAIIQFoufs).
   - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. [Mistakes](https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...) are the portals of discovery.
-  - [If you think you’re going to regret not doing something, you should probably do it](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short). Most people regret far more things they didn’t do than things they did do.
+  - [If you think you're going to regret not doing something, you should probably do it](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short). Most people regret far more things they didn't do than things they did do.
 - Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much in the last few thousands years and was built for a different world.
 
 ## Mindfulness
@@ -53,6 +53,7 @@ You are what you do (eat, listen, read, watch). Not what you say, not what you b
 - Celebrate and encourage quirky gifts, [habits](habits.md), behavior, and points of view. No one can compete with you on being you.
 - Share your decisions, state, and ideas early so flaws arise earlier in the process.
 - [Maintain a very small identity](http://www.paulgraham.com/identity.html). The act of labeling yourself is the act of restricting yourself to what you think fits that label. Avoid forming an opinion at all about things that are not evident. Do not affiliate your identity with anything extrinsic - such as a religion, political party, country, company, profession, programming language, social class, etc. You're not your opinions. Opinions are external objects. Don't define yourself by what you work on or what you hate.
+- Your job isn't to enforce your vision of the world upon everyone. Live your own life the way you want to live it and let other people live their own lives the way they want to live them. [Don't yell at people who are trying to go off and do their own thing quietly with a group of voluntarily consenting friends](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism).
 - Communicate any uncertainty you may feel about the relevance of your own opinions.
 - One of the hardest exercises is to receive [feedback](communications.md#feedback). Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
 - Experience things again (books, movies, ...). They might be the same, but you change and are a different person now. The world changes, too. No one steps in the same river twice.

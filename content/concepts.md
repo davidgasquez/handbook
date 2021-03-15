@@ -109,6 +109,11 @@ _"Simple, clear purpose and principles give rise to complex and intelligent beha
 
 To reach a goal, reduce friction or increase incentives/rewards. To build better institutions, alter the incentive landscape.
 
+### Evolution
+
+- Every culture is the gradual accumulation of useful environmental adaptations combined with random memetic drift.
+-
+
 ### Antifragility
 
 Antifragility is a property of systems that increase in capability, resilience, or robustness as a result of stressors, shocks, volatility, noise, mistakes, faults, attacks, or failures.

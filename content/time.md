@@ -49,6 +49,8 @@ Time is the most valuable and least replaceable resource. Life is short. Just li
 - Environmental changes can make it easier to attend effectively to the right things.
   - Removing clutter and other distractions can make attention less difficult, for which the virtues of orderliness and simplicity can help.
   - Disable notifications and badges so that you don't mindlessly open distracting apps.
+- Mindfulness meditation, e.g. breath-counting, seems to be a go-to technique for developing focus.
+- Periodic exposure to nature and out-of-doors in an unstressful, undemanding way can restore attention capability.
 
 ## Investing
 
