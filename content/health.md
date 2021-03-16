@@ -1,27 +1,25 @@
 # Health
 
-How you live affects how long and how happy you live. Your health impacts everyone around you including your loved ones. Don't [maximize misery](https://www.youtube.com/watch?v=LO1mTELoj6o). Our bodies and minds are built to live in a tribe in 50,000BC, which leaves modern humans with a number of unfortunate traits (fixation with tribal-style social survival, attracted to energy dense food, ...).
+How you live affects **how long** and **how happy** you live. So, don't [maximize misery](https://www.youtube.com/watch?v=LO1mTELoj6o). Your health has an impact on everyone around you too. You get healthy, and more importantly stay healthy, by accumulating significant, but livable, improvements to your lifestyle over time, and building on that.
 
-You get healthy, and more importantly stay healthy, by accumulating significant, but livable, improvements to your lifestyle over time, and building on that. Although time is the ultimate resource, the lack of energy will always be the first limiting factor. Therefore prioritizing health, sleep, exercise, and other such aspects will always pay off far more than what you sacrifice on them.
-
-Self-improvement can mean getting better at managing difficult parts of your genetic profile, and those lessons can be handed on to future generations who share those traits, which improves the lives of all the generations downstream.
-
-## Overall
+## General
 
 - [We spend most of our lives stuck in bad local optima](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule). We have a set of default actions, standards ways of doing things and solving problems we come across. And these are way better than nothing, but nowhere near optimal. So to get out of a local optima, you need to develop the skill of noticing when you’re in one, being creative to find a better way, and implementing that to move to a better one.
 - Run experiments and try new things, appreciate the value of information. This breaks you out of bad local optima.
+- Although time is the ultimate resource, the lack of energy will always be the first limiting factor. Therefore prioritizing health, sleep, exercise, and other such aspects will always pay off far more than what you sacrifice on them.
+- Self-improvement can mean getting better at managing difficult parts of your genetic profile, and those lessons can be handed on to future generations who share those traits, which improves the lives of all the generations downstream.
+- Our bodies and minds are built to live in a tribe in 50,000BC, which leaves modern humans with a number of unfortunate traits (fixation with tribal-style social survival, attracted to energy dense food, ...).
 
 ## Fitness
 
-- Exercise is the most important lifestyle intervention you can do.
 - Never sit for prolonged times. Take breaks standing or walking around.
 - Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.
 - [Going for a walk has lots benefits](https://www.betterhealth.vic.gov.au/health/healthyliving/walking-for-good-health). Around 30 minutes a day on most days of the week is a great way to improve or maintain your overall health.
 - If you train for strength rest for at least 4 minutes before doing another set.
+- [Having more muscle mass will increase your metabolioc rate and help you stay lean more time](https://youtu.be/IX7MZrgIycw).
 - Lifting weights makes you stronger and healthier, improves your posture, makes you less injury prone, and strengthens your bones.
 - Cardio helps stabilize hormone levels, improves endurance and recovery, helps the body fuel calories away from the fat cells and into the muscle, helps with weight maintenance, generally keeps you healthy, and finally burns calories.
 - For fat loss, HIIT is better than cardio.
-- [Having more muscle mass will increase your metabolioc rate and help you stay lean more time](https://youtu.be/IX7MZrgIycw).
 - Static stretching (any stretching done in place, holding for X number of seconds) should never be done before exercise. Instead, perform active movements simulating the exercise you are about to perform.
 
 ### Posture
@@ -29,7 +27,8 @@ Self-improvement can mean getting better at managing difficult parts of your gen
 - Fix your habits. Spending 30 minutes stretching every day and an hour at the gym 3 times a week won't offset the more than 80 hours a week you probably spend sitting at your office, sofa, eating, etc.
 - Pick certain moments where you would always check your posture. Walking through doorways, standing up, ...
 - Another great tip is to brush your teeth with [your back against the wall](https://www.youtube.com/watch?v=GbGSvAEkE68) for 3 minutes.
-- Exercise and live a less sedentary lifestyle. Focus on [building core strength](https://www.youtube.com/watch?v=4BOTvaRaDjI). You can [strength your back in 5 minutes](https://www.reddit.com/r/bodyweightfitness/comments/fxrooc/how_to_strengthen_your_back_in_5_minutes_a_day/).
+- Exercise and live a less sedentary lifestyle to improve overall posture.
+- Focus on [building core strength](https://www.youtube.com/watch?v=4BOTvaRaDjI). You can [strength your back in 5 minutes](https://www.reddit.com/r/bodyweightfitness/comments/fxrooc/how_to_strengthen_your_back_in_5_minutes_a_day/).
 
 ### Resources
 
@@ -45,8 +44,8 @@ Self-improvement can mean getting better at managing difficult parts of your gen
 
 ## Sleep
 
-- Don't use screens before sleep.
 - Stick to a consistent routine. If possible, don't use an alarm to wake up.
+- Don't use screens before sleep or right after waking up.
 - [Avoid sleep disruptors](https://alexvermeer.com/life-hacking/#sleep). Don't drink a lot of alcohol, don't eat large meals right before bed, don't have caffeine past mid-afternoon, don't watch super-intense movies right before bed, etc.
 - Spend the time to find the mattress, pillow, and sheets that work for you.
 - [Exercise](##fitness).
@@ -59,6 +58,56 @@ Self-improvement can mean getting better at managing difficult parts of your gen
 - Be grateful for all the people and things you have. Accept you're not in full control of your destiny. [Success is luck dependant](https://youtu.be/3LopI4YeC4I).
 - Lots of little good things is the path to happiness. You want frequent boosts not rare big stuff.
 - Maintain strong social ties. Social relationships boost happiness.
+- Be around nature. Have some houseplants as they improve mood.
+
+### Meditation
+
+- Meditation is a simple practice available to all, which can reduce stress, increase calmness and clarity and promote happiness. Learning how to meditate is straightforward, and the benefits can come quickly. Even just a few minutes a day can make a big difference revealing and refactoring various [mental motions](https://www.lesswrong.com/posts/WYmmC3W6ZNhEgAmWG/a-mechanistic-model-of-meditation#Uses_for_moments_of_introspective_awareness_).
+  - If you have more introspective awareness of the exact processes that are happening in your mind, you can make more implicit assumptions conscious, causing your brain's built-in contradiction detector to notice when they contradict your later learning. Also, getting more feedback about what exactly is happening in your mind allows you to notice more wasted motion in general.
+- The goal of meditation is not to quit having thoughts, but to observe them, watch them without reacting and rationalizing them. This helps rewire the way your brain works similar to cognitive behavioral therapy. Typically, people who work towards this, have less anxiety and depression because they don't react to every thought they have, which gives them a greater control of their emotions.
+- In CS terminology, it defrags the hard drive and repairs errors in the OS.
+- Too many distractions lead to a heavy mind.
+- Meditating is controlling attention. Everything is downstream attention. Practice [mindfulness](https://youtu.be/hQo-CQzoW24) to improve your attention and noticing.
+- [How to Meditate](https://www.nytimes.com/guides/well/how-to-meditate):
+  1. Find a comfortable place to sit, and a posture that is both alert and relaxed at the same time. See if you can make the spine erect, without being too rigid.
+  2. Close your eyes (or leave them slightly open if you prefer), and take a few slow breaths. Take a few moments to loosen your body from your head to your toes, and take a few more deep breaths. Scan your body to see if you can find any other tension that you can release.
+  3. Stop to notice the sensations throughout your body — the warmth, the coolness or any discomfort. Be aware of them, but try not to fidget too much.
+  4. Keep your attention on your breath. Your mind will wander. Notice it whenever it happens, congratulate yourself for having noticed it, and then return to the breath. After a few moments, your mind may wander again. Once again, notice that and simply return your attention back to the present moment.
+
+### Journaling
+
+- Journaling is a "keystone" habit. It tightly locks all of your other habits in place.
+- It helps build a self evaluation loop in your life. It gives you the ability to discover what were you thinking and how the decisions turned out. If you don't reflect on your past, any improvements you do in the future will be by randomness.
+- When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.
+- Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.
+- The development of a coherent narrative helps you reorganize and structure old memories, making them less traumatic.
+- Writing on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.
+- Premeditatio malorum. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.
+- [Journaling is a tool you can use to better manage your mental health](https://nesslabs.com/dear-diary).
+- There are many methods. Start with a simple one like "What worked, what didn't, what's next".
+- Weekly Review:
+  - [Review what happened during the week](https://www.benkuhn.net/weekly/). How did the week go? Write down a list of topics to think about and take written notes on each topic as you think about them.
+  - Review a set of recurrent prompts. Tweak them over time. For example:
+    - Consistency at your core habits this week (exercise, morning routine, todo system, etc.). How can you tweak them to be more consistent or more useful?
+    - What did you do this week that was a mistake and how can I avoid repeating it?
+  - What would you like to accomplish next week?
+    - Do you need to clarify something?
+    - Which actions will you move closer to your goals?
+
+### Stoicism
+
+- [Stoicism is a tool set that helps us direct our thoughts and actions in an unpredictable world](https://www.njlifehacks.com/what-is-stoicism-overview-definition-10-stoic-principles/).
+- We don't control and cannot rely on external events, but we can (to a certain extent) control our mind and choose our behavior.
+- It's not what happens to us but our reactions to it that matter.
+- Stoicism is known as a eudaimonistic theory, which means that the culmination of human endeavor or "end" (telos) is eudaimonia, meaning very roughly "happiness" or "flourishing". The Stoics defined this end as "living in agreement with nature". "Nature" is a complex and multivalent concept for the Stoics, and so their definition of the goal or final end of human striving is very rich.
+- The 3 Stoic principal leaders are Marcus Aurelius, Epictetus and Seneca.
+- Stoicism teaches how to keep a calm and [rational](rationality.md) mind no matter what happens to you and it helps you understand and focus on what you can control and not worry about and accept what you can't control.
+  - There are two circles; the circle of concern (what you worry about) and the circle of influence (what you can change). Focus on the overlapping part.
+- We'd be crazy to want to face difficulty in life. But we'd be equally crazy to think that it isn't going to happen. Prepare for it and plan for the worst. The idea of premeditation of adversity is to repeatedly imagine potentially "bad" scenarios in advance, so that they will not catch you by surprise, and you'll be able to face them calmly and act according to virtue.
+- Stoic ideas inevitably lead to greater mindfulness.
+- Accept rather than fight every little thing.
+- Judge yourself accurately and honestly.
+- Causes (stress, overwhelm) are within us. Don't blame people or circumstances. You have a choice.
 
 ## Nutrition
 
@@ -84,54 +133,6 @@ Self-improvement can mean getting better at managing difficult parts of your gen
 - [Examine.com](https://examine.com/) - Nutrition and Supplement Articles
 - [Eat This Much](https://www.eatthismuch.com/) - Create personalized meal plans based on your food preferences, budget, and schedule.
 
-## Meditation
-
-- Meditation is a simple practice available to all, which can reduce stress, increase calmness and clarity and promote happiness. Learning how to meditate is straightforward, and the benefits can come quickly. Even just a few minutes a day can make a big difference revealing and refactoring various [mental motions](https://www.lesswrong.com/posts/WYmmC3W6ZNhEgAmWG/a-mechanistic-model-of-meditation#Uses_for_moments_of_introspective_awareness_).
-  - If you have more introspective awareness of the exact processes that are happening in your mind, you can make more implicit assumptions conscious, causing your brain's built-in contradiction detector to notice when they contradict your later learning. Also, getting more feedback about what exactly is happening in your mind allows you to notice more wasted motion in general.
-- The goal of meditation is not to quit having thoughts, but to observe them, watch them without reacting and rationalizing them. This helps rewire the way your brain works similar to cognitive behavioral therapy. Typically, people who work towards this, have less anxiety and depression because they don't react to every thought they have, which gives them a greater control of their emotions.
-- In CS terminology, it defrags the hard drive and repairs errors in the OS.
-- Too many distractions lead to a heavy mind.
-- Meditating is controlling attention. Everything is downstream attention. Practice [mindfulness](https://youtu.be/hQo-CQzoW24) to improve your attention and noticing.
-- [How to Meditate](https://www.nytimes.com/guides/well/how-to-meditate):
-  1. Find a comfortable place to sit, and a posture that is both alert and relaxed at the same time. See if you can make the spine erect, without being too rigid.
-  2. Close your eyes (or leave them slightly open if you prefer), and take a few slow breaths. Take a few moments to loosen your body from your head to your toes, and take a few more deep breaths. Scan your body to see if you can find any other tension that you can release.
-  3. Stop to notice the sensations throughout your body — the warmth, the coolness or any discomfort. Be aware of them, but try not to fidget too much.
-  4. Keep your attention on your breath. Your mind will wander. Notice it whenever it happens, congratulate yourself for having noticed it, and then return to the breath. After a few moments, your mind may wander again. Once again, notice that and simply return your attention back to the present moment.
-
-## Journaling
-
-- Journaling is a "keystone" habit. It tightly locks all of your other habits in place.
-- It helps build a self evaluation loop in your life. It gives you the ability to discover what were you thinking and how the decisions turned out. If you don't reflect on your past, any improvements you do in the future will be by randomness.
-- When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.
-- Journal about things, people, or situations for which you are grateful. Consider including negative situations like avoiding an accident, for instance.
-- The development of a coherent narrative helps you reorganize and structure old memories, making them less traumatic.
-- Writing on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.
-- Premeditatio malorum. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.
-- [Journaling is a tool you can use to better manage your mental health](https://nesslabs.com/dear-diary).
-- There are many methods. Start with a simple one like "What worked, what didn't, what's next".
-- Weekly Review:
-  - [Review what happened during the week](https://www.benkuhn.net/weekly/). How did the week go? Write down a list of topics to think about and take written notes on each topic as you think about them.
-  - Review a set of recurrent prompts. Tweak them over time. For example:
-    - Consistency at your core habits this week (exercise, morning routine, todo system, etc.). How can you tweak them to be more consistent or more useful?
-    - What did you do this week that was a mistake and how can I avoid repeating it?
-  - What would you like to accomplish next week?
-    - Do you need to clarify something?
-    - Which actions will you move closer to your goals?
-
-## Stoicism
-
-- [Stoicism is a tool set that helps us direct our thoughts and actions in an unpredictable world](https://www.njlifehacks.com/what-is-stoicism-overview-definition-10-stoic-principles/).
-- We don't control and cannot rely on external events, but we can (to a certain extent) control our mind and choose our behavior.
-- It's not what happens to us but our reactions to it that matter.
-- Stoicism is known as a eudaimonistic theory, which means that the culmination of human endeavor or "end" (telos) is eudaimonia, meaning very roughly "happiness" or "flourishing". The Stoics defined this end as "living in agreement with nature". "Nature" is a complex and multivalent concept for the Stoics, and so their definition of the goal or final end of human striving is very rich.
-- The 3 Stoic principal leaders are Marcus Aurelius, Epictetus and Seneca.
-- Stoicism teaches how to keep a calm and [rational](rationality.md) mind no matter what happens to you and it helps you understand and focus on what you can control and not worry about and accept what you can't control.
-  - There are two circles; the circle of concern (what you worry about) and the circle of influence (what you can change). Focus on the overlapping part.
-- We'd be crazy to want to face difficulty in life. But we'd be equally crazy to think that it isn't going to happen. Prepare for it and plan for the worst. The idea of premeditation of adversity is to repeatedly imagine potentially "bad" scenarios in advance, so that they will not catch you by surprise, and you'll be able to face them calmly and act according to virtue.
-- Stoic ideas inevitably lead to greater mindfulness.
-- Accept rather than fight every little thing.
-- Judge yourself accurately and honestly.
-- Causes (stress, overwhelm) are within us. Don't blame people or circumstances. You have a choice.
 
 ## [Life's Most Common Regrets](https://bronnieware.com/blog/regrets-of-the-dying/)
 

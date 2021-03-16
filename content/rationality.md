@@ -17,9 +17,10 @@
 - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
 - You can try things to find out which ideas are right or wrong. It requires asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
 - Aim to get an accurate picture of reality, even when that's unpleasant.
-- Local Validity: Some argument steps are allowed steps and some argument steps aren't, independently of whether they arrive at an answer you agree with.
+- Local Validity: Some argument steps are allowed steps and some argument steps aren't ([Non-Central Fallacy](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world)), independently of whether they arrive at an answer you agree with.
 - People can fool you by saying they saw things that they didn't see, telling you some things they know but not others or by using flawed steps when drawing conclusions. When you try to make an argument come out with a particular answer, tou can fool yourself in the same way.
 - You can be the wrong person. [In general, be less sure about what you know than intuition implies](https://www.lesswrong.com/tag/epistemic-modesty).
+- You do not think about things the same way as everyone else. You may approach something analytically while others approach it intuitively — and both styles can yield the same end results!
 - Assume good faith. Trust the other person to be believing things that make sense to them, which you'd have ended up believing if you were exposed to the same stimuli, and that they are generally trying to find the the truth.
 - [Notice](https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html) your internal state (cognitive and emotional). Notice when you are in a failure mode, and step out. For example:
   - [Motivated Reasoning or Soldier Mindset](https://youtu.be/w4RLfVxTGH4?list=WL):
@@ -53,6 +54,7 @@
 ## Making Decisions
 
 - Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a problem-solving activity, and it can be more or less rational or irrational based on the decision maker's values, beliefs, and (perceived) knowledge.
+- Living a good life depends on our ability to make good decisions constantly.
 - The decisions you make fall into two categories:
   - Prioritizing — Which path should you take first?
   - Allocating — How much attention, time, and capital should you spend on this?
@@ -69,6 +71,7 @@
 - If all options are similar take the harder one in the short term (_Hard decisions easy life, easy decisions, hard life_).
 - Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/incentives/environmental changes.
 - The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
+- Flip your goal state with your current state, and ask if you would like to go back there. This helps you switch around any biases that might be influencing your decision-making.
 - Ask what information would cause you to change your mind. If you don't have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
 - How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can't take back, then it's worth really, really understanding. Aim for preserving optionality.
 - We are all susceptible to bias, almost all the time. A way to detect bias and minimize the decision impact is to [run it by a bias checklist](https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T).
@@ -88,6 +91,7 @@
 - Beware of cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else. They have no skin in the game and no incentives.
   - [The decision makers shouldn't have competing incentives with the decision outcome](https://www.youtube.com/watch?v=Rwxkqno1PTc).
 - You have a plan. A time-traveller from the future appears and tells you your plan failed. Which part of your plan do you think is the one that fails? Fix that part.
+- If you’re in between two decisions, don’t half-ass both of them! Do one 100%, then do the other 100%.
 - People reason more wisely about other people's problems than about their own.
 - When you share something, add the level of confidence you have on it.
 - [Understand your personal stance on the tradeoff of compromise versus purity](https://vitalik.ca/general/2020/11/08/concave.html). Given a choice between two alternatives, often both expressed as deep principled philosophies, do you naturally gravitate toward the idea that one of the two paths should be correct and we should stick to it, or do you prefer to find a way in the middle between the two extremes?
