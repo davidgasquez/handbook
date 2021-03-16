@@ -111,8 +111,9 @@ To reach a goal, reduce friction or increase incentives/rewards. To build better
 
 ### Evolution
 
+Evolution affects almost everything (life, ideas, communities, systems, ...).
+
 - Every culture is the gradual accumulation of useful environmental adaptations combined with random memetic drift.
--
 
 ### Antifragility
 
