@@ -114,6 +114,7 @@ To reach a goal, reduce friction or increase incentives/rewards. To build better
 Evolution affects almost everything (life, ideas, communities, systems, ...).
 
 - Every culture is the gradual accumulation of useful environmental adaptations combined with random memetic drift.
+- Systems that evolve organically are usually, [but not always](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/), well-adapted to their purpose. Cultures, ancient traditions, and long-lasting institutions contain irreplaceable wisdom that's hard to pin down if you're designing them from scratch.
 
 ### Antifragility
 
