@@ -131,6 +131,10 @@ The **Pareto principle or the 80/20 rule states that eighty percent of the resul
 
 Today, Pareto's Principle can also be observed in our daily lives, we only need to take a glance around to observe it in action. Once we can identify the occurrence, we can focus more of our energy on tasks that produce the most results.
 
+The key insight is this: **there is usually a clever hack**. The world is not fair. Effort is not distributed as it should be. And this isn’t because people are dumb, or not trying. This is the default state of the world. Allocating your effort efficiently is hard. And this is the default state of the world for you.
+
+[We spend most of our lives stuck in bad local optima](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule). We have a set of default actions, standards ways of doing things and solving problems we come across. And these are way better than nothing, but nowhere near optimal. So to get out of a local optima, you need to develop the skill of noticing when you’re in one, being creative to find a better way, and implementing that to move to a better one.
+
 ## Resources
 
 - [Tools for better thinking](https://untools.co/): Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.

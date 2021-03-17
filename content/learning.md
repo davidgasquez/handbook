@@ -1,6 +1,7 @@
 # Learning
 
-- Understand the base and build from it. First Principles Method. Start from basics before going into complexities.
+- Learning is a process of information compression.
+- Understand the base and build from it. First Principles Method. Seek the big picture understanding - focus on concepts not details.
 - You can apply [The Feynman Technique](https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/):
   1. Identify the subject.
   2. Teach it to a child. Use simple vocabulary and make it short. Keep questions and answers simple.
@@ -18,7 +19,7 @@
 - Experience ideas directly. Use the [ADEPT](https://betterexplained.com/articles/adept-method/) method as a checklist for what helps a concept click:
   - Have an Analogy about it.
   - Visualize it in a Diagram.
-  - Gather Examples.
+  - Gather Examples. Examples are an amazing way to learn things!
   - Come with a Plain-English description of the concept.
   - The give into the Technical side.
 - When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [mental model](concepts.md##mental-models).

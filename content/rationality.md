@@ -21,7 +21,10 @@
 - Local Validity: Some argument steps are allowed steps and some argument steps aren't ([Non-Central Fallacy](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world)), independently of whether they arrive at an answer you agree with.
 - People can fool you by saying they saw things that they didn't see, telling you some things they know but not others or by using flawed steps when drawing conclusions. When you try to make an argument come out with a particular answer, you can fool yourself in the same way.
 - Assume good faith. Trust the other person to be believing things that make sense to them, which you'd have ended up believing if you were exposed to the same stimuli, and that they are generally trying to find the the truth.
-- [Notice](https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html) your internal state (cognitive and emotional). Notice when you are in a failure mode, and step out. For example:
+- [Notice](https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html) your internal state (cognitive and emotional).
+- When you see something odd or something that doesn't fit with what you'd ordinarily expect, notice and promote it to conscious.
+- Notice when your mind is flinching away from a thought and flag that area as requiring more deliberate exploration.
+- Notice when you are in a failure mode, and step out. For example:
   - [Motivated Reasoning or Soldier Mindset](https://youtu.be/w4RLfVxTGH4?list=WL):
     - You are fighting to make sure an argument wins.
     - You are fighting to make another argument lose.
@@ -53,7 +56,8 @@
 
 ## Making Decisions
 
-- Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a problem-solving activity, and it can be more or less rational or irrational based on the decision maker's values, beliefs, and (perceived) knowledge.
+Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a problem-solving activity, and it can be more or less rational or irrational based on the decision maker's values, beliefs, and (perceived) knowledge.
+
 - Living a good life depends on our ability to make good decisions constantly.
 - The decisions you make fall into two categories:
   - Prioritizing — Which path should you take first?
@@ -64,12 +68,12 @@
   3. Reversible and inconsequential
   4. Reversible and consequential. Perfect decisions to run experiments and gather information.
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
-- Gather all the information you can. Then, schedule time to think deeply about it.
+- Gather all the information you can. Then, schedule time to think deeply about it. Brain-dump your thoughts on the problem - what's going wrong, why is it inefficient? Try to understand it in as much detail as possible.
   - Learn from the mistakes of others. You can't live long enough to make them all yourself.
   - Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. Transparency is key for group decissions. Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow.
 - [The fog of the future hides vital information](https://youtu.be/SVmEXdGqO-s).
 - If all options are similar take the harder one in the short term (_Hard decisions easy life, easy decisions, hard life_).
-- Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/incentives/environmental changes.
+- Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/incentives/environmental changes. Avoid false dichotomies. When given two great options, choose both. When given two horrible options, choose neither. Think outside the box!
 - The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
 - Flip your goal state with your current state, and ask if you would like to go back there. This helps you switch around any biases that might be influencing your decision-making.
 - Ask what information would cause you to change your mind. If you don't have that information, find it. If you do, track is religiously. Collect feedback and be open to change outcomes.
@@ -82,16 +86,16 @@
   - Maximizing vs. Satisficing. Go for the optimal decision or simply try to find a solution that is good enough.
   - Well defined goal vs. blurred objective. Planning all the details or trying to be as flexible as possible.
 - How to make smart decisions once you have the data (DECIDE framework):
-  1. Define the problem. Understand the problem at hand.
+  1. Define the problem. Understand the problem at hand. Look for examples, think about, come up with explanations, get data, ...
   2. Establish the criteria. List all the factors you want to consider before making a decision.
-  3. Consider the alternatives. Do enough research to have a few solid alternatives.
+  3. Consider the alternatives. Do enough research to have a few solid alternatives. Once you understand what's going wrong, think about what behaviour/environment changes could be that would lead to better outcomes
   4. Identify the best alternative. See which alternative makes most sense based on your criteria.
-  5. Develop and implement a plan of action. Act on that decision.
+  5. Develop and implement a plan of action. Act on that decision. Figure out which action changes, and what concrete things should trigger them - make it something that will actually work in the moment, and can be implemented
   6. Evaluate the solution. In order to make better decisions over time, examine the outcomes and the feedback you get. The evaluation should be made [without taking account the outcome](https://en.wikipedia.org/wiki/Outcome_bias) since it wasn't known at decission time.
 - Beware of cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else. They have no skin in the game and no incentives.
   - [The decision makers shouldn't have competing incentives with the decision outcome](https://www.youtube.com/watch?v=Rwxkqno1PTc).
 - You have a plan. A time-traveller from the future appears and tells you your plan failed. Which part of your plan do you think is the one that fails? Fix that part.
-- If you’re in between two decisions, don’t half-ass both of them! Do one 100%, then do the other 100%.
+- If you're in between two decisions, don't half-ass both of them! Do one 100%, then do the other 100%.
 - People reason more wisely about other people's problems than about their own.
 - When you share something, add the level of confidence you have on it.
 - [Understand your personal stance on the tradeoff of compromise versus purity](https://vitalik.ca/general/2020/11/08/concave.html). Given a choice between two alternatives, often both expressed as deep principled philosophies, do you naturally gravitate toward the idea that one of the two paths should be correct and we should stick to it, or do you prefer to find a way in the middle between the two extremes?

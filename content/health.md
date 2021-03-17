@@ -4,8 +4,8 @@ How you live affects **how long** and **how happy** you live. So, don't [maximiz
 
 ## General
 
-- [We spend most of our lives stuck in bad local optima](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule). We have a set of default actions, standards ways of doing things and solving problems we come across. And these are way better than nothing, but nowhere near optimal. So to get out of a local optima, you need to develop the skill of noticing when you’re in one, being creative to find a better way, and implementing that to move to a better one.
-- Run experiments and try new things, appreciate the value of information. This breaks you out of bad local optima.
+- Run experiments and try new things. This will make you explore the world so you can exploit it later.
+- Build systems to take the right actions effortlessly.
 - Although time is the ultimate resource, the lack of energy will always be the first limiting factor. Therefore prioritizing health, sleep, exercise, and other such aspects will always pay off far more than what you sacrifice on them.
 - Self-improvement can mean getting better at managing difficult parts of your genetic profile, and those lessons can be handed on to future generations who share those traits, which improves the lives of all the generations downstream.
 - Our bodies and minds are built to live in a tribe in 50,000BC, which leaves modern humans with a number of unfortunate traits (fixation with tribal-style social survival, attracted to energy dense food, ...).
@@ -146,3 +146,5 @@ How you live affects **how long** and **how happy** you live. So, don't [maximiz
 - If you listen to successful people talk about their approaches, remember that all the people who used the same methods and failed [did not share anything about it](https://en.wikipedia.org/wiki/Survivorship_bias).
 - [100 Ways To Live Better](https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-better).
 - [Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life).
+- [Quick n Dirty Guide: How to get your life together](https://www.reddit.com/r/selfimprovement/comments/j9i0bx/quick_n_dirty_guide_how_to_get_your_life/)
+- [35 life lessons I wish I learned years earlier](https://www.reddit.com/r/selfimprovement/comments/l5fuxd/35_life_lessons_i_wish_i_learned_years_earlier/)
