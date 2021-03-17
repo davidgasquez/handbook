@@ -23,7 +23,7 @@
 - Assume good faith. Trust the other person to be believing things that make sense to them, which you'd have ended up believing if you were exposed to the same stimuli, and that they are generally trying to find the the truth.
 - [Notice](https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html) your internal state (cognitive and emotional).
 - When you see something odd or something that doesn't fit with what you'd ordinarily expect, notice and promote it to conscious.
-- Notice when your mind is flinching away from a thought and flag that area as requiring more deliberate exploration.
+- [Notice when your mind is flinching away from a thought and flag that area as requiring more deliberate exploration](https://www.lesswrong.com/posts/ttGbpJQ8shBi8hDhh/checklist-of-rationality-habits).
 - Notice when you are in a failure mode, and step out. For example:
   - [Motivated Reasoning or Soldier Mindset](https://youtu.be/w4RLfVxTGH4?list=WL):
     - You are fighting to make sure an argument wins.
