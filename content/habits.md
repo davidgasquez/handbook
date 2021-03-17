@@ -2,7 +2,9 @@
 
 [We, humans, are basically habit machines](https://twitter.com/JamesClear/status/1059504529111158784). We form habits. We run on those habits all day long. Your outcomes are a lagging measure of your habits. How you spend your days is how you spend your life. Every action you take is a vote for the type of person you wish to become.
 
-Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time. The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it ([ego depletion](https://en.wikipedia.org/wiki/Ego_depletion)). Habits will keep the frontal cortex free to solve other problems. [Make part of your identity to be an agent](https://www.neelnanda.io/blog/become-a-person-who-actually-does-things) that does things. E.g: noticing the small problems, and fixing them.
+Habits can be great because they help us get tasks done efficiently without having to spend willpower on them all the time. The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it ([ego depletion](https://en.wikipedia.org/wiki/Ego_depletion)). Habits will keep the frontal cortex free to solve other problems.
+
+[Make part of your identity to be an agent](https://www.neelnanda.io/blog/become-a-person-who-actually-does-things) that does things. E.g: noticing the small problems, and fixing them. The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become.
 
 They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them [compound](https://www.investopedia.com/terms/c/compoundinterest.asp). Remember, there are [no hacks](http://www.collaborativefund.com/blog/useful-hacks/) in life!
 
@@ -22,7 +24,7 @@ Helpful steps for building habits:
 
 Cognitive inertia is the reason that changing our habits can be difficult. The default is always the path of least resistance, which is easy to accept and harder to question. The important thing about inertia is that it is only the initial push that is difficult. After that, progress tends to be smoother. A good life is a series of good days!
 
-## TAPs
+### TAPs
 
 Turn vague goals into trigger-action plans (TAPs). **If X then Y**. That works because they help us notice situations where we could carry out our intentions. They force us to turn vague and ambiguous goals into more specific ones. A good TAP fulfills three requirements:
 
@@ -31,6 +33,28 @@ Turn vague goals into trigger-action plans (TAPs). **If X then Y**. That works b
 - **The TAP furthers your goals**.
 
 That's a system. Goals are good for setting a direction, but systems are best for making progress. You do not rise to the level of your goals. You fall to the level of your systems. Build systems to take the right actions effortlessly. Stop trying and start doing. And learn what it really means to optimise.
+
+### [The Four Laws of Behavior Change](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=sr_1_1?dchild=1&keywords=atomic+habits&qid=1616005357&sr=8-1)
+
+- Any habit can be broken down into a feedback loop that involves four steps: cue, craving, response, and reward.
+- The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible. Once our habits become automatic, we stop paying attention to what we are doing.
+- These are a simple set of rules we can use to build better habits.
+  1. Make it obvious.
+     - Identify a current habit you already do each day and then stack your new behavior on top.
+     - Every habit is initiated by a cue. We are more likely to notice cues that stand out.
+     - Make the cues of good habits obvious in your environment.
+     - Eliminate a bad habit reducing exposure to the cues that causes it.
+  2. Make it attractive.
+     - Temptation bundling: Take a behavior that you think of as important but unappealing and link it to a behavior that you’re drawn to.
+     - Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.
+     - The culture we live in determines which behaviors are attractive to us. We tend to imitate the habits of three social groups: the close (family and friends), the many (the tribe), and the powerful (those with status and prestige).
+  3. Make it easy.
+    - Human behavior follows the Law of Least Effort. We will naturally gravitate toward the option that requires the least amount of work.
+    - Create an environment where doing the right thing is as easy as possible.
+    - Prime your environment to make future good habits easier and to increase friction for bad habits.
+  4. Make it satisfying.
+    - Attach some immediate gratification to your habits that reinforce your desired identity.
+    - The human brain evolved to prioritize immediate rewards over delayed rewards.
 
 ## Themes
 
