@@ -49,12 +49,12 @@ That's a system. Goals are good for setting a direction, but systems are best fo
      - Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.
      - The culture we live in determines which behaviors are attractive to us. We tend to imitate the habits of three social groups: the close (family and friends), the many (the tribe), and the powerful (those with status and prestige).
   3. Make it easy.
-    - Human behavior follows the Law of Least Effort. We will naturally gravitate toward the option that requires the least amount of work.
-    - Create an environment where doing the right thing is as easy as possible.
-    - Prime your environment to make future good habits easier and to increase friction for bad habits.
+     - Human behavior follows the Law of Least Effort. We will naturally gravitate toward the option that requires the least amount of work.
+     - Create an environment where doing the right thing is as easy as possible.
+     - Prime your environment to make future good habits easier and to increase friction for bad habits.
   4. Make it satisfying.
-    - Attach some immediate gratification to your habits that reinforce your desired identity.
-    - The human brain evolved to prioritize immediate rewards over delayed rewards.
+     - Attach some immediate gratification to your habits that reinforce your desired identity.
+     - The human brain evolved to prioritize immediate rewards over delayed rewards.
 
 ## Themes
 
