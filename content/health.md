@@ -148,3 +148,4 @@ How you live affects **how long** and **how happy** you live. So, don't [maximiz
 - [Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life).
 - [Quick n Dirty Guide: How to get your life together](https://www.reddit.com/r/selfimprovement/comments/j9i0bx/quick_n_dirty_guide_how_to_get_your_life/)
 - [35 life lessons I wish I learned years earlier](https://www.reddit.com/r/selfimprovement/comments/l5fuxd/35_life_lessons_i_wish_i_learned_years_earlier/)
+- [Ask HN: What was the biggest contributor to your happiness in the past year?](https://news.ycombinator.com/item?id=26528011)

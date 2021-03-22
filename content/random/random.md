@@ -175,8 +175,11 @@ A few interesting ones:
 - Ask everyone to make a list of things they would like to see/do.
 - Bring card/board games for long travel days.
 - Ensure you have similar budget expectations. This determines so many things! It's not just about paying equal share.
+- Search for "Walking" videos (tours) around the destination on YouTube.
 
-## Cats
+## Animals
+
+### Cats
 
 - Get a brush and brush your kitty! It's recommended that short haired cats should be brushed once a week.
 - It's recommended to let your kitty eat as much as it wills, until it reaches adulthood. They need to grow big and strong!
@@ -186,6 +189,10 @@ A few interesting ones:
 - Toys, buy a variety at first to see what your cat likes.
 - Wet food, not dry food since dry food will make their bodies work too hard and put your cat into a constant state of dehydration.
 - Have one of the playing sessions right before the last meal of the day. A good hunt ends with a hefty meal. After a quick grooming session, she'll sleep like an angel, allowing you to do the same.
+
+### Dogs
+
+- Learn to read [dog body language](https://www.flickr.com/photos/lilita/5652847156).
 
 ## Interesting Words
 
