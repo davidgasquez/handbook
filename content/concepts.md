@@ -65,6 +65,8 @@ When designing systems, look for these properties:
 
 To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, incentives, resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/).
 
+Intervening in a system requires some kind of theory, some kind of model where the positive effects will definitely be better than the side effects - and given how little people know and how bad we are at prediction, this will probably be wrong. But removing things is kind of like a negative intervention, and so probably good (you're unlikely to find a medicine as helpful as smoking is harmful, so focus on stopping smoking).
+
 [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law). Complex systems usually have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/).
 
 A good approach to incrementally chance a system (similar to natural selection) is to:
@@ -123,6 +125,8 @@ Antifragility is a property of systems that increase in capability, resilience, 
 It's fundamentally different from the concepts of resiliency (ability to recover from failure) and robustness (ability to resist failure).
 
 Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same. The antifragile gets better.
+
+Evolution is antifragile. In a stable system, animals won't evolve. In a volatile system, they will. [Just that a little bit of disorder is good](https://astralcodexten.substack.com/p/book-review-antifragile). Evolution is a system that allows volatility rather than unwisely trying to buffer against it. Being exposed to evolution sucks - animals very often die. Perhaps it would be much kinder if somebody gave unfit animals some Animal Chow to prevent them from starving. But such kindness would prevent natural selection, and gradually weaken the species (or, more technically, the species' suitability to its niche) until eventual cataclysm.
 
 ### [Pareto Principle](http://billyshall.com/blog/paretos-principle)
 
