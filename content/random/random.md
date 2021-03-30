@@ -41,13 +41,14 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Genetic data may help people today, but it can also be sold to insurance companies.
 - How valuable it would be giving your DNA to a competent advertising company? They could be able to profile and predict users with significantly higher personal accuracy. On the other hand, this is analogous to the 1800s when people disagreed over whether one should let a camera take your photo. If sequencing prices and mobility continue to advance at current rates, in 30 years your DNA could be sequenced thousands of times a day, everywhere you go in public (the same way you're recorded with security cameras).
 
-## [Signaling](https://julian.digital/2020/03/28/signaling-as-a-service/)
+## Signaling
 
+-
 - Most of our everyday actions can be traced back to some form of signaling or status seeking.
   - A classic example of this would be a luxury watch: A Rolex isn't better at telling the time than a cheap Casio – but a Rolex signals something about its owner's economic power and thus their social standing.
   - When signaling, the more expensive and useless the item is, the more effective it is as a signal. Although eyeglasses are expensive, they're a poor way to signal wealth because they're very useful; a person might get them not because ey is very rich but because ey really needs glasses. On the other hand, a large diamond is an excellent signal; no one needs a large diamond, so anybody who gets one anyway must have money to burn.
 - Our brains deliberately hide this fact from us and others (self deception).
-- Signaling can be broken down into different components:
+- [Signaling can be broken down into different components](https://julian.digital/2020/03/28/signaling-as-a-service/):
   - Signal Message: This is whatever (hidden) subtext you are trying to convey.
   - Signal Distribution: The method of distributing the signal message.
   - Signal Amplification: How do you make sure your message stand out?
@@ -193,6 +194,12 @@ A few interesting ones:
 ### Dogs
 
 - Learn to read [dog body language](https://www.flickr.com/photos/lilita/5652847156).
+- Train in any situation possible. Take it slow and be patient.
+- Play a lot with their legs and pawns.
+- Have traits everywhere so you have quick access to them.
+- Instead of yelling at your dog, show them what you prefer they do.
+- Let them sniff! Dogs live in a chemical world. They experience their world through scent. Take them on sniffy walks and give them lots of new places to sniff. Dog walks are about mental exercise, not just physical.
+- A great small resource is the book [After you get your puppy](https://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf).
 
 ## Interesting Words
 
