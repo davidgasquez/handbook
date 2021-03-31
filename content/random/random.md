@@ -43,7 +43,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 
 ## Signaling
 
--
+- Signaling is [a method of conveying information among not-necessarily-trustworthy parties by performing an action which is more likely or less costly if the information is true than if it is not true](https://www.lesswrong.com/posts/KheBaeW8Pi7LwewoF/what-is-signaling-really). Because signals are often costly, they can sometimes lead to a depressing waste of resources, but in other cases they may be the only way to believably convey important information.
 - Most of our everyday actions can be traced back to some form of signaling or status seeking.
   - A classic example of this would be a luxury watch: A Rolex isn't better at telling the time than a cheap Casio – but a Rolex signals something about its owner's economic power and thus their social standing.
   - When signaling, the more expensive and useless the item is, the more effective it is as a signal. Although eyeglasses are expensive, they're a poor way to signal wealth because they're very useful; a person might get them not because ey is very rich but because ey really needs glasses. On the other hand, a large diamond is an excellent signal; no one needs a large diamond, so anybody who gets one anyway must have money to burn.
@@ -196,9 +196,11 @@ A few interesting ones:
 - Learn to read [dog body language](https://www.flickr.com/photos/lilita/5652847156).
 - Train in any situation possible. Take it slow and be patient.
 - Play a lot with their legs and pawns.
-- Have traits everywhere so you have quick access to them.
+- Have treats everywhere so you have quick access to them.
+- Train after a good exercise session. They'll learn quickier.
 - Instead of yelling at your dog, show them what you prefer they do.
 - Let them sniff! Dogs live in a chemical world. They experience their world through scent. Take them on sniffy walks and give them lots of new places to sniff. Dog walks are about mental exercise, not just physical.
+- When playing with your pup, have him settle down for frequent short interludes every one or two minutes. Initially have the pup lie still for a few seconds before letting him play again. After a minute, interrupt the play session once more with a three-second settle-down. Then try for four seconds, then five, eight, ten, and so on.  Although being yo-yoed between the commands "Settle down" and "Let's play" is difficult at first, the puppy soon learns to settle down quickly and happily.
 - A great small resource is the book [After you get your puppy](https://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf).
 
 ## Interesting Words
