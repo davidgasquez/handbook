@@ -54,6 +54,7 @@
 - How to drive change: find people who agree on the problem, start small, experiment, scale, repeat.
 - Focus on keeping great global coordination and incentivicing local experimentation.
   - Being able to run small and compounding experiments (on the product or company processes and systems) is important.
+  - Aim to increase visibility and accountability across the teams.
 - The group with the most power determine the system that reflect and reinforce their own way of thinking. Aim for inclusion. Diversity is being invited to the party. Inclusion is being asked to dance and help organizing the party.
 - [Brainstorm for questions first. Then find the answers.](https://getpocket.com/explore/item/better-brainstorming)
 - Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships. [Don't try to optimize that number or it'll be gamed](https://www.fast.ai/2019/09/24/metrics/). When a measure becomes a target, it ceases to be a good measure. Not everything that counts can be measured, and not everything that can be measured counts.
