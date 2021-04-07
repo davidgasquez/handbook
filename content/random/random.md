@@ -17,11 +17,11 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - Reduce meat consumption.
 - Donate to birth control projects.
 - Systemic problems need systemic solutions. We can't get there if everyone thinks they already "did their part" (turning off light switches, turning the thermostat down a degree, paper/metal straws, sorting recycling).
-  - [Individual actions aren't enoughs to improve the current state](https://www.youtube.com/watch?v=DYLWZPFEWTw).
-  - [By focussing on the individuals, we miss the much bigger problem of climate change.](https://youtu.be/RSgXcFdHxFI?list=WL). Around 70% of emissions come for 100 companies. Push governments to transform the economy so individuals don't have all the pressure.
+  - [Individual actions aren't enough to improve the current state](https://www.youtube.com/watch?v=DYLWZPFEWTw).
+  - [By focusing on the individuals, we miss the much bigger problem of climate change.](https://youtu.be/RSgXcFdHxFI?list=WL). Around 70% of emissions come for 100 companies. Push governments to transform the economy so individuals don't have all the pressure.
   - It's hard to make changes since climate change happens slowly and doesn't trigger our fight and fly response. We need incentives that makes buying and using the good things the selfish thing to do.
-    - What's good for the individual is harming the collective and no one is going to concede because is not rational. E.g: it's cheaper to buy an oul car than an electric one.
-    - Tesla is changing the inventives so even if you don't care about enviromental change, you'd buy a Tesla.
+    - What's good for the individual is harming the collective and no one is going to concede because is not rational. E.g: it's cheaper to buy an foul car than an electric one.
+    - Tesla is changing the incentives so even if you don't care about environmental change, you'd buy a Tesla.
 
 ## Annual Review List
 
@@ -116,7 +116,8 @@ Random thoughts about specific topics. Probably biased based on my experience. A
     - [Rocket Crab](https://rocketcrab.com/). Party games for phones.
     - [Gartic Phone](https://garticphone.com/). The drawing telephone game.
     - [Stopots](https://stopots.com/es/). Choose a letter, think about things starting with it.
-  - [Activity List](https://www.reddit.com/r/nosurf/wiki/activities)
+  - [Activity List](https://www.reddit.com/r/nosurf/wiki/activities).
+  - [40 meaningful things to do when stuck at home in a pandemic](https://www.clearerthinking.org/post/2020/03/19/40-meaningful-things-to-do-when-stuck-at-home-in-a-pandemic).
 
 ## Thought Experiments
 
@@ -194,9 +195,11 @@ A few interesting ones:
 ### Dogs
 
 - Learn to read [dog body language](https://www.flickr.com/photos/lilita/5652847156).
-- Train in any situation possible. Take it slow and be patient.
+- Train in any situation possible. Take it slow and be patient. You can use toys and small play sessions as a food reward alternative.
 - Play a lot with their legs and pawns.
 - Have treats everywhere so you have quick access to them.
+- Exercise in the morning for a calmer day. Fetch is the most reliable way to drain some energy.
+- Play is the easiest way to bond with your dog.
 - Train after a good exercise session. They'll learn quickier.
 - Instead of yelling at your dog, show them what you prefer they do.
 - Let them sniff! Dogs live in a chemical world. They experience their world through scent. Take them on sniffy walks and give them lots of new places to sniff. Dog walks are about mental exercise, not just physical.
