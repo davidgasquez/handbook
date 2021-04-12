@@ -71,7 +71,7 @@ Intervening in a system requires some kind of theory, some kind of model where t
 
 A good approach to incrementally chance a system (similar to natural selection) is to:
 
-  1. Start by identifying the highest-leverage level to optimize at: Ask whether you're optimizing the machine or a cog within it.
+  1. Start by identifying the highest-leverage level to optimize at: Ask whether you're optimizing the machine or a cog within it. Complex systems might change in unexpected ways (butterfly effects). Minor differences in starting points make big differences on future states.
   2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes. Alter the incentive landscape. [If you can make your system less miserable, make your system less miserable!](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart)
   3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
