@@ -202,6 +202,8 @@ A few interesting ones:
   - Teach it to stay at open doors for 5 seconds so they wont stomp out of your house.
   - Train after a good exercise session. They'll learn quickier.
   - When playing with your pup, have him settle down for frequent short interludes every one or two minutes. Initially have the pup lie still for a few seconds before letting him play again. After a minute, interrupt the play session once more with a three-second settle-down. Then try for four seconds, then five, eight, ten, and so on. Although being yo-yoed between the commands "Settle down" and "Let's play" is difficult at first, the puppy soon learns to settle down quickly and happily.
+  - End the training session while is going well.
+  - Don't allow two fails in a row. E.g: If your puppy breaks the stay, make it easier next time.
 - Play is the easiest way to bond with your dog. Don't leave out all their toys. They loose potency over time.
 - Play a lot with their legs and pawns to get them used to a human touching them.
 - Exercise in the morning for a calmer day. Fetch is the most reliable way to drain some energy from your dog.
