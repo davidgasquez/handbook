@@ -195,15 +195,20 @@ A few interesting ones:
 ### Dogs
 
 - Learn to read [dog body language](https://www.flickr.com/photos/lilita/5652847156).
-- Train in any situation possible. Take it slow and be patient. You can use toys and small play sessions as a food reward alternative.
-- Play a lot with their legs and pawns.
-- Have treats everywhere so you have quick access to them.
-- Exercise in the morning for a calmer day. Fetch is the most reliable way to drain some energy.
-- Play is the easiest way to bond with your dog.
-- Train after a good exercise session. They'll learn quickier.
+- Training:
+  - Train in any situation possible (and is safe to do it).For the first 6-12 months, spend at least 20 minutes of formal training a day. If your dog doesn't come at request at a certain point. Switch to trianing mode and work on it!
+  - Have treats everywhere so you have quick access to them.
+  - You can use toys and small play sessions as a food reward alternative.
+  - Teach it to stay at open doors for 5 seconds so they wont stomp out of your house.
+  - Train after a good exercise session. They'll learn quickier.
+  - When playing with your pup, have him settle down for frequent short interludes every one or two minutes. Initially have the pup lie still for a few seconds before letting him play again. After a minute, interrupt the play session once more with a three-second settle-down. Then try for four seconds, then five, eight, ten, and so on. Although being yo-yoed between the commands "Settle down" and "Let's play" is difficult at first, the puppy soon learns to settle down quickly and happily.
+  - End the training session while is going well.
+  - Don't allow two fails in a row. E.g: If your puppy breaks the stay, make it easier next time.
+- Play is the easiest way to bond with your dog. Don't leave out all their toys. They loose potency over time.
+- Play a lot with their legs and pawns to get them used to a human touching them.
+- Exercise in the morning for a calmer day. Fetch is the most reliable way to drain some energy from your dog.
 - Instead of yelling at your dog, show them what you prefer they do.
 - Let them sniff! Dogs live in a chemical world. They experience their world through scent. Take them on sniffy walks and give them lots of new places to sniff. Dog walks are about mental exercise, not just physical.
-- When playing with your pup, have him settle down for frequent short interludes every one or two minutes. Initially have the pup lie still for a few seconds before letting him play again. After a minute, interrupt the play session once more with a three-second settle-down. Then try for four seconds, then five, eight, ten, and so on.  Although being yo-yoed between the commands "Settle down" and "Let's play" is difficult at first, the puppy soon learns to settle down quickly and happily.
 - A great small resource is the book [After you get your puppy](https://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf).
 
 ## Interesting Words
