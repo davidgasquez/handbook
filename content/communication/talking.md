@@ -18,6 +18,8 @@
 - Ask for help instead of demanding it.
 - Favor interrogative-led questions over leading questions. A leading question attempts to get the listener to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. "Did you like the movie?" vs "What did you think about the movie?".
 - Make [interesting questions](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic) to know people better. Use FORD (Family, Occupation, Recreation, Dreams) as fallback topics.
+- Remember people's names. Humans want to be significant. We strive for meaning.
+- Dishonest Flattery while effective in some cases, will destroy you long term. If you are unable to find a compliment about another human being that is truthful, you’re not trying hard enough.
 
 ## [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
 
