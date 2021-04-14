@@ -1,12 +1,12 @@
 # Rationality
 
-- Aim to get an accurate picture of reality, even when that's unpleasant. Be self-aware about what you know and what you don’t know. Aim to stay close to the [humility sweet spot](https://twitter.com/waitbutwhy/status/137655374551809638).
+- Aim to get an accurate picture of reality, even when that's unpleasant. Be self-aware about what you know and what you don't know. Aim to stay close to the [humility sweet spot](https://twitter.com/waitbutwhy/status/137655374551809638).
 - For each subject you think you know, ask the following questions:
   - How could I be wrong about this? [In general, be less sure about what you know than intuition implies](https://www.lesswrong.com/tag/epistemic-modesty).
   - What evidence would convince me I'm wrong?
 - Be [specific](https://www.lesswrong.com/posts/XosKB3mkvmXMZ3fBQ/specificity-your-brain-s-superpower). Ask yourself the question, "What's an example of that?" Or more bluntly, "Can I be more specific?"
 - Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible.
-  - Anything you know or do could be wrong. You get less dumb by saying things and getting feedback. [We all have crony beliefs](https://meltingasphalt.com/crony-beliefs/).
+  - Anything you know or do could be wrong. You get less dumb by saying things and getting feedback. [We all have crony beliefs](https://meltingasphalt.com/crony-beliefs/). From time to time, do a self-audit and figure out which ideas you've come to hold sacred and remind yourself that they're just ideas.
   - A great way to do that is to [bet on amything](https://www.lesswrong.com/posts/ybYBCK9D7MZCcdArB/how-to-measure-anything) where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and underconfidence, which will serve you in good stead emotionally when you try to do inadequacy reasoning. It'll also force you to do falsifiable predictions.
 - You can try things to find out which ideas are right or wrong. It requires asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
 - Knowledge decays. Things you learned in the past might not be true nowadays (_status of Pluto as a planet, dinosaurs with feathers, number of people living, ..._). [Facts decay over time until they are no longer facts or perhaps no longer complete](https://fs.blog/2018/03/half-life/).
