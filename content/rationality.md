@@ -53,6 +53,7 @@
   - Don't model the minds inside other people's brains as exactly the same as your own mind. Humans lack insight into their own minds and what is [common among everyone](https://slatestarcodex.com/2014/03/17/what-universal-human-experiences-are-you-missing-without-realizing-it/) or [unusually specific to a few](https://www.lesswrong.com/posts/baTWMegR42PAsH9qJ/generalizing-from-one-example).
   - [We're all biased to our own personal history](https://www.collaborativefund.com/blog/ideas-that-changed-my-life/). Your personal experiences make up maybe 0.00000001% of what's happened in the world but maybe 80% of how you think the world works.
 - [Predictive processing](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) gives us more confidence in an admission that bias is possible, and a hope that there's something other than bias which we can latch onto as a guide. It helps provide a convincing framework we can use to figure out what's going on at all levels of cognition.
+- All points of view have complex context, many of which are predetermined by chance of birth, biology, and environment. There's no such thing as, "I only believe (x) because of (y)." our brains like simple, binary thinking, but real life is constantly challenging that impulse.
 
 ## Making Decisions
 
@@ -85,6 +86,8 @@ Decision making is the process we use to identify and choose alternatives, produ
   - Intuitive vs. Rational. System 1 vs System 2.
   - Maximizing vs. Satisficing. Go for the optimal decision or simply try to find a solution that is good enough.
   - Well defined goal vs. blurred objective. Planning all the details or trying to be as flexible as possible.
+- Anecdotes are not data. Good data is carefully measured and collected information based on a range of subject-dependent factors, including, but not limited to, controlled variables, meta-analysis, and randomization.
+- Most experts aren't communicators and most communicators aren't experts. This often results in research on issues being spun with a narrative by the time it reaches the public.
 - How to make smart decisions once you have the data (DECIDE framework):
   1. Define the problem. Understand the problem at hand. Look for examples, think about, come up with explanations, get data, ...
   2. Establish the criteria. List all the factors you want to consider before making a decision.
