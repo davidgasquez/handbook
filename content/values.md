@@ -17,6 +17,7 @@ You are what you do (eat, listen, read, watch). Not what you say, not what you b
   - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. [Mistakes](https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...) are the portals of discovery.
   - [If you think you're going to regret not doing something, you should probably do it](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short). Most people regret far more things they didn't do than things they did do.
 - Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much in the last few thousands years and was built for a different world.
+- [Find your way around the inertia of helpless mentality](https://www.youtube.com/watch?v=YMPzDiraNnA). You probably have control of more things that you think! Knowing this fact changes the way you see your circle of control.
 
 ## Mindfulness
 
