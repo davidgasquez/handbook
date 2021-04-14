@@ -1,6 +1,6 @@
 # Rationality
 
-- Aim to get an accurate picture of reality, even when that's unpleasant.
+- Aim to get an accurate picture of reality, even when that's unpleasant. Be self-aware about what you know and what you don’t know. Aim to stay close to the [humility sweet spot](https://twitter.com/waitbutwhy/status/137655374551809638).
 - For each subject you think you know, ask the following questions:
   - How could I be wrong about this? [In general, be less sure about what you know than intuition implies](https://www.lesswrong.com/tag/epistemic-modesty).
   - What evidence would convince me I'm wrong?
