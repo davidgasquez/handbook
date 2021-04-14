@@ -133,7 +133,6 @@ How you live affects **how long** and **how happy** you live. So, don't [maximiz
 - [Examine.com](https://examine.com/) - Nutrition and Supplement Articles
 - [Eat This Much](https://www.eatthismuch.com/) - Create personalized meal plans based on your food preferences, budget, and schedule.
 
-
 ## [Life's Most Common Regrets](https://bronnieware.com/blog/regrets-of-the-dying/)
 
 1. I wish I'd had the courage to live a life true to myself, not the life others expected of me.
@@ -144,7 +143,7 @@ How you live affects **how long** and **how happy** you live. So, don't [maximiz
 
 ## Life Advice
 
-- If you listen to successful people talk about their approaches, remember that all the people who used the same methods and failed [did not share anything about it](https://en.wikipedia.org/wiki/Survivorship_bias).
+- If you listen to successful people talk about their approaches, remember that all the people who used the same methods and failed [did not share anything about it](https://en.wikipedia.org/wiki/Survivorship_bias). Life advice tips don't work for everyone!
 - [100 Ways To Live Better](https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-better).
 - [Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life).
 - [Quick n Dirty Guide: How to get your life together](https://www.reddit.com/r/selfimprovement/comments/j9i0bx/quick_n_dirty_guide_how_to_get_your_life/)

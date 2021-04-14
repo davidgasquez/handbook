@@ -95,8 +95,11 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - [Progress happens too slowly to notice](https://www.collaborativefund.com/blog/lots-of-overnight-tragedies-no-overnight-miracles/), setbacks happen too fast to ignore.
 - [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law): 90% of everything is crap. News are often "correct" on a basic level, but really more like "yes, but it's complicated" on a deeper level. If you've ever seen a surface-level description of something you know about at a deep level, and you realise how wrong it is, or at least how much nuance it's missing. Realise that it's like that with everything.
 - When we're talking about very unpopular beliefs, polls can only give a weak signal. Any possible source of noise ([Lizardman's Constant](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/)) can easily overwhelm the signal. Beware of [bad designed polls](https://slatestarcodex.com/2020/05/28/bush-did-north-dakota/).
+- Uncertainty doesn't sell. Nuance doesn't sell. Long, complex lectures don't sell. A video of someone saying "it's complicated" will never perform the way one would of someone using confident, flippant, polarizing rhetoric, and that's a huge problem.
 
 ## COVID-19
+
+Most data around this crisis was incomplete, constantly evolving, and politically warped, making it near impossible to interpret without context from relevant experts, especially since fear was so prevalent. The goal was to try to think critically and be understanding.
 
 - [Covid-19, your community, and you — a data science perspective](https://www.fast.ai/2020/03/09/coronavirus)
 - [Coronavirus Pandemic Statistics and Research](https://ourworldindata.org/coronavirus)

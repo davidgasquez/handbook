@@ -4,6 +4,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 
 - Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. Anthony Robbins.
 - The good thing about [science](https://youtu.be/3MRHcYtZjFY) is that it's true whether or not you believe in it. Neil deGrasse Tyson.
+  - Note: Science itself isn't "true". It's a constantly refining process used to uncover truths based in material reality and that process is still full of mistakes. Do not treat science as a dogma, but rather as a refining process to uncover truths about reality.
 - Don't raise your voice, improve your argument. Desmond Tutu.
 - Desire is a contract you make with yourself to be unhappy until you get what you want. Naval Ravikant.
 - Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely. Roy T. Bennett.
