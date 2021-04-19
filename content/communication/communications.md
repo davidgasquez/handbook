@@ -61,6 +61,8 @@ We should be arguing in a constructive fashion: treating arguments as an opportu
   - Leave your partner a line of retreat.
   - Instead of taking on a weaker version of your opponent's argument, help the entire debate out by thinking of the best and most charitable version of your opponent's argument, then repeat it back to them to see if it makes sense.
 
+Make sure you're arguing efficiently. We feel the most compulsion to distinguish ourselves from people who are most similar to us. We spend a lot of energy attacking other groups who agree with us 90% but we fight over the remaining 10%.
+
 #### [Nonviolent Communication](https://www.clearerthinking.org/post/2019/03/06/want-to-improve-your-relationships-try-nonviolent-communication-1)
 
 Nonviolent communication (NVC) is a popular method of conflict resolution that privileges unbiased evidence and specificity. It is also a tool for thinking that may help improve the way you communicate, whether it be with family, friends, colleagues. The Four Steps of NVC:

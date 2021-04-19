@@ -77,7 +77,9 @@ A good approach to incrementally chance a system (similar to natural selection) 
 
 The implicit question is — if everyone hates the current system, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
 
-A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/). Dividing a large systems into multiple smaller competing ones will make them evolve different ruleset and will allow you to pick the best one. Systems will have [trivial inconveniencese, and they usually have more implications than it seems](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences).
+A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/) (the absence of binding constraints on behavior). By having some margin for error, the system is allowed to pursue opportunities and explore approaches that improve it. [Slack prevents desperation and helps planing for long term (by not havig to put all the effort in the short term)](https://thezvi.wordpress.com/2017/09/30/slack/).
+
+Dividing a large systems into multiple smaller competing ones will make them evolve different ruleset and will allow you to pick the best one. Systems will have [trivial inconveniencese, and they usually have more implications than it seems](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences).
 
 A mental model of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
