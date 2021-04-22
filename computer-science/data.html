@@ -206,7 +206,7 @@
 <ol>
 <li>Frame the problem. Define a clear and concise objective with clear metrics.</li>
 <li>Get the data. Make the data tidy. Machine learning models are only as reliable as the data used to train them. <a href="https://twitter.com/beeonaposy/status/1353735905962577920">The data matters more than the model</a>.</li>
-<li>Explore the data. Verify any assumptions.</li>
+<li>Explore the data. Verify any assumptions. Garbage in, garbage out.</li>
 <li>Create a model. <a href="https://developers.google.com/machine-learning/guides/rules-of-ml/">Start with the simplest model!</a>. That will be the <a href="https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa">baseline model</a>. Evaluate the model with the defined metric.</li>
 <li>Make sure everything works end to end. <em>You design it, you train it, you deploy it</em>. <a href="https://nlathia.github.io/2019/08/Machine-learning-faster.html">Deploy the model quickly</a> and automatically. Add a clear description of the model. <a href="https://youtu.be/hqxQO7MoQIE">Monitor model performance in production</a>.</li>
 <li>Make results (models, analysis, graphs, ...) reproducible (code, environment and data). Version your code, data and configuration. Make feature dependencies explicit in the code. Separate code from configuration.</li>
@@ -234,6 +234,9 @@
 </ul>
 <h2 id="data-analysis-requests"><a class="header" href="#data-analysis-requests">Data Analysis Requests</a></h2>
 <p><a href="https://news.ycombinator.com/item?id=22808006">Real impact comes from continuous decision-making and implementing actions with feedback</a>. Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.</p>
+<blockquote>
+<p>If you torture the data enough, it will tell you whatever you want to hear.</p>
+</blockquote>
 <p>Continuous decision-making — the kind that leads to impact — involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, <a href="https://dfrieds.com/articles/data-science-reality-vs-expectations.html">your impact is tough to measure — data doesn't always translate to value</a>.</p>
 <p><a href="https://www.youtube.com/watch?v=T0Z_ibd3Hx0">The analytics engineer workload is a lot like being a data librarian</a>. If you are running a library you have these books coming in and you have people who are looking for books on specific topics and you've got to figure out a way to organize all those books so that all those people can find what they need. There are many different ways to organize books, not just one perfect solution. A librarian is interested in helping people find the books that they're looking for but also discovering new books that they didn't realize that they were looking for.</p>
 <h3 id="request-checklist"><a class="header" href="#request-checklist">Request Checklist</a></h3>
