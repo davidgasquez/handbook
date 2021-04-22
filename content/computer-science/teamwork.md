@@ -28,6 +28,13 @@
       - Financial position of the company and review of metrics.
   - Responsibilities. Things that aren’t your fault can still be your responsibility.
   - Defaults. For example, each thing should have a place by default, docs, issues, ...
+- [Write down good team KRs](https://clrcrl.com/2021/04/07/setting-team-krs.html).
+  - The key result is a result, not a task (another framing: it’s an outcome, not an input).
+  - The key result is measurable, both in the sense of we can clearly define what success looks like, and we have the data points available to you.
+    - It may include a component that measures magnitude, and one that controls quality.
+  - The key result does not pre-suppose the exact program of works to do (and in fact leaves room for creative solutions).
+  - The key result states assumptions about why the team KR affects the top-level KR.
+  - The key result target should be informed by analysis.
 - You can create a Handbook to put everything together.
   - Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the Handbook.
   - Avoid duplicating knowledge.

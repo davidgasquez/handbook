@@ -30,7 +30,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 
 1. Frame the problem. Define a clear and concise objective with clear metrics.
 1. Get the data. Make the data tidy. Machine learning models are only as reliable as the data used to train them. [The data matters more than the model](https://twitter.com/beeonaposy/status/1353735905962577920).
-1. Explore the data. Verify any assumptions.
+1. Explore the data. Verify any assumptions. Garbage in, garbage out.
 1. Create a model. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be the [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa). Evaluate the model with the defined metric.
 1. Make sure everything works end to end. _You design it, you train it, you deploy it_. [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html) and automatically. Add a clear description of the model. [Monitor model performance in production](https://youtu.be/hqxQO7MoQIE).
 1. Make results (models, analysis, graphs, ...) reproducible (code, environment and data). Version your code, data and configuration. Make feature dependencies explicit in the code. Separate code from configuration.
@@ -60,6 +60,8 @@ Tech debt is an analogy for the long-term buildup of costs when engineers make d
 ## Data Analysis Requests
 
 [Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006). Reports are rarely read, and often forgotten. Decision-making involves getting data, summarizing and predicting ad then taking action.
+
+> If you torture the data enough, it will tell you whatever you want to hear.
 
 Continuous decision-making — the kind that leads to impact — involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, [your impact is tough to measure — data doesn't always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html).
 
