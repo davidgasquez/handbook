@@ -47,6 +47,7 @@
 - There's a distinction between tacit knowledge and explicit knowledge:
   - Tacit knowledge is like the knowledge that you use to ride a bicycle—it's complex, experiential, intuitive, hard to put into words.
   - Explicit knowledge is clear and concrete and transferable and (at least somewhat) objectively verifiable. How you ride a bicycle is tacit, but the fact that you can ride a bicycle is explicit. It's a binary fact that can be completely and compactly transferred through words, and that is checkable through experiment.
+- An event or fact is common knowledge among a group of people if everyone knows it, everyone knows that everyone knows it, everyone knows that everyone knows that everyone knows it, and so on.
 - You do not think about things the same way as everyone else.
   - You may approach something analytically while others approach it intuitively — and both styles can yield the same end results!
   - Humans think in very different styles, related to how they use their senses while thinking. For example, some people see images during a conversation for each concept, others "feel" concepts in their body, others have explicit models that they update, and many have some combination. Also, some people can't imagine in images, and others can't store faces. It's very strange that we enter adult life without a shared understanding of this.
