@@ -9,6 +9,7 @@
 - Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on pre-cached ideology. It's just better to discuss issues without invoking teams.
   - Issues aren't binary. Political parties make it seem so to make it work with their political interests. When you spot a binary question, think if its really a binary one or it is much more nuanced.
 - Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government).
+- Groups that form around a goal can work better or worse, depending on how well the goal can be verified by the group. If you're forming a group based on how dedicated we are, say, what percentage of our income are we willing to devote, that's a really easy thing to monitor.
 - [Meritocracy isn't an "-ocracy" like democracy or autocracy, where people in wigs sit down to frame a constitution and decide how things should work. It's a dubious abstraction over the fact that people prefer to have jobs done well rather than poorly, and use their financial and social clout to make this happen](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart).
 - If you think politics is annoying, it's because you're privileged enough to not care about it.
 - Some issues are not as important but are discussed much more times. The fact that some changes happens very gradually makes it hard for our brains that didn't evolve with subtle dangers in mind to realize the scope of the problem (e.g Climate Change vs terrorist attacks).
@@ -21,9 +22,6 @@
   - Stronger and more powerful organizations.
   - Tools like smart contracts that allow interactions with reduced levels of trust.
   - Governance technologies (voting, shares, decision markets...)
-
-
-
 
 ### [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
