@@ -5,7 +5,7 @@
 - [A blockchain is a decentralized database](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
 - Blockchain solve the Byzantine Generals Problem: [How do participants in a decentralized network communicate and coordinate with each other towards some action without relying on a trusted third-party?](https://a16z.com/2019/11/08/crypto-glossary/).
   - Blockchains are "trustless". There are mechanisms in place by which all parties in the system can reach a consensus on what the canonical truth is.
-  - Power and trust is distributed (or shared) among the network’s stakeholders (e.g. developers, miners, and consumers), rather than concentrated in a single individual or entity (e.g. banks, governments, and financial institutions).
+  - Power and trust is distributed (or shared) among the network's stakeholders (e.g. developers, miners, and consumers), rather than concentrated in a single individual or entity (e.g. banks, governments, and financial institutions).
   - Blockchains put the code in charge.
 - Cryptocurrencies are a digital version of money protected by cryptography (Merkles Trees).
   - Originally, currencies were actual precious metals, like gold and silver coins. For the sake of portability, these were replaced with bank notes. Pieces of paper which entitled the bearer to a certain quantity of precious metal if they presented them to the bank. That system is known as the gold standard.
