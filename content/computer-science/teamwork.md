@@ -55,7 +55,7 @@
 - Standardization should be based on tooling and [automation](programming.md#automation).
 - Someone should be the information hub (librarian). It helps connecting the dots that wouldn't otherwise get connected.
 - Meetings should be as short, focused, and small as possible.
-- Write tech specs before you write software (examples in [Codeburst](https://codeburst.io on-writing-tech-specs-6404c9791159) and [Lyft](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
+- Write tech specs before you write software (examples in [Codeburst](https://codeburst.io/on-writing-tech-specs-6404c9791159) and [Lyft](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
 - Write postmortems after large incidents. This will create a feedback loop to guide learning about what happened and how it can be avoided next time.
 - Make time to pay technical debt. Systems evolve organically over time and might get stuck on a local maximum. Alternative abstractions/designs might be better to continue progressing!
 - Teams, [as almost everything, need slack to absorb and adap when unexpected things come up](https://www.neelnanda.io/blog/38-slack).
