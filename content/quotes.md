@@ -52,6 +52,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - That which can be destroyed by the truth should be. P.C. Hodgell.
 - The past is a foreign country, they do things differently there. Leslie Poles Hartley.
 - Most advice is basically people mistaking correlation for causation. Leo Polovets.
+- In preparing for battle I have always found that plans are useless, but planning is indispensable. Dwight D. Eisenhower.
 
 ## External Lists
 

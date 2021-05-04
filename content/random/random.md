@@ -119,6 +119,7 @@ Most data around this crisis was incomplete, constantly evolving, and politicall
     - [Rocket Crab](https://rocketcrab.com/). Party games for phones.
     - [Gartic Phone](https://garticphone.com/). The drawing telephone game.
     - [Stopots](https://stopots.com/es/). Choose a letter, think about things starting with it.
+    - [The Schelling Game](https://www.lesswrong.com/posts/kM3Xd2mJeWtsGkgSW/the-schelling-game-a-k-a-the-coordination-game). Discern Schelling points among the group.
   - [Activity List](https://www.reddit.com/r/nosurf/wiki/activities).
   - [40 meaningful things to do when stuck at home in a pandemic](https://www.clearerthinking.org/post/2020/03/19/40-meaningful-things-to-do-when-stuck-at-home-in-a-pandemic).
 
