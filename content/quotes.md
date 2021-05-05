@@ -53,6 +53,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - The past is a foreign country, they do things differently there. Leslie Poles Hartley.
 - Most advice is basically people mistaking correlation for causation. Leo Polovets.
 - In preparing for battle I have always found that plans are useless, but planning is indispensable. Dwight D. Eisenhower.
+- Everyone you will ever meet knows something you don't. Your job is to discover what it is, and it won't be obvious. Bill Nye.
 
 ## External Lists
 

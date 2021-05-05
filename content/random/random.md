@@ -92,7 +92,7 @@ Random thoughts about specific topics. Probably biased based on my experience. A
 - [News programs are, with the exception of a few non-profit or publicly funded ones, commercial enterprises designed to turn and maximize profit](https://www.mrmoneymustache.com/2013/10/01/the-low-information-diet/).
   - The profit comes from advertising, and advertising revenue is maximized by pulling the largest audience, holding their attention for the longest possible time, and putting them into the mental state most conducive to purchasing the products of the advertisers (which turns out to be helplessness and vulnerability). This is why the news always starts out with a sensationalist take on a topic of at least plausible national interest, takes a detour into truly horrific and depressing irrelevant tragedies is one that unfortunately crossed my screen when doing research for this article), then ends on an uplifting note with something like a defiant entrepreneur or a caring soup kitchen. An emotional roller-coaster ride every day of the week. They don't explore solutions.
 - [There isn't enough actual news (ie events that are "new") to fill the standard news slot — so the fillers became pundits and commentators interpreting "news" and "potential news" for us](https://jjbeshara.com/2018/11/20/the-information-pathology-2/). Humans are good at finding efficiencies, and potential events far outweigh the number of past events, and potential negative events captivate our attention better than potential positive events, so these news-cycles naturally became dominated by commentators interpreting any number of potential negative events.
-- [Progress happens too slowly to notice](https://www.collaborativefund.com/blog/lots-of-overnight-tragedies-no-overnight-miracles/), setbacks happen too fast to ignore.
+- [Progress happens too slowly to notice](https://www.collaborativefund.com/blog/lots-of-overnight-tragedies-no-overnight-miracles/), setbacks happen too fast to ignore. Bad things can happen fast, but almost all good things happen slowly.
 - [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law): 90% of everything is crap. News are often "correct" on a basic level, but really more like "yes, but it's complicated" on a deeper level. If you've ever seen a surface-level description of something you know about at a deep level, and you realise how wrong it is, or at least how much nuance it's missing. Realise that it's like that with everything.
 - When we're talking about very unpopular beliefs, polls can only give a weak signal. Any possible source of noise ([Lizardman's Constant](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/)) can easily overwhelm the signal. Beware of [bad designed polls](https://slatestarcodex.com/2020/05/28/bush-did-north-dakota/).
 - Uncertainty doesn't sell. Nuance doesn't sell. Long, complex lectures don't sell. A video of someone saying "it's complicated" will never perform the way one would of someone using confident, flippant, polarizing rhetoric, and that's a huge problem.
@@ -221,3 +221,15 @@ A few interesting ones:
 - Zeitgeist: is a concep meaning "spirit of the age". It refers to an invisible agent or force dominating the characteristics of a given epoch in world history.
 - Ethos: is a Greek word meaning "character" that is used to describe the guiding beliefs or ideals that characterize a person, community, nation, or ideology.
 - Telos: is a term used by philosopher Aristotle to refer to the full potential or inherent purpose or objective of a person or thing, similar to the notion of an "end goal" or "raison d'être". Moreover, it can be understood as the "supreme end of man's endeavour".
+
+## Things that might look weird in the future
+
+History teaches us that in 100 years from now some of the assumptions we believed will turn out to be wrong. A good question to ask is "What might we be wrong about today?". These are a few things that future humans might see as weird behaivor:
+
+- Eat animals
+- Drive manually
+- Give birth without advanced assistance
+- Not caring for all the animal suffering in the wild
+- The ignorance of Social Mediafull impact on a society
+- Voting Systems and not using more Prediction Markets in public
+- Allowing Alcohol but not other drugs

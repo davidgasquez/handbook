@@ -1,6 +1,6 @@
 # Ideas
 
-A few personal random ideas.
+A few personal random ideas. A multitude of bad ideas is necessary for one good idea!
 
 ## Key Properties of Ideas
 

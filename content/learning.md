@@ -48,7 +48,7 @@
 
 ## [How To Do Hard Things](https://www.drmaciver.com/2019/05/how-to-do-hard-things/)
 
-It's a useful conceptual framework for how to get better at things that you currently find difficult.
+It's a useful conceptual framework for how to get better at things that you currently find difficult. Everything is hard before it is easy. The day before something is a breakthrough, it's a stupid idea.
 
 - The Single-Loop System. Useful when you know what success looks like but cannot currently achieve it.
   1. Find something that is _like_ the hard thing but is easy.
