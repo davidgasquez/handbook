@@ -47,7 +47,7 @@
   - Search should be centralized. Keeping 4 tools causes scattered information.
   - Link everything together.
   - Basecamp does that using Basecamp, GitLab uses GitLab.
-- Aim to be a completely autonomous team. You build it, you run it!
+- Aim to be a completely autonomous team. You build it, you run it! The company strategy guides the team, it doesn't tell it what to do.
 - Run [Automated Checkings](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
 - Build a culture of stopping to fix problems, to get quality right the first time.
 - Have direct responsible individuals for everything. Everyone's problem is no one's problem. Having a name accountable instead of a vague "the team" or "the process" makes it easy to make changes.
@@ -58,8 +58,8 @@
 - Write tech specs before you write software (examples in [Codeburst](https://codeburst.io/on-writing-tech-specs-6404c9791159) and [Lyft](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)). A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
 - Write postmortems after large incidents. This will create a feedback loop to guide learning about what happened and how it can be avoided next time.
 - Make time to pay technical debt. Systems evolve organically over time and might get stuck on a local maximum. Alternative abstractions/designs might be better to continue progressing!
-- Teams, [as almost everything, need slack to absorb and adap when unexpected things come up](https://www.neelnanda.io/blog/38-slack).
-- Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you're trying to do when requesting help.
+- Teams [need slack to absorb and adap when unexpected things come up](https://www.neelnanda.io/blog/38-slack).
+- Don't focus on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you're trying to do when requesting help. Focus on business outcomes, not on technologies.
 - How to drive change: find people who agree on the problem, start small, experiment, scale, repeat.
 - Focus on keeping great global coordination and incentivicing local experimentation.
   - Being able to run small and compounding experiments (on the product or company processes and systems) is important.

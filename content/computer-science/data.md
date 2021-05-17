@@ -65,6 +65,8 @@ Tech debt is an analogy for the long-term buildup of costs when engineers make d
 
 Continuous decision-making — the kind that leads to impact — involves doing this repeatedly in a principled fashion, which means creating a system around the decision process. That said, [your impact is tough to measure — data doesn't always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html).
 
+One of the best ways to communicate data is telling stories. Stories are more captative and present a coherent view around a topic.
+
 [The analytics engineer workload is a lot like being a data librarian](https://www.youtube.com/watch?v=T0Z_ibd3Hx0). If you are running a library you have these books coming in and you have people who are looking for books on specific topics and you've got to figure out a way to organize all those books so that all those people can find what they need. There are many different ways to organize books, not just one perfect solution. A librarian is interested in helping people find the books that they're looking for but also discovering new books that they didn't realize that they were looking for.
 
 ### Request Checklist
