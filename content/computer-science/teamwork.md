@@ -72,6 +72,7 @@
 - Encourage to fail. Failing is good if the team learn from it!
 - Beware of Law of triviality. People within an organization commonly or typically give disproportionate weight to trivial issues.
 - Encourage effectiveness. Find ways to free up your time.
+- Each team should [keep a changelog](https://keepachangelog.com/en/1.0.0/). The company aswell.
 - Train employees well enough they could get another job, but treat them well enough so they never want to.
 - Push relentlessly toward automation.
   - Investigate where (and how) processes and tasks could be automated, and understanding the costs of automating them.
