@@ -1,6 +1,9 @@
 # Programming
 
-A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) [of](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) [concepts](http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions). Try to keep in mind the following principles:
+A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) [of](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) [concepts](http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions). 
+
+Try to keep in mind the following principles:
+
 - **Small is beautiful**.
 	- Small things have tremendous advantages over their larger counterparts. Among these is the ability to combine with other small things in unique and useful ways.
 	- The best code is no code, or code you don’t have to maintain.
