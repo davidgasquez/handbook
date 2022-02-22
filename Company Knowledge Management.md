@@ -8,9 +8,9 @@ If we think about a company as an organism, then a **knowledge management system
 
 ## Principles
 
-There are some basic principles and [[values]] that will make maintaining and evolving a knowledge base easier over time. 
+There are some basic principles and [[values]] that will make maintaining and evolving a knowledge base easier over time.
 
-- **Transparency**. Everyone has access to everything. 
+- **Transparency**. Everyone has access to everything.
 - **Iterative Improvements**. Everything is a WIP. No need to say it’ll be updated later or add dates to pages.
 - **Permissionless**. Anyone is able to edit anything. Similar to GitHub Pull Requests. Later, the resource owner can accept or reject the change.
 - **Interconnected**. Links between everything!
@@ -19,7 +19,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
 
 - [[Documentation]] and PM can make a company 10x better.
 - Have an opinionated way of doing internal documentation that works for your [[Organizations | organization]] and [[Culture]].
-- Every employee should contribute. 
+- Every employee should contribute.
 - Resources have owners, contributors, reviewers (similar to [[Git]] roles).One of the owner roles is to keep it up to date and consistent with the rest of the knowledge base.
 - Each kind of document has have an explicit place.
 	- Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
@@ -32,7 +32,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
 - Reduce the number of alternatives where information might be stored. GitLab uses [[git]], Basecamp uses Basecamp, ...
 - [If it will matter after today, stop talking about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
 - Always overshare. Its faster to filter out information than asking and then waiting for it.
-- For complex and big decisions, aim for 3 levels of curation.  
+- For complex and big decisions, aim for 3 levels of curation.
 - [Decisions (and rationale) must be documented in a durable location. At GitHub they used to say everything should have a URL](https://haacked.com/archive/2020/04/07/introducing-aboard-beta/). That gives the company a **Decision Log**.
 - Important documents like Roadmaps should be easy to discover and people should be able to comment on and have discussions around them. That promotes keeping it up to date.
 - [[Design Docs]] should have an explicit place, also acting as an historical log.

@@ -6,7 +6,7 @@
 - Metrics should use the SMART framework (Specific, Measurable, Achievable, Results-Oriented, Targeted).
 	- Pick the simplest metric that works for you.
 - Common understanding of a metric matters more than the metric precision. That understanding requires some standardization (names, time spans, ...) and that needs [[Coordination]].
-	- Teams need to cooperate when defining metrics. 
+	- Teams need to cooperate when defining metrics.
 - Organizations need three things related to metrics:
 	1. A [[Metrics | process for defining metrics]].
 	2. A single source of truth for the metrics.
@@ -50,4 +50,4 @@ As you evaluate potential metrics, sure the proxy metric:
 - Is measurable. You can find, collect, and measure the data. Ideally, you can assess the metric in an A/B test.
 - Is movable. You can affect the metric through changes to the product experience.
 - Is not an average. The danger of averages is you may move the metric by inspiring a small subset of customers to do a lot more of something. But this may not affect enough members to improve the overall product experience.
-- Correlates to your high-level engagement metric. 
+- Correlates to your high-level engagement metric.

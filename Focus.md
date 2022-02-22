@@ -9,4 +9,4 @@
 	- Disable notifications and badges so that you don't mindlessly open distracting apps.
 - [[Mental Health#Meditation | Mindfulness meditation]], e.g. breath-counting, seems to be a go-to technique for developing focus.
 - Periodic exposure to nature and out-of-doors in an unstressful, undemanding way can restore attention capability.
-- Attention is a scarce resource. Everything in the world is fighting to get yours. 
+- Attention is a scarce resource. Everything in the world is fighting to get yours.

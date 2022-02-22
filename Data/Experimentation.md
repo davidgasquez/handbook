@@ -4,7 +4,7 @@ An *experiment* is an hypothesis driven exploration to uncover knowledge that ca
 
 When you're not certain of the right answer, the best approach is to [have a portfolio](https://seths.blog/2022/01/portfolio-thinking/), a range of bets that reward us with resilience and significant upside.
 
-**A/B Test** (Including multivariate tests) are randomized controlled experiment where a single success metric is measured to determine which variant performs the best. 
+**A/B Test** (Including multivariate tests) are randomized controlled experiment where a single success metric is measured to determine which variant performs the best.
 
 Normally this will consist of two groups: A **control** and **test** group, but it could also be implemented with multiple test groups (a multivariate test). The goal of an A/B test is to reach a statistically significant result, i.e. you can say that one variant is better than the other with a high level of confidence that observed difference did not occur by chance. While A/B testing **is** a very powerful conversion optimization instrument, it requires lots of hard work. [Most of your experiments will not produce a significant result](https://www.jitbit.com/news/185-most-of-your-ab-tests-will-fail).
 
@@ -51,8 +51,8 @@ You can use [online calculators](http://experimentcalculator.com/) to estimate t
 Experimentation unlocks entrepreneurialism, creating a vehicle for teams down the hierarchy to show outsized impact.
 
 [Experiment-based thinking will shape business over the coming years.](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
-- Everyone can drive business impact. Almost everything is run as an experiment and the experiment is always tied to the most important metric.  
-- Anyone can make a change. With an experiment culture, you can take a lot of small bets, learn what works and double down on these. The best part is that these bets can come from anywhere.     
+- Everyone can drive business impact. Almost everything is run as an experiment and the experiment is always tied to the most important metric.
+- Anyone can make a change. With an experiment culture, you can take a lot of small bets, learn what works and double down on these. The best part is that these bets can come from anywhere.
 - Your team feels a strong sense of ownership. They're owning their own roadmap and at the end of the quarter, they can look back and point to exactly what impact they had.
 
 ## Resources

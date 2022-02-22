@@ -1,6 +1,6 @@
 # Checklist
 
-Checklists are an essential component of high-quality processes, e.g. in aviation, medicine or construction. 
+Checklists are an essential component of high-quality processes, e.g. in aviation, medicine or construction.
 
 ## [How To Build A Checklist](http://projectmanagementhacks.com/how-to-build-a-checklist/)
 

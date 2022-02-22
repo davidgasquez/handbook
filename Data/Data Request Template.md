@@ -12,7 +12,7 @@ Inspired by [Caitlin Hudon Intake Form for Data Requests](https://caitlinhudon.c
 
 ## Data Request Form
 
-- What kind of deliverable would be most helpful for your request? 
+- What kind of deliverable would be most helpful for your request?
 - Will you need this data again in the future?
 - Which stats is this going to change or which action will be taken based on this data and by whom?
 	- How can we measure our progress/success for each step?
@@ -22,10 +22,10 @@ Inspired by [Caitlin Hudon Intake Form for Data Requests](https://caitlinhudon.c
 - What decision will you make or action will you take with this data?
 - **Request Description**
 - Do you know where is the related data?
-- Can this analysis be done in our current BI tools? 
+- Can this analysis be done in our current BI tools?
 	- If yes, do you have a starting link?
 	- If no, can [[Reverse ETL]] help?
-- Which is more important? 
+- Which is more important?
 	- Getting the answer quickly
 	- Getting an accurate answer
 - Any gotchas we should know about?

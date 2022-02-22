@@ -1,7 +1,7 @@
 # Asynchronous Communications
 
 - Having [asynchronous communication channels and making heavy use of them can have great effects on productivity](https://www.martinklepsch.org/posts/asynchronous-communication.html).
-- Every question asked in an internal Slack is a policy failure. 
+- Every question asked in an internal Slack is a policy failure.
 - [Asynchronous environments allows for self discovery without interruptions](https://snir.dev/blog/remote-async-communication/):
 	- You can keep on your flow without waiting for someone to give you details.
 	- You can get into "deep focus" session without context switching that allows for better [[productivity]].

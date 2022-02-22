@@ -2,7 +2,7 @@
 
 It's a useful [[Mental Models | conceptual framework]] for how to get better at things that you currently find difficult. Everything is hard before it is easy. [The day before something is a breakthrough, it's a stupid idea](https://www.drmaciver.com/2019/05/how-to-do-hard-things/).
 
-### The Single-Loop System 
+### The Single-Loop System
 
 Useful when you know what success looks like but cannot currently achieve it.
 
