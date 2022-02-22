@@ -1,0 +1,44 @@
+# Data Engineering
+
+## Data Pipelines
+
+Data Pipelines are a set of actions that extract data, transform it, and then load the final data somewhere. As any [distributed system](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/), they're tricky to work with. These are some great principles to keep in mind as [production data engineering is mostly computer science](https://towardsdatascience.com/lessons-from-a-year-in-the-data-science-trenches-f06efa6355fd).
+
+### Basic Principles
+
+- **Simplicity**: Each steps is easy to understand and modify.
+- **Reliability**: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done extracting the column from the intermediary data without having to query the data source. It is better to support 1 feature that works reliably and has a great UX than 2 that are unreliable or hard to use. One solid step is better than 2 finicky ones.
+- **[[Modularity]]**: Steps are independent and [[Idempotence | itempotent]].
+- **Consistency**: Same conventions and design patterns across pipelines. If a failure is actionable by the user, clearly let them know what they can do.
+- **Efficiency**: Low event latency when needed. Easy to scale up and down. A user should not be able to configure something that will not work.
+- **Flexibility**: Steps change to conform data points. Changes don't stop the pipeline or losses data.
+
+### Data Flow
+
+```mermaid 
+graph LR; 
+	A-->B; 
+	B-->D; 
+	C-->D;
+```
+
+- In each step of the pipeline there are producers of data and consumers. Consumers can be also producers, e.g `B` is both consumer of `A`'s data and producer of `C`s data. 
+  - Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a [[Databases | database]].
+- Schemas changes. Most of the time you won't be there at the exact time of the change so aim to save everything.
+  - Ideally, the schema will evolve in a backward compatible way:
+    - Data types don't change in the same column.
+    - Columns are either deleted or added but never renamed.
+- Create a few extra columns like `processed_at` or `schema_version`.
+- Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the [Functional Data Engineering Paradigm](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).
+
+## Great Blog Posts
+
+- [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007).
+- [Why is data hard?](https://medium.com/@HelenLeeKupp/why-is-data-hard-3ed96ec70f3f).
+- [Building a Data Pipeline from Scratch](https://medium.com/the-data-experience/building-a-data-pipeline-from-scratch-32b712cfb1db).
+- [A Beginner's Guide to Data Engineering Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7) and [Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71).
+- [The Rise of the Data Engineer](https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/).
+- [The Downfall of the Data Engineer](https://medium.com/@maximebeauchemin/the-downfall-of-the-data-engineer-5bfb701e5d6b).
+- [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).
+- [So You Want to be a Data Engineer?](https://angelddaz.substack.com/p/so-you-want-to-be-a-data-engineer).
+- [Reshaping Data Engineering](https://preset.io/blog/reshaping-data-engineering/)
