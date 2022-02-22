@@ -1,6 +1,6 @@
 # Podcasts
 
-You can explore all the podcast I'm subscribed to in [my PocketCast list](https://lists.pocketcasts.com/e0b1036d-ffe3-42af-ba4e-2c13a120a2b3). These are some of my favorite ones: 
+You can explore all the podcast I'm subscribed to in [my PocketCast list](https://lists.pocketcasts.com/e0b1036d-ffe3-42af-ba4e-2c13a120a2b3). These are some of my favorite ones:
 
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/). Conversations about science, technology, history, philosophy and the nature of intelligence, consciousness, love, and power.
 - [Made You Think](https://madeyouthinkpodcast.com/). Episodes will explore books, essays, podcasts, and anything else that warrants further discussion, teaches something useful, or at the very least, exercises our brain muscles.

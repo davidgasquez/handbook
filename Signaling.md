@@ -4,7 +4,7 @@
 - Most of our everyday actions can be traced back to some form of signaling or status seeking.
   - A classic example of this would be a luxury watch: A Rolex isn't better at telling the time than a cheap Casio – but a Rolex signals something about its owner's economic power and thus their social standing.
   - When signaling, the more expensive and useless the item is, the more effective it is as a signal. Although eyeglasses are expensive, they're a poor way to signal wealth because they're very useful; a person might get them not because they is very rich but because they really needs glasses. On the other hand, a large diamond is an excellent signal; no one needs a large diamond, so anybody who gets one anyway must have money to burn.
-- Our brains deliberately hide this fact from us and others (self deception). Be [[Mindfulness | mindfull]] of your actions. 
+- Our brains deliberately hide this fact from us and others (self deception). Be [[Mindfulness | mindfull]] of your actions.
 - [Signaling can be broken down into different components](https://julian.digital/2020/03/28/signaling-as-a-service/):
   - Signal Message: This is whatever (hidden) subtext you are trying to convey.
   - Signal Distribution: The method of distributing the signal message.

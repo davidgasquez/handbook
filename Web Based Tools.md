@@ -14,5 +14,5 @@ Collection of awesome web based tools.
 
 - [HackMD](https://hackmd.io/)
 - [Jitsi](https://meet.jit.si/)
-- [GitHub Projects](https://github.com/features/issues) 
+- [GitHub Projects](https://github.com/features/issues)
 - [Ountline](https://github.com/outline/outline)

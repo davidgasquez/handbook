@@ -17,7 +17,7 @@
 - There are usually a number of possibilities for solving a problem. The first would be any solution that quickly gets the job done yet not actually permanent while the second would be a proper solution – which unfortunately takes longer and costs more. Know when to choose each option. [Nothing is more permanent than a temporary solution](https://thelightersideofwork.com/2021/04/nothing-is-more-permanent-than-a-temporary-solution/).
 	- Solve problems by fixing the environment that allowed them to occur.
 - [Problem solving can be understood as a search problem](https://rs.io/the-science-of-problem-solving/). You start in some state, there's a set of neighbor states you can move to, and a final state that you would like to end up in.
-	- Experiment more. Solve problems in different ways. 
+	- Experiment more. Solve problems in different ways.
 	- Focus on the changes you have to do between your state and the desired ones.
 - Taking breaks during working on a problem solving is called incubation. Incubation enhances problem solving ability.
 - Problems are not disciplinary in nature but are holistic.
@@ -40,7 +40,7 @@ Ask "why" 5 times, until you get to the root cause of your issue. [Five Whys](ht
 
 The simple steps:
 1. Define the problem.
-2. Ask "Why do I have this problem? / What is causing this problem?". 
+2. Ask "Why do I have this problem? / What is causing this problem?".
 3. Make the answer as concrete as possible.
 4. Repeat steps 2 and 3 until you run out of more [[ideas]]. (Aim for at least five times.)
 5. Brainstorm solutions to each answer. What specific action might resolve that problem?

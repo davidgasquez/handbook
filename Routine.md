@@ -10,17 +10,17 @@ A way to keep yourself on track with your [[habits]] is to have a morning routin
 
 ## Small Actions
 
-Small lifestyle changes that can lead to large impact: 
+Small lifestyle changes that can lead to large impact:
 - Start every day as a producer, not a consumer.
 - Stretch each time you stand up.
 - Go for small walks after lunch.
 - No screens on the bedroom.
-- Read one page a day. 
+- Read one page a day.
 - Be specific (time, words, actions).
 - Take [[time]] to reflect and make time for ([[mindfulness]]).
 - Hike often with friends.
 - [[Writing | Write]] more.
-- Consume content mindfully. 
+- Consume content mindfully.
 - Do experiments with life (A/B tests).
 - Automate one thing.
 - Chat with everyone.

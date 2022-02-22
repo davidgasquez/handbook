@@ -15,7 +15,7 @@
 ## Process
 
 1. Brainstorm draft KRs focusing more on the “shape” than the content.
-2. State your assumptions. 
+2. State your assumptions.
 	- Why does this team KR affect our company KR?
 	- Why this target number?
 3. Iterate and get feedback.

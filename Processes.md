@@ -6,9 +6,9 @@ Whether you're compiling code or making breakfast, it can be modeled as a repeat
 
 Write down processes, take measures and then iterate. **Speed of iteration beats the quality of iteration**. The difference between good and great is often an extra round of revision. You cannot improve what you cannot measure. You cannot improve what you cannot explain.
 
-[There are three kinds of processes](https://fs.blog/tobi-lutke). 
-1. There's a kind of process that makes things that were previously impossible to do, possible. 
-2. Then there's a kind of process that makes something that was previously possible significantly simpler. 
+[There are three kinds of processes](https://fs.blog/tobi-lutke).
+1. There's a kind of process that makes things that were previously impossible to do, possible.
+2. Then there's a kind of process that makes something that was previously possible significantly simpler.
 3. And then there's everything else. E.g: telling people to behave slightly different from what common sense tells them to do without making any impact.
 
 You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments](https://rs.io/how-to-get-started-with-anything/), removing barriers, adding incentives, or using technology.

@@ -12,13 +12,13 @@ Decision making is the process we use to identify and choose alternatives, produ
   1. Irreversible and inconsequential.
   2. Irreversible and consequential. These are the ones that you really need to focus on. Irreversible decisions tend to have a long lag time from decision to feedback, and are often more consequential. They must be dealt by [becoming **more creative, having more slack, being more equanimous, and pruning more efficiently**.](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
   3. Reversible and inconsequential
-  4. Reversible and consequential. Perfect decisions to run experiments and gather information. Reversible actions can be stopped if they turn out to be bad, and tend to work well with tight [[Feedback Loops]]. 
+  4. Reversible and consequential. Perfect decisions to run experiments and gather information. Reversible actions can be stopped if they turn out to be bad, and tend to work well with tight [[Feedback Loops]].
 - Realize that the possibility space is much bigger than you initially think. Take some distance and see the decision through different lenses.
 - How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can't take back, then it's worth really, really understanding. **Aim for preserving optionality**.
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
 - Gather all the information you can. Then, schedule [[time]] to think deeply about it. Brain-dump your thoughts on the problem - what's going wrong, why is it inefficient? Try to understand it in as much detail as possible.
   - Learn from the mistakes of others. You can't live long enough to make them all yourself.
-  - Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. [[Openness | Transparency]] is key for group decisions. 
+  - Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. [[Openness | Transparency]] is key for group decisions.
   - Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow.
 - [The fog of the future hides vital information](https://youtu.be/SVmEXdGqO-s).
 - If all options are similar take the harder one in the short term (_Hard decisions easy life, easy decisions, hard life_).
@@ -44,12 +44,12 @@ Decision making is the process we use to identify and choose alternatives, produ
 - People reason more wisely about other people's problems than about their own.
 - When you share something, add the level of confidence you have on it.
 - [Understand your personal stance on the trade-off of compromise versus purity](https://vitalik.ca/general/2020/11/08/concave.html). Given a choice between two alternatives, often both expressed as deep principled philosophies, do you naturally gravitate toward the idea that one of the two paths should be correct and we should stick to it, or do you prefer to find a way in the middle between the two extremes?
-- [It's often not _how much force_ you can bring to bear, so much as whether you can apply that force _effectively](https://www.lesswrong.com/posts/rQKstXH8ZMAdN5iqD/concentration-of-force)_. 
+- [It's often not _how much force_ you can bring to bear, so much as whether you can apply that force _effectively](https://www.lesswrong.com/posts/rQKstXH8ZMAdN5iqD/concentration-of-force)_.
 
 ![](https://miro.medium.com/max/700/1*9H9letDTBO0IvuGbYN4x6A.png)
 
 ## Framework
-A decision making framework is only needed when there is lack of clarity about a decision that is higher risk. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made. 
+A decision making framework is only needed when there is lack of clarity about a decision that is higher risk. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made.
 
 This is [how to make decisions](https://barmstrong.medium.com/how-we-make-decisions-at-coinbase-cd6c630322e9).
 

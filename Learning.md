@@ -31,7 +31,7 @@
 - When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [[Mental Models | mental model]].
 - Learning to program shapes the mind the same way learning a new language does. Each new word, concept or expression helps you model the world.
 - Use [[Spaced Repetition]] and get some [[Sleep]].
-- [Test your knowledge easily and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL). It's the number of iterations, not the number of hours, that drives learning. Shorten the [[Feedback Loops]]. You don't need to know everything to start. Start and you'll learn things along the way (Just In Time /JIT learning). 
+- [Test your knowledge easily and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL). It's the number of iterations, not the number of hours, that drives learning. Shorten the [[Feedback Loops]]. You don't need to know everything to start. Start and you'll learn things along the way (Just In Time /JIT learning).
 - Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
 - One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad [[Habits]] right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.
 - Most knowledge worth having comes from **practice**. It comes from **doing**. [It comes from **creating**](https://blog.tjcx.me/p/consume-less-create-more).

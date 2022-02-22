@@ -18,10 +18,10 @@ Aversions can be conscious or unconscious, reasoned or felt, verbal or visceral,
 There are many reasons folks feel [helplessly blankness](https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness) about understanding a given topic, including:
 1. Simple habit. You are not used to thinking about it; and so you just automatically don’t.
 2. Desire to avoid initial blunders that will force you to emotionally confront potential incompetence (as with my fear of writing fiction);
-3. Avoidance of social conflict, or of status-claims; if your boss/friends/whoever will be upset by your disagreement, it may be more comfortable to “[not understand](https://quoteinvestigator.com/2017/11/30/salary)” the domain. 
+3. Avoidance of social conflict, or of status-claims; if your boss/friends/whoever will be upset by your disagreement, it may be more comfortable to “[not understand](https://quoteinvestigator.com/2017/11/30/salary)” the domain.
 
-If you’d like to reduce your learned blankness, try to [notice areas you care about, that you have been treating as blank defaults](https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness#Notice_your_learned_blankness). Then, seed some thoughts in that area: set a timer, and write as many questions as you can about that topic before it beeps. 
+If you’d like to reduce your learned blankness, try to [notice areas you care about, that you have been treating as blank defaults](https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness#Notice_your_learned_blankness). Then, seed some thoughts in that area: set a timer, and write as many questions as you can about that topic before it beeps.
 
 Aversions are [[Problem Solving | decomposable problems]]. Break it down into
 smaller pieces so that you can think about them separately one at a time and
-solve them. 
+solve them.

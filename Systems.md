@@ -7,7 +7,7 @@ A system is anything with multiple parts that depend on each other. In other wor
 - Responsiveness.
 	- Know what the system is doing and make the [[Feedback Loops]] fast.
 - [[Decentralization | Decentralized]].
-- Permissionless. 
+- Permissionless.
 
 ## Changing Systems
 To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, [[Incentives | incentives]], resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/).
@@ -16,7 +16,7 @@ First, focus on [[Incentives]]. [Don't be angry at the people who are benefiting
 
 Keep in mind intervening in a system requires some kind of theory, some kind of model where the positive effects will definitely be better than the side effects - and given how little we know and how bad we are at prediction, this will probably be wrong. A great way to start is removing things, kind of like a negative intervention, and so probably good (e.g: you're unlikely to find a medicine as helpful as smoking is harmful, so focus on stopping smoking).
 
-[A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law)(more [elementary systems functions](https://en.wikipedia.org/wiki/Systemantics#Elementary_systems_functions)). 
+[A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law)(more [elementary systems functions](https://en.wikipedia.org/wiki/Systemantics#Elementary_systems_functions)).
 
 Complex systems usually have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/).
 
@@ -30,7 +30,7 @@ A good approach to incrementally change a system (similar to [[Evolution | natur
 
 If everyone agrees the current system doesn't work well, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
 
-A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/) (the absence of binding constraints on behavior). By having some margin for error, the system is allowed to pursue opportunities and explore approaches that improve it. 
+A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/) (the absence of binding constraints on behavior). By having some margin for error, the system is allowed to pursue opportunities and explore approaches that improve it.
 
 Interaction between system actors causes **externalities**: the consequences of their actions on _other actors or processes_. This is important because, intuitively, humans are self-centered, and it’s easy to not notice the effects your actions have on others. And it almost never feels as _visceral_ as the costs and benefits to yourself. The canonical examples are [[coordination]] problems, like climate change. Taking a plane flight has strong benefits to me, but costs everyone on Earth a little bit, a negative externality. And a lot of the problems in the world today boil down to coordination problems where our actions have negative externalities.
 

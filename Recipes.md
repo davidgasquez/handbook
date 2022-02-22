@@ -68,7 +68,7 @@ Mix everything and let it sit for 1 hour.
 
 - Mix the vinegar, water, sugar and salt together and get it to boil. Put everything else on a jar and let it sit for 1 day.
 
-## Cold Brew 
+## Cold Brew
 
 <img src="https://cdn-3.expansion.mx/64/bc/777671174261a8333494bc932c5e/cold-brew.jpg" width="350" />
 

@@ -1,6 +1,6 @@
 # Relationships
 
-Tested advice for improving the chances of relationship success and satisfaction include: 
+Tested advice for improving the chances of relationship success and satisfaction include:
 1. Do novel and exciting things with your partner often.
 2. Say positive things to and about your partner at least 5 times more often than you say negative things.
 3. Spend each week writing about why your relationship is better than some others you know about.

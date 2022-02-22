@@ -9,7 +9,7 @@
 - [Vote with your wallet by buy environmentally conscious things from environmentally conscious](https://youtu.be/yiw6_JakZFc) and if possible, local companies.
 - Opt for long lasting products over ones you will have to replace quickly.
 - Avoid plastic products.
-- Plant plants and create gardens! 
+- Plant plants and create gardens!
 - Donate to organizations that save (better than planting new) trees.
 - Reduce meat consumption.
 - Donate to birth control projects.

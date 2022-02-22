@@ -10,7 +10,7 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 - Lists help you to summarize your next steps and to not lose focus. If you place them in a very visible place it makes easier to accomplish [[Goals]].
   - Decompose lists items into smaller steps.
 - Doing the same thing over and over again without getting tired is what computers are good at, humans have other skills.
-- Time is not fungible. The value of saving some time on a certain thing would depend on the time of the day, day of the week, how much stamina you have, and how bored you are, among other things. 
+- Time is not fungible. The value of saving some time on a certain thing would depend on the time of the day, day of the week, how much stamina you have, and how bored you are, among other things.
 - If a task takes less than [two minutes](https://jamesclear.com/how-to-stop-procrastinating), do it. It'll make you more productive and also unclutter your mind task's backlog.
 - Do the tasks in the right order! One strategy might be starting with the one that could make the others irrelevant or easier.
 - Time-boxing is [[Planning]] how you spend your days in advance and it's so effective because it allows you to iterate. If you didn't complete everything you outlined, you know exactly why -- because you've documented how you planned to spend your time.
