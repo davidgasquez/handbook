@@ -77,6 +77,7 @@ A tool and framework to manage knowledge. This will allow compound learning and 
 Instead of building the tool, we can start with a standard protocol and let other tools (Roam, Notion, Obsidian) use that.
 
 ### Open Source Projects
+
 - [Logseq](https://logseq.com/).
 - [Dendron](https://www.dendron.so/).
 - [Foam](https://foambubble.github.io/).

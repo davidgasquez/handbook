@@ -11,7 +11,6 @@ If you listen to successful people talk about their approaches, remember that al
 2. It is actionable
 3. It is based on some true insight
 
-
 ## Resources
 
 - [100 Ways To Live Better](https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-better).
