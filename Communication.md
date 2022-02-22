@@ -8,7 +8,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
 
 - **You can not not communicate**. Not discussing the elephant in the room is communicating. Few things are as important to study, practice, and perfect as clear communication.
 - Whenever possible, communicate directly with those you're addressing rather than passing the message through intermediaries.
-- Communication between [a large group](https://twitter.com/RichRogers_/status/1159872097205805056) is hard. Noise in the processes might change the message and cause conflicts.  Nuance is hard to convey in groups. 
+- Communication between [a large group](https://twitter.com/RichRogers_/status/1159872097205805056) is hard. Noise in the processes might change the message and cause conflicts.  Nuance is hard to convey in groups.
 - Some tips to simplify communications:
 	- Use a few bullet points to put attention on the main points you want to convey.
 	- Without going overboard, use a tasteful amount of graphic design (e.g: bolding one key sentence).

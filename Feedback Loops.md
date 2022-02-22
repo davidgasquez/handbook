@@ -1,8 +1,8 @@
 # Feedback Loops
 
 - [Every action creates an equal and opposite reaction. **When reactions loop back to affect themselves, a feedback loop is created**.](https://fs.blog/2011/10/mental-model-feedback-loops/)
-- There are two types of feedback loops: positive and negative. 
-	- Positive feedback amplifies system output, resulting in growth or decline. 
+- There are two types of feedback loops: positive and negative.
+	- Positive feedback amplifies system output, resulting in growth or decline.
 	- Negative feedback dampers output, stabilizes the system around an equilibrium point.
 - **[[Network Effects | Things are connected]]**. Changing one variable in a [[Systems | system]] will affect other variables in that system and other systems. This is important because it means that designers must not only consider particular elements of a design, but also their relation to the design as a whole and to the greater environment.
 - All complex [[systems]] are subject to positive and negative feedback loops whereby A causes B, which in turn influences A (and C), and so on – with higher-order effects frequently resulting from continual movement of the loop.
@@ -16,5 +16,5 @@
 ## Examples
 
 - Poor kids becoming rich adults. Then, they raise rich kids that don't share the same [[Values]] that made the parents rich.
-- Artist making musing while they experience life without fame. Once fame gets in they don't have the same life experience and can't produce the same type of music. 
+- Artist making musing while they experience life without fame. Once fame gets in they don't have the same life experience and can't produce the same type of music.
 - [The Mongol Empire was an unification of many nomadic tribes. They were unstoppable for a while until they started to become more civilized. The thing that made them unstoppable (nomadic and "uncivilized") stopped being a part of their [[Culture]] and the empire began to break down.](https://www.dancarlin.com/product/hardcore-history-wrath-of-the-khans-series/)

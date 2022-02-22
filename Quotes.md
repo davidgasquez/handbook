@@ -64,4 +64,4 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 ## External Lists
 
 - [Nikita Voloboev's favorites quotes](https://nikitavoloboev.xyz/likes/#quotes).
-- [Ask HN: What is your favorite motto? (2020)](https://news.ycombinator.com/item?id=24436135)
+- [Ask HN: What is your favorite motto? (2020)](https://news.ycombinator.com/item?id=24436135).

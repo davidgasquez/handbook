@@ -17,4 +17,4 @@ Some great advice for [public speaking presentations](http://www.jilles.net/perm
 
 ## Resources
 
-- [Speaking.io](https://speaking.io)
+- [Speaking.io](https://speaking.io).
