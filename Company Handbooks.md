@@ -8,7 +8,7 @@
 - Make it *permissionless*. Anyone can edit anything, similar to PRs on GitHub.
 - Link everything together to improve discoverability.
 - Each kind of document should have an explicit place.
-- Documentation should have a common entry point (index) to increase discoverability. Each team could have their own processes on top.
+- [[Documentation]] should have a common entry point (index) to increase discoverability. Each team could have their own [[processes]] on top.
 - Ask questions in public channels! If someone sends you a handbook link, that means you have the answer documented - they don't mean that you should have found that yourself or that this is the complete answer. If the answer to a question isn't documented, make a pull request to add it to the handbook in a place you have looked for it.
 
 ## Examples

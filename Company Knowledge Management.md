@@ -8,7 +8,7 @@ If we think about a company as an organism, then a **knowledge management system
 
 ## Principles
 
-There are some basic principles and values that will make maintaining and evolving a knowledge base easier over time. 
+There are some basic principles and [[values]] that will make maintaining and evolving a knowledge base easier over time. 
 
 - **Transparency**. Everyone has access to everything. 
 - **Iterative Improvements**. Everything is a WIP. No need to say it’ll be updated later or add dates to pages.
@@ -29,7 +29,7 @@ There are some basic principles and values that will make maintaining and evolvi
 - When doing presentations, don't present slides, present the content of the [[Company Handbooks | company handbook]].
 - Information should be easy to add (input) as well as easy to search and find (output) resulting in quick knowledge transfer between different employees.
 - [[Writing]] something in the wrong place is the same as not writing it.
-- Reduce the number of alternatives where information might be stored. GitLab uses git, Basecamp uses Basecamp, ...
+- Reduce the number of alternatives where information might be stored. GitLab uses [[git]], Basecamp uses Basecamp, ...
 - [If it will matter after today, stop talking about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
 - Always overshare. Its faster to filter out information than asking and then waiting for it.
 - For complex and big decisions, aim for 3 levels of curation.  
@@ -43,7 +43,7 @@ There are some basic principles and values that will make maintaining and evolvi
 	- Since the protocol is shared between apps, you can build different views on top of the knowledge and tasks via APIs.
 - Add as much information to your tickets/issues as possible. If the tickets/issues are any good, you'll find relevant tickets with links and extra information. That makes easy to tell what is current vs. what is 3 years old. The approach is something like Kafka (a log of everything that happened) versus a database with the current state of the world.
 - [Every document you write can fall into one of two categories](https://clrcrl.com/2021/11/30/fighting-the-entropy-of-knowledge.html):
-	- Type 1: A point-in-time document, that should lose relevance at some point. e.g. meeting notes, feature specs that get completed, feedback that gets addressed
+	- Type 1: A point-in-time document, that should lose relevance at some point. e.g. meeting notes, feature specs that get completed, [[feedback]] that gets addressed
 	- Type 2: A source of truth document, that should be maintained over time, e.g. "How work gets done at". May also be referred to as "evergreen" content.
 - You can connect everything to Slack (search engine powered by humans).
 	- Keeping information across N tools causes scattered information.
