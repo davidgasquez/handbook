@@ -9,7 +9,7 @@
 - Do things at roughly the same time every day, and stick to a schedule. they operate their entire lives off their schedule, and will be more reasonable if you are consistent with doing their stuff.
 - Toys, buy a variety at first to see what your cat likes.
 - Wet food, not dry food since dry food will make their bodies work too hard and put your cat into a constant state of dehydration.
-- Have one of the playing sessions right before the last meal of the day. A good hunt ends with a hefty meal. After a quick grooming session, she'll sleep like an angel, allowing you to do the same.
+- Have one of the playing sessions right before the last meal of the day. A good hunt ends with a hefty meal. After a quick grooming session, she'll [[sleep]] like an angel, allowing you to do the same.
 
 ## Dogs
 

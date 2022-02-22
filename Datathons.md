@@ -23,15 +23,19 @@
 - [Deep Feature Synthesis](https://featuretools.alteryx.com/en/stable/getting_started/afe.html). [Simple tutorial](https://www.kaggle.com/willkoehrsen/automated-feature-engineering-basics).
 
 ### Scikit Learn Compatible Transformers
+
   - [LEGO](https://github.com/koaning/scikit-lego)
   - [Skoot](https://github.com/tgsmith61591/skoot)
   - [Sktools](https://github.com/david26694/sktools)
+  - [Scikit-Learn Related Projects](https://scikit-learn.org/stable/related_projects.html).
 
 #### Other Compatible Tools
+
   - [Contributions repository](https://github.com/scikit-learn-contrib)
   - [Awesome Scikit-Learn](https://github.com/fkromer/awesome-scikit-learn)
 
 ## Time Series Resources
+
 - [Quick Tutorials](https://www.kaggle.com/c/jane-street-market-prediction/discussion/198951)
 - [Tsfresh](https://tsfresh.readthedocs.io/en/latest/) 
 - [Prophet](https://facebook.github.io/prophet/docs/quick_start.html)
