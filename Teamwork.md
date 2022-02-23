@@ -11,6 +11,7 @@
 	- Decisions. Context and rationale can be documented in a durable location.
 		- Each team should [keep a changelog](https://keepachangelog.com/en/1.0.0/). [The company too](https://medium.com/linear-app/startups-write-changelogs-c6a1d2ff4820). ^473cb4
 		- Aim to [confirm and log decisions](https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/) to move them forward.
+		- Show your work. Capture who made what decision and when, along with a detailed, but _concise_ description of why and how that decision was made.
 		- Consistent changelogs also communicate new features, the value they get from your product, and your commitment to improving it.
 	- [[Meetings]] agendas and conclusions.
 	- Responsibilities. Things that aren't your fault can still be your responsibility.
@@ -77,6 +78,9 @@
 - Invisible work will happen. If you're doing it, make an effort to share and get credit for it. Build a narrative (story) for your work. Arm your manager and fight recency bias keeping track of all the things you've done.
 - As a manager, give problems to solve, not solutions.
 - Most software or processes should be opinionated. In increases [[Coordination | collaboration]]. Flexible processes lets everyone invent their own workflows, which eventually creates chaos as teams scale.
+- As teams scale, traditional approaches to decision making force a tradeoff between transparency and efficiency.
+	- The easiest way to ensure everyone can understand the how and why of a decision is to adopt systems that, through their daily operation, ensure such context is automatically and readily available to those who might want it (and explicitly not only those who presently need it).
+- 
 
 ## [How Small Teams Work](https://posthog.com/handbook/people/team-structure/why-small-teams#how-it-works)
 - The overall goal is for a team to be as close to its own startup as possible, with only a handful of centralized processes
