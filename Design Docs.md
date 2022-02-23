@@ -24,7 +24,18 @@
 - In many docs a diagram can be useful.
 - The steps in the life-cycle of a design document are: Create, Iterate, Review, Implement, Iterate and Learn.
 - [The RFC and feedback should be posted publicly. Everyone can join the discussion. The goal is to include as many people as possible to access more points of view and spread the knowledge simultaneously](https://candost.blog/how-to-stop-endless-discussions/).
-- The process brings accountability. Whoever writes the proposal should be kept accountable. When people know that they will be accountable, they tend to approach more carefully and consider different aspects seriously.
+- The process brings accountability. Whoever writes the proposal should be kept accountable. When people know that they will be accountable, they tend to approach more carefully and consider different aspects seriously. Ways to hold yourself and others accountable for showing your work:
+	- Start by stating the problem you’re trying to solve and why.
+	- Enumerate what your goals were and what principles you followed.
+	- Communicate not just what, but how, and why the decision came to be.
+	- Link to any source materials or prior art that you used to make the decision.
+	- Include what alternatives you evaluated and why they were ultimately dismissed
+	- If it’s not apparent, explain who was involved with the decision along with their roles.
+	- Set expectations around opportunities for feedback, improvement, or participation, if any.
+	- Explain the state of the decision (e.g., final, proposed), and when it will be revisited, if ever.
+	- Distill meeting recordings and chat transcripts to create a concise and easily consumed historic record.
+	- Avoid using “best practice”, “industry standard”, or “parent company/former employer does X” as a justification.
+	- Establish clear timelines and provide regular updates to avoid the perception that lack of visibility is lack of movement.
 
 ### Resources
 
