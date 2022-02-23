@@ -72,7 +72,7 @@ Unique assets whose value is independent from one another. For example, an NFT m
 	- [Firebase](https://textile.io)
 
 ## Links
-
+- [Kernel](https://kernel.community/). An 8 week program covering crypto and web3.
 - [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Great list of crypto readings and resources.
 	- [Understanding Crypto](https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)- Learn more about cryptocurrencies.
 - [DAOs, A Canon](https://future.a16z.com/dao-canon/). Understand, build, and get involved with “decentralized autonomous organizations”.
