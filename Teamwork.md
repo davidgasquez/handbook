@@ -10,7 +10,7 @@
 	- [[Processes]].  Status updates, [[Design Docs]], [onboarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
 	- Decisions. Context and rationale can be documented in a durable location.
 		- Each team should [keep a changelog](https://keepachangelog.com/en/1.0.0/). [The company too](https://medium.com/linear-app/startups-write-changelogs-c6a1d2ff4820). ^473cb4
-		- Aim to [confirm and log decisions](https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/) to move them forward.
+		- Aim to [confirm and log decisions](https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/) to move them forward. [Everything must have an URL](https://ben.balter.com/2015/11/12/why-urls/).
 		- Show your work. Capture who made what decision and when, along with a detailed, but _concise_ description of why and how that decision was made.
 		- Consistent changelogs also communicate new features, the value they get from your product, and your commitment to improving it.
 	- [[Meetings]] agendas and conclusions.
