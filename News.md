@@ -20,3 +20,4 @@
 	- [On certain topics, it's good to remember that you're often being informed by the most delusional people](https://twitter.com/waitbutwhy/status/1436006304892559365).
 - When we're talking about very unpopular beliefs, polls can only give a weak signal. Any possible source of noise ([Lizardman's Constant](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/)) can easily overwhelm the signal. Beware of [bad designed polls](https://slatestarcodex.com/2020/05/28/bush-did-north-dakota/).
 - Uncertainty doesn't sell. Nuance doesn't sell. Long, complex lectures don't sell. A video of someone saying "it's complicated" will never perform the way one would of someone using confident, flippant, polarizing rhetoric, and that's a huge problem.
+- Main rule of fast-moving situation: No one knows anything.
