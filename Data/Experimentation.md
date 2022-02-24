@@ -21,6 +21,7 @@ We do not live in an ideal world, so we need to be very deliberate and thoughtfu
 - Think carefully when choosing your randomization unit
 - Log generously
 - Run more A/A tests
+- The best two places to run an A/B test: In early planning(what kinds of story do people want) and when adding finishing touches(alternative versions of a scene).
 - Remember, you’re measuring averages
 
 You can use [online calculators](http://experimentcalculator.com/) to estimate the length of an experiment. If your experiment is estimated to take a very long time, you can go for a different metric with a higher baseline rate or only care about bigger changes.
