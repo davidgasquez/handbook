@@ -15,6 +15,14 @@
 	1. **Guided:** Reading a tutorial, taking a course, watching a YouTube video. Anything where you're following a guide.
 	2. **Unguided:** Creating your own projects from scratch, extending a tutorial, looking things up in the docs. Anything where you aren't following a guide.
 - Learn to [[Asking Questions | ask better questions]]. Distill what you know to figure out what part you're missing or which link is missing.
+- Learn by [[Writing]]:
+	1.  Pick a topic.
+	2. Read and/or discuss with others (a bit).
+	3. Explain and defend your current, incredibly premature hypothesis, in writing (or conversation).
+	4. Find and list weaknesses in your case.
+	5. Pick a subquestion and do more reading/discussing.
+	6. Revise your claim / switch sides.
+	7. Repeat steps 3-6 a bunch
 - People learn when they're surprised.
 - There are two modes of thinking:
   - Focused: When you're actively trying to learn something. One task at a time.
