@@ -22,7 +22,7 @@
 	4. Find and list weaknesses in your case.
 	5. Pick a subquestion and do more reading/discussing.
 	6. Revise your claim / switch sides.
-	7. Repeat steps 3-6 a bunch
+	7. Repeat steps 3-6 a bunch.
 - People learn when they're surprised.
 - There are two modes of thinking:
   - Focused: When you're actively trying to learn something. One task at a time.
