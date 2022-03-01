@@ -1,3 +1,4 @@
+
 # Social Media Issues
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/k1BneeJTDcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,6 +22,7 @@
   - While social networks claim to connect us, all too often they distract us from connecting with those directly in front of us, leaving many feeling both connected and socially isolated.
   - Social media platforms are [[Incentives | incentivized]] to amplify the most engaging content, tilting public attention towards polarizing and often misleading content. By selling micro targeting to the highest bidder, they enable manipulative practices that undermine democracies around the world.
 - Any alternative social media company that grows to a sufficient size will have to embrace the evil tactics used by Facebook and Twitter in order to remain competitive in the market. It's all about profit for these companies, not about a better society.
+	- In the other hand, if social media companies were doing really bad things, we would hear ex-employees talk about these much more.
 - You compare yourself with the best possible version of everyone else curated in their feeds.
 - Social Media companies have incentives to build echo chambers as that's one of the best ways to create engagement and keep users active.
 - [As a creator, Social Media companies use their filtering power to make money forcing people to pay to show the content to users](https://youtu.be/l9ZqXlHl65g).
