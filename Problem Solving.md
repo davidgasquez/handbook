@@ -23,6 +23,7 @@
 - Problems are not disciplinary in nature but are holistic.
 	- Is there something you could do about that problem in the next five minutes?
 - To improve problem solving, one should study solved problems, attack the problem while in different moods, and try explaining the problem to others. Explaining problems is good. Often in the process of laying out a problem, a solution will present itself.
+- [Value functional decomposition. Functions are a powerful abstraction, not just for writing less code, but for thinking about problems.](https://praeclarum.org/2022/02/19/hard-problems.html)
 - Grossman's Law: Complex problems have simple, easy to understand wrong answers. Simple explanations are appealing even when they're wrong.
 - Aim for a Minimum Viable Solution. **Start small and iterate**. Fail early and learn from it. That allows you to explore, then exploit.
 - When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away ([Via Negativa](https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/)). For example, the foods you avoid are more important than the foods you eat.
