@@ -28,3 +28,5 @@
 - [Netgames](https://netgames.io/). Social games for your phone.
 - [Rocket Crab](https://rocketcrab.com/). Party games for phones.
 - [Gartic Phone](https://garticphone.com/). The drawing telephone game.
+- [Quicksplain](https://quicksplain.com/). Party trivia game for groups of 2 to 8 people that tests your knowledge on a variety of topics.
+- [Smart Cookie Trivia](https://www.smart-cookie-trivia.com/). Free, fun, challenging, multiplayer quizzes.
