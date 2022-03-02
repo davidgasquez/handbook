@@ -22,7 +22,6 @@
 - [Oh, Hell!](https://www.pagat.com/exact/ohhell.html)
 - [All Card Games](https://www.pagat.com/). A list of card games all around the world.
 
-
 ### Online Platforms
 
 - [Netgames](https://netgames.io/). Social games for your phone.
