@@ -60,6 +60,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - Concensus is the process of abandoning all beliefs, principles, values, and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: I stand for consensus?. Margaret Thatcher.
 - If you cannot measure it, you cannot improve it.  Lord Kelvin. ^a5049d
 - Y es que en el mundo traidor nada hay verdad ni mentira: todo es según el color del cristal con que se mira. Ramón de Campoamor.
+- You either move information from one place to another, or you move mass from one place to another. 
 
 ## External Lists
 
