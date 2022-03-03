@@ -42,6 +42,7 @@
 	- If definition or business logic is changed, backfills should occur automatically and data remains up-to-date.
 - [Organizations have _too much_ data. Without better ways of organizing it, large volumes of data are more overwhelming than useful.](https://towardsdatascience.com/good-data-citizenship-doesnt-work-265f13a37fa5)
 	- Use the questions people are asking to find data _hotspots_ and focus our energy on those. That means some corners of your data will be messy, and some concepts will go undocumented. Data is perennially broken and messy. **Embrace the mess**.
+	- Get excited when people ask questions. Embrace confusion and curiosity. Offer help. Be friendly.
 	- [Reality is complex and multidimensional and often difficult to comprehend](https://mobile.twitter.com/rahulj51/status/1485429967131639808).
 	- Document data when it’s generated. Make it part of the process of adding a new event, table, or a replication job, when the change is already top of mind. If possible, embed it in the development process, and pester people when they don’t include the necessary updates. This shifts the burden of documentation upstream, making it part of the development cycle.
 - The modern data team needs to have _real organizational power_—it needs to be able to say "no” and mean it. If your data team does not truly have the power to say no to stakeholders, it will get sent on all kinds of wild goose chases, be unproductive, experience employee churn, etc. This is one of the reasons why data should report directly to the CEO.
@@ -71,6 +72,7 @@
 			5. Explore options.
 			6. Run experiments.
 	- It doesn't make sense to release something if you can't tell how is performing!
+	- [Have regular cleanups and audits to keep data in check](https://www.avo.app/blog/data-literacy-why-people-dont-trust-data-tips-from-patreons-dir-of-data-science). They are crucial to keeping your data trust up to par.
 - We're moving from software consumers to data consumers. Data and BI will become more and more federated (you get data insights on your JIRA card without having to leave JIRA)
 - Over time, data literacy across organizations will become commonplace the same way typewriting has. [Most professionals, at all levels of the business, will be capable of generating their own insights without requiring a data team](https://roundup.getdbt.com/p/data-expertise-everywhere).
 - Data practitioners acknowledge that solid reporting is at the bottom of the data hierarchy of needs but few companies do even basic KPI reporting well.
