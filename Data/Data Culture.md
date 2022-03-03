@@ -63,6 +63,13 @@
 	- Data is _not_ a “set it and forget it” kind of activity. Your dashboard _will_ get stale in less than six months. Your key metrics _will_ eventually have bad data in them. That machine learning model you spent all of last quarter developing _will_ **[drift](https://towardsdatascience.com/model-drift-in-machine-learning-models-8f7e7413b563)** from its original fit. The environment in which your business operates is constantly changing, and so will the product or service that your business delivers. As a result, what is knowable about your business, about your product or service, is constantly changing too. And fast.
 - Data trust issues come when data producers and data consumers doesn't work together. Aim to shorten the data loop. E.g: [The feedback loop for the performance engineer is much faster and reliable (same person tracks and analyzes) than for the standard engineer that doesn't look at the data to see the impact they made with their changes.](https://www.heavybit.com/library/podcasts/the-right-track/ep-8-defining-the-data-scientist-with-josh-wills-of-weavegrid/)
 	- [Product analytics should be part of the product life-cycle the same way writing unit tests is](https://youtu.be/qK6vAJKh6fo). That is, without a middleman and having data involved from the start.
+		- How does the [data-informed product loop look](https://cutlefish.substack.com/p/tbm-852-the-data-informed-product)?
+			1. Have a strategy.
+			2. Translate that into models.
+			3. Add minimally viable measurement.
+			4. Identify leverage points.
+			5. Explore options.
+			6. Run experiments.
 	- It doesn't make sense to release something if you can't tell how is performing!
 - We're moving from software consumers to data consumers. Data and BI will become more and more federated (you get data insights on your JIRA card without having to leave JIRA)
 - Over time, data literacy across organizations will become commonplace the same way typewriting has. [Most professionals, at all levels of the business, will be capable of generating their own insights without requiring a data team](https://roundup.getdbt.com/p/data-expertise-everywhere).
