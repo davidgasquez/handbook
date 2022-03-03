@@ -35,6 +35,14 @@
 - Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships. [Don't try to optimize that number or it'll be gamed](https://www.fast.ai/2019/09/24/metrics/). Solve Problems, not [[metrics]]. When a measure becomes a target, it ceases to be a good measure. Not everything that counts can be measured, and not everything that can be measured counts. [The more important a metric is in social decision making, the more likely it is to be manipulated](https://en.wikipedia.org/wiki/Campbell%27s_law).
 - [[Data Culture | Data]] can be valuable in helping you understand the world, test hypotheses, and move beyond gut instincts or hunches. [[Metrics]] can be useful when they are in their proper context and place.
 	- Use data to identify friction points, and constantly experiment with changes to make things easier for you and your customers.
+- How does the [data-informed product loop look](https://cutlefish.substack.com/p/tbm-852-the-data-informed-product)?
+			1. Have a strategy. Most product strategies are too high level. They say everything and nothing at the same time.
+			2. Translate that into models. Don't go from insanely high-level business goals and metrics ([[Dashboards]]), straight to features on a [[Writing a Roadmap | roadmap]]. [Models help us fill that gap](https://cutlefish.substack.com/p/tbm-2553-persistent-models-vs-point).
+			3. Add minimally viable measurement.
+			4. Identify leverage points.
+			5. Explore options.
+			6. Run experiments. Update your view of things based on what you just learned, then you’ve sort of missed the point.
+			7. To get better at data-informed product you have to keep going around the loop. It takes practice (and psychological safety and support).
 - People within an organization commonly or typically give disproportionate weight to trivial issues (Law of triviality).
 - Train employees well enough they could get another job, but treat them well enough so they never want to.
 - [Apolitical](https://twitter.com/naval/status/1263322014372130817) work environment is hard to maintain. Choose your company battles and causes.
