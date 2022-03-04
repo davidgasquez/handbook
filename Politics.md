@@ -31,6 +31,7 @@
 - We should be exploring alternatives ways of doing things. Right now we have mostly one type of political system, one type of voting system and one method of science funding for example.
 - [Communities die primarily by refusing to defend themselves](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism). Censorship and moderation might be required for a great community to continue existing.
 - Being good at politics doesn't mean being good at taking decisions that help your voters. [High-functioning sociopaths climb the ladder, so now the world's run mostly by sociopaths](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/).
+- Most of the time, political parties focus on how to collect more money (updating taxes) instead of how to use it more effectively.
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
