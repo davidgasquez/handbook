@@ -10,6 +10,7 @@
 - The key result does not pre-suppose the exact program of works to do (and in fact leaves room for creative solutions).
 - The key result states assumptions about why the team KR affects the top-level KR.
 - The key result target should be informed by analysis.
+- Key Results are helpful if your team have a 12-18 month mission, a clear focus, and specific lever or set of levers it is empowered to move.
 
 
 ## Process
@@ -20,7 +21,6 @@
 	- Why this target number?
 3. Iterate and get feedback.
 4. Lock it in.
-
 
 Three useful templates:
 
