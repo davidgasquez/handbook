@@ -8,3 +8,20 @@
 - Self-improvement can mean getting better at managing difficult parts of your genetic profile, and those lessons can be handed on to [[future]] generations who share those traits, which improves the lives of all the generations downstream.
 - Our bodies and minds are built to live in a tribe in 50,000BC, which leaves modern humans with a number of unfortunate traits (fixation with [[Social Media Issues | tribal-style social survival]], attracted to [[Nutrition | energy dense food]], ...).
 - [Algernon's Law](https://www.gwern.net/Drug-heuristics): your body is already mostly optimal, so adding more things is unlikely to have large positive effects unless there’s some really good reason.
+
+
+## Blood Markers
+
+- Cortisol: Stress marker.
+- HbA1c: Glucose/diabetes marker.
+- hsCRP: Inflammation marker.
+- LDL: Bad cholesterol  .
+- HDL: Good cholesterol.
+- AST: Liver function.
+- Ferritin: Indicates inflammation, obesity, excess iron.  
+- Vitamin D.  
+- Vitamin B12.
+- CK. Monitor for muscular injuries and diseases.
+- Testosterone.
+- SHBG: Sex hormone binding globulin.
+- Sodium, magnesium, potassium, folate, blood cell counts.  
