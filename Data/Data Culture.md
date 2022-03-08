@@ -1,5 +1,5 @@
 # Data Culture
-- The data team needs to be focus on delivering insights and supporting decisions. The outcome of the data team are _decisions_ and a a shared context across the organization.
+- The data team needs to be focus on delivering insights and supporting decisions. The outcome of the data team are _decisions_ and a shared context across the organization.
 	- Your goal as a data professional is to facilitate [[Making Decisions | decision making]].
 	- Learning to drive decisions quickly, a bias to action, is a critical competency for an analyst. Every skill you learn – [[communication]], [[writing]], [[experimentation]], [[Metrics | metric design]] – supports this.
 	- If analysis is not actionable, it does not really matter. Analysis must drive to action.
@@ -19,6 +19,9 @@
 - **Integrate data where the decision is made**. E.g: Google showing restaurant scores when you're looking something for dinner.
 	- Reduce the time to insights. If the data is already in the tool you're using, then there's zero time to insights. Provide a set of tools with the same data and let people choose depending on the goal.
 - [Earning the authority to deny requests is one of the most important factors to running a world-class data team](https://twitter.com/teej_m/status/1420432376270782464)
+- Data professionals can build consensus as the company becomes more diverse. 
+- Data systems can establish methods for understanding the world even as it becomes more complex. 
+- Data literacy can create pathways for anyone to contribute equally to the organization's reality.
 - Create a single space as the central place to post [[Data Request Template | data requests]].
 - Create a single space to share the results of analysis and decisions made based on them.
 	- Log changes so everyone can jump in and be aware of what’s going on.
