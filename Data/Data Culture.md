@@ -11,7 +11,7 @@
 	- Run _Purpose Meetings_. These are 30 min meetings in which stakeholders, engineers and data align on the goal of a release and what is the best way to evaluate the impact and understand its success. Align on the goal, commit on metrics and design the data.
 - [Data teams should be a part of the business conversations from the beginning](https://cultivating-algos.stitchfix.com/). Get the data team involved early, have open discussions with them about the existing work, and how to prioritize new work against the existing backlog. Don’t accept new work without addressing the existing bottlenecks, and don’t accept new work without requirements. **Organizational [[politics]] matter way more than any data methods or technical knowledge**.
 	- Including data people in meetings causes happy accidents!
-	- The layout of the organization impacts time of the information to propagate and adds losses.
+	- The layout of the organization impacts time of the information to propagate and adds losses. 
 	- Data should report to the CEO. Ideally at least with some weekly metrics split into (a) notable trends, (b) watching close, and (c) business as usual.
 	- If data is the most precious asset in a company, does it make sense to have only one team responsible for it?
 		- [People talk about data as the new oil but for most companies it’s a lot closer uranium](https://news.ycombinator.com/item?id=27781286). Hard to find people who can to handle or process it correctly, nontrivial security/liabilities if PII is involved, expensive to store and a generally underwhelming return on effort relative to the anticipated utility.
