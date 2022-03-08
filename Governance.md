@@ -3,7 +3,6 @@
 Governance is simply a tool an [[Organizations | organization]] uses to decide where power should reside and who gets to click on what button. This process places rails around operations, which helps an organization get from point A to point B more smoothly.
 
 - There is an idea that governance—public or corporate—[is driven by the self-interested effort of leaders to acquire and keep their power](https://fs.blog/the-dictators-handbook/).
-- 
 
 ## Resources
 - https://wiki.withtally.com/docs/decentralized-governance-overview#
