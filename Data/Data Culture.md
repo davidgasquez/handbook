@@ -87,3 +87,12 @@
  4. **What if I want to know more?** A **link to additional information** can be valuable for people who have time for more than a quick scan and want to understand how you developed the insight, or do some of their own related exploration.
  5. **What if I have a question?** Explicitly **inviting questions** and responses is crucial. It’s the best part of sharing an insight! This is where you get to learn about things your colleagues know that you don’t, or what they’re curious about but has not yet risen to the level of becoming a data request from them.
  6. **What if posting this prompts a whole bunch of follow-up questions, or exposes incorrect assumptions?** If you have hit on something that’s interesting to a lot of people there likely will be questions that spin off, new ways to slice the data you’re looking at, or assumptions you have made that need to be corrected.
+
+### Slack Template
+💡**One sentence summarizing the insights.**
+📝 Some extra information that might be useful.
+
+
+![chart](https://i.morioh.com/ab89a83b93.png)
+
+⁉️ Thread on any follo-up questions or concerns!
