@@ -43,6 +43,7 @@
 - Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
 - One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad [[Habits]] right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.
 - Most knowledge worth having comes from **practice**. It comes from **doing**. [It comes from **creating**](https://blog.tjcx.me/p/consume-less-create-more).
+- Knowledge is built up through layers. You need more basic knowledge before you can access more advanced knowledge. You can’t learn things that are too far removed from your knowledge tree.
 - For some subjects, [there's no speed limit](https://sive.rs/kimo). If you're more driven than most people, you can do way more than anyone expects.
 - A great way to spot what is probably true in any field is to find multiple people with different worldviews on a topic and see which parts do they agree upon.
 - [Practice, practice, practice](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy). Spend [[time]] in the field, practicing the relevant skills first-hand; see both what works and what makes sense. Collect data; run trials. See what other people suggest and test those things yourself. Directly study which things actually produce good results.
