@@ -1,5 +1,4 @@
 # Data Culture
-
 - The data team needs to be focus on delivering insights and supporting decisions. The outcome of the data team are _decisions_ and a a shared context across the organization.
 	- Your goal as a data professional is to facilitate [[Making Decisions | decision making]].
 	- Learning to drive decisions quickly, a bias to action, is a critical competency for an analyst. Every skill you learn – [[communication]], [[writing]], [[experimentation]], [[Metrics | metric design]] – supports this.
@@ -33,7 +32,7 @@
 - You won't have the best allocation of resources in a reactive team. Data teams need extra [[slack]]. [Balance user requests with actual needs](https://scientistemily.substack.com/p/product-management-skills-for-data).
 - How can we measure the data team impact?
 	- Making a [[Writing a Roadmap | roadmap]] can help you telling if you are hitting milestone deadlines or letting them slip.
-	   - Embeddºed data team members need to help other teams build their roadmap too.
+	   - Embedded data team members need to help other teams build their roadmap too.
 	- Also, having a changelog will help show the team impact on the data product across time.
 - [Push for a _centralization of the reporting structure_, but keeping the _work management decentralized_](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Unify resources (datasets, entities, definitions, metrics). Have one source of truth for each one and make that clear to everyone. That source of truth needs heavy curation. Poor curation leads to confusion, distrust and…. lots of wasted effort.
@@ -46,6 +45,7 @@
 	- [Reality is complex and multidimensional and often difficult to comprehend](https://mobile.twitter.com/rahulj51/status/1485429967131639808).
 	- Document data when it’s generated. Make it part of the process of adding a new event, table, or a replication job, when the change is already top of mind. If possible, embed it in the development process, and pester people when they don’t include the necessary updates. This shifts the burden of documentation upstream, making it part of the development cycle.
 - The modern data team needs to have _real organizational power_—it needs to be able to say "no” and mean it. If your data team does not truly have the power to say no to stakeholders, it will get sent on all kinds of wild goose chases, be unproductive, experience employee churn, etc. This is one of the reasons why data should report directly to the CEO.
+- To align stakeholders incentives with the data team, stakeholders should show their impact through data. This forces stakeholders to plan tracking and think about metrics.
 - [To achieve distribution, build for who your stakeholder truly is, not for the stakeholder you want them to be](https://ian-macomber.medium.com/launching-and-scaling-data-science-teams-three-years-later-f1fa6f25b4ae).
 - You should have something that answers the following questions:
 	- Is [[Data Quality | Data Correct]]?
