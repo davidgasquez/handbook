@@ -89,9 +89,12 @@
  6. **What if posting this prompts a whole bunch of follow-up questions, or exposes incorrect assumptions?** If you have hit on something that’s interesting to a lot of people there likely will be questions that spin off, new ways to slice the data you’re looking at, or assumptions you have made that need to be corrected.
 
 ### Slack Template
-![chart](https://i.morioh.com/ab89a83b93.png)
+```md
+![Chart]()
+
 💡**One sentence summarizing the insights.**
 📝 Some extra information that might be useful.
 🔍 Dig deeper on link.com!
 
 _Questions, concerns? Thread on!_ 🧵
+```
