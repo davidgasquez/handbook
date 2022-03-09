@@ -28,6 +28,7 @@
 	- Log assumptions and lessons learned somewhere. This information should loop back into the data product.
 - Make the warehouse the source of truth for all the teams.
 	- What data is Finance/HR/Marketing using to set their OKRs? Put that on the warehouse and model it.
+	- [[Metrics]] should be derived from the most realistic data sources. E.g: using internal databases instead of product tracking for "Users Created".
 - Do you want better data? Hire people interested in data!
 - **When things are going well, no one cares about data**. That gives you a great way to use data. The right time to present data is when things are starting to go bad. Use your early warning detection systems to understand when it looks like it's gonna be time for data to step in and save the day and then position data as a solution in the context of whatever meaning makes sense. The stakeholders are decision makers and they don't have a ton of time. They're looking to make decisions, they're looking to solve problems.
 - No one gets promoted for doing a good tracking work. People get promoted for delivering features.
