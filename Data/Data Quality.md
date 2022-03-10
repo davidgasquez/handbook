@@ -5,6 +5,9 @@
 - [Data issues are fractal](https://www.speedwins.tech/posts/some-words-with-nuria-ruiz#question-7).
 - A table might be quality enough for one consumer but not for the other consumer.
 - [[Data Culture | Data is a product]] and that means that you can do postmortems (5 whys) and incident reports on data quality issues.
+- [There are two strategies to detect quality issues](https://towardsdatascience.com/data-observability-vs-data-testing-everything-you-need-to-know-6f3d7193b388):
+	- Data Testing. Involves checking `null` values, distributions, uniqueness, known invariants, etc.
+	- Data Observability. Since you can’t predict all the failure modes, you can use automated monitoring, alerting, and triaging to identify and evaluate data quality issues.
 - Four categories of characteristics about your data form [the four pillars of Data Observability](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability):
 	1. The *Metrics* and *Metadata* pillars describe the internal characteristics of our data itself and its external characteristics
 	2. The *Lineage* and *Logs* pillars describe internal dependencies within our data and its interactions with the external world data at any point in time.
@@ -22,4 +25,3 @@
 	- **Identify the pain points**: Within those use cases, what data quality issues have caused the most trouble recently?
 	- **Connect to data quality dimensions** and **describe how to measure as metrics**: Of the causes of recent trouble, how do they relate to the previous data quality dimensions?
 	- **Make metrics digestible and actionable**: Lastly, how can we make those metrics useful?
-- Split
