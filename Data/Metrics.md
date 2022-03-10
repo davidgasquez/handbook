@@ -11,7 +11,7 @@
 	1. A [[Metrics | process for defining metrics]].
 	2. A single source of truth for the metrics.
 	3. A way to get metrics to all systems.
-- Product metrics allow measuring product progress and creating alignment in an outcome-oriented way. There are many product frameworks available to help us think about the right key things to track. Thic
+- Product metrics allow measuring product progress and creating alignment in an outcome-oriented way. There are many product frameworks available to help us think about the right key things to track. Think about **[product metrics that matter](https://uxdesign.cc/product-metrics-that-matter-951b9e4d4eca)** for you.
 
 ## Good Metric Checklist
 
