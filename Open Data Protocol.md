@@ -32,6 +32,7 @@ Fixing Open Data is something people have been working on for a while. These are
 	- [Qri](https://qri.io/). An evolution of the classical open portals that added [[decentralization]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
 - In web3, we have [Ocean Protocol](https://oceanprotocol.com/) and [The Graph](https://thegraph.com/). They've designed the incentive landscape and provided tools to share and discover data. For now, I think they only work for blockchain related datasets.
 - There are also some interesting databases in the space ([DuckDB](https://duckdb.org/)) that focus on decentralizing the querying capabilities, using technologies like WASM.
+	- This makes possible an intermediary step in which you could read Parquet files from IPFS, model the data with `dbt` and write them back on IPFS.
 
 
 ## Extra Thoughts
