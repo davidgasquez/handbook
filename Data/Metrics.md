@@ -11,7 +11,10 @@
 	1. A [[Metrics | process for defining metrics]].
 	2. A single source of truth for the metrics.
 	3. A way to get metrics to all systems.
+- Product metrics allow measuring product progress and creating alignment in an outcome-oriented way. There are many product frameworks available to help us think about the right key things to track. Thic
+
 ## Good Metric Checklist
+
 - **Specific and sensitive**: Metrics should be specific to the product or feature, and need to be explicitly and quantitatively defined. The metric should also be sensitive enough to measure the impact we expect to see.
 - **Robust**: To complement the **sensitivity** criteria above, we also need to make sure the metric is measuring only the effect of the product of interest, and that it is not reactive to things we expect to change but don’t control. Related to [internal validity](https://en.wikipedia.org/wiki/Internal_validity), we should try to avoid using a metric that can be significantly influenced by anything other than the product/feature we care about.
 - **Measurable**: A metric must be something that we can actually measure. It’s not uncommon to ideate a bunch of “ideal” metrics that would perfectly measure the impact of your product, but end up being impossible or infeasible to really capture.
