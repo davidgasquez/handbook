@@ -10,7 +10,7 @@
   - **Be consistent**.
   - **Add rhythm**. Vary the sentence length to break the monotony.
 - Use the active voice.
-- Write in a conversational tone.
+- Write in a conversational tone. Think about readers when writing.
 - [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. A standard structure is to:
   - Define a clear thesis.
   - Support your thesis with arguments.
