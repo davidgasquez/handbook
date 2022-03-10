@@ -3,6 +3,7 @@
 - One of the biggest misconceptions about data is that **is correct** or it will be at some point. Data quality will always be an issue, defining metrics for data quality helps you know where you stand, improve over time, and align with your team.
 	- Log data quality issues so you can act on them.
 - [Data issues are fractal](https://www.speedwins.tech/posts/some-words-with-nuria-ruiz#question-7).
+- A table might be quality enough for one consumer but not for the other consumer.
 - [[Data Culture | Data is a product]] and that means that you can do postmortems (5 whys) and incident reports on data quality issues.
 - Four categories of characteristics about your data form [the four pillars of Data Observability](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability):
 	1. The *Metrics* and *Metadata* pillars describe the internal characteristics of our data itself and its external characteristics
@@ -21,3 +22,4 @@
 	- **Identify the pain points**: Within those use cases, what data quality issues have caused the most trouble recently?
 	- **Connect to data quality dimensions** and **describe how to measure as metrics**: Of the causes of recent trouble, how do they relate to the previous data quality dimensions?
 	- **Make metrics digestible and actionable**: Lastly, how can we make those metrics useful?
+- Split
