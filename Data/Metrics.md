@@ -12,6 +12,7 @@
 	2. A single source of truth for the metrics.
 	3. A way to get metrics to all systems.
 - Product metrics allow measuring product progress and creating alignment in an outcome-oriented way. There are many product frameworks available to help us think about the right key things to track. Think about **[product metrics that matter](https://uxdesign.cc/product-metrics-that-matter-951b9e4d4eca)** for you.
+- Your job isn’t to measure things. Your job is to change the product for the better — to create value for the customers in a viable way for the business.
 
 ## Good Metric Checklist
 
