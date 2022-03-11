@@ -79,6 +79,7 @@
 - [Becoming a data-driven organization is a journey, which unfolds over time and requires critical thinking, human judgement, and experimentation](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard). Fail fast, learn faster.
 - [Start small. Don't try to wrangle data for the entire company until you have the tools and process down for one team](https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/).
 - Treat data like engineers treat code. That means CI/CD, tests, frequent PRs, ...
+- [For Product Analytics, start small (ant iterate), stay small (limit metrics and dashboards), and keep it simple (you can explain the metric in plain language)](https://twitter.com/0xferruccio/status/1501983388399325191).
 
 ## [Sharing Data Insights](https://locallyoptimistic.com/post/share-your-data-insights-to-engage-your-colleagues/)
 
