@@ -21,7 +21,6 @@ How would the protocol look like? Let me share how I see it:
 - Users could access the data with several open source tools that act as front-end.
 	- e.g: a CLI (`./opendata get "user/dataset:version")`, HTTPS or GraphQL endpoints maintained by the community (`awesomeopendata.com/user/dataset:version`),
 
-
 ## Landscape
 
 Fixing Open Data is something people have been working on for a while. These are some of the solutions I'm aware of but I'm sure there are much more tools and approaches out there.
@@ -30,6 +29,7 @@ Fixing Open Data is something people have been working on for a while. These are
 - **Decentralized datasets**. There are also [IPFS datasets](https://awesome.ipfs.io/datasets/). Similar to the classical approach, but decentralized on IPFS. [Datasets are being added continuously](https://youtu.be/-9rKtrwMkG0?t=638). One challenge of this approach is that discoverability of these assets is hard.
 	- [There is also `datadex` by Juan Benet](https://juan.benet.ai/blog/2014-03-11-discussion-scienceexchange/) (IPFS Creator). It shares some of the  [ideas](https://github.com/jbenet/data/blob/master/dev/designdoc.md) outlined in this document.
 	- [Qri](https://qri.io/). An evolution of the classical open portals that added [[decentralization]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
+	- [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
 - In web3, we have [Ocean Protocol](https://oceanprotocol.com/) and [The Graph](https://thegraph.com/). They've designed the incentive landscape and provided tools to share and discover data. For now, I think they only work for blockchain related datasets.
 - There are also some interesting databases in the space ([DuckDB](https://duckdb.org/)) that focus on decentralizing the querying capabilities, using technologies like WASM.
 	- This makes possible an intermediary step in which you could read Parquet files from IPFS, model the data with `dbt` and write them back on IPFS.
@@ -40,5 +40,5 @@ Fixing Open Data is something people have been working on for a while. These are
 - With a common standard for the metadata, datasets could be indexed with a computation framework on top of IPFS.
 - Querying could also be archived with such computation framework. There are also some databases ([Ceramic](https://ceramic.network/), [Crust](https://www.crust.network/), [Textile Threads](https://github.com/textileio/go-threads)) that work on IPFS but they don't support this use case.
 - [Making a SQL interface](https://twitter.com/josephjacks_/status/1492931290416365568) to query and mix these datasets could be a great step forward since it'll enable tooling like `dbt` to be used on top of it.
-	- SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data with
+	- SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data to Our World In Data.
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
