@@ -39,6 +39,6 @@ Fixing Open Data is something people have been working on for a while. These are
 - There are already open source projects like [Airbyte](https://airbyte.com/) that could be used to build open data connectors. It would make possible replicating something from a random source (like the Ethereum blockchain) to a destination (like IPFS).
 - With a common standard for the metadata, datasets could be indexed with a computation framework on top of IPFS.
 - Querying could also be archived with such computation framework. There are also some databases ([Ceramic](https://ceramic.network/), [Crust](https://www.crust.network/), [Textile Threads](https://github.com/textileio/go-threads)) that work on IPFS but they don't support this use case.
-- [Making a SQL interface](https://twitter.com/josephjacks_/status/1492931290416365568) to query and mix these datasets could be a great step forward since it'll enable tooling like `dbt` to be used on top of it.
+- [Making a SQL interface](https://twitter.com/josephjacks_/status/1492931290416365568) to query and mix these datasets could be a great step forward since it'll enable tooling like `dbt` to be used on top of it. **Data-as-code**.
 	- SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data to Our World In Data.
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
