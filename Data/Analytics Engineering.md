@@ -26,6 +26,11 @@
 - [dbt Community](https://www.getdbt.com/community/)
 - [Locally Optimistic](https://locallyoptimistic.com/community/)
 
+### Public `dbt` Projects
+- [GitLab](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt).
+- [Mattermost](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt).
+- [MetricsDAO](https://github.com/MetricsDAO?q=dbt&type=all&language=&sort=).
+
 ### Related [[Podcasts]]
 
 - [The Analytics Engineering Podcast](https://open.spotify.com/show/4BKMMeVXk4jJnAQSqGSJvE)
