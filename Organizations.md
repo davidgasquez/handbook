@@ -58,6 +58,7 @@
 - Leaders in a healthy organization [[Communication | listen and communicate]].
 - Organizations naturally move towards growth: more people, more systems, more conflicting worldviews. To facilitate action, communication systems _will_ be established. Make sure these are effective. 
 - [Teams usually don't stop to think what (and why) things are working or not working](https://cutlefish.substack.com/p/tbm-952-when-nothingeverything-actually). Make time for that.
+- By [swinging the pendulum](https://twitter.com/BrandonMChu/status/1502312472644100105) and changing focus periodically, you accept more extreme (and clear) outcomes in the short term, but in the long term arrived at the middle ground you aim for. 
 
 ## Resources
 
