@@ -103,3 +103,4 @@
   - [Gitlab Communications](https://about.gitlab.com/handbook/communication/).
   - [Basecamp Communications](https://basecamp.com/guides/how-we-communicate).
 - [Engineering Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/).
+- [Know Your Team](https://knowyourteam.com/blog/). Thoughts on how to become a better leader, and avoid being a bad boss.

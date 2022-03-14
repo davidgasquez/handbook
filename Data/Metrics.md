@@ -4,7 +4,7 @@
 
 - There should probably be a single "North Star Metric" with 3-5 additional supporting metrics. You may also want to consider counter-metrics (or pairing metrics) that keep you from over-rotating on a singular metric.
 - Metrics should use the SMART framework (Specific, Measurable, Achievable, Results-Oriented, Targeted).
-	- Pick the simplest metric that works for you.
+	- Pick the simplest metric that works for you. Metrics definitions should be as easy as a tool-tip away to find.
 - Common understanding of a metric matters more than the metric precision. That understanding requires some standardization (names, time spans, ...) and that needs [[Coordination]].
 	- Teams need to cooperate when defining metrics.
 - Organizations need three things related to metrics:
