@@ -24,7 +24,7 @@
 
 Remember that there are no objectively right answers. [There is no correct win rate waiting to be unearthed](https://mobile.twitter.com/bennstancil/status/1428837214545395712); one version is not true while another is false. Each version is equally accurate because they are tautological: They measure precisely what they say they measure, no more and no less. Your job as analysts is not to do the math right so that you can figure out which answer is in the back of the book; it’s to determine which version, out of a subjective set of options, helps you best run a business.
 
-### [Tips to to design a great north star metric:](https://roundup.getdbt.com/p/the-perfect-north-star-metric)
+### [North Star Metric Design](https://roundup.getdbt.com/p/the-perfect-north-star-metric)
 - Define your customer [jobs to be done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) and measure all of the ways this shows up in your product.
 	- Measure more than one kind of activity if there's more than one job to be done.
 - Decide how often you expect to see these activities from your customer when your product is fully utilized. You aren't measuring velocity of activity based on how fast you want your business to move and iterate, you're focusing on how often your customer is getting value.
