@@ -29,7 +29,8 @@
 ### Public `dbt` Projects
 - [GitLab](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt).
 - [Mattermost](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt).
-- [MetricsDAO](https://github.com/MetricsDAO?q=dbt&type=all&language=&sort=).
+- [MetricsDAO](https://github.com/MetricsDAO).
+- [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
 
 ### Related [[Podcasts]]
 
