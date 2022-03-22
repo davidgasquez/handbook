@@ -3,6 +3,7 @@
 ![[Quotes#^a5049d]]
 
 - There should probably be a single "North Star Metric" with 3-5 additional supporting metrics. You may also want to consider counter-metrics (or pairing metrics) that keep you from over-rotating on a singular metric.
+	-  [Design **north star metrics that capture value to the customer** rather than value to your organization](https://roundup.getdbt.com/p/the-perfect-north-star-metric).
 - Metrics should use the SMART framework (Specific, Measurable, Achievable, Results-Oriented, Targeted).
 	- Pick the simplest metric that works for you. Metrics definitions should be as easy as a tool-tip away to find.
 - Common understanding of a metric matters more than the metric precision. That understanding requires some standardization (names, time spans, ...) and that needs [[Coordination]].
@@ -22,6 +23,12 @@
 - **Interpretable**: Metrics should be easy to understand and agreed upon by those whose success is measured by the metric. There’s often a trade-off between simplicity and accuracy. Prefer simplicity, a metric that’s hard to understand provides none of the benefits listed in the section below.
 
 Remember that there are no objectively right answers. [There is no correct win rate waiting to be unearthed](https://mobile.twitter.com/bennstancil/status/1428837214545395712); one version is not true while another is false. Each version is equally accurate because they are tautological: They measure precisely what they say they measure, no more and no less. Your job as analysts is not to do the math right so that you can figure out which answer is in the back of the book; it’s to determine which version, out of a subjective set of options, helps you best run a business.
+
+### [Tips to to design a great north star metric:](https://roundup.getdbt.com/p/the-perfect-north-star-metric)
+- Define your customer [jobs to be done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) and measure all of the ways this shows up in your product.
+	- Measure more than one kind of activity if there's more than one job to be done.
+- Decide how often you expect to see these activities from your customer when your product is fully utilized. You aren't measuring velocity of activity based on how fast you want your business to move and iterate, you're focusing on how often your customer is getting value.
+- Test your assumptions. Is your resulting metric is explainable and predictable? Is it **easy** to communicate who you're building for and what problems you're solving, and is it **easy** to trace work being done in the company to positive customer outcomes?
 
 ## [Mistakes in Defining Metrics](https://brianbalfour.com/quick-takes/common-mistakes-defining-metrics)
 
