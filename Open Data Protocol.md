@@ -34,7 +34,6 @@ Fixing Open Data is something people have been working on for a while. These are
 - There are also some interesting databases in the space ([DuckDB](https://duckdb.org/)) that focus on decentralizing the querying capabilities, using technologies like WASM.
 	- This makes possible an intermediary step in which you could read Parquet files from IPFS, model the data with `dbt` and write them back on IPFS.
 
-
 ## Extra Thoughts
 - There are already open source projects like [Airbyte](https://airbyte.com/) that could be used to build open data connectors. It would make possible replicating something from a random source (like the Ethereum blockchain) to a destination (like IPFS).
 - With a common standard for the metadata, datasets could be indexed with a computation framework on top of IPFS.
