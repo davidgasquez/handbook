@@ -18,6 +18,7 @@ On the other hand, we've seen what [Open Data can do for us](https://ourworldind
 - **Permissionless**. Anyone should be able to add/update/fix datasets and relations between them. Think GitHub style collaboration.
 - **Aligned Incentives**. Curators should have incentives to improve the datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Curating the data provides compounding benefits for the entire community!
+	- Surfacing great datasets should be also rewarded.
 - **Open Source**. Datasets could be stored in a decentralized way using something like IPFS and queried via tools like DuckDB.
 
 ## Landscape
@@ -47,3 +48,4 @@ Fixing Open Data is something people have been working on for a while. These are
 - [dolt](https://github.com/dolthub/dolt)
 - [dvc](https://github.com/iterative/dvc)
 - [quilt](https://github.com/quiltdata/quilt)
+- [Holium](https://docs.holium.org/)
