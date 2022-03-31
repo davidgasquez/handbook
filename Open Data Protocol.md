@@ -24,9 +24,11 @@ On the other hand, we've seen what [Open Data can do for us](https://ourworldind
 ### Packaging
 - importing datasets
 - managing diffs
+- indexing datasets
 
 ### Storage
 - format for OLAP and OLTP on top of IPFS? What is the grain? Row?
+- Decentralized
 - can parquet be used in that way? Only write the new columns or reuse columns from other datasets
 - Support many types of data. Tables, Geospatial, Images, ...
 
