@@ -11,7 +11,7 @@ On the other hand, we've seen what [Open Data can do for us](https://ourworldind
 
 ## Ideas
 - **Easy**. The tools should make creating, curating and sharing open datasets easy.
-- **Versioned**. The main abstractions (things like `dataset`, `relation`) could be updated, forked and discussed as code in version controlled repositories.
+- **Versioned and Modular**. The main abstractions (things like `dataset`, `relation`) could be updated, forked and discussed as code in version controlled repositories.
 	- You could fork `ourworldindata.usa_covid_cases`, improve it and publish it to allow something like `select * from youruser.usa_covid_cases`.
 	- Modeling could be limited to SQL and done with something like `dbt` so everything comes down to RAW data and the SQL `dbt` code.
 		- This provided a declarative way of defining the datasets schema and other properties like _relations_ or _tests_.
