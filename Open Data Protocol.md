@@ -5,7 +5,7 @@
 ## Motivation
 [Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As such, it is an area where individual [[incentives]] collide with collective ones. As an organization, [spending time curating and maintaining a dataset for other companies to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make money.
 
-On the other hand, we've seen what [Open Data can do for us](https://ourworldindata.org/). Used properly, data is a great tool to educate and [[Coordination | coordinate]] people.
+On the other hand, we've seen what [Open Data can do for us](https://twitter.com/patrickc/status/1256987283141492736). Used properly, data is a great tool to educate and [[Coordination | coordinate]] people.
 
 **We need better protocols and mechanisms to fund and improve the open data ecosystem**. The great news is that we now have a lot of web3 organizations [thinking about data](https://docs.indexcoop.com/our-products/data-economy-index-data), [[Incentives]] and [[Governance]].
 
