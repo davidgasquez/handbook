@@ -45,3 +45,5 @@ Fixing Open Data is something people have been working on for a while. These are
 ### Related Projects
 - [dbhub](https://dbhub.io/)
 - [dolt](https://github.com/dolthub/dolt)
+- [dvc](https://github.com/iterative/dvc)
+- [quilt](https://github.com/quiltdata/quilt)
