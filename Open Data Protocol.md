@@ -21,6 +21,20 @@ On the other hand, we've seen what [Open Data can do for us](https://ourworldind
 	- Surfacing great datasets should be also rewarded.
 - **Open Source**. Datasets could be stored in a decentralized way using something like IPFS and queried via tools like DuckDB.
 
+### Packaging
+- importing datasets
+- managing diffs
+
+### Storage
+- format for OLAP and OLTP on top of IPFS? What is the grain? Row?
+- can parquet be used in that way? Only write the new columns or reuse columns from other datasets
+- Support many types of data. Tables, Geospatial, Images, ...
+
+### Transformations
+- holium ideas of WASM
+- something like dbt for SQL
+- who runs it?
+
 ## Landscape
 
 Fixing Open Data is something people have been working on for a while. These are some of the solutions I'm aware of but I'm sure there are much more tools and approaches out there.
