@@ -34,6 +34,7 @@ On the other hand, we've seen what [Open Data can do for us](https://ourworldind
 
 ### Transformations
 - holium ideas of WASM
+- Lambda functions on top of the storage
 - something like dbt for SQL
 - who runs it?
 
