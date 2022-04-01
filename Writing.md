@@ -36,3 +36,21 @@
 [If you have already written lots of concept-oriented atomic around the topic, your task is more like editing than composition. You can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative.](https://notes.andymatuschak.org/z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8)
 
 Instead of having a task like “write an outline of the first chapter,” you have a task like “find notes which seem relevant.” Each step feels doable.
+
+## Starting Points
+
+- This is a thing that happened to me recently that was amusing.
+- This is a thing that happened to me recently that was annoying.
+- I disagreed with someone over a thing. Here is a persuasive piece for my side of the disagreement.
+- Here is a thing people often fail to understand.
+- Here is a thing people do that is annoying.
+- This is a thing people new to my job often get wrong.
+- This is a thing people who interact with people who do my job often get wrong.
+- This is a thing I am trying to learn.
+- This is a review of a book I read recently.
+- This is a review of a film I watched recently.
+- Here is a cool thing about the place I live.
+- Here is a thing that makes my life better when people do it.
+- Here is a thing that makes my life worse when people do it.
+- This is a thing I know that you might not have heard about.
+- This is a thing I learned recently that I was surprised I had not heard about.
