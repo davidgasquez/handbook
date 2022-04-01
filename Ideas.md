@@ -22,9 +22,9 @@ These are the areas I'm usually thinking about:
 - Energy
 - Gaming
 
-## [[Open Data Protocol]]
+## [[Open Data]]
 
-Moved to a [[Open Data Protocol | new document]].
+Moved to a [[Open Data | new document]].
 
 ## Awesome Game
 
