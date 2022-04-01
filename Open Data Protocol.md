@@ -21,22 +21,20 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 	- Surfacing great datasets should be also rewarded.
 - **Open Source**. Datasets could be stored in a decentralized way using something like IPFS and queried via tools like DuckDB.
 
-### Packaging
-- importing datasets
-- managing diffs
-- indexing datasets
+### Data Packaging
+- Index datasets and versions
+- Importing datasets
+- Manage diffs
 
 ### Storage
-- format for OLAP and OLTP on top of IPFS? What is the grain? Row?
-- Decentralized
-- can parquet be used in that way? Only write the new columns or reuse columns from other datasets
+- Use smart protocol for storing the data so rows/columns are not duplicated and new ones can be built on top of others. 
+- Centralized and Decentralized.
 - Support many types of data. Tables, Geospatial, Images, ...
 
 ### Transformations
-- holium ideas of WASM
-- Lambda functions on top of the storage
-- something like dbt for SQL
-- who runs it?
+- Packaged Lambda transformations (WASM/Docker). 
+	- For tabular data something like `dbt` might be better.
+- Can be run locally and remotely.
 
 ## Landscape
 
@@ -48,10 +46,10 @@ Fixing Open Data is something people have been working on for a while. These are
 	- [Qri](https://qri.io/). An evolution of the classical open portals that added [[decentralization]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
 	- [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
 	- [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
+	- [Trino](https://trino.io/) is a distributed query engine for data. It could work on top of IPFS if it supported it.
 - In web3, we have [Ocean Protocol](https://oceanprotocol.com/) and [The Graph](https://thegraph.com/). They've designed the incentive landscape and provided tools to share and discover data. For now, I think they only work for blockchain related datasets.
 - There are also some interesting databases in the space ([DuckDB](https://duckdb.org/)) that focus on decentralizing the querying capabilities, using technologies like WASM.
 	- This makes possible an intermediary step in which you could read Parquet files from IPFS, model the data with `dbt` and write them back on IPFS.
-- Trino + IPFS?
 
 ## Extra Thoughts
 - There are already open source projects like [Airbyte](https://airbyte.com/) that could be used to build open data connectors. It would make possible replicating something from a random source (like the Ethereum blockchain) to a destination (like IPFS).
