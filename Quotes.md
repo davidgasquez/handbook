@@ -62,7 +62,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - Y es que en el mundo traidor nada hay verdad ni mentira: todo es según el color del cristal con que se mira. Ramón de Campoamor.
 - You either move information from one place to another, or you move mass from one place to another. 
 - The fewer the facts, the stronger the opinion. Arnold H. Glasow.
-- If you think without writing, you only think you're thinking. Leslie Lamport.
+- If you think without writing, you only think you're thinking. Leslie Lamport. ^645051
 
 ## External Lists
 

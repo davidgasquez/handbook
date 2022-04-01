@@ -6,3 +6,4 @@
 
 - [PixelMe](https://pixel-me.tokyo/en/) - Convert your photo into pixelart.
 - [PixelIt](https://giventofly.github.io/pixelit/) - Create pixel art from an image.
+- [Pixel Art Tools](https://github.com/collections/pixel-art-tools) - GitHub Collection.
