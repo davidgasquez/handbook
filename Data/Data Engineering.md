@@ -24,7 +24,7 @@ graph LR;
 
 - In each step of the pipeline there are producers of data and consumers. Consumers can be also producers, e.g `B` is both consumer of `A`'s data and producer of `C`s data.
   - Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a [[Databases | database]].
-- Schemas changes. Most of the time you won't be there at the exact time of the change so aim to save everything.
+- **Schemas changes**. Most of the time you won't be there at the exact time of the change so aim to save everything.
   - Ideally, the schema will evolve in a backward compatible way:
     - Data types don't change in the same column.
     - Columns are either deleted or added but never renamed.
