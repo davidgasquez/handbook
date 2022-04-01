@@ -59,9 +59,10 @@ Fixing Open Data is something people have been working on for a while. These are
 	- SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data to Our World In Data.
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
 
-### Related Projects
+### Similar Projects
 - [dbhub](https://dbhub.io/)
 - [dolt](https://github.com/dolthub/dolt)
 - [dvc](https://github.com/iterative/dvc)
 - [quilt](https://github.com/quiltdata/quilt)
 - [Holium](https://docs.holium.org/)
+- [Minerva](https://github.com/bdchain/Minerva)
