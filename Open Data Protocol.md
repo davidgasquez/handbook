@@ -66,3 +66,6 @@ Fixing Open Data is something people have been working on for a while. These are
 - [quilt](https://github.com/quiltdata/quilt)
 - [Holium](https://docs.holium.org/)
 - [Minerva](https://github.com/bdchain/Minerva)
+- [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data)
+- [Akash](https://akash.network/)
+- [Fission](https://fission.codes/)
