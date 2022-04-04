@@ -69,15 +69,16 @@ Fixing Open Data is something people have been working on for a while. These are
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
 
 ### Similar Projects
-- [dbhub](https://dbhub.io/)
-- [dolt](https://github.com/dolthub/dolt)
-- [dvc](https://github.com/iterative/dvc)
-- [quilt](https://github.com/quiltdata/quilt)
+- [Kamu](https://www.kamu.dev/)
+- [Dolt](https://github.com/dolthub/dolt)
+- [Qri](https://qri.io/)
 - [Holium](https://docs.holium.org/)
+- [dbhub](https://dbhub.io/)
+- [Quilt](https://github.com/quiltdata/quilt)
+- [DVC](https://github.com/iterative/dvc)
 - [Minerva](https://github.com/bdchain/Minerva)
 - [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data)
 - [Akash](https://akash.network/)
 - [Fission](https://fission.codes/)
-- [Kamu](https://www.kamu.dev/)
 - [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
 - [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
