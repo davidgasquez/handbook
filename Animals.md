@@ -1,5 +1,5 @@
 # Animals
-##
+## Cats
 
 - Get a brush and brush your kitty! It's recommended that short haired cats should be brushed once a week.
 - It's recommended to let your kitty eat as much as it wills, until it reaches adulthood. They need to grow big and strong!
@@ -65,9 +65,12 @@
 - Add music to your training sessions to get it associated with positive rewards.
 - Train before eating so the rewards have more value and they are [more interested in the tricks](https://youtu.be/knYNa0U5QZU).
 - Movement builds drive. Be energetic in the training session.
+	- Use a soft voice to stabilize a behavior instead of repeating the command or using stay. Break orders with a release cue like OK.
+	- To increase dog interest in training, throw treats to get them more energized!
 - If you find your dog isn't listening perfectly to an old cue, one strategy for dealing with that is to change the cue and work on reinforcing the new cue more carefully. To transfer a cue, give your _new_ cue then immediately follow it with the old cue and reward when the dog performs the behavior.
 - You can speed up a trick training it with toys. Also, you can add tricks in between "drop it" and "get it" to reinforce them.
 - Once the behavior is established, start to reinforce intermittently.
+- For clicker training the main loop is: click, pause, feed. Always feed after clicking! You can charge the clicker while playing [[Animals#Training Games | training games]].
 
 #### Training Games
 
