@@ -12,15 +12,18 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 ## Goals
 - **Easy**. The tools should make creating, curating and sharing open datasets easy.
 - **Versioned and Modular**. The main abstractions (things like `dataset`, `relation`) could be updated, forked and discussed as code in version controlled repositories.
-	- You could fork `ourworldindata.usa_covid_cases`, improve it and publish it to allow something like `select * from youruser.usa_covid_cases`.
+	- E.g: fork `ourworldindata.usa_covid_cases`, improve it and publish it. People now can `select * from youruser.usa_covid_cases`.
 	- Modeling could be limited to SQL and done with something like `dbt` so everything comes down to RAW data and the SQL `dbt` code.
 		- This provided a declarative way of defining the datasets schema and other properties like _relations_ or _tests_.
-		- Reproducible and Verifiable.
+- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. 
 - **Permissionless**. Anyone should be able to add/update/fix datasets and relations between them. Think GitHub style collaboration.
 - **Aligned Incentives**. Curators should have incentives to improve the datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Curating the data provides compounding benefits for the entire community!
 	- Surfacing great datasets should be also rewarded.
-- **Open Source**. Datasets could be stored in a decentralized way using something like IPFS and queried via tools like DuckDB.
+- **Open Source**. Datasets could be stored in a decentralized way using something like IPFS and queried via tools like [DuckDB WASM Shell](https://shell.duckdb.org/).
+
+## Components
+These are a few components 
 
 ### Data Packaging
 - Index datasets and versions
