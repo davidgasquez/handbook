@@ -69,3 +69,4 @@ Fixing Open Data is something people have been working on for a while. These are
 - [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data)
 - [Akash](https://akash.network/)
 - [Fission](https://fission.codes/)
+- [Kamu](https://www.kamu.dev/)
