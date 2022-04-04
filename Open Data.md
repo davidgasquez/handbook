@@ -25,21 +25,23 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 ## Components
 
 ### Packaging
-- Distribution.
-- Versioning. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
-- Permanence. Each version should be accessible and permanent.
-- Indexing.
-- Formatting. Allow people to access the data in their preferred format (CSV, Parquet, ...)
-- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
+- **Distribution**. Decentralized way. Could work in a closed network too!
+- **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
+- **Permanence**. Each version should be accessible and permanent.
+- **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
+- **Formatting**. Allow people to access the data in their preferred format (CSV, Parquet, ...)
+- **Social**. Stars, users, citations, visualizations, ...
+	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
 
 ### Storage
 - Use smart protocol for storing the data so rows/columns are not duplicated and new ones can be built on top of others. 
-- Centralized and Decentralized.
+- Centralized (S3, GCS, ...) and Decentralized (IPFS, Hypercore, ...).
 - Support many types of data. Tables, Geospatial, Images, ...
 
 ### Transformations
 - Packaged Lambda transformations (WASM/Docker). 
 	- For tabular data something like `dbt` might be better.
+- Defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium are doing these.
 - Can be run locally and remotely.
 
 ## Landscape
