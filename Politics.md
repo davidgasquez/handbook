@@ -32,6 +32,7 @@
 - [Communities die primarily by refusing to defend themselves](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism). Censorship and moderation might be required for a great community to continue existing.
 - Being good at politics doesn't mean being good at taking decisions that help your voters. [High-functioning sociopaths climb the ladder, so now the world's run mostly by sociopaths](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/).
 - Most of the time, political parties focus on how to collect more money (updating taxes) instead of how to use it more effectively.
+	- We don't know a lot about how the money is used and how to best optimize it. There's isn't too much attention around transparency of these movements. 
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
