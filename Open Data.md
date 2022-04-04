@@ -72,3 +72,4 @@ Fixing Open Data is something people have been working on for a while. These are
 - [Akash](https://akash.network/)
 - [Fission](https://fission.codes/)
 - [Kamu](https://www.kamu.dev/)
+- [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
