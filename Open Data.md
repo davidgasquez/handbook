@@ -73,3 +73,4 @@ Fixing Open Data is something people have been working on for a while. These are
 - [Fission](https://fission.codes/)
 - [Kamu](https://www.kamu.dev/)
 - [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
+- [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
