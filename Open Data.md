@@ -7,9 +7,9 @@
 
 On the other hand, we've seen what [Open Data can do for us](https://twitter.com/patrickc/status/1256987283141492736). Used properly, data is a great tool to educate and [[Coordination | coordinate]] people. Data helps, well..., data-driven decision making! 
 
-**We need better tools, protocols, and, mechanisms to improve the Open Data ecosystem**. 
+**We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**. 
 
-## Ideas
+## Goals
 - **Easy**. The tools should make creating, curating and sharing open datasets easy.
 - **Versioned and Modular**. The main abstractions (things like `dataset`, `relation`) could be updated, forked and discussed as code in version controlled repositories.
 	- You could fork `ourworldindata.usa_covid_cases`, improve it and publish it to allow something like `select * from youruser.usa_covid_cases`.
