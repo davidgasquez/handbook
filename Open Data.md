@@ -1,13 +1,13 @@
 # Open Data
 
-> Imagine a decentralized, distributed and permission-less protocol where we could collaborate on datasets the same way we collaborate on Open Source code.
+> People should be able to collaborate on Open Data the same way we collaborate on Open Source code.
 
 ## Motivation
 [Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As such, it is an area where individual [[incentives]] collide with collective ones. As an organization, [spending time curating and maintaining a dataset for other companies to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make money.
 
-- On the other hand, we've seen what [Open Data can do for us](https://twitter.com/patrickc/status/1256987283141492736). Used properly, data is a great tool to educate and [[Coordination | coordinate]] people. Data helps, well..., data-driven decision making.
+On the other hand, we've seen what [Open Data can do for us](https://twitter.com/patrickc/status/1256987283141492736). Used properly, data is a great tool to educate and [[Coordination | coordinate]] people. Data helps, well..., data-driven decision making! 
 
-**We need better protocols and mechanisms to fund and improve the open data ecosystem**. The great news is that we now have a lot of web3 organizations [thinking about data](https://docs.indexcoop.com/our-products/data-economy-index-data), [[Incentives]] and [[Governance]].
+**We need better tools, protocols, and, mechanisms to improve the Open Data ecosystem**. 
 
 ## Ideas
 - **Easy**. The tools should make creating, curating and sharing open datasets easy.
@@ -15,6 +15,7 @@
 	- You could fork `ourworldindata.usa_covid_cases`, improve it and publish it to allow something like `select * from youruser.usa_covid_cases`.
 	- Modeling could be limited to SQL and done with something like `dbt` so everything comes down to RAW data and the SQL `dbt` code.
 		- This provided a declarative way of defining the datasets schema and other properties like _relations_ or _tests_.
+		- Reproducible and Verifiable.
 - **Permissionless**. Anyone should be able to add/update/fix datasets and relations between them. Think GitHub style collaboration.
 - **Aligned Incentives**. Curators should have incentives to improve the datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Curating the data provides compounding benefits for the entire community!
@@ -48,6 +49,7 @@ Fixing Open Data is something people have been working on for a while. These are
 	- [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
 	- [Trino](https://trino.io/) is a distributed query engine for data. It could work on top of IPFS if it supported it.
 - In web3, we have [Ocean Protocol](https://oceanprotocol.com/) and [The Graph](https://thegraph.com/). They've designed the incentive landscape and provided tools to share and discover data. For now, I think they only work for blockchain related datasets.
+	- Some web3 organizations are [thinking about data](https://docs.indexcoop.com/our-products/data-economy-index-data), [[Incentives]] and [[Governance]].
 - There are also some interesting databases in the space ([DuckDB](https://duckdb.org/)) that focus on decentralizing the querying capabilities, using technologies like WASM.
 	- This makes possible an intermediary step in which you could read Parquet files from IPFS, model the data with `dbt` and write them back on IPFS.
 
