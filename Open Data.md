@@ -23,12 +23,14 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 - **Open Source**. Datasets could be stored in a decentralized way using something like IPFS and queried via tools like [DuckDB WASM Shell](https://shell.duckdb.org/).
 
 ## Components
-These are a few components 
 
-### Data Packaging
-- Index datasets and versions
-- Importing datasets
-- Manage diffs
+### Packaging
+- Distribution.
+- Versioning. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
+- Permanence. Each version should be accessible and permanent.
+- Indexing.
+- Formatting. Allow people to access the data in their preferred format (CSV, Parquet, ...)
+- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
 
 ### Storage
 - Use smart protocol for storing the data so rows/columns are not duplicated and new ones can be built on top of others. 
