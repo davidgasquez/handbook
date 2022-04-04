@@ -30,7 +30,7 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 - **Permanence**. Each version should be accessible and permanent.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
 - **Formatting**. Allow people to access the data in their preferred format (CSV, Parquet, ...)
-- **Social**. Stars, users, citations, visualizations, ...
+- **Social**. Stars, users, citations, attaching default visualizations (d3, Vega and more), ...
 	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
 
 ### Storage
