@@ -40,7 +40,7 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 
 ### Transformations
 - Packaged Lambda transformations (WASM/Docker). 
-	- For tabular data something like `dbt` might be better.
+	- For tabular data, starting with just SQL might be great. 
 - Defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium are doing these.
 - Can be run locally and remotely.
 
