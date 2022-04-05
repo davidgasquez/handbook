@@ -21,6 +21,7 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 	- Curating the data provides compounding benefits for the entire community!
 	- Surfacing great datasets should be also rewarded.
 - **Open Source**. Datasets could be stored in a decentralized way using something like IPFS and queried via tools like [DuckDB WASM Shell](https://shell.duckdb.org/).
+	- Integrates with open source ETL tools like Singer/Airbyte.
 
 ## Components
 
