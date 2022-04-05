@@ -45,6 +45,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
 - [Every document you write can fall into one of two categories](https://clrcrl.com/2021/11/30/fighting-the-entropy-of-knowledge.html):
 	- Type 1: A point-in-time document, that should lose relevance at some point. e.g. meeting notes, feature specs that get completed, [[feedback]] that gets addressed
 	- Type 2: A source of truth document, that should be maintained over time, e.g. "How work gets done at". May also be referred to as "evergreen" content.
+- Keep some basic structure, but provide a good search.
 - You can connect everything to Slack (search engine powered by humans).
 	- Keeping information across N tools causes scattered information.
 	- E.g. Integrate Notion with Slack so search is done from there.
