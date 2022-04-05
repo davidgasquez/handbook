@@ -11,6 +11,7 @@ Best practices to follow when building and managing a roadmap:
 - Stay flexible
 
 ## Process
+
 - **Gather [[Ideas]]**: Collect inputs and data from across your project.
 - **Draft top-level goals**: Create a vision statement with the top problems you aim to solve. What is important to achieve? For whom? Why?
   - Mission: How do we win the fight?

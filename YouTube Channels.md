@@ -16,5 +16,6 @@
 - [This Place](https://www.youtube.com/channel/UCViwi-dXACoy9Pee73NvgJw). Interesting and science and technology videos.
 - [The Engineer Guy](https://www.youtube.com/user/engineerguyvideo). Bill Hammack explores the world of engineering (from fiber optic to the [design of aluminium beverage can](https://www.youtube.com/watch?v=hUhisi2FBuw&t=1s)).
 - [LEMMiNO](https://www.youtube.com/c/LEMMiNO). Documentaries and list videos.
+- [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/). Giving away a philosophy degree on YouTube.
 - [Adam Ragusea](https://www.youtube.com/user/aragusea). Home cooking videos marinated with some science.
 - [You Suck At Cooking](https://www.youtube.com/c/yousuckatcooking). Fun cooking videos.

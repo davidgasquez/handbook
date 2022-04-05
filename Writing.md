@@ -26,7 +26,7 @@
 - When writing tutorials or guides, use the second-person and describe actions to a user. These types of content talks to people when humans can't. [Technical documentation follows the same rules than normal writing](https://developers.google.com/tech-writing/one).
 	- [Make it fun](https://davnicwil.com/tips-for-making-writing-more-fun/)!
 - The skills you learn by writing transfer to speaking. Being good at speaking makes you more persuasive.
- - Good nonfiction has three qualities.
+- Good nonfiction has three qualities.
 	1. It gets to the point.
 	2. It is interesting. Written from your own experience, in your personal voice.
 	3. It is grounded in reality.
