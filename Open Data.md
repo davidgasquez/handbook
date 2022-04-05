@@ -15,7 +15,7 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 	- E.g: fork `ourworldindata.usa_covid_cases`, improve it and publish it. People now can `select * from youruser.usa_covid_cases`.
 	- Modeling could be limited to SQL and done with something like `dbt` so everything comes down to RAW data and the SQL `dbt` code.
 		- This provided a declarative way of defining the datasets schema and other properties like _relations_ or _tests_.
-- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. 
+- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch.
 - **Permissionless**. Anyone should be able to add/update/fix datasets and relations between them. Think GitHub style collaboration.
 - **Aligned Incentives**. Curators should have incentives to improve the datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Curating the data provides compounding benefits for the entire community!
