@@ -1,16 +1,4 @@
-# Animals
-## Cats
-
-- Get a brush and brush your kitty! It's recommended that short haired cats should be brushed once a week.
-- It's recommended to let your kitty eat as much as it wills, until it reaches adulthood. They need to grow big and strong!
-- Buy a scratching post and other scratching toys to encourage them to scratch the right surfaces. Catnip also helps.
-- Slowly blinking at cats says "I'm comfortable around you" and is a show of contentment and non hostility.
-- Do things at roughly the same time every day, and stick to a schedule. they operate their entire lives off their schedule, and will be more reasonable if you are consistent with doing their stuff.
-- Toys, buy a variety at first to see what your cat likes.
-- Wet food, not dry food since dry food will make their bodies work too hard and put your cat into a constant state of dehydration.
-- Have one of the playing sessions right before the last meal of the day. A good hunt ends with a hefty meal. After a quick grooming session, she'll [[sleep]] like an angel, allowing you to do the same.
-
-## Dogs
+# Dogs
 
 - Learn to read [dog body language](https://www.flickr.com/photos/lilita/5652847156) ([calming signals](https://youtu.be/MgnLgHFRJu4)).
 - Training is creating a common language between you and your dog.
@@ -70,7 +58,7 @@
 - If you find your dog isn't listening perfectly to an old cue, one strategy for dealing with that is to change the cue and work on reinforcing the new cue more carefully. To transfer a cue, give your _new_ cue then immediately follow it with the old cue and reward when the dog performs the behavior.
 - You can speed up a trick training it with toys. Also, you can add tricks in between "drop it" and "get it" to reinforce them.
 - Once the behavior is established, start to reinforce intermittently.
-- For clicker training the main loop is: click, pause, feed. Always feed after clicking! You can charge the clicker while playing [[Animals#Training Games | training games]].
+- For clicker training the main loop is: click, pause, feed. Always feed after clicking! You can charge the clicker while playing [[Dogs#Training Games | training games]].
 
 #### Training Games
 

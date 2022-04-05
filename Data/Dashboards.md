@@ -1,4 +1,4 @@
-# Dashboards:
+# Dashboards
 
 [Dashboards create a shared sense of reality](https://benn.substack.com/p/data-is-for-dashboards) and help everyone understand whats going on better. They exist for the purpose of quickly and concisely answering questions. [Understanding must come before action](https://sarahsnewsletter.substack.com/p/what-substack-analytics-engineers). Understanding also helps us ask the right questions.
 
