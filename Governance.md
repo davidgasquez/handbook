@@ -14,5 +14,4 @@ Governance is simply a tool an [[Organizations | organization]] uses to decide w
 - https://communityrule.info/assets/book/gov-booklet-MASTER.pdf
 - https://communityrule.info/
 - https://metagov.org/
-
-[[DAOs]]
+- [[Decentralized Autonomous Organizations]]
