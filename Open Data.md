@@ -3,7 +3,7 @@
 > People should be able to collaborate on Open Data the same way we collaborate on Open Source code.
 
 ## Motivation
-[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As such, it is an area where individual [[incentives]] collide with collective ones. As an organization, [spending time curating and maintaining a dataset for other companies to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make money.
+[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As such, it is an area where individual [[incentives]] collide with collective ones. As an organization, [spending time curating and maintaining a dataset for other companies to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make omoney.
 
 On the other hand, we've seen what [Open Data can do for us](https://twitter.com/patrickc/status/1256987283141492736). Used properly, data is a great tool to educate and [[Coordination | coordinate]] people. Data helps, well..., data-driven decision making! 
 
