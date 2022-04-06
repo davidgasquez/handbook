@@ -31,11 +31,12 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 - **Permanence**. Each version should be accessible and permanent.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
 - **Formatting**. Allow people to access the data in their preferred format (CSV, Parquet, ...)
-- **Social**. Stars, users, citations, attaching default visualizations (d3, Vega and more), ...
+- **Social**. Stars, users, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), and others), ...
 	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
 
 ### Storage
 - Use smart protocol for storing the data so rows/columns are not duplicated and new ones can be built on top of others. 
+- Inmutable source datasets.
 - Centralized (S3, GCS, ...) and Decentralized (IPFS, Hypercore, ...).
 - Support many types of data. Tables, Geospatial, Images, ...
 
