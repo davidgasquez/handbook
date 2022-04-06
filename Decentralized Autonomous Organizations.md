@@ -9,7 +9,9 @@
 - https://github.com/nation3/wiki/blob/5c27b3d1ee3e58197ce5a6d3f33a4bf12fafda02/docs/Projects/internet-communities.md
 
 ### Resources
+- [The Handbook of Handbooks for Decentralised Organising](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view).
 
+####  Tools
 - https://snapshot.org/#/
 - https://daohaus.club/
 - https://coordination.party/
