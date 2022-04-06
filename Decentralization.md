@@ -58,14 +58,14 @@ Unique assets whose value is independent from one another. For example, an NFT m
 - When you create this NFT thing, you can create rules around it via a smart contract. One of these rules could be that anytime this piece of art you made is transferred across owners, you get 5% of what the new person paid for it, in perpetuity, automatically.
 - There are [many problems with NFTs](https://youtu.be/YQ_xWvX1n9g)!
 
- ### Resources
+### Resources
 
 - [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) and the [Web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack).
+- [Kernel Community](https://kernel.community/en/learn/).
 - Web3 native alternatives:
 	- [Trello](https://dework.xyz/).
 	- [Notion](https://www.clarity.so/).
 	- [Medium](https://mirror.xyz/dashboard).
-- https://twitter.com/graphprotocol/status/1481065133967560706
 	- [Search](https://slate.host/).
 	- [Imgur](https://www.pinata.cloud/).
 	- [Netlify](https://fleek.co/).
