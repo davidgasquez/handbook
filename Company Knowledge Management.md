@@ -18,10 +18,10 @@ There are some basic principles and [[values]] that will make maintaining and ev
 ## Key Ideas
 
 - [[Documentation]] and PM can make a company 10x better.
-- Have an opinionated way of doing internal documentation that works for your [[Organizations | organization]] and [[Culture]].
+- Have an opinionated way of doing internal documentation that works for your [[Organizations | organization]] and [[Culture]]. 
 - Every employee should contribute.
 - Resources have owners, contributors, reviewers (similar to [[Git]] roles).One of the owner roles is to keep it up to date and consistent with the rest of the knowledge base.
-- Each kind of document has have an explicit place.
+- Each kind of document has have an explicit place. A place for everything and everything in its place.
 	- Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
 	- Avoid duplicating knowledge. For each question there is one and only one answer.
 - Link everything together.
