@@ -10,6 +10,7 @@
 
 ### Resources
 - [The Handbook of Handbooks for Decentralised Organising](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view).
+- [Resources For Decentralized Organizing](https://commonslibrary.org/resources-for-decentralised-organising/). Also [summarized in slides](https://geo.coop/sites/default/files/patterns_of_decentralized_organizing.pdf).
 
 ####  Tools
 - https://snapshot.org/#/

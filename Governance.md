@@ -8,10 +8,8 @@ Governance is a tool an [[Organizations | organization]] uses to decide where po
 
 ## Resources
 - [Democratic Mediums](https://medlabboulder.gitlab.io/democraticmediums/). A directory of patterns for decision, deliberation, and noise.
+- [Metagovernance Project](https://metagov.org/). An interdisciplinary research collective that builds standards and infrastructure for digital self-governance.
+- [CommunityRule](https://communityrule.info/). A governance toolkit for great communities.
 - https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view
 - https://geo.coop/sites/default/files/patterns_of_decentralized_organizing.pdf
-- https://commonslibrary.org/resources-for-decentralised-organising/
-- https://communityrule.info/assets/book/gov-booklet-MASTER.pdf
-- https://communityrule.info/
-- https://metagov.org/
 - [[Decentralized Autonomous Organizations]]
