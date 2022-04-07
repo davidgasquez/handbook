@@ -83,7 +83,7 @@
 - [Run 1:1s (one-on-ones)](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/). A recurring meeting with no set agenda between a manager and one of their reports. Don’t make it a status update (these should be async). Chat about anything bothering you, career growth or type work that is interesting for you. End it with actionable next steps.
 - Say no a lot, up front. [Distractions are anything that doesn’t help you keep your existing features running, or deliver your top priority faster](https://alexturek.com/2022-03-07-How-to-do-less/). Finishing work is more important than starting it.
 - As a new team member:
-	- Ask questions without judging. 
+	- Ask questions without judging. Never ever be _negative_ about the stuff they created. It was done for a reason.
 	- Beware of [Normalization of Deviance](https://danluu.com/wat/).
 
 ## [How Small Teams Work](https://posthog.com/handbook/people/team-structure/why-small-teams#how-it-works)

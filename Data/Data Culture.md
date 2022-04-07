@@ -12,7 +12,7 @@
 - [While the output of your team is what you want to maximize, you'll need some indicators that will help guide you day-to-day](https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/). Decide what's important to you (test coverage, documentation missing, queries run, models created, ...), and generate some internal reports for yourself.
 - [Data teams should be a part of the business conversations from the beginning](https://cultivating-algos.stitchfix.com/). Get the data team involved early, have open discussions with them about the existing work, and how to prioritize new work against the existing backlog. Don’t accept new work without addressing the existing bottlenecks, and don’t accept new work without requirements. **Organizational [[politics]] matter way more than any data methods or technical knowledge**.
 	- Including data people in meetings causes happy accidents!
-	- The layout of the organization impacts time of the information to propagate and adds losses. 
+	- The layout of the organization impacts time of the information to propagate and adds losses.
 	- The modern data team needs to have _real organizational power_—it needs to be able to say "no” and mean it. If your data team does not truly have the power to say no to stakeholders, it will get sent on all kinds of wild goose chases, be unproductive, experience employee churn, etc.
 	- Data should report to the CEO. Ideally at least with some weekly metrics split into (a) notable trends, (b) watching close, and (c) business as usual.
 	- If data is the most precious asset in a company, does it make sense to have only one team responsible for it?
@@ -21,8 +21,8 @@
 - **Integrate data where the decision is made**. E.g: Google showing restaurant scores when you're looking something for dinner.
 	- Reduce the time to insights. If the data is already in the tool you're using, then there's zero time to insights. Provide a set of tools with the same data and let people choose depending on the goal.
 - [Earning the authority to deny requests is one of the most important factors to running a world-class data team](https://twitter.com/teej_m/status/1420432376270782464)
-- Data professionals can build consensus as the company becomes more diverse. 
-- Data systems can establish methods for understanding the world even as it becomes more complex. 
+- Data professionals can build consensus as the company becomes more diverse.
+- Data systems can establish methods for understanding the world even as it becomes more complex.
 - Data literacy can create pathways for anyone to contribute equally to the organization's reality.
 - Create a single space as the central place to post [[Data Request Template | data requests]].
 - Create a single space to [[Sharing Data Insights | share the results of analysis and decisions made based on them]].
