@@ -1,15 +1,5 @@
 # Company Handbooks
-## Principles
-
-- Keeping a handbook is key for  a good [[Company Knowledge Management]].
-- Everyone should contribute to it and each page has a clear owner that aim to keep it consistent with the rest of the handbook.
-- Avoid duplicating knowledge.  For each question there is one and only one answer, and a team dedicated to getting owners of various systems to actually codify their knowledge.
-- Everything is a WIP. No need to create empty sections or say it'll be updated later.
-- Make it *permissionless*. Anyone can edit anything, similar to PRs on GitHub.
-- Link everything together to improve discoverability.
-- Each kind of document should have an explicit place.
-- [[Documentation]] should have a common entry point (index) to increase discoverability. Each team could have their own [[processes]] on top.
-- Ask questions in public channels! If someone sends you a handbook link, that means you have the answer documented - they don't mean that you should have found that yourself or that this is the complete answer. If the answer to a question isn't documented, make a pull request to add it to the handbook in a place you have looked for it.
+Handbooks are key for good [[Company Knowledge Management]].
 
 ## Examples
 - [GitLab](https://about.gitlab.com/handbook/)

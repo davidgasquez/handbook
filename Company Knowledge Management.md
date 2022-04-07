@@ -50,6 +50,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
 	- Keeping information across N tools causes scattered information.
 	- E.g. Integrate Notion with Slack so search is done from there.
 	- [If Slack had access to your entire knowledge base, it could answer at least the most commonly asked questions automatically.](https://julian.digital/2020/11/20/chief-notion-officer/)
+	- Ask questions in public channels! If someone sends you a handbook link, that means you have the answer documented - they don't mean that you should have found that yourself or that this is the complete answer. If the answer to a question isn't documented, make a pull request to add it to the handbook in a place you have looked for it.
 
 ## Sharing Updates
 
