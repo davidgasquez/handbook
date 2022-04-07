@@ -478,3 +478,7 @@ input.task-list-item-checkbox:checked {
 .setting-item-control input[type="text"]::placeholder {
   color: var(--dark3);
 }
+
+.page-header {
+  display: none;
+}
