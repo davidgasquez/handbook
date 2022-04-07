@@ -29,7 +29,7 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 - **Distribution**. Decentralized way. Could work in a closed network too!
 - **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
 - **Permanence**. Each version should be accessible and permanent.
-- **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
+- **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. Datasets could be linked to a `Datafile` with description, visualizations, ...
 - **Formatting**. Allow people to access the data in their preferred format (CSV, Parquet, ...)
 - **Social**. Stars, users, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), and others), ...
 	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
