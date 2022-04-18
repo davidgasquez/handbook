@@ -13,7 +13,8 @@
 - Use the active voice.
 - Write in a conversational tone. Think about readers when writing.
 - [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. A standard structure is to:
-  - Define a clear thesis.
+  - Define a clear thesis. State the main point before you
+give the reasoning that leads to it.
   - Support your thesis with arguments.
   - Declare and reject the antithesis.
   - Conclusions.
@@ -22,7 +23,7 @@
 - Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601).
 - [Don’t try to _persuade_ people that the idea is true/good. Instead, try to accurately _describe_ where the idea came from, the path which led _you_ to think it’s true/plausible/worth a look. In the process, you’ll probably convey your own actual level of uncertainty, which is exactly the right thing to do.](https://www.lesswrong.com/posts/Psr9tnQFuEXiuqGcR/how-to-write-quickly-while-maintaining-epistemic-rigor)
 - Separate the processes of creation from improving. **You can't write and edit**. Write the first draft fast, then iterate on it editing things. Much of this editing will be cutting, and that makes simple writing even simpler.
-- Beware of "this". Scan your words for words like "this" or "that", and when in doubt about clarity, replace them with whatever their intended antecedents are.
+- [Beware of "this"](https://www.lesswrong.com/posts/5e49dHLDJoDpeXGnh/editing-advice-for-lesswrong-users). Scan your words for words like "this" or "that", and when in doubt about clarity, replace them with whatever their intended antecedents are.
 - You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
 - When writing tutorials or guides, use the second-person and describe actions to a user. These types of content talks to people when humans can't. [Technical documentation follows the same rules than normal writing](https://developers.google.com/tech-writing/one).
 	- [Make it fun](https://davnicwil.com/tips-for-making-writing-more-fun/)!
