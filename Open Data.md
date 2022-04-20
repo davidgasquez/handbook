@@ -7,7 +7,7 @@
 
 On the other hand, we've seen what [Open Data can do for us](https://twitter.com/patrickc/status/1256987283141492736). Used properly, data is a great tool to educate and [[Coordination | coordinate]] people. Data helps, well..., data-driven decision making! 
 
-**We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**. 
+**We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**.
 
 ## Goals
 - **Easy**. The tools should make creating, curating and sharing open datasets easy.
@@ -51,7 +51,10 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 	- Detect outliers automatically.
 	- Detect suspicions records like a categorical variable value that only appears one time while others values appear many times.
 	- Enrich data smartly (matcher + augmenter). If it detects a date, add the day of wee. If it detects latitude and longitude, adds country/city.
-	- 
+
+### Visualizations
+- Suggest basic charts (bars, lines, time series, clustering)
+- Smart drill downs
 
 ## Landscape
 
