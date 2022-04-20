@@ -47,6 +47,11 @@ On the other hand, we've seen what [Open Data can do for us](https://twitter.com
 	- Pyodite + DuckDB for transformations could cover a large area.
 - Defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium are doing these.
 - Can be run locally and remotely.
+- Open transformations could empower a bunch of use cases:
+	- Detect outliers automatically.
+	- Detect suspicions records like a categorical variable value that only appears one time while others values appear many times.
+	- Enrich data smartly (matcher + augmenter). If it detects a date, add the day of wee. If it detects latitude and longitude, adds country/city.
+	- 
 
 ## Landscape
 
