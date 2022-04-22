@@ -3,23 +3,25 @@
 > People should be able to collaborate on Open Data the same way we collaborate on Open Source code.
 
 ## Motivation
-[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As such, it is an area where individual [[incentives]] collide with collective ones. As an organization, [spending time curating and maintaining a dataset for other companies to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make omoney.
+[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As such, it is an area where individual [[incentives]] collide with collective ones. For example, as an organization, [spending time curating and maintaining datasets for other companies to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make money.
 
 On the other hand, we've seen what [Open Data can do for us](https://twitter.com/patrickc/status/1256987283141492736). Used properly, data is a great tool to educate and [[Coordination | coordinate]] people. Data helps, well..., data-driven decision making! 
 
 **We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**.
 
-## Goals
-- **Easy**. The tools should make creating, curating and sharing open datasets easy.
+Organizations have been doing BI for a while but that knowledge hasn't jumped to the Open Data movement.
+
+## Ecosystem Principles
+- **Easy**. Tools should make easy to create, curate and share datasets.
 - **Versioned and Modular**. The main abstractions (things like `dataset`, `relation`) could be updated, forked and discussed as code in version controlled repositories.
 	- E.g: fork `ourworldindata.usa_covid_cases`, improve it and publish it. People now can `select * from youruser.usa_covid_cases`.
 	- Modeling could be limited to SQL and done with something like `dbt` so everything comes down to RAW data and the SQL `dbt` code.
 		- This provided a declarative way of defining the datasets schema and other properties like _relations_ or _tests_.
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. [Software defined assets](https://dagster.io/blog/software-defined-assets).
-- **Permissionless**. Anyone should be able to add/update/fix datasets and relations between them. Think GitHub style collaboration. Upload CSV/Parquet or point to a remote one and start exploring!
+- **Permissionless**. Anyone should be able to add/update/fix datasets and relations between them. GitHub style collaboration. Upload CSV/Parquet or point to a remote one and start exploring!
 - **Aligned Incentives**. Curators should have incentives to improve the datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Curating the data provides compounding benefits for the entire community!
-	- Surfacing great datasets should be also rewarded.
+	- Surfacing and creating great datasets should be rewarded.
 - **Open Source**. Datasets could be stored in a decentralized way using something like IPFS and queried via tools like [DuckDB WASM Shell](https://shell.duckdb.org/).
 	- Integrates with open source ETL tools like Singer/Airbyte.
 
