@@ -13,4 +13,7 @@
 - [Paul Copplestone](https://paul.copplest.one/knowledge/)
 - [Hiran Venugopalan](https://hiran.in/notes)
 
-More at the [Meta Knowledge Github repository](https://github.com/RichardLitt/meta-knowledge) and the [Second Brain collection](https://github.com/KasperZutterman/Second-Brain).
+### Compilations
+- [Meta Knowledge GitHub repository](https://github.com/RichardLitt/meta-knowledge)
+- [Second Brain Collection](https://github.com/KasperZutterman/Second-Brain). 
+- [Best Of Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens)
