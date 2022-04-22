@@ -12,6 +12,7 @@
 - [Sergio Gasquez](https://sergiogasquez.notion.site/sergiogasquez/Sergio-Gasquez-Personal-Wiki-0d2f9be521094316aa12fcbbc5d20fab)
 - [Paul Copplestone](https://paul.copplest.one/knowledge/)
 - [Hiran Venugopalan](https://hiran.in/notes)
+- [Liz Code](https://lyz-code.github.io/blue-book/)
 
 ### Compilations
 - [Meta Knowledge GitHub repository](https://github.com/RichardLitt/meta-knowledge)
