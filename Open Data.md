@@ -26,7 +26,6 @@ Organizations have been doing BI for a while but that knowledge hasn't jumped to
 	- Integrates with open source ETL tools like Singer/Airbyte.
 
 ## Components
-
 ### Packaging
 - **Distribution**. Decentralized way. Could work in a closed network too!
 - **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
@@ -58,18 +57,17 @@ Organizations have been doing BI for a while but that knowledge hasn't jumped to
 - Suggest basic charts (bars, lines, time series, clustering)
 - Smart drill downs
 
-## Landscape
+## Current Landscape
+Fixing Open Data is something people have been working on for a while. These are some of the solutions I'm aware of, but I'm sure there are much more tools and approaches out there.
 
-Fixing Open Data is something people have been working on for a while. These are some of the solutions I'm aware of but I'm sure there are much more tools and approaches out there.
-
-- **Classical Open Data portals**. They usually provide static datasets with different degrees of curation, freshness, and, formats.[Google Dataset Search](https://datasetsearch.research.google.com/search?query=coronavirus%20covid-19&docid=L2cvMTFtX2pzNTN5OQ%3D%3D) surfaces a lot of them.  It works very well as a way of sharing single datasets but makes it very hard to curate and connect them openly given the lack of a standard.
-- **Decentralized datasets**. There are also [IPFS datasets](https://awesome.ipfs.io/datasets/). Similar to the classical approach, but decentralized on IPFS. [Datasets are being added continuously](https://youtu.be/-9rKtrwMkG0?t=638). One challenge of this approach is that discoverability of these assets is hard.
+- **Classical Open Data portals**. They usually provide static datasets with different degrees of curation, freshness, and, formats.[Google Dataset Search](https://datasetsearch.research.google.com) surfaces a lot of them.  This works well as a way of sharing single datasets but makes it very hard to curate and connect them openly given the lack of a standard.
+- **Decentralized Datasets**. There are also [IPFS datasets](https://awesome.ipfs.io/datasets/). Similar to the classical approach, but decentralized on IPFS. [Datasets are being added continuously](https://youtu.be/-9rKtrwMkG0?t=638). The main challenge of this approach is discoverability.
 	- [There is also `datadex` by Juan Benet](https://juan.benet.ai/blog/2014-03-11-discussion-scienceexchange/) (IPFS Creator). It shares some of the  [ideas](https://github.com/jbenet/data/blob/master/dev/designdoc.md) outlined in this document.
 	- [Qri](https://qri.io/). An evolution of the classical open portals that added [[decentralization]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
 	- [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
 	- [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
 	- [Trino](https://trino.io/) is a distributed query engine for data. It could work on top of IPFS if it supported it.
-- In web3, we have [Ocean Protocol](https://oceanprotocol.com/) and [The Graph](https://thegraph.com/). They've designed the incentive landscape and provided tools to share and discover data. For now, I think they only work for blockchain related datasets.
+- In the web3 space, [Ocean Protocol](https://oceanprotocol.com/) and [The Graph](https://thegraph.com/) have designed a great incentive landscape and provided tools to share and discover data. For now, I think they only work on blockchain related datasets.
 	- Some web3 organizations are [thinking about data](https://docs.indexcoop.com/our-products/data-economy-index-data), [[Incentives]] and [[Governance]].
 - There are also some interesting databases in the space ([DuckDB](https://duckdb.org/)) that focus on decentralizing the querying capabilities, using technologies like WASM.
 	- This makes possible an intermediary step in which you could read Parquet files from IPFS, model the data with `dbt` and write them back on IPFS.
@@ -82,7 +80,7 @@ Fixing Open Data is something people have been working on for a while. These are
 	- SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data to Our World In Data.
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
 
-### Similar Projects
+### Related Projects
 - [Kamu](https://www.kamu.dev/)
 - [Dolt](https://github.com/dolthub/dolt)
 - [Qri](https://qri.io/)
