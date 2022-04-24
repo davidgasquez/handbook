@@ -23,6 +23,7 @@ These are the areas I'm usually thinking about:
 - Gaming
 
 ## Data Explorer
+
 After playing with Rill Developed, DuckDB, Vega, WASM, and many more tools recently, I think we have all the pieces for an awesome web based BI-ish tool. These are the things I'd love to have:
 
 - Let me add local and remote datasets. Not just one as I'd like to join them later.
@@ -34,7 +35,8 @@ After playing with Rill Developed, DuckDB, Vega, WASM, and many more tools recen
 Could be an awesome front-end to explore [[Open Data]].
 
 ## Data Augmenter
-- An organization could focus on curating open datasets and offer a way for people to upload their datasets and get them augmented.
+
+- An organization could focus on curating [[Open Data]] and offer a way for people to upload their datasets and get them augmented.
 	- E.g: Upload a CSV with year and country and the tool could suggest GDP per capita or population.
 - Extract data from Wikipedia and other open datasets.
 
