@@ -26,8 +26,17 @@ These are the areas I'm usually thinking about:
 After playing with Rill Developed, DuckDB, Vega, WASM, and many more tools recently, I think we have all the pieces for an awesome web based BI-ish tool. These are the things I'd love to have:
 
 - Let me add local and remote datasets. Not just one as I'd like to join them later.
+- Let me plot it using Vega-Lite. Guide me through alternatives like [Vega's Voyager2](https://vega.github.io/voyager2/) does.
+- Let me transform them locally with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)).
+- Let me save the plots in a separate space and give me a shareable URL encoded link.
+	- Local datasets could be added to IPFS or use something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) to share them.
 
 Could be an awesome front-end to explore [[Open Data]].
+
+## Data Augmenter
+- An organization could focus on curating open datasets and offer a way for people to upload their datasets and get them augmented.
+	- E.g: Upload a CSV with year and country and the tool could suggest GDP per capita or population.
+- Extract data from Wikipedia and other open datasets.
 
 ## Awesome Game
 
