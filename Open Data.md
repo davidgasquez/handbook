@@ -54,8 +54,8 @@ Organizations have been doing BI for a while but that knowledge hasn't jumped to
 	- Enrich data smartly (matcher + augmenter). If it detects a date, add the day of wee. If it detects latitude and longitude, adds country/city.
 
 ### Visualizations
-- Suggest basic charts (bars, lines, time series, clustering)
-- Smart drill downs
+- Suggest basic charts (bars, lines, time series, clustering).
+- Smart drill downs.
 
 ## Current Landscape
 Fixing Open Data is something people have been working on for a while. These are some of the solutions I'm aware of, but I'm sure there are much more tools and approaches out there.

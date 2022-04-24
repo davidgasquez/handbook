@@ -22,9 +22,12 @@ These are the areas I'm usually thinking about:
 - Energy
 - Gaming
 
-## [[Open Data]]
+## Data Explorer
+After playing with Rill Developed, DuckDB, Vega, WASM, and many more tools recently, I think we have all the pieces for an awesome web based BI-ish tool. These are the things I'd love to have:
 
-Moved to a [[Open Data | new document]].
+- Let me add local and remote datasets. Not just one as I'd like to join them later.
+
+Could be an awesome front-end to explore [[Open Data]].
 
 ## Awesome Game
 
