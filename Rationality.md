@@ -24,6 +24,7 @@
 	- [Absolute truth is relative and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
 - Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete. Nuance is everywhere.
 	- Real people are complex and flawed, [full of faults and biases](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg). Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out.
+		- [Fundamental Attribution Error](http://www.aaronsw.com/weblog/nummi): we attribute people’s behavior to their personality, not their situation.
 	- Digitizing an analog view will result in some loss of information. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros. Mistrust simple comparisons.
 - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
 - Local Validity: Some argument steps are allowed steps and some argument steps aren't ([Non-Central Fallacy](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world)), independently of whether they arrive at an answer you agree with.
