@@ -7,6 +7,7 @@
 - [Diplomacy](https://play.google.com/store/apps/details?id=se.oort.diplicity). Also [Conspiracy](https://play.google.com/store/apps/details?id=com.badfrog.conspiracy.app), [Primacy](https://www.playprimacy.com/landing) and [Backstabbr](https://www.backstabbr.com/).
 - [The Schelling Game](https://www.lesswrong.com/posts/kM3Xd2mJeWtsGkgSW/the-schelling-game-a-k-a-the-coordination-game). Discern Schelling points among the group.
 - [Aumann Agreement Game](https://docs.google.com/document/d/1gCKURs0Xdnb8PQS54rckS4CJUp8kCklKs2KKi7xDZdA/edit#). Also possible to [play online](https://aumann.io/).
+	- [Calibration Questions](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population).
 - [Black Stories](https://detective-stories.com/).
 - [Stopots](https://stopots.com/es/). Choose a letter, think about things starting with it.
 - [Two Rooms and a Boom](https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom). [Print and Play version](https://drive.google.com/drive/folders/1_jbxtyH0V0xACK_crdIbf-QMFv0aw7pr).
