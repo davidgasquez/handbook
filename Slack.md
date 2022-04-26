@@ -10,6 +10,7 @@
 - Make sure that under normal conditions _you_ have Slack. Value it. Guard it. Spend it only when Worth It. If you lose it, fight to get it back.
 - [Slack creates _positive externalities_ for the group](https://www.lesswrong.com/posts/3qX2GipDuCq5jstMG/slack-has-positive-externalities-for-groups). In the other hand, is not properly valued by the group.
 - Any system that must pass information between multiple, tightly integrated subsystems, there is a well understood concept of maximum sustainable load. We know that number to be roughly 60% of maximum possible load for all systems.
+- [When solving a problem-you-don't-understand, slack gives you space for your shower thoughts to be in explore mode and go deeper instead of having to take action immediately](https://www.lesswrong.com/posts/fwSDKTZvraSdmwFsj/slack-gives-you-space-to-notice-reflect-on-subtle-things).
 
 ### Examples of Slack
 

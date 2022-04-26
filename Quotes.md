@@ -63,6 +63,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - You either move information from one place to another, or you move mass from one place to another. 
 - The fewer the facts, the stronger the opinion. Arnold H. Glasow.
 - If you think without writing, you only think you're thinking. Leslie Lamport. ^645051
+- It's _chapuzas_ all the way down. Me on my dreams. 
 
 ## External Lists
 
