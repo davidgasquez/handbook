@@ -71,6 +71,7 @@
 - Experiments usually have mistakes. When the experiment process improves around a topic, the evidence might decrease indicating it wasn't present in the beginning. To find truth, improve the way to measure it!
 - [Cognitive ease](https://youtu.be**/cebFWOlx848) makes us more likely to believe things that are familiar to us. Cognitive strain helps us avoid the pitfall of jumping to the intuitive but wrong answer. Both ways are useful in different situations, the key is to identify where to flow or fight against the cognitive ease.
 - Saying "that's a good point" doesn't lose the argument. It wins trust. Acknowledging a valid observation is a display of respect. It signals that you're [[Listening]] with an open mind, and motivates them to follow suit. You don't have to agree on everything to agree on something.
+- Every time you say "that's a good point", it gets easier for you to acknowledge good points in the future. Same happens when you say "I was wrong".
 
 ### Resources
 
