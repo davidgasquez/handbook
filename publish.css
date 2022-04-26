@@ -4,6 +4,7 @@ h1 {
 
 a {
   color: #BF616A;
+  text-decoration: none;
 }
 
 .markdown-rendered .internal-link {
@@ -11,9 +12,10 @@ a {
 }
 
 .theme-dark {
-  --background-primary: #2E3440;
-  --background-primary-alt: #3B4252;
-  --background-secondary: #161616;
+  --background-primary: #000000;
+  --background-primary-alt: #000000;
+  --background-secondary: #000000;
   --background-secondary-alt: #000000;
-  --background-modifier-border: #EBCB8B;
+  --background-modifier-border: #333;
+  --text-accent-hover: #D08770;
 }
