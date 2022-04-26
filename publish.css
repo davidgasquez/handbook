@@ -6,6 +6,14 @@ a {
   color: #BF616A;
 }
 
-.internal-link {
+.markdown-rendered .internal-link {
   text-decoration: none;
+}
+
+.theme-dark {
+  --background-primary: #2E3440;
+  --background-primary-alt: #3B4252;
+  --background-secondary: #161616;
+  --background-secondary-alt: #000000;
+  --background-modifier-border: #EBCB8B;
 }
