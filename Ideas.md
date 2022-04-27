@@ -111,4 +111,4 @@ Instead of building the tool, we can start with a standard protocol and let othe
 
 ## Web3 Recommendation Engine
 - Since Ethereum wallets are public, you can get good data on which tokens people similar to you are holding.
-- 
+- This might be useful to discover new assets.
