@@ -4,7 +4,7 @@
 
 [On most days you are busy just keeping your head above water. So it is not easy to figure out what to do with your life and how to spend your time.](https://youtu.be/JXeJANDKwDc)
 
-If you listen to successful people talk about their approaches, remember that all the people who used the same methods and failed [did not share anything about it](https://en.wikipedia.org/wiki/Survivorship_bias). Life advice tips don't work for everyone! Advice like these are not laws. They are like hats. If one doesn't fit, try another. The important part is to [try more things](https://www.lesswrong.com/posts/ZzCxs2AFThcTfFeKr/try-more-things)!
+If you listen to successful people talk about their approaches, remember that all the people who used the same methods and failed [did not share anything about it](https://en.wikipedia.org/wiki/Survivorship_bias). Life advice tips don't work for everyone! Advice like these are not laws. They are like hats. If one doesn't fit, try another. The important part is to [try more things](https://www.lesswrong.com/posts/ZzCxs2AFThcTfFeKr/try-more-things)! Most generic advice actually has multiple levels of nuance that can only be understood through experience.
 
 [Good advice has three main components](https://atis.substack.com/p/most-advice-is-pretty-bad):
 1. It is not obvious

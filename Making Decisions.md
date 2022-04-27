@@ -13,7 +13,7 @@ Decision making is the process we use to identify and choose alternatives, produ
   2. Irreversible and consequential. These are the ones that you really need to focus on. Irreversible decisions tend to have a long lag time from decision to feedback, and are often more consequential. They must be dealt by [becoming **more creative, having more slack, being more equanimous, and pruning more efficiently**.](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
   3. Reversible and inconsequential
   4. Reversible and consequential. Perfect decisions to run experiments and gather information. Reversible actions can be stopped if they turn out to be bad, and tend to work well with tight [[Feedback Loops]].
-- Realize that the possibility space is much bigger than you initially think. Take some distance and see the decision through different lenses.
+- Realize that the possibility space is much bigger than you initially think. Take some distance and see the decision through different lenses. The bottleneck to doing something is often knowing that it's even an option.
 - How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can't take back, then it's worth really, really understanding. **Aim for preserving optionality**.
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
 - Gather all the information you can. Then, schedule [[time]] to think deeply about it. Brain-dump your thoughts on the problem - what's going wrong, why is it inefficient? Try to understand it in as much detail as possible.
