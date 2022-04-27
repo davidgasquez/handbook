@@ -31,6 +31,7 @@ After playing with Rill Developed, DuckDB, Vega, WASM, and many more tools recen
 - Let me transform them locally with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)).
 - Let me save the plots in a separate space and give me a shareable URL encoded link.
 	- Local datasets could be added to IPFS or use something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) to share them.
+- It could also have "smart" data checks. Similar to [deepchecks](https://github.com/deepchecks/deepchecks) alerting for anomalies, outliers, noisy variables, ...
 
 Could be an awesome front-end to explore [[Open Data]].
 
