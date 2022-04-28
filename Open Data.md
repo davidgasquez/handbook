@@ -96,8 +96,15 @@ Fixing Open Data is something people have been working on for a while. These are
 - [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
 
 ## Open Datasets
+- [Wikipedia](https://dumps.wikimedia.org/).
+- [Github](https://www.gharchive.org/).
+- [HackerNews](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=hacker_news).
+- 
 
 ### Indexes
+- [BigQuery Public Data](https://cloud.google.com/bigquery/public-data)
+- [Data World](https://data.world/datasets/open-data)
+- [DoltHub](https://www.dolthub.com/discover)
 - https://datasetsearch.research.google.com/
 - https://registry.opendata.aws/
 - https://en.datamarket.es/
