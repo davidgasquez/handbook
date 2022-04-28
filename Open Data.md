@@ -39,7 +39,7 @@ Organizations have been doing BI for a while but that knowledge hasn't jumped to
 - Use smart protocol for storing the data so rows/columns are not duplicated and new ones can be built on top of others. 
 - Compare local hash with remote hash to know if anything needs to be updated
 - Inmutable(append only) source datasets?
-- Centralized (S3, GCS, ...) and Decentralized (IPFS, Hypercore, ...).
+- Centralized (S3, GCS, ...) and Decentralized (IPFS, Hypercore, Torrent, ...).
 - Support many types of data. Tables, Geospatial, Images, ...
 
 ### Transformations
@@ -122,3 +122,4 @@ Fixing Open Data is something people have been working on for a while. These are
 - [IPFS Datasets](https://awesome.ipfs.io/datasets/).
 - [Datasets Subreddit](https://www.reddit.com/r/datasets/). [Open Data Subreddit](https://www.reddit.com/r/opendata/).
 - [Datahub](https://datahub.io/awesome).
+- [Academic Torrents Datasets](https://academictorrents.com/browse.php).
