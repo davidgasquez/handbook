@@ -109,11 +109,13 @@ Fixing Open Data is something people have been working on for a while. These are
 ### Indexes
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [BigQuery Public Data](https://cloud.google.com/bigquery/public-data).
+- [Kaggle Datasets](https://www.kaggle.com/datasets).
 - [Data World](https://data.world/datasets/open-data).
 - [DoltHub](https://www.dolthub.com/discover).
 - [Nasdaq](https://data.nasdaq.com/search).
 - [Zenodo](https://zenodo.org/search?page=1&size=20&q=&file_type=csv&type=dataset&sort=mostviewed).
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets).
+- [Internet Archive Dataset Collection](https://archive.org/details/datasets).
 - [AWS Open Data Registry](https://registry.opendata.aws/).
 - [Datamarket](https://en.datamarket.es/).
 - [Open Data Stack Exchange](https://opendata.stackexchange.com/).
