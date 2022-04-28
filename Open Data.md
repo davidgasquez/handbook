@@ -94,3 +94,11 @@ Fixing Open Data is something people have been working on for a while. These are
 - [Fission](https://fission.codes/)
 - [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
 - [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
+
+## Open Datasets
+
+### Indexes
+- https://datasetsearch.research.google.com/
+- https://registry.opendata.aws/
+- https://en.datamarket.es/
+- https://opendata.stackexchange.com/

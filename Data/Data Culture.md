@@ -76,3 +76,6 @@
 	- What already happened? Descriptive statistics.
 	- What will happen? Predictive statistics.
 	- What would happen if…? Scenario analysis.
+- [Differentiate analytics from data platform work. They are two different jobs, and expecting one to do the work of the other is a trap](https://twitter.com/jamesdensmore/status/1518998298111225857). 
+	- Data Platform: data infra, pipelines, and a bit of data warehouse modeling 
+	- Analytics: Making sense of data to guide decisions
