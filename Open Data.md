@@ -18,7 +18,7 @@ Organizations have been doing BI for a while but that knowledge hasn't jumped to
 	- Modeling could be limited to SQL and done with something like `dbt` so everything comes down to RAW data and the SQL `dbt` code.
 		- This provided a declarative way of defining the datasets schema and other properties like _relations_ or _tests_.
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. [Software defined assets](https://dagster.io/blog/software-defined-assets).
-- **Permissionless**. Anyone should be able to add/update/fix datasets and relations between them. GitHub style collaboration. Upload CSV/Parquet or point to a remote one and start exploring!
+- **Permissionless**. Anyone should be able to add/update/fix datasets and relations between them. GitHub style collaboration. Upload CSV/Parquet or point to a remote one and start exploring! Downloading datasets shouldn't require any logins. 
 - **Aligned Incentives**. Curators should have incentives to improve the datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Curating the data provides compounding benefits for the entire community!
 	- Surfacing and creating great datasets should be rewarded.
