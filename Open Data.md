@@ -99,13 +99,17 @@ Fixing Open Data is something people have been working on for a while. These are
 - [Wikipedia](https://dumps.wikimedia.org/).
 - [Github](https://www.gharchive.org/).
 - [HackerNews](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=hacker_news).
-- 
+- [Reddit](https://pushshift.io/).
+- [Blockchain](https://github.com/blockchain-etl)
+- [Our World In Data](https://github.com/owid/owid-datasets).
 
 ### Indexes
-- [BigQuery Public Data](https://cloud.google.com/bigquery/public-data)
-- [Data World](https://data.world/datasets/open-data)
-- [DoltHub](https://www.dolthub.com/discover)
-- https://datasetsearch.research.google.com/
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [BigQuery Public Data](https://cloud.google.com/bigquery/public-data).
+- [Data World](https://data.world/datasets/open-data).
+- [DoltHub](https://www.dolthub.com/discover).
+- [Zenodo](https://zenodo.org/search?page=1&size=20&q=&file_type=csv&type=dataset&sort=mostviewed).
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - https://registry.opendata.aws/
 - https://en.datamarket.es/
 - https://opendata.stackexchange.com/
