@@ -121,3 +121,4 @@ Fixing Open Data is something people have been working on for a while. These are
 - [Open Data Stack Exchange](https://opendata.stackexchange.com/).
 - [IPFS Datasets](https://awesome.ipfs.io/datasets/).
 - [Datasets Subreddit](https://www.reddit.com/r/datasets/). [Open Data Subreddit](https://www.reddit.com/r/opendata/).
+- [Datahub](https://datahub.io/awesome).
