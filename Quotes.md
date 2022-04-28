@@ -64,6 +64,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - The fewer the facts, the stronger the opinion. Arnold H. Glasow.
 - If you think without writing, you only think you're thinking. Leslie Lamport. ^645051
 - It's _chapuzas_ all the way down. Me on my dreams. 
+- [You will observe with concern how long a useful truth may be known, and exist, before it is generally received and practiced on](https://www.youtube.com/watch?v=IV3dnLzthDA). Benjamin Franklin.
 
 ## External Lists
 
