@@ -47,7 +47,7 @@
 	- Use the questions people are asking to find data _hotspots_ and focus our energy on those. That means some corners of your data will be messy, and some concepts will go undocumented. Data is perennially broken and messy. **Embrace the mess**.
 	- Get excited when people ask questions. Embrace confusion and curiosity. Offer help. Be friendly.
 	- [Reality is complex and multidimensional and often difficult to comprehend](https://mobile.twitter.com/rahulj51/status/1485429967131639808).
-	- Document data when it’s generated. Make it part of the process of adding a new event, table, or a replication job, when the change is already top of mind. If possible, embed it in the development process, and pester people when they don’t include the necessary updates. This shifts the burden of documentation upstream, making it part of the development cycle.
+	- [Document data when it’s generated](https://davidsj.substack.com/p/the-data-chasm). Make it part of the process of adding a new event, table, or a replication job, when the change is already top of mind. If possible, embed it in the development process, and pester people when they don’t include the necessary updates. This shifts the burden of documentation upstream, making it part of the development cycle.
 - To align stakeholders incentives with the data team, stakeholders should show their impact through data. This forces stakeholders to [[Product Analytics | plan tracking]] and think about metrics.
 - [To achieve distribution, build for who your stakeholder truly is, not for the stakeholder you want them to be](https://ian-macomber.medium.com/launching-and-scaling-data-science-teams-three-years-later-f1fa6f25b4ae).
 - You should have something that answers the following questions:
