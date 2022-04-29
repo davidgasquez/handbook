@@ -123,3 +123,4 @@ Fixing Open Data is something people have been working on for a while. These are
 - [Datasets Subreddit](https://www.reddit.com/r/datasets/). [Open Data Subreddit](https://www.reddit.com/r/opendata/).
 - [Datahub](https://datahub.io/awesome).
 - [Academic Torrents Datasets](https://academictorrents.com/browse.php).
+- [Victoriano's Data Sources](https://victorianoi.notion.site/Data-Sources-79b28912c6d941af99e6ef102c578fa0).
