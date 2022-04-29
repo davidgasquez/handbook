@@ -37,6 +37,7 @@ Organizations have been doing BI for a while but that knowledge hasn't jumped to
 
 ### Storage
 - Use smart protocol for storing the data so rows/columns are not duplicated and new ones can be built on top of others. 
+	- What is the best way to partition Datasets on IPFS?
 - Compare local hash with remote hash to know if anything needs to be updated
 - Inmutable(append only) source datasets?
 - Centralized (S3, GCS, ...) and Decentralized (IPFS, Hypercore, Torrent, ...).

@@ -12,3 +12,5 @@ Some questions which I'm intrigued about and haven't researched enough to add th
 - How can [Genetic Engineering](https://www.youtube.com/watch?v=jAhjPd4uNFY) do good and [how can it go badly](https://www.youtube.com/watch?v=n__42UNIhvU). 
 	- What happens when we start [[DNA Genetic Testing and Analysis | tinkering with our genes after improving our health]]?
 - What would improve current public discussion platforms?
+-  [[Open Data | How can we improve the Open Data Ecosystem]]?
+	- Can Impact DAOs be formed around collecting and using data for good?
