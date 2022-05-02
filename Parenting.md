@@ -12,6 +12,8 @@
 	- [If one parent starts to _parent_ and starts solving a situation, the other parent _should_ shut up and not intervene at all.](https://www.lesswrong.com/posts/BfP42fcnuMovbu5fe/grandpa-has-different-rules) The parent who started handling a situation also finishes. If the other parent disagrees on how this situation is handled, they still shut up and we sit down later without the kids, talk about it and try to harmonize our approaches.
 	- [Only saying things you're comfortable fully standing behind.](https://www.jefftk.com/p/how-to-parent-more-predictably)
 - The parenting advice world is full of people who found something that worked for them and who then made the unwarranted conclusion that it is universal truth.
+- When tantrums occur, interrupt the flow of the moment. E.g: stop the car somewhere and say "[Do what you want but I'll restart the car once you are calm](https://news.ycombinator.com/item?id=31204423)".
+-  Clearly communicated consequences ahead of time works much better than punishment.
 
 ## Resources
 - [LessWrong Topic](https://www.lesswrong.com/tag/parenting)
