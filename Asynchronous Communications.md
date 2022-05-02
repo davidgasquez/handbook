@@ -13,6 +13,7 @@
 	2. A deadline. When do you need a response by? How urgent is it? Which task is being blocked right now?
 	3. Links, images, and as much supporting material as possible that will help illustrate your thoughts.
 	4. A concrete need. What do you want to get out of the communication? Approval on a task? An asset of some kind? Be clear.
+- Beware of the (cultural) Power Distance Index. The lower the PDI, the more direct communications are preferred; the higher, the more diplomatic the communications are preferred.
 
 ## Resources
 
