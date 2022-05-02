@@ -12,6 +12,7 @@ If you listen to successful people talk about their approaches, remember that al
 3. It is based on some true insight
 
 ### Generic Advice
+
 - Experiment and iterate.
 - Keep it simple.
 - Build great memories.
