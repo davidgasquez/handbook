@@ -2,6 +2,7 @@
 
 - [Invest large amounts of time in teaching and advice. Let them solve their own problems, and let them practice figuring out when to bring in help.](https://www.lesswrong.com/posts/FKB7iEergZaC7PvQf/growing-independence)
 - Every interaction is a repeated game. **Try never to lie or bluff**.
+- Treat children with respect. They are very smart, they just lack experience. If they "misbehave", talk to them and explain why this is not good. If you can't find an explanation, chances are you are wrong and you should reevaluate your position.
 - [Answer questions with **as much detail as they want**](https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules).
 - You're already doing reinforcement training.
 	- We already reinforce behavior all the time, including bad behavior, often without meaning to. So you might as well notice what you’re doing.

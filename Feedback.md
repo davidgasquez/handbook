@@ -28,6 +28,7 @@ All feedback is good feedback. If you agree with it, it tells you something abou
 - Prepare. What do you value in someone? Where do you think are their biggest opportunities to improve?
 - **Keep the feedback actionable, specific, and kind.**
 - Imagine what things feel like from the other perspective.
+- Criticize in private, praise in public.
 - How to compose a successful critical commentary (_from_ [_Daniel Dennett_](https://en.wikipedia.org/wiki/Daniel_Dennett)):
   - You should attempt to re-express your target's position so clearly, vividly, and fairly that your target says, _"Thanks, I wish I'd thought of putting it that way"_.
   - You should list any points of agreement (if they are not matters of general or widespread agreement).
