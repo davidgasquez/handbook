@@ -36,4 +36,6 @@ If you listen to successful people talk about their approaches, remember that al
 
 Heya team!
 
-Thanks for all the advice and support @mike. Would love to share more about my next steps and
+Thanks for all the advice and support @mike. Would love to share some gratitude to everyone at Buffer and more context about my next steps.
+
+Like many of you feel, Buffer has also been the best pace I've ever worked. Not only did I get to work on great challenges to learn from, but I also got to work with a team of amazing people. I'm so grateful for the opportunity to have worked with some of you during these years. Specially grateful for all the things I've learned from @julian. I'm going to miss
