@@ -38,6 +38,10 @@ Heya team!
 
 Thanks for all the advice and support @mike. Would love to share some gratitude to everyone at Buffer and more context about my next steps.
 
-Like many of you feel, Buffer has also been the best pace I've ever worked. Not only did I get to work on great challenges to learn from, but I also got to work with a team of amazing people. I'm grateful for the opportunity to have worked with you during these years. It's been fun and I'm proud of what we built (data, software, and culture). Buffer has been my work home for almost a decade and I’ve learned a tremendous amount over the years
+Like many of you feel, Buffer has also been the best pace I've ever worked. Not only did I get to work on great challenges to learn from, but I also got to work with a team of amazing people. I'm grateful for the opportunity to have worked with you during these years. It's been fun and I'm proud of what we built (data, software, and culture).
 
-As for my next steps,
+If you want to reach out, you can find me via email (davidgasquez@gmail.com), Phone/Whatsapp (+034 685 627 427), or Twitter (@davidgasquez).
+
+As for my next steps, I'll be joining [Protocol Labs](https://protocol.ai/about/) to help build open source tools that make working with data easier. I'm excited and scared of it, but it's a great opportunity to learn and grow that I couldn't let it go.
+
+If you ever find yourself around Granada, Spain, reach out as I'd love to see you!
