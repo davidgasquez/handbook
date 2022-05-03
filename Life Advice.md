@@ -44,4 +44,4 @@ If you want to reach out, you can find me via email (davidgasquez@gmail.com), Ph
 
 As for my next steps, I'll be joining [Protocol Labs](https://protocol.ai/about/) to help build open source tools that make working with data easier. I'm excited and scared of it, but it's a great opportunity to learn and grow that I couldn't let it go.
 
-If you ever find yourself around Granada, Spain, reach out as I'd love to see you!
+If you ever find yourself around Granada (Spain), reach out as I'd love to see you!
