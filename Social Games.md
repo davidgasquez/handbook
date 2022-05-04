@@ -27,7 +27,6 @@
 ### RPGs
 - [Laser and Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf)
 - [Honey Heist](https://gshowitt.itch.io/honey-heist)
-- 
 
 ### Online Platforms
 
