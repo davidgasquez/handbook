@@ -65,6 +65,7 @@
 	- Reduce blockers. Every [small inconvenience](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences) slows much more than it might seem.
 	- Deploy often. Don't wait for perfection. Ship and iterate. Fix time and change the scope.
 	- When everything is important then nothing is important.
+- Constantly prioritize. Communicating with the team to make sure everyone understands the what and the why of the priorities, especially in times of change, and is aligned with clarity to move forward.
 - Assign as few possible to a project. Should have an owner and a stakeholder.
 - Optimizing for short term speed is dangerous if you don't allow some slack to pick up things that will make you faster in the long run.
 	- If you want to optimize for speed, you need an experimentation platform to track the impact of changes. Teams need to learn how to [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
