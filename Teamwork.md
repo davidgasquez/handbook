@@ -97,7 +97,9 @@
 - The team has the final call in which of its features get into production, with no need for external QA/control.
 
 ## Getting Started
-- 
+- In your first two weeks, your focus should be on understanding the business, getting to know your peers, validating expectations, and getting yourself organized so that you're able to apply what you'll learn in future weeks.
+- There's a real danger in thinking that what made you successful in the past will make you successful now.
+- The team you'll be working on will probably have some kind of [normalized deviance](https://danluu.com/wat/). Try to [understand why everything is as it is](https://fs.blog/chestertons-fence/) before doing any recommendations. 
 
 ## Links
 
