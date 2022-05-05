@@ -70,7 +70,8 @@ Unique assets whose value is independent from one another. For example, an NFT m
 	- [Search](https://slate.host/).
 	- [Imgur](https://www.pinata.cloud/).
 	- [Netlify](https://fleek.co/).
-	- [Firebase](https://textile.io)
+	- [Firebase](https://textile.io).
+	- [Dropbox](https://www.sliksafe.com/). [Another](https://files.chainsafe.io/).
 
 ## Links
 - [Kernel](https://kernel.community/). An 8 week program covering crypto and web3.
@@ -96,9 +97,9 @@ Unique assets whose value is independent from one another. For example, an NFT m
 - [Open Bounty](https://openbounty.status.im/) - Bounty-based collaboration tool that plugs right into GitHub.
 - [Gitcoin](https://gitcoin.co/) - The easiest way to leverage the open source community to incentivize or monetize work.
 - [Inmunefy](https://immunefi.com/) - Web3's leading bug bounty platform, protecting $100 billion in user funds.
-- [DAOexchangethe](https://daoexchange.app/). Cross-DAO bounty board.
+- [DAOexchange](https://daoexchange.app/). Cross-DAO bounty board.
 
-#### Analytics Bounties
+#### Analytic Bounties
 
 - [Dune](https://twitter.com/dune_bounties).
 - [Flipside](https://flipsidecrypto.xyz/).
