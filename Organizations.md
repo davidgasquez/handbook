@@ -41,7 +41,7 @@
 			3. Add minimally viable measurement.
 			4. Identify leverage points.
 			5. Explore options.
-			6. Run experiments. Update your view of things based on what you just learned, then you’ve sort of missed the point.
+			6. Run experiments. Update your view of things based on what you just learned, then you have sort of missed the point.
 			7. To get better at data-informed product you have to keep going around the loop. It takes practice (and psychological safety and support).
 - People within an organization commonly or typically give disproportionate weight to trivial issues (Law of triviality).
 - Train employees well enough they could get another job, but treat them well enough so they never want to.
