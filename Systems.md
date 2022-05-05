@@ -6,7 +6,7 @@ A system is anything with multiple parts that depend on each other. In other wor
 - [[Modularity]].
 - Responsiveness.
 	- Know what the system is doing and make the [[Feedback Loops]] fast.
-- [[Decentralization | Decentralized]].
+- [[Decentralized Protocols | Decentralized]].
 - Permissionless.
 
 ## Changing Systems
