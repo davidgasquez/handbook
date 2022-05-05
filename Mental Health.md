@@ -7,7 +7,7 @@
 - Maintain strong social ties. Social [[Relationships]] boost happiness. Sharing amazing experiences with those closest to you is as good as it gets.
 - Be around nature. Have some houseplants as they improve mood.
 - If you have trouble reading internal signals, try [debugging yourself](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html).
-
+	- Retrace your path to actions: Examine your behavior and identify the feeling. Ask yourself what story are you telling yourself that causes those emotions. Then, examine the facts and adjust the story to impact your emotions.
 
 ## Aversion
 
