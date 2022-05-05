@@ -99,17 +99,18 @@
 ## Getting Started
 - In your first two weeks, your focus should be on understanding the business, getting to know your peers, validating expectations, and getting yourself organized so that you're able to apply what you'll learn in future weeks.
 - There's a real danger in thinking that what made you successful in the past will make you successful now.
-- The team you'll be working on will probably have some kind of [normalized deviance](https://danluu.com/wat/). Try to [understand why everything is as it is](https://fs.blog/chestertons-fence/) before doing any recommendations. 
+- The team you'll be working on will probably have some kind of [normalized deviance](https://danluu.com/wat/). Try to [understand why everything is as it is](https://fs.blog/chestertons-fence/) before doing any recommendations. Don't come in with "the answers".
+- Build great relationships so you can be supported in decisions to get some early wins.
 
 ## Links
 
 - [Ways of Working](https://github.com/joelparkerhenderson/ways-of-working) - Guidelines that improve teamwork and communication.
 - Team Management.
-  - [IPFS](https://github.com/ipfs/team-mgmt).
-  - [Kubernetes Governanve](https://github.com/kubernetes/community/blob/master/governance.md).
-  - [Linear Method](https://linear.app/method/introduction).
+	- [IPFS](https://github.com/ipfs/team-mgmt).
+	- [Kubernetes Governanve](https://github.com/kubernetes/community/blob/master/governance.md).
+	- [Linear Method](https://linear.app/method/introduction).
 - Guides to Communications:
-  - [Gitlab Communications](https://about.gitlab.com/handbook/communication/).
-  - [Basecamp Communications](https://basecamp.com/guides/how-we-communicate).
+	- [Gitlab Communications](https://about.gitlab.com/handbook/communication/).
+	- [Basecamp Communications](https://basecamp.com/guides/how-we-communicate).
 - [Engineering Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/).
 - [Know Your Team](https://knowyourteam.com/blog/). Thoughts on how to become a better leader, and avoid being a bad boss.
