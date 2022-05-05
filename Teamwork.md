@@ -96,6 +96,9 @@
 - Each team runs its own processes. This must be done transparently.
 - The team has the final call in which of its features get into production, with no need for external QA/control.
 
+## Getting Started
+- 
+
 ## Links
 
 - [Ways of Working](https://github.com/joelparkerhenderson/ways-of-working) - Guidelines that improve teamwork and communication.
