@@ -25,17 +25,17 @@
 	7. Repeat steps 3-6 a bunch.
 - People learn when they're surprised.
 - There are two modes of thinking:
-  - Focused: When you're actively trying to learn something. One task at a time.
-  - Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks (playing, sleeping, doing exercise, ...).
+	- Focused: When you're actively trying to learn something. One task at a time.
+	- Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks (playing, sleeping, doing exercise, ...).
 - Reading is a meta-skill. Learn to read and understand so you can trade time reading for some skills.
 - Experience ideas directly. Use the [ADEPT](https://betterexplained.com/articles/adept-method/) method as a checklist for what helps a concept click:
-  - Have an Analogy about it.
-  - Visualize it in a Diagram.
-  - Gather Examples. Examples are an amazing way to learn things!
-	  - Examples are an excellent way to resolve lossy information transfer - they’re a completely different channel of communication than normal. If nothing else, they serve as an error check.
-	  - Examples are a great way to transfer tacit knowledge, without necessarily making it legible - this is what it means to build intuition.
-  - Come with a Plain-English description of the concept.
-  - Then, dive into the Technical side.
+	- Have an Analogy about it.
+	- Visualize it in a Diagram.
+	- Gather Examples. Examples are an amazing way to learn things!
+		- Examples are an excellent way to resolve lossy information transfer - they’re a completely different channel of communication than normal. If nothing else, they serve as an error check.
+		- Examples are a great way to transfer tacit knowledge, without necessarily making it legible - this is what it means to build intuition.
+	- Come with a Plain-English description of the concept.
+	- Then, dive into the Technical side.
 - When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [[Mental Models | mental model]].
 - Learning to program shapes the mind the same way learning a new language does. Each new word, concept or expression helps you model the world.
 - Use [[Spaced Repetition]] and get some [[Sleep]].
@@ -44,6 +44,7 @@
 - One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad [[Habits]] right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.
 - Most knowledge worth having comes from **practice**. It comes from **doing**. [It comes from **creating**](https://blog.tjcx.me/p/consume-less-create-more).
 - Knowledge is built up through layers. You need more basic knowledge before you can access more advanced knowledge. You can’t learn things that are too far removed from your knowledge tree.
+- Lasting and solid foundations are made by experiencing.
 - For some subjects, [there's no speed limit](https://sive.rs/kimo). If you're more driven than most people, you can do way more than anyone expects.
 - A great way to spot what is probably true in any field is to find multiple people with different worldviews on a topic and see which parts do they agree upon.
 - [Practice, practice, practice](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy). Spend [[time]] in the field, practicing the relevant skills first-hand; see both what works and what makes sense. Collect data; run trials. See what other people suggest and test those things yourself. Directly study which things actually produce good results.
