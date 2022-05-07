@@ -24,7 +24,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 
 ## Components
 ### Packaging
-- **Distribution**. Decentralized way. Could work in a closed network too! Permissions management would be also decentralized.
+- **Distribution**. Decentralized way. No central authority. Could work in a closed network too! Permissions management would be also decentralized.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. Datasets could be linked to a `Datafile` with description, default visualizations, WASM linked code...
 - **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations.
 - **Social**. Stars, users, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
@@ -33,45 +33,29 @@ Iterative improvements over public datasets could yield large amounts of value. 
 ### Storage
 - **Permanence**. Each version should be accessible and permanent.
 - **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
-- Use smart protocol for storing the data so rows/columns are not duplicated and new ones can be built on top of others. 
-	- What is the best way to partition Datasets on IPFS?
-- Compare local hash with remote hash to know if anything needs to be updated
-- Inmutable(append only) source datasets?
-- Centralized (S3, GCS, ...) and Decentralized (IPFS, Hypercore, Torrent, ...).
-- Support many types of data. Tables, Geospatial, Images, ...
+- **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change. 
+	- Tabular data could be partitioned to make it easier for future retrieval. 
+- **Inmutability*.* Data should be append only. 
+- **Flexible**. Allow centralized (S3, GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
+	- Support many types of data. Tables, Geospatial, Images, ...
 
 ### Transformations
-- Packaged Lambda transformations (WASM/Docker). 
+- **Deterministic**. Packaged Lambda transformations (WASM/Docker). 
 	- For tabular data, starting with just SQL might be great. 
 	- Pyodite + DuckDB for transformations could cover a large area.
-- Defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium are doing these.
-- Can be run locally and remotely.
-- Open transformations could empower a bunch of use cases:
+- **Declarative** Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
+- **Environment agnostic**. Can be run locally and remotely. One machine or a cluster.
+- **Templated**. Having a repository of open transformations could empower a bunch of use cases ready to plug in to datasets:
 	- Detect outliers automatically.
 	- Detect suspicions records like a categorical variable value that only appears one time while others values appear many times.
 	- Enrich data smartly (matcher + augmenter). If it detects a date, add the day of wee. If it detects latitude and longitude, adds country/city.
 
 ### Visualizations
-- Suggest basic charts (bars, lines, time series, clustering).
-- Smart drill downs.
-
-## Current Landscape
-Fixing Open Data is something people have been working on for a while. These are some of the solutions I'm aware of, but I'm sure there are much more tools and approaches out there.
-
-- **Classical Open Data portals**. They usually provide static datasets with different degrees of curation, freshness, and, formats.[Google Dataset Search](https://datasetsearch.research.google.com) surfaces a lot of them.  This works well as a way of sharing single datasets but makes it very hard to curate and connect them openly given the lack of a standard.
-- **Decentralized Datasets**. There are also [IPFS datasets](https://awesome.ipfs.io/datasets/). Similar to the classical approach, but decentralized on IPFS. [Datasets are being added continuously](https://youtu.be/-9rKtrwMkG0?t=638). The main challenge of this approach is discoverability.
-	- [There is also `datadex` by Juan Benet](https://juan.benet.ai/blog/2014-03-11-discussion-scienceexchange/) (IPFS Creator). It shares some of the  [ideas](https://github.com/jbenet/data/blob/master/dev/designdoc.md) outlined in this document.
-	- [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
-	- [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
-	- [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
-	- [Trino](https://trino.io/) is a distributed query engine for data. It could work on top of IPFS if it supported it.
-- In the web3 space, [Ocean Protocol](https://oceanprotocol.com/) and [The Graph](https://thegraph.com/) have designed a great incentive landscape and provided tools to share and discover data. For now, I think they only work on blockchain related datasets.
-	- Some web3 organizations are [thinking about data](https://docs.indexcoop.com/our-products/data-economy-index-data), [[Incentives]] and [[Governance]].
-- There are also some interesting databases in the space ([DuckDB](https://duckdb.org/)) that focus on decentralizing the querying capabilities, using technologies like WASM.
-	- This makes possible an intermediary step in which you could read Parquet files from IPFS, model the data with `dbt` and write them back on IPFS.
+- **Defaults** Suggest basic charts (bars, lines, time series, clustering).
+- **Exploratory** Allow drill downs and customization.
 
 ## Extra Thoughts
-- There are already open source projects like [Airbyte](https://airbyte.com/) that could be used to build open data connectors. It would make possible replicating something from a random source (like the Ethereum blockchain) to a destination (like IPFS).
+- There are already open source projects like [Airbyte](https://airbyte.com/) that could be used to build open data connectors. It would make possible replicating something from `$RANDOM_SOURCE` (like the Ethereum blockchain) to any destination (like IPFS).
 - With a common standard for the metadata, datasets could be indexed with a computation framework on top of IPFS.
 - Querying could also be archived with such computation framework. There are also some databases ([Ceramic](https://ceramic.network/), [Crust](https://www.crust.network/), [Textile Threads](https://github.com/textileio/go-threads)) that work on IPFS but they don't support this use case.
 - [Making a SQL interface](https://twitter.com/josephjacks_/status/1492931290416365568) to query and mix these datasets could be a great step forward since it'll enable tooling like `dbt` to be used on top of it. **Data-as-code**.
@@ -79,18 +63,21 @@ Fixing Open Data is something people have been working on for a while. These are
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
 
 ### Related Projects
-- [Kamu](https://www.kamu.dev/)
-- [Dolt](https://github.com/dolthub/dolt)
-- [Qri](https://qri.io/)
-- [Holium](https://docs.holium.org/)
-- [dbhub](https://dbhub.io/)
-- [Quilt](https://github.com/quiltdata/quilt)
+- [Kamu](https://www.kamu.dev/).
+- [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
+- [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
+- [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
+- [dbhub](https://dbhub.io/).
+- [Quilt](https://github.com/quiltdata/quilt).
 - [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/).
-- [DVC](https://github.com/iterative/dvc)
-- [Minerva](https://github.com/bdchain/Minerva)
-- [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data)
-- [Akash](https://akash.network/)
-- [Fission](https://fission.codes/)
+- [DVC](https://github.com/iterative/dvc).
+- [Minerva](https://github.com/bdchain/Minerva).
+- [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data).
+- [The Graph](https://thegraph.com/).
+- [Akash](https://akash.network/).
+- [Fission](https://fission.codes/).
+- [Trino](https://trino.io/) is a distributed query engine for data. It could work on top of IPFS if it supported it.
+- [DuckDB](https://duckdb.org/) WASM client could be used with IPFS as the storage layer for a [decentralized and open data warehouse](https://github.com/davidgasquez/datadex).
 - [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
 - [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
 - [Algovera](https://www.algovera.ai/).
