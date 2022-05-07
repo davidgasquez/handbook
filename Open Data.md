@@ -3,39 +3,36 @@
 > People should be able to collaborate on Open Data the same way we collaborate on Open Source code.
 
 ## Motivation
-[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As such, it is an area where individual [[incentives]] collide with collective ones. For example, as an organization, [spending time curating and maintaining datasets for other companies to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make money.
+[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, is an area where individual [[incentives]] are not aligned with collective ones. As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make money. Data end up siloed in multiples places and formats. Making interoperability a dream. 
 
-On the other hand, we've seen what [Open Data can do for us](https://twitter.com/patrickc/status/1256987283141492736). Used properly, data is a great tool to educate and [[Coordination | coordinate]] people. Data helps, well..., data-driven decision making! 
+[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is the best way to learn about the world and [[Coordination | coordinate]] people.
 
 **We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**.
 
-Organizations have been doing BI for a while but that knowledge hasn't jumped to the Open Data movement.
+Iterative improvements over public datasets could yield large amounts of value. Open Source code has made a huge impact in the world. Open Data could do the same!
 
 ## Ecosystem Principles
-- **Easy**. Tools should make easy to create, curate and share datasets.
-- **Versioned and Modular**. The main abstractions (things like `dataset`, `relation`) could be updated, forked and discussed as code in version controlled repositories.
-	- E.g: fork `ourworldindata.usa_covid_cases`, improve it and publish it. People now can `select * from youruser.usa_covid_cases`.
-	- Modeling could be limited to SQL and done with something like `dbt` so everything comes down to RAW data and the SQL `dbt` code.
-		- This provided a declarative way of defining the datasets schema and other properties like _relations_ or _tests_.
-- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. [Software defined assets](https://dagster.io/blog/software-defined-assets).
-- **Permissionless**. Anyone should be able to add/update/fix datasets and relations between them. GitHub style collaboration. Upload CSV/Parquet or point to a remote one and start exploring! Downloading datasets shouldn't require any logins. 
-- **Aligned Incentives**. Curators should have incentives to improve the datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
+- **Easy**. For people to use it, it should be easy to create, curate and share datasets.
+- **Versioned and Modular**. Data and metadata (e.g: `relation`) should be updated, forked and discussed as code in version controlled repositories.
+		- This provided a declarative way of defining the datasets schema and other meta properties like _relations_ or _tests_.
+- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. As datasets are declarative, they are [software defined assets](https://dagster.io/blog/software-defined-assets).
+- **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration. 
+- **Aligned Incentives**. Curators should have incentives to improve datasets and metadata. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Curating the data provides compounding benefits for the entire community!
 	- Surfacing and creating great datasets should be rewarded.
-- **Open Source**. Datasets could be stored in a decentralized way using something like IPFS and queried via tools like [DuckDB WASM Shell](https://shell.duckdb.org/).
-	- Integrates with open source ETL tools like Singer/Airbyte.
+- **Open Source and Decentralized**. Datasets should be stored in a decentralized way using something like IPFS.  This allow the data to be used on tool like [DuckDB WASM Shell](https://shell.duckdb.org/).
 
 ## Components
 ### Packaging
-- **Distribution**. Decentralized way. Could work in a closed network too!
-- **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
-- **Permanence**. Each version should be accessible and permanent.
-- **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. Datasets could be linked to a `Datafile` with description, visualizations, ...
-- **Formatting**. Allow people to access the data in their preferred format (CSV, Parquet, ...)
+- **Distribution**. Decentralized way. Could work in a closed network too! Permissions management would be also decentralized.
+- **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. Datasets could be linked to a `Datafile` with description, default visualizations, WASM linked code...
+- **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations.
 - **Social**. Stars, users, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
 	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
 
 ### Storage
+- **Permanence**. Each version should be accessible and permanent.
+- **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
 - Use smart protocol for storing the data so rows/columns are not duplicated and new ones can be built on top of others. 
 	- What is the best way to partition Datasets on IPFS?
 - Compare local hash with remote hash to know if anything needs to be updated
@@ -88,7 +85,7 @@ Fixing Open Data is something people have been working on for a while. These are
 - [Holium](https://docs.holium.org/)
 - [dbhub](https://dbhub.io/)
 - [Quilt](https://github.com/quiltdata/quilt)
-- [Datalad](https://www.datalad.org/)
+- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/).
 - [DVC](https://github.com/iterative/dvc)
 - [Minerva](https://github.com/bdchain/Minerva)
 - [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data)
@@ -96,6 +93,8 @@ Fixing Open Data is something people have been working on for a while. These are
 - [Fission](https://fission.codes/)
 - [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
 - [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
+- [Algovera](https://www.algovera.ai/).
+- [Spice.ai](https://spiceai.io/).
 
 ## Open Datasets
 - [Wikipedia](https://dumps.wikimedia.org/).
