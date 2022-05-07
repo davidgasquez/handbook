@@ -13,33 +13,12 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 
 These are the areas I'm usually thinking about:
 
-- Data
+- [[Open Data]]
 - [[Governance]]
-- Open Source
-- Online Communities
+- [[Programming]]
+- [[Web3]]
 - [[Learning]]
 - Science (biology, astrophysics, ...)
-- Energy
-- Gaming
-
-## Data Explorer
-
-After playing with Rill Developed, DuckDB, Vega, WASM, and many more tools recently, I think we have all the pieces for an awesome web based BI-ish tool. These are the things I'd love to have:
-
-- Let me add local and remote datasets. Not just one as I'd like to join them later.
-- Let me plot it using Vega-Lite. Guide me through alternatives like [Vega's Voyager2](https://vega.github.io/voyager2/) does.
-- Let me transform them locally with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)).
-- Let me save the plots in a separate space and give me a shareable URL encoded link.
-	- Local datasets could be added to IPFS or use something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) to share them.
-- It could also have "smart" data checks. Similar to [deepchecks](https://github.com/deepchecks/deepchecks) alerting for anomalies, outliers, noisy variables, ...
-
-Could be an awesome front-end to explore [[Open Data]].
-
-## Data Augmenter
-
-- An organization could focus on curating [[Open Data]] and offer a way for people to upload their datasets and get them augmented.
-	- E.g: Upload a CSV with year and country and the tool could suggest GDP per capita or population.
-- Extract data from Wikipedia and other open datasets.
 
 ## Awesome Game
 

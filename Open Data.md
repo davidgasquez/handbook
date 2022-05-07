@@ -112,3 +112,23 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [Datahub](https://datahub.io/awesome).
 - [Academic Torrents Datasets](https://academictorrents.com/browse.php).
 - [Victoriano's Data Sources](https://victorianoi.notion.site/Data-Sources-79b28912c6d941af99e6ef102c578fa0).
+
+
+## Open Source Web Data IDE
+
+After playing with Rill Developed, DuckDB, Vega, WASM, and many more tools recently, I think we have all the pieces for an awesome web based BI-ish tool. These are the things I'd love to have:
+
+- Let me add local and remote datasets. Not just one as I'd like to join them later.
+- Let me plot it using Vega-Lite. Guide me through alternatives like [Vega's Voyager2](https://vega.github.io/voyager2/) does.
+- Let me transform them with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)).
+- Let me save the plots in a separate space and give me a shareable URL encoded link.
+	- Local datasets could be added to IPFS or use something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) to share them.
+- It could also have "smart" data checks. Similar to [deepchecks](https://github.com/deepchecks/deepchecks) alerting for anomalies, outliers, noisy variables, ...
+- Given a large amount of [[Open Data]]. It could offer a way for people to upload their datasets [and get them augmented](https://subsets.io/).
+	- E.g: Upload a CSV with year and country and the tool could suggest GDP per capita or population.
+
+Could be an awesome front-end to explore [[Open Data]].
+
+### Interesting Projects
+- [Rill Developer](https://github.com/rilldata/rill-developer).
+- [Datastation](https://app.datastation.multiprocess.io/).
