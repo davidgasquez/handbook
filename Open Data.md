@@ -88,6 +88,7 @@ Fixing Open Data is something people have been working on for a while. These are
 - [Holium](https://docs.holium.org/)
 - [dbhub](https://dbhub.io/)
 - [Quilt](https://github.com/quiltdata/quilt)
+- [Datalad](https://www.datalad.org/)
 - [DVC](https://github.com/iterative/dvc)
 - [Minerva](https://github.com/bdchain/Minerva)
 - [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data)
