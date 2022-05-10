@@ -6,7 +6,7 @@
 - Share a draft agenda prior to the meeting (with consideration for time zones)
 - Review the agenda at the top of the meeting, asking for other items and the order.
 - During the meeting, collect to-do’s, blockers/asks, and DRIs.
-
+- You can add “feedback” as an agenda item, and ask the participants to take a few minutes to jot down feedback for the next meeting.
 ## Update Meetings
 
 - Progress: what did I accomplish this week?
