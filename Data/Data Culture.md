@@ -56,6 +56,7 @@
 	- Is Data up to date?
 	- Is Data Accessible and Discoverable?
 	- Is Data Secure?
+- Measure [[Data Quality]] to help set high standards for your data team.
 - [Aim for a culture of celebrating measurable progress and learnings, versus celebrating shipping](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Align company on key actions. Every stakeholder should know how to explore that data.
 - Do pre-mortems. Where would we see the impact of *X* going wrong? Model that and plot it on a dashboard.
