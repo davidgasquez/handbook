@@ -4,7 +4,9 @@
 - Celebrate and encourage quirky gifts, [[Habits]], behavior, and points of view. No one can compete with you on being you.
 - Share your decisions, state, and ideas early so flaws arise earlier in the process.
 - Keep your [[Identity]] small.
-- Your job isn't to enforce your vision of the world upon everyone. Live your own life the way you want to live it and let other people live their own lives the way they want to live them. [Don't yell at people who are trying to go off and do their own thing quietly with a group of voluntarily consenting friends](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism). Don't criticize some group of people doing their own thing without harming anyone or try to browbeat them into doing the same thing as everyone else. That group might be just a tiny bit of [[slack]] away from creating something amazing!
+- Your job isn't to enforce your vision of the world upon everyone. Live your own life the way you want to live it and let other people live their own lives the way they want to live them. 
+	- [Don't yell at people who are trying to go off and do their own thing quietly with a group of voluntarily consenting friends](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism).  If people want to go do their own thing in a way that harms no one else, you _let_ them.
+	- Don't criticize some [group of people doing their own thing without harming anyone](https://astralcodexten.substack.com/p/more-antifragile-diversity-libertarianism) or try to browbeat them into doing the same thing as everyone else. That group might be just a tiny bit of [[slack]] away from creating something amazing!
 - Communicate any uncertainty you may feel about the relevance of your own opinions.
 - One of the hardest exercises is to receive [[feedback]]. Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
 - Experience things again (books, movies, ...). They might be the same, but you change and are a different person now. The world changes, too. No one steps in the same river twice.
