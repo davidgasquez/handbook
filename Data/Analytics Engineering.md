@@ -15,7 +15,7 @@
 	1. Building automated [[Systems]], from metrics to [[Dashboards]], to enable self-service use cases for business users. This is what we now typically call analytics engineering.
 	2. Doing ad-hoc analyses, to answer some questions directly.
 - Attach date to data team resources ([[Dashboards]], analysis, ...) so they exist as artifacts that were true at a certain point on time.
-- Make your modeling approach explicit.
+- Make your modeling approach explicit (e.g. [Dimensional Modeling](https://youtu.be/lWPiSZf7-uQ)).
 - Modeling reality always get complex quickly. There are always small nuances, special conditions, things that changed, edge cases and, of course, errors.
 - Imagine your company today as a human society where only half the population can read (understand the data), one tenth can write (SQL queries), where half a dozen languages are spoken, and where most of the books ([[Dashboards]]/insight reports) in the library contain things that once were true but have since been outdated (but you don’t know which ones). Not a highly productive information ecosystem.
 - [[Teamwork | Collaborate with your team]] and break down complex models into reusable pieces.
