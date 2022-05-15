@@ -9,6 +9,7 @@
 	- Don't criticize some [group of people doing their own thing without harming anyone](https://astralcodexten.substack.com/p/more-antifragile-diversity-libertarianism) or try to browbeat them into doing the same thing as everyone else. That group might be just a tiny bit of [[slack]] away from creating something amazing!
 - Communicate any uncertainty you may feel about the relevance of your own opinions.
 - One of the hardest exercises is to receive [[feedback]]. Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
+- Criticizing your in-group takes courage but is possible.
 - Experience things again (books, movies, ...). They might be the same, but you change and are a different person now. The world changes, too. No one steps in the same river twice.
 - Look for new experiences. It is the most important factor for [memorable experiences](https://travelopment.com/how-to-create-memorable-experiences/). When all days follow the same routine, [there is no way to differentiate the memories](https://www.youtube.com/watch?v=zHL9GP_B30E).
 - [When you learn an interesting idea, or read an article, it takes 0 effort to think through friends who might enjoy it, and pass it on](https://www.neelnanda.io/blog/mini-blog-post-10-seek-positive-externalities). This applies all the more so to bigger things - jobs worth applying to, other people they should talk to, etc. Receiving opportunities has (essentially) 0 downsides on their end.
