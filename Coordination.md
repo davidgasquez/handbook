@@ -14,3 +14,6 @@
 	- No [[processes]] requires trusting other people. More trust means better coordination without processes. [Trust is the currency of interactions](https://youtu.be/-vbPXbm8eTw).
 	- When a process becomes the proxy for the result you want, you stop looking at outcomes and just make sure you're doing the process right.
 	- Every process will slow you down, and some will make you better.
+- If we imagine human society as it's own organism. We need processes and other coordination tools to make it remove the hand from the fire when it starts to burn.
+	- The hand doesn't know what to do, but relies information to the brain, that makes the appropriate changes. 
+	- Something similar could be archieved at a society level. Where suffering make
