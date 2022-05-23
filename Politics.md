@@ -36,6 +36,7 @@
 - Most of the time, political parties focus on how to collect more money (updating taxes) instead of how to use it more effectively.
 	- We don't know a lot about how the money is used and how to best optimize it. There's isn't too much attention around transparency of these movements.
 - Transparency in politics make it easier to understand the issues and the people who are making progress. E.g: There is no transparency around recycling, so its hard to measure any impact (positive or negative).
+- Absolute laws affect problems that are context dependent. The goal is to minimize misery.
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
