@@ -62,6 +62,11 @@ Iterative improvements over public datasets could yield large amounts of value. 
 	- SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data to Our World In Data.
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
 
+## Open Questions
+- Can new table formats play efficiently with IPFS?
+	- E.g: Running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
+	- That'd mean Delta/Iceberg tables have an append only changelog that IPLD understand. Same for the storage layer. Updates should be handled transparently and efficiently.
+
 ### Related Projects
 - [Kamu](https://www.kamu.dev/).
 - [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
