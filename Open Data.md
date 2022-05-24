@@ -44,7 +44,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 	- For tabular data, starting with just SQL might be great. 
 	- Pyodite + DuckDB for transformations could cover a large area.
 - **Declarative** Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
-- **Environment agnostic**. Can be run locally and remotely. One machine or a cluster.
+- **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
 - **Templated**. Having a repository of open transformations could empower a bunch of use cases ready to plug in to datasets:
 	- Detect outliers automatically.
 	- Detect suspicions records like a categorical variable value that only appears one time while others values appear many times.
@@ -66,6 +66,8 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - Can new table formats play efficiently with IPFS?
 	- E.g: Running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
 	- That'd mean Delta/Iceberg tables have an append only changelog that IPLD understand. Same for the storage layer. Updates should be handled transparently and efficiently.
+- Is it possible to run Spark/Trino on top of IPFS?
+- What would be the ideal tabular format for IPFS? Parquet? Iceberg? ...
 
 ### Related Projects
 - [Kamu](https://www.kamu.dev/).
