@@ -4,4 +4,4 @@
 	- Files are automatically deduplicated. 
 - Once something is added, it can't be changed anymore. 
 - IPFS supports versioning using commits.
-- Keeping files available is a challenge. If the nodes storing a file go down, it'll disappear from the network. Filecoin solves this issue! 
+- Keeping files available is a challenge. If the nodes storing a file go down, it'll disappear from the network. Filecoin can help with this adding incentives to the equation. 
