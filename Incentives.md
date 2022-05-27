@@ -1,6 +1,6 @@
 # Incentives
 
-Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person.
+Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. [If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person](https://twitter.com/saranormous/status/1527839900069875713).
 
 Behavior is hard to fix. When people say they've learned their lesson they underestimate how much of their previous mistake was caused by emotions that will return when faced with the same circumstances unless incentives have changed.
 
