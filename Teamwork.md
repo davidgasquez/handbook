@@ -99,8 +99,11 @@
 ## Getting Started
 - In your first two weeks, your focus should be on understanding the business, getting to know your peers, validating expectations, and getting yourself organized so that you're able to apply what you'll learn in future weeks.
 - There's a real danger in thinking that what made you successful in the past will make you successful now.
+- Read all the things.
 - The team you'll be working on will probably have some kind of [normalized deviance](https://danluu.com/wat/). Try to [understand why everything is as it is](https://fs.blog/chestertons-fence/) before doing any recommendations. Don't come in with "the answers".
+- Record first impressions / friction log as you go. [Beginner's mind has real value](https://eugeneyan.com/writing/onboarding/)!
 - Build great relationships so you can be supported in decisions to get some early wins.
+- One of the most valuable things you can do during onboarding is update/write documentation.
 
 ## Links
 
