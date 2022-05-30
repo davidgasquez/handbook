@@ -27,6 +27,8 @@
 ### RPGs
 - [Laser and Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf)
 - [Honey Heist](https://gshowitt.itch.io/honey-heist)
+- [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/)
+- [Everyone is John](https://img.4plebs.org/boards/tg/image/1377/34/1377343288798.pdf)
 
 ### Online Platforms
 
