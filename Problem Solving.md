@@ -3,6 +3,7 @@
 ![[Quotes#^1f0d5b]]
 
 - Problems have multiple solutions at multiple levels.
+	- [It’s easier to solve a series of simple subproblems than it is to solve one big complex problem directly](https://www.erichgrunewald.com/posts/decomposition-and-problem-solving/).
 - [The best thing that can be done to a problem is not to solve it but to dissolve it](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/).
 	- A problem well stated is a problem half solved.
 	- Insight is best thought of as a change in problem representation. The way we frame problems makes them more or less difficult.
