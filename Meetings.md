@@ -7,6 +7,12 @@
 - Review the agenda at the top of the meeting, asking for other items and the order.
 - During the meeting, collect to-do’s, blockers/asks, and DRIs.
 - You can add “feedback” as an agenda item, and ask the participants to take a few minutes to jot down feedback for the next meeting.
+- When asking for a meeting, send a message with:
+	1. **Purpose.** State reason for meeting. Include necessary information, links, context, ...
+	2. **Duration.** State restrictions (i.e. "at least 30 min", "at most 50min").
+	3. **Date.** State restrictions (i.e. "must happen before Aug 8.")
+	4. **Suggestions.** Pick three reasonable choices given restrictions and suggest them up front.
+
 ## Update Meetings
 
 - Progress: what did I accomplish this week?
