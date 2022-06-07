@@ -1,8 +1,8 @@
 # Meetings
 
 - [Meetings should be as short, focused, and small as possible](https://www.mrmoneymustache.com/2013/10/01/the-low-information-diet/comment-page-5/).
-- The host is typically the moderator, unless otherwise determined
-- Nominate a note-taker prior to the start of the meeting
+- The host is typically the moderator, unless otherwise determined.
+- Nominate a note-taker prior to the start of the meeting.
 - Share a draft agenda prior to the meeting (with consideration for time zones)
 - Review the agenda at the top of the meeting, asking for other items and the order.
 - During the meeting, collect to-do’s, blockers/asks, and DRIs.
