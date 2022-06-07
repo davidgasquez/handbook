@@ -16,7 +16,8 @@ Iterative improvements over public datasets could yield large amounts of value. 
 ## Ecosystem Principles
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be updated, forked and discussed as code in version controlled repositories.
-		- This provided a declarative way of defining the datasets schema and other meta properties like _relations_ or _tests_.
+	- Prime composability so tools/services can be swapped without affecting the end result.
+	- This provided a declarative way of defining the datasets schema and other meta properties like _relations_ or _tests_.
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. As datasets are declarative, they are [software defined assets](https://dagster.io/blog/software-defined-assets).
 - **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration. 
 - **Aligned Incentives**. Curators should have incentives to improve datasets and metadata. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
