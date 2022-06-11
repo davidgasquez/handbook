@@ -18,6 +18,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be updated, forked and discussed as code in version controlled repositories.
 	- Prime composability so tools/services can be swapped without affecting the end result.
 	- This provided a declarative way of defining the datasets schema and other meta properties like _relations_ or _tests_.
+	- Pachyderm style transformations. E.g: orchestrating containers that read/write on IPFS.
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. As datasets are declarative, they are [software defined assets](https://dagster.io/blog/software-defined-assets).
 - **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration. 
 - **Aligned Incentives**. Curators should have incentives to improve datasets and metadata. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
@@ -25,7 +26,8 @@ Iterative improvements over public datasets could yield large amounts of value. 
 	- Surfacing and creating great datasets should be rewarded.
 - **Open Source and Decentralized**. Datasets should be stored in a decentralized way using something like IPFS.  This allow the data to be used on tool like [DuckDB WASM Shell](https://shell.duckdb.org/).
 
-## Components
+## Modules
+
 ### Packaging
 - **Distribution**. Decentralized way. No central authority. Could work in a closed network too! Permissions management would be also decentralized.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. Datasets could be linked to a `Datafile` with description, default visualizations, WASM linked code...
@@ -38,7 +40,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change. 
 	- Tabular data could be partitioned to make it easier for future retrieval. 
-- **Inmutability*.* Data should be append only. 
+- **Inmutability**. Data should be append only. 
 - **Flexible**. Allow centralized (S3, GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
 	- Support many types of data. Tables, Geospatial, Images, ...
 
@@ -48,14 +50,14 @@ Iterative improvements over public datasets could yield large amounts of value. 
 	- Pyodite + DuckDB for transformations could cover a large area.
 - **Declarative** Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
-- **Templated**. Having a repository of open transformations could empower a bunch of use cases ready to plug in to datasets:
+- **Templated**. Having a repository/market of open transformations could empower a bunch of use cases ready to plug in to datasets:
 	- Detect outliers automatically.
 	- Detect suspicions records like a categorical variable value that only appears one time while others values appear many times.
 	- Enrich data smartly (matcher + augmenter). If it detects a date, add the day of wee. If it detects latitude and longitude, adds country/city.
 
 ### Visualizations
-- **Defaults** Suggest basic charts (bars, lines, time series, clustering).
-- **Exploratory** Allow drill downs and customization.
+- **Defaults**. Suggest basic charts (bars, lines, time series, clustering).
+- **Exploratory**. Allow drill downs and customization.
 
 ## Extra Thoughts
 - There are already open source projects like [Airbyte](https://airbyte.com/) that could be used to build open data connectors. It would make possible replicating something from `$RANDOM_SOURCE` (like the Ethereum blockchain) to any destination (like IPFS).
@@ -122,7 +124,6 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [Datahub](https://datahub.io/awesome).
 - [Academic Torrents Datasets](https://academictorrents.com/browse.php).
 - [Victoriano's Data Sources](https://victorianoi.notion.site/Data-Sources-79b28912c6d941af99e6ef102c578fa0).
-
 
 ## Open Source Web Data IDE
 
