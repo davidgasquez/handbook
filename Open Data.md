@@ -11,7 +11,7 @@ Data is usually centralized and perishable. Even tabular datasets are hard to in
 
 **We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**.
 
-Iterative improvements over public datasets could yield large amounts of value. Open Source code has made a huge impact in the world. Open Data could do the same!
+Iterative improvements over public datasets could yield large amounts of value. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Open Data could do the same!
 
 ## Ecosystem Principles
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
@@ -74,23 +74,22 @@ Iterative improvements over public datasets could yield large amounts of value. 
 
 ### Related Projects
 - [Kamu](https://www.kamu.dev/).
-- [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
+- [Algovera](https://www.algovera.ai/).
 - [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
-- [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
-- [dbhub](https://dbhub.io/).
-- [Quilt](https://github.com/quiltdata/quilt).
 - [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/).
+- [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
+- [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data).
+- [dbhub](https://dbhub.io/).
+- [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
+- [Quilt](https://github.com/quiltdata/quilt).
 - [DVC](https://github.com/iterative/dvc).
 - [Minerva](https://github.com/bdchain/Minerva).
-- [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data).
 - [The Graph](https://thegraph.com/).
 - [Akash](https://akash.network/).
-- [Fission](https://fission.codes/).
 - [Trino](https://trino.io/) is a distributed query engine for data. It could work on top of IPFS if it supported it.
 - [DuckDB](https://duckdb.org/) WASM client could be used with IPFS as the storage layer for a [decentralized and open data warehouse](https://github.com/davidgasquez/datadex).
 - [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
 - [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
-- [Algovera](https://www.algovera.ai/).
 - [Spice.ai](https://spiceai.io/).
 
 ## Open Datasets
