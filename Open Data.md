@@ -86,6 +86,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [Minerva](https://github.com/bdchain/Minerva).
 - [The Graph](https://thegraph.com/).
 - [Akash](https://akash.network/).
+- [Datasette](https://lite.datasette.io/).
 - [Trino](https://trino.io/) is a distributed query engine for data. It could work on top of IPFS if it supported it.
 - [DuckDB](https://duckdb.org/) WASM client could be used with IPFS as the storage layer for a [decentralized and open data warehouse](https://github.com/davidgasquez/datadex).
 - [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
