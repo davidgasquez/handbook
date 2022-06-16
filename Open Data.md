@@ -110,6 +110,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [BigQuery Public Data](https://cloud.google.com/bigquery/public-data).
 - [Kaggle Datasets](https://www.kaggle.com/datasets).
+- [HuggingFace Datasets](https://huggingface.co/datasets).
 - [Data World](https://data.world/datasets/open-data).
 - [DoltHub](https://www.dolthub.com/discover).
 - [Nasdaq](https://data.nasdaq.com/search).
