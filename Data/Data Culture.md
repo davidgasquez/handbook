@@ -34,6 +34,7 @@
 	- [[Metrics]] should be derived from the most realistic data sources. E.g: using internal databases instead of product tracking for "Users Created".
 - Do you want better data? Hire people interested in data!
 - **When things are going well, no one cares about data**. The right time to present data is when things are starting to go bad. Use your early warning detection systems to understand when it looks like it's gonna be time for data to step in and save the day and then position data as a solution in the context of whatever meaning makes sense. The stakeholders are decision makers and they don't have a ton of time. They're looking to make decisions, they're looking to solve problems.
+- [So much of data work is about accumulating little bits of knowledge and building a shared context in your org so that it's possible to have the big, earth shattering revelations we all wish we could drive on a predictable schedule](https://twitter.com/imightbemary/status/1536368160961572864).
 - You won't have the best allocation of resources in a reactive team. Data teams need extra [[slack]]. [Balance user requests with actual needs](https://scientistemily.substack.com/p/product-management-skills-for-data).
 - How can we measure the data team impact?
 	- Making a [[Writing a Roadmap | roadmap]] can help you telling if you are hitting milestone deadlines or letting them slip.
