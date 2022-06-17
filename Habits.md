@@ -8,7 +8,7 @@ Habits can be great because they help us get tasks done efficiently without havi
 
 They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them [compound](https://www.investopedia.com/terms/c/compoundinterest.asp). Remember, there are [no hacks](http://www.collaborativefund.com/blog/useful-hacks/) in life!
 
-The secret of getting ahead is getting started.
+[Change is hard. Understanding it better, makes it easier](https://www.youtube.com/watch?v=75d_29QWELk). The secret of getting ahead is getting started.
 
 Helpful steps for building habits:
 

@@ -1,6 +1,6 @@
 # Routine
 
-A way to keep yourself on track with your [[habits]] is to have a morning routine.
+A way to keep yourself on track with your [[habits]] is to have a morning routine. 
 
 1. Rules. Remind yourself on the current set of rules, constrains, various addictions, time-draining things. E.g. limit social media, do some stretching, ...
 2. Gratitude. Visualize and [[Mental Health#Meditation | meditate]] on the idea that you might die today.
