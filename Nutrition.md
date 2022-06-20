@@ -22,6 +22,7 @@
 - [Vitamin D](https://examine.com/supplements/vitamin-d/). 2000-5000 IU a day from D3. Paired with Vitamin K2 (200 µg).
 - [Creatine](https://examine.com/supplements/creatine/). Get it in monohydrate form and take 2-5g every morning.
 - [Caffeine](https://examine.com/supplements/caffeine/).
+- [L-Theanine](https://lorienpsych.com/2021/01/31/l-theanine/).
 - [Vitamin B12](https://examine.com/supplements/vitamin-b12/). Around 1 mg per day.
 
 ## Resources
