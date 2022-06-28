@@ -104,6 +104,7 @@
 - Record first impressions / friction log as you go. [Beginner's mind has real value](https://eugeneyan.com/writing/onboarding/)!
 - Build great relationships so you can be supported in decisions to get some early wins.
 - One of the most valuable things you can do during onboarding is update/write documentation.
+- [Make bite-sized impact, fast](https://stormdata.substack.com/p/reflecting-on-my-impact-during-my).
 
 ## Links
 
