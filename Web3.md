@@ -57,4 +57,5 @@
 #### Data Engineering Folks
 - [Yaroslav Tkachenko](https://sap1ens.com/blog/2022/04/11/why-im-joining-goldsky/)
 - [Mike Ritchie](https://twitter.com/thisritchie/status/1533434879773290496)
-- 
+- [Luke Kim](https://twitter.com/0xLukeKim/status/1514294888778534915)
+- [Richard Blythman](https://twitter.com/richardblythman)
