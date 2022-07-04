@@ -53,3 +53,8 @@
 - [Flipside](https://flipsidecrypto.xyz/).
 - [MetricsDAO](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe).
 - [Unigrants Community Analytics](https://unigrants.notion.site/Unigrants-Community-Analytics-b09bbb16579d4a569b7e2d393afc4459)
+
+#### Data Engineering Folks
+- [Yaroslav Tkachenko](https://sap1ens.com/blog/2022/04/11/why-im-joining-goldsky/)
+- [Mike Ritchie](https://twitter.com/thisritchie/status/1533434879773290496)
+- 
