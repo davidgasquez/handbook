@@ -25,6 +25,7 @@
 - Make time to pay technical debt. [[Systems]] evolve organically over time and might get stuck on a local maximum. Alternative abstractions/designs might be better to continue progressing! There are two kinds of tech debt:
 	- Things you haven't built yet.
 	- Things you shouldn't have built that way.
+- Accidental complexity is a sum of all the shortcuts you have taken. Complexity attracts more complexity and compounds in a non-linear way. Every shortcut you take is an invitation to more shortcuts elsewhere.
 - When the context changes a lot, you can use [the blue tape technique](https://randsinrepose.com/archives/the-blue-tape-list/) to notice what is wrong with it:
 	1. Notice everything that feels off.
 	2. Make a list of everything that feels off, no matter how big or small.
