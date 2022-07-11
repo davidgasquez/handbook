@@ -39,3 +39,6 @@
 - Avoid conspicuous consumption.
 - Overcome the bystander effect:  there is something that everyone wants to _happen_ but nobody wants to be the one to _do_ it. Develop the reflex of noticing bystander apathy in your environment, and actively do the thing. E.g. ask a question when there’s a confusing point in a talk, notice tiny tragedies of the commons (an empty jug of water that nobody wants to refill), notice when everyone feels uncomfortable being the first to, say, dance at a party, and just do it.
 - [Our behavior is made up of a complex and chaotic soup of so many factors that it's downright silly to think there's a singular, autonomous "you" calling the shots](https://youtu.be/GRYcSuyLiJk).
+- Tools and ideas are not neutral. They have baked some principles and values.
+	- E.g: [[Social Media Issues]], [[Blockchain]] protocols that use PoW wasting energy. 
+	- A person holding a hammer interacts with the world in a different way and could be considered a different entity. Same with ideas.
