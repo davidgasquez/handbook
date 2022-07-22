@@ -33,6 +33,7 @@
 - [Mattermost](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt).
 - [MetricsDAO](https://github.com/MetricsDAO).
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
+- [Gravity Data](https://github.com/Gravity-Data/gravity-dbt)
 
 ### Related [[Podcasts]]
 
