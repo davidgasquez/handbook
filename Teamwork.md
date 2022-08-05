@@ -71,6 +71,7 @@
 - Optimizing for short term speed is dangerous if you don't allow some slack to pick up things that will make you faster in the long run.
 	- If you want to optimize for speed, you need an experimentation platform to track the impact of changes. Teams need to learn how to [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
 - Look for a way to decouple things as much as possible and don't aim for perfection. Aim for eventual convergence.
+- When proposing a change, add context to why is important and how it'll impact people.
 - [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness) can happen in a team. Two of the main reasons of this [normalization of deviance](https://danluu.com/wat/):
 	- The team needs to follow processes that have either been externally imposed, or internally imposed but no-one remembers exactly why.
 	- The sheer scale and/or complexity of how things work. There is truly no-one who understands the emergent behavior of the [[Systems | system]].
@@ -102,6 +103,7 @@
 - There's a real danger in thinking that what made you successful in the past will make you successful now.
 - Read all the things.
 - The team you'll be working on will probably have some kind of [normalized deviance](https://danluu.com/wat/). Try to [understand why everything is as it is](https://fs.blog/chestertons-fence/) before doing any recommendations. Don't come in with "the answers".
+	-  [Chesterton’s fence](https://www.meyerperin.com/posts/2022-04-02-chestertons-fence.html) is an important concept to keep in mind when starting a new job or a new scope of work. The [context of why a certain architectural choice was made](https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production/) is just as important as understanding its current pain points.
 - Record first impressions / friction log as you go. [Beginner's mind has real value](https://eugeneyan.com/writing/onboarding/)!
 - Build great relationships so you can be supported in decisions to get some early wins.
 - One of the most valuable things you can do during onboarding is update/write documentation.
