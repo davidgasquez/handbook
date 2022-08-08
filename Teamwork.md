@@ -102,6 +102,7 @@
 - There's a real danger in thinking that what made you successful in the past will make you successful now.
 - Read all the things.
 - The team you'll be working on will probably have some kind of [normalized deviance](https://danluu.com/wat/). Try to [understand why everything is as it is](https://fs.blog/chestertons-fence/) before doing any recommendations. Don't come in with "the answers".
+	-  [Chesterton’s fence](https://www.meyerperin.com/posts/2022-04-02-chestertons-fence.html) is an important concept to keep in mind when starting a new job or a new scope of work. The [context of why a certain architectural choice was made](https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production/) is just as important as understanding its current pain points.
 - Record first impressions / friction log as you go. [Beginner's mind has real value](https://eugeneyan.com/writing/onboarding/)!
 - Build great relationships so you can be supported in decisions to get some early wins.
 - One of the most valuable things you can do during onboarding is update/write documentation.
