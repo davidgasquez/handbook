@@ -8,7 +8,7 @@ Data Pipelines are a set of actions that extract data, transform it, and then lo
 
 - **Simplicity**: Each steps is easy to understand and modify.
 - **Reliability**: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done extracting the column from the intermediary data without having to query the data source. It is better to support 1 feature that works reliably and has a great UX than 2 that are unreliable or hard to use. One solid step is better than 2 finicky ones.
-- **[[Modularity]]**: Steps are independent and [[Idempotence | itempotent]].
+- **[[Modularity]]**: Steps are independent, declarative, and [[Idempotence | itempotent]].
 - **Consistency**: Same conventions and design patterns across pipelines. If a failure is actionable by the user, clearly let them know what they can do.
 - **Efficiency**: Low event latency when needed. Easy to scale up and down. A user should not be able to configure something that will not work.
 - **Flexibility**: Steps change to conform data points. Changes don't stop the pipeline or losses data.
