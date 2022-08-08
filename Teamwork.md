@@ -7,7 +7,7 @@
 		- Define boundaries and limitations of each component.
 - Work in the open and [[Documentation | document]] everything.  Transparency increases understanding and reduces synchronization challenges. **[Emulate Open Source projects](https://tomayko.com/blog/2012/adopt-an-open-source-process-constraints) and [[Remote Jobs | remote companies]]**.
 - Create a [[Company Handbooks | handbook]] to store your [[Company Knowledge Management | company knowledge]]. Document:
-	- [[Processes]].  Status updates, [[Design Docs]], [onboarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
+	- [[Processes]].  Status updates, [[Design Docs]], [on-boarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
 	- Decisions. Context and rationale can be documented in a durable location.
 		- Each team should [keep a changelog](https://keepachangelog.com/en/1.0.0/). [The company too](https://medium.com/linear-app/startups-write-changelogs-c6a1d2ff4820). ^473cb4
 		- Aim to [confirm and log decisions](https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/) to move them forward. [Everything must have an URL](https://ben.balter.com/2015/11/12/why-urls/).
