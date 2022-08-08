@@ -7,7 +7,7 @@
 		- Define boundaries and limitations of each component.
 - Work in the open and [[Documentation | document]] everything.  Transparency increases understanding and reduces synchronization challenges. **[Emulate Open Source projects](https://tomayko.com/blog/2012/adopt-an-open-source-process-constraints) and [[Remote Jobs | remote companies]]**.
 - Create a [[Company Handbooks | handbook]] to store your [[Company Knowledge Management | company knowledge]]. Document:
-	- [[Processes]].  Status updates, [[Design Docs]], [onboarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
+	- [[Processes]].  Status updates, [[Design Docs]], [on-boarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
 	- Decisions. Context and rationale can be documented in a durable location.
 		- Each team should [keep a changelog](https://keepachangelog.com/en/1.0.0/). [The company too](https://medium.com/linear-app/startups-write-changelogs-c6a1d2ff4820). ^473cb4
 		- Aim to [confirm and log decisions](https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/) to move them forward. [Everything must have an URL](https://ben.balter.com/2015/11/12/why-urls/).
@@ -18,6 +18,7 @@
 	- Defaults. Each thing should have a place by default, docs, issues, ...
 - Aim to be a completely autonomous team. Everyone should feel empower to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.**
 - Run [Automated Check-ins](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
+- The right way to promote people is to give them meaningful goals for the organization and promote them if they hit the goals. 
 - Lack of ownership is the root of all evil.
 	- Having skin in the game improves the decision making process.
 	- [Have direct responsible individuals for everything. Everyone's problem is no one's problem](https://nintil.com/programming). Having a name accountable instead of a vague "the team" or "the process" makes it easy to make changes.
@@ -71,6 +72,7 @@
 - Optimizing for short term speed is dangerous if you don't allow some slack to pick up things that will make you faster in the long run.
 	- If you want to optimize for speed, you need an experimentation platform to track the impact of changes. Teams need to learn how to [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
 - Look for a way to decouple things as much as possible and don't aim for perfection. Aim for eventual convergence.
+- When proposing a change, add context to why is important and how it'll impact people.
 - [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness) can happen in a team. Two of the main reasons of this [normalization of deviance](https://danluu.com/wat/):
 	- The team needs to follow processes that have either been externally imposed, or internally imposed but no-one remembers exactly why.
 	- The sheer scale and/or complexity of how things work. There is truly no-one who understands the emergent behavior of the [[Systems | system]].
