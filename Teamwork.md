@@ -73,6 +73,7 @@
 	- If you want to optimize for speed, you need an experimentation platform to track the impact of changes. Teams need to learn how to [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
 - Look for a way to decouple things as much as possible and don't aim for perfection. Aim for eventual convergence.
 - When proposing a change, add context to why is important and how it'll impact people.
+- [Standards make it easy for new team members to onboard and enhance efficiency in the long run (removes micro-decisions)](https://seattledataguy.substack.com/p/setting-standards-for-your-data-team).
 - [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness) can happen in a team. Two of the main reasons of this [normalization of deviance](https://danluu.com/wat/):
 	- The team needs to follow processes that have either been externally imposed, or internally imposed but no-one remembers exactly why.
 	- The sheer scale and/or complexity of how things work. There is truly no-one who understands the emergent behavior of the [[Systems | system]].
