@@ -26,7 +26,7 @@ A good approach to incrementally change a system (similar to [[Evolution | natur
 2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes. Alter the incentive landscape. [If you can make your system less miserable, make your system less miserable!](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart)
 3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
-**Don't aim for an ideal system. Build a set of [[processes]] and protocols that evolve to fit the environment over time. **
+**Don't aim for an ideal system. Build a set of [[processes]] and protocols that evolve to fit the environment over time. ** [Complex systems fail](https://how.complexsystems.fail/).
 
 If everyone agrees the current system doesn't work well, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
 
