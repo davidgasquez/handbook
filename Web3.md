@@ -39,6 +39,11 @@
 	  - [OurNetwork](https://ournetwork.substack.com/). They also have a [Talent Agency](https://tally.so/r/wbx6Em).
 	  - [MetricsDAO](https://metricsdao.xyz/).
 
+### Open Source Blockchain Data Pipelines
+- [Blockchain ETL](https://github.com/blockchain-etl)
+- [db3](https://github.com/db3-teams/db3)
+- [Mars](https://github.com/deepeth/mars)
+
 ### Bounty Based Collaboration:
 
 - [Bounties Network](https://bounties.network/) - Find freelancers and bounty programs for any task paid in any token on Ethereum.
