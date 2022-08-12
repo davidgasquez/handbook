@@ -46,7 +46,8 @@
 - [Apollo](https://github.com/chainbound/apollo)
 - [Bitquery](https://github.com/bitquery/explorer)
 - [Ether SQL](https://github.com/analyseether/ether_sql)
-- 
+- [Algoran Indexer](https://github.com/algorand/indexer)
+- [Spec](https://github.com/spec-dev)
 
 ### Bounty Based Collaboration:
 
