@@ -44,10 +44,10 @@
 - [Luabase](https://github.com/luabase)
 - [Mars](https://github.com/deepeth/mars)
 - [Bitquery](https://github.com/bitquery/explorer)
+- [Algoran Indexer](https://github.com/algorand/indexer)
 - [db3](https://github.com/db3-teams/db3)
 - [Apollo](https://github.com/chainbound/apollo)
 - [Ether SQL](https://github.com/analyseether/ether_sql)
-- [Algoran Indexer](https://github.com/algorand/indexer)
 - [Spec](https://github.com/spec-dev)
 
 ### Bounty Based Collaboration:
