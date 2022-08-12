@@ -45,6 +45,7 @@
 - [Mars](https://github.com/deepeth/mars)
 - [Bitquery](https://github.com/bitquery/explorer)
 - [Algoran Indexer](https://github.com/algorand/indexer)
+- [Tezos Indexer](https://github.com/baking-bad/tzkt)
 - [db3](https://github.com/db3-teams/db3)
 - [Apollo](https://github.com/chainbound/apollo)
 - [Ether SQL](https://github.com/analyseether/ether_sql)
