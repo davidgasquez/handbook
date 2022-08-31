@@ -4,6 +4,7 @@
 
 - These are relatively informal documents that the primary author or authors of a software system or application create before they embark on the coding project. If code is the bricks and mortar, then these docs are the blueprints.
 - Short specs are more likely to be read. The purpose of a spec is to briefly communicate the "why", "what" and "how" of the project to the rest of the team. Ideally these short documents force teams to scope out work so priorities are clear and teams avoid building the wrong thing.
+	- [The longer your document is, the more likely people will only read the comments and not the body.](https://twitter.com/hamiltonulmer/status/1562817324184440832)
 - A tech spec forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
 - It's hard to make technical decisions while remote. [Build a Proposal Culture](https://hamiltonulmer.com/writing/building-a-proposal-culture) to enable effective distributed technical decision making via [[Writing]] and collecting [[Feedback]] on a written document in an inclusive, async-friendly way.
 - Even if no one else reads them, they force you to clarify my thinking before you start the (more expensive) process of implementation.
