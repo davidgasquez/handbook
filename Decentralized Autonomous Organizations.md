@@ -10,6 +10,7 @@
 - [Resources For Decentralized Organizing](https://commonslibrary.org/resources-for-decentralised-organising/). Also [summarized in slides](https://geo.coop/sites/default/files/patterns_of_decentralized_organizing.pdf).
 
 ####  Tools
+- [DAO Tool List](https://messari.io/governor/tools).
 - [Snapshot](https://snapshot.org/#/).
 - [DaoHaus](https://daohaus.club/).
 - [Coordination Party](https://coordination.party/).
