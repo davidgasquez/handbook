@@ -43,11 +43,11 @@
 - Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
 - One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad [[Habits]] right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.
 - Most knowledge worth having comes from **practice**. It comes from **doing**. [It comes from **creating**](https://blog.tjcx.me/p/consume-less-create-more).
-- To get real expertise, you need these criteria:
-1. Many repeated attempts with feedback.
-2. Valid environment (few random events, controlled, ...).
-3. Timely feedback.
-4. 
+- [To get real expertise, you need these criteria](https://youtu.be/5eW6Eagr9XA):
+	1. Many repeated attempts with feedback.
+	2. Valid environment (few random events, controlled, ...).
+	3. Timely feedback.
+	4. Deliberate practice.
 - Knowledge is built up through layers. You need more basic knowledge before you can access more advanced knowledge. You can’t learn things that are too far removed from your knowledge tree.
 - Lasting and solid foundations are made by experiencing.
 - For some subjects, [there's no speed limit](https://sive.rs/kimo). If you're more driven than most people, you can do way more than anyone expects.
