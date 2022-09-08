@@ -95,7 +95,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [DuckDB](https://duckdb.org/) WASM client could be used with IPFS as the storage layer for a [decentralized and open data warehouse](https://github.com/davidgasquez/datadex).
 - [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
 - [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
-- [Spice.ai](https://spiceai.io/).
+- [ActiveLoop Hub](https://github.com/activeloopai/Hub).
 
 ## Open Datasets
 - [Wikipedia](https://dumps.wikimedia.org/).
@@ -107,7 +107,6 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [Fivethirtyeight](https://data.fivethirtyeight.com/).
 - [ProPublica](https://www.propublica.org/datastore/).
 - [World Bank](https://data.worldbank.org/indicator).
-- [Open Data Inception](https://opendatainception.io/).
 
 ### Indexes
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
@@ -127,6 +126,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [Datasets Subreddit](https://www.reddit.com/r/datasets/). [Open Data Subreddit](https://www.reddit.com/r/opendata/).
 - [Datahub](https://datahub.io/awesome).
 - [Academic Torrents Datasets](https://academictorrents.com/browse.php).
+- [Open Data Inception](https://opendatainception.io/).
 - [Victoriano's Data Sources](https://victorianoi.notion.site/Data-Sources-79b28912c6d941af99e6ef102c578fa0).
 
 ## Open Source Web Data IDE
