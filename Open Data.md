@@ -107,6 +107,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [Fivethirtyeight](https://data.fivethirtyeight.com/).
 - [ProPublica](https://www.propublica.org/datastore/).
 - [World Bank](https://data.worldbank.org/indicator).
+- [Open Data Inception](https://opendatainception.io/).
 
 ### Indexes
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
