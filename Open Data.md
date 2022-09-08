@@ -9,7 +9,7 @@ Data is usually centralized and perishable. Even tabular datasets are hard to in
 
 [Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is the best way to learn about the world and [[Coordination | coordinate]] people.
 
-Open protocols create open systems. Open code creates tools. Open data creates open knowledge. **We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**.
+Open protocols create open systems. Open code creates tools. Open data creates open knowledge. **We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**. It should be easy to find, download, process, publish and collaborate on datasets.
 
 Iterative improvements over public datasets could yield large amounts of value. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Open Data could do the same!
 
@@ -31,7 +31,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 ### Packaging
 - **Distribution**. Decentralized way. No central authority. Could work in a closed network too! Permissions management would be also decentralized.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. Datasets could be linked to a `Datafile` with description, default visualizations, WASM linked code...
-- **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations.
+- **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations. The package manager should be **format agnostic**.
 - **Social**. Stars, users, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
 	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
 
