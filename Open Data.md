@@ -43,6 +43,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - **Inmutability**. Data should be append only. 
 - **Flexible**. Allow centralized (S3, GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
 	- Support many types of data. Tables, Geospatial, Images, ...
+	- A dataset could have different formats. The protocol could do some checks at the data level to verify they contain the same information.
 
 ### Transformations
 - **Deterministic**. Packaged Lambda transformations (WASM/Docker). 
@@ -79,6 +80,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [Algovera](https://www.algovera.ai/).
 - [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
 - [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/).
+- [Huggingface Datasets](https://huggingface.co/docs/datasets)
 - [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
 - [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data).
 - [dbhub](https://dbhub.io/).
