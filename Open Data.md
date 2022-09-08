@@ -43,7 +43,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - **Inmutability**. Data should be append only. 
 - **Flexible**. Allow centralized (S3, GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
 	- Support many types of data. Tables, Geospatial, Images, ...
-	- A dataset could have different formats. The protocol could do some checks at the data level to verify they contain the same information.
+	- A dataset could have different formats. The protocol could even do the transformation (e.g: CSV to Parquet) or do some checks at the data level to verify they contain the same information.
 
 ### Transformations
 - **Deterministic**. Packaged Lambda transformations (WASM/Docker). 
