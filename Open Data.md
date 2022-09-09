@@ -76,17 +76,12 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - What would be the ideal tabular format for IPFS? Parquet? Iceberg? ...
 
 ### Related Projects
+#### Computation
 - [Kamu](https://www.kamu.dev/).
 - [Algovera](https://www.algovera.ai/).
-- [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
-- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/).
-- [Huggingface Datasets](https://huggingface.co/docs/datasets)
 - [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
 - [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data).
 - [dbhub](https://dbhub.io/).
-- [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
-- [Quilt](https://github.com/quiltdata/quilt).
-- [DVC](https://github.com/iterative/dvc).
 - [Minerva](https://github.com/bdchain/Minerva).
 - [The Graph](https://thegraph.com/).
 - [Akash](https://akash.network/).
@@ -95,7 +90,16 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [DuckDB](https://duckdb.org/) WASM client could be used with IPFS as the storage layer for a [decentralized and open data warehouse](https://github.com/davidgasquez/datadex).
 - [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
 - [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
+
+#### Data Package Managers
+- [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
+- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/).
+- [Huggingface Datasets](https://huggingface.co/docs/datasets)
+- [Quilt](https://github.com/quiltdata/quilt).
+- [DVC](https://github.com/iterative/dvc).
 - [ActiveLoop Hub](https://github.com/activeloopai/Hub).
+- [Dim](https://github.com/c-3lab/dim)
+- [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
 
 ## Open Datasets
 - [Wikipedia](https://dumps.wikimedia.org/).
