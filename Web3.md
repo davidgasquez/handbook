@@ -38,8 +38,12 @@
 	  - [Dune](https://dune.xyz/).
 	  - [OurNetwork](https://ournetwork.substack.com/). They also have a [Talent Agency](https://tally.so/r/wbx6Em).
 	  - [MetricsDAO](https://metricsdao.xyz/).
+	  - [Ocean](https://github.com/oceanprotocol).
 
-### Open Source Blockchain Data Pipelines
+### Decentralized Science
+- [Opscientia](https://github.com/opscientia/desci)
+
+### Open Source Blockchain Data Projects
 - [Blockchain ETL](https://github.com/blockchain-etl)
 - [Luabase](https://github.com/luabase)
 - [Mars](https://github.com/deepeth/mars)
