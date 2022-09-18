@@ -9,7 +9,6 @@
 - Research nearby future facilities. Schools, shopping malls, coffee shops, transportation, ...
 - Treat it as a [[Finances | finance]] asset. Think for how much it'll sell.
 
-
 ## Mortgage
 
 - Aim for the minimum links with the bank.

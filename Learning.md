@@ -59,10 +59,8 @@
 ## Learning Soft Skills
 
 [Follow this method](https://www.lesswrong.com/posts/ZGzDNfNCXzfx6hYAH/how-to-learn-soft-skills):
-
 - Pick a soft skill, X, that you'd like to get better at. Then, set a 5-minute timer. Spend those 5 minutes [explaining](https://jvns.ca/blog/confusing-explanations) to yourself, in [[Writing]], how to do X. Brainstorm on what the key tricky bits are, or strategies for navigating them.
 - Explore how is skill X really actually just the same as skill Y. In the sense that anyone who is fluent in skill Y already knows all they need to know to be good at X — they just need to apply their Y-skill to X. Your goal, as you do this, is to create a very short guide that enables anyone who already knows Y to hit the ground running with X.
-
 
 ## Teaching
 

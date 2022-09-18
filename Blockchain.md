@@ -13,3 +13,4 @@
 - Smart contracts allow permissionless composability. [Composability allows anyone in a network to take existing programs and adapt or build on top of them, it unlocks completely new use cases that don’t exist in our world](https://future.a16z.com/how-composability-unlocks-crypto-and-everything-else/).
 - [Blockchains could replace networks with markets](https://twitter.com/naval/status/877467629308395521).
 - One of the main downsides of blockchains is that most humans are not good at protecting their passwords, credentials or private keys.
+- Blockchains can be used to ensure the best output in prisoner dilemma style interactions. Write a smart contract that does X when everyone has added the money and no one will be able to betray. 

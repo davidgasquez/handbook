@@ -9,6 +9,7 @@
 - [[Company Handbooks]]
 - [[Web Based Tools]]
 - [[Open Science]]
+- [[Open Source Data Projects]]
 - [[Dungeons and Dragons]]
 - [[Recipes]]
 - [[Datathons]]

@@ -34,6 +34,7 @@
 - [MetricsDAO](https://github.com/MetricsDAO).
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
 - [Gravity Data](https://github.com/Gravity-Data/gravity-dbt)
+- [Spellbook](https://github.com/duneanalytics/spellbook/)
 
 ### Related [[Podcasts]]
 

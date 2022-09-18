@@ -14,4 +14,4 @@ Some questions which I'm intrigued about and haven't researched enough to add th
 - What would improve current public discussion platforms?
 -  [[Open Data | How can we improve the Open Data Ecosystem]]?
 	- Can Impact DAOs be formed around collecting and using data for good?
-- I feel most people recycle by inertia. We feel good doing something we've been told helps the planet. The reality might be the opposite since there is no data and transparency around that. What other topics are in the same state? 
+- I feel most people recycle by inertia. We feel good doing something we've been told helps the planet. The reality might be the opposite since there is no data and transparency around that. What other topics are in the same state?
