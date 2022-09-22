@@ -13,6 +13,7 @@
 - [Paul Copplestone](https://paul.copplest.one/knowledge/)
 - [Hiran Venugopalan](https://hiran.in/notes)
 - [Liz Code](https://lyz-code.github.io/blue-book/)
+- [Simon Späti](https://brain.sspaeti.com/)
 
 ### Compilations
 - [Meta Knowledge GitHub repository](https://github.com/RichardLitt/meta-knowledge)

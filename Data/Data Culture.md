@@ -87,3 +87,4 @@
 	- Data Platform: data infra, pipelines, and a bit of data warehouse modeling 
 	- Analytics: Making sense of data to guide decisions
 - Make your [modeling technique](https://data-columns.hightouch.io/untitled-2/) explicit.
+- Have a documentation [entry-point for Data](https://github.com/mozilla/data-docs)
