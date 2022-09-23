@@ -64,7 +64,7 @@
 	- Make time to build abstractions and tools that increase your team's pace of shipping. Focus on Developer Experience.
 	- Break big ideas into small digestible pieces.
 	- Weeks of programming can save you hours of [[planning]]. Plan and write [[Design Docs]]!
-	- Reduce blockers. Every [small inconvenience](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences) slows much more than it might seem.
+	- Reduce blockers. Every [small inconvenience](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences) slows much more than it might seem. [Blockers are death. Above all else, your job is to unblock anything that prevents you from moving as fast as you can toward your top priority.](https://www.lesswrong.com/posts/6LzKRP88mhL9NKNrS/how-my-team-at-lightcone-sometimes-gets-stuff-done)
 	- Deploy often. Don't wait for perfection. Ship and iterate. Fix time and change the scope.
 	- When everything is important then nothing is important.
 - Constantly prioritize. Communicating with the team to make sure everyone understands the what and the why of the priorities, especially in times of change, and is aligned with clarity to move forward.
@@ -92,8 +92,8 @@
 	- Beware of [Normalization of Deviance](https://danluu.com/wat/).
 
 ## [How Small Teams Work](https://posthog.com/handbook/people/team-structure/why-small-teams#how-it-works)
-- The overall goal is for a team to be as close to its own startup as possible, with only a handful of centralized processes
-- Never be more than six people
+- The overall goal is for a team to be as close to its own startup as possible, with only a handful of centralized processes.
+- Never be more than six people.
 - Have Accountable Person responsible for its performance - whoever is most appropriate depending on what the team is working on. This does _not_ mean the most senior person on the team.
 - Must have (1) a customer (internal or external), (2) a mission and (3) [[metrics]].
 - There may be certain functions where at your current stage that don't need a team yet.
