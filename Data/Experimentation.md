@@ -16,11 +16,12 @@ We do not live in an ideal world, so we need to be very deliberate and thoughtfu
 - Generate hypotheses based on actual observations.
 - Do not simply copy what other companies are doing (do not assume that other companies tested and validated something).
 - Choose one primary metric in advance to determine "winner" while keeping a few guardrail metrics.
+- [You're probably **not measuring what you thought you were measuring**](https://www.lesswrong.com/posts/9kNxhKWvixtKW5anS/you-are-not-measuring-what-you-think-you-are-measuring). But if you measure enough different stuff, you might figure out what you’re actually measuring.
+	- Log generously.
 - Stack rank all ideas based on level of effort and potential impact -- also required sample size/run time to get results.
 - Continuously validate tracking implementation.
-- Think carefully when choosing your randomization unit
-- Log generously
-- Run more A/A tests
+- Think carefully when choosing your randomization unit.
+- Run more A/A tests.
 - The best two places to run an A/B test: In early planning(what kinds of story do people want) and when adding finishing touches(alternative versions of a scene).
 - Remember, you’re measuring averages.
 - A great way to help people understand the importance of healthy scrutiny and [how our biases work](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) can be to do a session where people guess the impact of an A/B test before you reveal it.
