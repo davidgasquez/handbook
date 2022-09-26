@@ -12,6 +12,7 @@
 - Bring card/board games for long travel days.
 - Search for "Walking" videos (tours) around the destination on YouTube.
 - Many of the principles of [[Teamwork]] applies to a travel group. Trust people want to have a great trip!
+- Learn [how to pack a backpack](https://info.deuter.com/blog/packing-a-backpack).
 
 ## Things to Pack
 - Bottle of water.
