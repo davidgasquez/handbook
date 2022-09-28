@@ -54,6 +54,7 @@
 - [Apollo](https://github.com/chainbound/apollo)
 - [Ether SQL](https://github.com/analyseether/ether_sql)
 - [Spec](https://github.com/spec-dev)
+- [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 
 ### Bounty Based Collaboration:
 
