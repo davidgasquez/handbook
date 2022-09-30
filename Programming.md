@@ -4,6 +4,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 
 - **Small is beautiful**.
 	- Small things have tremendous advantages over their larger counterparts. Among these is the ability to combine with other small things in unique and useful ways.
+	- The more you can decompose, the more innovation you'll drive.
 	- The best code is no code, or code you don’t have to maintain.
 - **Design for simplicity**.
 	- Do the [simplest thing](https://landing.google.com/sre/book/chapters/simplicity.html) that could possibly work.
