@@ -40,7 +40,8 @@
 	- Everyone on your team should assume that everyone else on the team is doing their best work, given their circumstances.
 	- Trust people. Add [[Processes]] where you need to replace some level of trust.
 - Times change, trends change, cultures change. Make it explicit.
-- **How to drive change in a team**: find people who agree on the problem, start small, experiment, scale, repeat.
+- **How to drive change in a team**: find people who agree on the problem, start small, experiment, scale, repeat. Making big change is hard. Keeping things simple is hard.
+	- On the other hand, beware of changing too many things. You don't feel the pain of things you're not doing!
 - Scale organizational efforts across a portfolio of synergistic products.
 - Ask people ["when do you think you'll get this done"](https://mobile.twitter.com/Carnage4Life/status/1438982223395393536), write it down and then follow up at that time. That makes teams more effective.
 - When building something:
