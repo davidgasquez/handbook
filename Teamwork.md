@@ -93,6 +93,7 @@
 	- Beware of [Normalization of Deviance](https://danluu.com/wat/).
 
 ## [How Small Teams Work](https://posthog.com/handbook/people/team-structure/why-small-teams#how-it-works)
+
 - The overall goal is for a team to be as close to its own startup as possible, with only a handful of centralized processes.
 - Never be more than six people.
 - Have Accountable Person responsible for its performance - whoever is most appropriate depending on what the team is working on. This does _not_ mean the most senior person on the team.
@@ -102,6 +103,7 @@
 - The team has the final call in which of its features get into production, with no need for external QA/control.
 
 ## Getting Started
+
 - In your first two weeks, your focus should be on understanding the business, getting to know your peers, validating expectations, and getting yourself organized so that you're able to apply what you'll learn in future weeks.
 - There's a real danger in thinking that what made you successful in the past will make you successful now.
 - Read all the things.
