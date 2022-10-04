@@ -3,7 +3,7 @@
 > People should be able to collaborate on Open Data the same way we collaborate on Open Source code.
 
 ## Motivation
-[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, is an area where individual [[incentives]] are not aligned with collective ones. As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make money. Data end up siloed in multiples places and formats. Making interoperability a dream. 
+[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, is an area where individual [[incentives]] are not aligned with collective ones. As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make money. Data end up siloed in multiples places and formats. Making interoperability a dream.
 
 Data is usually centralized and perishable. Even tabular datasets are hard to index and there are no incentives to collaborate on improving them.
 
@@ -20,7 +20,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 	- This provided a declarative way of defining the datasets schema and other meta properties like _relations_ or _tests_.
 	- Pachyderm style transformations. E.g: orchestrating containers that read/write on IPFS.
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. As datasets are declarative, they are [software defined assets](https://dagster.io/blog/software-defined-assets).
-- **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration. 
+- **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration.
 - **Aligned Incentives**. Curators should have incentives to improve datasets and metadata. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Curating the data provides compounding benefits for the entire community!
 	- Surfacing and creating great datasets should be rewarded.
@@ -38,16 +38,16 @@ Iterative improvements over public datasets could yield large amounts of value. 
 ### Storage
 - **Permanence**. Each version should be accessible and permanent.
 - **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
-- **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change. 
-	- Tabular data could be partitioned to make it easier for future retrieval. 
-- **Inmutability**. Data should be append only. 
+- **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
+	- Tabular data could be partitioned to make it easier for future retrieval.
+- **Inmutability**. Data should be append only.
 - **Flexible**. Allow centralized (S3, GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
 	- Support many types of data. Tables, Geospatial, Images, ...
 	- A dataset could have different formats. The protocol could even do the transformation (e.g: CSV to Parquet) or do some checks at the data level to verify they contain the same information.
 
 ### Transformations
-- **Deterministic**. Packaged Lambda transformations (WASM/Docker). 
-	- For tabular data, starting with just SQL might be great. 
+- **Deterministic**. Packaged Lambda transformations (WASM/Docker).
+	- For tabular data, starting with just SQL might be great.
 	- Pyodite + DuckDB for transformations could cover a large area.
 - **Declarative** Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.

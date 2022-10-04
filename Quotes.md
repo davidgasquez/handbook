@@ -60,10 +60,10 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - Concensus is the process of abandoning all beliefs, principles, values, and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: I stand for consensus?. Margaret Thatcher.
 - If you cannot measure it, you cannot improve it.  Lord Kelvin. ^a5049d
 - Y es que en el mundo traidor nada hay verdad ni mentira: todo es según el color del cristal con que se mira. Ramón de Campoamor.
-- You either move information from one place to another, or you move mass from one place to another. 
+- You either move information from one place to another, or you move mass from one place to another.
 - The fewer the facts, the stronger the opinion. Arnold H. Glasow.
 - If you think without writing, you only think you're thinking. Leslie Lamport. ^645051
-- It's _chapuzas_ all the way down. Me on my dreams. 
+- It's _chapuzas_ all the way down. Me on my dreams.
 - [You will observe with concern how long a useful truth may be known, and exist, before it is generally received and practiced on](https://www.youtube.com/watch?v=IV3dnLzthDA). Benjamin Franklin.
 
 ## External Lists

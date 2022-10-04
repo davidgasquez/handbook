@@ -17,10 +17,10 @@
 - LDL: Bad cholesterol  .
 - HDL: Good cholesterol.
 - AST: Liver function.
-- Ferritin: Indicates inflammation, obesity, excess iron.  
-- Vitamin D.  
+- Ferritin: Indicates inflammation, obesity, excess iron.
+- Vitamin D.
 - Vitamin B12.
 - CK. Monitor for muscular injuries and diseases.
 - Testosterone.
 - SHBG: Sex hormone binding globulin.
-- Sodium, magnesium, potassium, folate, blood cell counts.  
+- Sodium, magnesium, potassium, folate, blood cell counts.
