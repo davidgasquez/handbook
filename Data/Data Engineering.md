@@ -29,8 +29,10 @@ graph LR;
     - Data types don't change in the same column.
     - Columns are either deleted or added but never renamed.
 - Create a few extra columns like `processed_at` or `schema_version`.
+- Generate stats to provide the operator with feedback.
 - Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the [Functional Data Engineering Paradigm](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).
-- Event Sourcing is a great pattern when implementing a new system since it couples state with business logic.
+- [Event Sourcing is a great pattern when implementing a new system since it couples state with business logic](https://youtu.be/XxKnTusccUM).
+	- State is a projection of history. Keep the history and reconstruct the state!
 - [Avoid states and mutable data. Functions should always yield the same result!](https://twitter.com/sbalnojan/status/1521477031405531136)
 
 ## Great Blog Posts

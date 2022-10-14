@@ -9,6 +9,7 @@
 - [Share unoriginal ideas](https://guzey.com/personal/why-have-a-blog/). Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn't come up with these ideas otherwise.
 - Start with Why. Start with a question. Write the first flawed answer that comes to mind. Write the first question or objection that comes to mind from that answer. Write the first response that comes to mind from that, ...
 - [Writing creates a cache](https://twitter.com/eugeneyan/status/1256828203840073728). The cache (i.e., documents) scales data availability. people can access the cache instead of going to you.
+- [Expand your definition of completing a project (any project, no matter how small) to include writing a blog post that explains that project](https://twitter.com/simonw/status/1578018383127187461f).
 - For long-form content, the [diamond model](https://dropbox.design/article/mental-models-for-designers) works great for putting a structure around your main idea.
 	1. Attention: Start with a story, statistic, or something similar
 	2. Main topic: Briefly introduce the main topic you'll cover

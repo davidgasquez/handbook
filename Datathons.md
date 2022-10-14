@@ -42,3 +42,4 @@
 - [Darts](https://github.com/unit8co/darts)
 - [Sktime](https://github.com/alan-turing-institute/sktime)
 - [Awesome Collection](https://github.com/MaxBenChrist/awesome_time_series_in_python)
+- [Video with great ideas](https://www.youtube.com/watch?v=9QtL7m3YS9I)

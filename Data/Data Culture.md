@@ -56,7 +56,10 @@
 	- Is Data up to date?
 	- Is Data Accessible and Discoverable?
 	- Is Data Secure?
-- Measure [[Data Quality]] to help set high standards for your data team.
+- [Good things come from a knowledge of what a system is doing and when it is doing it](https://buz.dev/blog/the-contract-powered-data-platform).
+	- Measure [[Data Quality]] to help set high standards for your data team.
+	- Only after measurement can you optimize cost.
+	- Only after timing can you make things faster.
 - [Aim for a culture of celebrating measurable progress and learnings, versus celebrating shipping](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Align company on key actions. Every stakeholder should know how to explore that data.
 - Do pre-mortems. Where would we see the impact of *X* going wrong? Model that and plot it on a dashboard.
@@ -87,4 +90,4 @@
 	- Data Platform: data infra, pipelines, and a bit of data warehouse modeling 
 	- Analytics: Making sense of data to guide decisions
 - Make your [modeling technique](https://data-columns.hightouch.io/untitled-2/) explicit.
-- Have a documentation [entry-point for Data](https://github.com/mozilla/data-docs)
+- Have a documentation [entry-point for Data](https://github.com/mozilla/data-docs).

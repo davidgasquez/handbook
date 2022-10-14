@@ -3,15 +3,20 @@
 > People should be able to collaborate on Open Data the same way we collaborate on Open Source code.
 
 ## Motivation
-[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, is an area where individual [[incentives]] are not aligned with collective ones. As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data) unless that's how you make money. Data end up siloed in multiples places and formats. Making interoperability a dream.
+[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones. 
 
-Data is usually centralized and perishable. Even tabular datasets are hard to index and there are no incentives to collaborate on improving them.
+As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless that's how you make money. Data ends up siloed in multiples places and multiple formats. Interoperability is only a wild dream.
+
+On top of that, data is commonly stored in perishable hardware and formats. Datasets are hard to index and no incentives exists to push people to collaborate on improving/curating them.
 
 [Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is the best way to learn about the world and [[Coordination | coordinate]] people.
 
-Open protocols create open systems. Open code creates tools. Open data creates open knowledge. **We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**. It should be easy to find, download, process, publish and collaborate on datasets.
+Open protocols create open systems. Open code creates tools. Open data creates open knowledge. **We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
 Iterative improvements over public datasets could yield large amounts of value. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Open Data could do the same!
+
+### Why now? 
+During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces.
 
 ## Ecosystem Principles
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
@@ -19,6 +24,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 	- Prime composability so tools/services can be swapped without affecting the end result.
 	- This provided a declarative way of defining the datasets schema and other meta properties like _relations_ or _tests_.
 	- Pachyderm style transformations. E.g: orchestrating containers that read/write on IPFS.
+	- Metadata is a first-class citizen.
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. As datasets are declarative, they are [software defined assets](https://dagster.io/blog/software-defined-assets).
 - **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration.
 - **Aligned Incentives**. Curators should have incentives to improve datasets and metadata. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
@@ -34,6 +40,7 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations. The package manager should be **format agnostic**.
 - **Social**. Stars, users, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
 	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
+- **Extensible**. Users could extend the package resource (e.g: [Time Series Tabular Package inherits from Tabular Package](https://specs.frictionlessdata.io/tabular-data-package/)) and add better support for that kind of data.
 
 ### Storage
 - **Permanence**. Each version should be accessible and permanent.
@@ -43,22 +50,25 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - **Inmutability**. Data should be append only.
 - **Flexible**. Allow centralized (S3, GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
 	- Support many types of data. Tables, Geospatial, Images, ...
-	- A dataset could have different formats. The protocol could even do the transformation (e.g: CSV to Parquet) or do some checks at the data level to verify they contain the same information.
+	- A dataset could have different formats. The protocol could even do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) or do some checks at the data level to verify they contain the same information.
 
 ### Transformations
 - **Deterministic**. Packaged Lambda transformations (WASM/Docker).
 	- For tabular data, starting with just SQL might be great.
 	- Pyodite + DuckDB for transformations could cover a large area.
+	- Datasets could be derived by using deterministic transformations. Similar to Docker containers. 
 - **Declarative** Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
 - **Templated**. Having a repository/market of open transformations could empower a bunch of use cases ready to plug in to datasets:
 	- Detect outliers automatically.
 	- Detect suspicions records like a categorical variable value that only appears one time while others values appear many times.
 	- Enrich data smartly (matcher + augmenter). If it detects a date, add the day of wee. If it detects latitude and longitude, adds country/city.
+	- [Templated validations to make sure datasets conform to certain standards](https://framework.frictionlessdata.io/docs/checks/baseline.html).
 
 ### Visualizations
-- **Defaults**. Suggest basic charts (bars, lines, time series, clustering).
-- **Exploratory**. Allow drill downs and customization.
+- **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering).
+- **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
+- **Dynamic**. Use only the data you want. Datasets could be exposed by partitions or allow lightweight SQL queries in the URL with filter pushdown. 
 
 ## Extra Thoughts
 - There are already open source projects like [Airbyte](https://airbyte.com/) that could be used to build open data connectors. It would make possible replicating something from `$RANDOM_SOURCE` (like the Ethereum blockchain) to any destination (like IPFS).
@@ -95,9 +105,10 @@ Iterative improvements over public datasets could yield large amounts of value. 
 - [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
 - [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/).
 - [Huggingface Datasets](https://huggingface.co/docs/datasets)
+- [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards)
 - [Quilt](https://github.com/quiltdata/quilt).
 - [DVC](https://github.com/iterative/dvc).
-- [ActiveLoop Hub](https://github.com/activeloopai/Hub).
+- [Deep Lake](https://github.com/activeloopai/deeplake).
 - [Dim](https://github.com/c-3lab/dim)
 - [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
 
