@@ -1,5 +1,7 @@
 # Data Engineering
 
+- 
+
 ## Data Pipelines
 
 Data Pipelines are a set of actions that extract data, transform it, and then load the final data somewhere. As any [distributed system](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/), they're tricky to work with. These are some great principles to keep in mind as [production data engineering is mostly computer science](https://towardsdatascience.com/lessons-from-a-year-in-the-data-science-trenches-f06efa6355fd).
