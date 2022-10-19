@@ -18,6 +18,7 @@
 	- If data is the most precious asset in a company, does it make sense to have only one team responsible for it?
 		- [People talk about data as the new oil but for most companies it’s a lot closer uranium](https://news.ycombinator.com/item?id=27781286). Hard to find people who can to handle or process it correctly, nontrivial security/liabilities if PII is involved, expensive to store and a generally underwhelming return on effort relative to the anticipated utility.
 	- [The pain in data teams come from needing to influence PMs/peers with having little control of them. Data teams need to become really great internal marketers/persuaders](https://anchor.fm/census/episodes/The-evolution-of-the-data-industry--data-jobs-w-Avo-CEO-and-Co-founder-Stefania-Olafsdottir-e16hu1l). That said, it shouldn't be the data team job to convince the organization to be data driven. That's not an effective way of spending resources.
+- Pople problems are orders of magnitude more difficult to solve than data problems.
 - **Integrate data where the decision is made**. E.g: Google showing restaurant scores when you're looking something for dinner.
 	- Reduce the time to insights. If the data is already in the tool you're using, then there's zero time to insights. Provide a set of tools with the same data and let people choose depending on the goal.
 - [Earning the authority to deny requests is one of the most important factors to running a world-class data team](https://twitter.com/teej_m/status/1420432376270782464)

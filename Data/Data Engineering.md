@@ -1,6 +1,7 @@
 # Data Engineering
 
-- 
+- Gather as much domain knowledge as possible. Technical knowledge is not enough.
+- If it can be solved with SQL, stick to SQL.
 
 ## Data Pipelines
 
