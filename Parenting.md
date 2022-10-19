@@ -19,3 +19,5 @@
 - [LessWrong Topic](https://www.lesswrong.com/tag/parenting)
 - [Notes from Don't Shoot The Dog](https://www.lesswrong.com/posts/Cf2xxC3Yx9g6w7yXN/notes-from-don-t-shoot-the-dog)
 - [Reasons why Babies Cry in the First Three Months, How to Tell Them Apart, and What to Do](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/)
+- [Experiences in applying "The Biodeterminist's Guide to Parenting"](https://www.lesswrong.com/posts/PAYMMgPi2L3MPP967/experiences-in-applying-the-biodeterminist-s-guide-to-1)
+- [Random parenting ideas](https://www.lesswrong.com/posts/6vPvpTZTBqe6evmKL/some-random-parenting-ideas)
