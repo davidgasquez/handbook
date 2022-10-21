@@ -67,9 +67,11 @@ We could have a better ecosystem if we collaborate with open standards!
 	- E.g: Orchestrating containers that read/write on IPFS, Pachyderm style.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
 - **Templated**. Having a repository/market of open transformations could empower a bunch of use cases ready to plug in to datasets:
-	- Detect outliers automatically.
+	- Detect outliers automatically on tabular data.
+	- Resize images.
+	- Normalize sound files.
 	- Detect suspicions records like a categorical variable value that only appears one time while others values appear many times.
-	- Enrich data smartly (matcher + augmenter). If it detects a date, add the day of wee. If it detects latitude and longitude, adds country/city.
+	- Enrich data smartly (matcher + augmenter). If it detects a date, add the day of week. If it detects latitude and longitude, adds country/city.
 	- [Templated validations to make sure datasets conform to certain standards](https://framework.frictionlessdata.io/docs/checks/baseline.html).
 
 ### Visualizations
