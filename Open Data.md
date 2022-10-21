@@ -18,7 +18,9 @@ Iterative improvements over public datasets could yield large amounts of value. 
 ### Why now? 
 During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces.
 
-Organizations like Our World in Data or 538 are providing useful analysis but have to also deal with all the dataset manage
+Organizations like Our World in Data or 538 are providing useful analysis but have to also deal with all the dataset management building custom tools around their workflows.
+
+We could have a better ecosystem if we collaborate with open standards!
 
 ## Ecosystem Principles
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
@@ -32,6 +34,7 @@ Organizations like Our World in Data or 538 are providing useful analysis but ha
 - **Aligned Incentives**. Curators should have incentives to improve datasets and metadata. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Curating the data provides compounding benefits for the entire community!
 	- Surfacing and creating great datasets should be rewarded.
+	- Bounties for missing datasets.
 - **Open Source and Decentralized**. Datasets should be stored in a decentralized way using something like IPFS.  This allow the data to be used on tool like [DuckDB WASM Shell](https://shell.duckdb.org/).
 
 ## Modules
