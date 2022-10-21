@@ -35,16 +35,17 @@ We could have a better ecosystem if we collaborate with open standards!
 	- Bounties could be created to reward people that adds useful but missing datasets.
 	- Surfacing and creating great datasets should be rewarded.
 	- Curating the data provides compounding benefits for the entire community!
-- **Open Source and Decentralized**. Datasets should be stored in multiple places. E.g: S3 replicating  a decentralized way using something like IPFS.  This allow the data to be used on tool like [DuckDB WASM Shell](https://shell.duckdb.org/).
+- **Open Source and Decentralized**. Datasets should be stored in multiple places. E.g: S3 replicating to something like IPFS.
 
 ## Modules
 
 ### Packaging
-- **Distribution**. Decentralized way. No central authority. Could work in a closed network too! Permissions management would be also decentralized.
+- **Distribution**. Decentralized way. No central authority. Could work in a closed network too!
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. Datasets could be linked to a `Datafile` with description, default visualizations, WASM linked code...
-- **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations. The package manager should be **format agnostic**.
+- **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations. The package manager should be **format and storage agnostic**.
 - **Social**. Stars, users, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
 	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
+	- Have issues and disscussions close to the dataset.
 - **Extensible**. Users could extend the package resource (e.g: [Time Series Tabular Package inherits from Tabular Package](https://specs.frictionlessdata.io/tabular-data-package/)) and add better support for that kind of data.
 
 ### Storage
