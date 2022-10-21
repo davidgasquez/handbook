@@ -28,14 +28,14 @@ We could have a better ecosystem if we collaborate with open standards!
 	- Prime composability so tools/services can be swapped without affecting the end result.
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
 	- Metadata is a first-class citizen.
-- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. As datasets are declarative, they are [software defined assets](https://dagster.io/blog/software-defined-assets).
-	- With inmutable datasets, you could move backwards in time 
-- **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration.
+- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. Datasets are declarative and inmutable. They become [software defined assets](https://dagster.io/blog/software-defined-assets).
+	- Thanks to inmutability, you could move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
+- **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration and curation.
 - **Aligned Incentives**. Curators should have incentives to improve datasets and metadata. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
-	- Curating the data provides compounding benefits for the entire community!
-	- Surfacing and creating great datasets should be rewarded.
 	- Bounties could be created to reward people that adds useful but missing datasets.
-- **Open Source and Decentralized**. Datasets should be stored in a decentralized way using something like IPFS.  This allow the data to be used on tool like [DuckDB WASM Shell](https://shell.duckdb.org/).
+	- Surfacing and creating great datasets should be rewarded.
+	- Curating the data provides compounding benefits for the entire community!
+- **Open Source and Decentralized**. Datasets should be stored in multiple places. E.g: S3 replicating  a decentralized way using something like IPFS.  This allow the data to be used on tool like [DuckDB WASM Shell](https://shell.duckdb.org/).
 
 ## Modules
 
