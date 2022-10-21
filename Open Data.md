@@ -26,15 +26,15 @@ We could have a better ecosystem if we collaborate with open standards!
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be updated, forked and discussed as code in version controlled repositories.
 	- Prime composability so tools/services can be swapped without affecting the end result.
-	- This provided a declarative way of defining the datasets schema and other meta properties like _relations_ or _tests_.
-	- Pachyderm style transformations. E.g: orchestrating containers that read/write on IPFS.
+	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
 	- Metadata is a first-class citizen.
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. As datasets are declarative, they are [software defined assets](https://dagster.io/blog/software-defined-assets).
+	- With inmutable datasets, you could move backwards in time 
 - **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration.
 - **Aligned Incentives**. Curators should have incentives to improve datasets and metadata. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Curating the data provides compounding benefits for the entire community!
 	- Surfacing and creating great datasets should be rewarded.
-	- Bounties for missing datasets.
+	- Bounties could be created to reward people that adds useful but missing datasets.
 - **Open Source and Decentralized**. Datasets should be stored in a decentralized way using something like IPFS.  This allow the data to be used on tool like [DuckDB WASM Shell](https://shell.duckdb.org/).
 
 ## Modules
@@ -63,6 +63,7 @@ We could have a better ecosystem if we collaborate with open standards!
 	- Pyodite + DuckDB for transformations could cover a large area.
 	- Datasets could be derived by using deterministic transformations. Similar to Docker containers. 
 - **Declarative** Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
+	- E.g: Orchestrating containers that read/write on IPFS, Pachyderm style.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
 - **Templated**. Having a repository/market of open transformations could empower a bunch of use cases ready to plug in to datasets:
 	- Detect outliers automatically.
