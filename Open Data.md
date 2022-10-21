@@ -18,6 +18,8 @@ Iterative improvements over public datasets could yield large amounts of value. 
 ### Why now? 
 During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces.
 
+Organizations like Our World in Data or 538 are providing useful analysis but have to also deal with all the dataset manage
+
 ## Ecosystem Principles
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be updated, forked and discussed as code in version controlled repositories.
