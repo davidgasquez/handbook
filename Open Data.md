@@ -89,8 +89,8 @@ We could have a better ecosystem if we collaborate with open standards!
 - Can new table formats play efficiently with IPFS?
 	- E.g: Running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
 	- That'd mean Delta/Iceberg tables have an append only changelog that IPLD understand. Same for the storage layer. Updates should be handled transparently and efficiently.
-- Is it possible to run Spark/Trino on top of IPFS?
-- What would be the ideal tabular format for IPFS? Parquet? Iceberg? ...
+- Is it possible to run Spark/Trino on top of IPFS with Bacalhau?
+- What would be the ideal tabular format for IPFS? Parquet?
 
 ### Related Projects
 #### Computation
