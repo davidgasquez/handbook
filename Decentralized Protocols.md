@@ -1,6 +1,6 @@
 # Decentralized Protocols
 - Decentralized protocols become [fat protocols](https://www.usv.com/writing/2016/08/fat-protocols/).
-  - On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are necessary but not valuable. Value is captured by the apps.
+	- On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are necessary but not valuable. Value is captured by the apps.
 	  - A great example of a modern open source protocol is [[IPFS]].
   - Fat protocols will use tools like blockchain to store the data. With open protocols and decentralized data ([[Web3]]), apps are only the frontend of the services.
 - [Protocol and Open Source Funding](https://youtu.be/few99D5WnRg?list=WL). It'll add to the current ways to to fund open source projects:
