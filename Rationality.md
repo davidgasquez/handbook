@@ -69,6 +69,7 @@
 	- **Conformity Test:** Imagine that some common and universally-agreed idea was unusual; would you still want to do it? If not, you might be motivated by conformity bias.
 	- **The Selective Skeptic Test:** How credible would you consider the same evidence if it supported the other side?
 - [Predictive processing](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) gives us more confidence in an admission that bias is possible, and a hope that there's something other than bias which we can latch onto as a guide. It helps provide a convincing framework we can use to figure out what's going on at all levels of cognition.
+- An estimate is better than a guess. An measurement is better than an estimate.
 - All points of view have complex context, many of which are predetermined by chance of birth, biology, and environment. There's no such thing as, "I only believe (x) because of (y)." our brains like simple, binary thinking, but real life is constantly challenging that impulse.
 - Experiments usually have mistakes. When the experiment process improves around a topic, the evidence might decrease indicating it wasn't present in the beginning. To find truth, improve the way to measure it!
 - [Cognitive ease](https://youtu.be**/cebFWOlx848) makes us more likely to believe things that are familiar to us. Cognitive strain helps us avoid the pitfall of jumping to the intuitive but wrong answer. Both ways are useful in different situations, the key is to identify where to flow or fight against the cognitive ease.
