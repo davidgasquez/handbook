@@ -13,7 +13,7 @@ Tooling built on the right principles can provide the foundation for a culture o
 ## Running Experiments
 We do not live in an ideal world, so we need to be very deliberate and thoughtful in how we approach experimentation design and analysis.
 
-- Generate hypotheses based on actual observations.
+- Generate hypotheses based on actual observations. All experiments should have a hypothesis in plain English.
 - Do not simply copy what other companies are doing (do not assume that other companies tested and validated something).
 - Choose one primary metric in advance to determine "winner" while keeping a few guardrail metrics.
 - [You're probably **not measuring what you thought you were measuring**](https://www.lesswrong.com/posts/9kNxhKWvixtKW5anS/you-are-not-measuring-what-you-think-you-are-measuring). But if you measure enough different stuff, you might figure out what you’re actually measuring.
