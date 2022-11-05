@@ -3,6 +3,8 @@
 - If your product/tool/process documentation is not good enough, people will not use it.
 - The documentation for a project should live in the same repository as the code itself.
 	- Update documentation in lockstep when updating the codebase.
+	- Documentation should be **versioned**.
+	- Documentation changes should be reviewed in the same way as your code.
 - [Documentation](https://diataxis.fr/) needs to include and be structured around its four different functions: [tutorials, how-to guides, technical reference and explanation](https://documentation.divio.com/introduction/). Each of them requires a distinct mode of writing.
 	- A tutorial is learning-oriented, allows the newcomer to get started, similar to a lesson. E.g: teaching a small child how to cook.
 	- A how-to guide is goal-oriented, shows how to solve a specific problem with a series of steps. E.g: a recipe in a cookery book.
