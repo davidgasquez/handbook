@@ -1,4 +1,5 @@
-## Web3
+# Web3
+
 - Web3 is much more than [[Blockchain]] and [[Cryptocurrencies]]. [It means building in public, new types of incentives, real ownership of digital property, internet-wide login / identity](https://ckarchive.com/b/p9ueh9hp409k), ...
 - Key decisions associated with maintaining and updating cryptonetwork protocols. As with every human organization, aligning interests and beliefs among human participants to reach agreement is the goal of [[governance]].
   - [In cryptonetworks, these decisions are made by the community, using open and transparent mechanisms](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e). DAOs don't need a boss!
@@ -7,7 +8,7 @@
 - Web3 incentives open source. That creates an ecosystem of composable and permissionless tools that increases the speed of innovation.
 - This new space encourages experimentation in a diverse set of fields like [[Governance]] or [[Finances]].
 
-### Resources
+## Resources
 
 - [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) and the [Web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack).
 - [Kernel Community](https://kernel.community/en/learn/).
@@ -22,6 +23,7 @@
 	- [Dropbox](https://www.sliksafe.com/). [Another](https://files.chainsafe.io/).
 
 ## Links
+
 - [Kernel](https://kernel.community/). An 8 week program covering crypto and web3.
 - [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Great list of crypto readings and resources.
 	- [Understanding Crypto](https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)- Learn more about cryptocurrencies.
@@ -54,6 +56,7 @@
 - [Apollo](https://github.com/chainbound/apollo)
 - [Ether SQL](https://github.com/analyseether/ether_sql)
 - [Spec](https://github.com/spec-dev)
+- [Tokenflow](https://docs.tokenflow.live/)
 - [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 
 ### Bounty Based Collaboration:

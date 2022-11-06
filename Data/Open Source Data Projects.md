@@ -18,6 +18,9 @@
 - [Metabase](https://www.metabase.com/)
 - [Evidence](https://www.evidence.dev/)
 
+## Visualizations
+- [Kepler](https://kepler.gl/) (maps)
+
 ## Data Pipelines
 - [Meltano](https://meltano.com)
 - [Airbyte](https://airbyte.io/)

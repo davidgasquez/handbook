@@ -75,6 +75,7 @@ Instead of building the tool, we can start with a standard protocol and let othe
 - [Logseq](https://logseq.com/).
 - [Dendron](https://www.dendron.so/).
 - [Foam](https://foambubble.github.io/).
+- [Noosphere](https://github.com/subconsciousnetwork/noosphere) 
 
 ## City Discovery
 

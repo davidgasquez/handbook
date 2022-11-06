@@ -5,7 +5,7 @@
 ## Best Practices
 - [Before you dive into how to build a dashboard, the first thing you should ask yourself is whether this is the right tool for your situation.](https://shopify.engineering/make-dashboards-using-product-thinking-approach) Understand your problem and your audience; design a dashboard that does one thing really well, for a clear set of users.
 	- Answer three specific questions: [How, What, How](https://youtu.be/g2-dkJkZjiI)?
-- Strive to create dashboards that are either standalone or include links to provide the relevant context.
+- Strive to create dashboards that are either standalone or include links to provide the relevant context. Without meaning, data is just digits.
 - [Add all the possible context into the dashboard](https://www.youtube.com/watch?v=Kub2bXrKmOE):
 	- Instructions.
 	- Purpose and explanation of the data being shown.

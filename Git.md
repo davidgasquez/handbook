@@ -2,9 +2,11 @@
 
 [Version control software enables teams to work in distributed and asynchronous environments, manage changes and versions of code and artifacts, and resolve merge conflicts and related anomalies.](https://chris.beams.io/posts/git-commit/)
 
-## How to make a good Commit Message
-Guidelines for a great commit message:
+## How to make a good Commit
 
+- Each commit should change a single thing.
+
+### Message
 1. Separate subject from body with a blank line.
 1. Limit the subject line to 50 characters.
 1. Capitalize the subject line.
