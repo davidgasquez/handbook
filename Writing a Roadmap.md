@@ -10,6 +10,8 @@ Best practices to follow when building and managing a roadmap:
 - Review regularly
 - Stay flexible
 
+A roadmap needs to have different resolutions (zoom) tuned for different use cases. E.g: User oriented roadmap with linear milestones and monthly or quarterly milestones.
+
 ## Process
 
 - **Gather [[Ideas]]**: Collect inputs and data from across your project.

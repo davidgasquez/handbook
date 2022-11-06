@@ -1,4 +1,5 @@
 # Decentralized Protocols
+
 - Decentralized protocols become [fat protocols](https://www.usv.com/writing/2016/08/fat-protocols/).
   - On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are necessary but not valuable. Value is captured by the apps.
 	  - A great example of a modern open source protocol is [[IPFS]].
@@ -13,3 +14,4 @@
 	- The fundamental power of the internet is its _interoperability_. It was born out of the ability of different networks to talk to each other using common protocols. The interoperability is what we've lost in the Web 2.0 era. Even such quintessential thing as a web API has no well defined standard or protocol, just a very vague concept of REST or RPC. We need commonly accepted standards and _decentralized_ protocols: for web APIs, for identity management, for message queuing, for web callbacks (webhooks), for online transactions, for semantic web and ontology, etc.
 - One wallet could allow you to login to any service. The wallets are your credentials. [[NFTs | Owning a thing]] could allow you to enter somewhere.
 - [Open source protocols should favor composability over just about everything](https://youtu.be/TdBTJY-G8xs). Breaking big things into smaller things. This encourages experimentation at multiple levels.
+- A decentralized protocol can work with a centralized provider. It has the benefits of both (might be fast but no lock users in).

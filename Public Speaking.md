@@ -15,6 +15,7 @@ Some great advice for [public speaking presentations](http://www.jilles.net/perm
 - Number the slides.
 - Don't present any slide with a wall of text.
 - Titles for the graphs should be the conclusion.
+- If having issues keeping with the story (e.g. you need long notes), use many slides to help you cover all the points and offer a summary at the end.
 
 ## Resources
 

@@ -6,3 +6,6 @@
   - [Kickstarter's SQL Style Guide](https://gist.github.com/fredbenenson/7bb92718e19138c20591)
   - [Meadmaker's SQL Style Guide](https://github.com/meadmaker/sql-style-guide)
   - [SQL Style Guide](https://www.sqlstyle.guide/)
+
+### Resources
+- [Build your own database on Rust](https://github.com/adambcomer/database-engine)

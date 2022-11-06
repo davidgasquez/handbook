@@ -38,7 +38,7 @@ Most large social systems are pursuing objectives other than the ones they procl
 
 A [[Mental Models | mental model]] of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
-Remember, sometimes not doing something is better than doing it ([Primum non nocere](https://en.wikipedia.org/wiki/Primum_non_nocere)). E.g: controlling small fires instead of letting them burn the top layer of the forest.
+Remember, sometimes not doing something is better than doing it ([Primum non nocere](https://en.wikipedia.org/wiki/Primum_non_nocere)). E.g: controlling small fires instead of letting them burn the top layer of the forest. Spending 1 week repairing trains because there was an accident makes people use the car more, turning into more deaths than leaving the train rails as they were.
 
 > _Almost no one is evil; almost everything is broken._
 
