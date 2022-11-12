@@ -102,12 +102,8 @@ We could have a better ecosystem if we collaborate with open standards!
 - Homomorphic encription on private data?
 - How can datasets be indexed?
 - Some datasets are not static (e.g: Ethereum `blocks`). How can we stream new data?
-
-### Use Case 
-
-
-
-#### How does it competes against a centralized option?
+- What would be a great use case to start with? 
+- Why should people use this vs
 
 ### Related Projects
 #### Computation
