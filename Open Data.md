@@ -154,6 +154,7 @@ We could have a better ecosystem if we collaborate with open standards!
 - [Nasdaq](https://data.nasdaq.com/search).
 - [Zenodo](https://zenodo.org/search?page=1&size=20&q=&file_type=csv&type=dataset&sort=mostviewed).
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets).
+- [Data Packaged Core Datasets](https://github.com/datasets/)
 - [Internet Archive Dataset Collection](https://archive.org/details/datasets).
 - [AWS Open Data Registry](https://registry.opendata.aws/).
 - [Datamarket](https://en.datamarket.es/).
