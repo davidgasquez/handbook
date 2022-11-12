@@ -20,7 +20,7 @@ Iterative improvements over public datasets would yield large amounts of value. 
 ### Why now? 
 We have better storage, we have simpler compute, we have more data. We need to go one level up in the abstraction ladder.
 
-During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces.
+During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (HuggingFace Datasets, Filecoin Slinghshot). Also, [DeSci](https://ethereum.org/en/desci/)!
 
 Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_ building custom tools around their workflows. There is no `data get OWID/daily-covid-cases`, no `datasets.storage` that could act as entrypoting/protocol to discover datasets that's not Google.
 
@@ -59,6 +59,7 @@ We could have a better ecosystem if we collaborate with open standards!
 - **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
 	- Tabular data could be partitioned to make it easier for future retrieval.
+	- Think at the dataset level and not the file level.
 - **Inmutability**. Data should be append only.
 - **Flexible**. Allow centralized (S3, GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
 	- Support many types of data. Tables, Geospatial, Images, ...
@@ -97,6 +98,9 @@ We could have a better ecosystem if we collaborate with open standards!
 	- That'd mean Delta/Iceberg tables have an append only changelog that IPLD understand. Same for the storage layer. Updates should be handled transparently and efficiently.
 - Is it possible to run Spark/Trino on top of IPFS with Bacalhau?
 - What would be the ideal tabular format for IPFS? Parquet?
+
+### Use Case 
+#### How does it competes against a centralized option?
 
 ### Related Projects
 #### Computation
