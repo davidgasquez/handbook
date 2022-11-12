@@ -69,7 +69,7 @@ We could have a better ecosystem if we collaborate with open standards!
 - **Deterministic**. Packaged lambda style transformations (WASM/Docker).
 	- For tabular data, starting with just SQL might be great.
 	- Pyodite + DuckDB for transformations could cover a large area.
-	- Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers. That file will carry Metadata, Lineage and some defaults (visualizations, code, ...)
+	- Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers. That file will carry Metadata, Lineage and even some defaults (visualizations, code, ...)
 - **Declarative** Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
 	- E.g: Orchestrating containers that read/write on IPFS, Pachyderm style.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
@@ -88,6 +88,7 @@ We could have a better ecosystem if we collaborate with open standards!
 
 ## Extra Thoughts
 - There are already open source projects like [Airbyte](https://airbyte.com/) that could be used to build open data connectors. It would make possible replicating something from `$RANDOM_SOURCE` (like the Ethereum blockchain) to any destination (like IPFS).
+	- This could be used as a way to make open adapters for datasets. The community could write parsers that know how to read data from HuggingFace, GitHub, Datalad, ...
 - [Making a SQL interface](https://twitter.com/josephjacks_/status/1492931290416365568) to query and mix these datasets could be a great step forward since it'll enable tooling like `dbt` to be used on top of it. **Data-as-code**.
 	- SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data to Our World In Data.
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
