@@ -57,6 +57,7 @@
 - [Ether SQL](https://github.com/analyseether/ether_sql)
 - [Spec](https://github.com/spec-dev)
 - [Tokenflow](https://docs.tokenflow.live/)
+- [Transpose](https://www.transpose.io/)
 - [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 
 ### Bounty Based Collaboration:
@@ -79,3 +80,6 @@
 - [Mike Ritchie](https://twitter.com/thisritchie/status/1533434879773290496)
 - [Luke Kim](https://twitter.com/0xLukeKim/status/1514294888778534915)
 - [Richard Blythman](https://twitter.com/richardblythman)
+- [Tomek Mierzwa](https://twitter.com/mierzwik)
+- [Calum Moore](https://twitter.com/calummoore)
+- 
