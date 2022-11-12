@@ -20,12 +20,13 @@ Iterative improvements over public datasets would yield large amounts of value. 
 ### Why now? 
 During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces.
 
-Organizations like Our World in Data or 538 are providing useful analysis but have to also deal with all the dataset management building custom tools around their workflows.
+Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_ building custom tools around their workflows.
 
 We could have a better ecosystem if we collaborate with open standards!
 
 ## Ecosystem Principles
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
+	- Data is useful when is used! We're not using most of humanity's open datasets.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be updated, forked and discussed as code in version controlled repositories.
 	- Prime composability so tools/services can be swapped without affecting the end result.
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
