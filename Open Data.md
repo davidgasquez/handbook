@@ -61,9 +61,9 @@ We could have a better ecosystem if we collaborate with open standards!
 	- Think at the dataset level and not the file level.
 	- Tabular data could be partitioned to make it easier for future retrieval.
 - **Inmutability**. Data should be append only.
-- **Flexible**. Allow centralized (S3, GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
+- **Flexible**. Allow centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
 	- Support many types of data. Tables, Geospatial, Images, ...
-	- A dataset could have different formats. The protocol could even do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) or do some checks at the data level to verify they contain the same information.
+	- A dataset could have different formats. The protocol could even do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically or do some checks at the data level to verify they contain the same information. Datasets would be accesible with multiple formats. 
 
 ### Transformations
 - **Deterministic**. Packaged lambda style transformations (WASM/Docker).
