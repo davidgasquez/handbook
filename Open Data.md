@@ -58,18 +58,18 @@ We could have a better ecosystem if we collaborate with open standards!
 - **Permanence**. Each version should be accessible and permanent.
 - **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
-	- Tabular data could be partitioned to make it easier for future retrieval.
 	- Think at the dataset level and not the file level.
+	- Tabular data could be partitioned to make it easier for future retrieval.
 - **Inmutability**. Data should be append only.
 - **Flexible**. Allow centralized (S3, GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
 	- Support many types of data. Tables, Geospatial, Images, ...
 	- A dataset could have different formats. The protocol could even do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) or do some checks at the data level to verify they contain the same information.
 
 ### Transformations
-- **Deterministic**. Packaged Lambda transformations (WASM/Docker).
+- **Deterministic**. Packaged lambda style transformations (WASM/Docker).
 	- For tabular data, starting with just SQL might be great.
 	- Pyodite + DuckDB for transformations could cover a large area.
-	- Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers. 
+	- Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers. That file will carry Metadata, Lineage and some defaults (visualizations, code, ...)
 - **Declarative** Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
 	- E.g: Orchestrating containers that read/write on IPFS, Pachyderm style.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
@@ -98,6 +98,7 @@ We could have a better ecosystem if we collaborate with open standards!
 	- That'd mean Delta/Iceberg tables have an append only changelog that IPLD understand. Same for the storage layer. Updates should be handled transparently and efficiently.
 - Is it possible to run Spark/Trino on top of IPFS with Bacalhau?
 - What would be the ideal tabular format for IPFS? Parquet?
+- Homomorphic encription on private data?
 
 ### Use Case 
 #### How does it competes against a centralized option?
