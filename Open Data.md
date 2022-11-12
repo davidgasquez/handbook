@@ -152,6 +152,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - [HuggingFace Datasets](https://huggingface.co/datasets).
 - [Data World](https://data.world/datasets/open-data).
 - [DoltHub](https://www.dolthub.com/discover).
+- [Socrata](https://dev.socrata.com/)
 - [Nasdaq](https://data.nasdaq.com/search).
 - [Zenodo](https://zenodo.org/search?page=1&size=20&q=&file_type=csv&type=dataset&sort=mostviewed).
 - [Splitgraph](https://www.splitgraph.com/explore)
