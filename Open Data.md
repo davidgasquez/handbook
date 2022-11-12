@@ -26,7 +26,7 @@ Organizations like [Our World in Data](https://ourworldindata.org/) or [538](htt
 
 We could have a better ecosystem if we collaborate with open standards!
 
-## Ecosystem Principles
+## Design Goals
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
 	- Data is useful when is used! We're not using most of humanity's open datasets as much as we could. That's now because they're not available but because they're hard to get.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be updated, forked and discussed as code in version controlled repositories.
@@ -103,9 +103,10 @@ We could have a better ecosystem if we collaborate with open standards!
 - How can datasets be indexed?
 - Some datasets are not static (e.g: Ethereum `blocks`). How can we stream new data?
 - What would be a great use case to start with? 
-- Why should people use this vs
+- Why should people use this vs doing their own thing?
 
 ### Related Projects
+
 #### Computation
 - [Kamu](https://www.kamu.dev/).
 - [Algovera](https://www.algovera.ai/).
