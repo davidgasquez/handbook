@@ -13,9 +13,9 @@ As an organization or research group, [spending time curating and maintaining da
 
 [Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is the best way to learn about the world and [[Coordination | coordinate]] people.
 
-Open protocols create open systems. Open code creates tools. Open data creates open knowledge. **We need better tools, protocols, and mechanisms to improve the Open Data ecosystem**. It should be easy to find, download, process, publish, and collaborate on open datasets.
+Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
-Iterative improvements over public datasets could yield large amounts of value. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Open Data could do the same!
+Iterative improvements over public datasets would yield large amounts of value. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Let's make Open Data do the same!
 
 ### Why now? 
 During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces.
