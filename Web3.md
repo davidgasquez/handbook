@@ -35,12 +35,6 @@
 - [RabbitHole](https://rabbithole.gg/) - Learn how to use and contribute to decentralized apps, earning tokens based on your on-chain activity.
 - [Ethereum Community Guides](https://ethereum.org/en/learn). A set of resources to help you learn more about Ethereum.
 - [Augur](https://www.augur.net/) - A prediction market protocol owned and operated by the people that use it.
-- Interesting Data Projects:
-	  - [Flipside](https://flipsidecrypto.xyz/).
-	  - [Dune](https://dune.xyz/).
-	  - [OurNetwork](https://ournetwork.substack.com/). They also have a [Talent Agency](https://tally.so/r/wbx6Em).
-	  - [MetricsDAO](https://metricsdao.xyz/).
-	  - [Ocean](https://github.com/oceanprotocol).
 
 ### Decentralized Science
 - [Opscientia](https://github.com/opscientia/desci)
