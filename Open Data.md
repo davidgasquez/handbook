@@ -29,7 +29,7 @@ We could have a better ecosystem if we collaborate with open standards!
 ## Design Goals
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
 	- Data is useful when is used! We're not using most of humanity's open datasets as much as we could. That's now because they're not available but because they're hard to get.
-- **Versioned and Modular**. Data and metadata (e.g: `relation`) should be updated, forked and discussed as code in version controlled repositories.
+- **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
 	- Prime composability so tools/services can be swapped without affecting the end result.
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
 	- Metadata is a first-class citizen.
@@ -69,7 +69,7 @@ We could have a better ecosystem if we collaborate with open standards!
 - **Deterministic**. Packaged lambda style transformations (WASM/Docker).
 	- For tabular data, starting with just SQL might be great.
 	- Pyodite + DuckDB for transformations could cover a large area.
-	- Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers. That file will carry Metadata, Lineage and even some defaults (visualizations, code, ...)
+	- Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers. That file will carry [Metadata, Lineage and even some defaults (visualizations, code, ...)](https://handbook.datalad.org/en/latest/basics/101-127-yoda.html)
 - **Declarative** Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
 	- E.g: Orchestrating containers that read/write on IPFS, Pachyderm style.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
