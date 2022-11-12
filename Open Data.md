@@ -129,6 +129,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards)
 - [Quilt](https://github.com/quiltdata/quilt).
 - [DVC](https://github.com/iterative/dvc).
+- [Splitgraph](https://github.com/splitgraph/sgr)
 - [Deep Lake](https://github.com/activeloopai/deeplake).
 - [Dim](https://github.com/c-3lab/dim)
 - [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
@@ -153,6 +154,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - [DoltHub](https://www.dolthub.com/discover).
 - [Nasdaq](https://data.nasdaq.com/search).
 - [Zenodo](https://zenodo.org/search?page=1&size=20&q=&file_type=csv&type=dataset&sort=mostviewed).
+- [Splitgraph](https://www.splitgraph.com/explore)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets).
 - [Data Packaged Core Datasets](https://github.com/datasets/)
 - [Internet Archive Dataset Collection](https://archive.org/details/datasets).
