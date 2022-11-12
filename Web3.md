@@ -78,4 +78,3 @@
 - [Richard Blythman](https://twitter.com/richardblythman)
 - [Tomek Mierzwa](https://twitter.com/mierzwik)
 - [Calum Moore](https://twitter.com/calummoore)
-- 
