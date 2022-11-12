@@ -5,9 +5,11 @@
 ## Motivation
 [Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones. 
 
-As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless that's how you make money. Data ends up siloed in multiples places and multiple formats. Interoperability is only a wild dream.
-
-On top of that, data is commonly stored in perishable hardware and formats. Datasets are hard to index and no incentives exists to push people to collaborate on improving/curating them.
+As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless that's how you make money. As a result:
+- Data ends up siloed in multiples places and multiple formats. Interoperability is only a wild dream.
+- Data is commonly stored in perishable hardware and formats. 
+- Datasets are hard to index.
+- No incentives exists for people to collaborate on improving or curating datasets.
 
 [Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is the best way to learn about the world and [[Coordination | coordinate]] people.
 
