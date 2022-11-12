@@ -45,7 +45,7 @@
 ### Decentralized Science
 - [Opscientia](https://github.com/opscientia/desci)
 
-### Open Source Blockchain Data Projects
+### Blockchain Indexing Data Projects
 - [Blockchain ETL](https://github.com/blockchain-etl)
 - [Luabase](https://github.com/luabase)
 - [Mars](https://github.com/deepeth/mars)
@@ -58,6 +58,7 @@
 - [Spec](https://github.com/spec-dev)
 - [Tokenflow](https://docs.tokenflow.live/)
 - [Transpose](https://www.transpose.io/)
+- [Allium](https://twitter.com/alliumlabs)
 - [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 
 ### Bounty Based Collaboration:
