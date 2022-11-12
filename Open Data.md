@@ -22,7 +22,7 @@ We have better storage, we have simpler compute, we have more data. We need to g
 
 During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces.
 
-Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_ building custom tools around their workflows. There is no `data get OWID/daily-covid-cases`, no protocol to discover datasets that's not Google.
+Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_ building custom tools around their workflows. There is no `data get OWID/daily-covid-cases`, no `datasets.storage` that could act as entrypoting/protocol to discover datasets that's not Google.
 
 We could have a better ecosystem if we collaborate with open standards!
 
@@ -41,6 +41,7 @@ We could have a better ecosystem if we collaborate with open standards!
 	- Surfacing and creating great datasets should be rewarded.
 	- Curating the data provides compounding benefits for the entire community!
 - **Open Source and Decentralized**. Datasets should be stored in multiple places. E.g: S3 replicating to something like IPFS.
+	- Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources.
 
 ## Modules
 
