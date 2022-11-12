@@ -3,11 +3,11 @@
 > People should be able to collaborate on Open Data the same way we collaborate on Open Source code.
 
 ## Motivation
-[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones. 
+[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
 
 As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless that's how you make money. As a result:
 - Data ends up siloed in multiples places and multiple formats. Interoperability is only a wild dream.
-- Data is commonly stored in perishable hardware and formats. 
+- Data is commonly stored in perishable hardware and formats.
 - Datasets are hard to index.
 - No incentives exists for people to collaborate on improving or curating datasets.
 
@@ -17,7 +17,7 @@ Open protocols create open systems. Open code creates tools. **Open data creates
 
 Iterative improvements over public datasets would yield large amounts of value. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Let's make Open Data do the same! Data brings freedom.
 
-### Why now? 
+### Why now?
 We have better storage, we have simpler compute, we have more data. We need to go one level up in the abstraction ladder.
 
 During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (HuggingFace Datasets, Filecoin Slinghshot). Also, [DeSci](https://ethereum.org/en/desci/)!
@@ -63,7 +63,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - **Inmutability**. Data should be append only.
 - **Flexible**. Allow centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
 	- Support many types of data. Tables, Geospatial, Images, ...
-	- A dataset could have different formats. The protocol could even do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically or do some checks at the data level to verify they contain the same information. Datasets would be accesible with multiple formats. 
+	- A dataset could have different formats. The protocol could even do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically or do some checks at the data level to verify they contain the same information. Datasets would be accesible with multiple formats.
 
 ### Transformations
 - **Deterministic**. Packaged lambda style transformations (WASM/Docker).
@@ -84,7 +84,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 ### Visualizations
 - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering).
 - **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
-- **Dynamic**. Use only the data you want. Datasets could be exposed by partitions or allow lightweight SQL queries in the URL with filter pushdown. 
+- **Dynamic**. Use only the data you want. Datasets could be exposed by partitions or allow lightweight SQL queries in the URL with filter pushdown.
 
 ## Extra Thoughts
 - There are already open source projects like [Airbyte](https://airbyte.com/) that could be used to build open data connectors. It would make possible replicating something from `$RANDOM_SOURCE` (like the Ethereum blockchain) to any destination (like IPFS).
@@ -97,12 +97,12 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - Can new table formats play efficiently with IPFS?
 	- E.g: Running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
 - Is it possible to run Spark/Trino on top of IPFS with Bacalhau?
-- What would be the ideal tabular format for IPFS? 
+- What would be the ideal tabular format for IPFS?
 	- Parquet could be a great fit if we figure out how to deterministically serialize it and integrate with IPLD.
 - Homomorphic encription on private data?
 - How can datasets be indexed?
 - Some datasets are not static (e.g: Ethereum `blocks`). How can we stream new data?
-- What would be a great use case to start with? 
+- What would be a great use case to start with?
 - Why should people use this vs doing their own thing?
 
 ### Related Projects

@@ -14,7 +14,7 @@
 		- Show your work. Capture who made what decision and when, along with a detailed, but _concise_ description of why and how that decision was made.
 		- Consistent changelogs also communicate new features, the value they get from your product, and your commitment to improving it.
 	- [[Meetings]] agendas and conclusions.
-	- Responsibilities. Things that aren't your fault can still be your responsibility.
+	- Responsibilities. Things that aren't your fault can still be your responsibility. If something is everyone's job, it's no one's job.
 	- Defaults. Each thing should have a place by default, docs, issues, ...
 - Aim to be a completely autonomous team. Everyone should feel empower to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.**
 - Run [Automated Check-ins](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
@@ -40,6 +40,7 @@
 	- Everyone on your team should assume that everyone else on the team is doing their best work, given their circumstances.
 	- Trust people. Add [[Processes]] where you need to replace some level of trust.
 - Times change, trends change, cultures change. Make it explicit.
+- Spend time at work thinking strategically. E.g: Think about the approach you will take to address the company's needs over the medium to long term.
 - **How to drive change in a team**: find people who agree on the problem, start small, experiment, scale, repeat. Making big change is hard. Keeping things simple is hard.
 	- On the other hand, beware of changing too many things. You don't feel the pain of things you're not doing!
 - Scale organizational efforts across a portfolio of synergistic products.

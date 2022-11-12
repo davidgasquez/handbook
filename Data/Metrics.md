@@ -2,7 +2,7 @@
 
 ![[Quotes#^a5049d]]
 
-- There should probably be a single "North Star Metric" with 3-5 additional supporting metrics. You may also want to consider counter-metrics (or pairing metrics) that keep you from over-rotating on a singular metric.
+- There should probably be a single "North Star Metric" with 3-5 additional supporting metrics. You may also want to consider counter-metrics (or pairing metrics) that keep you from [over-rotating on a singular metric](https://www.dataliftoff.com/wp-content/uploads/2022/10/tennis_balls-1536x2048.jpeg).
 	-  [Design **north star metrics that capture value to the customer** rather than value to your organization](https://roundup.getdbt.com/p/the-perfect-north-star-metric).
 - Metrics should use the SMART framework (Specific, Measurable, Achievable, Results-Oriented, Targeted).
 	- Pick the simplest metric that works for you. Metrics definitions should be as easy as a tool-tip away to find.
