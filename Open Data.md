@@ -96,12 +96,17 @@ We could have a better ecosystem if we collaborate with open standards!
 ## Open Questions
 - Can new table formats play efficiently with IPFS?
 	- E.g: Running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
-	- That'd mean Delta/Iceberg tables have an append only changelog that IPLD understand. Same for the storage layer. Updates should be handled transparently and efficiently.
 - Is it possible to run Spark/Trino on top of IPFS with Bacalhau?
-- What would be the ideal tabular format for IPFS? Parquet?
+- What would be the ideal tabular format for IPFS? 
+	- Parquet could be a great fit if we figure out how to deterministically serialize it and integrate with IPLD.
 - Homomorphic encription on private data?
+- How can datasets be indexed?
+- Some datasets are not static (e.g: Ethereum `blocks`). How can we stream new data?
 
 ### Use Case 
+
+
+
 #### How does it competes against a centralized option?
 
 ### Related Projects
