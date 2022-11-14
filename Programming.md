@@ -24,6 +24,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 	- Writing program code is a good way of debugging your thinking.
 	- Apply small improvements at each iteration. Running the program will make it more resilient and robust as more errors get fixed.
 	- Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
+		- Increased efficiency can sometimes, counterintuitively, lead to worse outcomes.
 	- Sometimes you have to stop sharpening the saw, and just start cutting.
 	- Software which is broken because there is no incentive to ship good software is going to stay broken until the incentives change.
 - **Choose portability over efficiency**.
