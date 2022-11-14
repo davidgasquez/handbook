@@ -20,6 +20,7 @@
 ### Card Games
 
 - [New Eleusis](https://web.archive.org/web/20190822201119/http://www.matuszek.org/eleusis1.html).
+- [Dvorak](https://en.wikipedia.org/wiki/Dvorak_(game)).
 - [Skull](https://boardgamegeek.com/boardgame/92415/skull).
 - [Oh, Hell!](https://www.pagat.com/exact/ohhell.html)
 - [All Card Games](https://www.pagat.com/). A list of card games all around the world.
