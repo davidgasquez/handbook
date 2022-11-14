@@ -15,7 +15,7 @@
 - [Secret Hitler](https://www.secrethitler.com/assets/Secret_Hitler_Print_and_Play.pdf).
 - [Two of these people are lying](https://youtu.be/NPaz6mFsSjU). Everyone puts a weird Wikipedia articles. Someone pulls a random one. People should come up with a compelling description and the goal is to discern what is true and what is false.
 - [So Long Sucker](https://boardgamegeek.com/boardgame/8304/so-long-sucker).
-- 
+- [Nomic](https://en.wikipedia.org/wiki/Nomic).
 
 ### Card Games
 
