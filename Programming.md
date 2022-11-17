@@ -8,7 +8,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 	- The best code is no code, or code you don’t have to maintain.
 - **Design for simplicity**.
 	- Do the [simplest thing](https://landing.google.com/sre/book/chapters/simplicity.html) that could possibly work.
-	- Benefits of simplicity: ease of understanding, ease of change, ease of debugging, flexibility. [The goal of software design is to create chunks or slices that fit into a human mind](https://mobile.twitter.com/KentBeck/status/1354418068869398538). The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes.
+	- Benefits of simplicity: ease of understanding, ease of change (improvement), ease of debugging, flexibility. [The goal of software design is to create chunks or slices that fit into a human mind](https://mobile.twitter.com/KentBeck/status/1354418068869398538). The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes.
 	- We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
 	- Eliminate state. If you can’t, make it visible.
 	- Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
