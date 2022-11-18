@@ -54,6 +54,9 @@
 - [Spec](https://github.com/spec-dev)
 - [Transpose](https://www.transpose.io/)
 - [Allium](https://twitter.com/alliumlabs)
+- [Kyve](https://www.kyve.network/)
+- [Token Terminal](https://tokenterminal.com/)
+- [Probably Nothing Labs](https://www.probablynothinglabs.xyz/)
 - [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 
 ### Bounty Based Collaboration:
