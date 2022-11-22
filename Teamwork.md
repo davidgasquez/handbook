@@ -74,6 +74,7 @@
 - Optimizing for short term speed is dangerous if you don't allow some slack to pick up things that will make you faster in the long run.
 	- If you want to optimize for speed, you need an experimentation platform to track the impact of changes. Teams need to learn how to [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
 - Look for a way to decouple things as much as possible and don't aim for perfection. Aim for eventual convergence.
+- Beware of [potential things that might harm your team](https://twitter.com/bernhardsson/status/1594722618585874432).
 - When proposing a change, add context to why is important and how it'll impact people.
 - [Standards make it easy for new team members to onboard and enhance efficiency in the long run (removes micro-decisions)](https://seattledataguy.substack.com/p/setting-standards-for-your-data-team).
 - [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness) can happen in a team. Two of the main reasons of this [normalization of deviance](https://danluu.com/wat/):
