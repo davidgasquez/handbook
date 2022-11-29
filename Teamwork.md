@@ -35,6 +35,7 @@
 - Teams [need slack to absorb and adapt when unexpected things come up](https://www.neelnanda.io/blog/38-slack) and to prioritize the development of force multipliers (tooling and automation).
 	- Lack of [[slack]] compounds. It gets harder and harder to get out as more things get added to backlogs and more patches get added on the systems you build (slowing you down in the end).
 	- A more focused backlog makes it easier and faster to plan cycles, and ensures the work will actually get done.
+	- Balance putting code where they are most comfortable while optimizing for speed vs putting the code where it belongs when considering a longer term perspective on the overall system.
 - **Focus on business outcomes, not on technologies.**
 - When you start from a shared understanding – that you’re all doing your best you can – you can foster a compassionate working environment.
 	- Everyone on your team should assume that everyone else on the team is doing their best work, given their circumstances.
