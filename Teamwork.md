@@ -44,6 +44,7 @@
 - **How to drive change in a team**: find people who agree on the problem, start small, experiment, scale, repeat. Making big change is hard. Keeping things simple is hard.
 	- On the other hand, beware of changing too many things. You don't feel the pain of things you're not doing!
 - Scale organizational efforts across a portfolio of synergistic products.
+- Don't replace prototypes with roadmaps. Encourage prototyping to learn and build confidence with different parts of your software stack.
 - Ask people ["when do you think you'll get this done"](https://mobile.twitter.com/Carnage4Life/status/1438982223395393536), write it down and then follow up at that time. That makes teams more effective.
 - When building something:
 	1) Question everything.
