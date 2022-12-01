@@ -20,7 +20,8 @@
 - Imagine your company today as a human society where only half the population can read (understand the data), one tenth can write (SQL queries), where half a dozen languages are spoken, and where most of the books ([[Dashboards]]/insight reports) in the library contain things that once were true but have since been outdated (but you don’t know which ones). Not a highly productive information ecosystem.
 - [[Teamwork | Collaborate with your team]] and break down complex models into reusable pieces.
 - Working with data is like exploring the horizon. It changes as soon as you look it from a higher place (more data). 
-- Reduce the areas where business logic can be injected, create “time to live” policies on last mile transforms, build a culture of standardizing + celebrating access to cross-functional codebases.
+- Reduce the areas where business logic can be injected, create “time to live” policies on last mile transforms, build a culture of standardizing + celebrating access to cross-functional codebases.
+	- People default to writing business logic in the tool they are most comfortable with. The best way for data teams to prevent sprawling business logic is not just to limit last mile transforms in other tools, but also to invite others into their tools.
 
 
 ## Resources
