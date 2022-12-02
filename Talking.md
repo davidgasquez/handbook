@@ -14,6 +14,7 @@
 	- What's the change you'd do to the current political system?
 		- Why hasn't happened?
 	- [[Thought Experiments]]
+	- Will you eat synthetic meat?
 - Remember people's names. Humans want to be significant. We strive for meaning.
 - Dishonest Flattery while effective in some cases, will destroy you long term. If you are unable to find a compliment about another human being that is truthful, you're not trying hard enough.
 - In difficult conversations, keep in mind the ultimate purpose and [[Mindfulness | be calm]]. You don't need to win the conversation. Ensure safety. Control your emotions.
