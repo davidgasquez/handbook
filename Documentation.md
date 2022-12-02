@@ -19,7 +19,7 @@
 	- [Use second person](https://developers.google.com/style/person): "you" rather than "we".
 	- Keep it simple, write in plain language.
 	- [Use active voice](https://developers.google.com/style/voice): make clear who's performing the action.
-- As you are working in a team, then you have to address the problem of shared understanding. 
+- [As you are working in a team, then you have to address the problem of shared understanding](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/). This is where documentation come in.
 
 ## Resources
 
