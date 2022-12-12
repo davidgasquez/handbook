@@ -3,7 +3,21 @@
 > A thought experiment is a peek into the counterfactual world
 
 A thought experiment is a device with which one performs an intentional, structured process of intellectual deliberation in order to speculate, within a specifiable [[Problem Solving | problem domain]], about potential consequences (or antecedents) for a designated antecedent (or consequent).
+[Preview attachment Ticket - 141781040002 - Haken (Barcelona).pdf
 
+![](https://mail.google.com/mail/u/0?ui=2&ik=5510c6a8d1&attid=0.1&permmsgid=msg-f:1710887709664139835&th=17be4b4ea91cda3b&view=snatt&disp=thd&safe=1)
+
+![](https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif)
+
+![](https://ssl.gstatic.com/docs/doclist/images/mediatype/icon_3_pdf_x16.png "PDF")
+
+Ticket - 141781040002 - Haken (Barcelona).pdf
+
+453 KB
+
+
+
+](https://mail.google.com/mail/u/0?ui=2&ik=5510c6a8d1&attid=0.1&permmsgid=msg-f:1710887709664139835&th=17be4b4ea91cda3b&view=att&disp=safe)
 - Thought experiments enable us to explore for the purpose of thinking. They reveal our instinctive knowledge, allow us to predict implications and outcomes, and anticipate problems.
 - You have to compare your reasoning to the way you _would have_ reasoned in a counterfactual world, a world in which your motivations were different—would you judge that politician's actions differently if he was in the opposite party?  Would you consider that study's methodology sound if its conclusion supported your side? Try to _actually imagine_ the counterfactual scenario. Don't simply formulate a verbal question for yourself. Conjure up the counterfactual world, place yourself in it, and observe your reaction. Five useful thought experiments:
 	1. **The double standard test**. Am I judging one person/group by a standard I wouldn't apply to another person/group?
