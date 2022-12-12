@@ -17,3 +17,6 @@ A thought experiment is a device with which one performs an intentional, structu
 
 - [Experience Machine](https://en.m.wikipedia.org/wiki/Experience_machine).
 - [The iPhone Thought Experiment](https://waitbutwhy.com/table/iphone-thought-experiment).
+- Cryonics
+	- Is like getting to an hospital in the future
+	- What if you wake up in a dystopian future?
