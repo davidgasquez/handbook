@@ -2,6 +2,11 @@
 
 - Gather as much domain knowledge as possible. Technical knowledge is not enough.
 - If it can be solved with SQL, stick to SQL.
+- To be successful,  data engineers need to care about:
+	-   **Fidelity:** how reliably can data be transferred and stored without corruption or loss?
+	-   **Capacity:** how much data can be moved and how quickly?
+	-   **Reliability:** how well can systems recover from outages and incidents?
+	-   **Speed of execution:** how quickly can you get a new data source up and running?
 
 ## Data Pipelines
 
