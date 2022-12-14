@@ -53,6 +53,7 @@
 	3) Optimize what works.
 	4) Shorten iteration cycles. **[Boyd's Law of Iteration](https://blog.codinghorror.com/boyds-law-of-iteration/): speed of iteration beats quality of iteration**.
 	5) [[Automation | Automate]].
+	6) Standards, a straight pipe is easier to fix than a curved one
 - Keep great global [[coordination]] and incentivize local experimentation.
 	- Being able to run small and compounding experiments (on the product or company [[processes]] and systems) is important.
 		- [Some experiments won't work](https://www.lesswrong.com/posts/97LgacucCxmyjYiNT/the-archipelago-model-of-community-standards). But oftentimes it _feels_ like it wont work when in fact you just haven't stuck with it long enough for it to bear fruit. This is hard enough for _solo_ experiments. For group experiments, where not just one but _many_ people must all try a thing at once and _get good at it_, all it takes is a little defection to spiral into a mass exodus.
