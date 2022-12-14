@@ -124,7 +124,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 
 #### Data Package Managers
 - [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
-- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/).
+- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/). Is a [great candidate](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/)!
 - [Huggingface Datasets](https://huggingface.co/docs/datasets)
 - [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards)
 - [Quilt](https://github.com/quiltdata/quilt).
