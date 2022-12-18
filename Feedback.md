@@ -2,9 +2,12 @@
 
 Feedback is the core of personal and professional growth. Feedback help us being better at what we do establishing clear communications and expectations.
 
-All feedback is good feedback. If you agree with it, it tells you something about yourself which you can to work on correcting. If you don't agree with it, it tells you that there is an incorrect perception about you in the other persons mind. You can also work on correcting that. When someone tells you something is wrong, they're almost always right. When someone tells you how to fix it, they're almost always wrong. Collect feedback from everybody.
+All feedback is good feedback. If you agree with it, it tells you something about yourself which you can to work on correcting. If you don't agree with it, it tells you that there is an incorrect perception about you in the other persons mind. You can also work on correcting that. 
+- When someone tells you something is wrong, they're almost always right. 
+- When someone tells you how to fix it, they're almost always wrong. 
+- Collect feedback from everybody.
 
-Your goal is not to do what _you_ think is best, it’s to help _others_. This includes respecting their preferences, and respecting their autonomy. It’s key that you listen to feedback, be open to the possibility that your actions are systematically unhelpful, and work to build better models of your friends and their preferences. In an ideal world I’d only take the actions that are net good, and avoid all of the ones that are net bad, but in a limited information world this is impossible. And empirically, actually trying _far_ outweighs not trying at all. But you still want to get as net good as possible!
+Your goal is not to do what _you_ think is best, it's to help _others_. This includes respecting their preferences, and respecting their autonomy. It's key that you listen to feedback, be open to the possibility that your actions are systematically unhelpful, and work to build better models of your friends and their preferences. In an ideal world I’d only take the actions that are net good, and avoid all of the ones that are net bad, but in a limited information world this is impossible. And empirically, actually trying _far_ outweighs not trying at all. But you still want to get as net good as possible!
 
 ## Taking Feedback
 
@@ -12,7 +15,7 @@ Your goal is not to do what _you_ think is best, it’s to help _others_. This i
 - The only constant in the world is change. Be open to it and accept it with a smile.
 - Understand and accept that you will make mistakes.
 - Be mindful. Develop meta-awareness around the areas that you received feedback.
-  - Look for opportunities to _stop doing_ or _start doing_ critiqued behaviors.
+	- Look for opportunities to _stop doing_ or _start doing_ critiqued behaviors.
 
 ### Technical Feedback
 
@@ -26,7 +29,7 @@ Your goal is not to do what _you_ think is best, it’s to help _others_. This i
 ## Giving Feedback
 
 - Feedback needs to be informal, frequent, and done authentically.
-- Challenge ideas not people. Address behavior, but don't label people.
+- Challenge ideas, not people. Address behavior, but don't label people.
 - Prepare. What do you value in someone? Where do you think are their biggest opportunities to improve?
 - **Keep the feedback actionable, specific, and kind.**
 - Imagine what things feel like from the other perspective.
