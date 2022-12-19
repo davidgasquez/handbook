@@ -44,3 +44,4 @@
 ### Boardgames
 
 - [Scythe](https://boardgamegeek.com/boardgame/169786/scythe)
+- [Res Arcana](https://boardgamegeek.com/boardgame/262712/res-arcana)
