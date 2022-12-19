@@ -96,17 +96,17 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
 
 ## Open Questions
+- What would be a great use case to start with?
+	- Why should people use this vs doing their own thing?
+- How can datasets be indexed?
+- Some datasets are not static (e.g: Ethereum `blocks`). How can we stream new data?
+- Is it possible to mount large amount of data (FUSE) from a remote siyrce and get it dynamically as needed? 
 - Can new table formats play efficiently with IPFS?
 	- E.g: Running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
 - Is it possible to run Spark/Trino on top of IPFS with Bacalhau?
 - What would be the ideal tabular format for IPFS?
 	- Parquet could be a great fit if we figure out how to deterministically serialize it and integrate with IPLD.
 - Homomorphic encription on private data?
-- How can datasets be indexed?
-- Some datasets are not static (e.g: Ethereum `blocks`). How can we stream new data?
-- What would be a great use case to start with?
-- Why should people use this vs doing their own thing?
-- Could we m
 
 ### Related Projects
 
