@@ -46,8 +46,10 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 ## Modules
 
 ### Packaging
-- **Distribution**. Decentralized way. No central authority. Could work in a closed network too!
-- **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. Datasets could be linked to a `Datafile` with description, default visualizations, WASM linked code...
+- **Distribution**. Decentralized. No central authority. Can work in a closed network.
+- **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. 
+	- Datasets could be linked to a `Datafile` with description, default visualizations, WASM linked code...
+	- One repository is one dataset.
 - **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations. The package manager should be **format and storage agnostic**.
 - **Social**. Stars, users, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
 	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
@@ -104,6 +106,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - Some datasets are not static (e.g: Ethereum `blocks`). How can we stream new data?
 - What would be a great use case to start with?
 - Why should people use this vs doing their own thing?
+- Could we m
 
 ### Related Projects
 
