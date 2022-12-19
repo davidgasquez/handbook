@@ -100,7 +100,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 	- Why should people use this vs doing their own thing?
 - How can datasets be indexed?
 - Some datasets are not static (e.g: Ethereum `blocks`). How can we stream new data?
-- Is it possible to mount large amount of data (FUSE) from a remote siyrce and get it dynamically as needed? 
+- Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote siyrce and get it dynamically as needed? 
 - Can new table formats play efficiently with IPFS?
 	- E.g: Running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
 - Is it possible to run Spark/Trino on top of IPFS with Bacalhau?
