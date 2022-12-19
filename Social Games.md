@@ -18,7 +18,6 @@
 - [Nomic](https://en.wikipedia.org/wiki/Nomic).
 
 ### Card Games
-
 - [New Eleusis](https://web.archive.org/web/20190822201119/http://www.matuszek.org/eleusis1.html).
 - [Bartok](https://en.wikipedia.org/wiki/Bartok_(card_game)).
 - Mao.
@@ -36,9 +35,12 @@
 - [Roll for Shoes](https://rollforshoes.com/)
 
 ### Online Platforms
-
 - [Netgames](https://netgames.io/). Social games for your phone.
 - [Rocket Crab](https://rocketcrab.com/). Party games for phones.
 - [Gartic Phone](https://garticphone.com/). The drawing telephone game.
 - [Quicksplain](https://quicksplain.com/). Party trivia game for groups of 2 to 8 people that tests your knowledge on a variety of topics.
 - [Smart Cookie Trivia](https://www.smart-cookie-trivia.com/). Free, fun, challenging, multiplayer quizzes.
+
+### Boardgames
+
+- [Scythe](https://boardgamegeek.com/boardgame/169786/scythe)
