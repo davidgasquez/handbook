@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8818e27fd29a693e","x":-545,"y":-513,"width":1007,"height":634,"type":"file","file":"Automation.md"},
+		{"id":"cf46d0c06849dce4","x":-505,"y":241,"width":873,"height":472,"type":"file","file":"Open Data.md"}
+	],
+	"edges":[
+		{"id":"98284b37791e7f04","fromNode":"cf46d0c06849dce4","fromSide":"top","toNode":"8818e27fd29a693e","toSide":"bottom"}
+	]
+}
