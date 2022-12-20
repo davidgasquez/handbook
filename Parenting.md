@@ -17,6 +17,7 @@
 - What works for one child may not work for another. It's important to be flexible and adjust your parenting style as needed to best support each child.
 - When tantrums occur, interrupt the flow of the moment. E.g: stop the car somewhere and say "[Do what you want but I'll restart the car once you are calm](https://news.ycombinator.com/item?id=31204423)".
 - Clearly communicated consequences ahead of time works much better than punishment.
+- Raising responsible humans requires giving them responsibility, the opportunity for soft failures to learn from and having those awkward long talks and figuring out how to set healthy boundaries.
 
 ## Resources
 - [LessWrong Topic](https://www.lesswrong.com/tag/parenting)
