@@ -6,6 +6,7 @@
 	-  [Design **north star metrics that capture value to the customer** rather than value to your organization](https://roundup.getdbt.com/p/the-perfect-north-star-metric).
 - Metrics should use the SMART framework (Specific, Measurable, Achievable, Results-Oriented, Targeted).
 	- Pick the simplest metric that works for you. Metrics definitions should be as easy as a tool-tip away to find.
+- [Metrics are a tool, but not the destination](https://breakingpoint.substack.com/p/you-have-too-many-metrics)! You want to use the fewest metrics possible to cover all the fundamentals of your business.
 - Common understanding of a metric matters more than the metric precision. That understanding requires some standardization (names, time spans, ...) and that needs [[Coordination]].
 	- Teams need to cooperate when defining metrics.
 - Organizations need three things related to metrics:
