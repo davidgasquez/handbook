@@ -201,6 +201,7 @@ Inspired by [ODF](https://docs.kamu.dev/odf/spec/).
 ```YAML
 name: "My Dataset"
 owner: "My Org"
+kind: "dataset"
 version: 1
 description: "Some description"
 license: "MIT"
