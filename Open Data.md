@@ -30,7 +30,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
 	- Data is useful when is used! We're not using most of humanity's open datasets as much as we could. That's now because they're not available but because they're hard to get.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
-	- Prime composability so tools/services can be swapped without affecting the end result.
+	- Prime composability (e.g: Arrow ecosystem) so tools/services can be swapped without affecting the end result.
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
 	- Metadata is a first-class citizen.
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. Datasets are declarative and inmutable. They become [software defined assets](https://dagster.io/blog/software-defined-assets).
