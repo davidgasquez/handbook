@@ -34,7 +34,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
 	- Metadata is a first-class citizen.
 	- Git based approach collaboration. Revisions, tags, branches, issues, PRs, ...
-	- Support for non-dataset files in same place. Code, visualizations, pipeline, da
+	- Support for non-dataset files in same place. Code, visualizations, pipelines, models, ...
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. Datasets are declarative and inmutable. They become [software defined assets](https://dagster.io/blog/software-defined-assets).
 	- Thanks to inmutability, you could move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
 - **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration and curation.
