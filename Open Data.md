@@ -1,6 +1,6 @@
 # Open Data
 
-> People should be able to collaborate on Open Data the same way we collaborate on Open Source code.
+> People should be able to collaborate on data the same way we collaborate on Open Source code.
 
 ## Motivation
 [Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
@@ -24,7 +24,7 @@ During the last few years, a cambrian explosion of open source tools have emerge
 
 Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_ building custom tools around their workflows. There is no `data get OWID/daily-covid-cases`, no `datasets.storage` that could act as entrypoting/protocol to discover datasets that's not Google.
 
-We could have a better ecosystem if we collaborate with open standards! So, lets move towards more composable, maintainable, reproducible data. Let's move towards
+We could have a better ecosystem if we collaborate with open standards! So, lets move towards more composable, maintainable, reproducible data. Let's move towards a **protocol for open knowledge**.
 
 ## Design Goals
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
