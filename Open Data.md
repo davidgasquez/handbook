@@ -130,6 +130,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/). Is a [great candidate](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/)!
 - [Huggingface Datasets](https://huggingface.co/docs/datasets)
 - [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards)
+- [LakeFS](https://lakefs.io/blog/git-for-data/). More like Git for Data.
 - [Quilt](https://github.com/quiltdata/quilt).
 - [DVC](https://github.com/iterative/dvc).
 - [Splitgraph](https://github.com/splitgraph/sgr)
