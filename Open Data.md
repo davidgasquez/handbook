@@ -201,8 +201,26 @@ description: "Some description"
 license: "MIT"
 documentation: 
 	url: "somewhere.com"
-source:
-	-
-schema:
-	- 
+source: 
+	- name: "prod" 
+	  db: "psql:/...."
+pipeline: 
+	- name: "Extract X" 
+	  type: image 
+	  image: docker/image:latest 
+	  cmd: "do something" 
+materializations: 
+	- format: "Parquet"
+	  location: "s3://....." 
+	  partition: "year"
+	  format: "Snowflake" 
+schema: 
+	fields: 
+		- name: "name" 
+		  type: "string" 
+		  description: "The name of the user" 
+		- name: "year" 
+		- description: "...." 
+	primary_key: "country_name" 
+metadata: "..."
 ```
