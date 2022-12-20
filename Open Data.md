@@ -57,7 +57,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
 	- Have issues and disscussions close to the dataset.
 - **Extensible**. Users could extend the package resource (e.g: [Time Series Tabular Package inherits from Tabular Package](https://specs.frictionlessdata.io/tabular-data-package/)) and add better support for that kind of data.
-	- Integrations could be built to 
+	- Integrations could be built to ingest/publish data from other hubs (e.g: CKAN)
 
 ### Storage
 - **Permanence**. Each version should be accessible and permanent.
