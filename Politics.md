@@ -52,5 +52,5 @@
 - [Quadratic Voting](http://ericposner.com/quadratic-voting/) and [Quadratic Funding](https://wtfisqf.com/).
 	- [Online Quadratic Voting](https://quadraticvote.co/).
 - [Georgism](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty).
-- [Prediction Markets](https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the) as a tool for accountability.
+- [Prediction Markets](https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the) as a tool for accountability. [FAQ](https://astralcodexten.substack.com/p/prediction-market-faq).
 - [Pol.is](https://pol.is/home).
