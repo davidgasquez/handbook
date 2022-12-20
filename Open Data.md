@@ -6,8 +6,8 @@
 [Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
 
 As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless that's how you make money. As a result:
-- Data ends up siloed in multiples places and multiple formats. Interoperability is only a wild dream.
-- Data is commonly stored in perishable hardware and formats.
+  - Data ends up siloed in multiples places and multiple formats. Interoperability is only a wild dream.
+    - Data is commonly stored in perishable hardware and formats.
 - Datasets are hard to index.
 - No incentives exists for people to collaborate on improving or curating datasets.
 
