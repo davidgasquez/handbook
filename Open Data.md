@@ -190,3 +190,19 @@ Could be an awesome front-end to explore [[Open Data]].
 ### Interesting Projects
 - [Rill Developer](https://github.com/rilldata/rill-developer).
 - [Datastation](https://app.datastation.multiprocess.io/).
+
+
+#### Datafile
+
+```YAML
+name: "My Dataset"
+owner: "My Org"
+description: "Some description"
+license: "MIT"
+documentation: 
+	url: "somewhere.com"
+source:
+	-
+schema:
+	- 
+```
