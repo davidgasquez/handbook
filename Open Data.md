@@ -115,7 +115,6 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - [Algovera](https://www.algovera.ai/).
 - [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
 - [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data).
-- [dbhub](https://dbhub.io/).
 - [Minerva](https://github.com/bdchain/Minerva).
 - [The Graph](https://thegraph.com/).
 - [Akash](https://akash.network/).
