@@ -33,6 +33,8 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped without affecting the end result.
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
 	- Metadata is a first-class citizen.
+	- Git based approach collaboration. Revisions, tags, branches, issues, PRs, ...
+	- Support for non-dataset files in same place. Code, visualizations, pipeline, da
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. Datasets are declarative and inmutable. They become [software defined assets](https://dagster.io/blog/software-defined-assets).
 	- Thanks to inmutability, you could move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
 - **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration and curation.
