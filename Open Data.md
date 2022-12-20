@@ -48,7 +48,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 ### Packaging
 - **Distribution**. Decentralized. No central authority. Can work in a closed network.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. 
-	- Datasets could be linked to a `Datafile` with description, default visualizations, WASM linked code...
+	- Datasets could be linked to a [[Open Data#Datafile | Datafile]] with description, default visualizations, WASM linked code...
 	- One repository is one dataset.
 - **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations. The package manager should be **format and storage agnostic**.
 - **Social**. Stars, users, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
@@ -193,7 +193,6 @@ Could be an awesome front-end to explore [[Open Data]].
 
 
 #### Datafile
-
 Inspired by [ODF](https://docs.kamu.dev/odf/spec/).
 
 ```YAML
