@@ -194,9 +194,12 @@ Could be an awesome front-end to explore [[Open Data]].
 
 #### Datafile
 
+Inspired by [ODF](https://docs.kamu.dev/odf/spec/).
+
 ```YAML
 name: "My Dataset"
 owner: "My Org"
+version: 1
 description: "Some description"
 license: "MIT"
 documentation: 
