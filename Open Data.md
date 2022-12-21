@@ -63,7 +63,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 ### Storage
 - **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be accessible and permanent.
 - **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
-	- Should allow sutomated harvesting of data
+	- Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/).
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
 	- Think at the dataset level and not the file level.
 	- Tabular data could be partitioned to make it easier for future retrieval.
