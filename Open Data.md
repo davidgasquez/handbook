@@ -30,7 +30,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
 	- Data is useful when is used! We're not using most of humanity's open datasets as much as we could. That's now because they're not available but because they're hard to get.
 	- All datasets can be represented as tabular datasets (not 100% sure about this).
-		- This will enable to run SQL on top of them which mig
+		- This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
 	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped without affecting the end result.
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
