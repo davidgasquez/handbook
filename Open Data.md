@@ -15,7 +15,7 @@ As an organization or research group, [spending time curating and maintaining da
 
 Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
-Iterative improvements over public datasets would yield large amounts of value. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Let's make Open Data do the same! Data brings freedom.
+Iterative improvements over public datasets would yield large amounts of value. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Let's make Open Data do the same!
 
 ### Why now?
 We have better storage, we have simpler compute, we have more data. We need to go one level up in the abstraction ladder.
@@ -30,6 +30,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
 	- Data is useful when is used! We're not using most of humanity's open datasets as much as we could. That's now because they're not available but because they're hard to get.
 	- All datasets can be represented as tabular datasets (not 100% sure about this).
+		- This will enable to run SQL on top of them which mig
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
 	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped without affecting the end result.
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
