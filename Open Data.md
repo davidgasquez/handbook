@@ -116,7 +116,6 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 
 #### Computation
 - [Kamu](https://www.kamu.dev/).
-- [Algovera](https://www.algovera.ai/).
 - [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
 - [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data).
 - [Minerva](https://github.com/bdchain/Minerva).
@@ -124,6 +123,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - [Akash](https://akash.network/).
 - [Datasette](https://lite.datasette.io/).
 - [Trino](https://trino.io/) is a distributed query engine for data. It could work on top of IPFS if it supported it.
+- [Algovera](https://www.algovera.ai/).
 - [DuckDB](https://duckdb.org/) WASM client could be used with IPFS as the storage layer for a [decentralized and open data warehouse](https://github.com/davidgasquez/datadex).
 - [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
 - [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
@@ -135,6 +135,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards)
 - [LakeFS](https://lakefs.io/blog/git-for-data/). More like Git for Data.
 - [Quilt](https://github.com/quiltdata/quilt).
+- [Algovera Metahub](https://github.com/AlgoveraAI/metahub).
 - [DVC](https://github.com/iterative/dvc).
 - [Splitgraph](https://github.com/splitgraph/sgr)
 - [Deep Lake](https://github.com/activeloopai/deeplake).
