@@ -61,8 +61,9 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 	- Integrations could be built to ingest/publish data from other hubs (e.g: CKAN)
 
 ### Storage
-- **Permanence**. Each version should be accessible and permanent.
+- **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be accessible and permanent.
 - **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
+	- Should allow sutomated harvesting of data
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
 	- Think at the dataset level and not the file level.
 	- Tabular data could be partitioned to make it easier for future retrieval.
