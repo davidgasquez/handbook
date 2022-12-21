@@ -157,6 +157,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [BigQuery Public Data](https://cloud.google.com/bigquery/public-data).
 - [Kaggle Datasets](https://www.kaggle.com/datasets).
+- [Datahub](https://datahub.io/awesome). By [Datopian](https://tech.datopian.com/), makers of CKAN.
 - [HuggingFace Datasets](https://huggingface.co/datasets).
 - [Data World](https://data.world/datasets/open-data).
 - [DoltHub](https://www.dolthub.com/discover).
@@ -172,7 +173,6 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 - [Open Data Stack Exchange](https://opendata.stackexchange.com/).
 - [IPFS Datasets](https://awesome.ipfs.io/datasets/).
 - [Datasets Subreddit](https://www.reddit.com/r/datasets/). [Open Data Subreddit](https://www.reddit.com/r/opendata/).
-- [Datahub](https://datahub.io/awesome).
 - [Academic Torrents Datasets](https://academictorrents.com/browse.php).
 - [Open Data Inception](https://opendatainception.io/).
 - [Victoriano's Data Sources](https://victorianoi.notion.site/Data-Sources-79b28912c6d941af99e6ef102c578fa0).
