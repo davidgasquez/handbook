@@ -88,7 +88,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 	- [Templated validations to make sure datasets conform to certain standards](https://framework.frictionlessdata.io/docs/checks/baseline.html).
 
 ### Visualizations
-- **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering).
+- **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](https://tech.datopian.com/views/).
 - **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
 - **Dynamic**. Use only the data you want. Datasets could be exposed by partitions or allow lightweight SQL queries in the URL with filter pushdown.
 
