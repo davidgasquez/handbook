@@ -32,7 +32,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 	- All datasets can be represented as tabular datasets (not 100% sure about this).
 		- This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
-	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped without affecting the end result.
+	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped without affecting the end result. Adopt and integrate with `git`  to reduce surface area.
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
 	- Metadata is a first-class citizen.
 	- Git based approach collaboration. Revisions, tags, branches, issues, PRs, ...
@@ -64,7 +64,7 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 ### Storage
 - **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be accessible and permanent.
 - **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
-	- Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/).
+	- Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs. 
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
 	- Think at the dataset level and not the file level.
 	- Tabular data could be partitioned to make it easier for future retrieval.
