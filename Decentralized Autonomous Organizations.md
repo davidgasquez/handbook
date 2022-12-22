@@ -12,6 +12,7 @@
 ####  Tools
 - [DAO Tool List](https://messari.io/governor/tools).
 - [Snapshot](https://snapshot.org/#/).
+- [SourceCred](https://sourcecred.io/docs).
 - [DaoHaus](https://daohaus.club/).
 - [Coordination Party](https://coordination.party/).
 - [CoordinApe](https://coordinape.com/).
