@@ -7,6 +7,10 @@
 		- Define boundaries and limitations of each component.
 - Work in the open and [[Documentation | document]] everything.  Transparency increases understanding and reduces synchronization challenges. **[Emulate Open Source projects](https://tomayko.com/blog/2012/adopt-an-open-source-process-constraints) and [[Remote Jobs | remote companies]]**.
 - To make everyone more productive and happy: **Make feedback loops fast**.
+	- Tested, automated process for new development environments.
+	- Automated preview environments.
+	- Automated code formatting.
+	- Templates for new projects and components
 - Create a [[Company Handbooks | handbook]] to store your [[Company Knowledge Management | company knowledge]]. Document:
 	- [[Processes]].  Status updates, [[Design Docs]], [on-boarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
 	- Decisions. Context and rationale can be documented in a durable location.
