@@ -97,6 +97,7 @@
 	- Ask questions without judging. Never ever be _negative_ about the stuff they created. It was done for a reason.
 	- Beware of [Normalization of Deviance](https://danluu.com/wat/).
 - When meeting/emailing interesting people ask if they know anyone else you can meet with. [Try to expand your network with successful folks in the area/space!](https://twitter.com/AdamRy_n/status/1297920306900865024)
+- Keep a [private work log](https://youtu.be/HiF83i1OLOM?list=PLYXaKIsOZBsu3h2SSKEovRn7rGy7wkUAV). It'll make easier for everyone to advocate what you did. 
 
 ## [How Small Teams Work](https://posthog.com/handbook/people/team-structure/why-small-teams#how-it-works)
 
