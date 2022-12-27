@@ -1,6 +1,6 @@
 # Engineering Process
 
-1. Always create an issue and assign it to you for anything you work on. If it is worth spending time on, it is worth creating an issue for it since that enables other people to learn and help. You can always edit the description or close it when the problem is something different or disappears.
+1. **Issue driven development**. Always create an issue and assign it to you for anything you work on. If it is worth spending time on, it is worth creating an issue for it since that enables other people to learn and help. You can always edit the description or close it when the problem is something different or disappears.
 2. When working on an issue, make sure that the issue body contains the latest information. The issue body should be the single source of truth.
 3. After a discussion related to an issue update the issue body with the consensus or final conclusions. This makes it much easier to see the current state of an issue for everyone involved in the implementation and prevents confusion later on.
 4. Submit the smallest item of work that makes sense. When creating an issue describe the smallest fix possible, put suggestions for enhancements in separate issues and link them.
