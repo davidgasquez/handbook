@@ -22,3 +22,7 @@
 - Card deck to play games.
 - Phone charger.
 - eSIM (Airalo).
+
+### Checklist
+-  Download podcasts, albums or other media.
+- Do all
