@@ -24,5 +24,6 @@
 - eSIM (Airalo).
 
 ### Checklist
--  Download podcasts, albums or other media.
-- Do all
+- Download podcasts, albums or other media.
+- Do all the check-ins.
+- Empty wallet of useless things in the destination.

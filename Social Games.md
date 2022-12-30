@@ -16,6 +16,7 @@
 - [Two of these people are lying](https://youtu.be/NPaz6mFsSjU). Everyone puts a weird Wikipedia articles. Someone pulls a random one. People should come up with a compelling description and the goal is to discern what is true and what is false.
 - [So Long Sucker](https://boardgamegeek.com/boardgame/8304/so-long-sucker).
 - [Nomic](https://en.wikipedia.org/wiki/Nomic).
+- Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say them in order.
 
 ### Card Games
 - [New Eleusis](https://web.archive.org/web/20190822201119/http://www.matuszek.org/eleusis1.html).
