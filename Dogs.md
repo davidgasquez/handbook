@@ -32,7 +32,7 @@
 	1. Make them relax in their crate.
 	2. Give a treat and say bye.
 	3. Leave the room.
-- Leave them alone gradually. First minutes, then hours!
+- Do small aproximations. Leave the room, then the house for a few moments, ... Go gradually. First minutes, then hours!
 - Try hard to create a positive association and be confident with being alone.
 
 ### Training Tips:
