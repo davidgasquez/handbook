@@ -39,7 +39,7 @@
 - Salt (1 tablespoon)
 
 ### Steps
-1. Mix everything together until the dough is consistent. Let it rest at least for 2 hours, ideally something like 5 days.
+1. Mix everything together until the dough is consistent. Let it rest at least for 2 hours, ideally something like 5 days. There are [different kind](https://youtu.be/ahxKAlbp6DU) of doughs.
 
 ## Pickling
 
@@ -62,12 +62,10 @@
 <img src="https://cdn-3.expansion.mx/64/bc/777671174261a8333494bc932c5e/cold-brew.jpg" width="350" />
 
 ### Ingredients
-
 - Water
 - Coffee
 
 ### Steps
-
-- Brew with a 1 part coffee to 8 parts water ratio.
-- Use a coarse grind.
-- Put the mix on the fridge from 24 to 96 hours.
+1. Brew with a 1 part coffee to 8 parts water ratio.
+2. Use a coarse grind.
+3. Put the mix on the fridge from 24 to 96 hours.
