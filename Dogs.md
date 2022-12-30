@@ -33,6 +33,7 @@
 	2. Give a treat and say bye.
 	3. Leave the room.
 - Leave them alone gradually. First minutes, then hours!
+- Try hard to create a positive association and be confident with being alone.
 
 ### Training Tips:
 
