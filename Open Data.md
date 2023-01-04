@@ -3,6 +3,9 @@
 > People should be able to collaborate on data the same way we collaborate on Open Source code.
 
 ## Motivation
+
+>  TODO 🛠: Refine the content for this section to make the problem statement  more clear for the reader.
+
 [Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
 
 As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless that's how you make money. As a result:
