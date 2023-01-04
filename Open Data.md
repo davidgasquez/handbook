@@ -4,7 +4,7 @@
 
 ## Motivation
 
->  TODO 🛠: Refine the content for this section to make the problem statement  more clear for the reader.
+>  TODO 🔧: Refine the content for this section to make the problem statement  more clear for the reader.
 
 [Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
 
@@ -21,7 +21,10 @@ Open protocols create open systems. Open code creates tools. **Open data creates
 Iterative improvements over public datasets would yield large amounts of value. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Let's make Open Data do the same!
 
 ### Why now?
-We have better storage, we have simpler compute, we have more data. We need to go one level up in the abstraction ladder.
+
+We have better storage, we have simpler compute, we have more data. We need to go one level up in the abstraction ladder. 
+
+> TODO 🔧: Share examples of why we need to go one level up.
 
 During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (HuggingFace Datasets, Filecoin Slinghshot). Also, [DeSci](https://ethereum.org/en/desci/)!
 
@@ -30,6 +33,9 @@ Organizations like [Our World in Data](https://ourworldindata.org/) or [538](htt
 We could have a better ecosystem if we collaborate with open standards! So, lets move towards more composable, maintainable, reproducible data. Let's move towards a **protocol for open knowledge**.
 
 ## Design Goals
+
+> TODO 🔧: Design Goals should solve the problems exposed in motivation.
+
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
 	- Data is useful when is used! We're not using most of humanity's open datasets as much as we could. That's now because they're not available but because they're hard to get.
 	- All datasets can be represented as tabular datasets (not 100% sure about this).
