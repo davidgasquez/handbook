@@ -30,3 +30,4 @@ If you listen to successful people talk about their approaches, remember that al
 - [How to build a great life](https://mobile.twitter.com/Camp4/status/1402689150353129472).
 - [How to Be Happy](https://www.lesswrong.com/posts/ZbgCx2ntD5eu8Cno9/how-to-be-happy).
 - [Be Happier](https://www.lesswrong.com/posts/JHcTP4Ad8QAmRTCZm/be-happier).
+- [How to be happy, or ways to try your best](https://muellerzr.github.io/blog/happiness.html)
