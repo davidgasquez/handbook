@@ -5,6 +5,7 @@ Handbooks are key for good [[Company Knowledge Management]].
 - [GitLab](https://about.gitlab.com/handbook/)
 - [Clef](https://github.com/clef/handbook)
 - [Datopian](https://playbook.datopian.com/)
+- [Artsy](https://github.com/artsy/README)
 - [Zapier](https://zapier.com/learn/remote-work/)
 - [Thoughtbot](https://thoughtbot.com/playbook)
 - [18F](https://handbook.18f.gov/)
