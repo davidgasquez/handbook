@@ -29,6 +29,7 @@
 	- Having skin in the game improves the decision making process.
 	- [Have direct responsible individuals for everything. Everyone's problem is no one's problem](https://nintil.com/programming). Having a name accountable instead of a vague "the team" or "the process" makes it easy to make changes.
 - Write postmortems after large changes. This will create [[Feedback Loops]] to guide learning about what happened and how it can be avoided next time. It'll also help calibrate for the previous decisions.
+- Do [lightweight self reviews](https://andrewhuth.substack.com/p/writing-good-performance-self-reviews) . Worst case scenario, they help you update your resume.
 - Make time to pay technical debt. [[Systems]] evolve organically over time and might get stuck on a local maximum. Alternative abstractions/designs might be better to continue progressing! There are two kinds of tech debt:
 	- Things you haven't built yet.
 	- Things you shouldn't have built that way.
