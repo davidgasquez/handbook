@@ -6,6 +6,7 @@
 	- **Reliability:** how well can systems recover from outages and incidents?
 	- **Speed of execution:** how quickly can you get a new data source up and running?
 - If it can be solved with SQL, stick to SQL.
+- A [consistent pattern](https://www.startdataengineering.com/post/design-patterns/) across your data pipelines helps devs communicate easily and understand code better.
 
 ## Data Pipelines
 
