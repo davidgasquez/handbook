@@ -12,7 +12,7 @@
 	- Automated code formatting.
 	- Templates for new projects and components.
 	- Mechanisms for creating test data.
-	- Invest in thoughtful logging.
+	- Invest in [thoughtful logging](https://www.16elt.com/2023/01/06/logging-practices-I-follow/a).
 - Create a [[Company Handbooks | handbook]] to store your [[Company Knowledge Management | company knowledge]]. Document:
 	- [[Processes]].  Status updates, [[Design Docs]], [on-boarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
 	- Decisions. Context and rationale can be documented in a durable location.
