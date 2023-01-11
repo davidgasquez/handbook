@@ -59,7 +59,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 	- Accept that many programming decisions are opinions.
 	- Make the trade-offs explicit when making judgments and decisions. With almost every decision you make, you're either deliberately or accidentally trading off one thing for another thing.
 	- Discuss [trade-offs](https://twitter.com/kelseyhightower/status/774076482637312001), which you prefer, and reach a resolution.
-	- [Every system eventually sucks](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/).
+	- [Every system eventually sucks](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/). Assume everything has bugs.
 - **Keep the [[Feedback Loops | iteration loop]] short**.
 	- Invest in tools to [[Automation | automate]] and improve the development cycle (CI, CD). Decreasing build times a few seconds actually saves a lot of time over time. Deploy often to make the loop end to end. If you need to do something manually more than twice, then write a tool for the third time.
 - **Avoid implicit rules**.
