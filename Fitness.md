@@ -8,7 +8,7 @@
 - Lifting weights makes you stronger and healthier, improves your posture, makes you less injury prone, and strengthens your bones.
 	- If you train for strength rest for at least 4 minutes before doing another set.
 - Cardio helps stabilize hormone levels, improves endurance and recovery, helps the body fuel calories away from the fat cells and into the muscle, helps with weight maintenance, generally keeps you healthy, and finally burns calories.
-- For fat loss, HIIT is better than cardio.
+- For fat loss, HIIT is better than cardio. More muscle, higher metabolism.
 - Static stretching (any stretching done in place, holding for X number of seconds) should never be done before exercise. Instead, perform active movements simulating the exercise you are about to perform.
 
 ## Posture
