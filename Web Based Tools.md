@@ -14,8 +14,10 @@ Collection of awesome web based tools.
 ## Teamwork
 
 - [HackMD](https://hackmd.io/)
-- [Jitsi](https://meet.jit.si/)
+- [Matrix](https://matrix.org/)
 - [GitHub Projects](https://github.com/features/issues)
+- [Jitsi](https://meet.jit.si/)
+- [Discourse](https://www.discourse.org/)
 - [Outline](https://github.com/outline/outline)
 
 ## GPS
