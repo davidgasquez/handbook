@@ -1,7 +1,9 @@
 # Company Handbooks
+
 Handbooks are key for good [[Company Knowledge Management]].
 
 ## Examples
+
 - [GitLab](https://about.gitlab.com/handbook/)
 - [Clef](https://github.com/clef/handbook)
 - [Datopian](https://playbook.datopian.com/)
