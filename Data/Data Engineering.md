@@ -1,11 +1,10 @@
 # Data Engineering
 
-- Care about:
-	-   **Fidelity:** how reliably can data be transferred and stored without corruption or loss?
-	-   **Capacity:** how much data can be moved and how quickly?
-	-   **Reliability:** how well can systems recover from outages and incidents?
-	-   **Speed of execution:** how quickly can you get a new data source up and running?
-- Gather as much domain knowledge as possible. Technical knowledge is not enough.
+- Gather as much domain knowledge as possible. Technical knowledge is not enough. Then prioritize:
+	- **Fidelity:** how reliably can data be transferred and stored without corruption or loss?
+	- **Capacity:** how much data can be moved and how quickly?
+	- **Reliability:** how well can systems recover from outages and incidents?
+	- **Speed of execution:** how quickly can you get a new data source up and running?
 - If it can be solved with SQL, stick to SQL.
 
 ## Data Pipelines
