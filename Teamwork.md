@@ -12,6 +12,7 @@
 	- Automated code formatting.
 	- Templates for new projects and components.
 	- Mechanisms for creating test data.
+	- Invest in thoughtful logging.
 - Create a [[Company Handbooks | handbook]] to store your [[Company Knowledge Management | company knowledge]]. Document:
 	- [[Processes]].  Status updates, [[Design Docs]], [on-boarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
 	- Decisions. Context and rationale can be documented in a durable location.
