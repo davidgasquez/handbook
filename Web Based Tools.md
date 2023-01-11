@@ -4,11 +4,11 @@ Collection of awesome web based tools.
 
 ## Design
 
+- [Excalidraw](https://excalidraw.com/)
 - [Canva](https://www.canva.com/)
 - [Figma](https://www.figma.com/)
 - [Photopea](https://www.photopea.com/)
 - [Veed.io](https://www.veed.io/)
-- [Excalidraw](https://excalidraw.com/)
 - [Birme](https://www.birme.net/)
 
 ## Teamwork
@@ -20,5 +20,5 @@ Collection of awesome web based tools.
 
 ## GPS
 
-- [Caltopo](https://caltopo.com/map.htm).
+- [Caltopo](https://caltopo.com/map.html).
 - [Peakfinder](https://www.peakfinder.org/).
