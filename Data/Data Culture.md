@@ -67,6 +67,7 @@
 - Align company on key actions. Every stakeholder should know how to explore that data.
 - Do pre-mortems. Where would we see the impact of *X* going wrong? Model that and plot it on a dashboard.
 - [Send surveys](https://docs.google.com/forms/d/e/1FAIpQLSfufs_0zOGlFiE6oqrdZU7xCi399CBYbIlZkAMe15GTRRcPZA/viewform) from time to time trying to get pain points and know where issues are.
+	- E.g: Do you have access to the data I need to make decisions in your role?
 - [Bring the collaboration process inline with the assets to allow for better handoffs and feedback](https://pedram.substack.com/p/data-can-learn-from-design).
 - [Culture eats strategy (and tools) for breakfast](https://news.ycombinator.com/item?id=29062266). Until there’s a cultural mindset shift towards how companies value data and metadata, nothing will change.
 	- [Tools eat process for breakfast](https://benn.substack.com/p/the-product-is-the-process). No matter how much you blog about best practices, or how many talks you give about better ways to work, people will eventually find their way back into the behavioral grooves cut by the products they use (e.g: dbt, GitHub, ...).
