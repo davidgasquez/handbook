@@ -4,7 +4,7 @@
 
 - Run experiments and try new things. This will make you explore the world so you can exploit it later. Go for variety and surprise. Don’t keep doing the same thing. [Most things in life have diminishing marginal utility, so maximizing utility implies doing a lot of things a bit](https://twitter.com/mattsclancy/status/1415470466047827968).
 - [Algernon's Law](https://www.gwern.net/Drug-heuristics): your body is already mostly optimal, so adding more things is unlikely to have large positive effects unless there’s some really good reason.
-- Although [[time]] is the ultimate resource, the lack of energy will always be the first limiting factor. Therefore prioritizing health, [[Sleep]], [[Fitness | exercise]], and other such aspects will always pay off far more than what you sacrifice on them. [These areas should take priority over anything else](https://www.lesswrong.com/posts/QTkij5fmPXPd7GD4Z/review-of-scott-adams-how-to-fail-at-almost-everything-and).
+- Although [[time]] is the ultimate resource, the lack of energy will always be the first limiting factor. Therefore prioritizing health (like it or not, you're a physical object), [[Sleep]], [[Fitness | exercise]], and other such aspects will always pay off far more than what you sacrifice on them. [These areas should take priority over anything else](https://www.lesswrong.com/posts/QTkij5fmPXPd7GD4Z/review-of-scott-adams-how-to-fail-at-almost-everything-and).
 - Our bodies and minds are built to live in a tribe in 50,000BC, which leaves modern humans with a number of unfortunate traits (fixation with [[Social Media Issues | tribal-style social survival]], attracted to [[Nutrition | energy dense food]], ...).
 - Build [[Systems]] to take the right actions effortlessly through [[Habits]].
 
