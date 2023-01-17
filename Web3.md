@@ -49,6 +49,7 @@
 - [Algoran Indexer](https://github.com/algorand/indexer)
 - [Tezos Indexer](https://github.com/baking-bad/tzkt)
 - [db3](https://github.com/db3-teams/db3)
+- [IceFireDB](https://www.icefiredb.xyz/icefiredb_docs/)
 - [Apollo](https://github.com/chainbound/apollo)
 - [Ether SQL](https://github.com/analyseether/ether_sql)
 - [Spec](https://github.com/spec-dev)
