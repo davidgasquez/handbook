@@ -42,7 +42,7 @@
 ### Resources
 
 - [Google Design Doc Template](https://docs.google.com/document/d/18hYAQCTsDgaFUo-VJGhT0UqyetL2LbAzkWNK1fYS8R0/edit#)
-- Rust R
+- [Rust RFCs](https://github.com/rust-lang/rfcs)
 - [Awesome Tech Specs](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)
 - [On Writing Tech Specs](https://codeburst.io/on-writing-tech-specs-6404c9791159)
 - [Rust RFCs Template](https://github.com/rust-lang/rfcs/blob/master/0000-template.md)
