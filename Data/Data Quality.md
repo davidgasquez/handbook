@@ -2,6 +2,7 @@
 
 - One of the biggest misconceptions about data is that **is correct** or it will be at some point. Data quality will always be an issue, defining metrics for data quality helps you know where you stand, improve over time, and align with your team.
 	- Log data quality issues so you can act on them.
+- Data quality [is a measurement of the value of data to the business, meaning it is dependent on the task trying to be accomplished](https://tayloramurphy.substack.com/p/data-quality). High quality data in one context can be low in another.
 - [Data issues are fractal](https://www.speedwins.tech/posts/some-words-with-nuria-ruiz#question-7).
 - A table might be quality enough for one consumer but not for the other consumer.
 - [[Data Culture | Data is a product]] and that means that you can do postmortems (5 whys) and incident reports on data quality issues.
@@ -17,7 +18,7 @@
 	- **Consistency**: Is the data internally consistent?
 	- **Privacy and security**: Is data being used in accordance with the intended level of privacy and secured against undesired access?
 	- **Freshness**: Does the data describe the real world right now?
-	- **Reliability**: Is the data regarded as true and credible by the stakeholders?
+	- **Reliability**: Is the data regarded as true and credible by the stakeholders? Does it contain duplicates?
 	- **Usability**: Can be data be accessed and understood in a low-friction manner?
 	- **Validity**: Does the data conform to business rules or definitions?
 - You can use these [guiding principles to think about data quality](https://www.metaplane.dev/blog/data-quality-metrics-for-data-warehouses):
