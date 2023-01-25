@@ -25,6 +25,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 	- Apply small improvements at each iteration. Running the program will make it more resilient and robust as more errors get fixed.
 	- Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
 		- [Increased efficiency can sometimes, counterintuitively, lead to worse outcomes](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html).
+		- You should be able to "punch through" your abstraction layer and get to the code behind it in cases you need that.
 	- Sometimes you have to stop sharpening the saw, and just start cutting.
 	- Software which is broken because there is no incentive to ship good software is going to stay broken until the incentives change.
 - **Choose portability over efficiency**.
