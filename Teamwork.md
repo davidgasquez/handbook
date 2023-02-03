@@ -40,6 +40,7 @@
 	2. Make a list of everything that feels off, no matter how big or small.
 	3. Wait a bit, like a month, but address everything.
 	- This translates to ideas to review, tools to try, docs you want to write up, ...
+- Culture should incentive people to fix things outside their area. Encourage submitting Pull Requests that might be rejected.
 - Teams [need slack to absorb and adapt when unexpected things come up](https://www.neelnanda.io/blog/38-slack) and to prioritize the development of force multipliers (tooling and automation).
 	- Lack of [[slack]] compounds. It gets harder and harder to get out as more things get added to backlogs and more patches get added on the systems you build (slowing you down in the end).
 	- A more focused backlog makes it easier and faster to plan cycles, and ensures the work will actually get done.
