@@ -63,7 +63,7 @@
 	4) Shorten iteration cycles. **[Boyd's Law of Iteration](https://blog.codinghorror.com/boyds-law-of-iteration/): speed of iteration beats quality of iteration**.
 	5) [[Automation | Automate]] and keep standards.
 - Keep great global [[coordination]] and incentivize local experimentation.
-	- Being able to run small and compounding experiments (on the product or company [[processes]] and systems) is important.
+	- Being able to run small and compounding experiments (on the product or company [[processes]] and systems) is important. **Work smaller**.
 		- [Some experiments won't work](https://www.lesswrong.com/posts/97LgacucCxmyjYiNT/the-archipelago-model-of-community-standards). But oftentimes it _feels_ like it wont work when in fact you just haven't stuck with it long enough for it to bear fruit. This is hard enough for _solo_ experiments. For group experiments, where not just one but _many_ people must all try a thing at once and _get good at it_, all it takes is a little defection to spiral into a mass exodus.
 - The group with the most power determine the system that reflect and reinforce their own way of thinking. Aim for inclusion. *Diversity is being invited to the party. Inclusion is being asked to dance and help organizing the party*.
 - [Brainstorm for questions first (explore). Then find the answers (exploit).](https://getpocket.com/explore/item/better-brainstorming)
@@ -73,6 +73,7 @@
 - Communication is a central part of working in teams. Prefer [[Asynchronous Communications]], use common [[Communication | communications]] techniques and be friendly. Trust and efficient communication has a big impact on team effectiveness.
 - Have a primary [[Communication]] channel.
 - Use long-form [[Writing]], rather than [[Meetings]], speaking, and chatting. Speaking only helps who's in the room, [[Writing]] helps everyone.
+- Finish projects before starting more.
 - Prioritize things that will compound [on shipping faster](https://youtu.be/p2XVU7jLGQw).
 	- Make time to build abstractions and tools that increase your team's pace of shipping. Focus on Developer Experience.
 	- Break big ideas into small digestible pieces.

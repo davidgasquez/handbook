@@ -55,6 +55,7 @@
 - [Spec](https://github.com/spec-dev)
 - [Transpose](https://www.transpose.io/)
 - [Allium](https://twitter.com/alliumlabs)
+- [Cosmos ETL](https://github.com/bizzyvinci/cosmos-etl)
 - [Kyve](https://www.kyve.network/)
 - [Token Terminal](https://tokenterminal.com/)
 - [Probably Nothing Labs](https://www.probablynothinglabs.xyz/)
