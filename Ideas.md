@@ -82,6 +82,7 @@ Instead of building the tool, we can start with a standard protocol and let othe
 - Create an activity similar to a gymkhana mixed with escape room. Players have to solve riddles and puzzles while learning about the city and its history.
 - There might be digital and real life puzzles.
 - Clues might be scattered across many checkpoints with actors as "NPC"s to guide the players.
+- For big and closed areas, set up a Photo Battle Royale. You're out in a park. Make a group chat and eliminate people by making photos of them. The goal is to collect trophies without being eliminated. 
 
 ## Social Network Improvements
 
