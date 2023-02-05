@@ -7,7 +7,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 - Timeless.
 - No replication costs.
 - Creates win-win situations.
-- [[Network Effects]]
+- [[Network Effects]].
 
 ### Interesting Areas
 
