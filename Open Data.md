@@ -4,8 +4,6 @@
 
 ## Motivation
 
->  TODO 🔧: Refine the content for this section to make the problem statement  more clear for the reader.
-
 [Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
 
 As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless that's how you make money. As a result:
@@ -33,8 +31,6 @@ Organizations like [Our World in Data](https://ourworldindata.org/) or [538](htt
 We could have a better ecosystem if we collaborate with open standards! So, lets move towards more composable, maintainable, reproducible data. Let's move towards a **protocol for open knowledge**.
 
 ## Design Goals
-
-> TODO 🔧: Design Goals should solve the problems exposed in motivation.
 
 - **Easy**. For people to use it, it should be easy to create, curate and share datasets.
 	- Data is useful when is used! We're not using most of humanity's open datasets as much as we could. That's now because they're not available but because they're hard to get.
