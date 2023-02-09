@@ -39,20 +39,21 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 	- All datasets can be represented as tabular datasets.
 		- This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
-	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped without affecting the end result. Adopt and integrate with `git`  to reduce surface area.
+	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped without affecting the end result. 
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
 	- Metadata is a first-class citizen.
-	- Git based approach collaboration. Revisions, tags, branches, issues, PRs, ...
+	- Git based approach collaboration. Adopt and integrate with `git`  to reduce surface area. Revisions, tags, branches, issues, PRs, ... 
 	- Support for non-dataset files in same place. Code, visualizations, pipelines, models, ...
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. Datasets are declarative and immutable. They become [software defined assets](https://dagster.io/blog/software-defined-assets).
-	- Thanks to immutability, you could move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
-- **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration and curation.
-- **Aligned Incentives**. Curators should have incentives to improve datasets and metadata. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
-	- Bounties could be created to reward people that adds useful but missing datasets.
+	- Thanks to immutability, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
+- **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration and curation.
+- **Aligned Incentives**. Curators should have incentives to improve datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
+	- [Bounties](https://www.dolthub.com/bounties) could be created to reward people that adds useful but missing datasets.
 	- Surfacing and creating great datasets should be rewarded.
 	- Curating the data provides compounding benefits for the entire community!
-- **Open Source and Decentralized**. Datasets should be stored in multiple places. E.g: S3 replicating to something like IPFS.
-	- Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources.
+- **Open Source and Decentralized**. Datasets should be stored in multiple places.
+	- Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources similar to how [foreign data wrappers works in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers).
+	- 
 
 ## Modules
 
