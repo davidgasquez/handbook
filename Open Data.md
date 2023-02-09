@@ -72,16 +72,17 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 	- Integrations could be built to ingest/publish data from other hubs (e.g: CKAN)
 
 ### Storage
-- **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be accessible and permanent.
-- **Versioning**. Should be able to manage diffs and incremental changes in a smart way. E.g: only storing the new rows or columns.
+- **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be permanent and accessible.
+- **Versioning**. Should be able to manage *diffs* and *incremental changes* in a smart way. E.g: only storing the new added rows or updated columns.
 	- Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs. 
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
 	- Think at the dataset level and not the file level.
 	- Tabular data could be partitioned to make it easier for future retrieval.
-- **Inmutability**. Data should be append only. Could allow streaming.
-- **Flexible**. Allow centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...).
-	- Support many types of data. Tables, Geospatial, Images, ...
-	- A dataset could have different formats. The protocol could even do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically or do some checks at the data level to verify they contain the same information. Datasets would be accesible with multiple formats.
+- **Immutability**. Never remove historical data. Data should be append only.
+	- Similar to how `git` deals with it. You could force the deletion of something in case that's needed, but not the default.
+- **Flexible**. Allow centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
+	- As agnostic as possible, suppoting many types of data; tables, geospatial, images, ...
+	- A dataset could have different formats. The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically and some checks at the data level to verify they contain the same information.
 
 ### Transformations
 - **Deterministic**. Packaged lambda style transformations (WASM/Docker).
