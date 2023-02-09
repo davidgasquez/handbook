@@ -14,7 +14,7 @@ The current landscape has a few problems:
 - **Hard to Search**. Datasets indexing is difficult since [there are many standards](https://xkcd.com/927/).
 - **No Collaboration**. No incentives exists for people to work on improving or curating datasets.
 
-[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is the best way to learn about the world and [[Coordination | coordinate]] people.
+[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is one of the best ways to learn about the world and [[Coordination | coordinate]] people.
 
 Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
@@ -22,15 +22,15 @@ Iterative improvements over public datasets would yield large amounts of value. 
 
 ### Why now?
 
-We have better storage, we have simpler compute, we have more data. We need to go one level up in the abstraction ladder. 
+We have cheaper storage, we have better compute, we have more data. We need to go one level up in the abstraction ladder. 
 
-> TODO 🔧: Share examples of why we need to go one level up.
+Instead of thinking of CSVs, let's think about datasets. Instead of running custom scripts, let's collaborate on useful transformations. Instead of just work with datasets, let's collaborate on datasets.
 
-During the last few years, a cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (HuggingFace Datasets, Filecoin Slinghshot). Also, [DeSci](https://ethereum.org/en/desci/)!
+During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (HuggingFace Datasets). These trends have quick-started movements like [DeSci](https://ethereum.org/en/desci/) but we need more tooling around data.
 
-Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_ building custom tools around their workflows. There is no `data get OWID/daily-covid-cases`, no `datasets.storage` that could act as entrypoting/protocol to discover datasets that's not Google.
+Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_. They end up building custom tools around their workflows. That works, but limits the potential of these datasets. In the end, there is no `data get OWID/daily-covid-cases`, no `data query "select * from 538/polls"` that could act as entry-point to discover datasets.
 
-We could have a better ecosystem if we collaborate with open standards! So, lets move towards more composable, maintainable, reproducible data. Let's move towards a **protocol for open knowledge**.
+We could have a better ecosystem if we **collaborate on open standards**! So, lets move towards more composable, maintainable, and reproducible data.
 
 ## Design Goals
 
@@ -44,8 +44,8 @@ We could have a better ecosystem if we collaborate with open standards! So, lets
 	- Metadata is a first-class citizen.
 	- Git based approach collaboration. Revisions, tags, branches, issues, PRs, ...
 	- Support for non-dataset files in same place. Code, visualizations, pipelines, models, ...
-- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. Datasets are declarative and inmutable. They become [software defined assets](https://dagster.io/blog/software-defined-assets).
-	- Thanks to inmutability, you could move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
+- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. Datasets are declarative and immutable. They become [software defined assets](https://dagster.io/blog/software-defined-assets).
+	- Thanks to immutability, you could move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
 - **Permissionless**. Anyone should be able to add/update/fix datasets and metadata. GitHub style collaboration and curation.
 - **Aligned Incentives**. Curators should have incentives to improve datasets and metadata. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- Bounties could be created to reward people that adds useful but missing datasets.
