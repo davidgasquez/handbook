@@ -89,25 +89,23 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 	- For tabular data, starting with just SQL might be great.
 	- Pyodite + DuckDB for transformations could cover a large area.
 	- Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers. That file will carry [Metadata, Lineage and even some defaults (visualizations, code, ...)](https://handbook.datalad.org/en/latest/basics/101-127-yoda.html)
-- **Declarative** Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
-	- E.g: Orchestrating containers that read/write on IPFS, Pachyderm style.
+- **Declarative**. Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
+	- E.g: The tool ends up orchestrating containers that read/write from the storage layer, Pachyderm style.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
 - **Templated**. Having a repository/market of open transformations could empower a bunch of use cases ready to plug in to datasets:
 	- Detect outliers automatically on tabular data.
 	- Resize images.
 	- Normalize sound files.
 	- Detect suspicions records like a categorical variable value that only appears one time while others values appear many times.
-	- Enrich data smartly (matcher + augmenter). If it detects a date, add the day of week. If it detects latitude and longitude, adds country/city.
+	- Enrich data smartly (Match and Augment pattern). If a matcher detects a date, the augmenter can add the day of week. If is something like a latitude and longitude, the augmenter adds country/city.
 	- [Templated validations to make sure datasets conform to certain standards](https://framework.frictionlessdata.io/docs/checks/baseline.html).
 
 ### Visualizations
 - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](https://tech.datopian.com/views/).
 - **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
-- **Dynamic**. Use only the data you want. Datasets could be exposed by partitions or allow lightweight SQL queries in the URL with filter pushdown.
+- **Dynamic**. Use only the data you need. No need to pull 150GB. 
 
 ## Extra Thoughts
-- There are already open source projects like [Airbyte](https://airbyte.com/) that could be used to build open data connectors. It would make possible replicating something from `$RANDOM_SOURCE` (like the Ethereum blockchain) to any destination (like IPFS).
-	- This could be used as a way to make open adapters for datasets. The community could write parsers that know how to read data from HuggingFace, GitHub, Datalad, ...
 - [Making a SQL interface](https://twitter.com/josephjacks_/status/1492931290416365568) to query and mix these datasets could be a great step forward since it'll enable tooling like `dbt` to be used on top of it. **Data-as-code**.
 	- SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data to Our World In Data.
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
