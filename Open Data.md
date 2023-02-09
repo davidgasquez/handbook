@@ -1,16 +1,18 @@
 # Open Data
 
-> People should be able to collaborate on data the same way we collaborate on Open Source code.
+> Enable collaboration on Open Data at the level of current collaboration on Open Source code.
 
 ## Motivation
 
 [Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
 
-As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless that's how you make money. As a result:
-- Data ends up siloed in multiples places and multiple formats. Interoperability is only a wild dream.
-- Data is commonly stored in perishable hardware and formats.
-- Datasets are hard to index.
-- There is not a lot of useful collaboration. No incentives exists for people to work on improving or curating datasets.
+As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make economic sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless you can profit from that. 
+
+The current landscape has a few problems:
+- **Non Interoperability**. Data is isolated in multiples places and between different formats.
+- **Data Loss**. Data is commonly stored in perishable hardware and formats.
+- **Hard to Search**. Datasets indexing is difficult since [there are many standards](https://xkcd.com/927/).
+- **No Collaboration**. No incentives exists for people to work on improving or curating datasets.
 
 [Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is the best way to learn about the world and [[Coordination | coordinate]] people.
 
