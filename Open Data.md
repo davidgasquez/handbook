@@ -52,8 +52,10 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 	- Surfacing and creating great datasets should be rewarded.
 	- Curating the data provides compounding benefits for the entire community!
 - **Open Source and Decentralized**. Datasets should be stored in multiple places.
-	- Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources similar to how [foreign data wrappers works in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers).
-	- 
+	- Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources. Similar to:
+		- [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) 
+		- [Trustfall](https://github.com/obi1kenobi/trustfall).
+		- Open source data integration projects like [Airbyte](https://airbyte.com/). They can used to build open data connectors making possible to replicate something from `$RANDOM_SOURCE` (e.g: spreadsheets, Ethereum Blocks, URL, ...) to any destination.
 
 ## Modules
 
@@ -61,12 +63,12 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 - **Distribution**. Decentralized. No central authority. Can work in a closed network.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. 
 	- Datasets could be linked to a [[Open Data#Datafile | Datafile]] with description, default visualizations, WASM linked code...
-	- One repository is one dataset.
-- **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations. The package manager should be **format and storage agnostic**.
-- **Social**. Stars, users, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
-	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back.
-	- Have issues and disscussions close to the dataset.
-- **Extensible**. Users could extend the package resource (e.g: [Time Series Tabular Package inherits from Tabular Package](https://specs.frictionlessdata.io/tabular-data-package/)) and add better support for that kind of data.
+	- One repository, one dataset.
+- **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations or in the fly when pulling data. The package manager should be **format and storage agnostic**.
+- **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
+	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
+	- Have issues and discussions close to the dataset.
+- **Extensible**. Users could extend the package resource (e.g: [Time Series Tabular Package inherits from Tabular Package](https://specs.frictionlessdata.io/tabular-data-package/)) and add better support for more specific kinds of data (geographical).
 	- Integrations could be built to ingest/publish data from other hubs (e.g: CKAN)
 
 ### Storage
