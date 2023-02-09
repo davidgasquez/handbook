@@ -114,41 +114,35 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 - What would be a great use case to start with?
 	- Why should people use this vs doing their own thing?
 - How can datasets be indexed?
-- Some datasets are not static (e.g: Ethereum `blocks`). How can we stream new data?
-- Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote siyrce and get it dynamically as needed? 
+- How can we stream new data reliably? E.g: some datasets like Ethereum `blocks` are not static. 
+- Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote source and get it dynamically as needed? 
 - Can new table formats play efficiently with IPFS?
 	- E.g: Running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
-- Is it possible to run Spark/Trino on top of IPFS with Bacalhau?
-- What would be the ideal tabular format for IPFS?
 	- Parquet could be a great fit if we figure out how to deterministically serialize it and integrate with IPLD.
-- Homomorphic encription on private data?
+- How to work with private data?
+	- Homomorphic encription?
 
 ### Related Projects
 
 #### Computation
 - [Kamu](https://www.kamu.dev/).
+- [Bacalhau](https://www.bacalhau.org/).
 - [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
 - [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data).
-- [Minerva](https://github.com/bdchain/Minerva).
 - [The Graph](https://thegraph.com/).
-- [Akash](https://akash.network/).
-- [Datasette](https://lite.datasette.io/).
-- [Trino](https://trino.io/) is a distributed query engine for data. It could work on top of IPFS if it supported it.
-- [Algovera](https://www.algovera.ai/).
-- [DuckDB](https://duckdb.org/) WASM client could be used with IPFS as the storage layer for a [decentralized and open data warehouse](https://github.com/davidgasquez/datadex).
-- [Kylin](https://wiki.kylin.network/getting-started/project-details/project-architecture/data-analytics).
-- [IPFS Compute](https://github.com/adlrocha/ipfs-compute).
+- [Trino](https://trino.io/).
 
 #### Data Package Managers
-- [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down). It's the closest thing to the ideal I shared earlier I'm aware of.
+- [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down).
 - [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/). Is a [great candidate](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/)!
 - [Huggingface Datasets](https://huggingface.co/docs/datasets)
 - [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards)
 - [LakeFS](https://lakefs.io/blog/git-for-data/). More like Git for Data.
 - [Quilt](https://github.com/quiltdata/quilt).
+- [Datasette](https://lite.datasette.io/).
 - [Algovera Metahub](https://github.com/AlgoveraAI/metahub).
 - [DVC](https://github.com/iterative/dvc).
-- [Splitgraph](https://github.com/splitgraph/sgr)
+- [Splitgraph](https://github.com/splitgraph/sgr).
 - [Deep Lake](https://github.com/activeloopai/deeplake).
 - [Dim](https://github.com/c-3lab/dim)
 - [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
