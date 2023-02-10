@@ -142,9 +142,11 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 - [Datasette](https://lite.datasette.io/).
 - [Algovera Metahub](https://github.com/AlgoveraAI/metahub).
 - [DVC](https://github.com/iterative/dvc).
+- [Xetdata](https://xetdata.com/).
+- [Dud](https://github.com/kevin-hanselman/dud).
 - [Splitgraph](https://github.com/splitgraph/sgr).
 - [Deep Lake](https://github.com/activeloopai/deeplake).
-- [Dim](https://github.com/c-3lab/dim)
+- [Dim](https://github.com/c-3lab/dim).
 - [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
 
 ## Open Datasets
@@ -152,14 +154,14 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 - [Github](https://www.gharchive.org/).
 - [HackerNews](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=hacker_news).
 - [Reddit](https://pushshift.io/).
-- [Blockchain](https://github.com/blockchain-etl)
+- [Blockchain](https://github.com/blockchain-etl).
 - [Our World In Data](https://github.com/owid/owid-datasets).
 - [Fivethirtyeight](https://data.fivethirtyeight.com/).
 - [ProPublica](https://www.propublica.org/datastore/).
 - [World Bank](https://data.worldbank.org/indicator).
 
 ### Indexes
-- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Google Dataset Search](https://datasetsearch.research.google.com/).
 - [BigQuery Public Data](https://cloud.google.com/bigquery/public-data).
 - [Kaggle Datasets](https://www.kaggle.com/datasets).
 - [Datahub](https://datahub.io/awesome). By [Datopian](https://tech.datopian.com/), makers of CKAN.
@@ -169,7 +171,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 - [Socrata](https://dev.socrata.com/)
 - [Nasdaq](https://data.nasdaq.com/search).
 - [Zenodo](https://zenodo.org/search?page=1&size=20&q=&file_type=csv&type=dataset&sort=mostviewed).
-- [Splitgraph](https://www.splitgraph.com/explore)
+- [Splitgraph](https://www.splitgraph.com/explore).
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets).
 - [Data Packaged Core Datasets](https://github.com/datasets/)
 - [Internet Archive Dataset Collection](https://archive.org/details/datasets).
@@ -190,17 +192,16 @@ After playing with Rill Developed, DuckDB, Vega, WASM, and many more tools recen
 - Let me plot it using Vega-Lite. Guide me through alternatives like [Vega's Voyager2](https://vega.github.io/voyager2/) does.
 - Let me transform them with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)).
 - Let me save the plots in a separate space and give me a shareable URL encoded link.
-	- Local datasets could be added to IPFS or use something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) to share them.
+	- Local datasets could be shared using something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) or a temporal storage service.
 - It could also have "smart" data checks. Similar to [deepchecks](https://github.com/deepchecks/deepchecks) alerting for anomalies, outliers, noisy variables, ...
 - Given a large amount of [[Open Data]]. It could offer a way for people to upload their datasets [and get them augmented](https://subsets.io/).
-	- E.g: Upload a CSV with year and country and the tool could suggest GDP per capita or population.
+	- E.g: Upload a CSV with year and country and the tool could suggest GDP per Capita or population.
 
 Could be an awesome front-end to explore [[Open Data]].
 
 ### Interesting Projects
 - [Rill Developer](https://github.com/rilldata/rill-developer).
 - [Datastation](https://app.datastation.multiprocess.io/).
-
 
 #### Datafile
 Inspired by [ODF](https://docs.kamu.dev/odf/spec/).
@@ -226,7 +227,6 @@ materializations:
 	- format: "Parquet"
 	  location: "s3://....." 
 	  partition: "year"
-	  format: "Snowflake" 
 schema: 
 	fields: 
 		- name: "name" 
