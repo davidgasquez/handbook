@@ -41,7 +41,7 @@
 - How can we measure the data team impact?
 	- Making a [[Writing a Roadmap | roadmap]] can help you telling if you are hitting milestone deadlines or letting them slip.
 	   - Embedded data team members need to help other teams build their roadmap too.
-	- Also, having a changelog will help show the team impact on the data product across time.
+	- Also, having a changelog ([do releases!](https://betterprogramming.pub/great-data-platforms-use-conventional-commits-51fc22a7417c)) will help show the team impact on the data product across time.
 - [Push for a _centralization of the reporting structure_, but keeping the _work management decentralized_](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Unify resources (datasets, entities, definitions, metrics). Have one source of truth for each one and make that clear to everyone. That source of truth needs heavy curation. Poor curation leads to confusion, distrust and…. lots of wasted effort.
 	- Aim to share the source of truth with the production code. Usually database information is better than tracking information.

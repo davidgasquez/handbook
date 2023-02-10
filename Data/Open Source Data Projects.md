@@ -27,6 +27,7 @@
 - [Singer](https://www.singer.io/)
 - [Vector](https://vector.dev)
 - [Cloudfuse](https://github.com/cloudfuse-io)
+- [Flow](https://github.com/estuary/flow). Based on [Gazzette](https://github.com/gazette/core).
 
 ## Orchestators
 - [Dagster](https://www.dagster.io/)
