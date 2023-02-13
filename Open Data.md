@@ -56,6 +56,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 		- [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) 
 		- [Trustfall](https://github.com/obi1kenobi/trustfall).
 		- Open source data integration projects like [Airbyte](https://airbyte.com/). They can used to build open data connectors making possible to replicate something from `$RANDOM_SOURCE` (e.g: spreadsheets, Ethereum Blocks, URL, ...) to any destination.
+	- Decentralized the computation (where data lives) and then cache copies of the results (or aggregations) in CDNs. Most queries require only reading a small amount of data and going to be similar.
 
 ## Modules
 
