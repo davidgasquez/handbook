@@ -14,7 +14,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 - [[Programming]]
 - [[Web3]]
 - [[Learning]]
-- Science (biology, astrophysics, ...)
+- Science (biology, astrophysics, neuro, ...)
 
 ## Awesome Game
 - Modular Approach. The idea is to have a main character and multiple shards to play. Each shard could implement a different rule set or genre.
@@ -65,7 +65,7 @@ Instead of building the tool, we can start with a standard protocol and let othe
 - [Logseq](https://logseq.com/).
 - [Dendron](https://www.dendron.so/).
 - [Foam](https://foambubble.github.io/).
-- [Noosphere](https://github.com/subconsciousnetwork/noosphere) 
+- [Noosphere](https://github.com/subconsciousnetwork/noosphere)
 
 ## City Discovery
 - Create an activity similar to a gymkhana mixed with escape room. Players have to solve riddles and puzzles while learning about the city and its history.
