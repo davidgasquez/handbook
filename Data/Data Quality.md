@@ -4,6 +4,7 @@
 	- Log data quality issues so you can act on them.
 - Data quality [is a measurement of the value of data to the business, meaning it is dependent on the task trying to be accomplished](https://tayloramurphy.substack.com/p/data-quality). High quality data in one context can be low in another.
 - [Data issues are fractal](https://www.speedwins.tech/posts/some-words-with-nuria-ruiz#question-7).
+- [There are many common data quality problems already figured out](https://b-greve.gitbook.io/beginners-guide-to-clean-data/).
 - A table might be quality enough for one consumer but not for the other consumer.
 - [[Data Culture | Data is a product]] and that means that you can do postmortems (5 whys) and incident reports on data quality issues.
 - [There are two strategies to detect quality issues](https://towardsdatascience.com/data-observability-vs-data-testing-everything-you-need-to-know-6f3d7193b388):
@@ -22,7 +23,7 @@
 	- **Usability**: Can be data be accessed and understood in a low-friction manner?
 	- **Validity**: Does the data conform to business rules or definitions?
 - You can use these [guiding principles to think about data quality](https://www.metaplane.dev/blog/data-quality-metrics-for-data-warehouses):
-	- **Start from the usecases**: What are the most important use cases of data within your organization?
+	- **Start from the use-cases**: What are the most important use cases of data within your organization?
 	- **Identify the pain points**: Within those use cases, what data quality issues have caused the most trouble recently?
 	- **Connect to data quality dimensions** and **describe how to measure as metrics**: Of the causes of recent trouble, how do they relate to the previous data quality dimensions?
 	- **Make metrics digestible and actionable**: Lastly, how can we make those metrics useful?
