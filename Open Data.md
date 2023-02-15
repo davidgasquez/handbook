@@ -1,6 +1,7 @@
 # Open Data
 
 > Enable collaboration on Open Data at the level of current collaboration on Open Source code.
+> Move the Open Data ecosystem closer to the Data World that companies live on (tooling, approaches, ...)
 
 ## Motivation
 
