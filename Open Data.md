@@ -86,8 +86,8 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Immutability**. Never remove historical data. Data should be append only.
 	- Similar to how `git` deals with it. You could force the deletion of something in case that's needed, but not the default.
 - **Flexible**. Allow centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
-	- As agnostic as possible, suppoting many types of data; tables, geospatial, images, ...
-	- A dataset could have different formats. The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically and some checks at the data level to verify they contain the same information.
+	- As agnostic as possible, supporting many types of data; tables, geospatial, images, ...
+	- A dataset could have different formats derived from a common one.  Represent all data as Arrow datasets, and build converters between that one format and all others. This is how Pandoc and LLVM work. The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically and some checks at the data level to verify they contain the same information.
 	- Datasets could be tagged from a library of types (e.g: `ip-adress`) and [conversion functions](https://github.com/jbenet/transformer) (`ip-to-country`). Given that the representation is common (Arrow), the transformations could be written in multiple languages.
 
 ### Transformations
