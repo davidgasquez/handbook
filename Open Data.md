@@ -144,6 +144,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 - [Datasette](https://lite.datasette.io/).
 - [Algovera Metahub](https://github.com/AlgoveraAI/metahub).
 - [DVC](https://github.com/iterative/dvc).
+- [XVC](https://github.com/iesahin/xvc).
 - [Xetdata](https://xetdata.com/).
 - [Dud](https://github.com/kevin-hanselman/dud).
 - [Splitgraph](https://github.com/splitgraph/sgr).
