@@ -85,7 +85,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 - **Flexible**. Allow centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
 	- As agnostic as possible, suppoting many types of data; tables, geospatial, images, ...
 	- A dataset could have different formats. The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically and some checks at the data level to verify they contain the same information.
-	- Datasets could be tagged from a library of types (e.g: `ip-adress`) and [conversion functions](https://github.com/jbenet/transformer) (`ip-to-country`).
+	- Datasets could be tagged from a library of types (e.g: `ip-adress`) and [conversion functions](https://github.com/jbenet/transformer) (`ip-to-country`). Given that the representation is common (Arrow), the transformations could be written in multiple languages.
 
 ### Transformations
 - **Deterministic**. Packaged lambda style transformations (WASM/Docker).
