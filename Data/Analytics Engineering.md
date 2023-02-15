@@ -35,6 +35,7 @@
 - [GitLab](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt).
 - [Mattermost](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt).
 - [MetricsDAO](https://github.com/MetricsDAO).
+- [Flipside Crypto](https://github.com/FlipsideCrypto/external-models).
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
 - [Gravity Data](https://github.com/Gravity-Data/gravity-dbt)
 - [Spellbook](https://github.com/duneanalytics/spellbook/)
