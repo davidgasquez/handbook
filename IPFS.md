@@ -10,8 +10,8 @@
 ## [IPLD](https://ipld.io/)
 - Data model for IPFS
 - Everything is a node. Nodes have types.
-- The data structure is a merkle tree.
-- Makes easy to have interop of data. Useful for distributed databases.
+- The data structure is a Merkle Tree.
+- Makes easy to have interoperability of data. Useful for distributed databases.
 	- Bridges content addressing and distributed systems.
 
 ## LibP2P
@@ -19,8 +19,3 @@
 - Modular peer to peer networking layer.
 - Multiple users across the decentralized ecosystem.
 - [Many implementations](https://libp2p.io/implementations/) of each module.
-
-## Decentralized Database Projects
-- [Polybase](https://polybase.xyz/)
-- [Tableland](https://tableland.xyz/)
-- [Spaceandtime](https://www.spaceandtime.io/)
