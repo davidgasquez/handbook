@@ -27,7 +27,7 @@ We have cheaper storage, we have better compute, we have more data. We need to g
 
 Instead of thinking of CSVs, let's think about datasets. Instead of running custom scripts, let's collaborate on useful transformations. Instead of just work with datasets, let's collaborate on datasets.
 
-During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (HuggingFace Datasets). These trends have quick-started movements like [DeSci](https://ethereum.org/en/desci/) but we need more tooling around data.
+During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (HuggingFace Datasets). These trends have quick-started movements like [DeSci](https://ethereum.org/en/desci/) but we need more tooling around data. **We should use the same modern tooling companies are using to manage open datasets**.
 
 Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_. They end up building custom tools around their workflows. That works, but limits the potential of these datasets. In the end, there is no `data get OWID/daily-covid-cases`, no `data query "select * from 538/polls"` that could act as entry-point to discover datasets.
 
@@ -62,13 +62,13 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 ## Modules
 
 ### Packaging
-
 Package managers have been hailed among the most important innovations Linux brought to the computing industry. The activities of both publishers and users of datasets resemble those of authors and users of software packages.
 
 - **Distribution**. Decentralized. No central authority. Can work in a closed network.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
-	- Datasets could be linked to a [[Open Data#Datafile | Datafile]] with description, default visualizations, WASM linked code...
+	- Datasets could be linked to a [[Open Data#Datafile |Datafile]] with description, default visualizations, WASM linked code...
 	- One repository, one dataset.
+	- To avoid yet another open dataset portal, build adapters to integrate with other indexes.
 - **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations or in the fly when pulling data. The package manager should be **format and storage agnostic**.
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
 	- Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
@@ -80,6 +80,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be permanent and accessible.
 - **Versioning**. Should be able to manage *diffs* and *incremental changes* in a smart way. E.g: only storing the new added rows or updated columns.
 	- Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
+	- Each version is referenced by a hash. Git style.
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
 	- Think at the dataset level and not the file level.
 	- Tabular data could be partitioned to make it easier for future retrieval.
