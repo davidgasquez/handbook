@@ -193,10 +193,15 @@ Package managers have been hailed among the most important innovations Linux bro
 
 ## Open Source Web Data IDE
 
-After playing with Rill Developed, DuckDB, Vega, WASM, and many more tools recently, I think we have all the pieces for an awesome web based BI-ish tool. These are the things I'd love to have:
+After playing with [Rill Developer](https://github.com/rilldata/rill-developer), DuckDB, Vega, WASM, [Rath](https://github.com/kanaries/rath), and other modern Data IDEs, I think we have all the pieces for an awesome web based BI/Data exploration tool. 
 
+Some of the features it could have:
 - Let me add local and remote datasets. Not just one as I'd like to join them later.
 - Let me plot it using Vega-Lite. Guide me through alternatives like [Vega's Voyager2](https://vega.github.io/voyager2/) does.
+- Use LLMs to improve the datasets and offer next steps:
+	- Get suggested transformations for certain columns. If it detect a date, extract day of the week. If it detects a string, `lower()` it... 
+	- Get suggested plots. Given that it'll know both the column names and the types. Should be possible to create a prompt that returns some plot ideas and another that takes that and write the Vega-Lite code to make it work.
+	- Make it easy to query the data via Natural Language.
 - Let me transform them with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)).
 - Let me save the plots in a separate space and give me a shareable URL encoded link.
 	- Local datasets could be shared using something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) or a temporal storage service.
