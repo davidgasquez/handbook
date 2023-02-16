@@ -12,11 +12,11 @@
 1. Iterate. Deliver value first, then iterate. Go back to the first point and change one thing at a time. Machine Learning progress is nonlinear. It's really hard to tell in advance what's hard and what's easy. [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641). Track every experiment you do. [Keep a reverse-time sorted doc where we you bullet points of what ideas you've tried and how they've gone](https://operatorai.substack.com/p/why-do-we-write-machine-learning). Look for data flywheel, harnessing the power of user's generated data to rapidly improve the whole system. These are powerful [[Feedback Loops]]. Attempt a portfolio of approaches.
 1. Explain your results in terms your audience cares about. [[Data Culture | Data is only useful as long as it's being used]].
 
-These points are expanded with more details in courses like [Made With ML](https://madewithml.com/).  
+These points are expanded with more details in courses like [Made With ML](https://madewithml.com/).
 
 ## Tips
 - Use pre-commit hooks. Start with the basics — black, isort — then add pydocstyle, mypy, check-ast, ...
-- Version your data! Don’t overwrite raw datasets. 
+- Version your data! Don’t overwrite raw datasets.
 
 ### Resources
 

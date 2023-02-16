@@ -7,7 +7,7 @@
 
 [Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
 
-As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make economic sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless you can profit from that. 
+As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make economic sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless you can profit from that.
 
 The current landscape has a few problems:
 - **Non Interoperability**. Data is isolated in multiples places and between different formats.
@@ -23,7 +23,7 @@ Iterative improvements over public datasets would yield large amounts of value. 
 
 ### Why now?
 
-We have cheaper storage, we have better compute, we have more data. We need to go one level up in the abstraction ladder. 
+We have cheaper storage, we have better compute, we have more data. We need to go one level up in the abstraction ladder.
 
 Instead of thinking of CSVs, let's think about datasets. Instead of running custom scripts, let's collaborate on useful transformations. Instead of just work with datasets, let's collaborate on datasets.
 
@@ -40,10 +40,10 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 	- All datasets can be represented as tabular datasets.
 		- This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
-	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped without affecting the end result. 
+	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped without affecting the end result.
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
 	- Metadata is a first-class citizen.
-	- Git based approach collaboration. Adopt and integrate with `git`  to reduce surface area. Revisions, tags, branches, issues, PRs, ... 
+	- Git based approach collaboration. Adopt and integrate with `git`  to reduce surface area. Revisions, tags, branches, issues, PRs, ...
 	- Support for non-dataset files in same place. Code, visualizations, pipelines, models, ...
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. Datasets are declarative and immutable. They become [software defined assets](https://dagster.io/blog/software-defined-assets).
 	- Thanks to immutability, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
@@ -54,7 +54,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 	- Curating the data provides compounding benefits for the entire community!
 - **Open Source and Decentralized**. Datasets should be stored in multiple places.
 	- Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources. Similar to:
-		- [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) 
+		- [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
 		- [Trustfall](https://github.com/obi1kenobi/trustfall).
 		- Open source data integration projects like [Airbyte](https://airbyte.com/). They can used to build open data connectors making possible to replicate something from `$RANDOM_SOURCE` (e.g: spreadsheets, Ethereum Blocks, URL, ...) to any destination.
 	- Decentralized the computation (where data lives) and then cache copies of the results (or aggregations) in CDNs. Most queries require only reading a small amount of data and going to be similar.
@@ -66,7 +66,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 Package managers have been hailed among the most important innovations Linux brought to the computing industry. The activities of both publishers and users of datasets resemble those of authors and users of software packages.
 
 - **Distribution**. Decentralized. No central authority. Can work in a closed network.
-- **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source. 
+- **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
 	- Datasets could be linked to a [[Open Data#Datafile | Datafile]] with description, default visualizations, WASM linked code...
 	- One repository, one dataset.
 - **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations or in the fly when pulling data. The package manager should be **format and storage agnostic**.
@@ -79,7 +79,7 @@ Package managers have been hailed among the most important innovations Linux bro
 ### Storage
 - **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be permanent and accessible.
 - **Versioning**. Should be able to manage *diffs* and *incremental changes* in a smart way. E.g: only storing the new added rows or updated columns.
-	- Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs. 
+	- Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
 	- Think at the dataset level and not the file level.
 	- Tabular data could be partitioned to make it easier for future retrieval.
@@ -109,7 +109,7 @@ Package managers have been hailed among the most important innovations Linux bro
 ### Visualizations
 - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](https://tech.datopian.com/views/).
 - **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
-- **Dynamic**. Use only the data you need. No need to pull 150GB. 
+- **Dynamic**. Use only the data you need. No need to pull 150GB.
 
 ## Extra Thoughts
 - [Making a SQL interface](https://twitter.com/josephjacks_/status/1492931290416365568) to query and mix these datasets could be a great step forward since it'll enable tooling like `dbt` to be used on top of it. **Data-as-code**.
@@ -120,8 +120,8 @@ Package managers have been hailed among the most important innovations Linux bro
 - What would be a great use case to start with?
 	- Why should people use this vs doing their own thing?
 - How can datasets be indexed?
-- How can we stream new data reliably? E.g: some datasets like Ethereum `blocks` are not static. 
-- Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote source and get it dynamically as needed? 
+- How can we stream new data reliably? E.g: some datasets like Ethereum `blocks` are not static.
+- Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote source and get it dynamically as needed?
 - Can new table formats play efficiently with IPFS?
 	- E.g: Running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
 	- Parquet could be a great fit if we figure out how to deterministically serialize it and integrate with IPLD.
@@ -220,27 +220,27 @@ kind: "dataset"
 version: 1
 description: "Some description"
 license: "MIT"
-documentation: 
+documentation:
 	url: "somewhere.com"
-source: 
-	- name: "prod" 
+source:
+	- name: "prod"
 	  db: "psql:/...."
-pipeline: 
-	- name: "Extract X" 
-	  type: image 
-	  image: docker/image:latest 
-	  cmd: "do something" 
-materializations: 
+pipeline:
+	- name: "Extract X"
+	  type: image
+	  image: docker/image:latest
+	  cmd: "do something"
+materializations:
 	- format: "Parquet"
-	  location: "s3://....." 
+	  location: "s3://....."
 	  partition: "year"
-schema: 
-	fields: 
-		- name: "name" 
-		  type: "string" 
-		  description: "The name of the user" 
-		- name: "year" 
-		- description: "...." 
-	primary_key: "country_name" 
+schema:
+	fields:
+		- name: "name"
+		  type: "string"
+		  description: "The name of the user"
+		- name: "year"
+		- description: "...."
+	primary_key: "country_name"
 metadata: "..."
 ```
