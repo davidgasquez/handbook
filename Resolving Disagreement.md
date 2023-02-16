@@ -4,7 +4,7 @@
 
 We should be arguing in a constructive fashion: treating arguments as an opportunity to [[Learning | expand knowledge]], finding points of disagreement, and collaborating towards a common truth. A few assumptions are required to have a successfully disagreement:
 
-- Epistemic humility. "It's possible that I might be the one who's wrong, here".
+- Epistemic humility. "It's possible that I might be the one who's wrong here".
 - Arguments are not soldiers. Most people go into debate with a war-like mentality, they feel they must fly the flag for all points that their side supports, regardless of how much they actually agree with them.
   - Do not be afraid to agree with the arguments of the other side when they strike you as reasonable, and critique the arguments of your own side when they strike you as unreasonable.
 - Good faith. An assumption that people believe things for causal reasons. Assume good intentions.
