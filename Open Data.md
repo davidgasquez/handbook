@@ -1,11 +1,11 @@
 # Open Data
 
-> Enable collaboration on Open Data at the level of current collaboration on Open Source code.
-> Move the Open Data ecosystem closer to the Data World that companies live on (tooling, approaches, ...)
+> Bring Open Data to the level of Open Source.
+> Make Open Data compatible with the modern data ecosystem (tooling, approaches, ...).
 
 ## Motivation
 
-[Open data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
+[Open Data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
 
 As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make economic sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless you can profit from that.
 
@@ -23,29 +23,25 @@ Iterative improvements over public datasets would yield large amounts of value. 
 
 ### Why now?
 
-We have cheaper storage, we have better compute, we have more data. We need to go one level up in the abstraction ladder.
+We have cheaper storage, better compute, and more data. We need to go one level up in the abstraction ladder. Instead of thinking of CSVs, let's think about datasets. How does a world where people collaborate on datasets looks like?
 
-Instead of thinking of CSVs, let's think about datasets. Instead of running custom scripts, let's collaborate on useful transformations. Instead of just work with datasets, let's collaborate on datasets.
+During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets). These trends have already quick-started movements like [DeSci](https://ethereum.org/en/desci/) but we still need more tooling around data to make interoperability possible. **We should use the same modern tooling companies are using to manage open datasets**.
 
-During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (HuggingFace Datasets). These trends have quick-started movements like [DeSci](https://ethereum.org/en/desci/) but we need more tooling around data. **We should use the same modern tooling companies are using to manage open datasets**.
+Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_. They end up building custom tools around their workflows. That works, but limits the potential of these datasets. In the end, there is no `data get OWID/daily-covid-cases`, no `data query "select * from 538/polls"` that could act as entry-point to explore datasets.
 
-Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_. They end up building custom tools around their workflows. That works, but limits the potential of these datasets. In the end, there is no `data get OWID/daily-covid-cases`, no `data query "select * from 538/polls"` that could act as entry-point to discover datasets.
+We could have a better ecosystem if we **collaborate on open standards**! So, lets move towards more composable, maintainable, and reproducible open data.
 
-We could have a better ecosystem if we **collaborate on open standards**! So, lets move towards more composable, maintainable, and reproducible data.
+## Design Principles
 
-## Design Goals
-
-- **Easy**. It should be easy to create, curate and share datasets.
-	- Data is useful only when used! We're not using most of humanity's open datasets much. That's not because they're not available but because they're hard to get.
-	- All datasets can be represented as tabular datasets.
-		- This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
+- **Easy**. Create, curate and share datasets without friction.
+	- Data is useful only when used! Right now, we're not using most of humanity's datasets. That's not because they're not available but because they're hard to get. They're isolated in different places and formats.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
-	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped without affecting the end result.
+	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped.
+	- Metadata as a first-class citizen.
+	- Git based approach collaboration. Adopt and integrate with `git`  to reduce surface area. Build tooling to adapt revisions, tags, branches, issues, PRs to datasets.
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
-	- Metadata is a first-class citizen.
-	- Git based approach collaboration. Adopt and integrate with `git`  to reduce surface area. Revisions, tags, branches, issues, PRs, ...
-	- Support for non-dataset files in same place. Code, visualizations, pipelines, models, ...
-- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute them from scratch. Datasets are declarative and immutable. They become [software defined assets](https://dagster.io/blog/software-defined-assets).
+	- Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, ...
+- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In real life events are immutable, data should be too. Make datasets the center of the tooling like [software defined assets](https://dagster.io/blog/software-defined-assets).
 	- Thanks to immutability, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
 - **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration and curation.
 - **Aligned Incentives**. Curators should have incentives to improve datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
@@ -88,6 +84,7 @@ Package managers have been hailed among the most important innovations Linux bro
 	- Similar to how `git` deals with it. You could force the deletion of something in case that's needed, but not the default.
 - **Flexible**. Allow centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
 	- As agnostic as possible, supporting many types of data; tables, geospatial, images, ...
+    - Can all datasets can be represented as tabular datasets? This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
 	- A dataset could have different formats derived from a common one.  Represent all data as Arrow datasets, and build converters between that one format and all others. This is how Pandoc and LLVM work. The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically and some checks at the data level to verify they contain the same information.
 	- Datasets could be tagged from a library of types (e.g: `ip-adress`) and [conversion functions](https://github.com/jbenet/transformer) (`ip-to-country`). Given that the representation is common (Arrow), the transformations could be written in multiple languages.
 
@@ -194,13 +191,13 @@ Package managers have been hailed among the most important innovations Linux bro
 
 ## Open Source Web Data IDE
 
-After playing with [Rill Developer](https://github.com/rilldata/rill-developer), DuckDB, Vega, WASM, [Rath](https://github.com/kanaries/rath), and other modern Data IDEs, I think we have all the pieces for an awesome web based BI/Data exploration tool. 
+After playing with [Rill Developer](https://github.com/rilldata/rill-developer), DuckDB, Vega, WASM, [Rath](https://github.com/kanaries/rath), and other modern Data IDEs, I think we have all the pieces for an awesome web based BI/Data exploration tool.
 
 Some of the features it could have:
 - Let me add local and remote datasets. Not just one as I'd like to join them later.
 - Let me plot it using Vega-Lite. Guide me through alternatives like [Vega's Voyager2](https://vega.github.io/voyager2/) does.
 - Use LLMs to improve the datasets and offer next steps:
-	- Get suggested transformations for certain columns. If it detect a date, extract day of the week. If it detects a string, `lower()` it... 
+	- Get suggested transformations for certain columns. If it detect a date, extract day of the week. If it detects a string, `lower()` it...
 	- Get suggested plots. Given that it'll know both the column names and the types. Should be possible to create a prompt that returns some plot ideas and another that takes that and write the Vega-Lite code to make it work.
 	- Make it easy to query the data via Natural Language.
 - Let me transform them with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)). Similar to [Neptyne](https://neptyne.com/) but in the browser (WASM).
