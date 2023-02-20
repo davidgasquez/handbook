@@ -28,4 +28,3 @@ Handbooks are key for good [[Company Knowledge Management]].
 - [Loomio](https://www.loomio.coop/)
 - [Catalyst](https://catalystcoop-handbook.readthedocs.io/en/latest/)
 - [Hypha](https://handbook.hypha.coop/)
-- 
