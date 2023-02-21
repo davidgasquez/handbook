@@ -209,6 +209,7 @@ After playing with [Rill Developer](https://github.com/rilldata/rill-developer),
 Could be an awesome front-end to explore [[Open Data]].
 
 ### Interesting Projects
+- [Rath](https://rath.kanaries.net/).
 - [Rill Developer](https://github.com/rilldata/rill-developer).
 - [Datastation](https://app.datastation.multiprocess.io/).
 
