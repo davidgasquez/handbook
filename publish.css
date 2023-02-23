@@ -1,13 +1,5 @@
-h1 {
-  display: none;
-}
-
 a {
   color: #BF616A;
-  text-decoration: none;
-}
-
-.markdown-rendered .internal-link {
   text-decoration: none;
 }
 
