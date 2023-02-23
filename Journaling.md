@@ -12,7 +12,7 @@
 - Weekly Review:
 	- [Review what happened during the week](https://www.benkuhn.net/weekly/). How did the week go? Write down a list of topics to think about and take written notes on each topic as you think about them.
 	- Review a set of recurrent prompts. Tweak them over time. For example:
-	- Consistency at your core [[habits]] this week (exercise, morning routine, todo system, etc.). How can you tweak them to be more consistent or more useful?
+	- Consistency at your core [[habits]] this week ([[Fitness]], [[Routine]], [[Productivity]], etc.). How can you tweak them to be more consistent or more useful?
 	- What did you do this week that was a mistake and how can I avoid repeating it?
 	  - What would you like to accomplish next week?
 		- Do you need to clarify something?
