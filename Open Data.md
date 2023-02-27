@@ -27,6 +27,8 @@ We have cheaper storage, better compute, and more data. We need to go one level 
 
 During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets). These trends have already quick-started movements like [DeSci](https://ethereum.org/en/desci/) but we still need more tooling around data to make interoperability possible. **We should use the same modern tooling companies are using to manage open datasets**.
 
+Data wrangling is a perpetual maintenance commitment, taking a lot of ongoing attention and resources. [Better and modern data tooling can reduce these costs](https://github.com/catalyst-cooperative/pudl).
+
 Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_. They end up building custom tools around their workflows. That works, but limits the potential of these datasets. In the end, there is no `data get OWID/daily-covid-cases`, no `data query "select * from 538/polls"` that could act as entry-point to explore datasets.
 
 We could have a better ecosystem if we **collaborate on open standards**! So, lets move towards more composable, maintainable, and reproducible open data.
@@ -42,7 +44,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 	- Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
 	- Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, ...
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In real life events are immutable, data should be too. Make datasets the center of the tooling like [software defined assets](https://dagster.io/blog/software-defined-assets).
-	- Thanks to immutability, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
+	- Thanks to immutability and content addressing, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
 - **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration and curation.
 - **Aligned Incentives**. Curators should have incentives to improve datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- [Bounties](https://www.dolthub.com/bounties) could be created to reward people that adds useful but missing datasets.
@@ -60,7 +62,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 ### Packaging
 Package managers have been hailed among the most important innovations Linux brought to the computing industry. The activities of both publishers and users of datasets resemble those of authors and users of software packages.
 
-- **Distribution**. Decentralized. No central authority. Can work in a closed network.
+- **Distribution**. Decentralized. No central authority. Can work in a closed network. Cache/CDN friendly.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
 	- Datasets could be linked to a [[Open Data#Datafile |Datafile]] with description, default visualizations, WASM linked code...
 	- One repository, one dataset.
