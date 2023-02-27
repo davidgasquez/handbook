@@ -17,7 +17,7 @@ Handbooks are key for good [[Company Knowledge Management]].
 - [Loomio](https://github.com/loomio/loomio-coop-handbook)
 - [Madetech](https://github.com/madetech/handbook)
 - [MarsBased](https://github.com/MarsBased/handbook)
-- [MUI] (https://mui-org.notion.site/Handbook-f086d47e10794d5e839aef9dc67f324b)
+- [MUI](https://mui-org.notion.site/Handbook-f086d47e10794d5e839aef9dc67f324b)
 - [Source{d}](https://github.com/src-d/guide)
 - [Bonusly](https://github.com/bonusly/un-handbook)
 - [Remote](https://www.notion.so/remotecom/Handbook-a3439c6ccaac4d5f8c7515c357345c11)
