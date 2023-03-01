@@ -1,4 +1,4 @@
-# Rationality
+# Thinking
 
 - Aim to get an accurate picture of reality, even when that's unpleasant.
 	- Be self-aware about what you know and what you don't know. Aim to stay close to the [humility sweet spot](https://twitter.com/waitbutwhy/status/137655374551809638).

@@ -2,7 +2,7 @@
 ![[Quotes#^645051]]
 
 - Writing things down helps clarifying [[Ideas]]. One of the tests of whether you understand something is whether you can explain it to someone else. [Writing doesn't just communicate ideas; it generates them](http://www.paulgraham.com/writing44.html).
-	- Writing down your ideas shows you whether they have substance. Detecting when you're wrong is the first step to becoming right. There are many ways to record thought. Writing is the best for improving your [[Rationality]].
+	- Writing down your ideas shows you whether they have substance. Detecting when you're wrong is the first step to becoming right. There are many ways to record thought. Writing is the best for improving your [[Thinking]].
 	- Ideas can feel complete. It's only when you try to [put them into words](http://paulgraham.com/words.html) that you discover they're not. If you never subject your ideas to that test, you'll not only never have fully formed ideas, but also never realize it.
 	- [Drawing can help visualize ideas](https://ralphammer.com/how-to-draw-ideas/).
 - [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro) The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are. For style:
