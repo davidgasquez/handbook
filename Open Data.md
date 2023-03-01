@@ -140,8 +140,9 @@ Package managers have been hailed among the most important innovations Linux bro
 
 #### Data Package Managers
 - [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down).
-- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/). Is a [great candidate](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/)!
-- [Huggingface Datasets](https://huggingface.co/docs/datasets)
+- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/). Is a [great candidate](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/) and uses Git Annex (distributed binary object tracking layer on top of git).
+- [Huggingface Datasets](https://huggingface.co/docs/datasets).
+- [Oxen](https://github.com/Oxen-AI/Oxen).
 - [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards)
 - [LakeFS](https://lakefs.io/blog/git-for-data/). More like Git for Data.
 - [Quilt](https://github.com/quiltdata/quilt).
