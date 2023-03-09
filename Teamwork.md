@@ -39,7 +39,7 @@
 	1. Notice everything that feels off.
 	2. Make a list of everything that feels off, no matter how big or small.
 	3. Wait a bit, like a month, but address everything.
-	- This translates to ideas to review, tools to try, docs you want to write up, ...
+		- This translates to ideas to review, tools to try, docs you want to write up, ...
 - Culture should incentive people to fix things outside their area. Encourage submitting Pull Requests that might be rejected.
 - Teams [need slack to absorb and adapt when unexpected things come up](https://www.neelnanda.io/blog/38-slack) and to prioritize the development of force multipliers (tooling and automation).
 	- Lack of [[slack]] compounds. It gets harder and harder to get out as more things get added to backlogs and more patches get added on the systems you build (slowing you down in the end).
@@ -56,6 +56,7 @@
 - Scale organizational efforts across a portfolio of synergistic products.
 - Don't replace prototypes with roadmaps. Encourage prototyping to learn and build confidence with different parts of your software stack.
 - Ask people ["when do you think you'll get this done"](https://mobile.twitter.com/Carnage4Life/status/1438982223395393536), write it down and then follow up at that time. That makes teams more effective.
+- Every document must have a specific goal written at the top of it.
 - When building something:
 	1) Question everything.
 	2) Remove more than you add.

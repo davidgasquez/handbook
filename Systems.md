@@ -14,7 +14,7 @@ To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking
 
 First, focus on [[Incentives]]. [Don't be angry at the people who are benefiting from a system, or at the system itself](https://news.ycombinator.com/item?id=22043088). Most just end up that way, the same way a river meanders towards the sea, or an electrical current tries to find ground.
 
-Keep in mind intervening in a system requires some kind of theory, some kind of model where the positive effects will definitely be better than the side effects - and given how little we know and how bad we are at prediction, this will probably be wrong. A great way to start is removing things, kind of like a negative intervention, and so probably good (e.g: you're unlikely to find a medicine as helpful as smoking is harmful, so focus on stopping smoking).
+Keep in mind intervening in a system requires some kind of theory, some kind of model where the positive effects will definitely be better than the side effects - and given how little we know and how bad we are at prediction, this will probably be wrong. A great way to start is removing things, kind of like a negative intervention, and so probably good (e.g: you're unlikely to find a medicine as helpful as smoking is harmful, so focus on stopping smoking). Easy to replace systems get replaced by difficult to replace systems.
 
 [A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law)(more [elementary systems functions](https://en.wikipedia.org/wiki/Systemantics#Elementary_systems_functions)).
 
