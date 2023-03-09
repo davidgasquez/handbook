@@ -1,6 +1,6 @@
 # Checklist
 
-Checklists are an essential component of high-quality processes, e.g. in aviation, medicine or construction. [Checklists provide a seemingly mix of freedom and expectation — and also to measure progress toward common goals](https://emilie.substack.com/p/the-swim-class-checklist).
+Checklists are an essential component of high-quality processes, e.g. in aviation, medicine or construction. [Checklists provide a seemingly mix of freedom and expectation — and also to measure progress toward common goals](https://emilie.substack.com/p/the-swim-class-checklist). If you did a sequence of actions 3 times, make it a checklist!
 
 ## [How To Build A Checklist](http://projectmanagementhacks.com/how-to-build-a-checklist/)
 
