@@ -23,6 +23,7 @@
 - Working with data is like exploring the horizon. It changes as soon as you look it from a higher place (more data).
 - Reduce the areas where business logic can be injected, create “time to live” policies on last mile transforms, build a culture of standardizing + celebrating access to cross-functional codebases.
 	- People default to writing business logic in the tool they are most comfortable with. The best way for data teams to prevent sprawling business logic is not just to limit last mile transforms in other tools, but also to invite others into their tools. [This logic will be written, and if the data team gate-keeps, it will be written outside of their visibility](https://ian-macomber.medium.com/data-systems-tend-towards-production-be5a86f65561). If a data team can educate and encourage contributions to their codebase, they invite code to be written where it most belongs.
+- Modern data warehouses [might need new model design paradigms](https://github.com/ActivitySchema/ActivitySchema/blob/main/2.0.md).
 
 ## Resources
 
