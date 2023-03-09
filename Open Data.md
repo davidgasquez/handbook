@@ -25,7 +25,7 @@ Iterative improvements over public datasets would yield large amounts of value. 
 
 We have cheaper storage, better compute, and more data. We need to go one level up in the abstraction ladder. Instead of thinking of CSVs, let's think about datasets. How does a world where people collaborate on datasets looks like?
 
-During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets). These trends have already quick-started movements like [DeSci](https://ethereum.org/en/desci/) but we still need more tooling around data to make interoperability possible. **We should use the same modern tooling companies are using to manage open datasets**.
+During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets). These trends have already quick-started movements like [DeSci](https://ethereum.org/en/desci/) but we still need more tooling around data to make interoperability possible. **We should use the same modern tooling companies are using to manage open datasets**. A sort of [Data Operating system](https://data-operating-system.com/).
 
 Data wrangling is a perpetual maintenance commitment, taking a lot of ongoing attention and resources. [Better and modern data tooling can reduce these costs](https://github.com/catalyst-cooperative/pudl).
 
