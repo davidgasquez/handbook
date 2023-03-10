@@ -37,6 +37,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 
 - **Easy**. Create, curate and share datasets without friction.
 	- Data is useful only when used! Right now, we're not using most of humanity's datasets. That's not because they're not available but because they're hard to get. They're isolated in different places and formats.
+	- Pragmatism: published data is better than almost published one because something is missing.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
 	- Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped.
 	- Metadata as a first-class citizen.
@@ -45,7 +46,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 	- Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, ...
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In real life events are immutable, data should be too. Make datasets the center of the tooling like [software defined assets](https://dagster.io/blog/software-defined-assets).
 	- Thanks to immutability and content addressing, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
-- **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration and curation.
+- **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration, curation, and composability.
 - **Aligned Incentives**. Curators should have incentives to improve datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
 	- [Bounties](https://www.dolthub.com/bounties) could be created to reward people that adds useful but missing datasets.
 	- Surfacing and creating great datasets should be rewarded.
@@ -55,6 +56,8 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 		- [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
 		- [Trustfall](https://github.com/obi1kenobi/trustfall).
 		- Open source data integration projects like [Airbyte](https://airbyte.com/). They can used to build open data connectors making possible to replicate something from `$RANDOM_SOURCE` (e.g: spreadsheets, Ethereum Blocks, URL, ...) to any destination.
+		- Adapters are created by the community so data becomes connected.
+	- Integrate with the modern data stack to avoid reinventing the wheel.
 	- Decentralized the computation (where data lives) and then cache copies of the results (or aggregations) in CDNs. Most queries require only reading a small amount of data and going to be similar.
 
 ## Modules
