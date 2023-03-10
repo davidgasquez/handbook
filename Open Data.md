@@ -159,6 +159,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - [Splitgraph](https://github.com/splitgraph/sgr).
 - [Deep Lake](https://github.com/activeloopai/deeplake).
 - [Dim](https://github.com/c-3lab/dim).
+- [Juan Benet's data](https://github.com/jbenet/data).
 - [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
 
 ## Open Datasets
