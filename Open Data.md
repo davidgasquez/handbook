@@ -149,7 +149,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - [Quilt](https://github.com/quiltdata/quilt).
 - [Oxen](https://github.com/Oxen-AI/Oxen).
 - [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards).
-- [Datopian Data CLI](https://github.com/datopian/data-cli).
+- [Datopian Data CLI](https://github.com/datopian/data-cli). Sucesor of [DPM](https://github.com/frictionlessdata/dpm-js).
 - [LakeFS](https://lakefs.io/blog/git-for-data/). More like Git for Data.
 - [Datasette](https://lite.datasette.io/).
 - [Algovera Metahub](https://github.com/AlgoveraAI/metahub).
