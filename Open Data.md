@@ -148,7 +148,8 @@ Package managers have been hailed among the most important innovations Linux bro
 - [Huggingface Datasets](https://huggingface.co/docs/datasets).
 - [Quilt](https://github.com/quiltdata/quilt).
 - [Oxen](https://github.com/Oxen-AI/Oxen).
-- [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards)
+- [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards).
+- [Datopian Data CLI](https://github.com/datopian/data-cli).
 - [LakeFS](https://lakefs.io/blog/git-for-data/). More like Git for Data.
 - [Datasette](https://lite.datasette.io/).
 - [Algovera Metahub](https://github.com/AlgoveraAI/metahub).
@@ -160,6 +161,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - [Deep Lake](https://github.com/activeloopai/deeplake).
 - [Dim](https://github.com/c-3lab/dim).
 - [Juan Benet's data](https://github.com/jbenet/data).
+- [Colah's data](https://github.com/colah/data).
 - [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
 
 ## Open Datasets
