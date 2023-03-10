@@ -208,6 +208,7 @@ After playing with [Rill Developer](https://github.com/rilldata/rill-developer),
 - Let me save the plots in a separate space and give me a shareable URL encoded link.
 	- Local datasets could be shared using something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) or a temporal storage service.
 - Let me grab the state of the app (YAML/JSON, version control it, and generate static (to publish in GitHub Pages) and dynamic (hosted somewhere) dashboards from it.
+	- Similar to [evidence.dev](https://evidence.dev/) or [portal.js](https://portaljs.org/).
 - It could also have "smart" data checks. Similar to [deepchecks](https://github.com/deepchecks/deepchecks) alerting for anomalies, outliers, noisy variables, ...
 - Given a large amount of [[Open Data]]. It could offer a way for people to upload their datasets [and get them augmented](https://subsets.io/).
 	- E.g: Upload a CSV with year and country and the tool could suggest GDP per Capita or population.
