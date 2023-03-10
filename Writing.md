@@ -13,7 +13,7 @@
 	- **Add rhythm**. Vary the sentence length to break the monotony.
 - Use the active voice.
 - Write in a conversational tone. Think about readers when writing.
-- [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. A standard structure is to:
+- [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. Use the [Minto Pyramid](https://scqa.lifeitself.org/) or another standard structure like this one:
 	- Define a clear thesis. State the main point before you
 	give the reasoning that leads to it.
 	- Support your thesis with arguments.
