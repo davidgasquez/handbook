@@ -66,7 +66,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 Package managers have been hailed among the most important innovations Linux brought to the computing industry. The activities of both publishers and users of datasets resemble those of authors and users of software packages.
 
 - **Distribution**. Decentralized. No central authority. Can work in a closed network. Cache/CDN friendly.
-	- Import from an URL.
+	- Import from an URL (`data add example.com/dataset.yml` or `data add example.com/hub_curated_datasets.yml`).
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
 	- Datasets could be linked to a [[Open Data#Datafile |Datafile]] with description, default visualizations, WASM linked code...
 	- One repository, one dataset.
