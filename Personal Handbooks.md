@@ -16,6 +16,7 @@
 - [Simon Späti](https://brain.sspaeti.com/)
 - [Jonathan Porter](https://eatsleepdata.com/)
 - [Jacky Zhao](https://jzhao.xyz/)
+- [Pelayo Arbués](https://pelayoarbues.github.io/)
 
 ### Compilations
 - [Meta Knowledge GitHub repository](https://github.com/RichardLitt/meta-knowledge)
