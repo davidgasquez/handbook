@@ -115,6 +115,11 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
 - **Dynamic**. Use only the data you need. No need to pull 150GB.
 
+## Architecture
+
+![Architecture](https://user-images.githubusercontent.com/1682202/224966685-b2406d5f-b162-4a93-a68a-af0afca45ebe.png)
+_[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20khdaB-lRumpzN7w)_
+
 ## Extra Thoughts
 - [Making a SQL interface](https://twitter.com/josephjacks_/status/1492931290416365568) to query and mix these datasets could be a great step forward since it'll enable tooling like `dbt` to be used on top of it. **Data-as-code**.
 	- SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data to Our World In Data.
