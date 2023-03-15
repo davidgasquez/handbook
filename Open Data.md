@@ -132,6 +132,8 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - What would be a great use case to start with?
 	- Why should people use this vs doing their own thing?
 - How can datasets be indexed?
+- How can LLMs help "building bridges"?
+	- E.g: point a GPT wrapper to a GitHub repository and get the auto-generated `datapakage.json`. It should infer files, schema, and types and generate some metadata for us. Then, a "dataset package" can be anything the tool can crawl.
 - How can we stream new data reliably? E.g: some datasets like Ethereum `blocks` are not static.
 - Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote source and get it dynamically as needed?
 - Can new table formats play efficiently with IPFS?
