@@ -132,6 +132,8 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - What would be a great use case to start with?
 	- Why should people use this vs doing their own thing?
 - How can datasets be indexed?
+- What is the incentive for people to adopt it?
+	- [If everybody could converge to it, e.g: _"datapackage.json_" as a metadata and schema description standard, then, an ecosystem of utilities and libraries for processing data would take advantage of it](https://news.ycombinator.com/item?id=15346836).
 - How can LLMs help "building bridges"?
 	- E.g: point a GPT wrapper to a GitHub repository and get the auto-generated `datapakage.json`. It should infer files, schema, and types and generate some metadata for us. Then, a "dataset package" can be anything the tool can crawl.
 - How can we stream new data reliably? E.g: some datasets like Ethereum `blocks` are not static.
