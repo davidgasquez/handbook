@@ -82,3 +82,11 @@ Instead of building the tool, we can start with a standard protocol and let othe
 ## Web3 Recommendation Engine
 - Since Ethereum wallets are public, you can get good data on which tokens people similar to you are holding.
 - This might be useful to discover new assets.
+
+## LLMs Uses
+
+- [Code uses](https://twitter.com/sualehasif996/status/1635755267739598848)
+	- Convert code from one language to another
+	- Generate YAMLs or other DSLs (translate between them)
+	- Productionice code
+	- Write basic CLIs
