@@ -11,8 +11,9 @@
 - [[Science]]
 - [[Open Source Data Projects]]
 - [[Dungeons and Dragons]]
-- [[Recipes]]
 - [[Datathons]]
+- [[Cooking]]. [[Recipes]].
+- [[Gardening]]
 
 ## Resources
 
