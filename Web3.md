@@ -36,7 +36,7 @@
 - [Ethereum Community Guides](https://ethereum.org/en/learn). A set of resources to help you learn more about Ethereum.
 - [Augur](https://www.augur.net/) - A prediction market protocol owned and operated by the people that use it.
 
-### Decentralized Science
+### [Decentralized Science](https://ethereum.org/en/desci/)
 
 - [Opscientia](https://github.com/opscientia/desci)
 
