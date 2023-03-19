@@ -94,6 +94,11 @@ Instead of building the tool, we can start with a standard protocol and let othe
 - Since Ethereum wallets are public, you can get good data on which tokens people similar to you are holding.
 - This might be useful to discover new assets.
 
+## Web3 Data Pipelines
+
+- There is no Airbyte for blockchains.
+- Everyone is reinventing the wheel, e.g: Dune does ETL, Flipside does it too, ...
+
 ## LLMs Uses
 
 - [Code uses](https://twitter.com/sualehasif996/status/1635755267739598848)
@@ -101,3 +106,11 @@ Instead of building the tool, we can start with a standard protocol and let othe
 	- Generate YAMLs or other DSLs (translate between them)
 	- Productionice code
 	- Write basic CLIs
+
+## Structured Company Changelog
+
+- Create and maintain a *Company Changelog* in a table (structured and parse-able format) so it can be fed to something like Mixpanel or joined to other datasets to do analysis.
+- Add data from other Sources:
+	- Github PRs
+	- OKRs
+- Use something like GitHub Releases to publish the changes and artifacts.
