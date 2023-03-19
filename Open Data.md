@@ -21,11 +21,11 @@ Open protocols create open systems. Open code creates tools. **Open data creates
 
 Iterative improvements over public datasets would yield large amounts of value. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Let's make Open Data do the same!
 
-### Why now?
+### Why Now?
 
 We have cheaper storage, better compute, and more data. We need to improve our workflows now. How does a world where people collaborate on datasets looks like?
 
-During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets). 
+During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets).
 
 These trends have already quick-started movements like [DeSci](https://ethereum.org/en/desci/) but we still need more tooling around data to make interoperability possible. **We should use the same modern tooling companies are using to manage open datasets**. A sort of [Data Operating system](https://data-operating-system.com/). Having better data will create better and more accessible AI models.
 
@@ -65,6 +65,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 ## Modules
 
 ### Packaging
+
 Package managers have been hailed among the most important innovations Linux brought to the computing industry. The activities of both publishers and users of datasets resemble those of authors and users of software packages.
 
 - **Distribution**. Decentralized. No central authority. Can work in a closed network. Cache/CDN friendly.
@@ -82,6 +83,7 @@ Package managers have been hailed among the most important innovations Linux bro
 	- Integrations could be built to ingest/publish data from other hubs (e.g: CKAN)
 
 ### Storage
+
 - **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be permanent and accessible.
 - **Versioning**. Should be able to manage *diffs* and *incremental changes* in a smart way. E.g: only storing the new added rows or updated columns.
 	- Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
@@ -93,11 +95,12 @@ Package managers have been hailed among the most important innovations Linux bro
 	- Similar to how `git` deals with it. You could force the deletion of something in case that's needed, but not the default.
 - **Flexible**. Allow centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
 	- As agnostic as possible, supporting many types of data; tables, geospatial, images, ...
-    - Can all datasets can be represented as tabular datasets? This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
+	- Can all datasets can be represented as tabular datasets? This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
 	- A dataset could have different formats derived from a common one.  Represent all data as Arrow datasets, and build converters between that one format and all others. This is how Pandoc and LLVM work. The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically and some checks at the data level to verify they contain the same information.
 	- Datasets could be tagged from a library of types (e.g: `ip-adress`) and [conversion functions](https://github.com/jbenet/transformer) (`ip-to-country`). Given that the representation is common (Arrow), the transformations could be written in multiple languages.
 
 ### Transformations
+
 - **Deterministic**. Packaged lambda style transformations (WASM/Docker).
 	- For tabular data, starting with just SQL might be great.
 	- Pyodite + DuckDB for transformations could cover a large area.
@@ -114,6 +117,7 @@ Package managers have been hailed among the most important innovations Linux bro
 	- [Templated validations to make sure datasets conform to certain standards](https://framework.frictionlessdata.io/docs/checks/baseline.html).
 
 ### Visualizations
+
 - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](https://tech.datopian.com/views/).
 - **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
 - **Dynamic**. Use only the data you need. No need to pull 150GB.
@@ -124,11 +128,13 @@ Package managers have been hailed among the most important innovations Linux bro
 _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20khdaB-lRumpzN7w)_
 
 ## Extra Thoughts
+
 - [Making a SQL interface](https://twitter.com/josephjacks_/status/1492931290416365568) to query and mix these datasets could be a great step forward since it'll enable tooling like `dbt` to be used on top of it. **Data-as-code**.
 	- SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data to Our World In Data.
 	- There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
 
 ## Open Questions
+
 - What would be a great use case to start with?
 	- Why should people use this vs doing their own thing?
 - How can datasets be indexed?
@@ -147,6 +153,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 ### Related Projects
 
 #### Computation
+
 - [Kamu](https://www.kamu.dev/).
 - [Bacalhau](https://www.bacalhau.org/).
 - [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
@@ -155,6 +162,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [Trino](https://trino.io/).
 
 #### Data Package Managers
+
 - [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down).
 - [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/). Is a [great candidate](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/) and uses Git Annex (distributed binary object tracking layer on top of git).
 - [Huggingface Datasets](https://huggingface.co/docs/datasets).
@@ -177,6 +185,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
 
 ## Open Datasets
+
 - [Wikipedia](https://dumps.wikimedia.org/).
 - [Github](https://www.gharchive.org/).
 - [HackerNews](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=hacker_news).
@@ -188,6 +197,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [World Bank](https://data.worldbank.org/indicator).
 
 ### Indexes
+
 - [Google Dataset Search](https://datasetsearch.research.google.com/).
 - [BigQuery Public Data](https://cloud.google.com/bigquery/public-data).
 - [Kaggle Datasets](https://www.kaggle.com/datasets).
@@ -232,11 +242,13 @@ After playing with [Rill Developer](https://github.com/rilldata/rill-developer),
 Could be an awesome front-end to explore [[Open Data]].
 
 ### Interesting Projects
+
 - [Rath](https://rath.kanaries.net/).
 - [Rill Developer](https://github.com/rilldata/rill-developer).
 - [Datastation](https://app.datastation.multiprocess.io/).
 
 #### Datafile
+
 Inspired by [ODF](https://docs.kamu.dev/odf/spec/).
 
 ```YAML
