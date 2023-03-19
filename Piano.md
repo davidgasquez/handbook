@@ -9,6 +9,7 @@
   - In the academic side, [Intro Theory by Dmiti Tymoczko](https://dmitri.mycpanel.princeton.edu/teaching.html). His course works on a much more fundamental level than any other music theory course.
 
 ## Youtube Channels:
+
   - [Bill Hilton](https://www.youtube.com/user/billhiltonbiz)
   - [Nahre Sol](https://www.youtube.com/channel/UC8R8FRt1KcPiR-rtAflXmeg)
   - [Andrew Furmanczyk](https://www.youtube.com/channel/UCpzgTNTgQsR9YYsyOm3k3KQ)

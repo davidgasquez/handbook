@@ -6,7 +6,7 @@ Behavior is hard to fix. When people say they've learned their lesson they under
 
 > _"Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior"._ Dee Hock.
 
-- To reach a [[Goals | goal]], reduce friction or increase incentives/rewards.
+- To reach a [[Goals |goal]], reduce friction or increase incentives/rewards.
 - To build better institutions, alter the incentive landscape. Great incentives create great outcomes.
 - Humans are astonishingly bad at establishing incentives—we consistently invite manipulation and unintended consequences.
 - You can’t force other people to change. You can, however, change just about everything else. And usually, that’s enough!
@@ -19,7 +19,7 @@ Behavior is hard to fix. When people say they've learned their lesson they under
 [A structure through which to create, evaluate, and adjust incentives.](https://mobile.twitter.com/SahilBloom/status/1434847309976702980)
 
 1. **Objectives**. What does success look like? Without upfront deep thought on objectives, intelligent incentive design is impossible.
-2. **Metrics**. Establish [[Metrics | metrics that you will measure to track success]]. Avoid the McNamara Fallacy—never choose metrics on the basis of what is easily measurable over what is meaningful. Identify a wish list of metrics with no regard for feasibility. Work backwards from there.
+2. **Metrics**. Establish [[Metrics |metrics that you will measure to track success]]. Avoid the McNamara Fallacy—never choose metrics on the basis of what is easily measurable over what is meaningful. Identify a wish list of metrics with no regard for feasibility. Work backwards from there.
 3. **Anti-Metrics**. Establish "anti-metrics" that you measure to track unintended consequences. Anti-metrics force you to consider whether your incentives are fixing one problem here, but creating another problem over there.
 4. **Stakes & Effects**. Consider the stakes. If the failures are costly and the decisions hard to reverse, conduct a heavier analysis.
 5. **Skin in the Game**. To avoid principal-agent problems, the incentive designer should have skin in the game. Never allow an incentive to be implemented where the creator participates in pleasure of the upside, but not the pain in the downside. Skin in the game improves outcomes.

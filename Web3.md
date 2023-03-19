@@ -37,9 +37,11 @@
 - [Augur](https://www.augur.net/) - A prediction market protocol owned and operated by the people that use it.
 
 ### Decentralized Science
+
 - [Opscientia](https://github.com/opscientia/desci)
 
 ### Blockchain Indexing Data Projects
+
 - [Luabase](https://github.com/luabase)
 - [Tokenflow](https://docs.tokenflow.live/)
 - [Blockchain ETL](https://github.com/blockchain-etl)
@@ -78,6 +80,7 @@
 - [Unigrants Community Analytics](https://unigrants.notion.site/Unigrants-Community-Analytics-b09bbb16579d4a569b7e2d393afc4459)
 
 #### Data Engineering Folks
+
 - [Yaroslav Tkachenko](https://sap1ens.com/blog/2022/04/11/why-im-joining-goldsky/)
 - [Mike Ritchie](https://twitter.com/thisritchie/status/1533434879773290496)
 - [Luke Kim](https://twitter.com/0xLukeKim/status/1514294888778534915)

@@ -37,12 +37,12 @@
 - Keep the end goal in mind. [Don’t Shave That Yak](https://seths.blog/2005/03/dont_shave_that/)!
 - [The Copenhagen Interpretation of Ethics](https://blog.jaibot.com/the-copenhagen-interpretation-of-ethics/) says that when you observe or interact with a problem in any way, you can be blamed for it. At the very least, you are to blame for not doing _more_. ^ec616e
 
-
 ## Five Whys
 
 Ask "why" 5 times, until you get to the root cause of your issue. [Five Whys](https://www.lesswrong.com/posts/jqfANkNduyEQC9hvr/five-whys) is a technique for getting to the root cause of a problem. [**Solutions** solve for symptoms, and they might be short-term fixes; whereas **countermeasures** propose a preventative response to the problem — ensuring it doesn't recur in the long term](https://blog.superhuman.com/five-whys-method/).
 
 The simple steps:
+
 1. Define the problem.
 2. Ask "Why do I have this problem? / What is causing this problem?".
 3. Make the answer as concrete as possible.

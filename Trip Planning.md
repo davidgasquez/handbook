@@ -15,6 +15,7 @@
 - Learn [how to pack a backpack](https://info.deuter.com/blog/packing-a-backpack).
 
 ## Things to Pack
+
 - Bottle of water.
 - Sunglasses.
 - Medicines.
@@ -24,6 +25,7 @@
 - eSIM (Airalo).
 
 ### Checklist
+
 - Download podcasts, albums or other media.
 - Do all the check-ins.
 - Empty wallet of useless things in the destination.

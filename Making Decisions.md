@@ -1,7 +1,6 @@
 # Making Decisions
 
-
-Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a [[Problem Solving]] activity, and it can be more or less [[Thinking | rational or irrational]] based on the decision maker's [[Values]], beliefs, and (perceived) knowledge.
+Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a [[Problem Solving]] activity, and it can be more or less [[Thinking |rational or irrational]] based on the decision maker's [[Values]], beliefs, and (perceived) knowledge.
 
 - Living a good life depends on our ability to make good decisions constantly.
 - Not perceiving the world accurately makes us worse at making decisions.
@@ -19,7 +18,7 @@ Decision making is the process we use to identify and choose alternatives, produ
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
 - Gather all the information you can. Then, schedule [[time]] to think deeply about it. Brain-dump your thoughts on the problem - what's going wrong, why is it inefficient? Try to understand it in as much detail as possible.
 	- Learn from the mistakes of others. You can't live long enough to make them all yourself.
-	- Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. [[Openness | Transparency]] is key for group decisions.
+	- Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. [[Openness |Transparency]] is key for group decisions.
 	- Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow.
 - [The fog of the future hides vital information](https://youtu.be/SVmEXdGqO-s).
 - If all options are similar take the harder one in the short term (_Hard decisions easy life, easy decisions, hard life_).
@@ -50,6 +49,7 @@ Decision making is the process we use to identify and choose alternatives, produ
 ![](https://miro.medium.com/max/700/1*9H9letDTBO0IvuGbYN4x6A.png)
 
 ## Framework
+
 A decision making framework is only needed when there is lack of clarity about a decision that is higher risk. Higher risk can mean that the decision has long term implications or that it can be costly to unwind if the wrong decision is made.
 
 This is [how to make decisions](https://barmstrong.medium.com/how-we-make-decisions-at-coinbase-cd6c630322e9).

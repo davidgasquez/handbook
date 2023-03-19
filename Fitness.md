@@ -1,6 +1,6 @@
 # Fitness
 
-- Exercise helps make better use of the [[Nutrition | foods you are eating]] and produces the hormones you need to [[Thinking | think clearly]].
+- Exercise helps make better use of the [[Nutrition |foods you are eating]] and produces the hormones you need to [[Thinking |think clearly]].
 - Your body is your vessel for life's journey - treat it accordingly. Fitness and [[Nutrition]] are the rising tide that floats all boats. They are multipliers for everything.
 - Never sit for prolonged times. Take breaks standing or walking around.
 	- [Going for a walk has lots benefits](https://www.betterhealth.vic.gov.au/health/healthyliving/walking-for-good-health). Around 30 minutes a day on most days of the week is a great way to improve or maintain your overall health.

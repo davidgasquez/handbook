@@ -15,6 +15,7 @@ Turn vague goals into trigger-action plans (TAPs). **If X then Y**. That works b
 - **The TAP furthers your goals**.
 
 ## Interesting Goals
+
 -   Experiment with something you want to improve (A/B tests).
 -   Reduce daily decisions.
 -   [[Journaling |Journal]].

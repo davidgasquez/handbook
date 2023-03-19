@@ -14,7 +14,7 @@
 - Believing you're rational makes it easier to fool yourself mistaking your intuitions with rational decision.
 - Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible.
 	- Anything you know or do could be wrong. You get less dumb by saying things and getting feedback. [We all have crony beliefs](https://meltingasphalt.com/crony-beliefs/). From time to time, do a self-audit and figure out which ideas you've come to hold sacred and remind yourself that they're just ideas.
-	- A great way to do that is to [bet on everything](https://www.lesswrong.com/posts/ybYBCK9D7MZCcdArB/how-to-measure-anything) where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and under-confidence, which will serve you in good stead emotionally when you try to do [[Fallacies | inadequacy reasoning]]. It'll also force you to do falsifiable predictions.
+	- A great way to do that is to [bet on everything](https://www.lesswrong.com/posts/ybYBCK9D7MZCcdArB/how-to-measure-anything) where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and under-confidence, which will serve you in good stead emotionally when you try to do [[Fallacies |inadequacy reasoning]]. It'll also force you to do falsifiable predictions.
 		- A tool to assign a percentage to a belief is [the equivalent bet test](https://www.lesswrong.com/posts/EtxTDPMXrbmpheiAt/how-the-equivalent-bet-test-actually-works).
 - Instead of thinking "I'm sure X is fake!", try to think in terms of probabilities. E.g: I think there's a 90% chance X is fake. Instead of thinking in terms of changing your mind, think in terms of updating your probabilities. [This mindset](https://astralcodexten.substack.com/p/book-review-the-scout-mindset) makes it easier to remember that it’s not a question of winning or losing, but a question of being as accurate as possible. “Probability update” is less emotionally devastating than "I said X, but actually ~X, so I was wrong").
 - You can try things to find out which ideas are right or wrong. It requires asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
@@ -38,7 +38,7 @@
 	- [Motivated Reasoning or Soldier Mindset](https://youtu.be/w4RLfVxTGH4?list=WL):
 		- You are fighting to make sure an argument wins.
 		- You are fighting to make another argument lose.
-	- You are [[incentives | incentivized]] to believe something, or not to notice something, because of social or financial rewards or because it'd be physically inconvenient/annoying.
+	- You are [[incentives |incentivized]] to believe something, or not to notice something, because of social or financial rewards or because it'd be physically inconvenient/annoying.
 	- You are [offended/angered/defensive/agitated](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world).
 	- You are afraid you'll lose something important if you lose a belief.
 	- You are arguing about definitions of words instead of ideas.

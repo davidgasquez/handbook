@@ -7,6 +7,7 @@
 If you listen to successful people talk about their approaches, remember that all the people who used the same methods and failed [did not share anything about it](https://en.wikipedia.org/wiki/Survivorship_bias). Life advice tips don't work for everyone! Advice like these are not laws. They are like hats. If one doesn't fit, try another. The important part is to [try more things](https://www.lesswrong.com/posts/ZzCxs2AFThcTfFeKr/try-more-things)! Most generic advice actually has multiple levels of nuance that can only be understood through experience.
 
 [Good advice has three main components](https://atis.substack.com/p/most-advice-is-pretty-bad):
+
 1. It is not obvious
 2. It is actionable
 3. It is based on some true insight
@@ -16,8 +17,8 @@ If you listen to successful people talk about their approaches, remember that al
 - Experiment and iterate.
 - Keep it simple.
 - Build great memories.
-- Before you speak, let your words pass through three gates. At the first gate, ask yourself, “Is it true?” At the second gate ask, “Is it necessary?” At the third gate ask, “Is it kind?”
-- Elevate good behavior rather than punishing bad behavior, especially in [[Parenting | children]] and animals.
+- Before you speak, let your words pass through three gates. At the first gate, ask yourself, "s it true?"" At the second gate ask, "Is it necessary?" At the third gate ask, "Is it kind?""
+- Elevate good behavior rather than punishing bad behavior, especially in [[Parenting |children]] and animals.
 
 ## Resources
 

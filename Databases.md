@@ -8,4 +8,5 @@
   - [SQL Style Guide](https://www.sqlstyle.guide/)
 
 ### Resources
+
 - [Build your own database on Rust](https://github.com/adambcomer/database-engine)

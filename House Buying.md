@@ -1,6 +1,6 @@
 # House Buying
 
-- Be clear about why you're buying a home. Every large [[Making Decisions | decision]] you have to make about home ownership should somewhat tie in to this.
+- Be clear about why you're buying a home. Every large [[Making Decisions |decision]] you have to make about home ownership should somewhat tie in to this.
 - Look at houses based on the life style you have not the life style you aspire to have.
 - [Living in the same place as the people you love matters](https://waitbutwhy.com/2015/12/the-tail-end.html).
 - Balance commuting against other goods and costs (Commuting Paradox).
@@ -8,8 +8,8 @@
 - Good illumination (daylight has a strong effect on mood) and a view of natural beauty (nature increases mental functioning and concentration) aren't just pleasant luxuries, but can make important practical differences in your [[Health]]. Light and plants make a difference.
 	- Aim for a small sunny place in the winter!
 - Research nearby future facilities. Schools, shopping malls, coffee shops, transportation, ...
-- Check the electrical and water installations of the building. 
-- Treat it as a [[Finances | finance]] asset. Think for how much it'll sell.
+- Check the electrical and water installations of the building.
+- Treat it as a [[Finances |finance]] asset. Think for how much it'll sell.
 
 ## Mortgage
 

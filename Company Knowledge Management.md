@@ -18,7 +18,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
 ## Key Ideas
 
 - [[Documentation]] and PM can make a company 10x better.
-- Have an opinionated way of doing internal documentation that works for your [[Organizations | organization]] and [[Culture]].
+- Have an opinionated way of doing internal documentation that works for your [[Organizations |organization]] and [[Culture]].
 - Every employee should contribute.
 - Resources have owners, contributors, reviewers (similar to [[Git]] roles).One of the owner roles is to keep it up to date and consistent with the rest of the knowledge base.
 - Each kind of document has have an explicit place. A place for everything and everything in its place.
@@ -26,7 +26,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
 	- Avoid duplicating knowledge. For each question there is one and only one answer.
 - Link everything together.
 	- The documentation should have back links and block references to incentivize small chunks of atomic ideas.
-- When doing presentations, don't present slides, present the content of the [[Company Handbooks | company handbook]].
+- When doing presentations, don't present slides, present the content of the [[Company Handbooks |company handbook]].
 - Information should be easy to add (input) as well as easy to search and find (output) resulting in quick knowledge transfer between different employees.
 - [[Writing]] something in the wrong place is the same as not writing it.
 - Reduce the number of alternatives where information might be stored. GitLab uses [[git]], Basecamp uses Basecamp, ...
@@ -62,7 +62,7 @@ Whenever you need to thoroughly brief a group of people on an important matter, 
 4. Logistics. What budget and resources are available, and how they are used.
 5. Communications.  How you’ll be coordinating among yourselves and with others in order to achieve your goal.
 
-
 ## Resources
+
 - [Encouraging a Culture of Written Communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication).
 - [Shopify - How we Get Shit Done](https://vimeo.com/456735890).

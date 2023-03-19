@@ -1,4 +1,5 @@
 # Writing
+
 ![[Quotes#^645051]]
 
 - Writing things down helps clarifying [[Ideas]]. One of the tests of whether you understand something is whether you can explain it to someone else. [Writing doesn't just communicate ideas; it generates them](http://www.paulgraham.com/writing44.html).
@@ -34,7 +35,6 @@
 	1. It gets to the point.
 	2. It is interesting. Written from your own experience, in your personal voice.
 	3. It is grounded in reality.
-
 
 ## Executable Writing
 

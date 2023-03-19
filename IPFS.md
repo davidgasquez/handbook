@@ -8,6 +8,7 @@
 - IPFS makes some nice properties the default. E.g: content addressing.
 
 ## [IPLD](https://ipld.io/)
+
 - Data model for IPFS
 - Everything is a node. Nodes have types.
 - The data structure is a Merkle Tree.

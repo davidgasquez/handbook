@@ -2,7 +2,7 @@
 
 > A thought experiment is a peek into the counterfactual world
 
-A thought experiment is a device with which one performs an intentional, structured process of intellectual deliberation in order to speculate, within a specifiable [[Problem Solving | problem domain]], about potential consequences (or antecedents) for a designated antecedent (or consequent).
+A thought experiment is a device with which one performs an intentional, structured process of intellectual deliberation in order to speculate, within a specifiable [[Problem Solving |problem domain]], about potential consequences (or antecedents) for a designated antecedent (or consequent).
 
 - Thought experiments enable us to explore for the purpose of thinking. They reveal our instinctive knowledge, allow us to predict implications and outcomes, and anticipate problems.
 - You have to compare your reasoning to the way you _would have_ reasoned in a counterfactual world, a world in which your motivations were different—would you judge that politician's actions differently if he was in the opposite party?  Would you consider that study's methodology sound if its conclusion supported your side? Try to _actually imagine_ the counterfactual scenario. Don't simply formulate a verbal question for yourself. Conjure up the counterfactual world, place yourself in it, and observe your reaction. Five useful thought experiments:

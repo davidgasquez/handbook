@@ -3,9 +3,7 @@
 A quote is a distilled piece of knowledge. These are some of my favorites.
 
 - Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. Anthony Robbins.
-- The good thing about [science](https://youtu.be/3MRHcYtZjFY) is that it's true whether or not you believe in it. Neil deGrasse Tyson.
-  - Note: Science itself isn't "true". It's a constantly refining process used to uncover truths based in material reality and that process is still full of mistakes. Do not treat science as a dogma, but rather as a refining process to uncover truths about reality.
-  - [Science is not clearly visible, like a comet bearing down on you](https://astralcodexten.substack.com/p/movie-review-dont-look-up). Science is like the Gnostic God. It exists, somewhere out there, perfect in itself. It is pure and right and beautiful. If you could hear it, it would certainly speak Truth. Yet here we are, in the stupid material universe, seeing through a glass darkly. Good sometimes looks like evil, evil often looks like good, and there’s some jerk with the head of a lion and the body of a snake psyching us out at every turn.
+- The good thing about [science](https://youtu.be/3MRHcYtZjFY) is that it's true whether or not you believe in it. Neil deGrasse Tyson. ^d54898
 - Don't raise your voice, improve your argument. Desmond Tutu. ^448662
 - Desire is a contract you make with yourself to be unhappy until you get what you want. Naval Ravikant.
 - To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others — Tony Robbins ^a6f960

@@ -8,7 +8,7 @@
 - [[Personal Handbooks]]
 - [[Company Handbooks]]
 - [[Web Based Tools]]
-- [[Open Science]]
+- [[Science]]
 - [[Open Source Data Projects]]
 - [[Dungeons and Dragons]]
 - [[Recipes]]

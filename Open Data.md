@@ -10,12 +10,13 @@
 As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make economic sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless you can profit from that.
 
 The current landscape has a few problems:
+
 - **Non Interoperability**. Data is isolated in multiples places and between different formats.
 - **Data Loss**. Data is commonly stored in perishable hardware and formats.
 - **Hard to Search**. Datasets indexing is difficult since [there are many standards](https://xkcd.com/927/).
 - **No Collaboration**. No incentives exists for people to work on improving or curating datasets.
 
-[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is one of the best ways to learn about the world and [[Coordination | coordinate]] people.
+[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is one of the best ways to learn about the world and [[Coordination |coordinate]] people.
 
 Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
@@ -125,6 +126,7 @@ Package managers have been hailed among the most important innovations Linux bro
 ## Architecture
 
 ![Architecture](https://user-images.githubusercontent.com/1682202/224966685-b2406d5f-b162-4a93-a68a-af0afca45ebe.png)
+
 _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20khdaB-lRumpzN7w)_
 
 ## Extra Thoughts
@@ -224,6 +226,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 ## Open Source Web Data IDE
 
 After playing with [Rill Developer](https://github.com/rilldata/rill-developer), DuckDB, Vega, WASM, [Rath](https://rath.kanaries.net/), and other modern Data IDEs, I think we have all the pieces for an awesome web based BI/Data exploration tool. Some of the features it could have:
+
 - Let me add local and remote datasets. Not just one as I'd like to join them later.
 - Let me plot it using Vega-Lite. Guide me through alternatives like [Vega's Voyager2](https://vega.github.io/voyager2/) does.
 - Use LLMs to improve the datasets and offer next steps:

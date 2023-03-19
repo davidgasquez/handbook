@@ -2,7 +2,7 @@
 
 ![[Quotes#^448662]]
 
-We should be arguing in a constructive fashion: treating arguments as an opportunity to [[Learning | expand knowledge]], finding points of disagreement, and collaborating towards a common truth. A few assumptions are required to have a successfully disagreement:
+We should be arguing in a constructive fashion: treating arguments as an opportunity to [[Learning |expand knowledge]], finding points of disagreement, and collaborating towards a common truth. A few assumptions are required to have a successfully disagreement:
 
 - Epistemic humility. "It's possible that I might be the one who's wrong here".
 - Arguments are not soldiers. Most people go into debate with a war-like mentality, they feel they must fly the flag for all points that their side supports, regardless of how much they actually agree with them.
@@ -23,8 +23,9 @@ We should be arguing in a constructive fashion: treating arguments as an opportu
 	- Acknowledge when you are wrong.
 
 [Specific strategies we can employ to make sure a debate stays as constructive as possible](http://www.liamrosen.com/arguments.html):
+
   - Let your opponent know exactly how strongly you feel about a certain argument.
-  - Find the [[Double Crux | crux]], the point where you and your opponent's argument intersect.
+  - Find the [[Double Crux |crux]], the point where you and your opponent's argument intersect.
   - Restate someone's point back to them to make sure you understood it correctly. This is called echoing and is more necessary for synchronous debates where information flows quickly. Not only does this make them feel heard, it also allows them the chance to clarify their beliefs.
   - Leave your partner a line of retreat.
   - Instead of taking on a weaker version of your opponent's argument, help the entire debate out by thinking of the best and most charitable version of your opponent's argument, then repeat it back to them to see if it makes sense.

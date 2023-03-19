@@ -27,4 +27,4 @@
 	6. Reduce them to a tiny outline of the key points.
 	7. Post the outline. Trash the rest.
 - Reading is the inhale, writing is the exhale. Breathe.
-- The more you create, the more ideas come yo you to continue creating. That's the creativity [[Feedback Loops | feedback loop]].
+- The more you create, the more ideas come yo you to continue creating. That's the creativity [[Feedback Loops |feedback loop]].

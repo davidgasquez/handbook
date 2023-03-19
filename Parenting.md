@@ -20,6 +20,7 @@
 - Raising responsible humans requires giving them responsibility, the opportunity for soft failures to learn from and having those awkward long talks and figuring out how to set healthy boundaries.
 
 ## Resources
+
 - [LessWrong Topic](https://www.lesswrong.com/tag/parenting)
 - [Notes from Don't Shoot The Dog](https://www.lesswrong.com/posts/Cf2xxC3Yx9g6w7yXN/notes-from-don-t-shoot-the-dog)
 - [Reasons why Babies Cry in the First Three Months, How to Tell Them Apart, and What to Do](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/)

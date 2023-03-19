@@ -3,6 +3,7 @@
 [Setting direction is one of the most important things you’ll do when building a product and company. A clear direction aligns everyone to work toward the same goals](https://linear.app/method/roadmap). It helps individuals make daily decisions, teams prioritize projects and all members of your organization feel motivated toward a shared purpose. Without direction, it’s harder to work together, know what to focus on and make meaningful progress.
 
 Best practices to follow when building and managing a roadmap:
+
 - Invest in planning
 - Break it down into milestones
 - Work on substantial projects

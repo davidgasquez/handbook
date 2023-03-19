@@ -59,7 +59,7 @@
 - If you find your dog isn't listening perfectly to an old cue, one strategy for dealing with that is to change the cue and work on reinforcing the new cue more carefully. To transfer a cue, give your _new_ cue then immediately follow it with the old cue and reward when the dog performs the behavior.
 - You can speed up a trick training it with toys. Also, you can add tricks in between "drop it" and "get it" to reinforce them.
 - Once the behavior is established, start to reinforce intermittently.
-- For clicker training the main loop is: click, pause, feed. Always feed after clicking! You can charge the clicker while playing [[Dogs#Training Games | training games]].
+- For clicker training the main loop is: click, pause, feed. Always feed after clicking! You can charge the clicker while playing [[Dogs#Training Games |training games]].
 
 #### Training Games
 
@@ -76,6 +76,7 @@
 ### Stuffed Kongs
 
 [Stuffed Kongs](https://youtu.be/LwZI1isnvPQ) are meant to give your puppy or dog a chance to work out his brain and tongue while he gets a delicious treat or meal and you get some well-deserved downtime to relax. [Some stuffings](https://www.naturzoo.com/estimulacion-mental-alimentos-naturales/):
+
 - Puppy kibble or wet food.
 - Proteins: Beef (non-fatty cut), chicken, turkey, salmon - all should be unseasoned and cooked.
 - Boiled, scrambled or raw eggs.

@@ -19,6 +19,7 @@
 - [Pelayo Arbués](https://pelayoarbues.github.io/)
 
 ### Compilations
+
 - [Meta Knowledge GitHub repository](https://github.com/RichardLitt/meta-knowledge)
 - [Second Brain Collection](https://github.com/KasperZutterman/Second-Brain).
 - [Best Of Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens)

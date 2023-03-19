@@ -1,11 +1,11 @@
 # Meditation
 
-- Meditation is a simple practice available to all, which can reduce stress, increase calmness and clarity and promote [[Mental Health | happiness]]. Learning how to meditate is straightforward, and the benefits can come quickly. Even just a few minutes a day can make a big difference revealing and refactoring various [mental motions](https://www.lesswrong.com/posts/WYmmC3W6ZNhEgAmWG/a-mechanistic-model-of-meditation#Uses_for_moments_of_introspective_awareness_).
+- Meditation is a simple practice available to all, which can reduce stress, increase calmness and clarity and promote [[Mental Health |happiness]]. Learning how to meditate is straightforward, and the benefits can come quickly. Even just a few minutes a day can make a big difference revealing and refactoring various [mental motions](https://www.lesswrong.com/posts/WYmmC3W6ZNhEgAmWG/a-mechanistic-model-of-meditation#Uses_for_moments_of_introspective_awareness_).
   - If you have more introspective awareness of the exact processes that are happening in your mind, you can make more implicit assumptions conscious, causing your brain's built-in contradiction detector to notice when they contradict your later learning. Also, getting more feedback about what exactly is happening in your mind allows you to notice more wasted motion in general.
 - The goal of meditation is not to quit having thoughts, but to observe them, watch them without reacting and rationalizing them. This helps rewire the way your brain works similar to cognitive behavioral therapy. Typically, people who work towards this, have less anxiety and depression because they don't react to every thought they have, which gives them a greater control of their emotions.
 - In [[Programming]] terms, it defragments the hard drive and repairs errors in the OS.
 - Too many distractions lead to a heavy mind.
-- Meditating is controlling [[Focus | attention]]. Everything is downstream attention. Practice [mindfulness meditation](https://youtu.be/hQo-CQzoW24) to improve your attention and noticing.
+- Meditating is controlling [[Focus |attention]]. Everything is downstream attention. Practice [mindfulness meditation](https://youtu.be/hQo-CQzoW24) to improve your attention and noticing.
 
 ## How to Meditate:
 

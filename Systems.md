@@ -3,14 +3,16 @@
 A system is anything with multiple parts that depend on each other. In other words, every machine and activity is a system on some level. Systems are the best way to achieve [[Goals]]. Everything is a system, and is also part of a larger system.
 
 ## Interesting Systems Properties
+
 - [[Modularity]].
 - Responsiveness.
 	- Know what the system is doing and make the [[Feedback Loops]] fast.
-- [[Decentralized Protocols | Decentralized]].
+- [[Decentralized Protocols |Decentralized]].
 - Permissionless.
 
 ## Changing Systems
-To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, [[Incentives | incentives]], resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/).
+
+To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, [[Incentives |incentives]], resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/).
 
 First, focus on [[Incentives]]. [Don't be angry at the people who are benefiting from a system, or at the system itself](https://news.ycombinator.com/item?id=22043088). Most just end up that way, the same way a river meanders towards the sea, or an electrical current tries to find ground.
 
@@ -20,7 +22,7 @@ Keep in mind intervening in a system requires some kind of theory, some kind of 
 
 Complex systems usually have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/).
 
-A good approach to incrementally change a system (similar to [[Evolution | natural selection]]) is to:
+A good approach to incrementally change a system (similar to [[Evolution |natural selection]]) is to:
 
 1. Start by identifying the highest-leverage level to optimize at: Ask whether you're optimizing the machine or a cog within it. Complex systems might change in unexpected ways (butterfly effects). Minor differences in starting points make big differences on future states.
 2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes. Alter the incentive landscape. [If you can make your system less miserable, make your system less miserable!](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart)
@@ -36,7 +38,7 @@ Interaction between system actors causes **externalities**: the consequences of 
 
 Most large social systems are pursuing objectives other than the ones they proclaim, and the ones they pursue are wrong. E.g: [The educational system is not dedicated to produce learning by students, but teaching by teachers—and teaching is a major obstruction to learning.](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/)
 
-A [[Mental Models | mental model]] of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
+A [[Mental Models |mental model]] of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
 Remember, sometimes not doing something is better than doing it ([Primum non nocere](https://en.wikipedia.org/wiki/Primum_non_nocere)). E.g: controlling small fires instead of letting them burn the top layer of the forest. Spending 1 week repairing trains because there was an accident makes people use the car more, turning into more deaths than leaving the train rails as they were.
 
