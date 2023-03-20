@@ -1,6 +1,6 @@
-# Things that might look weird in the future
+# Things that Might Look Weird in the Future
 
-History teaches us that in 100 years from now [[Openness | some of the assumptions we believed will turn out to be wrong]]. A good question to ask is "What might we be wrong about today?". These are a few things that future humans might see as weird behavior:
+History teaches us that in 100 years from now [[Openness |some of the assumptions we believed will turn out to be wrong]]. A good question to ask is "What might we be wrong about today?". These are a few things that future humans might see as weird behavior:
 
 - Eat animals.
 - Drive manually.
@@ -10,7 +10,7 @@ History teaches us that in 100 years from now [[Openness | some of the assumptio
 - The ignorance of Social Media and its [full impact on society](https://twitter.com/M_B_Petersen/status/1483457679800651787).
 	- Is "being bad for society" an emergent property of social networks as they grow?
 - Voting Systems and not using more Prediction Markets in public.
-- More experimentation around [[Politics | governance]]:
+- More experimentation around [[Politics |governance]]:
 	- Charter cities.
 	- [Holacracy](https://en.m.wikipedia.org/wiki/Holacracy).
 	- [[Decentralized Autonomous Organizations |Cooperatives/DAOs]].

@@ -6,7 +6,7 @@
 - [Data issues are fractal](https://www.speedwins.tech/posts/some-words-with-nuria-ruiz#question-7).
 - [There are many common data quality problems already figured out](https://b-greve.gitbook.io/beginners-guide-to-clean-data/).
 - A table might be quality enough for one consumer but not for the other consumer.
-- [[Data Culture | Data is a product]] and that means that you can do postmortems (5 whys) and incident reports on data quality issues.
+- [[Data Culture |Data is a product]] and that means that you can do postmortems (5 whys) and incident reports on data quality issues.
 - [There are two strategies to detect quality issues](https://towardsdatascience.com/data-observability-vs-data-testing-everything-you-need-to-know-6f3d7193b388):
 	- Data Testing. Involves checking `null` values, distributions, uniqueness, known invariants, etc.
 	- Data Observability. Since you can’t predict all the failure modes, you can use automated monitoring, alerting, and triaging to identify and evaluate data quality issues.

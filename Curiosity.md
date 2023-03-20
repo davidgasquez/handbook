@@ -2,7 +2,7 @@
 
 ![[Quotes#^307613]]
 
-- Never stop [[Learning | learning]], practice [[Thinking | rational]] thinking and internalize [[mental models]] and other concepts that will help you think more effectively.
+- Never stop [[Learning |learning]], practice [[Thinking |rational]] thinking and internalize [[mental models]] and other concepts that will help you think more effectively.
 - Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better. Feeling stupid now is better than feeling stupid in 10 years.
 - [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail). Knowing more about the world makes you enjoy it more. [Understanding how music is made increases the pleasure you get from music](https://youtu.be/JbVfcZxfIZo).
 - Do stuff! Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your [[ideas]] don't work out, the community will learn why that approach doesn't make sense.

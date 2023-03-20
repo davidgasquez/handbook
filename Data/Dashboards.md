@@ -3,6 +3,7 @@
 [Dashboards create a shared sense of reality](https://benn.substack.com/p/data-is-for-dashboards) and help everyone understand whats going on better. They exist for the purpose of quickly and concisely answering questions. [Understanding must come before action](https://sarahsnewsletter.substack.com/p/what-substack-analytics-engineers). Understanding also helps us ask the right questions.
 
 ## Best Practices
+
 - [Before you dive into how to build a dashboard, the first thing you should ask yourself is whether this is the right tool for your situation.](https://shopify.engineering/make-dashboards-using-product-thinking-approach) Understand your problem and your audience; design a dashboard that does one thing really well, for a clear set of users.
 	- Answer three specific questions: [How, What, How](https://youtu.be/g2-dkJkZjiI)?
 - Strive to create dashboards that are either standalone or include links to provide the relevant context. Without meaning, data is just digits.
@@ -32,6 +33,7 @@ The value is that now discussions are happening about the data.
 	- In the other hand, people will self serve anyways. Control and clean the environment so they don’t have to rely on odd methods to get the probably wrong data. The people that can write SQL are not usually the same people that need the data.
 
 ## Issues with Dashboards
+
 - Dashboards were created to monitor and not to derive insights.
 	- Dashboards report on current status. Users don’t act on status. They act on change in status.
 	- Dashboards (lines and rectangles) are useful to notice if something goes wrong.
@@ -41,7 +43,7 @@ The value is that now discussions are happening about the data.
 - Dashboards shouldn't be single-use
 	- Ask this:
 		- Can this new dashboard request be added into an existing one?
-		- What are you going to do differently by looking at the Dashboard? Focus on that [[Metrics | metric]] and add it to the main Dashboard
+		- What are you going to do differently by looking at the Dashboard? Focus on that [[Metrics |metric]] and add it to the main Dashboard
 	- Beware of the death by 1,000 filters: After a dashboard had gone live, you'll be  flooded with requests for new views, filters, fields, pages, everything
 	- Dashboards are decision-making infrastructure, and infrastructure needs to be maintained. Be explicit about which Dashboards are disposable and add a TTL to them.
 - The numbers and charts on a dashboard very rarely have any direct personal meaning to the people using it. There’s tons of other work to do, and unless that dashboard is directly tied to your performance or compensation, there are probably more important things to look at. People are more likely to check stock prices when they actually own (and thus benefit from) the stock.

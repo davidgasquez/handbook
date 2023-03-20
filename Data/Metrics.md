@@ -10,7 +10,7 @@
 - Common understanding of a metric matters more than the metric precision. That understanding requires some standardization (names, time spans, ...) and that needs [[Coordination]].
 	- Teams need to cooperate when defining metrics.
 - Organizations need three things related to metrics:
-	1. A [[Metrics | process for defining metrics]].
+	1. A [[Metrics |process for defining metrics]].
 	2. A single source of truth for the metrics.
 	3. A way to get metrics to all systems.
 - Product metrics allow measuring product progress and creating alignment in an outcome-oriented way. There are many product frameworks available to help us think about the right key things to track. Think about **[product metrics that matter](https://uxdesign.cc/product-metrics-that-matter-951b9e4d4eca)** for you.
@@ -27,6 +27,7 @@
 Remember that there are no objectively right answers. [There is no correct win rate waiting to be unearthed](https://mobile.twitter.com/bennstancil/status/1428837214545395712); one version is not true while another is false. Each version is equally accurate because they are tautological: They measure precisely what they say they measure, no more and no less. Your job as analysts is not to do the math right so that you can figure out which answer is in the back of the book; it’s to determine which version, out of a subjective set of options, helps you best run a business.
 
 ### [North Star Metric Design](https://roundup.getdbt.com/p/the-perfect-north-star-metric)
+
 - Define your customer [jobs to be done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) and measure all of the ways this shows up in your product.
 	- Measure more than one kind of activity if there's more than one job to be done.
 - Decide how often you expect to see these activities from your customer when your product is fully utilized. You aren't measuring velocity of activity based on how fast you want your business to move and iterate, you're focusing on how often your customer is getting value.
@@ -60,6 +61,7 @@ Proxy metrics are a stand-in for your high-level engagement metric — the metri
 One of the simplest way to define a proxy metrics is: ** [Percentage of customers who do at least (the minimum threshold for user action) by (X period in time)](https://gibsonbiddle.medium.com/4-proxy-metrics-a82dd30ca810)**.
 
 As you evaluate potential metrics, sure the proxy metric:
+
 - Is measurable. You can find, collect, and measure the data. Ideally, you can assess the metric in an A/B test.
 - Is movable. You can affect the metric through changes to the product experience.
 - Is not an average. The danger of averages is you may move the metric by inspiring a small subset of customers to do a lot more of something. But this may not affect enough members to improve the overall product experience.

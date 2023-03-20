@@ -1,3 +1,5 @@
+# Cooking
+
 ## Cooking
 
 - When you have great ingredients, you can cook very simply and the food will be extraordinary because it tastes like what it is. Good cooking is no mystery.

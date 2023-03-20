@@ -3,6 +3,7 @@
   [Sharing your data insights across your organization facilitates collaboration and mutual learning – increasing data literacy across the company](https://locallyoptimistic.com/post/share-your-data-insights-to-engage-your-colleagues/). It also helps remind folks that members of the data team can be strategic partners, creating opportunities for proactive brainstorming that can drive innovation.
 
  The aim is to answer the following questions each time:
+
  1. **What am I looking at?** A **short-but-informative title** can tell people immediately what data is the focus of the insight.
  2. **What should I learn from this?** or, Why should I care? Include the **most useful information,** and/or a **clear takeaway**. For folks who only have a few seconds to scan the message, it should be **easy to spot** the **most valuable** bit of the insight, the **reason** this exploration was considered worth sharing.
  3. **What caught my eye?** Share a chart or a related resource!
@@ -11,6 +12,7 @@
  6. **What if posting this prompts a whole bunch of follow-up questions, or exposes incorrect assumptions?** If you have hit on something that’s interesting to a lot of people there likely will be questions that spin off, new ways to slice the data you’re looking at, or assumptions you have made that need to be corrected.
 
 ### Slack Template
+
 ```md
 ![Chart]()
 

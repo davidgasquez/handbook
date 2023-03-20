@@ -19,6 +19,7 @@
 - Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say them in order.
 
 ### Card Games
+
 - [New Eleusis](https://web.archive.org/web/20190822201119/http://www.matuszek.org/eleusis1.html).
 - [Bartok](https://en.wikipedia.org/wiki/Bartok_(card_game)).
 - Mao.
@@ -27,8 +28,8 @@
 - [Oh, Hell!](https://www.pagat.com/exact/ohhell.html)
 - [All Card Games](https://www.pagat.com/). A list of card games all around the world.
 
-
 ### RPGs
+
 - [Laser and Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf). Also [with hacks](https://writingalchemy.net/resources/lasers-and-feelings-hacks/)!
 - [Honey Heist](https://gshowitt.itch.io/honey-heist)
 - [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/)
@@ -37,6 +38,7 @@
 - [List of one page RPGs](https://www.reddit.com/r/rpg/comments/1vie0k/what_are_your_favorite_onepage_rpgs/)
 
 ### Online Platforms
+
 - [Netgames](https://netgames.io/). Social games for your phone.
 - [Rocket Crab](https://rocketcrab.com/). Party games for phones.
 - [Gartic Phone](https://garticphone.com/). The drawing telephone game.

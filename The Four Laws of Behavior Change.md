@@ -1,6 +1,6 @@
 # The Four Laws of Behavior Change
 
-- Any [[Habits | habit]] can be broken down into a [[Feedback Loops | feedback loop]] that involves four steps: cue, craving, response, and reward.
+- Any [[Habits |habit]] can be broken down into a [[Feedback Loops |feedback loop]] that involves four steps: cue, craving, response, and reward.
 - The ultimate purpose of [[Habits]] is to solve the problems of life with as little energy and effort as possible. Once our [[Habits]] become automatic, we stop paying attention to what we are doing.
 
 ## Building Habits
@@ -20,4 +20,4 @@
    - Prime your environment to make future good habits easier and to increase friction for bad habits.
 4. Make it satisfying.
    - Attach some immediate gratification to your habits that reinforce your desired [[Identity]].
-   - The human brain evolved to [[Time | prioritize]] immediate rewards over delayed rewards.
+   - The human brain evolved to [[Time |prioritize]] immediate rewards over delayed rewards.

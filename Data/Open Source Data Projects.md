@@ -1,6 +1,7 @@
 # Open Source Data Projects
 
 ## Data Warehouses
+
 - [Clickhouse](https://github.com/ClickHouse/ClickHouse)
 - [Seafowl](https://github.com/splitgraph/seafowl)
 - [Risingwave](https://github.com/risingwavelabs/risingwave)
@@ -8,20 +9,24 @@
 - [Tensorbase](https://github.com/tensorbase/tensorbase)
 
 ## Data Tracking
+
 - [Jitsu](https://jitsu.com/)
 - [Rudderstack](https://www.rudderstack.com/)
 - [Snowplow Analytics](https://snowplowanalytics.com/)
 
 ## Business Intelligence
+
 - [Posthog](https://posthog.com/)
 - [Lightdash](https://www.lightdash.com/)
 - [Metabase](https://www.metabase.com/)
 - [Evidence](https://www.evidence.dev/)
 
 ## Visualizations
+
 - [Kepler](https://kepler.gl/) (maps)
 
 ## Data Pipelines
+
 - [Meltano](https://meltano.com)
 - [Airbyte](https://airbyte.io/)
 - [Singer](https://www.singer.io/)
@@ -30,13 +35,16 @@
 - [Flow](https://github.com/estuary/flow). Based on [Gazzette](https://github.com/gazette/core).
 
 ## Orchestators
+
 - [Dagster](https://www.dagster.io/)
 - [Prefect](https://www.prefect.io/)
 
 ## Platforms
+
 - [Supabase](https://supabase.io/)
 
 ## Feature Flag
+
 - [Flagsmith](https://flagsmith.com/)
 - [Unleash](https://www.getunleash.io/)
 - [GrowthBook](https://www.growthbook.io/)

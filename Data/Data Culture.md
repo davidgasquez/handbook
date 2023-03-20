@@ -1,8 +1,8 @@
 # Data Culture
 
 - The data team needs to be focus on delivering insights and supporting decisions. The outcome of the data team are *decisions* and a *shared context across the organization* that makes coordination easier.
-	- Your goal as a data professional is to facilitate [[Making Decisions | decision making]].
-	- Learning to drive decisions quickly, a bias to action, is a critical competency for an analyst. Every skill you learn – [[communication]], [[writing]], [[experimentation]], [[Metrics | metric design]] – supports this.
+	- Your goal as a data professional is to facilitate [[Making Decisions |decision making]].
+	- Learning to drive decisions quickly, a bias to action, is a critical competency for an analyst. Every skill you learn – [[communication]], [[writing]], [[experimentation]], [[Metrics |metric design]] – supports this.
 	- If analysis is not actionable, it does not really matter. Analysis must drive to action. [Clear results won't spur action themselves](https://www.linkedin.com/posts/eric-weber-060397b7_data-analytics-machinelearning-activity-6675746028144205824-CQxW/). The organization needs to be ready to pivot when something isn't working.
 	- [Data's impact is tough to measure — it doesn't always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html).
 	- The Data Team should be building and iterating the [Data Product](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/).
@@ -27,8 +27,8 @@
 - Data professionals can build consensus as the company becomes more diverse.
 - Data systems can establish methods for understanding the world even as it becomes more complex.
 - Data literacy can create pathways for anyone to contribute equally to the organization's reality.
-- Create a single space as the central place to post [[Data Request Template | data requests]].
-- Create a single space to [[Sharing Data Insights | share the results of analysis and decisions made based on them]].
+- Create a single space as the central place to post [[Data Request Template |data requests]].
+- Create a single space to [[Sharing Data Insights |share the results of analysis and decisions made based on them]].
 	- Log changes so everyone can jump in and be aware of what’s going on.
 	- Log assumptions and lessons learned somewhere. This information should loop back into the data product.
 - Make the warehouse the source of truth for all the teams.
@@ -39,7 +39,7 @@
 - [So much of data work is about accumulating little bits of knowledge and building a shared context in your org so that it's possible to have the big, earth shattering revelations we all wish we could drive on a predictable schedule](https://twitter.com/imightbemary/status/1536368160961572864).
 - You won't have the best allocation of resources in a reactive team. Data teams need extra [[slack]]. [Balance user requests with actual needs](https://scientistemily.substack.com/p/product-management-skills-for-data).
 - How can we measure the data team impact?
-	- Making a [[Writing a Roadmap | roadmap]] can help you telling if you are hitting milestone deadlines or letting them slip.
+	- Making a [[Writing a Roadmap |roadmap]] can help you telling if you are hitting milestone deadlines or letting them slip.
 	   - Embedded data team members need to help other teams build their roadmap too.
 	- Also, having a changelog ([do releases!](https://betterprogramming.pub/great-data-platforms-use-conventional-commits-51fc22a7417c)) will help show the team impact on the data product across time.
 - [Push for a _centralization of the reporting structure_, but keeping the _work management decentralized_](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
@@ -52,10 +52,10 @@
 	- Get excited when people ask questions. Embrace confusion and curiosity. Offer help. Be friendly.
 	- [Reality is complex and multidimensional and often difficult to comprehend](https://mobile.twitter.com/rahulj51/status/1485429967131639808).
 	- [Document data when it’s generated](https://davidsj.substack.com/p/the-data-chasm). Make it part of the process of adding a new event, table, or a replication job, when the change is already top of mind. If possible, embed it in the development process, and pester people when they don’t include the necessary updates. This shifts the burden of documentation upstream, making it part of the development cycle.
-- To align stakeholders incentives with the data team, stakeholders should show their impact through data. This forces stakeholders to [[Product Analytics | plan tracking]] and think about metrics.
+- To align stakeholders incentives with the data team, stakeholders should show their impact through data. This forces stakeholders to [[Product Analytics |plan tracking]] and think about metrics.
 - [To achieve distribution, build for who your stakeholder truly is, not for the stakeholder you want them to be](https://ian-macomber.medium.com/launching-and-scaling-data-science-teams-three-years-later-f1fa6f25b4ae).
 - You should have something that answers the following questions:
-	- Is [[Data Quality | Data Correct]]?
+	- Is [[Data Quality |Data Correct]]?
 	- Is Data up to date?
 	- Is Data Accessible and Discoverable?
 	- Is Data Secure?

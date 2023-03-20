@@ -11,6 +11,7 @@ Normally this will consist of two groups: A **control** and **test** group, but 
 Tooling built on the right principles can provide the foundation for a culture of experimentation. Experimentation platforms should be transparent and open such that anyone can create an experiment and everyone can see the historical experiments that have been run — including hypothesis, experimental design, and results. Social layers such as commenting and version control allow for peer review and peer-to-peer education. Sharing functionality to make it easy to link to experiments in emails, slack, or other communication channels reinforces experimental literacy. Workflows which abstract statistical concepts and make it easier for people to understand what experiments are reduce the perceived barrier to entry and make it easier for people to engage. [All together, these principles help cultivate and reinforce experimental literacy within your organization](https://towardsdatascience.com/the-experimentation-gap-3f5d374d354c).
 
 ## Running Experiments
+
 We do not live in an ideal world, so we need to be very deliberate and thoughtful in how we approach experimentation design and analysis.
 
 - Generate hypotheses based on actual observations. All experiments should have a hypothesis in plain English.
@@ -54,6 +55,7 @@ You can use [online calculators](http://experimentcalculator.com/) to estimate t
 Experimentation unlocks entrepreneurialism, creating a vehicle for teams down the hierarchy to show outsized impact.
 
 [Experiment-based thinking will shape business over the coming years.](https://mikkeldengsoe.substack.com/p/why-speedboats-win-and-tankers-sink)
+
 - Everyone can drive business impact. Almost everything is run as an experiment and the experiment is always tied to the most important metric.
 - Anyone can make a change. With an experiment culture, you can take a lot of small bets, learn what works and double down on these. The best part is that these bets can come from anywhere.
 - Your team feels a strong sense of ownership. They're owning their own roadmap and at the end of the quarter, they can look back and point to exactly what impact they had.

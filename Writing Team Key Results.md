@@ -12,7 +12,6 @@
 - The key result target should be informed by analysis.
 - Key Results are helpful if your team have a 12-18 month mission, a clear focus, and specific lever or set of levers it is empowered to move.
 
-
 ## Process
 
 1. Brainstorm draft KRs focusing more on the “shape” than the content.
@@ -29,5 +28,6 @@ Three useful templates:
 - OKR for process = Accelerate `{queue}` from `{x}` to `{y}` before `{deadline}`. Time by `{metric}`.
 
 ## Resources
+
 - [Objectives and Key Result](https://github.com/joelparkerhenderson/objectives-and-key-results)
 - [Key Performance Indicator](https://github.com/joelparkerhenderson/key-performance-indicator)
