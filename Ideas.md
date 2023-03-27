@@ -99,14 +99,6 @@ Instead of building the tool, we can start with a standard protocol and let othe
 - There is no Airbyte for blockchains.
 - Everyone is reinventing the wheel, e.g: Dune does ETL, Flipside does it too, ...
 
-## LLMs Uses
-
-- [Code uses](https://twitter.com/sualehasif996/status/1635755267739598848)
-	- Convert code from one language to another
-	- Generate YAMLs or other DSLs (translate between them)
-	- Productionice code
-	- Write basic CLIs
-
 ## Structured Company Changelog
 
 - Create and maintain a *Company Changelog* in a table (structured and parse-able format) so it can be fed to something like Mixpanel or joined to other datasets to do analysis.

@@ -14,7 +14,7 @@
 - [[Datathons]]
 - [[Cooking]]. [[Recipes]]
 - [[Gardening]]
-- [[]]
+- [[Language Models Applications]]
 
 ## Resources
 
