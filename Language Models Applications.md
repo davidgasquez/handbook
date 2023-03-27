@@ -4,7 +4,7 @@
 
 - [Shell GPT](https://github.com/TheR1D/shell_gpt)
 - [Scapeghost](https://jamesturk.github.io/scrapeghost/)
-- 
+- [Kor](https://eyurtsev.github.io/kor/index.html)
 
 ## Cool Uses of GPT Models
 
