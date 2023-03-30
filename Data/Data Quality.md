@@ -2,9 +2,12 @@
 
 - One of the biggest misconceptions about data is that **is correct** or it will be at some point. Data quality will always be an issue, defining metrics for data quality helps you know where you stand, improve over time, and align with your team.
 	- Log data quality issues so you can act on them.
+	- [We live in a messy world and as a result the data we collect and represent it are always going to be messy](https://twitter.com/KostasPardalis/status/1641122521775849497).
 - Data quality [is a measurement of the value of data to the business, meaning it is dependent on the task trying to be accomplished](https://tayloramurphy.substack.com/p/data-quality). High quality data in one context can be low in another.
 - [Data issues are fractal](https://www.speedwins.tech/posts/some-words-with-nuria-ruiz#question-7).
 - [There are many common data quality problems already figured out](https://b-greve.gitbook.io/beginners-guide-to-clean-data/).
+- Incremental data quality improvements can lead to measurable value back to the business. That's what you should focus on and this is what's going to help you with convincing people to care about data quality.
+- Data quality is a team sport. Data is not the concern of just the DEs, ML Engs, Analysts etc. Data quality starts from the front-end. Did you check the JSON you sent on Rudderstack before merging that instrumentation PR?
 - A table might be quality enough for one consumer but not for the other consumer.
 - [[Data Culture |Data is a product]] and that means that you can do postmortems (5 whys) and incident reports on data quality issues.
 - [There are two strategies to detect quality issues](https://towardsdatascience.com/data-observability-vs-data-testing-everything-you-need-to-know-6f3d7193b388):
