@@ -154,6 +154,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 	- Parquet could be a great fit if we figure out how to deterministically serialize it and integrate with IPLD.
 - How to work with private data?
 	- Homomorphic encription?
+- How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works? If you can envision the table you would like to have in front of you, i.e., you can write down the attributes you would like the table to contain, then the system will find it for you.
 
 ### Related Projects
 
