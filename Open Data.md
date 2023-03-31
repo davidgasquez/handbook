@@ -54,6 +54,7 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 	- [Bounties](https://www.dolthub.com/bounties) could be created to reward people that adds useful but missing datasets.
 	- Surfacing and creating great datasets should be rewarded.
 	- Curating the data provides compounding benefits for the entire community!
+	- Rewarding the datasets creators according to the usefulness. E.g: [CommonCrawl built an amazing repository](https://commoncrawl.org/) that OpenAI has used for their GPTs LLMs. Not sure how well CommonCrawl was compensated.
 - **Open Source and Decentralized**. Datasets should be stored in multiple places.
 	- Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources. Similar to:
 		- [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
