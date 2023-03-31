@@ -19,6 +19,7 @@ Collection of awesome web based tools.
 - [Jitsi](https://meet.jit.si/)
 - [Discourse](https://www.discourse.org/)
 - [Outline](https://github.com/outline/outline)
+- [Polis](https://pol.is/home)
 
 ## Sharing
 
