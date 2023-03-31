@@ -14,6 +14,8 @@
 
 - [Tech coop resources](https://tech-coops.xyz/#resources).
 - [Coophub](https://coophub.io/).
+- [Hypha](https://github.com/hyphacoop).
+- [Catalyst](https://github.com/catalyst-cooperative).
 
 #### Tools
 
