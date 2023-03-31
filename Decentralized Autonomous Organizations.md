@@ -3,6 +3,10 @@
 - A Decentralized Autonomous [[Organizations |Organization]] is a mechanism that enables online communities to form and coordinate economically.
 - DAOs make it possible for an online group with members from anywhere in the world to pool capital and hard-code rules — entirely in software — for how that capital will be managed and deployed. Those rules are then enforced by the underlying blockchain.
 
+## Cooperatives
+
+- s
+
 ### Resources
 
 - [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o).
