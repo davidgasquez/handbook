@@ -30,3 +30,4 @@ Handbooks are key for good [[Company Knowledge Management]].
 - [Catalyst](https://catalystcoop-handbook.readthedocs.io/en/latest/)
 - [Hypha](https://handbook.hypha.coop/)
 - [Enspiral](https://handbook.enspiral.com/)
+- [Root Systems](https://github.com/root-systems/handbook)
