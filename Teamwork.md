@@ -58,18 +58,12 @@
 - Ask people ["when do you think you'll get this done"](https://mobile.twitter.com/Carnage4Life/status/1438982223395393536), write it down and then follow up at that time. That makes teams more effective.
 - Every document must have a specific goal written at the top of it.
 - When building something:
-
-	1) Question everything.
-
-	2) Remove more than you add.
-
-	3) Optimize what works.
-
-	4) Shorten iteration cycles. **[Boyd's Law of Iteration](https://blog.codinghorror.com/boyds-law-of-iteration/): speed of iteration beats quality of iteration**.
-
-	5) [[Automation |Automate]] and keep standards.
-
-- Keep great global [[coordination]] and incentivize local experimentation.
+	1. Question everything.
+	2. Remove more than you add.
+	3. Optimize what works.
+	4. Shorten iteration cycles. **[Boyd's Law of Iteration](https://blog.codinghorror.com/boyds-law-of-iteration/): speed of iteration beats quality of iteration**.
+	5. [[Automation |Automate]] and keep standards.
+- Keep great global [[coordination]] and incentive local experimentation.
 	- Being able to run small and compounding experiments (on the product or company [[processes]] and systems) is important. **Work smaller**.
 		- [Some experiments won't work](https://www.lesswrong.com/posts/97LgacucCxmyjYiNT/the-archipelago-model-of-community-standards). But oftentimes it _feels_ like it wont work when in fact you just haven't stuck with it long enough for it to bear fruit. This is hard enough for _solo_ experiments. For group experiments, where not just one but _many_ people must all try a thing at once and _get good at it_, all it takes is a little defection to spiral into a mass exodus.
 - The group with the most power determine the system that reflect and reinforce their own way of thinking. Aim for inclusion. *Diversity is being invited to the party. Inclusion is being asked to dance and help organizing the party*.
@@ -90,6 +84,8 @@
 	- When everything is important then nothing is important.
 - Constantly prioritize. Communicating with the team to make sure everyone understands the what and the why of the priorities, especially in times of change, and is aligned with clarity to move forward.
 - Assign as few possible to a project. Should have an owner and a stakeholder.
+- [Software quality is more the result of a system designed to produce quality, and not so much the result of individual performance](https://jacobian.org/2022/sep/9/quality-is-systemic/).
+	- This implies system with tests, easy development environments, CI/CD, documentation, culture, ...
 - Optimizing for short term speed is dangerous if you don't allow some slack to pick up things that will make you faster in the long run.
 	- If you want to optimize for speed, you need an experimentation platform to track the impact of changes. Teams need to learn how to [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
 - Look for a way to decouple things as much as possible and don't aim for perfection. Aim for eventual convergence.
