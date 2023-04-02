@@ -36,7 +36,7 @@ Your goal is not to do what _you_ think is best, it's to help _others_. This inc
 - **Keep the feedback actionable, specific, and kind.**
 - Imagine what things feel like from the other perspective.
 - Criticize in private, praise in public.
-- You can use a f[eedback model](https://jacobian.org/2021/apr/22/three-feedback-models/). These are behavioral and impact focused.
+- You can use a [feedback model](https://jacobian.org/2021/apr/22/three-feedback-models/). These are behavioral and impact focused.
 	- Situation-Behavior-Impact: Describe the situation, then the action of the person and finally, the impact it had.
 	- Manager Tools Feedback Model: Ask for permission, describe the behavior and its impact, finally offer some potential alternatives.
 - How to compose a successful critical commentary (_from_ [_Daniel Dennett_](https://en.wikipedia.org/wiki/Daniel_Dennett)):
