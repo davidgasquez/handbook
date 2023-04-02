@@ -31,11 +31,14 @@ Your goal is not to do what _you_ think is best, it's to help _others_. This inc
 
 - Feedback needs to be informal, frequent, and done authentically.
 - Challenge ideas, not people. Address behavior, but don't label people.
+- Most feedback you deliver should be positive. This makes the negative feedback more important.
 - Prepare. What do you value in someone? Where do you think are their biggest opportunities to improve?
 - **Keep the feedback actionable, specific, and kind.**
 - Imagine what things feel like from the other perspective.
 - Criticize in private, praise in public.
-- If you a give a no, always give a yes after.
+- You can use a f[eedback model](https://jacobian.org/2021/apr/22/three-feedback-models/). These are behavioral and impact focused.
+	- Situation-Behavior-Impact: Describe the situation, then the action of the person and finally, the impact it had.
+	- Manager Tools Feedback Model: Ask for permission, describe the behavior and its impact, finally offer some potential alternatives.
 - How to compose a successful critical commentary (_from_ [_Daniel Dennett_](https://en.wikipedia.org/wiki/Daniel_Dennett)):
 	- You should attempt to re-express your target's position so clearly, vividly, and fairly that your target says, _"Thanks, I wish I'd thought of putting it that way"_.
 	- You should list any points of agreement (if they are not matters of general or widespread agreement).
