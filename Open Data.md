@@ -257,6 +257,7 @@ Could be an awesome front-end to explore [[Open Data]].
 ### Interesting Projects
 
 - [Rath](https://rath.kanaries.net/).
+- [Perspective](https://perspective.finos.org/).
 - [Rill Developer](https://github.com/rilldata/rill-developer).
 - [Datastation](https://app.datastation.multiprocess.io/).
 
