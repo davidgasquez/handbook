@@ -42,7 +42,7 @@
 
 ### Blockchain Indexing Data Projects
 
-- [Luabase](https://github.com/luabase)
+- [Indexed.xyz](https://github.com/indexed-xyz)
 - [Tokenflow](https://docs.tokenflow.live/)
 - [Blockchain ETL](https://github.com/blockchain-etl)
 - [Bitquery](https://github.com/bitquery/explorer)
@@ -63,6 +63,7 @@
 - [Probably Nothing Labs](https://www.probablynothinglabs.xyz/)
 - [Space And Time](https://www.spaceandtime.io/)
 - [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
+- [Luabase](https://github.com/luabase)
 
 ### Bounty Based Collaboration:
 
