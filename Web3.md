@@ -40,13 +40,31 @@
 
 - [Opscientia](https://github.com/opscientia/desci)
 
-### Blockchain Indexing Data Projects
+### Blockchain Indexing Projects
 
-- [Indexed.xyz](https://github.com/indexed-xyz)
+#### Companies
+
 - [Tokenflow](https://docs.tokenflow.live/)
-- [Blockchain ETL](https://github.com/blockchain-etl)
-- [Bitquery](https://github.com/bitquery/explorer)
+- [Indexed.xyz](https://github.com/indexed-xyz)
+- [BitQuery](https://bitquery.io/) ([GitHub](https://github.com/bitquery/explorer))
+- [Coherent](https://coherent.xyz/) ([GitHub](https://github.com/coherentopensource))
+- [Covalent](https://www.covalenthq.com/) ([GitHub](https://github.com/covalenthq))
 - [Nansen](https://www.nansen.ai/)
+- [Footprint](https://www.footprint.network/) ([GitHub](https://github.com/footprintanalytics))
+- [Sentio](https://www.sentio.xyz/) ([GitHub](https://github.com/sentioxyz))
+- [GeniiData](https://geniidata.com/)
+- [Transpose](https://www.transpose.io/) ([GitHub](https://github.com/TransposeData))
+- [Allium](https://twitter.com/alliumlabs)
+- [Kyve](https://www.kyve.network/)
+- [Token Terminal](https://tokenterminal.com/)
+- [Probably Nothing Labs](https://www.probablynothinglabs.xyz/)
+- [Space And Time](https://www.spaceandtime.io/)
+- [Credmark](https://credmark.com/) ([GitHub](https://github.com/credmark))
+
+#### Tools
+
+- [Trueblocks](https://trueblocks.io/)
+- [Blockchain ETL](https://github.com/blockchain-etl)
 - [Mars](https://github.com/deepeth/mars)
 - [Algoran Indexer](https://github.com/algorand/indexer)
 - [Tezos Indexer](https://github.com/baking-bad/tzkt)
@@ -55,15 +73,9 @@
 - [Apollo](https://github.com/chainbound/apollo)
 - [Ether SQL](https://github.com/analyseether/ether_sql)
 - [Spec](https://github.com/spec-dev)
-- [Transpose](https://www.transpose.io/)
-- [Allium](https://twitter.com/alliumlabs)
 - [Cosmos ETL](https://github.com/bizzyvinci/cosmos-etl)
-- [Kyve](https://www.kyve.network/)
-- [Token Terminal](https://tokenterminal.com/)
-- [Probably Nothing Labs](https://www.probablynothinglabs.xyz/)
-- [Space And Time](https://www.spaceandtime.io/)
-- [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 - [Luabase](https://github.com/luabase)
+- [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 
 ### Bounty Based Collaboration:
 
