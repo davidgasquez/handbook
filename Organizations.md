@@ -25,6 +25,7 @@
 	- Standardization should be based on tooling and [[Automation]].
 	- Simple tools means more time building.
 	- Investigate where (and how) [[processes]] and tasks could be automated, and understanding the costs of automating them.
+- Focus on minimizing entropy in the organizations. Simplify (Best process is no process, Meetings) and [[Focus]].
 - Beware of over-engineering your problems and killing initiatives with useless processes in the organization. Introduce processes one step at a time and making sure everyone is on the same page.
 	- Once you have extra people and basically the same set of tasks at hand... sluggish ways of doing things and inefficiency are basically guaranteed.
 	- The increase in levels is like a game of telephone and reduces the fidelity of the message/strategy/goal from executive down to line level team members.
