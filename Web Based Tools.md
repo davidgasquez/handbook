@@ -10,6 +10,7 @@ Collection of awesome web based tools.
 - [Photopea](https://www.photopea.com/)
 - [Veed.io](https://www.veed.io/)
 - [Birme](https://www.birme.net/)
+- [Law Of UX](https://lawsofux.com/)
 
 ## Teamwork
 
