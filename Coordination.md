@@ -21,3 +21,12 @@
 - If we imagine human society as it's own organism. We need processes and other coordination tools to make it remove the hand from the fire when it starts to burn.
 	- The hand doesn't know what to do, but relies information to the brain, that makes the appropriate changes.
 	- Something similar could be achieved at a society level, where pain triggers processes that make it stop.
+- The requirements to govern a commons without tragedy:
+	- Clear boundaries.
+	- Managed by locals.
+		- In a small community, everybody knows everybody, and can keep track of what they do. This makes small groups iterated games which rewards trust and penalizes sociopathic behavior.
+	- Community makes its own rules.
+	- Community can monitor behavior.
+	- Graduated sanctions for those who violate community rules.
+	- Cheap, accessible means of conflict resolution.
+	- Self-determination.
