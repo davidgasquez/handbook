@@ -30,8 +30,3 @@
 	- Graduated sanctions for those who violate community rules.
 	- Cheap, accessible means of conflict resolution.
 	- Self-determination.
-- [Good coordinated systems are](https://jzhao.xyz/thoughts/organizing-system/):
-	- Skimmable at different levels. Is there a 5s version? A 60s version?
-	- Transformable. Can the user transform the data into different representations without having to explicitly define these ahead of time?
-	- Context-sensitive. Not one size fits all, can we create unique content for every reader/reading depending on their prior understanding and current needs? (see: [personal software](https://jzhao.xyz/thoughts/cozy-software))
-1.  Interrogable. Can we get clarifications and answers from the text without having the author having to anticipate those questions?
