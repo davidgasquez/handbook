@@ -170,10 +170,17 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 #### Data Package Managers
 
 - [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down).
-- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/). Is a [great candidate](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/) and uses Git Annex (distributed binary object tracking layer on top of git).
+- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/).
+	- Is a [great tool](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/) and uses Git Annex (distributed binary object tracking layer on top of git).
+	- Complicated to wrap your head around. Lots of different commands and concepts. On the other hand, it's very powerful and flexible. Git Annex is complex but powerful and flexible.
+	- The handbook is very good, but it's a lot of reading if you just want to test things out.
 - [Huggingface Datasets](https://huggingface.co/docs/datasets).
 - [Quilt](https://github.com/quiltdata/quilt).
+	- Forces both Python and S3.
 - [Oxen](https://github.com/Oxen-AI/Oxen).
+	- Data is not accesible from other tools.
+	- [Docs](https://github.com/Oxen-AI/oxen-release#-oxen-release) are sparse.
+	- Definitely more in the Git for Data space than Dataset Package Manager.
 - [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards).
 - [Datopian Data CLI](https://github.com/datopian/data-cli). Sucesor of [DPM](https://github.com/frictionlessdata/dpm-js).
 - [LakeFS](https://lakefs.io/blog/git-for-data/). More like Git for Data.
@@ -186,6 +193,8 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [Splitgraph](https://github.com/splitgraph/sgr).
 - [Deep Lake](https://github.com/activeloopai/deeplake).
 - [Dim](https://github.com/c-3lab/dim).
+	- Hard to grok how to use it from the docs.
+	- Quite small surface area. You can basically install datasets from URLs, create new ones, or apply some kind of GPT3 transformation on top of them.
 - [Juan Benet's data](https://github.com/jbenet/data).
 - [Colah's data](https://github.com/colah/data).
 - [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
