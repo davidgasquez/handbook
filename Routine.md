@@ -1,12 +1,11 @@
 # Routine
 
-A way to keep yourself on track with your [[habits]] is to have a morning routine.
+A way to keep yourself on track with your [[habits]] is to have a routine.
 
-1. Rules. Remind yourself on the current set of rules, constrains, various addictions, time-draining things. E.g. limit social media, do some stretching, ...
-2. Gratitude. Visualize and [[Meditation|meditate]] on the idea that you might die today.
-3. Long-term goals and short-term [[goals]]. Review big goals that you would like to achieve in the next years and the short term goals that lead to them that you can act on.
-4. Visualize the day. Visualize yourself going through the day challenges and wins.
-5. Review your core [[values]].
+1. **Rules**. Remind yourself on the current set of rules, constrains, various addictions, time-draining things. E.g. limit social media, do some stretching, ...
+2. **Gratitude**. Visualize and [[Meditation|meditate]] on the idea that you might die today.
+3. **Long-term goals and short-term [[goals]]**. Review big goals that you would like to achieve in the next years and the short term goals that lead to them that you can act on.
+4. **Visualize the day**. Visualize yourself going through the day challenges and wins.
 
 ## Small Actions
 
@@ -26,5 +25,6 @@ Small lifestyle changes that can lead to large impact:
 - Automate one thing.
 - Chat with everyone.
 - Actively reach out to friends and family.
+- Take notes on everything you learn and share them.
 
 On the higher level, you can also have an [[Annual Review List]] to remind yourself some cool things!
