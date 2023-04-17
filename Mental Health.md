@@ -1,13 +1,13 @@
 # Mental Health
 
 - When it comes to [mental health](https://jjbeshara.com/2020/06/04/mental-wealth/), our society approaches it like we did with physical health 50 years ago. We only think about it when something goes wrong.
-- We benefit from approaching mental health like we invest in anything else in our lives ([[Finances]], [[Relationships]], careers, [[Fitness |physical health]], etc), where one builds wealth in this area by continuous, conscious investment.
-- Be [[Mindfulness |grateful]] for all the people and things you have. Accept you're not in full control of your destiny. [Success depends on luck](https://youtu.be/3LopI4YeC4I). Luck is a function of surface area. More experiences generate more serendipity.
+- We benefit from approaching mental health like we invest in anything else in our lives ([[Finances]], [[Relationships]], careers, [[Fitness|physical health]], etc), where one builds wealth in this area by continuous, conscious investment.
+- Be [[Mindfulness|grateful]] for all the people and things you have. Accept you're not in full control of your destiny. [Success depends on luck](https://youtu.be/3LopI4YeC4I). Luck is a function of surface area. More experiences generate more serendipity.
 - Lots of little good things is the path to happiness. You want frequent boosts not rare big stuff.
 - Maintain strong social ties. Social [[Relationships]] boost happiness. Sharing amazing experiences with those closest to you is as good as it gets.
 - Be around nature. Have some houseplants as they improve mood.
 - If you have trouble reading internal signals, try [debugging yourself](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html).
-	- Retrace your path to actions: Examine your behavior and identify the feeling. Ask yourself what story are you telling yourself that causes those emotions. Then, examine the facts and adjust the story to impact your emotions.
+  - Retrace your path to actions: Examine your behavior and identify the feeling. Ask yourself what story are you telling yourself that causes those emotions. Then, examine the facts and adjust the story to impact your emotions.
 
 ## Aversion
 

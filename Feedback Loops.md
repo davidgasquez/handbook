@@ -4,7 +4,7 @@
 - There are two types of feedback loops: positive and negative.
   - Positive feedback amplifies system output, resulting in growth or decline.
   - Negative feedback dampers output, stabilizes the system around an equilibrium point.
-- **[[Network Effects |Things are connected]]**. Changing one variable in a [[Systems |system]] will affect other variables in that system and other systems. This is important because it means that designers must not only consider particular elements of a design, but also their relation to the design as a whole and to the greater environment.
+- **[[Network Effects |Things are connected]]**. Changing one variable in a [[Systems|system]] will affect other variables in that system and other systems. This is important because it means that designers must not only consider particular elements of a design, but also their relation to the design as a whole and to the greater environment.
 - All complex [[systems]] are subject to positive and negative feedback loops whereby A causes B, which in turn influences A (and C), and so on – with higher-order effects frequently resulting from continual movement of the loop.
 - Feedback loops vary in their accuracy.
   - Accurate feedback means that it **reliably** and **clearly** tells you when you do something right. If you get the quadratic formula wrong, you can check the right formula and know what was wrong.

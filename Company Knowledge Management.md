@@ -18,14 +18,14 @@ There are some basic principles and [[values]] that will make maintaining and ev
 ## Key Ideas
 
 - [[Documentation]] and PM can make a company 10x better.
-- Have an opinionated way of doing internal documentation that works for your [[Organizations |organization]] and [[Culture]].
+- Have an opinionated way of doing internal documentation that works for your [[Organizations|organization]] and [[Culture]].
 - Every employee should contribute.
 - Resources have owners, contributors, reviewers (similar to [[Git]] roles).One of the owner roles is to keep it up to date and consistent with the rest of the knowledge base.
 - Each kind of document has have an explicit place. A place for everything and everything in its place.
-	- Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
-	- Avoid duplicating knowledge. For each question there is one and only one answer.
+  - Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
+  - Avoid duplicating knowledge. For each question there is one and only one answer.
 - Link everything together.
-	- The documentation should have back links and block references to incentivize small chunks of atomic ideas.
+  - The documentation should have back links and block references to incentivize small chunks of atomic ideas.
 - When doing presentations, don't present slides, present the content of the [[Company Handbooks |company handbook]].
 - Information should be easy to add (input) as well as easy to search and find (output) resulting in quick knowledge transfer between different employees.
 - [[Writing]] something in the wrong place is the same as not writing it.
@@ -38,19 +38,19 @@ There are some basic principles and [[values]] that will make maintaining and ev
 - [[Design Docs]] should have an explicit place, also acting as an historical log.
 - [[Documentation]] should have a common entry point to increase discovery. Each team can have it’s own [[processes]] on top.
 - At a company level, each team documents differently. To make the most of that, grow the knowledge organically and locally, not top down. Each team should have its own permissionless and open way of working and should be made public to the rest of the company. That way they can evolve the system to fit their needs. Then, there is a standard protocol to share information between teams.
-	- The protocol serves as the team communications API. An abstraction over the inner works of the team that is common to all the other teams.
-	- E.g: Each team having a homepage README with links to their slack, ticket system and processes.
-	- Since the protocol is shared between apps, you can build different views on top of the knowledge and tasks via APIs.
+  - The protocol serves as the team communications API. An abstraction over the inner works of the team that is common to all the other teams.
+  - E.g: Each team having a homepage README with links to their slack, ticket system and processes.
+  - Since the protocol is shared between apps, you can build different views on top of the knowledge and tasks via APIs.
 - Add as much information to your tickets/issues as possible. If the tickets/issues are any good, you'll find relevant tickets with links and extra information. That makes easy to tell what is current vs. what is 3 years old. The approach is something like Kafka (a log of everything that happened) versus a database with the current state of the world.
 - [Every document you write can fall into one of two categories](https://clrcrl.com/2021/11/30/fighting-the-entropy-of-knowledge.html):
-	- Type 1: A point-in-time document, that should lose relevance at some point. e.g. meeting notes, feature specs that get completed, [[feedback]] that gets addressed
-	- Type 2: A source of truth document, that should be maintained over time, e.g. "How work gets done at". May also be referred to as "evergreen" content.
+  - Type 1: A point-in-time document, that should lose relevance at some point. e.g. meeting notes, feature specs that get completed, [[feedback]] that gets addressed
+  - Type 2: A source of truth document, that should be maintained over time, e.g. "How work gets done at". May also be referred to as "evergreen" content.
 - Keep some basic structure, but provide a good search.
 - You can connect everything to Slack (search engine powered by humans).
-	- Keeping information across N tools causes scattered information.
-	- E.g. Integrate Notion with Slack so search is done from there.
-	- [If Slack had access to your entire knowledge base, it could answer at least the most commonly asked questions automatically.](https://julian.digital/2020/11/20/chief-notion-officer/)
-	- Ask questions in public channels! If someone sends you a handbook link, that means you have the answer documented - they don't mean that you should have found that yourself or that this is the complete answer. If the answer to a question isn't documented, make a pull request to add it to the handbook in a place you have looked for it.
+  - Keeping information across N tools causes scattered information.
+  - E.g. Integrate Notion with Slack so search is done from there.
+  - [If Slack had access to your entire knowledge base, it could answer at least the most commonly asked questions automatically.](https://julian.digital/2020/11/20/chief-notion-officer/)
+  - Ask questions in public channels! If someone sends you a handbook link, that means you have the answer documented - they don't mean that you should have found that yourself or that this is the complete answer. If the answer to a question isn't documented, make a pull request to add it to the handbook in a place you have looked for it.
 
 ## Sharing Updates
 

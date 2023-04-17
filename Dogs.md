@@ -16,26 +16,28 @@
 - [Reinforce being calm on different context](https://youtu.be/lLyiQODnR1s). This will make them listen to you in new places.
 - Understand [what can your dog eat](https://www.naturzoo.com/carteles-informativos-alimentos-adecuados-una-dieta-natural-perros/) and what they can't.
 
-### Building Confidence
+## Building Confidence
 
 - Don't force the dog to do what they don't want to do/aren't comfortable doing yet. Make every experience a positive one.
 - Put them in situations he can be successful in. Maybe it's finding a treat in plain sight at first and then slowly making it more difficult that they have to figure it out but not so hard that they gets frustrated and give up.
 - Let the dog make their decision and praise if its a good one.
 - Touch is a great trick to help them build confidence.
 
-### Separation Anxiety:
+## Separation Anxiety
 
 - Dogs have evolved to be with us all the time.
 - Change your [[Routine]] when leaving the house.
 - Don't make a big thing about you leaving. Do it in a calm way.
 - Create a leaving ritual:
-	1. Make them relax in their crate.
-	2. Give a treat and say bye.
-	3. Leave the room.
+
+ 1. Make them relax in their crate.
+ 2. Give a treat and say bye.
+ 3. Leave the room.
+
 - Do small aproximations. Leave the room, then the house for a few moments, ... Go gradually. First minutes, then hours!
 - Try hard to create a positive association and be confident with being alone.
 
-### Training Tips:
+## Training Tips
 
 - Train in any situation possible (and is safe to do it). For the first 6-12 months, spend at least 20 minutes of formal training a day in short training sessions (1-3 min).
 - Work on focus with distractions and you'll have an excellent groundwork.
@@ -54,14 +56,14 @@
 - Add music to your training sessions to get it associated with positive rewards.
 - Train before eating so the rewards have more value and they are [more interested in the tricks](https://youtu.be/knYNa0U5QZU).
 - Movement builds drive. Be energetic in the training session.
-	- Use a soft voice to stabilize a behavior instead of repeating the command or using stay. Break orders with a release cue like OK.
-	- To increase dog interest in training, throw treats to get them more energized!
+  - Use a soft voice to stabilize a behavior instead of repeating the command or using stay. Break orders with a release cue like OK.
+  - To increase dog interest in training, throw treats to get them more energized!
 - If you find your dog isn't listening perfectly to an old cue, one strategy for dealing with that is to change the cue and work on reinforcing the new cue more carefully. To transfer a cue, give your _new_ cue then immediately follow it with the old cue and reward when the dog performs the behavior.
 - You can speed up a trick training it with toys. Also, you can add tricks in between "drop it" and "get it" to reinforce them.
 - Once the behavior is established, start to reinforce intermittently.
 - For clicker training the main loop is: click, pause, feed. Always feed after clicking! You can charge the clicker while playing [[Dogs#Training Games |training games]].
 
-#### Training Games
+### Training Games
 
 - Stay with distractions. While your dog is still, move and run. Reward calmness.
 - Fetch with stay. Throw a toy and make your dog wait the signal to chase it.
@@ -92,7 +94,7 @@
 - Work on basic exercises (e.g: [calling your dog when you know its going to come](https://www.youtube.com/watch?v=SVJe2VgoYV4), [making them go through your legs](https://youtu.be/jdbZErtB9Ok), ...).
 - The key to a great recall is to [counter-condition the dog so it remains calm under all conditions](https://youtu.be/6uTgSr0acBo). Condition the dog to be relaxed around wild life and pay attention to you.
 - Give your dog access to what they want when they come back to you ([Premack Principle](https://www.akc.org/expert-advice/training/what-is-the-premack-principle-in-dog-training/)). If that's not an option, try to give them a great reward (or a combination like praise, food, petting and vocal inflection).
-	- Don't call your dog just to end his fun. If you do this it decreases the chance he/she will want to come back to you when called. Instead, recall often and treat without putting on the lead or ending the fun.
+  - Don't call your dog just to end his fun. If you do this it decreases the chance he/she will want to come back to you when called. Instead, recall often and treat without putting on the lead or ending the fun.
 - Don't repeat the cue many times. Recall should be a 100% reliable.
 - Try not to go towards your dog when working on recall.
 - Clap your hands while shouting your recall word in an excited, hyperactive voice.
@@ -104,7 +106,7 @@
 - White noise can help.
 - Cover the crate to reduce visual stimulation during the night.
 
-### Resources
+## Resources
 
 - [Dog Training Reddit Wiki](https://www.reddit.com/r/Dogtraining/wiki/index)
 - [Kikopup Youtube Channel](https://www.youtube.com/user/kikopup)

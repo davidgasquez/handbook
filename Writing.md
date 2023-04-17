@@ -40,7 +40,7 @@
 
 [If you have already written lots of concept-oriented atomic around the topic, your task is more like editing than composition. You can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative.](https://notes.andymatuschak.org/z3PBVkZ2SvsAgFXkjHsycBeyS6Cw1QXf7kcD8)
 
-Instead of having a task like “write an outline of the first chapter,” you have a task like “find notes which seem relevant.” Each step feels doable.
+Instead of having a task like "write an outline of the first chapter" you have a task like "find notes which seem relevant" Each step feels doable.
 
 ## Starting Points
 

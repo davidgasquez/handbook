@@ -18,7 +18,7 @@ If you listen to successful people talk about their approaches, remember that al
 - Keep it simple.
 - Build great memories.
 - Before you speak, let your words pass through three gates. At the first gate, ask yourself, "s it true?"" At the second gate ask, "Is it necessary?" At the third gate ask, "Is it kind?""
-- Elevate good behavior rather than punishing bad behavior, especially in [[Parenting |children]] and animals.
+- Elevate good behavior rather than punishing bad behavior, especially in [[Parenting|children]] and animals.
 
 ## Resources
 

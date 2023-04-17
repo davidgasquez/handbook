@@ -1,17 +1,17 @@
 # Mindfulness
 
-- Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful and [[Meditation |mindful]] about it. You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment as a child does. [Life is short](http://paulgraham.com/vb.html), [enjoy the silly bit in between](https://youtu.be/-mu780uB7mI).
+- Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful and [[Meditation|mindful]] about it. You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment as a child does. [Life is short](http://paulgraham.com/vb.html), [enjoy the silly bit in between](https://youtu.be/-mu780uB7mI).
   - [Humans quickly return to a relatively stable level of happiness despite major positive or negative events or life changes](https://en.wikipedia.org/wiki/Hedonic_treadmill). Optimize for tranquility in your life.
 - Make [[Time]] to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your [[Time]]. Look at the big picture and don't climb the current mountain out of inertia (ranks in business, status among friends, ...). [If you haven't done it already, schedule a day and time when you can realistically assess how you want your life to affect you and other people, and what you must change to better achieve this](https://www.lesswrong.com/posts/4psQW7vRwt7PE5Pnj/too-busy-to-think-about-life).
-- One task at a time. [[Focus |No distractions]].
+- One task at a time. [[Focus|No distractions]].
 - **KISS**. What would less/simple look like?
-  - When [[Communication |communicating]], do it in a clear and concise way.
+  - When [[Communication|communicating]], do it in a clear and concise way.
     - Sometimes, even if your intention is good, signal might turn into noise and won't be interpreted the way you expect.
   - When [[Problem Solving |facing a problem]], prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would it look like if it was simple?
   - Remove friction. Focus on essentials. Complexity itself has costs. It makes life harder to manage, reduces our degrees of freedom, and so forth. Often people do not factor those costs into their decisions as they incrementally and inattentively complexify their lives. A person with the virtue of simplicity asks, of any decision they make, "does this make my life more complex, and if so is that worth it?"
-- Live smarter, not harder. Don't complain about stuff you can easily fix, [[Automation |automate]], or delegate. Money can buy [[time]].
-- Keep Calm. Own and deal with your emotions. [[Stoicism |Focus on what you can control]]. Try to plan the possible outcomes and don't rush.
-- Think, understand, and listen before [[Communication |communicating]].
+- Live smarter, not harder. Don't complain about stuff you can easily fix, [[Automation|automate]], or delegate. Money can buy [[time]].
+- Keep Calm. Own and deal with your emotions. [[Stoicism|Focus on what you can control]]. Try to plan the possible outcomes and don't rush.
+- Think, understand, and listen before [[Communication|communicating]].
 - Don't worry too much about things that won't matter to you or your loved ones in 10 years.
 - Assume positive intent. No one is your enemy, you're an NPC in their game. Everyone is the main character of their own movie (*sonder*).
   - Every person is inherently valuable independent of behavior and beliefs. Create safe spaces for people, and a dangerous space for ideas ([idea labs](https://twitter.com/waitbutwhy/status/1278035160454348800)).

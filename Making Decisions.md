@@ -1,11 +1,11 @@
 # Making Decisions
 
-Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a [[Problem Solving]] activity, and it can be more or less [[Thinking |rational or irrational]] based on the decision maker's [[Values]], beliefs, and (perceived) knowledge.
+Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a [[Problem Solving]] activity, and it can be more or less [[Thinking|rational or irrational]] based on the decision maker's [[Values]], beliefs, and (perceived) knowledge.
 
 - Living a good life depends on our ability to make good decisions constantly.
 - Not perceiving the world accurately makes us worse at making decisions.
 - The decisions you make fall into two categories:
-  - [[Focus |Prioritizing]] — Which path should you take first?
+  - [[Focus|Prioritizing]] — Which path should you take first?
   - Allocating — How much [[Focus|Attention]], [[Time]], and capital should you spend on this?
 - [Separate decisions into four possibilities based on the type of decision](https://fs.blog/2018/09/decision-matrix/):
   1. Irreversible and inconsequential.
@@ -18,7 +18,7 @@ Decision making is the process we use to identify and choose alternatives, produ
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
 - Gather all the information you can. Then, schedule [[time]] to think deeply about it. Brain-dump your thoughts on the problem - what's going wrong, why is it inefficient? Try to understand it in as much detail as possible.
   - Learn from the mistakes of others. You can't live long enough to make them all yourself.
-  - Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. [[Openness |Transparency]] is key for group decisions.
+  - Remember that too much information increases confidence not accuracy. Share all the information with other stakeholders. [[Openness|Transparency]] is key for group decisions.
   - Most decisions should probably be made with somewhere around 70% of the information you wish you had. If you wait for 90%, in most cases, you're probably being slow.
 - [The fog of the future hides vital information](https://youtu.be/SVmEXdGqO-s).
 - If all options are similar take the harder one in the short term (_Hard decisions easy life, easy decisions, hard life_).

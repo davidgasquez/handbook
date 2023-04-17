@@ -1,11 +1,11 @@
 # Teamwork
 
 - Explicitly define the [[values]] and desired [[culture]] of your team.
-- Share a vision to make [loosely coupled, tightly aligned teams](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/). Then, define the strategy with [[Writing Team Key Results |great key results]].
+- Share a vision to make [loosely coupled, tightly aligned teams](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/). Then, define the strategy with [[Writing Team Key Results|great key results]].
   - When coming up with a long-term vision is important to stay abstract.
     - Stick to defining components and keep concepts generic (cache, [[Databases]], algorithm, ...). Show how the components interact.
     - Define boundaries and limitations of each component.
-- Work in the open and [[Documentation |document]] everything.  Transparency increases understanding and reduces synchronization challenges. **[Emulate Open Source projects](https://tomayko.com/blog/2012/adopt-an-open-source-process-constraints) and [[Remote Jobs |remote companies]]**.
+- Work in the open and [[Documentation|document]] everything.  Transparency increases understanding and reduces synchronization challenges. **[Emulate Open Source projects](https://tomayko.com/blog/2012/adopt-an-open-source-process-constraints) and [[Remote Jobs|remote companies]]**.
 - To make everyone more productive and happy: **Make feedback loops fast**. [Some best practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/):
   - Tested, automated process for new development environments.
   - Automated preview environments.
@@ -13,7 +13,7 @@
   - Templates for new projects and components.
   - Mechanisms for creating test data.
   - Invest in [thoughtful logging](https://www.16elt.com/2023/01/06/logging-practices-I-follow/a).
-- Create a [[Company Handbooks |handbook]] to store your [[Company Knowledge Management |company knowledge]]. Document:
+- Create a [[Company Handbooks|handbook]] to store your [[Company Knowledge Management|company knowledge]]. Document:
   - [[Processes]].  Status updates, [[Design Docs]], [on-boarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
   - Decisions. Context and rationale can be documented in a durable location.
     - Each team should [keep a changelog](https://keepachangelog.com/en/1.0.0/). [The company too](https://medium.com/linear-app/startups-write-changelogs-c6a1d2ff4820). ^473cb4
@@ -36,11 +36,9 @@
   - Things you shouldn't have built that way.
 - Accidental complexity is a sum of all the shortcuts you have taken. Complexity attracts more complexity and compounds in a non-linear way. Every shortcut you take is an invitation to more shortcuts elsewhere.
 - When the context changes a lot, you can use [the blue tape technique](https://randsinrepose.com/archives/the-blue-tape-list/) to notice what is wrong with it:
-
- 1. Notice everything that feels off.
- 2. Make a list of everything that feels off, no matter how big or small.
- 3. Wait a bit, like a month, but address everything.
-
+  1. Notice everything that feels off.
+  2. Make a list of everything that feels off, no matter how big or small.
+  3. Wait a bit, like a month, but address everything.
 - This translates to ideas to review, tools to try, docs you want to write up, ...
 - Culture should incentive people to fix things outside their area. Encourage submitting Pull Requests that might be rejected.
 - Teams [need slack to absorb and adapt when unexpected things come up](https://www.neelnanda.io/blog/38-slack) and to prioritize the development of force multipliers (tooling and automation).
@@ -60,22 +58,20 @@
 - Ask people ["when do you think you'll get this done"](https://mobile.twitter.com/Carnage4Life/status/1438982223395393536), write it down and then follow up at that time. That makes teams more effective.
 - Every document must have a specific goal written at the top of it.
 - When building something:
-
- 1. Question everything.
- 2. Remove more than you add.
- 3. Optimize what works.
- 4. Shorten iteration cycles. **[Boyd's Law of Iteration](https://blog.codinghorror.com/boyds-law-of-iteration/): speed of iteration beats quality of iteration**.
- 5. [[Automation |Automate]] and keep standards.
-
+  1. Question everything.
+  2. Remove more than you add.
+  3. Optimize what works.
+  4. Shorten iteration cycles. **[Boyd's Law of Iteration](https://blog.codinghorror.com/boyds-law-of-iteration/): speed of iteration beats quality of iteration**.
+  5. [[Automation|Automate]] and keep standards.
 - Keep great global [[coordination]] and incentive local experimentation.
   - Being able to run small and compounding experiments (on the product or company [[processes]] and systems) is important. **Work smaller**.
     - [Some experiments won't work](https://www.lesswrong.com/posts/97LgacucCxmyjYiNT/the-archipelago-model-of-community-standards). But oftentimes it _feels_ like it wont work when in fact you just haven't stuck with it long enough for it to bear fruit. This is hard enough for _solo_ experiments. For group experiments, where not just one but _many_ people must all try a thing at once and _get good at it_, all it takes is a little defection to spiral into a mass exodus.
 - The group with the most power determine the system that reflect and reinforce their own way of thinking. Aim for inclusion. _Diversity is being invited to the party. Inclusion is being asked to dance and help organizing the party_.
 - [Brainstorm for questions first (explore). Then find the answers (exploit).](https://getpocket.com/explore/item/better-brainstorming)
-- Strive for constructive conflict. Get people to [[Asking Questions |ask questions]]. Engage in passionate, unfiltered debate about what you need to do to succeed.
-- Encourage to fail. Failing is good if the team [[Learning |learns]] from it!
+- Strive for constructive conflict. Get people to[[Asking Questions|ask questions]]. Engage in passionate, unfiltered debate about what you need to do to succeed.
+- Encourage to fail. Failing is good if the team [[Learning|learns]] from it!
 - Encourage effectiveness. Find ways to free up your time.
-- Communication is a central part of working in teams. Prefer [[Asynchronous Communications]], use common [[Communication |communications]] techniques and be friendly. Trust and efficient communication has a big impact on team effectiveness.
+- Communication is a central part of working in teams. Prefer [[Asynchronous Communications]], use common [[Communication|communications]] techniques and be friendly. Trust and efficient communication has a big impact on team effectiveness.
 - Have a primary [[Communication]] channel.
 - Use long-form [[Writing]], rather than [[Meetings]], speaking, and chatting. Speaking only helps who's in the room, [[Writing]] helps everyone.
 - Finish projects before starting more.
@@ -98,13 +94,13 @@
 - [Standards make it easy for new team members to onboard and enhance efficiency in the long run (removes micro-decisions)](https://seattledataguy.substack.com/p/setting-standards-for-your-data-team).
 - [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness) can happen in a team. Two of the main reasons of this [normalization of deviance](https://danluu.com/wat/):
   - The team needs to follow processes that have either been externally imposed, or internally imposed but no-one remembers exactly why.
-  - The sheer scale and/or complexity of how things work. There is truly no-one who understands the emergent behavior of the [[Systems |system]].
+  - The sheer scale and/or complexity of how things work. There is truly no-one who understands the emergent behavior of the [[Systems|system]].
     - E.g: Slow _boiling frog_ situations where existing tools have become ineffective but no one noticed.
 - [Act as if you might leave on short notice](https://jmmv.dev/2021/04/always-be-quitting.html).  Document your knowledge, long-term plans, meetings, train people around you, empower other people, delegate and keep learning!
 - You have to put in more effort to make something appear effortless. Effortless, elegant performances are often the result of a large volume of effortful. Praise this instead of complex solutions.
 - Invisible work will happen. If you're doing it, make an effort to share and get credit for it. Build a narrative (story) for your work. Arm your manager and fight recency bias keeping track of all the things you've done.
 - As a manager, give problems to solve, not solutions. Make sure the team knows what they're working toward and that it has the resources needed to complete the work.
-- Most software or processes should be opinionated. In increases [[Coordination |collaboration]]. Flexible processes lets everyone invent their own workflows, which eventually creates chaos as teams scale.
+- Most software or processes should be opinionated. In increases [[Coordination|collaboration]]. Flexible processes lets everyone invent their own workflows, which eventually creates chaos as teams scale.
 - As teams scale, traditional approaches to decision making force a tradeoff between transparency and efficiency.
   - The easiest way to ensure everyone can understand the how and why of a decision is to adopt systems that, through their daily operation, ensure such context is automatically and readily available to those who might want it (and explicitly not only those who presently need it).
 - [Run 1:1s (one-on-ones)](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/). A recurring meeting with no set agenda between a manager and one of their reports. Don’t make it a status update (these should be async). Chat about anything bothering you, career growth or type work that is interesting for you. End it with actionable next steps.

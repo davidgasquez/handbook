@@ -16,7 +16,7 @@ Your goal is not to do what _you_ think is best, it's to help _others_. This inc
 - The only constant in the world is change. Be open to it and accept it with a smile.
 - Understand and accept that you will make mistakes.
 - Be mindful. Develop meta-awareness around the areas that you received feedback.
-	- Look for opportunities to _stop doing_ or _start doing_ critiqued behaviors.
+  - Look for opportunities to _stop doing_ or _start doing_ critiqued behaviors.
 
 ### Technical Feedback
 
@@ -37,10 +37,10 @@ Your goal is not to do what _you_ think is best, it's to help _others_. This inc
 - Imagine what things feel like from the other perspective.
 - Criticize in private, praise in public.
 - You can use a [feedback model](https://jacobian.org/2021/apr/22/three-feedback-models/). These are behavioral and impact focused.
-	- Situation-Behavior-Impact: Describe the situation, then the action of the person and finally, the impact it had.
-	- Manager Tools Feedback Model: Ask for permission, describe the behavior and its impact, finally offer some potential alternatives.
+  - Situation-Behavior-Impact: Describe the situation, then the action of the person and finally, the impact it had.
+  - Manager Tools Feedback Model: Ask for permission, describe the behavior and its impact, finally offer some potential alternatives.
 - How to compose a successful critical commentary (_from_ [_Daniel Dennett_](https://en.wikipedia.org/wiki/Daniel_Dennett)):
-	- You should attempt to re-express your target's position so clearly, vividly, and fairly that your target says, _"Thanks, I wish I'd thought of putting it that way"_.
-	- You should list any points of agreement (if they are not matters of general or widespread agreement).
-	- You should mention anything you have learned from your target.
-	- Only then are you permitted to say so much as a word of rebuttal or criticism.
+  - You should attempt to re-express your target's position so clearly, vividly, and fairly that your target says, _"Thanks, I wish I'd thought of putting it that way"_.
+  - You should list any points of agreement (if they are not matters of general or widespread agreement).
+  - You should mention anything you have learned from your target.
+  - Only then are you permitted to say so much as a word of rebuttal or criticism.

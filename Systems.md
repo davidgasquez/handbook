@@ -6,13 +6,13 @@ A system is anything with multiple parts that depend on each other. In other wor
 
 - [[Modularity]].
 - Responsiveness.
-	- Know what the system is doing and make the [[Feedback Loops]] fast.
+  - Know what the system is doing and make the [[Feedback Loops]] fast.
 - [[Decentralized Protocols |Decentralized]].
 - Permissionless.
 
 ## Changing Systems
 
-To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, [[Incentives |incentives]], resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/).
+To [change a system](https://intenseminimalism.com/2015/a-framework-for-thinking-about-systems-change/) you need vision, skills, [[Incentives|incentives]], resources and an action plan. Changing a [complex system](https://complexityexplained.github.io/) is hard and [even if the intention is good, the result might not](https://fs.blog/2013/10/iatrogenics/).
 
 First, focus on [[Incentives]]. [Don't be angry at the people who are benefiting from a system, or at the system itself](https://news.ycombinator.com/item?id=22043088). Most just end up that way, the same way a river meanders towards the sea, or an electrical current tries to find ground.
 
@@ -22,13 +22,13 @@ Keep in mind intervening in a system requires some kind of theory, some kind of 
 
 Complex systems usually have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/).
 
-A good approach to incrementally change a system (similar to [[Evolution |natural selection]]) is to:
+A good approach to incrementally change a system (similar to [[Evolution|natural selection]]) is to:
 
 1. Start by identifying the highest-leverage level to optimize at: Ask whether you're optimizing the machine or a cog within it. Complex systems might change in unexpected ways (butterfly effects). Minor differences in starting points make big differences on future states.
 2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes. Alter the incentive landscape. [If you can make your system less miserable, make your system less miserable!](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart)
 3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
-**Don't aim for an ideal system. Build a set of [[processes]] and protocols that evolve to fit the environment over time. ** [Complex systems fail](https://how.complexsystems.fail/).
+**Don't aim for an ideal system. Build a set of [[processes]] and protocols that evolve to fit the environment over time.** [Complex systems fail](https://how.complexsystems.fail/).
 
 If everyone agrees the current system doesn't work well, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
 
@@ -52,13 +52,13 @@ Remember, sometimes not doing something is better than doing it ([Primum non noc
 2. Cases where decision-makers can't reliably learn the information they need to make decisions, even though someone else has that information.
 3. Systems that are broken in multiple places so that no one actor can make them better, even though, in principle, some magically coordinated action could move to a new stable state. One systemic problem can often be overcome by one altruist in the right place. Two systemic problems are another matter entirely.
 
-### Examples:
+### Examples
 
 - Making the switch from not relying on prediction markets to relying on prediction markets is fraught, because it might embarrass the leadership of existing institutions by revealing that their professed estimates are not very credible.
 - There are several newly designed voting methods which are likely to be improvements over the current system, but most have seen limited, if any, uptake.
-	- It's difficult to change political systems from the outside.
-	- Within a two-party system, both benefit from first past the post voting, as they know they have a ~50% chance of winning each election, so there is no incentive for them to change from within.
-	- Proponents of voting reform have not yet been able to coordinate on which method they recommend.
+  - It's difficult to change political systems from the outside.
+  - Within a two-party system, both benefit from first past the post voting, as they know they have a ~50% chance of winning each election, so there is no incentive for them to change from within.
+  - Proponents of voting reform have not yet been able to coordinate on which method they recommend.
 - Ongoing over-fishing of ocean fish. Each individual fishery (and, at a higher level, each country) would prefer a world where everyone fishes a sustainable amount, rather than over-fishing and crashing the fish populations that they all rely upon, but without a centralized enforcement mechanism, they have no way of ensuring that the other fisheries (or countries) go along with them in cutting back on fishing, so unilaterally doing so would simply make them get out-competed by others.
 - Countries building up their militaries. Most of the use of sizable militaries is fighting against other militaries (and as a deterrent against such), so they are overall a negative-sum game. If countries all agreed to cut back their militaries, they would (for the most part) all benefit, but due to the competitive nature, there is a strong incentive to not cut back.
 - Using companies producing widgets as an example, each company might wish to fairly pay their workers, maintain a safe work environment, and not pollute the environment. However, other companies can gain an edge by sacrificing things in favor of producing more widgets (e.g. hiring more workers at cheaper wages). Thus, the principled company must make similar changes, or get out-competed. This can continue until the companies have all sacrificed everything they can in favor of more [[productivity]], even if all of them would have preferred to peacefully coexist with comfortable work conditions.

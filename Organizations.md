@@ -5,7 +5,7 @@
   - Split things up (teams, code, data) into smaller sets.
   - Make sure no one gets blocked.
   - Make things composable (e.g: UNIX).
-  - Make processes [[Idempotence|idempotent]] and [[Automation |automated]].
+  - Make processes [[Idempotence|idempotent]] and [[Automation|automated]].
   - [Put mechanisms that enable the organization to learn and adapt](https://www.remyevard.com/posts/2021/11/30/healthy-organizations.html).
 - _Culture, Coordination, and Capital_ are the foundation of your ability to have an impact on your mission.
 - A company may be looked as a combination of 3 things:
@@ -56,7 +56,7 @@
 - [When facing organizational problems do not; ignore them, give up, switch to a top down approach, involve more "lead people", rely on heroes or aim for perfection](https://komoroske.com/slime-mold/).
 - Periodically observe pain points that cost productivity, and task people to reduce them, thereby producing more compound leverage across the whole organization.
 - [In any organization, the people devoted to the benefit of the organization itself always get in control and those dedicated to the goals that the organization is supposed to accomplish have less and less influence, and sometimes are eliminated entirely](https://www.jerrypournelle.com/reports/jerryp/iron.html).
-- Leaders in a healthy organization [[Communication |listen and communicate]].
+- Leaders in a healthy organization [[Communication|listen and communicate]].
 - Organizations naturally move towards growth: more people, more systems, more conflicting worldviews. To facilitate action, communication systems _will_ be established. Make sure these are effective.
 - [Teams usually don't stop to think what (and why) things are working or not working](https://cutlefish.substack.com/p/tbm-952-when-nothingeverything-actually). Make time for that.
 - By [swinging the pendulum](https://twitter.com/BrandonMChu/status/1502312472644100105) and changing focus periodically, you accept more extreme (and clear) outcomes in the short term, but in the long term arrived at the middle ground you aim for.

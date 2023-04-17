@@ -1,6 +1,6 @@
 # Web3
 
-- Web3 is much more than [[Blockchain]] and [[Cryptocurrencies]]. [It means building in public, new types of incentives, real ownership of digital property, internet-wide login / identity](https://ckarchive.com/b/p9ueh9hp409k), ...
+- Web3 is theoretically more than [[Blockchain]] and [[Cryptocurrencies]]. [It means building in public, new types of incentives, real ownership of digital property, internet-wide login / identity](https://ckarchive.com/b/p9ueh9hp409k), ...
 - Key decisions associated with maintaining and updating cryptonetwork protocols. As with every human organization, aligning interests and beliefs among human participants to reach agreement is the goal of [[governance]].
   - [In cryptonetworks, these decisions are made by the community, using open and transparent mechanisms](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e). DAOs don't need a boss!
   - Cryptocurrencies have the [[Incentives]] to keep the users happy since forking is an option.
@@ -13,20 +13,20 @@
 - [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) and the [Web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack).
 - [Kernel Community](https://kernel.community/en/learn/).
 - Web3 native alternatives:
-	- [Trello](https://dework.xyz/).
-	- [Notion](https://www.clarity.so/).
-	- [Medium](https://mirror.xyz/dashboard).
-	- [Search](https://slate.host/).
-	- [Imgur](https://www.pinata.cloud/).
-	- [Netlify](https://fleek.co/).
-	- [Firebase](https://textile.io).
-	- [Dropbox](https://www.sliksafe.com/). [Another](https://files.chainsafe.io/).
+  - [Trello](https://dework.xyz/).
+  - [Notion](https://www.clarity.so/).
+  - [Medium](https://mirror.xyz/dashboard).
+  - [Search](https://slate.host/).
+  - [Imgur](https://www.pinata.cloud/).
+  - [Netlify](https://fleek.co/).
+  - [Firebase](https://textile.io).
+  - [Dropbox](https://www.sliksafe.com/). [Another](https://files.chainsafe.io/).
 
 ## Links
 
 - [Kernel](https://kernel.community/). An 8 week program covering crypto and web3.
 - [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Great list of crypto readings and resources.
-	- [Understanding Crypto](https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)- Learn more about cryptocurrencies.
+  - [Understanding Crypto](https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)- Learn more about cryptocurrencies.
 - [DAOs, A Canon](https://future.a16z.com/dao-canon/). Understand, build, and get involved with “decentralized autonomous organizations”.
 - [Trading View](https://www.tradingview.com/markets/cryptocurrencies/) - Crypto charts.
 - [Finematics](https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA). Educational videos on DeFi (Decentralized Finance).
@@ -77,7 +77,7 @@
 - [Luabase](https://github.com/luabase)
 - [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 
-### Bounty Based Collaboration:
+### Bounty Based Collaboration
 
 - [Bounties Network](https://bounties.network/) - Find freelancers and bounty programs for any task paid in any token on Ethereum.
 - [Open Bounty](https://openbounty.status.im/) - Bounty-based collaboration tool that plugs right into GitHub.

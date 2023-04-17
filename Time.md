@@ -31,4 +31,4 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 - The window of time we can expect things to remain the same is decreasing. Things change faster and faster. To save time we do "technology". [Technology gives us extra time and deeply affect how we live](https://youtu.be/zHL9GP_B30E).
 - Mortality is the main source of scarcity. If we had infinite time, we would be less concerned with whether something was faster. The reason speed has value is because time has value; the reason time has value is because human life has value, and lifespans are finite. [If you made lifespans much longer, you'd reduce the effective cost of everything](https://balajis.com/the-purpose-of-technology/). The ultimate purpose of technology is to eliminate mortality.
 - Spend money on experiences.
-- [[Meditation |Calm down]], gain autonomy over your choices, and make better ones.
+- [[Meditation|Calm down]], gain autonomy over your choices, and make better ones.

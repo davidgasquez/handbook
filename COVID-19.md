@@ -1,6 +1,6 @@
 # COVID-19
 
-Most data around this crisis was incomplete, constantly evolving, and [[Politics |politically]] warped, making it near impossible to interpret without context from relevant experts, especially since fear was so prevalent. The goal was to try to think [[Thinking |critically]] and be understanding.
+Most data around this crisis was incomplete, constantly evolving, and [[Politics|politically]] warped, making it near impossible to interpret without context from relevant experts, especially since fear was so prevalent. The goal was to try to think [[Thinking|critically]] and be understanding.
 
 - [Covid-19, your community, and you — a data science perspective](https://www.fast.ai/2020/03/09/coronavirus)
 - [Coronavirus Pandemic Statistics and Research](https://ourworldindata.org/coronavirus)

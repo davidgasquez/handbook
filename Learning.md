@@ -3,7 +3,7 @@
 - Learning is a process of [[Conceptual Compression]].
 - Understand the base and build from it. First Principles Method. Seek the big picture understanding - focus on concepts not details.
 - Read about topics you care, observe the world around you and keep a beginner's mind (*shoshin*).
-- Don't be afraid to [[Asking Questions |ask a question]] that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
+- Don't be afraid to[[Asking Questions|ask a question]] that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
 - You can apply [The Feynman Technique](https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/):
   1. Identify the subject.
   2. Teach it to a child. Use simple vocabulary and make it short. Keep questions and answers simple.
@@ -14,7 +14,7 @@
 - There are two categories of learning. [Mix them both to learn faster](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/).
   1. **Guided:** Reading a tutorial, taking a course, watching a YouTube video. Anything where you're following a guide.
   2. **Unguided:** Creating your own projects from scratch, extending a tutorial, looking things up in the docs. Anything where you aren't following a guide.
-- Learn to [[Asking Questions |ask better questions]]. Distill what you know to figure out what part you're missing or which link is missing.
+- Learn to[[Asking Questions|ask better questions]]. Distill what you know to figure out what part you're missing or which link is missing.
 - Learn by [[Writing]]:
   1. Pick a topic.
   2. Read and/or discuss with others (a bit).

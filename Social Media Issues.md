@@ -2,13 +2,13 @@
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/k1BneeJTDcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Internet algorithms are [[Systems |complex profit-maximizing systems]] that want to spoon feed you whatever you're most likely to click on. This is a win-win, symbiotic relationship—until it's not. When the algorithm is luring in your primitive mind against you, the relationship is parasitic. [The algorithm will learn to show thing that will further confirm and strengthen your existing viewpoints](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles).
-- Each app is competing against the other apps. Only the apps that grains your [[Focus |attention]] continue. Over time, your attention is more and more hacked by these apps. All exist to sell your attention to advertisers. Each one has a team optimizing the attention hackin[]()g.
+- Internet algorithms are [[Systems|complex profit-maximizing systems]] that want to spoon feed you whatever you're most likely to click on. This is a win-win, symbiotic relationship—until it's not. When the algorithm is luring in your primitive mind against you, the relationship is parasitic. [The algorithm will learn to show thing that will further confirm and strengthen your existing viewpoints](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles).
+- Each app is competing against the other apps. Only the apps that grains your [[Focus|attention]] continue. Over time, your attention is more and more hacked by these apps. All exist to sell your attention to advertisers. Each one has a team optimizing the attention hackin[]()g.
   - Social Media apps might be dangerous due to the amount of data they track. Data is not the new gold, it is the new oil, and it damages the social environment. [If you feel you are being watched, you change your behavior](https://www.socialcooling.com/). [Loss of privacy leads to loss of freedom](https://robindoherty.com/2016/01/06/nothing-to-hide.html). This may limit our desire to speak or think freely thus bring about “chilling effects” on [society—or social cooling](https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/).
-	1. Your data is collected and scored.
-	2. Your digital reputation may affect your opportunities.
-	3. People start changing their behavior to get better scores.
-	4. As your weaknesses are mapped, you become increasingly transparent.
+ 1. Your data is collected and scored.
+ 2. Your digital reputation may affect your opportunities.
+ 3. People start changing their behavior to get better scores.
+ 4. As your weaknesses are mapped, you become increasingly transparent.
 - Most of our [[news]] feeds are insular networks made up of people who get their info from the same filter bubble we do.
 - Social media provides an unfortunate filter: it dumbs down complex information. [Ideas don't pass perfectly from one person to another. Like a game of Telephone, the message gets mutated with each re-telling so, over time, ideas "evolve" to be more catchy, copy-able, contagious.](https://ncase.me/crowds/) The fittest ideas doesn't need to be true.
   - These mechanics end up creating call-out culture where the way to make changes is to be as judgmental as possible about other people. [That is not activism, that is not bringing about change. If all you're doing is casting stones, you are probably not going to get that far](https://www.youtube.com/watch?v=qaHLd8de6nM).
@@ -19,10 +19,10 @@
   - Technology's constant interruptions and precisely-targeted distractions are taking a toll on our ability to think, to focus, to solve problems, and to be present with each other.
   - Social Media affects on our happiness, our self image, and our [[Mental Health]].
   - While social networks claim to connect us, all too often they distract us from connecting with those directly in front of us, leaving many feeling both connected and socially isolated.
-  - Social media platforms are [[Incentives |incentivized]] to amplify the most engaging content, tilting public attention towards polarizing and often misleading content. By selling micro targeting to the highest bidder, they enable manipulative practices that undermine democracies around the world.
+  - Social media platforms are [[Incentives|incentivized]] to amplify the most engaging content, tilting public attention towards polarizing and often misleading content. By selling micro targeting to the highest bidder, they enable manipulative practices that undermine democracies around the world.
 - Any alternative social media company that grows to a sufficient size will have to embrace the evil tactics used by Facebook and Twitter in order to remain competitive in the market. It's all about profit for these companies, not about a better society.
-	- In the other hand, if social media companies were doing really bad things, we would hear ex-employees talk about these much more.
+  - In the other hand, if social media companies were doing really bad things, we would hear ex-employees talk about these much more.
 - You compare yourself with the best possible version of everyone else curated in their feeds.
 - Social Media companies have incentives to build echo chambers as that's one of the best ways to create engagement and keep users active.
 - [As a creator, Social Media companies use their filtering power to make money forcing people to pay to show the content to users](https://youtu.be/l9ZqXlHl65g).
-	- E.g. Instagram controls what shows and in which order it does to maximize time spent in app and make money.
+  - E.g. Instagram controls what shows and in which order it does to maximize time spent in app and make money.

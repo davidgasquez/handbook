@@ -17,4 +17,4 @@ To help with planning, you should have these things:
 - [[Writing a Roadmap |Roadmap]]. A unified view of what the team is working towards shipping.
 - List of options.
 
-No matter what the final plan is, [[Teamwork#^473cb4 |document it]] and you'll have a log of all the plans to reflect back on.
+No matter what the final plan is, [[Teamwork#^473cb4|document it]] and you'll have a log of all the plans to reflect back on.

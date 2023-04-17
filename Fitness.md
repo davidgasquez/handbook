@@ -1,12 +1,12 @@
 # Fitness
 
-- Exercise helps make better use of the [[Nutrition |foods you are eating]] and produces the hormones you need to [[Thinking |think clearly]].
+- Exercise helps make better use of the [[Nutrition|foods you are eating]] and produces the hormones you need to [[Thinking|think clearly]].
 - Your body is your vessel for life's journey - treat it accordingly. Fitness and [[Nutrition]] are the rising tide that floats all boats. They are multipliers for everything.
 - Never sit for prolonged times. Take breaks standing or walking around.
-	- [Going for a walk has lots benefits](https://www.betterhealth.vic.gov.au/health/healthyliving/walking-for-good-health). Around 30 minutes a day on most days of the week is a great way to improve or maintain your overall health.
+  - [Going for a walk has lots benefits](https://www.betterhealth.vic.gov.au/health/healthyliving/walking-for-good-health). Around 30 minutes a day on most days of the week is a great way to improve or maintain your overall health.
 - [Having more muscle mass will increase your metabolic rate and help you stay lean more time](https://youtu.be/IX7MZrgIycw).
 - Lifting weights makes you stronger and healthier, improves your posture, makes you less injury prone, and strengthens your bones.
-	- If you train for strength rest for at least 4 minutes before doing another set.
+  - If you train for strength rest for at least 4 minutes before doing another set.
 - Cardio helps stabilize hormone levels, improves endurance and recovery, helps the body fuel calories away from the fat cells and into the muscle, helps with weight maintenance, generally keeps you healthy, and finally burns calories.
 - For fat loss, HIIT is better than cardio. More muscle, higher metabolism.
 - Static stretching (any stretching done in place, holding for X number of seconds) should never be done before exercise. Instead, perform active movements simulating the exercise you are about to perform.

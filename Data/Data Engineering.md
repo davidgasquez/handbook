@@ -1,10 +1,10 @@
 # Data Engineering
 
 - Gather as much domain knowledge as possible. Technical knowledge is not enough. Then prioritize:
-	- **Fidelity:** how reliably can data be transferred and stored without corruption or loss?
-	- **Capacity:** how much data can be moved and how quickly?
-	- **Reliability:** how well can systems recover from outages and incidents?
-	- **Speed of execution:** how quickly can you get a new data source up and running?
+  - **Fidelity:** how reliably can data be transferred and stored without corruption or loss?
+  - **Capacity:** how much data can be moved and how quickly?
+  - **Reliability:** how well can systems recover from outages and incidents?
+  - **Speed of execution:** how quickly can you get a new data source up and running?
 - If it can be solved with SQL, stick to SQL.
 - A [consistent pattern](https://www.startdataengineering.com/post/design-patterns/) across your data pipelines helps devs communicate easily and understand code better.
 
@@ -18,7 +18,7 @@ Systems tend towards production and data pipelines aren't an exception. Valuable
 
 - **Simplicity**: Each steps is easy to understand and modify. Rely on immutable data. Write only. No deletes. No updates.
 - **Reliability**: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done extracting the column from the intermediary data without having to query the data source. It is better to support 1 feature that works reliably and has a great UX than 2 that are unreliable or hard to use. One solid step is better than 2 finicky ones.
-- **[[Modularity]]**: Steps are independent, declarative, and [[Idempotence |itempotent]]. This makes pipelines composable.
+- **[[Modularity]]**: Steps are independent, declarative, and [[Idempotence|itempotent]]. This makes pipelines composable.
 - **Consistency**: Same conventions and design patterns across pipelines. If a failure is actionable by the user, clearly let them know what they can do. Schema on write.
 - **Efficiency**: Low event latency when needed. Easy to scale up and down. A user should not be able to configure something that will not work.
 - **Flexibility**: Steps change to conform data points. Changes don't stop the pipeline or losses data. Fail fast and upstream.
@@ -27,27 +27,27 @@ Systems tend towards production and data pipelines aren't an exception. Valuable
 
 ```mermaid
 graph LR;
-	A-->B;
-	B-->D;
-	C-->D;
+ A-->B;
+ B-->D;
+ C-->D;
 ```
 
 - In each step of the pipeline there are producers of data and consumers. Consumers can be also producers, e.g `B` is both consumer of `A`'s data and producer of `C`s data.
-  - Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a [[Databases |database]].
+  - Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a [[Databases|database]].
 - **Schemas changes**. Most of the time you won't be there at the exact time of the change so aim to save everything.
   - Ideally, the schema will evolve in a backward compatible way:
-	- Data types don't change in the same column.
-	- Columns are either deleted or added but never renamed.
+    - Data types don't change in the same column.
+    - Columns are either deleted or added but never renamed.
 - Create a few extra columns like `processed_at` or `schema_version`.
 - Generate stats to provide the operator with feedback.
 - Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the [Functional Data Engineering Paradigm](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).
 - [Event Sourcing is a great pattern when implementing a new system since it couples state with business logic](https://youtu.be/XxKnTusccUM).
-	- State is a projection of history. Keep the history and reconstruct the state!
+  - State is a projection of history. Keep the history and reconstruct the state!
 - Embrace immutability:
-	- [Avoid states and mutable data. Functions should always yield the same result!](https://twitter.com/sbalnojan/status/1521477031405531136)
-	- Objects will be more thread safe inside a program.
-	- Easier to reason about the flow of a program.
-	- Easier to debug and troubleshoot problems.
+  - [Avoid states and mutable data. Functions should always yield the same result!](https://twitter.com/sbalnojan/status/1521477031405531136)
+  - Objects will be more thread safe inside a program.
+  - Easier to reason about the flow of a program.
+  - Easier to debug and troubleshoot problems.
 
 ## Great Blog Posts
 

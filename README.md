@@ -8,7 +8,6 @@ Personal bits of living knowledge, open for everyone.
 - 🗺️ Explore any topic you find interesting on the left sidebar.
 - 📣 [Reach out](https://davidgasquez.github.io/) if you want to chat!
 
-
 ---
 
 _Photo by [Jan Kahánek](https://unsplash.com/@honza_kahanek) on [Unsplash](https://unsplash.com)_

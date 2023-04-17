@@ -87,7 +87,7 @@ Instead of building the tool, we can start with a standard protocol and let othe
 - [[Federated Networks |Federate and open source current networks]] to improve communities.
   - [The protocol should evolve differently for each community](https://youtu.be/P-2P3MSZrBM?t=5953). Communities will mix and match protocols (rules, monetization, rewarding, actions, [[governance]], ...) to make the protocol fit their network.
 - We need a social network that does not cause divisiveness and negativity that is currently the natural by-product of optimizing for greater engagement.
-- How can the network [[Incentives |incentivize]] healthy conversations and encourage nuanced [[Resolving Disagreement |discussions]]?
+- How can the network [[Incentives|incentivize]] healthy conversations and encourage nuanced [[Resolving Disagreement |discussions]]?
 
 ### Web3 Recommendation Engine
 

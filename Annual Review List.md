@@ -1,6 +1,6 @@
 # Annual Review List
 
-- This Handbook.
+- This [[README|handbook]].
 - [Egoistic Altruism](https://youtu.be/rvskMHn0sqQ): A Selfish Argument for Making the World a Better Place.
 - [Optimistic Nihilism](https://youtu.be/MBRqu0YOH14): A great philosophy.
 - [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html): You have limited time, and you should spend it wisely in things and with people you care about.

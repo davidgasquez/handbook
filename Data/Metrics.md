@@ -10,11 +10,9 @@
 - Common understanding of a metric matters more than the metric precision. That understanding requires some standardization (names, time spans, ...) and that needs [[Coordination]].
   - Teams need to cooperate when defining metrics.
 - Organizations need three things related to metrics:
-
- 1. A [[Metrics |process for defining metrics]].
- 2. A single source of truth for the metrics.
- 3. A way to get metrics to all systems.
-
+  1. A [[Metrics|process for defining metrics]].
+  2. A single source of truth for the metrics.
+  3. A way to get metrics to all systems.
 - Product metrics allow measuring product progress and creating alignment in an outcome-oriented way. There are many product frameworks available to help us think about the right key things to track. Think about **[product metrics that matter](https://uxdesign.cc/product-metrics-that-matter-951b9e4d4eca)** for you.
 - Push a culture of metrics and goals as a source of learning, not promotions or success delegation.
 - Your job isn't to measure things. Your job is to change the product for the better — to create value for the customers in a viable way for the business.
@@ -37,19 +35,13 @@ Remember that there are no objectively right answers. [There is no correct win r
 
 ## [Mistakes in Defining Metrics](https://brianbalfour.com/quick-takes/common-mistakes-defining-metrics)
 
-1. Metrics before Strategy. Your metrics are a reflection of your strategy. They help answer, is the strategy working? Metrics without strategy is looking at a bunch of random numbers. Define the strategy before you define your metrics.
-2. Definition Is More Important Than A Dashboard. People focus on "building a dashboard." Much more important is choosing which metrics are important and defining those metrics well. Defining is more complicated than people think...
-
-- There are many ways to define a retention metric depending on your product. Your dashboard is a method to communicate your metrics, which is important, but useless if you choose and define them poorly.
-
-3. Outputs vs Inputs. Most metrics like a retention metric or revenue metric are output metrics. These are metrics you should monitor. Giving output metrics to teams as [[Goals]] can be dangerous. They need to break them down into input metrics to make them actionable.
-
-- When output metrics are given as goals, teams can often focus on the wrong inputs or thrash between inputs.
-- Focus on usage first (not revenue first). This is the most common version of outputs vs inputs.  Usage creates revenue, revenue does not create usage.  As a result, the most important metrics in terms of creating growth are not your revenue metrics, they are your usage metrics.
-
-4. Mixing Up Retention and Engagement. Retention and engagement are not the same things. Retention is binary.  It answers the question, was this person active within my defined time period?  Yes or no. Engagement is is depth. It answers the question, how active were they within the defined timed period? 0→N. Engagement is one of three major inputs into driving retention.
-5. Customers vs Users. A customer and a user is not the same thing in most business models.  A customer is defined as the person/group that is paying you.  A user is a person using the product.
-
+- Metrics before Strategy. Your metrics are a reflection of your strategy. They help answer, is the strategy working? Metrics without strategy is looking at a bunch of random numbers. Define the strategy before you define your metrics.
+- Definition Is More Important Than A Dashboard. People focus on "building a dashboard." Much more important is choosing which metrics are important and defining those metrics well. Defining is more complicated than people think... There are many ways to define a retention metric depending on your product. Your dashboard is a method to communicate your metrics, which is important, but useless if you choose and define them poorly.
+- Outputs vs Inputs. Most metrics like a retention metric or revenue metric are output metrics. These are metrics you should monitor. Giving output metrics to teams as [[Goals]] can be dangerous. They need to break them down into input metrics to make them actionable.
+  - When output metrics are given as goals, teams can often focus on the wrong inputs or thrash between inputs.
+  - Focus on usage first (not revenue first). This is the most common version of outputs vs inputs.  Usage creates revenue, revenue does not create usage.  As a result, the most important metrics in terms of creating growth are not your revenue metrics, they are your usage metrics.
+- Mixing Up Retention and Engagement. Retention and engagement are not the same things. Retention is binary.  It answers the question, was this person active within my defined time period?  Yes or no. Engagement is is depth. It answers the question, how active were they within the defined timed period? 0→N. Engagement is one of three major inputs into driving retention.
+- Customers vs Users. A customer and a user is not the same thing in most business models.  A customer is defined as the person/group that is paying you.  A user is a person using the product.
 - In subscription products, oftentimes there are multiple users associated with a single customer.  Or people are users before they are a customer.  You need to separate the definition and language between these two things for teams to clearly act on them.
 
 ## Principles for a [Metrics Platform](https://medium.com/airbnb-engineering/airbnb-metric-computation-with-minerva-part-2-9afe6695b486)

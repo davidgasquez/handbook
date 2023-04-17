@@ -12,7 +12,7 @@
 - Any system that must pass information between multiple, tightly integrated subsystems, there is a well understood concept of maximum sustainable load. We know that number to be roughly 60% of maximum possible load for all systems.
 - [When solving a problem-you-don't-understand, slack gives you space for your shower thoughts to be in explore mode and go deeper instead of having to take action immediately](https://www.lesswrong.com/posts/fwSDKTZvraSdmwFsj/slack-gives-you-space-to-notice-reflect-on-subtle-things).
 
-### Examples of Slack
+## Examples
 
 - Money not budgeted for anything in particular, or which can easily be spent on something else instead, is financial slack.
 - [[Time]] not scheduled for anything in particular, or which can easily be rescheduled, is time slack.

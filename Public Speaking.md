@@ -7,7 +7,7 @@ Some great advice for [public speaking presentations](http://www.jilles.net/perm
 - Don't expose one bullet point of a list at a time. Your audience will ask to go back a slide or two, you end up half way in a build, or worse, with an empty slide. None of this is needed.
 - Don't just read the words on a page or sound like you’re delivering a memorized speech.
 - [The best talks are stories. The best stories involve repetition.](https://speakerdeck.com/holman/the-talk-on-talks) Tell a personal story to make your ideas more sticky.
-	- Adjust your tempo of speaking to match the urgency of the story.
+  - Adjust your tempo of speaking to match the urgency of the story.
 - Anticipate the audience’s skepticism and use it to your advantage.
 - Use fewer words. There is a place for details and context, but the most important is the actual message you want to get across.
 - Have a summary. Aim to have 3 big points/takeaways.
