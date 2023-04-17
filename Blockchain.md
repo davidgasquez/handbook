@@ -1,6 +1,6 @@
 # Blockchain
 
-- [A blockchain is a decentralized database](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
+- [A blockchain is a decentralized [[Databases|database]]](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
 - Blockchain solve the Byzantine Generals Problem: [How do participants in a decentralized network communicate and coordinate with each other towards some action without relying on a trusted third-party?](https://a16z.com/2019/11/08/crypto-glossary/).
   - Blockchains are "trustless". There are mechanisms in place by which all parties in the [[Systems |system]] can reach a consensus on what the canonical truth is.
   - Power and trust is distributed (or shared) among the network's stakeholders (e.g. developers, miners, and consumers), rather than concentrated in a single individual or entity (e.g. banks, governments, and financial institutions).

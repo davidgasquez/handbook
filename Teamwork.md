@@ -3,7 +3,7 @@
 - Explicitly define the [[values]] and desired [[culture]] of your team.
 - Share a vision to make [loosely coupled, tightly aligned teams](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/). Then, define the strategy with [[Writing Team Key Results |great key results]].
   - When coming up with a long-term vision is important to stay abstract.
-    - Stick to defining components and keep concepts generic (cache, database, algorithm, ...). Show how the components interact.
+    - Stick to defining components and keep concepts generic (cache, [[Databases]], algorithm, ...). Show how the components interact.
     - Define boundaries and limitations of each component.
 - Work in the open and [[Documentation |document]] everything.  Transparency increases understanding and reduces synchronization challenges. **[Emulate Open Source projects](https://tomayko.com/blog/2012/adopt-an-open-source-process-constraints) and [[Remote Jobs |remote companies]]**.
 - To make everyone more productive and happy: **Make feedback loops fast**. [Some best practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/):
