@@ -2,7 +2,7 @@
 
 ![[Quotes#^a6f960]]
 
-Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, [[Resolving Disagreement |discussion]], [[Talking|talking]],  [[Learning|education]], [[listening]], and many more. Communication is a skill that is learnable.
+Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, [[Resolving Disagreement|discussion]], [[Talking|talking]],  [[Learning|education]], [[listening]], and many more. Communication is a skill that is learnable.
 
 **The person who tells the most compelling story wins**. Not the best idea. Just the story that catches people's attention and gets them to nod their heads. Tell people what they want to hear and you can be wrong indefinitely without penalty. [Crafting and telling stories is part of what makes humans humans](https://www.notboring.co/p/story-time). Stories let us coordinate across time and space.
 

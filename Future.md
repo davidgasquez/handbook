@@ -13,7 +13,7 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
 - More experimentation around [[Politics|governance]]:
   - Charter cities.
   - [Holacracy](https://en.m.wikipedia.org/wiki/Holacracy).
-  - [[Decentralized Autonomous Organizations |Cooperatives/DAOs]].
+  - [[Decentralized Autonomous Organizations|Cooperatives/DAOs]].
 - Cities are friendly to humans & wildlife, not cars.
 - More experimentation around [[Learning]] and education (e.g: [teaching game theory](https://twitter.com/BoyanSlat/status/1469063939417907204) as a subject [in the modern curriculum](https://seths.blog/2021/09/the-modern-curriculum/))
   - More people aware of the trick our mind does to us ([Mind Field](https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2) and [The Story Of Us](https://waitbutwhy.com/2019/08/story-of-us.html)) as well as [how diverse humans are](https://youtu.be/fC5qucSk18w).

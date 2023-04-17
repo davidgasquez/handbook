@@ -7,6 +7,6 @@
   - [Meadmaker's SQL Style Guide](https://github.com/meadmaker/sql-style-guide)
   - [SQL Style Guide](https://www.sqlstyle.guide/)
 
-### Resources
+## Resources
 
 - [Build your own database on Rust](https://github.com/adambcomer/database-engine)
