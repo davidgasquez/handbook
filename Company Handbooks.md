@@ -31,3 +31,4 @@ Handbooks are key for good [[Company Knowledge Management]].
 - [Hypha](https://handbook.hypha.coop/)
 - [Enspiral](https://handbook.enspiral.com/)
 - [Root Systems](https://github.com/root-systems/handbook)
+- [Life Itself](https://lifeitself.org/tao/)

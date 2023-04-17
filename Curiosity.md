@@ -11,3 +11,4 @@
   - [If you think you're going to regret not doing something, you should probably do it](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short). Most people regret far more things they didn't do than things they did do.
 - [Find your way around the inertia of helpless mentality](https://www.youtube.com/watch?v=YMPzDiraNnA). You probably have control of more things that you think! Knowing this fact changes the way you see your circle of control.
 - [Practice hunting for bugs](https://radimentary.wordpress.com/2018/01/29/hammertime-day-1-bug-hunt/?utm_source=pocket_mylist)! A bug is anything in life that needs improvement. Even if something is going well, if you can imagine it going better, there's a bug.
+- Knowing we really want is hard and takes effort. Explore yourself and your [[Values]].
