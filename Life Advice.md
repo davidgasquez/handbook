@@ -12,7 +12,7 @@ If you listen to successful people talk about their approaches, remember that al
 2. It is actionable
 3. It is based on some true insight
 
-### Generic Advice
+## Generic Advice
 
 - Experiment and iterate.
 - Keep it simple.
@@ -27,6 +27,7 @@ If you listen to successful people talk about their approaches, remember that al
 - [Life Hacks](https://guzey.com/lifehacks/).
 - [Quick n Dirty Guide: How to get your life together](https://www.reddit.com/r/selfimprovement/comments/j9i0bx/quick_n_dirty_guide_how_to_get_your_life/).
 - [35 life lessons I wish I learned years earlier](https://www.reddit.com/r/selfimprovement/comments/l5fuxd/35_life_lessons_i_wish_i_learned_years_earlier/).
+- [40 Lessons from 30 Years](https://blog.nateliason.com/p/40-lessons-from-30-years).
 - [Some things Nat Friedman believe](https://nat.org/).
 - [Ask HN: What was the biggest contributor to your happiness in the past year?](https://news.ycombinator.com/item?id=26528011).
 - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/), [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/), and, [103 Bits of Advice I Wish I had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/).

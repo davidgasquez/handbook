@@ -5,37 +5,37 @@
 - Read about topics you care, observe the world around you and keep a beginner's mind (*shoshin*).
 - Don't be afraid to [[Asking Questions |ask a question]] that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
 - You can apply [The Feynman Technique](https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/):
-	1. Identify the subject.
-	2. Teach it to a child. Use simple vocabulary and make it short. Keep questions and answers simple.
-	3. Identify your knowledge gaps. What are you missing?
-	4. Organize and Simplify. Tell a story to teach. Analogies help here!
-- Follow the guidelines stated in Coursera's [_Learning How to Learn_ summary](https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/).
+  1. Identify the subject.
+  2. Teach it to a child. Use simple vocabulary and make it short. Keep questions and answers simple.
+  3. Identify your knowledge gaps. What are you missing?
+  4. Organize and Simplify. Tell a story to teach. Analogies help here!
+- Follow the guidelines stated in Coursera's [*Learning How to Learn* summary](https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/).
 - Write down the process that better worked for you. Keep improving the process with the learning of failed experiences. [Learn iterating over the process](https://twitter.com/naval/status/1052856864965152769).
 - There are two categories of learning. [Mix them both to learn faster](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/).
-	1. **Guided:** Reading a tutorial, taking a course, watching a YouTube video. Anything where you're following a guide.
-	2. **Unguided:** Creating your own projects from scratch, extending a tutorial, looking things up in the docs. Anything where you aren't following a guide.
+  1. **Guided:** Reading a tutorial, taking a course, watching a YouTube video. Anything where you're following a guide.
+  2. **Unguided:** Creating your own projects from scratch, extending a tutorial, looking things up in the docs. Anything where you aren't following a guide.
 - Learn to [[Asking Questions |ask better questions]]. Distill what you know to figure out what part you're missing or which link is missing.
 - Learn by [[Writing]]:
-	1.  Pick a topic.
-	2. Read and/or discuss with others (a bit).
-	3. Explain and defend your current, incredibly premature hypothesis, in writing (or conversation).
-	4. Find and list weaknesses in your case.
-	5. Pick a subquestion and do more reading/discussing.
-	6. Revise your claim / switch sides.
-	7. Repeat steps 3-6 a bunch.
+  1. Pick a topic.
+  2. Read and/or discuss with others (a bit).
+  3. Explain and defend your current, incredibly premature hypothesis, in writing (or conversation).
+  4. Find and list weaknesses in your case.
+  5. Pick a subquestion and do more reading/discussing.
+  6. Revise your claim / switch sides.
+  7. Repeat steps 3-6 a bunch.
 - People learn when they're surprised.
 - There are two modes of thinking:
-	- Focused: When you're actively trying to learn something. One task at a time.
-	- Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks (playing, sleeping, doing exercise, ...).
+  - Focused: When you're actively trying to learn something. One task at a time.
+  - Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks (playing, sleeping, doing exercise, ...).
 - Reading is a meta-skill. Learn to read and understand so you can trade time reading for some skills.
-- Experience ideas directly. Use the [ADEPT](https://betterexplained.com/articles/adept-method/) method as a checklist for what helps a concept click:
-	- Have an Analogy about it.
-	- Visualize it in a Diagram.
-	- Gather Examples. Examples are an amazing way to learn things!
-		- Examples are an excellent way to resolve lossy information transfer - they’re a completely different channel of communication than normal. If nothing else, they serve as an error check.
-		- Examples are a great way to transfer tacit knowledge, without necessarily making it legible - this is what it means to build intuition.
-	- Come with a Plain-English description of the concept.
-	- Then, dive into the Technical side.
+- Experience ideas directly. Use the [ADEPT](https://betterexplained.com/articles/adept-method/) method as a [[Checklist]] for what helps a concept click:
+  - Have an Analogy about it.
+  - Visualize it in a Diagram.
+  - Gather Examples. Examples are an amazing way to learn things!
+    - Examples are an excellent way to resolve lossy information transfer - they’re a completely different channel of communication than normal. If nothing else, they serve as an error check.
+    - Examples are a great way to transfer tacit knowledge, without necessarily making it legible - this is what it means to build intuition.
+  - Come with a Plain-English description of the concept.
+  - Then, dive into the Technical side.
 - When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [[Mental Models |mental model]].
 - Learning to program shapes the mind the same way learning a new language does. Each new word, concept or expression helps you model the world.
 - Use [[Spaced Repetition]] and get some [[Sleep]].
@@ -44,16 +44,18 @@
 - One of the most important things to encourage in the early stages of a new skill is the development of good form. Once you have it, trying harder works, whereas if you don't have it, trying harder just leads to a lot of frustration and discouragement. And of course, if you have bad [[Habits]] right from the start, they're only going to get harder and harder to fix as you ingrain them through practice.
 - Most knowledge worth having comes from **practice**. It comes from **doing**. [It comes from **creating**](https://blog.tjcx.me/p/consume-less-create-more).
 - [To get real expertise, you need these criteria](https://youtu.be/5eW6Eagr9XA):
-	1. Many repeated attempts with feedback.
-	2. Valid environment (few random events, controlled, ...).
-	3. Timely feedback.
-	4. Deliberate practice.
+  1. Many repeated attempts with feedback.
+  2. Valid environment (few random events, controlled, ...).
+  3. Timely feedback.
+  4. Deliberate practice.
 - Knowledge is built up through layers. You need more basic knowledge before you can access more advanced knowledge. You can’t learn things that are too far removed from your knowledge tree.
 - Lasting and solid foundations are made by experiencing.
 - For some subjects, [there's no speed limit](https://sive.rs/kimo). If you're more driven than most people, you can do way more than anyone expects.
 - A great way to spot what is probably true in any field is to find multiple people with different worldviews on a topic and see which parts do they agree upon.
 - [Practice, practice, practice](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy). Spend [[time]] in the field, practicing the relevant skills first-hand; see both what works and what makes sense. Collect data; run trials. See what other people suggest and test those things yourself. Directly study which things actually produce good results.
-> Even if Louis XV had offered a large monetary bounty for ways to immunize himself against the pox, he would have had no way to distinguish Benjamin Jesty from the endless crowd of snake-oil sellers and faith healers and humoral balancers. Indeed, top medical “experts” of the time would likely have warned him _away_ from Jesty. — [What Money Cannot Buy](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy)
+
+> Even if Louis XV had offered a large monetary bounty for ways to immunize himself against the pox, he would have had no way to distinguish Benjamin Jesty from the endless crowd of snake-oil sellers and faith healers and humoral balancers. Indeed, top medical “experts” of the time would likely have warned him *away* from Jesty. — [What Money Cannot Buy](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy)
+
 - We all have a web of concepts in our minds, our **knowledge graph**. The collection of all the concepts we understand, all of our existing knowledge and intuitions, connected together. And you have learned something when you can convert it to concepts and **connect it to your existing understanding**. This means not just understanding the concept itself, but understanding where it fits into the bigger picture, where to use it, etc.
 
 ## Learning Soft Skills

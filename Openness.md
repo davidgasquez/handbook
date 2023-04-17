@@ -5,15 +5,16 @@
 - Share your decisions, state, and ideas early so flaws arise earlier in the process.
 - Keep your [[Identity]] small.
 - Your job isn't to enforce your vision of the world upon everyone. Live your own life the way you want to live it and let other people live their own lives the way they want to live them.
-	- [Don't yell at people who are trying to go off and do their own thing quietly with a group of voluntarily consenting friends](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism).  If people want to go do their own thing in a way that harms no one else, you _let_ them.
-	- Don't criticize some [group of people doing their own thing without harming anyone](https://astralcodexten.substack.com/p/more-antifragile-diversity-libertarianism) or try to browbeat them into doing the same thing as everyone else. That group might be just a tiny bit of [[slack]] away from creating something amazing!
-	- Pick a belief you hold strongly and attempt an ideological Turing Test (defend the opposite as someone that really believes it so good no one can distinguish you from them).
+  - [Don't yell at people who are trying to go off and do their own thing quietly with a group of voluntarily consenting friends](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism).  If people want to go do their own thing in a way that harms no one else, you _let_ them.
+  - Don't criticize some [group of people doing their own thing without harming anyone](https://astralcodexten.substack.com/p/more-antifragile-diversity-libertarianism) or try to browbeat them into doing the same thing as everyone else. That group might be just a tiny bit of [[slack]] away from creating something amazing!
+  - Pick a belief you hold strongly and attempt an ideological Turing Test (defend the opposite as someone that really believes it so good no one can distinguish you from them).
 - Communicate any uncertainty you may feel about the relevance of your own opinions.
 - One of the hardest exercises is to receive [[feedback]]. Ask for it and be ready to change. Aim to improve once you've gathered feedback and reflected on it.
 - Criticizing your in-group takes courage but is possible.
 - Experience things again (books, movies, ...). They might be the same, but you change and are a different person now. The world changes, too. No one steps in the same river twice.
 - Look for new experiences. It is the most important factor for [memorable experiences](https://travelopment.com/how-to-create-memorable-experiences/). When all days follow the same routine, [there is no way to differentiate the memories](https://www.youtube.com/watch?v=zHL9GP_B30E).
-	- Keep high experimental velocity. Try more things quickly!
+  - Keep high experimental velocity. Try more things quickly!
 - [When you learn an interesting idea, or read an article, it takes 0 effort to think through friends who might enjoy it, and pass it on](https://www.neelnanda.io/blog/mini-blog-post-10-seek-positive-externalities). This applies all the more so to bigger things - jobs worth applying to, other people they should talk to, etc. Receiving opportunities has (essentially) 0 downsides on their end.
 - Do stuff in public. Think in public. Write in public. Ship in public. [Doing things publicly attracts like-minded people and opportunities that you wouldn't be able to easily otherwise find](https://www.lesswrong.com/posts/dEAmXSyXnpFFc9wgd/21-on-21).
+- You find what you like by trying it, not by thinking about it.
 - Digital things don't have to be skeuomorphic.

@@ -18,7 +18,7 @@ We do not live in an ideal world, so we need to be very deliberate and thoughtfu
 - Do not simply copy what other companies are doing (do not assume that other companies tested and validated something).
 - Choose one primary metric in advance to determine "winner" while keeping a few guardrail metrics.
 - [You're probably **not measuring what you thought you were measuring**](https://www.lesswrong.com/posts/9kNxhKWvixtKW5anS/you-are-not-measuring-what-you-think-you-are-measuring). But if you measure enough different stuff, you might figure out what you’re actually measuring.
-	- Log generously.
+  - Log generously.
 - Stack rank all ideas based on level of effort and potential impact -- also required sample size/run time to get results.
 - Continuously validate tracking implementation.
 - Think carefully when choosing your randomization unit.
@@ -32,20 +32,20 @@ You can use [online calculators](http://experimentcalculator.com/) to estimate t
 ### Experiment Template
 
 - Experiment summary:
-	- We believe that... {describe your hypothesis in one sentence}.
-	- To verify that, we will... {describe your test in one sentence}.
-	- And we’ll measure the impact on... {metrics}.
+  - We believe that... {describe your hypothesis in one sentence}.
+  - To verify that, we will... {describe your test in one sentence}.
+  - And we’ll measure the impact on... {metrics}.
 - Hypothesis. What are we expecting to happen? What can we monitor to detect problems with this?
 - Business problem
 - Supporting data
 - Required tracking
 - [Expected outcome](https://about.gitlab.com/handbook/business-technology/data-team/experimentation-best-practices/):
-	- Define the primary metric that we want the experimentation to move. This is the metric we use to define the rollout scenario.
-	- Define the secondary metric(s): There are metrics that help us validate and understand in detail why and how the primary metric was impacted-
-	- Define Guardrail metrics: This helps us ensure we are not harming the business in the long run for short-term gains.
+  - Define the primary metric that we want the experimentation to move. This is the metric we use to define the rollout scenario.
+  - Define the secondary metric(s): There are metrics that help us validate and understand in detail why and how the primary metric was impacted-
+  - Define Guardrail metrics: This helps us ensure we are not harming the business in the long run for short-term gains.
 - Experiment design & implementation
-	- Rollout plan
-	- Implementation Checklist (docs are present, tested on staging, marketing coordination, ...)
+  - Rollout plan
+  - Implementation [[Checklist]] (docs are present, tested on staging, marketing coordination, ...)
 - Known Assumptions
 
 ## Experimentation Mindset

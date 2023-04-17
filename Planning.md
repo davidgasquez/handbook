@@ -2,7 +2,7 @@
 
 ![[Quotes#^07c32d]]
 
-Whether it comes naturally or is the result of a concerted effort and process, every [[Systems |system]] plans to achieve the same benefits:
+Whether it comes naturally or is the result of a concerted effort and process, every [[Systems|system]] plans to achieve the same benefits:
 
 - [[Focus]] on the right priorities.
 - Clear Ownership.

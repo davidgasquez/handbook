@@ -42,3 +42,4 @@
 - Tools and ideas are not neutral. They have baked some principles and values.
   - E.g: [[Social Media Issues]], [[Blockchain]] protocols that use PoW wasting energy.
   - A person holding a hammer interacts with the world in a different way and could be considered a different entity. Same with ideas.
+- Most of the world is held together with duct tape so don't be surprised when it breaks.

@@ -14,6 +14,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
   - Complexity is the single major difficulty in the successful development of large-scale software systems.
   - Write code that's easy to delete.
+  - Reuse [patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns).
 - **Do one thing and do it well**.
   - By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
   - Design composable primitives.

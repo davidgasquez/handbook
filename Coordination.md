@@ -21,6 +21,7 @@
 - If we imagine human society as it's own organism. We need processes and other coordination tools to make it remove the hand from the fire when it starts to burn.
   - The hand doesn't know what to do, but relies information to the brain, that makes the appropriate changes.
   - Something similar could be achieved at a society level, where pain triggers processes that make it stop.
+- Only a few bits of information are possible to reliably convey to a large number of people. [The larger the group, the smaller the message needs to be](https://www.lesswrong.com/posts/4ZvJab25tDebB8FGE/you-get-about-five-words).
 - The requirements to govern a commons without tragedy:
   - Clear boundaries.
   - Managed by locals.
