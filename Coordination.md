@@ -31,10 +31,10 @@
   - Cheap, accessible means of conflict resolution.
   - Self-determination.
 
-[Teamwork]: Teamwork "Teamwork"
-[Cooperatives]: Cooperatives "Cooperatives"
-[Decentralized Autonomous Organizations]: <Decentralized Autonomous Organizations> "Decentralized Autonomous Organizations"
-[Teamwork|groups of actors to work together]: Teamwork "Teamwork"
-[organizations]: Organizations "Organizations"
-[Governance]: Governance "Governance"
-[processes]: Processes "Processes"
+[Teamwork]: Teamwork.md "Teamwork"
+[Cooperatives]: Cooperatives.md "Cooperatives"
+[Decentralized Autonomous Organizations]: <Decentralized Autonomous Organizations.md> "Decentralized Autonomous Organizations"
+[Teamwork|groups of actors to work together]: Teamwork.md "Teamwork"
+[organizations]: Organizations.md "Organizations"
+[Governance]: Governance.md "Governance"
+[processes]: Processes.md "Processes"
