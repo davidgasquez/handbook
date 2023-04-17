@@ -11,7 +11,7 @@ Most data around this crisis was incomplete, constantly evolving, and [[Politics
 - [Justified Practical Advice](https://www.lesswrong.com/posts/LwcKYR8bykM6vDHyo/coronavirus-justified-practical-advice-thread) and [What should we do once infected with COVID-19](https://www.lesswrong.com/posts/F3q7eL7pdQqhWFTYh/what-should-we-do-once-infected-with-covid-19#NR3wH8DxZX2eBBvG7) are useful once infected.
 - [COVID-19 Resources for the Elderly and Families](https://nanha.org/2020/09/17/covid-19-resources-for-the-elderly-and-families/).
 - [Distant Socializing, during Physical Distancing](https://github.com/Pezmc/distant-socializing/blob/master/README.md) - Suggested distant socializing tools, games and activities to help keep in touch with family, friends and loved ones during social distancing and the coronavirus (COVID-19) pandemic.
-	- There are lots of [[Social Games]] out there!
-	- [Activity List](https://www.reddit.com/r/nosurf/wiki/activities).
-	- [40 meaningful things to do when stuck at home in a pandemic](https://www.clearerthinking.org/post/2020/03/19/40-meaningful-things-to-do-when-stuck-at-home-in-a-pandemic).
+  - There are lots of [[Social Games]] out there!
+  - [Activity List](https://www.reddit.com/r/nosurf/wiki/activities).
+  - [40 meaningful things to do when stuck at home in a pandemic](https://www.clearerthinking.org/post/2020/03/19/40-meaningful-things-to-do-when-stuck-at-home-in-a-pandemic).
 - [How to have a happy quarantine](https://www.lesswrong.com/posts/eeZQunErdm6oWyhTy/how-to-have-a-happy-quarantine).

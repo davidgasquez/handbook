@@ -1,44 +1,44 @@
 # Mindfulness
 
 - Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful and [[Meditation |mindful]] about it. You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment as a child does. [Life is short](http://paulgraham.com/vb.html), [enjoy the silly bit in between](https://youtu.be/-mu780uB7mI).
-	- [Humans quickly return to a relatively stable level of happiness despite major positive or negative events or life changes](https://en.wikipedia.org/wiki/Hedonic_treadmill). Optimize for tranquility in your life.
+  - [Humans quickly return to a relatively stable level of happiness despite major positive or negative events or life changes](https://en.wikipedia.org/wiki/Hedonic_treadmill). Optimize for tranquility in your life.
 - Make [[Time]] to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your [[Time]]. Look at the big picture and don't climb the current mountain out of inertia (ranks in business, status among friends, ...). [If you haven't done it already, schedule a day and time when you can realistically assess how you want your life to affect you and other people, and what you must change to better achieve this](https://www.lesswrong.com/posts/4psQW7vRwt7PE5Pnj/too-busy-to-think-about-life).
 - One task at a time. [[Focus |No distractions]].
 - **KISS**. What would less/simple look like?
-	- When [[Communication |communicating]], do it in a clear and concise way.
-		- Sometimes, even if your intention is good, signal might turn into noise and won't be interpreted the way you expect.
-	- When [[Problem Solving |facing a problem]], prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would it look like if it was simple?
-	- Remove friction. Focus on essentials. Complexity itself has costs. It makes life harder to manage, reduces our degrees of freedom, and so forth. Often people do not factor those costs into their decisions as they incrementally and inattentively complexify their lives. A person with the virtue of simplicity asks, of any decision they make, "does this make my life more complex, and if so is that worth it?"
+  - When [[Communication |communicating]], do it in a clear and concise way.
+    - Sometimes, even if your intention is good, signal might turn into noise and won't be interpreted the way you expect.
+  - When [[Problem Solving |facing a problem]], prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would it look like if it was simple?
+  - Remove friction. Focus on essentials. Complexity itself has costs. It makes life harder to manage, reduces our degrees of freedom, and so forth. Often people do not factor those costs into their decisions as they incrementally and inattentively complexify their lives. A person with the virtue of simplicity asks, of any decision they make, "does this make my life more complex, and if so is that worth it?"
 - Live smarter, not harder. Don't complain about stuff you can easily fix, [[Automation |automate]], or delegate. Money can buy [[time]].
 - Keep Calm. Own and deal with your emotions. [[Stoicism |Focus on what you can control]]. Try to plan the possible outcomes and don't rush.
 - Think, understand, and listen before [[Communication |communicating]].
 - Don't worry too much about things that won't matter to you or your loved ones in 10 years.
 - Assume positive intent. No one is your enemy, you're an NPC in their game. Everyone is the main character of their own movie (*sonder*).
-	- Every person is inherently valuable independent of behavior and beliefs. Create safe spaces for people, and a dangerous space for ideas ([idea labs](https://twitter.com/waitbutwhy/status/1278035160454348800)).
-	- When you have a nice thing to say about someone, say it to them right away, instead of waiting. You might not see them again.  [Optimize for sincerity](https://www.neelnanda.io/blog/mini-blog-post-10-seek-positive-externalities).
-	- Don't punish people for trying. You teach them to not try things or not to try them with you.
-	- Most of the harm we do as humans is not due to cruelty, but rather to indifference.
+  - Every person is inherently valuable independent of behavior and beliefs. Create safe spaces for people, and a dangerous space for ideas ([idea labs](https://twitter.com/waitbutwhy/status/1278035160454348800)).
+  - When you have a nice thing to say about someone, say it to them right away, instead of waiting. You might not see them again.  [Optimize for sincerity](https://www.neelnanda.io/blog/mini-blog-post-10-seek-positive-externalities).
+  - Don't punish people for trying. You teach them to not try things or not to try them with you.
+  - Most of the harm we do as humans is not due to cruelty, but rather to indifference.
 - Prefer delayed gratification, making short term sacrifices to get long term benefits.
 - Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to [[Making Decisions |make decisions]] and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.
-	- Be the friend who makes a decisive call when everyone else is waffling about what to eat.
+  - Be the friend who makes a decisive call when everyone else is waffling about what to eat.
 - Don't judge. Reality is neutral. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Why are you taking something so seriously?
-	- One person morally disgusting behavior is another person perfectly normal lifestyle. Most of the time you can't decide what is wrong or good because you have very limited experiences.
+  - One person morally disgusting behavior is another person perfectly normal lifestyle. Most of the time you can't decide what is wrong or good because you have very limited experiences.
 - Be aware of your internal state. Making this more visible makes a better [[Feedback Loops |feedback loop]]. Ask yourself, as many times as possible every day "Am I conscious now?". Our internal state shapes how we experience the external state.
 - Humans are messy and life is messy. Yet we try to fit everything into [human made buckets](https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/), losing most of the nuance in the process.
-	- [The discrete categories we apply to continuous concepts—from the colors we see and the sounds we hear, to the academic subjects we define and the races we project onto people—are both arbitrary and deeply consequential.](https://benn.substack.com/p/gerrymandering)
-	- The categories we create, though necessary to keep us from being overwhelmed by this infinite spectrum, affect what we can actually see. **The artificial boundaries we define eventually come to define us.**
-	- [When you think in categories, you underestimate how different (in may other dimensions) two facts are when they are in the same category, you overestimate how different they are when there is a boundary between them and, when you pay attention to these boundaries you don't realize about the big picture](https://www.youtube.com/watch?v=NNnIGh9g6fA).
-	- We rationalize things through one lens. Real causes are gray and hard to understand.
+  - [The discrete categories we apply to continuous concepts—from the colors we see and the sounds we hear, to the academic subjects we define and the races we project onto people—are both arbitrary and deeply consequential.](https://benn.substack.com/p/gerrymandering)
+  - The categories we create, though necessary to keep us from being overwhelmed by this infinite spectrum, affect what we can actually see. **The artificial boundaries we define eventually come to define us.**
+  - [When you think in categories, you underestimate how different (in may other dimensions) two facts are when they are in the same category, you overestimate how different they are when there is a boundary between them and, when you pay attention to these boundaries you don't realize about the big picture](https://www.youtube.com/watch?v=NNnIGh9g6fA).
+  - We rationalize things through one lens. Real causes are gray and hard to understand.
 - Recognize that tradeoffs happen everywhere. List them explicitly.
-	- We trade [[Time]] against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.
+  - We trade [[Time]] against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.
 - Appreciate what you have. [Don't overestimate the hedonic impact of future events](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html). [Showing gratitude for the good things you have is the most powerful happiness boosting activity there is](https://youtu.be/WPPPFqsECz0).
 - There's no second chance at life. [This is the one chance you have to live as a talking monkey in space at the best point in history as the smartest species on the planet using magic on a daily basis like the internet and jet planes and smartphones with access to all human knowledge at your fingertips and the chance to talk about how cool being alive is](https://youtu.be/VLAAy_pM-k8).
 - Do not change because of what others or society want, change because of what you want. It's easy to get carried by the environment and start doing things you don't want to do.
 - Ignore the irrational and [unproductive obsession](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) with what other people think of you. Figure out what actually matters to you and live according to it.
 - [What gives you energy and what sucks your energy?](https://twitter.com/rrhoover/status/1346268904239161344) Figure it out and act accordingly.
 - Avoid conspicuous consumption.
-- Overcome the bystander effect:  there is something that everyone wants to _happen_ but nobody wants to be the one to _do_ it. Develop the reflex of noticing bystander apathy in your environment, and actively do the thing. E.g. ask a question when there’s a confusing point in a talk, notice tiny tragedies of the commons (an empty jug of water that nobody wants to refill), notice when everyone feels uncomfortable being the first to, say, dance at a party, and just do it.
+- Overcome the bystander effect:  there is something that everyone wants to *happen* but nobody wants to be the one to *do* it. Develop the reflex of noticing bystander apathy in your environment, and actively do the thing. E.g. ask a question when there's a confusing point in a talk, notice tiny tragedies of the commons (an empty jug of water that nobody wants to refill), notice when everyone feels uncomfortable being the first to, say, dance at a party, and just do it.
 - [Our behavior is made up of a complex and chaotic soup of so many factors that it's downright silly to think there's a singular, autonomous "you" calling the shots](https://youtu.be/GRYcSuyLiJk).
 - Tools and ideas are not neutral. They have baked some principles and values.
-	- E.g: [[Social Media Issues]], [[Blockchain]] protocols that use PoW wasting energy.
-	- A person holding a hammer interacts with the world in a different way and could be considered a different entity. Same with ideas.
+  - E.g: [[Social Media Issues]], [[Blockchain]] protocols that use PoW wasting energy.
+  - A person holding a hammer interacts with the world in a different way and could be considered a different entity. Same with ideas.
