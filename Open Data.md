@@ -74,7 +74,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - A data package is an URI ([like in Deno](https://deno.land/manual@v1.31.2/examples/manage_dependencies)). You can import from an URL (`data add example.com/dataset.yml` or `data add example.com/hub_curated_datasets.yml`).
   - As [Rufus Pollock puts it](https://datahub.io/docs/dms/notebook#go-modules-and-dependency-management-re-data-package-management-2020-05-16-rufuspollock), Keep it as simple as possible. Store the table location and schema and get me the data on the hard disk fast.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
-  - Datasets could be linked to a [[Open Data#Datafile |Datafile]]/`datapackage.yml` with description, default visualizations, WASM linked code...
+  - Datasets could be linked to a [[Open Data#Datafile|Datafile]]/`datapackage.yml` with description, default visualizations, WASM linked code...
   - One repository, one dataset or catalog/hub.
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
     - For example, bring all HF datasets by making a simple PR on their repository that generates a `datapackage.yml` reusing their parquet files.
@@ -145,6 +145,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - What is the incentive for people to adopt it?
   - [If everybody could converge to it, e.g: _"datapackage.json_" as a metadata and schema description standard, then, an ecosystem of utilities and libraries for processing data would take advantage of it](https://news.ycombinator.com/item?id=15346836).
 - How can LLMs help "building bridges"?
+  - They're blurring the line between structured and unstructured data.
   - E.g: point a GPT wrapper to a GitHub repository and get the auto-generated `datapakage.json`. It should infer files, schema, and types and generate some metadata for us. Then, a "dataset package" can be anything the tool can crawl.
 - [[Language Models Applications|LLMs can parse unstructured data (CSV) and also generate structure from any data source (scrapping websites)]] making it easy to [create datasets from random sources](https://tomcritchlow.com/2021/03/29/open-scraping-database/).
 - How can we stream new data reliably? E.g: some datasets like Ethereum `blocks` are not static.
@@ -155,6 +156,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - How to work with private data?
   - Homomorphic encription?
 - How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works? If you can envision the table you would like to have in front of you, i.e., you can write down the attributes you would like the table to contain, then the system will find it for you.
+  - This probably needs a [[Knowledge Graph]]!
 
 ### Related Projects
 
