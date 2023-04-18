@@ -56,7 +56,7 @@
 
 > Even if Louis XV had offered a large monetary bounty for ways to immunize himself against the pox, he would have had no way to distinguish Benjamin Jesty from the endless crowd of snake-oil sellers and faith healers and humoral balancers. Indeed, top medical “experts” of the time would likely have warned him *away* from Jesty. — [What Money Cannot Buy](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy)
 
-- We all have a web of concepts in our minds, our **knowledge graph**. The collection of all the concepts we understand, all of our existing knowledge and intuitions, connected together. And you have learned something when you can convert it to concepts and **connect it to your existing understanding**. This means not just understanding the concept itself, but understanding where it fits into the bigger picture, where to use it, etc.
+- We all have a web of concepts in our minds, our [[Knowledgoe Graph]]. The collection of all the concepts we understand, all of our existing knowledge and intuitions, connected together. And you have learned something when you can convert it to concepts and **connect it to your existing understanding**. This means not just understanding the concept itself, but understanding where it fits into the bigger picture, where to use it, etc.
 
 ## Learning Soft Skills
 
