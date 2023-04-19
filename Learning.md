@@ -32,8 +32,8 @@
   - Have an Analogy about it.
   - Visualize it in a Diagram.
   - Gather Examples. Examples are an amazing way to learn things!
-    - Examples are an excellent way to resolve lossy information transfer - they’re a completely different channel of communication than normal. If nothing else, they serve as an error check.
-    - Examples are a great way to transfer tacit knowledge, without necessarily making it legible - this is what it means to build intuition.
+	- Examples are an excellent way to resolve lossy information transfer - they’re a completely different channel of communication than normal. If nothing else, they serve as an error check.
+	- Examples are a great way to transfer tacit knowledge, without necessarily making it legible - this is what it means to build intuition.
   - Come with a Plain-English description of the concept.
   - Then, dive into the Technical side.
 - When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [[Mental Models |mental model]].
@@ -56,7 +56,7 @@
 
 > Even if Louis XV had offered a large monetary bounty for ways to immunize himself against the pox, he would have had no way to distinguish Benjamin Jesty from the endless crowd of snake-oil sellers and faith healers and humoral balancers. Indeed, top medical “experts” of the time would likely have warned him *away* from Jesty. — [What Money Cannot Buy](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy)
 
-- We all have a web of concepts in our minds, our [[Knowledgoe Graph]]. The collection of all the concepts we understand, all of our existing knowledge and intuitions, connected together. And you have learned something when you can convert it to concepts and **connect it to your existing understanding**. This means not just understanding the concept itself, but understanding where it fits into the bigger picture, where to use it, etc.
+- We all have a web of concepts in our minds, our [[Knowledge Graph]]. The collection of all the concepts we understand, all of our existing knowledge and intuitions, connected together. And you have learned something when you can convert it to concepts and **connect it to your existing understanding**. This means not just understanding the concept itself, but understanding where it fits into the bigger picture, where to use it, etc.
 
 ## Learning Soft Skills
 
