@@ -148,7 +148,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - How can LLMs help "building bridges"?
   - They're blurring the line between structured and unstructured data.
   - E.g: point a GPT wrapper to a GitHub repository and get the auto-generated `datapakage.json`. It should infer files, schema, and types and generate some metadata for us. Then, a "dataset package" can be anything the tool can crawl.
-- [[Language Models Applications|LLMs can parse unstructured data (CSV) and also generate structure from any data source (scrapping websites)]] making it easy to [create datasets from random sources](https://tomcritchlow.com/2021/03/29/open-scraping-database/).
+- [[Large Language Models|LLMs can parse unstructured data (CSV) and also generate structure from any data source (scrapping websites)]] making it easy to [create datasets from random sources](https://tomcritchlow.com/2021/03/29/open-scraping-database/).
 - How can we stream new data reliably? E.g: some datasets like Ethereum `blocks` are not static.
 - Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote source and get it dynamically as needed?
 - Can new table formats play efficiently with IPFS?
