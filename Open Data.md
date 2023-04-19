@@ -78,6 +78,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - One repository, one dataset or catalog/hub.
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
     - For example, bring all HF datasets by making a simple PR on their repository that generates a `datapackage.yml` reusing their parquet files.
+    - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
 - **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations or in the fly when pulling data. The package manager should be **format and storage agnostic**.
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
@@ -157,6 +158,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
   - Homomorphic encription?
 - How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works? If you can envision the table you would like to have in front of you, i.e., you can write down the attributes you would like the table to contain, then the system will find it for you.
   - This probably needs a [[Knowledge Graph]]!
+- How can a [[Knowledge Graph]] [help with the data catalog](https://docs.atomicdata.dev/usecases/data-catalog.html)?
 
 ### Related Projects
 
