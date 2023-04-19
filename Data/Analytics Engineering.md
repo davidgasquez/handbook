@@ -41,6 +41,7 @@
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
 - [Gravity Data](https://github.com/Gravity-Data/gravity-dbt)
 - [Spellbook](https://github.com/duneanalytics/spellbook/)
+- [B2B SaaS](https://github.com/SOMAStandard/soma_b2b_saas)
 
 ### Related [[Podcasts]]
 
