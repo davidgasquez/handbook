@@ -145,6 +145,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - How can datasets be indexed?
 - What is the incentive for people to adopt it?
   - [If everybody could converge to it, e.g: _"datapackage.json_" as a metadata and schema description standard, then, an ecosystem of utilities and libraries for processing data would take advantage of it](https://news.ycombinator.com/item?id=15346836).
+  - Is there a way to use web3 mechanisms to incentivize people? DAOs might be a good fit. Also, companies like [Golden](httpfs://golden.com/) and [index.as](https://index.as/) are doing interesting work on monetizing data curation.
 - How can LLMs help "building bridges"?
   - They're blurring the line between structured and unstructured data.
   - E.g: point a GPT wrapper to a GitHub repository and get the auto-generated `datapakage.json`. It should infer files, schema, and types and generate some metadata for us. Then, a "dataset package" can be anything the tool can crawl.
@@ -212,6 +213,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [Blockchain](https://github.com/blockchain-etl).
 - [Our World In Data](https://github.com/owid/owid-datasets).
 - [Fivethirtyeight](https://data.fivethirtyeight.com/).
+- [BuzzFeed News](https://github.com/BuzzFeedNews).
 - [ProPublica](https://www.propublica.org/datastore/).
 - [World Bank](https://data.worldbank.org/indicator)
 
@@ -220,6 +222,8 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [Datahub](https://datahub.io/)
 - [Open Data Services](https://opendataservices.coop)
 - [Catalyst Cooperative](https://catalyst.coop/)
+- [Data is Plural](https://github.com/data-is-plural)
+- [Data Liberation Project](https://github.com/data-liberation-project)
 
 ### Indexes
 
@@ -245,6 +249,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [Academic Torrents Datasets](https://academictorrents.com/browse.php).
 - [Open Data Inception](https://opendatainception.io/).
 - [Victoriano's Data Sources](https://victorianoi.notion.site/Data-Sources-79b28912c6d941af99e6ef102c578fa0).
+- [Data is Plural](https://www.data-is-plural.com/).
 
 ## Open Source Web Data IDE
 

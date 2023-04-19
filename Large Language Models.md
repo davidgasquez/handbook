@@ -1,5 +1,8 @@
 # Large Language Models
 
+- LLM can build internal [[Knowledge Graph]]s in their the network layers.
+- Anytime you have an ML system where humans are designing how the information is organized (feature engineering, linking, graph building), it will scale poorly ([the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)).
+
 ## Tools
 
 - [LangChain](https://python.langchain.com/en/latest/)

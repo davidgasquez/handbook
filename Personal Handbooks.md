@@ -17,8 +17,9 @@
 - [Jonathan Porter](https://eatsleepdata.com/)
 - [Jacky Zhao](https://jzhao.xyz/)
 - [Pelayo Arbués](https://pelayoarbues.github.io/)
+- [Tom Critchlow](https://tomcritchlow.com/wiki/)
 
-### Compilations
+## Compilations
 
 - [Meta Knowledge GitHub repository](https://github.com/RichardLitt/meta-knowledge)
 - [Second Brain Collection](https://github.com/KasperZutterman/Second-Brain).
