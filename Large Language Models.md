@@ -1,7 +1,7 @@
 # Large Language Models
 
 - LLM can build internal [[Knowledge Graph]]s in their the network layers.
-- Anytime you have an ML system where humans are designing how the information is organized (feature engineering, linking, graph building), it will scale poorly ([the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)).
+- ML system where humans are designing how the information is organized (feature engineering, linking, graph building) will scale poorly ([the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)).
 
 ## Tools
 
@@ -24,6 +24,7 @@
 - Improve existing code (typing, tests, making it async, ...).
 - Write basic CLIs.
 - [Generate structured data from text](https://thecaglereport.com/2023/03/16/nine-chatgpt-tricks-for-knowledge-graph-workers/).
+- Do API request to SQL Semantic Layers (less prone for errors or hallucinating metric definitions)
 
 ### Resources
 
