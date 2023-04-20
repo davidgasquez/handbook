@@ -14,6 +14,10 @@
     - For the Semantic Web to work, the infrastructure behind it needs to permanently keep all of the necessary sources that a file relies on. This could be a place where [[IPFS]] or others [[Decentralized Protocols]] could help!
   - It tends to assume that the world fits into neat categories. Instead, we live in a world where membership in categories is partial, probabilistic, contested (Pluto), and changes over time.
 - The status quo of the semantic web space is still SPARQL.
+  - You can build [a knowledge graph database on top of a relational engine](https://twitter.com/RelationalAI).
+- Knowledge Graphs act as a semantic layer.
+- Tables in SQL (relational databases) are collections of relationships.
+- Is possible to make append only and dynamic KGs with Temporal Knowledge Graphs!
 
 ## Projects
 

@@ -233,6 +233,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [Datahub](https://datahub.io/awesome). By [Datopian](https://tech.datopian.com/), makers of CKAN.
 - [HuggingFace Datasets](https://huggingface.co/datasets).
 - [Data World](https://data.world/datasets/open-data).
+- [Enigma](https://enigma.com/).
 - [DoltHub](https://www.dolthub.com/discover).
 - [Socrata](https://dev.socrata.com/)
 - [Nasdaq](https://data.nasdaq.com/search).
