@@ -29,11 +29,9 @@
 - Change your [[Routine]] when leaving the house.
 - Don't make a big thing about you leaving. Do it in a calm way.
 - Create a leaving ritual:
-
- 1. Make them relax in their crate.
- 2. Give a treat and say bye.
- 3. Leave the room.
-
+  1. Make them relax in their crate.
+  2. Give a treat and say bye.
+  3. Leave the room.
 - Do small aproximations. Leave the room, then the house for a few moments, ... Go gradually. First minutes, then hours!
 - Try hard to create a positive association and be confident with being alone.
 
@@ -62,6 +60,7 @@
 - You can speed up a trick training it with toys. Also, you can add tricks in between "drop it" and "get it" to reinforce them.
 - Once the behavior is established, start to reinforce intermittently.
 - For clicker training the main loop is: click, pause, feed. Always feed after clicking! You can charge the clicker while playing [[Dogs#Training Games |training games]].
+- Develop gradual exposures to new things. Break the challenge into small steps and reward for each step to build confidence. E.g: [reactivity](https://youtu.be/QQ3i6FRyoFs).
 
 ### Training Games
 
