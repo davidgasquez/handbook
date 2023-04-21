@@ -1,4 +1,4 @@
-# Knowledge Graph
+# Knowledge Graphs
 
 - A knowledge graph is a structured representation of information that connects data points through relationships, forming a semantic network.
   - It is used to represent knowledge where entities are nodes and relationships are edges.

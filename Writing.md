@@ -35,6 +35,7 @@
   1. It gets to the point.
   2. It is interesting. Written from your own experience, in your personal voice.
   3. It is grounded in reality.
+- Reading is the inhale, writing is the exhale. Breathe.
 
 ## Executable Writing
 

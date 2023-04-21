@@ -16,7 +16,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 - [[Programming]]
 - [[Web3]]
 - [[Learning]]
-- Science (biology, astrophysics, neuro, ...)
+- [[Science]] (biology, astrophysics, neuro, ...)
 
 ### Awesome Game
 
@@ -44,7 +44,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 ### Open Knowledge
 
 - Research.
-  - Each publication is a repository, where people can contribute to make corrections.
+  - Each publication is a [[Git]] repository, where people can contribute to make corrections.
 - Distillation. Deeply digesting ideas, and putting them together into a framework of thinking.
   - Made by a small number of people with a strong vision and a deep investment in the article.
 - Publication.

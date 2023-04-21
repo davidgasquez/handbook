@@ -9,6 +9,7 @@
 - [Share unoriginal ideas](https://guzey.com/personal/why-have-a-blog/). Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn't come up with these ideas otherwise.
 - Start with Why. Start with a question. Write the first flawed answer that comes to mind. Write the first question or objection that comes to mind from that answer. Write the first response that comes to mind from that, ...
 - [Writing creates a cache](https://twitter.com/eugeneyan/status/1256828203840073728). The cache (i.e., documents) scales data availability. people can access the cache instead of going to you.
+- The more you create, the more ideas come yo you to continue creating. That's the creativity [[Feedback Loops|feedback loop]].
 - [Expand your definition of completing a project (any project, no matter how small) to include writing a blog post that explains that project](https://twitter.com/simonw/status/1578018383127187461f).
 - For long-form content, the [diamond model](https://dropbox.design/article/mental-models-for-designers) works great for putting a structure around your main idea:
   1. Attention: Start with a story, statistic, or something similar
@@ -26,5 +27,8 @@
   5. Hate how messy these thoughts have become.
   6. Reduce them to a tiny outline of the key points.
   7. Post the outline. Trash the rest.
-- Reading is the inhale, writing is the exhale. Breathe.
-- The more you create, the more ideas come yo you to continue creating. That's the creativity [[Feedback Loops|feedback loop]].
+- Alternatively, try the Rift approach:
+  1. An inquisitive title, something that is not "the ultimate guide" but more "some notes on..."
+  2. A few references. Connect the dots between some links, quotes from other sources.
+  3. An anecdote from your own work that provides rich texture and context for what you do.
+  4. Some open questions that invite people to discuss.
