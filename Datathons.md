@@ -35,6 +35,7 @@
 
 - [Quick Tutorials](https://www.kaggle.com/c/jane-street-market-prediction/discussion/198951)
 - [Tsfresh](https://tsfresh.readthedocs.io/en/latest/)
+- [Fold](https://github.com/dream-faster/fold)
 - [Prophet](https://facebook.github.io/prophet/docs/quick_start.html)
 - [Darts](https://github.com/unit8co/darts)
 - [Sktime](https://github.com/alan-turing-institute/sktime)
