@@ -158,8 +158,8 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - How to work with private data?
   - Homomorphic encryption?
 - How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works? If you can envision the table you would like to have in front of you, i.e., you can write down the attributes you would like the table to contain, then the system will find it for you.
-  - This probably needs a [[Knowledge Graph]]!
-- How can a [[Knowledge Graph]] [help with the data catalog](https://docs.atomicdata.dev/usecases/data-catalog.html)?
+  - This probably needs a [[Knowledge Graphs]]!
+- How can a [[Knowledge Graphs]] [help with the data catalog](https://docs.atomicdata.dev/usecases/data-catalog.html)?
 - [How would a Substack for databases look like](https://tomcritchlow.com/2023/01/27/small-databases/)?
   - An easy tool for creating, maintaining and publishing databases with the ability to restrict parts or all of it behind a pay wall. Pair it with the ability to send email updates to your audience about changes and additions.
 
