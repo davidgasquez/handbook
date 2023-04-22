@@ -12,6 +12,8 @@
 - [Scapeghost](https://jamesturk.github.io/scrapeghost/)
 - [Kor](https://eyurtsev.github.io/kor/index.html)
 
+### Prompts
+
 ## Cool Uses of GPT Models
 
 - Naming things.
