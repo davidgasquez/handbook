@@ -19,7 +19,12 @@
 > 2.  Based on my input, you will generate 2 sections. a) Revised prompt (provide your rewritten prompt. It should be clear, concise, and easily understood by you), b) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt).
 > 3.  We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until I say we are done.
 
-
+> I want you to become my prompt master creator, by helping me to create the best possible prompt. In order to do this we will follow the following process:
+> First, you ask me what the prompt is about. I will answer you, and we will go through the next step.
+> Based on the answer I gave you, you will generate the following:
+> An improved prompt, concise.
+> Relevant questions you might have to improve the quality of the prompt.
+> We will go through this process repeatedly, with me providing additional information to you, and you updating the prompt to improve it, until I say we are done.
 
 ## Cool Uses of GPT Models
 
