@@ -14,7 +14,6 @@ Handbooks are key for good [[Company Knowledge Management]].
 - [18F](https://handbook.18f.gov/)
 - [Basecamp](https://github.com/basecamp/handbook)
 - [Sourcegraph](https://handbook.sourcegraph.com/)
-- [Loomio](https://github.com/loomio/loomio-coop-handbook)
 - [Madetech](https://github.com/madetech/handbook)
 - [MarsBased](https://github.com/MarsBased/handbook)
 - [MUI](https://mui-org.notion.site/Handbook-f086d47e10794d5e839aef9dc67f324b)
@@ -33,4 +32,3 @@ Handbooks are key for good [[Company Knowledge Management]].
 - [Root Systems](https://github.com/root-systems/handbook)
 - [Life Itself](https://lifeitself.org/tao/)
 - [Campight](https://camplight.net/public/documents/guidebook.pdf)
-- 
