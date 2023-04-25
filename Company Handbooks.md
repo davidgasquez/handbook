@@ -32,3 +32,5 @@ Handbooks are key for good [[Company Knowledge Management]].
 - [Enspiral](https://handbook.enspiral.com/)
 - [Root Systems](https://github.com/root-systems/handbook)
 - [Life Itself](https://lifeitself.org/tao/)
+- [Campight](https://camplight.net/public/documents/guidebook.pdf)
+- 
