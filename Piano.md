@@ -7,6 +7,7 @@
 - [Beginner Piano](https://www.udemy.com/course/beginner-piano/) - Master keyboard fundamentals by learning popular tunes from "the best piano teacher in London".
 - [Getting Started with Music Theory](https://www.reddit.com/r/musictheory/wiki/faq/core/new_to_music_theory). More [lessons](https://www.musictheory.net/lessons) and a [great tool](https://play.google.com/store/apps/details?id=com.evilduck.musiciankit&hl=en). If you're in a hurry, check [How Music Works](https://www.lightnote.co/).
   - In the academic side, [Intro Theory by Dmiti Tymoczko](https://dmitri.mycpanel.princeton.edu/teaching.html). His course works on a much more fundamental level than any other music theory course.
+- [Study Music](https://github.com/vpavlenko/study-music) is a great GitHub repo with lots of music theory resources.
 
 ## Youtube Channels:
 
