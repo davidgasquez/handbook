@@ -3,8 +3,8 @@
 - Explicitly define the [[values]] and desired [[culture]] of your team.
 - Share a vision to make [loosely coupled, tightly aligned teams](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/). Then, define the strategy with [[Writing Team Key Results|great key results]].
   - When coming up with a long-term vision is important to stay abstract.
-    - Stick to defining components and keep concepts generic (cache, [[Databases]], algorithm, ...). Show how the components interact.
-    - Define boundaries and limitations of each component.
+	- Stick to defining components and keep concepts generic (cache, [[Databases]], algorithm, ...). Show how the components interact.
+	- Define boundaries and limitations of each component.
 - Work in the open and [[Documentation|document]] everything.  Transparency increases understanding and reduces synchronization challenges. **[Emulate Open Source projects](https://tomayko.com/blog/2012/adopt-an-open-source-process-constraints) and [[Remote Jobs|remote companies]]**.
 - To make everyone more productive and happy: **Make feedback loops fast**. [Some best practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/):
   - Tested, automated process for new development environments.
@@ -16,16 +16,16 @@
 - Create a [[Company Handbooks|handbook]] to store your [[Company Knowledge Management|company knowledge]]. Document:
   - [[Processes]].  Status updates, [[Design Docs]], [on-boarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
   - Decisions. Context and rationale can be documented in a durable location.
-    - Each team should [keep a changelog](https://keepachangelog.com/en/1.0.0/). [The company too](https://medium.com/linear-app/startups-write-changelogs-c6a1d2ff4820). ^473cb4
-    - Aim to [confirm and log decisions](https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/) to move them forward. [Everything must have an URL](https://ben.balter.com/2015/11/12/why-urls/).
-    - Show your work. Capture who made what decision and when, along with a detailed, but _concise_ description of why and how that decision was made.
-    - Consistent changelogs also communicate new features, the value they get from your product, and your commitment to improving it.
+	- Each team should [keep a changelog](https://keepachangelog.com/en/1.0.0/). [The company too](https://medium.com/linear-app/startups-write-changelogs-c6a1d2ff4820). ^473cb4
+	- Aim to [confirm and log decisions](https://understandlegacycode.com/blog/earn-maintainers-esteem-with-adrs/) to move them forward. [Everything must have an URL](https://ben.balter.com/2015/11/12/why-urls/).
+	- Show your work. Capture who made what decision and when, along with a detailed, but _concise_ description of why and how that decision was made.
+	- Consistent changelogs also communicate new features, the value they get from your product, and your commitment to improving it.
   - [[Meetings]] agendas and conclusions.
   - Responsibilities. Things that aren't your fault can still be your responsibility. If something is everyone's job, it's no one's job.
   - Defaults. Each thing should have a place by default, docs, issues, ...
 - Aim to be a completely autonomous team. Everyone should feel empower to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.**
 - Run [Automated Check-ins](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
-- The right way to promote people is to give them meaningful goals for the organization and promote them if they hit the goals.
+- The right way to promote people is to give them [meaningful and clear goals](https://youtu.be/oIMvMb5wVO4) for the organization and promote them if they hit the goals.
 - Lack of ownership is the root of all evil.
   - Having skin in the game improves the decision making process.
   - [Have direct responsible individuals for everything. Everyone's problem is no one's problem](https://nintil.com/programming). Having a name accountable instead of a vague "the team" or "the process" makes it easy to make changes.
@@ -48,7 +48,8 @@
 - **Focus on business outcomes, not on technologies.**
 - When you start from a shared understanding – that you’re all doing your best you can – you can foster a compassionate working environment.
   - Everyone on your team should assume that everyone else on the team is doing their best work, given their circumstances.
-  - Trust people. Add [[Processes]] where you need to replace some level of trust.
+  - Trust people with freedom. Add [[Processes]] where you need to replace some level of trust.
+  - Share as much context as you can.
 - Times change, trends change, cultures change. Make it explicit.
 - Spend time at work thinking strategically. E.g: Think about the approach you will take to address the company's needs over the medium to long term.
 - **How to drive change in a team**: find people who agree on the problem, start small, experiment, scale, repeat. Making big change is hard. Keeping things simple is hard.
@@ -65,7 +66,7 @@
   5. [[Automation|Automate]] and keep standards.
 - Keep great global [[coordination]] and incentive local experimentation.
   - Being able to run small and compounding experiments (on the product or company [[processes]] and systems) is important. **Work smaller**.
-    - [Some experiments won't work](https://www.lesswrong.com/posts/97LgacucCxmyjYiNT/the-archipelago-model-of-community-standards). But oftentimes it _feels_ like it wont work when in fact you just haven't stuck with it long enough for it to bear fruit. This is hard enough for _solo_ experiments. For group experiments, where not just one but _many_ people must all try a thing at once and _get good at it_, all it takes is a little defection to spiral into a mass exodus.
+	- [Some experiments won't work](https://www.lesswrong.com/posts/97LgacucCxmyjYiNT/the-archipelago-model-of-community-standards). But oftentimes it _feels_ like it wont work when in fact you just haven't stuck with it long enough for it to bear fruit. This is hard enough for _solo_ experiments. For group experiments, where not just one but _many_ people must all try a thing at once and _get good at it_, all it takes is a little defection to spiral into a mass exodus.
 - The group with the most power determine the system that reflect and reinforce their own way of thinking. Aim for inclusion. _Diversity is being invited to the party. Inclusion is being asked to dance and help organizing the party_.
 - [Brainstorm for questions first (explore). Then find the answers (exploit).](https://getpocket.com/explore/item/better-brainstorming)
 - Strive for constructive conflict. Get people to[[Asking Questions|ask questions]]. Engage in passionate, unfiltered debate about what you need to do to succeed.
@@ -95,7 +96,7 @@
 - [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness) can happen in a team. Two of the main reasons of this [normalization of deviance](https://danluu.com/wat/):
   - The team needs to follow processes that have either been externally imposed, or internally imposed but no-one remembers exactly why.
   - The sheer scale and/or complexity of how things work. There is truly no-one who understands the emergent behavior of the [[Systems|system]].
-    - E.g: Slow _boiling frog_ situations where existing tools have become ineffective but no one noticed.
+	- E.g: Slow _boiling frog_ situations where existing tools have become ineffective but no one noticed.
 - [Act as if you might leave on short notice](https://jmmv.dev/2021/04/always-be-quitting.html).  Document your knowledge, long-term plans, meetings, train people around you, empower other people, delegate and keep learning!
 - You have to put in more effort to make something appear effortless. Effortless, elegant performances are often the result of a large volume of effortful. Praise this instead of complex solutions.
 - Invisible work will happen. If you're doing it, make an effort to share and get credit for it. Build a narrative (story) for your work. Arm your manager and fight recency bias keeping track of all the things you've done.

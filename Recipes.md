@@ -78,3 +78,19 @@
 1. Brew with a 1 part coffee to 8 parts water ratio.
 2. Use a coarse grind.
 3. Put the mix on the fridge from 24 to 96 hours.
+
+## Nachos
+
+<img src="https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/03/Nachos-8.jpg" width="350" />
+
+### Ingredients
+
+- Chips (not too much flavor)
+- Cheese (not pre-shredded)
+- Some kind of protein (soy, chorizo, beans)
+- Guacamole (avocado, red onion, garlic, lime, cumin, salt, pepper)
+- Salsa (tomato, onion, garlic, lime, salt, pepper)
+
+## Steps
+
+- [Follow Babish](https://youtu.be/lMaF0iPeDFo).
