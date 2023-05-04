@@ -25,8 +25,8 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Writing program code is a good way of debugging your thinking.
   - Apply small improvements at each iteration. Running the program will make it more resilient and robust as more errors get fixed.
   - Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
-    - [Increased efficiency can sometimes, counterintuitively, lead to worse outcomes](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html).
-    - You should be able to "punch through" your abstraction layer and get to the code behind it in cases you need that.
+	- [Increased efficiency can sometimes, counterintuitively, lead to worse outcomes](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html).
+	- You should be able to "punch through" your abstraction layer and get to the code behind it in cases you need that.
   - Sometimes you have to stop sharpening the saw, and just start cutting.
   - Software which is broken because there is no incentive to ship good software is going to stay broken until the incentives change.
 - **Choose portability over efficiency**.
@@ -54,7 +54,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Handle the 80% and let the 20% fend for themselves.
   - [[Pareto Principle |80% of the impact comes from 20% of the work]].
   - [Software is never finished, only abandoned](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/).
-- **Treat all the data as an event log**.
+- **Treat all the data as an append only event log**.
   - Use a central log where consumers can subscribe to the relevant events.
   - Having a central place ([the log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)) for continuous events make easy to create a stream of data to process and sets a source of truth.
 - **There is no silver bullet**.
