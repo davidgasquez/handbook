@@ -12,10 +12,10 @@
   - Purpose and explanation of the data being shown.
   - Caveats and assumptions.
   - Extra Context:
-    - Why this dashboard exists.
-    - Who it's for.
-    - When it was built, and if and when it's set to expire .
-    - What features it's tracking via links to team repositories, project briefs, screenshots, or video walkthroughs.
+	- Why this dashboard exists.
+	- Who it's for.
+	- When it was built, and if and when it's set to expire .
+	- What features it's tracking via links to team repositories, project briefs, screenshots, or video walkthroughs.
   - Take Aways.
   - Metadata (owner, related OKRs, TTL, …).
 - Make them so its easy to go one layer down (X went down in Y location, or for Z new users, etc).
@@ -40,10 +40,11 @@ The value is that now discussions are happening about the data.
   - **It's usually not possible to generate meaningful insight simply by looking at line charts in a dashboard** A chart alone cannot possibly convey everything, and that kind of thinking inhibits our ability to influence the business with our work.
   - Specially, if [there are 10 unrelated charts in the same dashboard](https://www.deathofdashboards.com/).
 - Building a dashboard requires gathering lot of context. Once built, only a few users aware of all the context can really use it in the proper way.
+- They can serve endless needs, but in doing so, rarely do they serve _particular_ needs perfectly
 - Dashboards shouldn't be single-use
   - Ask this:
-    - Can this new dashboard request be added into an existing one?
-    - What are you going to do differently by looking at the Dashboard? Focus on that [[Metrics|metric]] and add it to the main Dashboard
+	- Can this new dashboard request be added into an existing one?
+	- What are you going to do differently by looking at the Dashboard? Focus on that [[Metrics|metric]] and add it to the main Dashboard
   - Beware of the death by 1,000 filters: After a dashboard had gone live, you'll be  flooded with requests for new views, filters, fields, pages, everything
   - Dashboards are decision-making infrastructure, and infrastructure needs to be maintained. Be explicit about which Dashboards are disposable and add a TTL to them.
 - The numbers and charts on a dashboard very rarely have any direct personal meaning to the people using it. There's tons of other work to do, and unless that dashboard is directly tied to your performance or compensation, there are probably more important things to look at. People are more likely to check stock prices when they actually own (and thus benefit from) the stock.
