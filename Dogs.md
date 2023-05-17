@@ -32,13 +32,14 @@
   1. Make them relax in their crate.
   2. Give a treat and say bye.
   3. Leave the room.
-- Do small aproximations. Leave the room, then the house for a few moments, ... Go gradually. First minutes, then hours!
+- Do small approximations. Leave the room, then the house for a few moments, ... Go gradually. First minutes, then hours!
 - Try hard to create a positive association and be confident with being alone.
 
 ## Training Tips
 
 - Train in any situation possible (and is safe to do it). For the first 6-12 months, spend at least 20 minutes of formal training a day in short training sessions (1-3 min).
 - Work on focus with distractions and you'll have an excellent groundwork.
+- All animals, including humans, are "trained" 100% of the time
 - Say "yes!" and award as fast as possible after they do what you want. They have about a 1 second window to register that behavior as the cause of the reward.
 - Remember to give your dog some "easy wins". You would not want to be paid less as you got better at your job.
 - Have treats everywhere so you have quick access to them.
