@@ -57,10 +57,10 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
   - Rewarding the datasets creators according to the usefulness. E.g: [CommonCrawl built an amazing repository](https://commoncrawl.org/) that OpenAI has used for their GPTs LLMs. Not sure how well CommonCrawl was compensated.
 - **Open Source and Decentralized**. Datasets should be stored in multiple places.
   - Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources. Similar to:
-    - [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
-    - [Trustfall](https://github.com/obi1kenobi/trustfall).
-    - Open source data integration projects like [Airbyte](https://airbyte.com/). They can used to build open data connectors making possible to replicate something from `$RANDOM_SOURCE` (e.g: spreadsheets, Ethereum Blocks, URL, ...) to any destination.
-    - Adapters are created by the community so data becomes connected.
+	- [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
+	- [Trustfall](https://github.com/obi1kenobi/trustfall).
+	- Open source data integration projects like [Airbyte](https://airbyte.com/). They can used to build open data connectors making possible to replicate something from `$RANDOM_SOURCE` (e.g: spreadsheets, Ethereum Blocks, URL, ...) to any destination.
+	- Adapters are created by the community so data becomes connected.
   - Integrate with the modern data stack to avoid reinventing the wheel.
   - Decentralized the computation (where data lives) and then cache copies of the results (or aggregations) in CDNs. Most queries require only reading a small amount of data and going to be similar.
 
@@ -77,8 +77,8 @@ Package managers have been hailed among the most important innovations Linux bro
   - Datasets could be linked to a [[Open Data#Datafile|Datafile]]/`datapackage.yml` with description, default visualizations, WASM linked code...
   - One repository, one dataset or catalog/hub.
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
-    - For example, bring all HF datasets by making a simple PR on their repository that generates a `datapackage.yml` reusing their parquet files.
-    - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
+	- For example, bring all HF datasets by making a simple PR on their repository that generates a `datapackage.yml` reusing their parquet files.
+	- [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
 - **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations or in the fly when pulling data. The package manager should be **format and storage agnostic**.
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
@@ -224,6 +224,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [Datahub](https://datahub.io/)
 - [Open Data Services](https://opendataservices.coop)
 - [Catalyst Cooperative](https://catalyst.coop/)
+- [Carbon Plan](https://github.com/carbonplan)
 - [Data is Plural](https://github.com/data-is-plural)
 - [Data Liberation Project](https://github.com/data-liberation-project)
 
