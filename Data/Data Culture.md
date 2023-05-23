@@ -96,3 +96,4 @@
   - Analytics: Making sense of data to guide decisions
 - Make your [modeling technique](https://data-columns.hightouch.io/untitled-2/) explicit.
 - Have a documentation [entry-point for Data](https://github.com/mozilla/data-docs).
+- [For self-serve, aim to own as little as possible but keep in mind you can't make people do what you want but cans top them for doing what you don't want](https://youtu.be/wyW6hQGZxgY).
