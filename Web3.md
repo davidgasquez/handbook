@@ -42,6 +42,8 @@
 
 ### Blockchain Indexing Projects
 
+There is an emerging landscape of [Data and Blockchain](https://primodata.org/landscape.html).
+
 #### Companies
 
 - [Tokenflow](https://docs.tokenflow.live/)

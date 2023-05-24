@@ -17,7 +17,7 @@
 - Designing prompts is an iterative process that requires a lot of experimentation to get optimal results. Start with simple prompts and keep adding more elements and context as you aim for better results.
 - Be very specific about the instruction and task you want the model to perform. The more descriptive and detailed the prompt is, the better the results.
 - Avoid saying what not to do but say what to do instead.
-- Follow [Prompt Engineering Guide](https://www.promptingguide.ai/) and [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api).
+- Follow [Prompt Engineering Guide](https://www.promptingguide.ai/), [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering),  and [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api).
 
 #### Prompt Creator
 

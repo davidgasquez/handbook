@@ -15,8 +15,8 @@
 	- Why this dashboard exists.
 	- Who it's for.
 	- When it was built, and if and when it's set to expire .
-	- What features it's tracking via links to team repositories, project briefs, screenshots, or video walkthroughs.
-  - Take Aways.
+	- What features it's tracking via links to team repositories, project briefs, screenshots, or video walk-throughs.
+  - Take-aways.
   - Metadata (owner, related OKRs, TTL, …).
 - Make them so its easy to go one layer down (X went down in Y location, or for Z new users, etc).
 - Recreate dashboard from first principles periodically.
