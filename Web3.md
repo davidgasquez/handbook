@@ -6,7 +6,8 @@
   - Cryptocurrencies have the [[Incentives]] to keep the users happy since forking is an option.
 - [Web3 is a decentralized internet. Under Web3, the internet is shared online and governed by the collective "we"](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc).
 - Web3 incentives open source. That creates an ecosystem of composable and permissionless tools that increases the speed of innovation.
-- This new space encourages experimentation in a diverse set of fields like [[Governance]] or [[Finances]].
+- A way to look at Web3 is as a laboratory for radical economic, political, and social experiments.
+  - The space encourages experimentation in a diverse set of fields like [[Governance]] or [[Finances]].
 
 ## Resources
 
