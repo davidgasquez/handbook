@@ -23,7 +23,8 @@
   - [[Meetings]] agendas and conclusions.
   - Responsibilities. Things that aren't your fault can still be your responsibility. If something is everyone's job, it's no one's job.
   - Defaults. Each thing should have a place by default, docs, issues, ...
-- Aim to be a completely autonomous team. Everyone should feel empower to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.**
+- Aim to be a completely autonomous team. Everyone should feel empower to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.
+  - [A team's ability to operate autonomously relies on alignment, which is strengthened by context](https://macroapp.io/blog/the-context-warehouse).
 - Run [Automated Check-ins](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
 - The right way to promote people is to give them [meaningful and clear goals](https://youtu.be/oIMvMb5wVO4) for the organization and promote them if they hit the goals.
 - Lack of ownership is the root of all evil.
