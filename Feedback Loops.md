@@ -9,7 +9,7 @@
 - Feedback loops vary in their accuracy.
   - Accurate feedback means that it **reliably** and **clearly** tells you when you do something right. If you get the quadratic formula wrong, you can check the right formula and know what was wrong.
   - Inaccurate feedback loop means that the results of the evaluation phase are “**noisy**” and contain significant variance, so the next cycle will need to take that into account. E.g: playing bowls without a coach.
-    - Learning under conditions of noisy data starts with world construction. Imagine a possible future, and repeat this to generate hundreds of possible future worlds. The main skills and resources required are creativity, [[slack]], and [equanimity](https://en.wikipedia.org/wiki/Equanimity). Creativity leads to a higher rate of idea generation and [[slack]] gives us more time to generate ideas. Equanimity is important because it allows us to persevere in the absence of tangible feedback.
+	- Learning under conditions of noisy data starts with world construction. Imagine a possible future, and repeat this to generate hundreds of possible future worlds. The main skills and resources required are creativity, [[slack]], and [equanimity](https://en.wikipedia.org/wiki/Equanimity). Creativity leads to a higher rate of idea generation and [[slack]] gives us more time to generate ideas. Equanimity is important because it allows us to persevere in the absence of tangible feedback.
 - [The shorter and more accurate the feedback loop, the easier it is to learn](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/). The **tighter** your feedback loop, the better your work.
   - Fast and accurate loops might get you on a local maximum or might not work when the underlying system is noisy.
 

@@ -6,7 +6,7 @@
 - One task at a time. [[Focus|No distractions]].
 - **KISS**. What would less/simple look like?
   - When [[Communication|communicating]], do it in a clear and concise way.
-    - Sometimes, even if your intention is good, signal might turn into noise and won't be interpreted the way you expect.
+	- Sometimes, even if your intention is good, signal might turn into noise and won't be interpreted the way you expect.
   - When [[Problem Solving |facing a problem]], prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would it look like if it was simple?
   - Remove friction. Focus on essentials. Complexity itself has costs. It makes life harder to manage, reduces our degrees of freedom, and so forth. Often people do not factor those costs into their decisions as they incrementally and inattentively complexify their lives. A person with the virtue of simplicity asks, of any decision they make, "does this make my life more complex, and if so is that worth it?"
 - Live smarter, not harder. Don't complain about stuff you can easily fix, [[Automation|automate]], or delegate. Money can buy [[time]].

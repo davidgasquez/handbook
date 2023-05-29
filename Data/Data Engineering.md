@@ -36,8 +36,8 @@ graph LR;
   - Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a [[Databases|database]].
 - **Schemas changes**. Most of the time you won't be there at the exact time of the change so aim to save everything.
   - Ideally, the schema will evolve in a backward compatible way:
-    - Data types don't change in the same column.
-    - Columns are either deleted or added but never renamed.
+	- Data types don't change in the same column.
+	- Columns are either deleted or added but never renamed.
 - Create a few extra columns like `processed_at` or `schema_version`.
 - Generate stats to provide the operator with feedback.
 - Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the [Functional Data Engineering Paradigm](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).

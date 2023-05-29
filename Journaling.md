@@ -14,6 +14,6 @@
   - Review a set of recurrent prompts. Tweak them over time. For example:
   - Consistency at your core [[habits]] this week ([[Fitness]], [[Routine]], [[Productivity]], etc.). How can you tweak them to be more consistent or more useful?
   - What did you do this week that was a mistake and how can I avoid repeating it?
-    - What would you like to accomplish next week?
-      - Do you need to clarify something?
-      - Which actions will you move closer to your [[goals]]?
+	- What would you like to accomplish next week?
+	  - Do you need to clarify something?
+	  - Which actions will you move closer to your [[goals]]?
