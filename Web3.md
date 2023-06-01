@@ -104,3 +104,9 @@ There is an emerging landscape of [Data and Blockchain](https://primodata.org/la
 - [Tomek Mierzwa](https://twitter.com/mierzwik)
 - [Calum Moore](https://twitter.com/calummoore)
 - [Ian Cal](https://twitter.com/IanCal)
+
+### Other Data Companies
+
+- [Fair Data Society](https://github.com/fairDataSociety/)
+- [Ethersphere](https://github.com/ethersphere)
+- [ODC](https://opendatacommunity.org/)
