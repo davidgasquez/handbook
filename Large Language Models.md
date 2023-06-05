@@ -44,5 +44,6 @@
 
 ### Resources
 
+- [Official GPT Guide](https://platform.openai.com/docs/guides/gpt-best-practices).
 - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071&p=2)
 - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html).
