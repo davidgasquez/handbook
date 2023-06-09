@@ -14,7 +14,7 @@ The goal of planning is to get to a unified and realistic plan for what the syst
 To help with planning, you should have these things:
 
 - Longterm Vision Statement. Where are you going.
-- [[Writing a Roadmap |Roadmap]]. A unified view of what the team is working towards shipping.
+- [[Writing a Roadmap|Roadmap]]. A unified view of what the team is working towards shipping.
 - List of options.
 
 No matter what the final plan is, [[Teamwork#^473cb4|document it]] and you'll have a log of all the plans to reflect back on.

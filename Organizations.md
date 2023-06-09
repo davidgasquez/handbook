@@ -14,8 +14,8 @@
   - The purpose for which the company exists.
 - The way people within a company do things—how they communicate, how they create, how they decide—is that company's operating system.
   - All organizations have their own way of doing things ([[Culture]]) and their own particular views of how the world should work (vision).
-	- **Vision** is the change in the world you want to see.
-	- **Mission** defines the approach that you will execute to make your vision a reality. The **strategy** further refines the mission into concrete steps.
+    - **Vision** is the change in the world you want to see.
+    - **Mission** defines the approach that you will execute to make your vision a reality. The **strategy** further refines the mission into concrete steps.
   - There are two core processes that take place within any company: making decisions and doing work.
 - Align [[incentives]]. Make the right thing to do the easiest thing to do.
 - The layout of the organization impacts how many hops the information has to do.
@@ -34,11 +34,11 @@
 - Decision making should be pushed down the hierarchy to the practitioner.
 - An organization exhibits risk aversion comparable to the most risk averse decision maker in the decision chain.
 - Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships. [Don't try to optimize that number or it'll be gamed](https://www.fast.ai/2019/09/24/metrics/). Solve Problems, not [[metrics]]. When a measure becomes a target, it ceases to be a good measure. Not everything that counts can be measured, and not everything that can be measured counts. [The more important a metric is in social decision making, the more likely it is to be manipulated](https://en.wikipedia.org/wiki/Campbell%27s_law).
-- [[Data Culture |Data]] can be valuable in helping you understand the world, test hypotheses, and move beyond gut instincts or hunches. [[Metrics]] can be useful when they are in their proper context and place.
+- [[Data Culture|Data]] can be valuable in helping you understand the world, test hypotheses, and move beyond gut instincts or hunches. [[Metrics]] can be useful when they are in their proper context and place.
   - Use data to identify friction points, and constantly experiment with changes to make things easier for you and your customers.
 - How does the [data-informed product loop look](https://cutlefish.substack.com/p/tbm-852-the-data-informed-product)?
    1. Have a strategy. Most product strategies are too high level. They say everything and nothing at the same time.
-   2. Translate that into models. Don't go from insanely high-level business goals and metrics ([[Dashboards]]), straight to features on a [[Writing a Roadmap |roadmap]]. [Models help us fill that gap](https://cutlefish.substack.com/p/tbm-2553-persistent-models-vs-point).
+   2. Translate that into models. Don't go from insanely high-level business goals and metrics ([[Dashboards]]), straight to features on a [[Writing a Roadmap|roadmap]]. [Models help us fill that gap](https://cutlefish.substack.com/p/tbm-2553-persistent-models-vs-point).
    3. Add minimally viable measurement.
    4. Identify leverage points.
    5. Explore options.

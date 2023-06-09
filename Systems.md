@@ -7,7 +7,7 @@ A system is anything with multiple parts that depend on each other. In other wor
 - [[Modularity]].
 - Responsiveness.
   - Know what the system is doing and make the [[Feedback Loops]] fast.
-- [[Decentralized Protocols |Decentralized]].
+- [[Decentralized Protocols|Decentralized]].
 - Permissionless.
 
 ## Changing Systems
@@ -38,7 +38,7 @@ Interaction between system actors causes **externalities**: the consequences of 
 
 Most large social systems are pursuing objectives other than the ones they proclaim, and the ones they pursue are wrong. E.g: [The educational system is not dedicated to produce learning by students, but teaching by teachers—and teaching is a major obstruction to learning.](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/)
 
-A [[Mental Models |mental model]] of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
+A [[Mental Models|mental model]] of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
 Remember, sometimes not doing something is better than doing it ([Primum non nocere](https://en.wikipedia.org/wiki/Primum_non_nocere)). E.g: controlling small fires instead of letting them burn the top layer of the forest. Spending 1 week repairing trains because there was an accident makes people use the car more, turning into more deaths than leaving the train rails as they were.
 

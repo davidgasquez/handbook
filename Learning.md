@@ -32,11 +32,11 @@
   - Have an Analogy about it.
   - Visualize it in a Diagram.
   - Gather Examples. Examples are an amazing way to learn things!
-	- Examples are an excellent way to resolve lossy information transfer - they’re a completely different channel of communication than normal. If nothing else, they serve as an error check.
-	- Examples are a great way to transfer tacit knowledge, without necessarily making it legible - this is what it means to build intuition.
+    - Examples are an excellent way to resolve lossy information transfer - they’re a completely different channel of communication than normal. If nothing else, they serve as an error check.
+    - Examples are a great way to transfer tacit knowledge, without necessarily making it legible - this is what it means to build intuition.
   - Come with a Plain-English description of the concept.
   - Then, dive into the Technical side.
-- When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [[Mental Models |mental model]].
+- When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [[Mental Models|mental model]].
 - Learning to program shapes the mind the same way learning a new language does. Each new word, concept or expression helps you model the world.
 - Use [[Spaced Repetition]] and get some [[Sleep]].
 - [Test your knowledge easily and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL). It's the number of iterations, not the number of hours, that drives learning. Shorten the [[Feedback Loops]]. You don't need to know everything to start. Start and you'll learn things along the way (Just In Time /JIT learning).

@@ -2,7 +2,7 @@
 
 ![[Quotes#^448662]]
 
-We should be arguing in a constructive fashion: treating arguments as an opportunity to [[Learning|expand knowledge]], finding points of disagreement, and collaborating towards a common truth. A few assumptions are required to have a successfully disagreement:
+We should be arguing in a constructive fashion: treating arguments as an opportunity to [[Learning|expand knowledge]], finding points of disagreement, and [[Coordination|collaborating]] towards a common truth. A few assumptions are required to have a successfully disagreement:
 
 - Epistemic humility. "It's possible that I might be the one who's wrong here".
 - Arguments are not soldiers. Most people go into debate with a war-like mentality, they feel they must fly the flag for all points that their side supports, regardless of how much they actually agree with them.

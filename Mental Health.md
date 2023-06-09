@@ -23,7 +23,7 @@ There are many reasons folks feel [helplessly blankness](https://www.lesswrong.c
 
 If you’d like to reduce your learned blankness, try to [notice areas you care about, that you have been treating as blank defaults](https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness#Notice_your_learned_blankness). Then, seed some thoughts in that area: set a timer, and write as many questions as you can about that topic before it beeps.
 
-Aversions are [[Problem Solving |decomposable problems]]. Break it down into
+Aversions are [[Problem Solving|decomposable problems]]. Break it down into
 
 smaller pieces so that you can think about them separately one at a time and
 

@@ -26,7 +26,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
   - Avoid duplicating knowledge. For each question there is one and only one answer.
 - Link everything together.
   - The documentation should have back links and block references to incentivize small chunks of atomic ideas.
-- When doing presentations, don't present slides, present the content of the [[Company Handbooks |company handbook]].
+- When doing presentations, don't present slides, present the content of the [[Company Handbooks|company handbook]].
 - Information should be easy to add (input) as well as easy to search and find (output) resulting in quick knowledge transfer between different employees.
 - [[Writing]] something in the wrong place is the same as not writing it.
 - Reduce the number of alternatives where information might be stored. GitLab uses [[git]], Basecamp uses Basecamp, ...

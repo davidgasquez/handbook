@@ -25,8 +25,8 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Writing program code is a good way of debugging your thinking.
   - Apply small improvements at each iteration. Running the program will make it more resilient and robust as more errors get fixed.
   - Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
-	- [Increased efficiency can sometimes, counterintuitively, lead to worse outcomes](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html).
-	- You should be able to "punch through" your abstraction layer and get to the code behind it in cases you need that.
+    - [Increased efficiency can sometimes, counterintuitively, lead to worse outcomes](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html).
+    - You should be able to "punch through" your abstraction layer and get to the code behind it in cases you need that.
   - Sometimes you have to stop sharpening the saw, and just start cutting.
   - Software which is broken because there is no incentive to ship good software is going to stay broken until the incentives change.
 - **Choose portability over efficiency**.
@@ -52,7 +52,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Doing 100% of anything is difficult. [Don't focus on perfection](https://youtu.be/pYIho556BS8).
   - Focusing in the 80% is far more efficient and cost-effective. "Better" is the enemy of "good".
   - Handle the 80% and let the 20% fend for themselves.
-  - [[Pareto Principle |80% of the impact comes from 20% of the work]].
+  - [[Pareto Principle|80% of the impact comes from 20% of the work]].
   - [Software is never finished, only abandoned](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/).
 - **Treat all the data as an [append only event log](https://www.youtube.com/watch?v=ZQ-MdKj3BjU)**.
   - Use a central log where consumers can subscribe to the relevant events.
@@ -62,7 +62,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Make the trade-offs explicit when making judgments and decisions. With almost every decision you make, you're either deliberately or accidentally trading off one thing for another thing.
   - Discuss [trade-offs](https://twitter.com/kelseyhightower/status/774076482637312001), which you prefer, and reach a resolution.
   - [Every system eventually sucks](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/). Assume everything has bugs.
-- **Keep the [[Feedback Loops |iteration loop]] short**.
+- **Keep the [[Feedback Loops|iteration loop]] short**.
   - Invest in tools to [[Automation|automate]] and improve the development cycle (CI, CD). Decreasing build times a few seconds actually saves a lot of time over time. Deploy often to make the loop end to end. If you need to do something manually more than twice, then write a tool for the third time.
 - **Avoid implicit rules**.
   - Implicit rules should always be made explicit and shared with others or automated. Ideally, all processes should be written as code, stored, and versioned. Minimize the cognitive load imposed on your users.

@@ -6,8 +6,8 @@
 - One task at a time. [[Focus|No distractions]].
 - **KISS**. What would less/simple look like?
   - When [[Communication|communicating]], do it in a clear and concise way.
-	- Sometimes, even if your intention is good, signal might turn into noise and won't be interpreted the way you expect.
-  - When [[Problem Solving |facing a problem]], prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would it look like if it was simple?
+    - Sometimes, even if your intention is good, signal might turn into noise and won't be interpreted the way you expect.
+  - When [[Problem Solving|facing a problem]], prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would it look like if it was simple?
   - Remove friction. Focus on essentials. Complexity itself has costs. It makes life harder to manage, reduces our degrees of freedom, and so forth. Often people do not factor those costs into their decisions as they incrementally and inattentively complexify their lives. A person with the virtue of simplicity asks, of any decision they make, "does this make my life more complex, and if so is that worth it?"
 - Live smarter, not harder. Don't complain about stuff you can easily fix, [[Automation|automate]], or delegate. Money can buy [[time]].
 - Keep Calm. Own and deal with your emotions. [[Stoicism|Focus on what you can control]]. Try to plan the possible outcomes and don't rush.
@@ -19,11 +19,11 @@
   - Don't punish people for trying. You teach them to not try things or not to try them with you.
   - Most of the harm we do as humans is not due to cruelty, but rather to indifference.
 - Prefer delayed gratification, making short term sacrifices to get long term benefits.
-- Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to [[Making Decisions |make decisions]] and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.
+- Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to [[Making Decisions|make decisions]] and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.
   - Be the friend who makes a decisive call when everyone else is waffling about what to eat.
 - Don't judge. Reality is neutral. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Why are you taking something so seriously?
   - One person morally disgusting behavior is another person perfectly normal lifestyle. Most of the time you can't decide what is wrong or good because you have very limited experiences.
-- Be aware of your internal state. Making this more visible makes a better [[Feedback Loops |feedback loop]]. Ask yourself, as many times as possible every day "Am I conscious now?". Our internal state shapes how we experience the external state.
+- Be aware of your internal state. Making this more visible makes a better [[Feedback Loops|feedback loop]]. Ask yourself, as many times as possible every day "Am I conscious now?". Our internal state shapes how we experience the external state.
 - Humans are messy and life is messy. Yet we try to fit everything into [human made buckets](https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/), losing most of the nuance in the process.
   - [The discrete categories we apply to continuous concepts—from the colors we see and the sounds we hear, to the academic subjects we define and the races we project onto people—are both arbitrary and deeply consequential.](https://benn.substack.com/p/gerrymandering)
   - The categories we create, though necessary to keep us from being overwhelmed by this infinite spectrum, affect what we can actually see. **The artificial boundaries we define eventually come to define us.**
