@@ -24,6 +24,7 @@
 ## Visualizations
 
 - [Kepler](https://kepler.gl/) (maps)
+- [Observable Plot](https://observablehq.com/plot/)
 
 ## Data Pipelines
 
