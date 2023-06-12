@@ -4,7 +4,7 @@
 
 - Decentralized protocols become [fat protocols](https://www.usv.com/writing/2016/08/fat-protocols/).
   - On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are necessary but not valuable. Value is captured by the apps.
-	- A great example of a modern open source protocol is [[IPFS]].
+    - A great example of a modern open source protocol is [[IPFS]].
   - Fat protocols will use tools like blockchain to store the data. With open protocols and decentralized data ([[Web3]]), apps are only the frontend of the services.
 - [Protocol and Open Source Funding](https://youtu.be/few99D5WnRg?list=WL). It'll add to the current ways to to fund open source projects:
   - Consulting: open source the code, sell consulting.
@@ -19,3 +19,4 @@
 - **[Progressive decentralization](https://a16zcrypto.com/content/article/progressive-decentralization-crypto-product-management/) optional centralization.**
   - A decentralized protocol can work with a centralized provider. It has the benefits of both (might be fast but no lock users in).
 - A major downside of decentralized protocols/networks is that they tend to perform poorly. Hubs are efficient.
+- [It's the properties decentralization gives us that we care about, not decentralization itself](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/). Decentralization is a global, emergent property. You can feel latency, you can feel transaction fees, but networks ostensibly feel the same whether they’re centralized or decentralized. Decentralization is valuable when it lets you do new things fundamentally better, not old things fundamentally worse.
