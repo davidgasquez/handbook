@@ -1,0 +1,32 @@
+[book]
+authors = ["David Gasquez"]
+language = "en"
+multilingual = false
+title = "Handbook"
+src = "src"
+
+[build]
+create-missing = false
+
+[preprocessor.wikilinks]
+command = "mdbook-wikilinks"
+
+[preprocessor.all-the-markdowns]
+draft-folders = true
+
+[[preprocessor.all-the-markdowns.section]]
+title = "Notes"
+base = "src"
+ignore = [ "src/Data" ]
+
+[[preprocessor.all-the-markdowns.section]]
+title = "Data"
+base = "src/Data"
+ignore = [ ]
+
+[output.html]
+git-repository-url = "https://github.com/davidgasquez/handbook"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/rust-lang/mdBook/edit/master/guide/{path}"
+
+no-section-label = false
