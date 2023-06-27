@@ -195,6 +195,7 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [Algovera Metahub](https://github.com/AlgoveraAI/metahub).
 - [DVC](https://github.com/iterative/dvc).
 - [XVC](https://github.com/iesahin/xvc).
+- [ArtiVC](https://artivc.io/).
 - [Xetdata](https://xetdata.com/).
 - [Dud](https://github.com/kevin-hanselman/dud).
 - [Splitgraph](https://github.com/splitgraph/sgr).
