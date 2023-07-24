@@ -10,7 +10,7 @@
   - [Calibration Questions](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population).
 - [Black Stories](https://detective-stories.com/).
 - [Stopots](https://stopots.com/es/). Choose a letter, think about things starting with it.
-- [Two Rooms and a Boom](https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom). [Print and Play version](https://drive.google.com/drive/folders/1_jbxtyH0V0xACK_crdIbf-QMFv0aw7pr).
+- [Two Rooms and a Boom](https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom). [Print and Play version](https://drive.google.com/drive/folders/1_jbxtyH0V0xACK_crdIbf-QMFv0aw7pr). [Online Version](https://www.playkaboom.com/) ([alternative](http://tworooms.centralus.cloudapp.azure.com/)).
 - [Cockroach Poker](https://boardgamegeek.com/boardgame/11971/cockroach-poker). [Can be played with two standard decks](https://www.reddit.com/r/boardgames/comments/ah8t5r/has_anyone_tried_cockroach_poker_with_a_regular/).
 - [Secret Hitler](https://www.secrethitler.com/assets/Secret_Hitler_Print_and_Play.pdf).
 - [Two of these people are lying](https://youtu.be/NPaz6mFsSjU). Everyone puts a weird Wikipedia articles. Someone pulls a random one. People should come up with a compelling description and the goal is to discern what is true and what is false.
