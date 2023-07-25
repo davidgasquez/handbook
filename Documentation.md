@@ -31,5 +31,6 @@
 ## READMEs
 
 - [Building a README](https://readme.so/).
+- [How to Write a Great README](https://www.appsmith.com/blog/write-a-great-readme).
 - [Starship](https://github.com/starship/starship).
 - [Alacritty](https://github.com/alacritty/alacritty).
