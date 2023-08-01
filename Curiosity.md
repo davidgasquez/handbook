@@ -12,3 +12,4 @@
 - [Find your way around the inertia of helpless mentality](https://www.youtube.com/watch?v=YMPzDiraNnA). You probably have control of more things that you think! Knowing this fact changes the way you see your circle of control.
 - [Practice hunting for bugs](https://radimentary.wordpress.com/2018/01/29/hammertime-day-1-bug-hunt/?utm_source=pocket_mylist)! A bug is anything in life that needs improvement. Even if something is going well, if you can imagine it going better, there's a bug.
 - Knowing we really want is hard and takes effort. Explore yourself and your [[Values]].
+- Experiment more! It is very very easy to do what comes naturally and never deviate from that. Break the pattern.
