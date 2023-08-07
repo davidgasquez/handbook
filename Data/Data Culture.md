@@ -95,6 +95,12 @@
   - What already happened? Descriptive statistics.
   - What will happen? Predictive statistics.
   - What would happen if…? Scenario analysis.
+- Stakeholders will always need more data and is hard to say no, but you can raise some of the following concerns.
+  - You know if the data exists.
+  - You know where it is.
+  - You know how to translate that question to a data question.
+  - You know how to answer that data question by converting the data that exists into an answer.
+  - You're aware of the the quirks in the data.
 - [Differentiate analytics from data platform work. They are two different jobs, and expecting one to do the work of the other is a trap](https://twitter.com/jamesdensmore/status/1518998298111225857).
   - Data Platform: data infra, pipelines, and a bit of data warehouse modeling
   - Analytics: Making sense of data to guide decisions
