@@ -95,7 +95,7 @@
   - What already happened? Descriptive statistics.
   - What will happen? Predictive statistics.
   - What would happen if…? Scenario analysis.
-- Stakeholders will always need more data and is hard to say no, but you can raise some of the following concerns.
+- [Stakeholders will always need more data and is hard to say no. Communicating technical complexity to non-technical colleagues can be tough. Some reasons the ask might be hard](https://twitter.com/RichardSwinbank/status/1671780316573310977).
   - You know if the data exists.
   - You know where it is.
   - You know how to translate that question to a data question.
