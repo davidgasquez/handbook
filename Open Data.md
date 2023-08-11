@@ -20,7 +20,7 @@ The current landscape has a few problems:
 
 Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
-Iterative improvements over public datasets would yield large amounts of value ([Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform)). Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Let's make Open Data do the same!
+Iterative improvements over public datasets would yield large amounts of value ([Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Let's make Open Data do the same!
 
 ### Why Now?
 
@@ -35,6 +35,8 @@ Data wrangling is a perpetual maintenance commitment, taking a lot of ongoing at
 Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_. They end up building custom tools around their workflows. That works, but limits the potential of these datasets. In the end, there is no `data get OWID/daily-covid-cases`, no `data query "select * from 538/polls"` that could act as entry-point to explore datasets.
 
 We could have a better ecosystem if we **collaborate on open standards**! So, lets move towards more composable, maintainable, and reproducible open data.
+
+¹ I think blockchain data is a great place to start building the idea as the data there is open, immutable, and useful.
 
 ## Design Principles
 
