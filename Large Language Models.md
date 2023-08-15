@@ -32,7 +32,7 @@
   - List URLs at the end of your response, not inline
   - If the quality of your response has been substantially reduced due to my custom instructions, please explain the issue.
   - Avoid saying what not to do but say what to do instead.
-- Follow [Prompt Engineering Guide](https://www.promptingguide.ai/), [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering),  and [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api).
+- Follow [Prompt Engineering Guide](https://www.promptingguide.ai/), [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering),  and [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api). Also [some more on GitHub](https://github.com/PickleBoxer/dev-chatgpt-prompts).
 - [Leaked System Prompts](https://matt-rickard.com/a-list-of-leaked-system-prompts).
 
 #### Prompt Creator
