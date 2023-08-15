@@ -104,6 +104,9 @@ There is an emerging landscape of [Data and Blockchain](https://primodata.org/la
 - [Tomek Mierzwa](https://twitter.com/mierzwik)
 - [Calum Moore](https://twitter.com/calummoore)
 - [Ian Cal](https://twitter.com/IanCal)
+- [Karim Jedda](https://twitter.com/KarimJDDA/status/1688970663803949059)
+- [Storm](https://twitter.com/notnotstorm)
+- [Banteg](https://twitter.com/bantg)
 
 ### Other Data Companies
 
