@@ -52,7 +52,7 @@ Instead of having a task like "write an outline of the first chapter" you have a
 - Here is a thing people do that is annoying.
 - This is a thing people new to my job often get wrong.
 - This is a thing people who interact with people who do my job often get wrong.
-- This is a thing I am trying to learn.
+- [This is a thing I am trying to learn. This pushes you to understand topics better. Sometimes the gaps in our knowledge only become clear when explaining things to others.](https://addyosmani.com/blog/write-learn/)
 - This is a review of a book I read recently.
 - This is a review of a film I watched recently.
 - Here is a cool thing about the place I live.
