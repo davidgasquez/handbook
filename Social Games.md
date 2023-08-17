@@ -19,6 +19,7 @@
 - Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say them in order.
 - Everyone puts a finger in the same platform. Someone counts to three and says the number of fingers remaining in the platform, if they are correct, they're out.
 - Cheers to the Governor. As a group, you have to count to 21. The first rule is that 7 and 14 are swapped. Every time you succeed, you say cheers to the governor and add a new rule (e.g: 8 changes sense, 9 is silent, you have to say hello instead of 4, ...)
+- Deduction Games like "Who Has the Hat".
 
 ## Card Games
 
