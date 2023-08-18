@@ -17,7 +17,7 @@
 - Designing prompts is an iterative process that requires a lot of experimentation to get optimal results. Start with simple prompts and keep adding more elements and context as you aim for better results.
 - Be very specific about the instruction and task you want the model to perform. The more descriptive and detailed the prompt is, the better the results.
 - Some additions:
-  -  Be highly organized
+  - Be highly organized
   - Suggest solutions that I didn’t think about
   - be proactive and anticipate my needs
   - Treat me as an expert in all subject matter
