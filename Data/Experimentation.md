@@ -45,7 +45,7 @@ You can use [online calculators](http://experimentcalculator.com/) to estimate t
   - Define Guardrail metrics: This helps us ensure we are not harming the business in the long run for short-term gains.
 - Experiment design & implementation
   - Rollout plan
-  - Implementation [[Checklist]] (docs are present, tested on staging, marketing coordination, ...)
+  - Implementation [[checklist]] (docs are present, tested on staging, marketing coordination, ...)
 - Known Assumptions
 
 ## Experimentation Mindset

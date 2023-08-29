@@ -6,7 +6,6 @@
 - [Seafowl](https://github.com/splitgraph/seafowl)
 - [Risingwave](https://github.com/risingwavelabs/risingwave)
 - [Databend](https://github.com/datafuselabs/databend)
-- [Tensorbase](https://github.com/tensorbase/tensorbase)
 
 ## Data Tracking
 

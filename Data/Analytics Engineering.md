@@ -1,8 +1,9 @@
 # Analytics Engineering
 
-- Analytics engineering is the organization of an organization’s information.
+- Analytics Engineering is the organization of an organization's information.
 - [Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006).
-- [Analytics is a mess](https://benn.substack.com/p/analytics-is-a-mess). Explicitly create separate workspaces for curated (production) and messy (experimental, not-yet-production) work.
+- Accept that [analytics is a mess](https://benn.substack.com/p/analytics-is-a-mess).
+  - Explicitly create separate workspaces for curated (production) and messy (experimental) work.
 - Reports are rarely read, and often forgotten. [[Data Culture|Decision-making involves getting data, summarizing and predicting ad then taking action]].
   - One of the best ways to communicate data is telling stories. Stories are more captative and present a coherent view around a topic.
 - [The analytics engineer workload is a lot like being a data librarian](https://www.youtube.com/watch?v=T0Z_ibd3Hx0).
@@ -14,16 +15,16 @@
 - Analytics work can be roughly split in two buckets:
   1. Building automated [[Systems]], from metrics to [[Dashboards]], to enable self-service use cases for business users. This is what we now typically call analytics engineering.
   2. Doing ad-hoc analyses, to answer some questions directly.
-- Attach date to data team resources ([[Dashboards]], analysis, ...) so they exist as artifacts that were true at a certain point on time.
 - Make your modeling approach explicit (e.g. [Dimensional Modeling](https://youtu.be/lWPiSZf7-uQ)).
-- Modeling reality always get complex quickly. There are always small nuances, special conditions, things that changed, edge cases and, of course, errors.
-- Imagine your company today as a human society where only half the population can read (understand the data), one tenth can write (SQL queries), where half a dozen languages are spoken, and where most of the books ([[Dashboards]]/insight reports) in the library contain things that once were true but have since been outdated (but you don’t know which ones). Not a highly productive information ecosystem.
-- [[Teamwork|Collaborate with your team]] and break down complex models into reusable pieces.
+- Modeling reality gets complex quickly. There are small nuances, special conditions, things that changed, edge cases and, of course, errors.
+- Imagine your company today as a human society where only half the population can read (understand the data), one tenth can write (SQL queries), where half a dozen languages are spoken, and where most of the books ([[Dashboards]]/insight reports) in the library contain things that once were true but have since been outdated (but you don't know which ones). Not a highly productive information ecosystem.
 - Domain knowledge is more important than your coding skills.
-- Ground truth isn't a single place. Start by joining on common unique keys and counting things, then figure out what’s different and why.
+- Ground truth isn't a single place. Start by joining on common unique keys and counting things, then figure out what's different and why.
+- [[Teamwork|Collaborate with your team]] and break down complex models into reusable pieces.
 - Working with data is like exploring the horizon. It changes as soon as you look it from a higher place (more data).
-- Reduce the areas where business logic can be injected, create “time to live” policies on last mile transforms, build a culture of standardizing + celebrating access to cross-functional codebases.
-  - People default to writing business logic in the tool they are most comfortable with. The best way for data teams to prevent sprawling business logic is not just to limit last mile transforms in other tools, but also to invite others into their tools. [This logic will be written, and if the data team gate-keeps, it will be written outside of their visibility](https://ian-macomber.medium.com/data-systems-tend-towards-production-be5a86f65561). If a data team can educate and encourage contributions to their codebase, they invite code to be written where it most belongs.
+- Attach a date to your team output resources ([[Dashboards]], analysis, ...) so they exist as artifacts that were true at a certain point on time.
+- Reduce the areas where business logic can be injected, create "time to live" policies on last mile transforms, build a culture of standardizing + celebrating access to cross-functional codebases.
+  - People default to writing business logic in the tool they are most comfortable with. The best way for data teams to prevent sprawling business logic is to limit last mile transforms in other tools and invite others into their tools. [The logic will be written, and if the data team gate-keeps, it will be written outside of their visibility](https://ian-macomber.medium.com/data-systems-tend-towards-production-be5a86f65561)! If a data team can educate and encourage contributions to their codebase, they invite code to be written where it most belongs.
 - Modern data warehouses [might need new model design paradigms](https://github.com/ActivitySchema/ActivitySchema/blob/main/2.0.md).
 
 ## Resources

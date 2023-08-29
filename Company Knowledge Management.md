@@ -57,10 +57,10 @@ There are some basic principles and [[values]] that will make maintaining and ev
 Whenever you need to thoroughly brief a group of people on an important matter, consider using a [5-paragraph format](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/):
 
 1. Situation. What position you're in, and **why** you set out to do what you want to do.
-2. Objective.  **What** you want to achieve.
-3. Plan.  **How** you want to achieve it.
+2. Objective. **What** you want to achieve.
+3. Plan. **How** you want to achieve it.
 4. Logistics. What budget and resources are available, and how they are used.
-5. Communications.  How you’ll be coordinating among yourselves and with others in order to achieve your goal.
+5. Communications. How you’ll be coordinating among yourselves and with others in order to achieve your goal.
 
 ## Resources
 

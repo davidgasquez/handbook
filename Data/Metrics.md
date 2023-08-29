@@ -2,21 +2,20 @@
 
 ![[Quotes#^a5049d]]
 
-- There should probably be a single "North Star Metric" with 3-5 additional supporting metrics. You may also want to consider counter-metrics (or pairing metrics) that keep you from [over-rotating on a singular metric](https://www.dataliftoff.com/wp-content/uploads/2022/10/tennis_balls-1536x2048.jpeg).
+- Aim for a single **"North Star Metric"** alongside 3 to 5 additional supporting metrics. You may also want to consider counter-metrics (or pairing metrics) that keep you from [over-rotating on a singular metric](https://www.dataliftoff.com/wp-content/uploads/2022/10/tennis_balls-1536x2048.jpeg).
   - [Design **north star metrics that capture value to the customer** rather than value to your organization](https://roundup.getdbt.com/p/the-perfect-north-star-metric).
-- Metrics should use the SMART framework (Specific, Measurable, Achievable, Results-Oriented, Targeted).
-  - Pick the simplest metric that works for you. Metrics definitions should be as easy as a tool-tip away to find.
-- [Metrics are a tool, but not the destination](https://breakingpoint.substack.com/p/you-have-too-many-metrics)! You want to use the fewest metrics possible to cover all the fundamentals of your business.
 - Common understanding of a metric matters more than the metric precision. That understanding requires some standardization (names, time spans, ...) and that needs [[Coordination]].
   - Teams need to cooperate when defining metrics.
+- Rely on the SMART framework (Specific, Measurable, Achievable, Results-Oriented, Targeted).
+  - Pick the simplest metric that works for you. Metrics definitions should be as easy as a tool-tip away to find.
+- [Metrics are a tool, but not the destination](https://breakingpoint.substack.com/p/you-have-too-many-metrics)! You want to use the fewest metrics possible to cover all the fundamentals of your business.
 - Organizations need three things related to metrics:
   1. A [[Metrics|process for defining metrics]].
   2. A single source of truth for the metrics.
   3. A way to get metrics to all systems.
 - Product metrics allow measuring product progress and creating alignment in an outcome-oriented way. There are many product frameworks available to help us think about the right key things to track. Think about **[product metrics that matter](https://uxdesign.cc/product-metrics-that-matter-951b9e4d4eca)** for you.
 - Push a culture of metrics and goals as a source of learning, not promotions or success delegation.
-- Your job isn't to measure things. Your job is to change the product for the better — to create value for the customers in a viable way for the business.
-- Vanity metrics are surface-level metrics. They’re often large measures, like number of downloads, that impress others. **Clarity metrics** are operational metrics, like the number of minutes a day your product actually gets used or how long it took for a user to get service. These are the hidden gears that drive growth.
+- Vanity metrics are surface-level metrics. They're often large measures, like number of downloads, that impress others. **Clarity metrics** are operational metrics, like the number of minutes a day your product actually gets used or how long it took for a user to get service. These are the hidden gears that drive growth.
 
 ## Good Metric Checklist
 
@@ -38,7 +37,7 @@ Remember that there are no objectively right answers. [There is no correct win r
 
 - Metrics before Strategy. Your metrics are a reflection of your strategy. They help answer, is the strategy working? Metrics without strategy is looking at a bunch of random numbers. Define the strategy before you define your metrics.
 - Definition Is More Important Than A Dashboard. People focus on "building a dashboard." Much more important is choosing which metrics are important and defining those metrics well. Defining is more complicated than people think... There are many ways to define a retention metric depending on your product. Your dashboard is a method to communicate your metrics, which is important, but useless if you choose and define them poorly.
-- Outputs vs Inputs. Most metrics like a retention metric or revenue metric are output metrics. These are metrics you should monitor. Giving output metrics to teams as [[Goals]] can be dangerous. They need to break them down into input metrics to make them actionable.
+- Outputs vs Inputs. Most metrics like a retention metric or revenue metric are output metrics. These are metrics you should monitor. Giving output metrics to teams as [[goals]] can be dangerous. They need to break them down into input metrics to make them actionable.
   - When output metrics are given as goals, teams can often focus on the wrong inputs or thrash between inputs.
   - Focus on usage first (not revenue first). This is the most common version of outputs vs inputs.  Usage creates revenue, revenue does not create usage.  As a result, the most important metrics in terms of creating growth are not your revenue metrics, they are your usage metrics.
 - Mixing Up Retention and Engagement. Retention and engagement are not the same things. Retention is binary.  It answers the question, was this person active within my defined time period?  Yes or no. Engagement is is depth. It answers the question, how active were they within the defined timed period? 0→N. Engagement is one of three major inputs into driving retention.

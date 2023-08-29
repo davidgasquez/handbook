@@ -3,7 +3,7 @@
 Antifragility is a property of [[systems]] that increase in capability, resilience, or robustness as a result of stressors, shocks, volatility, noise, mistakes, faults, attacks, or failures. It's fundamentally different from the concepts of resiliency (ability to recover from failure) and robustness (ability to resist failure).
 
 - Antifragility is beyond resilience or robustness. **The resilient resists shocks and stays the same. The antifragile gets better**.
-- Antifragile systems benefit from a process of trial and error. [[Experimentation]] and [[Learning]] from failures are essential for improving and evolving.
+- Antifragile systems benefit from a process of trial and error. [[experimentation]] and [[learning]] from failures are essential for improving and evolving.
 - [[Evolution]] is antifragile.
   - In a stable system, animals won't evolve. In a volatile system, they will.
   - [A little bit of disorder is good](https://astralcodexten.substack.com/p/book-review-antifragile). [[Evolution]] is a system that allows volatility rather than unwisely trying to buffer against it.
