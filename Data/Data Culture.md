@@ -16,11 +16,11 @@
 - [Data teams should be a part of the business conversations from the beginning](https://cultivating-algos.stitchfix.com/). Get the data team involved early, have open discussions with them about the existing work, and how to prioritize new work against the existing backlog. Don’t accept new work without addressing the existing bottlenecks, and don’t accept new work without requirements. **Organizational [[politics]] matter way more than any data methods or technical knowledge**.
   - Including data people in meetings causes happy accidents!
   - The layout of the organization impacts time of the information to propagate and adds losses.
-  - The modern data team needs to have *real organizational power*—it needs to be able to say "no” and mean it. If your data team does not truly have the power to say no to stakeholders, it will get sent on all kinds of wild goose chases, be unproductive, experience employee churn, etc.
+  - The modern data team needs to have *real organizational power* — it needs to be able to say "no” and mean it. If your data team does not truly have the power to say no to stakeholders, it will get sent on all kinds of wild goose chases, be unproductive, experience employee churn, etc.
   - Data should report to the CEO. Ideally at least with some weekly metrics split into (a) notable trends, (b) watching close, and (c) business as usual.
   - If data is the most precious asset in a company, does it make sense to have only one team responsible for it?
     - [People talk about data as the new oil but for most companies it’s a lot closer uranium](https://news.ycombinator.com/item?id=27781286). Hard to find people who can to handle or process it correctly, nontrivial security/liabilities if PII is involved, expensive to store and a generally underwhelming return on effort relative to the anticipated utility.
-  - [The pain in data teams come from needing to influence PMs/peers with having little control of them. Data teams need to become really great internal marketers/persuaders](https://anchor.fm/census/episodes/The-evolution-of-the-data-industry--data-jobs-w-Avo-CEO-and-Co-founder-Stefania-Olafsdottir-e16hu1l). That said, it shouldn't be the data team job to convince the organization to be data driven. That's not an effective way of spending resources.
+- [The pain in data teams come from needing to influence PMs/peers with having little control of them. Data teams need to become really great internal marketers/persuaders](https://anchor.fm/census/episodes/The-evolution-of-the-data-industry--data-jobs-w-Avo-CEO-and-Co-founder-Stefania-Olafsdottir-e16hu1l). That said, it shouldn't be the data team job to convince the organization to be data driven. That's not an effective way of spending resources.
 - People problems are orders of magnitude more difficult to solve than data problems.
 - **Integrate data where the decision is made**. E.g: Google showing restaurant scores when you're looking something for dinner.
   - Reduce the time to insights. If the data is already in the tool you're using, then there's zero time to insights. Provide a set of tools with the same data and let people choose depending on the goal.
@@ -63,7 +63,7 @@
   - Is Data Accessible and Discoverable?
   - Is Data Secure?
 - [Good things come from a knowledge of what a system is doing and when it is doing it](https://buz.dev/blog/the-contract-powered-data-platform).
-  - Measure [[Data Quality]] to help set high standards for your data team.
+  - Measure [[data quality]] to help set high standards for your data team.
   - Only after measurement can you optimize cost.
   - Only after timing can you make things faster.
 - [Aim for a culture of celebrating measurable progress and learnings, versus celebrating shipping](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).

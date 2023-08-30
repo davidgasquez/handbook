@@ -18,7 +18,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Do one thing and do it well**.
   - By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
   - Design composable primitives.
-- **Make it work, make it right, make it fast**.
+- [**Make it work, make it right, make it fast**](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast).
   - Build a prototype as soon as possible to get a sense of the entire process.
   - Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
   - There is nothing so useless as doing efficiently that which should not be done at all.

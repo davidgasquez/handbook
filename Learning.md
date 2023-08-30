@@ -3,6 +3,7 @@
 - Learning is a process of [[Conceptual Compression]].
 - Understand the base and build from it. First Principles Method. Seek the big picture understanding - focus on concepts not details.
 - Read about topics you care, observe the world around you and keep a beginner's mind (*shoshin*).
+  - Find a mentor if you can and ask them questions.
 - Don't be afraid to[[Asking Questions|ask a question]] that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
 - You can apply [The Feynman Technique](https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/):
   1. Identify the subject.
