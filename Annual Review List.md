@@ -8,3 +8,4 @@
 - [How to get the most out of next year](https://drive.google.com/file/d/0B2PaeRjVqAN7MngxTXFPQkpLVjg/view).
 - [You (Probably) Don't Exist](https://youtu.be/8kX62n6yNXA).
 - [Human, the movie](https://www.youtube.com/user/HUMANthemovie2015).
+- [40 questions to ask yourself every year](https://stephanango.com/40-questions). Also, [decade edition](https://stephanango.com/40-questions-decade).
