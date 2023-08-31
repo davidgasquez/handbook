@@ -14,8 +14,8 @@
   - The purpose for which the company exists.
 - The way people within a company do things—how they communicate, how they create, how they decide—is that company's operating system.
   - All organizations have their own way of doing things ([[Culture]]) and their own particular views of how the world should work (vision).
-	- **Vision** is the change in the world you want to see.
-	- **Mission** defines the approach that you will execute to make your vision a reality. The **strategy** further refines the mission into concrete steps.
+    - **Vision** is the change in the world you want to see.
+    - **Mission** defines the approach that you will execute to make your vision a reality. The **strategy** further refines the mission into concrete steps.
   - There are two core processes that take place within any company: making decisions and doing work.
 - Align [[incentives]]. Make the right thing to do the easiest thing to do.
 - The layout of the organization impacts how many hops the information has to do.

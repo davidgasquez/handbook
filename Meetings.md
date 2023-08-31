@@ -5,8 +5,8 @@
 - Nominate a note-taker prior to the start of the meeting.
 - Share a draft agenda prior to the meeting (with consideration for time zones)
 - Review the agenda at the top of the meeting, asking for other items and the order.
-- During the meeting, collect to-do’s, blockers/asks, and DRIs.
-- You can add [[Feedback]] as an agenda item, and ask the participants to take a few minutes to jot down feedback for the next meeting.
+- During the meeting, collect to-do's, blockers/asks, and DRIs.
+- You can add [[feedback]] as an agenda item, and ask the participants to take a few minutes to jot down feedback for the next meeting.
 - When asking for a meeting, send a message with:
   1. **Purpose.** State reason for meeting. Include necessary information, links, context, ...
   2. **Duration.** State restrictions (i.e. "at least 30 min", "at most 50min").

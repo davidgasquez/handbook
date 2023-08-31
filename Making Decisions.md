@@ -1,6 +1,6 @@
 # Making Decisions
 
-Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a [[Problem Solving]] activity, and it can be more or less [[Thinking|rational or irrational]] based on the decision maker's [[Values]], beliefs, and (perceived) knowledge.
+Decision making is the process we use to identify and choose alternatives, producing a final choice, which may or may not result in an action. It's basically a [[problem solving]] activity, and it can be more or less [[Thinking|rational or irrational]] based on the decision maker's [[values]], beliefs, and (perceived) knowledge.
 
 - Living a good life depends on our ability to make good decisions constantly.
 - Not perceiving the world accurately makes us worse at making decisions.

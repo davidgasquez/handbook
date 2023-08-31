@@ -1,6 +1,6 @@
 # Goals
 
-Goals are good for setting a direction. [[Systems]] are for making progress. You do not rise to the level of your goals. You fall to the level of your [[Systems]]. Build systems to take the right actions effortlessly. It's the perspective of looking at your life, noticing the parts that are inefficient, or require willpower, or just never get done. There are some underlying points to always bear in mind with systems:
+Goals are good for setting a direction. [[Systems]] are for making progress. You do not rise to the level of your goals. You fall to the level of your [[systems]]. Build systems to take the right actions effortlessly. It's the perspective of looking at your life, noticing the parts that are inefficient, or require willpower, or just never get done. There are some underlying points to always bear in mind with systems:
 
 - Minimize decision points. The main thing that consumes willpower isn't the process of doing a task, it's deciding to do the task in the first place. The goal is to get stuff done, not to decide to get stuff done.
 - Shape the default. The ideal situation is for doing the right action to feel like the default.
