@@ -11,6 +11,7 @@
   - [All we do, all we ever do, is trade one set of problems for another](https://seths.blog/2021/07/progress-is-a-trade/).
 - Don't [[focus]] on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you're trying to do when requesting help.
 - Humans get obsessed with solutions rather than first building an obsession with a problem. Obsess around problems, not solutions.
+- We don't even realize something is broken until someone else shows us a better way.
 - [Most of the time problems already have solutions](http://gordonbrander.com/pattern/culture-is-a-shared-mechanism-for-problem-solving/):
   - The first group of people that encounter a problem don't know how to solve it.
   - They figure out a way of doing it, and when they get to a solution that's good enough (not perfect, just good enough), that's what they settle on.
