@@ -7,7 +7,7 @@
   - Ideas can feel complete. It's only when you try to [put them into words](http://paulgraham.com/words.html) that you discover they're not. If you never subject your ideas to that test, you'll not only never have fully formed ideas, but also never realize it.
   - [Drawing can help visualize ideas](https://ralphammer.com/how-to-draw-ideas/).
 - [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro) The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are. For style:
-  - **Be concise**. Understand the topic you're writing about. [Use simple words and sentences](http://www.paulgraham.com/simply.html). Put the most important things first. Never use a long word when a short one will do.
+  - [**Be concise**](https://stephanango.com/concise). Understand the topic you're writing about. [Use simple words and sentences](http://www.paulgraham.com/simply.html). Put the most important things first. Never use a long word when a short one will do. Explain ideas in simple terms, strongly and clearly, so that they can be rebutted, remixed, reworked — or built upon. Concise explanations accelerates [[making decisions]] and make ideas useful. One idea can more easily be combined with another idea to form a third idea!
   - **Be Useful**. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
   - **Be specific**. Avoid vague language (remove qualifiers). Cut the fluff. Delete unnecessary words. Say what you mean. Make positive statements about reality.
   - **Be consistent**.
