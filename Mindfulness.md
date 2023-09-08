@@ -1,8 +1,12 @@
 # Mindfulness
 
-- Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful and [[Meditation|mindful]] about it. You take things for granted, and then they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment as a child does. [Life is short](http://paulgraham.com/vb.html), [enjoy the silly bit in between](https://youtu.be/-mu780uB7mI).
+- Make [[time]] to reflect. Don't waste time doing anything you don't enjoy by momentum. Not doing something that isn't worth doing is a wonderful way to spend your [[time]].
+  - Look at the big picture and don't climb the current mountain out of inertia (ranks in business, status among friends, ...).
+  - [If you haven't done it already, schedule a day and time when you can realistically assess how you want your life to affect you and other people, and what you must change to better achieve this](https://www.lesswrong.com/posts/4psQW7vRwt7PE5Pnj/too-busy-to-think-about-life).
+- Enjoy Life. Enjoy people. Appreciate the fact that [you're alive](https://youtu.be/9D05ej8u-gU). Be grateful and [[Meditation|mindful]] about it.
+  - [Life is short](http://paulgraham.com/vb.html), [enjoy the silly bit in between](https://youtu.be/-mu780uB7mI).
+  - You take things for granted, and then, they're gone. Don't wait to do things that matter, and savor the time you have. Be present and enjoy the moment as a child does.
   - [Humans quickly return to a relatively stable level of happiness despite major positive or negative events or life changes](https://en.wikipedia.org/wiki/Hedonic_treadmill). Optimize for tranquility in your life.
-- Make [[time]] to reflect. Don't waste time doing anything by momentum if you don't enjoy it. Not doing something that isn't worth doing is a wonderful way to spend your [[Time]]. Look at the big picture and don't climb the current mountain out of inertia (ranks in business, status among friends, ...). [If you haven't done it already, schedule a day and time when you can realistically assess how you want your life to affect you and other people, and what you must change to better achieve this](https://www.lesswrong.com/posts/4psQW7vRwt7PE5Pnj/too-busy-to-think-about-life).
 - One task at a time. [[Focus|No distractions]].
 - **KISS**. What would less/simple look like?
   - When [[Communication|communicating]], do it in a clear and concise way.
@@ -30,7 +34,7 @@
   - [When you think in categories, you underestimate how different (in may other dimensions) two facts are when they are in the same category, you overestimate how different they are when there is a boundary between them and, when you pay attention to these boundaries you don't realize about the big picture](https://www.youtube.com/watch?v=NNnIGh9g6fA).
   - We rationalize things through one lens. Real causes are gray and hard to understand.
 - Recognize that tradeoffs happen everywhere. List them explicitly.
-  - We trade [[Time]] against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.
+  - We trade [[time]] against money against effort against happiness against social capital — we can do so blindly, and hope for the best, or we can think about them carefully and deliberately, and take advantage of opportunities to get more of everything (arbitrage). Identify all your relevant currencies, and note which are being spent faster or are more valuable.
 - Appreciate what you have. [Don't overestimate the hedonic impact of future events](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html). [Showing gratitude for the good things you have is the most powerful happiness boosting activity there is](https://youtu.be/WPPPFqsECz0).
 - There's no second chance at life. [This is the one chance you have to live as a talking monkey in space at the best point in history as the smartest species on the planet using magic on a daily basis like the internet and jet planes and smartphones with access to all human knowledge at your fingertips and the chance to talk about how cool being alive is](https://youtu.be/VLAAy_pM-k8).
 - Do not change because of what others or society want, change because of what you want. It's easy to get carried by the environment and start doing things you don't want to do.
@@ -40,6 +44,6 @@
 - Overcome the bystander effect:  there is something that everyone wants to *happen* but nobody wants to be the one to *do* it. Develop the reflex of noticing bystander apathy in your environment, and actively do the thing. E.g. ask a question when there's a confusing point in a talk, notice tiny tragedies of the commons (an empty jug of water that nobody wants to refill), notice when everyone feels uncomfortable being the first to, say, dance at a party, and just do it.
 - [Our behavior is made up of a complex and chaotic soup of so many factors that it's downright silly to think there's a singular, autonomous "you" calling the shots](https://youtu.be/GRYcSuyLiJk).
 - Tools and ideas are not neutral. They have baked some principles and values.
-  - E.g: [[Social Media Issues]], [[Blockchain]] protocols that use PoW wasting energy.
-  - A person holding a hammer interacts with the world in a different way and could be considered a different entity. Same with ideas.
+  - E.g: [[Social Media Issues|social media]] encourages rage, [[blockchain]] protocols "waste" energy using Proof of Work.
+  - A person holding a hammer interacts with the world in a different way. It is a different entity. Same with ideas.
 - Most of the world is held together with duct tape so don't be surprised when it breaks.
