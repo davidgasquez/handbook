@@ -1,6 +1,6 @@
 # Productivity
 
-- Define the task requirements and [[Goals]] clearly.
+- Define the task requirements and [[goals]] clearly.
 - Done is better than perfect.
 - Do the worst thing first. Give yourself a reward once you're done.
 - Adopt a fixed volume approach to productivity.
@@ -11,5 +11,6 @@
 - [Improve your environment](https://nesslabs.com/neuroscience-of-procrastination). Design your workspace in a way that minimizes distractions, whether physical or digital.
 - **What is optimal for me won't be optimal for you**. You'll have to experiment to find out what works best for you.
 - [[Journaling|Keep a log]] of what happened each day. You can also add what you've learned!
-- Create [[Checklist]] for repetitive processes. For example, a [[Checklist]] detailing all the task to do before ending the day.
-- "Where is the good knife?" If you're looking for your good X, you have bad Xs. Throw those out.
+- Create [[checklist]] for repetitive processes. For example, a [[checklist]] detailing all the task to do before ending the day.
+- "Where is the good knife?" If you're looking for your good X, it means you have bad Xs. Throw those out.
+- Your mind should be flexible, but your processes should be repeatables and predictable.
