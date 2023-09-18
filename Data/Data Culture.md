@@ -6,7 +6,7 @@
   - If analysis is not actionable, it does not really matter. Analysis must drive to action. [Clear results won't spur action themselves](https://www.linkedin.com/posts/eric-weber-060397b7_data-analytics-machinelearning-activity-6675746028144205824-CQxW/). The organization needs to be ready to pivot when something isn't working.
   - [Data's impact is tough to measure — it doesn't always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html).
   - The Data Team should be building and iterating the [Data Product](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/).
-- Data is fundamentally a collaborative design process rather than a tool, an analysis, or even a product. [Data works best when the entire feedback loop from ideation to production is an iterative process](https://pedram.substack.com/p/data-can-learn-from-design).
+- Data is fundamentally a collaborative design process rather than a tool, an analysis, or even a product. [Data works best when the entire feedback loop from idea to production is an iterative process](https://pedram.substack.com/p/data-can-learn-from-design).
   - [To get buy in, explain how the business could benefit from better data](https://youtu.be/Mlz1VwxZuDs) (e.g: more and better insights). Start small and show value.
   - Run *[Purpose Meetings](https://www.avo.app/blog/tracking-the-right-product-metrics)* or [Business Metrics Review](https://youtu.be/nlMn572Dabc).
     - Purpose Meetings are 30 min meetings in which stakeholders, engineers and data align on the goal of a release and what is the best way to evaluate the impact and understand its success. Align on the goal, commit on metrics and design the data.

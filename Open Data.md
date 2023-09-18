@@ -59,10 +59,10 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
   - Rewarding the datasets creators according to the usefulness. E.g: [CommonCrawl built an amazing repository](https://commoncrawl.org/) that OpenAI has used for their GPTs LLMs. Not sure how well CommonCrawl was compensated.
 - **Open Source and Decentralized**. Datasets should be stored in multiple places.
   - Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources. Similar to:
-	- [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
-	- [Trustfall](https://github.com/obi1kenobi/trustfall).
-	- Open source data integration projects like [Airbyte](https://airbyte.com/). They can used to build open data connectors making possible to replicate something from `$RANDOM_SOURCE` (e.g: spreadsheets, Ethereum Blocks, URL, ...) to any destination.
-	- Adapters are created by the community so data becomes connected.
+    - [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
+    - [Trustfall](https://github.com/obi1kenobi/trustfall).
+    - Open source data integration projects like [Airbyte](https://airbyte.com/). They can used to build open data connectors making possible to replicate something from `$RANDOM_SOURCE` (e.g: spreadsheets, Ethereum Blocks, URL, ...) to any destination.
+    - Adapters are created by the community so data becomes connected.
   - Integrate with the modern data stack to avoid reinventing the wheel.
   - Decentralized the computation (where data lives) and then cache copies of the results (or aggregations) in CDNs. Most queries require only reading a small amount of data and going to be similar.
 
@@ -75,12 +75,13 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Distribution**. Decentralized. No central authority. Can work in a closed network. Cache/CDN friendly.
   - A data package is an URI ([like in Deno](https://deno.land/manual@v1.31.2/examples/manage_dependencies)). You can import from an URL (`data add example.com/dataset.yml` or `data add example.com/hub_curated_datasets.yml`).
   - As [Rufus Pollock puts it](https://datahub.io/docs/dms/notebook#go-modules-and-dependency-management-re-data-package-management-2020-05-16-rufuspollock), Keep it as simple as possible. Store the table location and schema and get me the data on the hard disk fast.
+  - [Bootstrap a package registry](https://antonz.org/writing-package-manager/). E.g: a GitHub repository with lots of known datapackages that acts as fallback and quick way to get started with the tool.
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
   - Datasets could be linked to a [[Open Data#Datafile|Datafile]]/`datapackage.yml` with description, default visualizations, WASM linked code...
   - One repository, one dataset or catalog/hub.
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
-	- For example, bring all HF datasets by making a simple PR on their repository that generates a `datapackage.yml` reusing their parquet files.
-	- [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
+    - For example, bring all HF datasets by making a simple PR on their repository that generates a `datapackage.yml` reusing their parquet files.
+    - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
 - **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations or in the fly when pulling data. The package manager should be **format and storage agnostic**.
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
@@ -321,3 +322,11 @@ schema:
  primary_key: "country_name"
 metadata: "..."
 ```
+
+#### Simple Package Manager Design
+
+- A package spec file describing a package.
+- A hierarchical owner/name folder structure for installed packages.
+- Spec file locator with fallback to the package registry.
+- Versioning and latest versions.
+- Asset checksums.

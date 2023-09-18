@@ -13,6 +13,7 @@
   - It offers no protection against some team inside the company breaking the whole web by moving to a different URI or refactoring their domain model in incompatible ways.
     - For the Semantic Web to work, the infrastructure behind it needs to permanently keep all of the necessary sources that a file relies on. This could be a place where [[IPFS]] or others [[Decentralized Protocols]] could help!
   - It tends to assume that the world fits into neat categories. Instead, we live in a world where membership in categories is partial, probabilistic, contested (Pluto), and changes over time.
+- Knowledge graphs might be a great way to give AI a "world view".
 - The status quo of the semantic web space is still SPARQL.
   - You can build [a knowledge graph database on top of a relational engine](https://twitter.com/RelationalAI).
 - Knowledge Graphs act as a semantic layer.
