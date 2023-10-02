@@ -9,4 +9,5 @@
   2. Create automation equivalents. Add command-line snippets to replace steps.
   3. Create automation. Create a script that runs everything.
 - Drive standards through automation and building internal tools/scripts rather than through extensive [[documentation]].
+  - Standards can help to reduce this friction but take time. Before jumping into standards processes, [consider other ways to encourage consistency](https://blog.ldodds.com/2023/09/18/consistency-before-standards/).
 - Makefiles are a great way to document and consolidate different projects of a team. Each project should have a `make` that runs it, and perhaps a `make deploy` to deploy it. Language and tool independent!

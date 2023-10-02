@@ -63,6 +63,7 @@ There is an emerging landscape of [Data and Blockchain](https://primodata.org/la
 - [Probably Nothing Labs](https://www.probablynothinglabs.xyz/)
 - [Space And Time](https://www.spaceandtime.io/)
 - [Credmark](https://credmark.com/) ([GitHub](https://github.com/credmark))
+- [3xpl](https://3xpl.com/)
 
 #### Tools
 
@@ -79,6 +80,7 @@ There is an emerging landscape of [Data and Blockchain](https://primodata.org/la
 - [Cosmos ETL](https://github.com/bizzyvinci/cosmos-etl)
 - [Luabase](https://github.com/luabase)
 - [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
+- [Subsquid](https://subsquid.io/)
 
 ### Bounty Based Collaboration
 

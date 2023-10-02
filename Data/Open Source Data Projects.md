@@ -52,4 +52,4 @@
 
 ---
 
-More at the [`awesome-oss-alternatives` repository](https://github.com/RunaCapital/awesome-oss-alternatives) and my [Open Source Stack GitHub Curated List](https://github.com/stars/davidgasquez/lists/open-source-stack)
+More at the [`awesome-oss-alternatives` repository](https://github.com/RunaCapital/awesome-oss-alternatives), [twitter](https://twitter.com/johnrushx/status/1706424446205022294), [`tools-for-makers` repository](https://github.com/MarsX-dev/tools-for-makers#open-source-alternatives-to-xxx), and my [Open Source Stack GitHub Curated List](https://github.com/stars/davidgasquez/lists/open-source-stack)

@@ -6,6 +6,7 @@
 
 - [Before you dive into how to build a dashboard, the first thing you should ask yourself is whether this is the right tool for your situation.](https://shopify.engineering/make-dashboards-using-product-thinking-approach) Understand your problem and your audience; design a dashboard that does one thing really well, for a clear set of users.
   - Answer three specific questions: [How, What, How](https://youtu.be/g2-dkJkZjiI)?
+    - The data will move 1 of three directions; up, down or stay the same. Ahead of time, what will the stakeholder do in each case? Are all three answers the same?
 - Strive to create dashboards that are either standalone or include links to provide the relevant context. Without meaning, data is just digits.
 - [Add all the possible context into the dashboard](https://www.youtube.com/watch?v=Kub2bXrKmOE):
   - Instructions.
@@ -25,6 +26,8 @@
 - Add an [explicit expiration date so it doesn't mold](https://mikkeldengsoe.substack.com/p/moldy-data).
 - [Have meetings where you check and discuss the metrics on the dashboard](https://counting.substack.com/p/the-utility-of-an-unwatched-dashboard). This creates a powerful forcing function to look at the thing.
 - Follow up and iterate on your work by marketing, improving and maintaining it into the future.
+- Provide deep links in the dashboard to the underlying data or specific segmentations/filters.
+- Design matters a lot — if it looks bad, people won't look at it.
 
 The value is that now discussions are happening about the data.
 
@@ -63,3 +66,5 @@ The value is that now discussions are happening about the data.
   - That the data is correct.
   - That the transformation logic is correct.
   - That the data is complete.
+- The dashboard is always just a snapshot of "what" is happening, but knowing the underlying base level data is always needed to understand "why" it’s happening.
+- Usually, answers don't lead to Eureka moments, they lead to follow up questions and follow up questions.
