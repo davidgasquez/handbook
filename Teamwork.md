@@ -28,6 +28,7 @@
   - You can also have no durable cross-functional teams. Teams assemble around a project and disperse once the project is done.
 - Run [Automated Check-ins](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
 - The right way to promote people is to give them [meaningful and clear goals](https://youtu.be/oIMvMb5wVO4) for the organization and promote them if they hit the goals.
+- [If you don't promote and communicate your work, no one else will](https://twitter.com/natolambert/status/1709598547178582373).
 - Lack of ownership is the root of all evil.
   - Having skin in the game improves the decision making process.
   - [Have direct responsible individuals for everything. Everyone's problem is no one's problem](https://nintil.com/programming). Having a name accountable instead of a vague "the team" or "the process" makes it easy to make changes.
