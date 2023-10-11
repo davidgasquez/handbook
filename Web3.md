@@ -64,6 +64,10 @@ There is an emerging landscape of [Data and Blockchain](https://primodata.org/la
 - [Space And Time](https://www.spaceandtime.io/)
 - [Credmark](https://credmark.com/) ([GitHub](https://github.com/credmark))
 - [3xpl](https://3xpl.com/)
+- [DefiLlama API](https://defillama.com/docs/api)
+- [Etherscan API](https://etherscan.io/apis)
+- [Blockchain.com API](https://www.blockchain.com/explorer/api)
+- [Cryptostats](https://cryptostats.community/)
 
 #### Tools
 
@@ -81,6 +85,7 @@ There is an emerging landscape of [Data and Blockchain](https://primodata.org/la
 - [Luabase](https://github.com/luabase)
 - [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 - [Subsquid](https://subsquid.io/)
+- [Cryo](https://github.com/paradigmxyz/cryo)
 
 ### Bounty Based Collaboration
 

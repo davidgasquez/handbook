@@ -35,16 +35,18 @@
 - [dbt Community](https://www.getdbt.com/community/)
 - [Locally Optimistic](https://locallyoptimistic.com/community/)
 
-### Public `dbt` Projects
+### Public Data Projects
 
 - [GitLab](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt).
 - [Mattermost](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt).
-- [MetricsDAO](https://github.com/MetricsDAO).
-- [Flipside Crypto](https://github.com/FlipsideCrypto/external-models).
-- [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
-- [Gravity Data](https://github.com/Gravity-Data/gravity-dbt)
+- [Mozilla](https://github.com/mozilla/bigquery-etl).
+- [Dagster Open Platform](https://github.com/dagster-io/dagster-open-platform)
+- [MIT Open Learning](https://github.com/mitodl/ol-data-platform)
+- [Catalyst Cooperative PUDL](https://github.com/catalyst-cooperative/pudl).
 - [Spellbook](https://github.com/duneanalytics/spellbook/)
-- [B2B SaaS](https://github.com/SOMAStandard/soma_b2b_saas)
+- [Flipside Crypto](https://github.com/FlipsideCrypto/external-models).
+- [MetricsDAO](https://github.com/MetricsDAO).
+- [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
 
 ### Related [[Podcasts]]
 
