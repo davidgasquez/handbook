@@ -221,7 +221,9 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 - [Fivethirtyeight](https://data.fivethirtyeight.com/).
 - [BuzzFeed News](https://github.com/BuzzFeedNews).
 - [ProPublica](https://www.propublica.org/datastore/).
-- [World Bank](https://data.worldbank.org/indicator)
+- [World Bank](https://data.worldbank.org/indicator).
+- [Ecosyste.ms](https://repos.ecosyste.ms/open-data). An open API service providing repository metadata for many open source software ecosystems.
+- [Deps.dev](https://deps.dev/).
 
 ### Open Data Organizations
 
