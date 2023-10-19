@@ -39,6 +39,7 @@
 - [Fold](https://github.com/dream-faster/fold)
 - [Prophet](https://facebook.github.io/prophet/docs/quick_start.html)
 - [Darts](https://github.com/unit8co/darts)
+- [Pytimetk](https://github.com/business-science/pytimetk)
 - [Sktime](https://github.com/alan-turing-institute/sktime)
 - [Awesome Collection](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [Video with great ideas](https://www.youtube.com/watch?v=9QtL7m3YS9I)
