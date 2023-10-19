@@ -63,6 +63,7 @@
 - [Teams usually don't stop to think what (and why) things are working or not working](https://cutlefish.substack.com/p/tbm-952-when-nothingeverything-actually). Make time for that.
 - By [swinging the pendulum](https://twitter.com/BrandonMChu/status/1502312472644100105) and changing focus periodically, you accept more extreme (and clear) outcomes in the short term, but in the long term arrived at the middle ground you aim for.
 - [Big organizations develop strategic inefficiency to carry on doing what they're doing](https://youtu.be/v1eWIshUzr8?t=1147).
+- You can’t sell something like versioning or encryption as the key feature, you need to put out a comparable product and have these features be the thing that tips the scale in your favour.
 
 ## Resources
 
