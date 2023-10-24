@@ -101,6 +101,7 @@
   - The sheer scale and/or complexity of how things work. There is truly no-one who understands the emergent behavior of the [[Systems|system]].
     - E.g: Slow _boiling frog_ situations where existing tools have become ineffective but no one noticed.
 - [Act as if you might leave on short notice](https://jmmv.dev/2021/04/always-be-quitting.html).  Document your knowledge, long-term plans, meetings, train people around you, empower other people, delegate and keep learning!
+  - Write everything in plain text and in a shared place so is not lost.
 - You have to put in more effort to make something appear effortless. Effortless, elegant performances are often the result of a large volume of effortful. Praise this instead of complex solutions.
 - Invisible work will happen. If you're doing it, make an effort to share and get credit for it. Build a narrative (story) for your work. Arm your manager and fight recency bias keeping track of all the things you've done.
 - As a manager, give problems to solve, not solutions. Make sure the team knows what they're working toward and that it has the resources needed to complete the work.
@@ -136,6 +137,23 @@
 - Build great relationships so you can be supported in decisions to get some early wins.
 - One of the most valuable things you can do during onboarding is update/write documentation and [create/update checklist of all the processes](https://lifeitself.org/tao/onboarding#create-an-onboarding-issue). This will help you and your team in the long run.
 - [Make bite-sized impact, fast](https://stormdata.substack.com/p/reflecting-on-my-impact-during-my).
+
+## [Team Management](http://pnewman.org/engineering_mgmt_checklist.txt)
+
+- Every member of the team knows what they should be working on.
+- Every member of the team knows what to do if they finish a task, or get blocked.
+- Every member of the team has had a meaningful career conversation within the last six months.
+- Every member of the team receives timely, meaningful, actionable performance feedback.
+- Work that needs to get done aligns with work that is rewarded by the promotion process.
+- Performance reviews never contain surprises.
+- Team members are able to express ideas for new projects or changes to the way the team works.
+- The team is able to give input on roadmaps and plans.
+- The team is staffed adequately and work is evenly distributed.
+- The team, overall, has the level of functional expertise required to do the work, and a reasonable number of stretch goals are available.
+- Conflicts are resolved in a fair and respectful way.
+- Diversity is represented and embraced; a broad spectrum of views are considered.
+- Progress and set backs are regularly communicated to key stakeholders.
+- When collaborative projects are completed, credit is shared among the contributors.
 
 ## Links
 

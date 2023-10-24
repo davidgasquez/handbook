@@ -14,15 +14,16 @@
 - [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) and the [Web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack).
 - [Kernel Community](https://kernel.community/en/learn/).
 - Decentralized friendly and open source alternatives:
-  - [Trello](https://dework.xyz/).
-  - [Notion](https://www.clarity.so/).
-  - [Medium](https://mirror.xyz/dashboard).
-  - [Search](https://slate.host/).
-  - [Imgur](https://www.pinata.cloud/).
-  - [Netlify](https://fleek.co/).
-  - [Firebase](https://textile.io).
-  - [Dropbox](https://www.sliksafe.com/). [Another](https://files.chainsafe.io/).
-  - [Publishing](https://docs.distributed.press/).
+  - [Trello](https://dework.xyz/)
+  - [Notion](https://www.clarity.so/)
+  - [Medium](https://mirror.xyz/dashboard)
+  - [Search](https://slate.host/)
+  - [Imgur](https://www.pinata.cloud/)
+  - [Netlify](https://fleek.co/)
+  - [Firebase](https://textile.io)
+  - [Dropbox](https://www.sliksafe.com/). [Another](https://files.chainsafe.io/)
+  - [Publishing](https://docs.distributed.press/)
+  - [Git](https://radicle.xyz/)
 
 ## Links
 

@@ -30,10 +30,11 @@ Your goal is not to do what _you_ think is best, it's to help _others_. This inc
 ## Giving Feedback
 
 - Feedback needs to be informal, frequent, and done authentically.
+- Feedback should be offered with a willingness to listen in return. Those giving feedback should also ask for it.
 - Challenge ideas, not people. Address behavior, but don't label people.
 - Most feedback you deliver should be positive. This makes the negative feedback more important.
 - Prepare. What do you value in someone? Where do you think are their biggest opportunities to improve?
-- **Keep the feedback actionable, specific, and kind.**
+- **Keep the feedback actionable, specific, and kind.** Be as specific as possible and contain concrete suggestions on how to improve.
 - Imagine what things feel like from the other perspective.
 - Criticize in private, praise in public.
 - You can use a [feedback model](https://jacobian.org/2021/apr/22/three-feedback-models/). These are behavioral and impact focused.
