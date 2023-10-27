@@ -21,17 +21,17 @@ These points are expanded with more details in courses like [Made With ML](https
 
 ### Resources
 
-- [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/).
-- [Applied ML](https://github.com/eugeneyan/applied-ml).
-- Microsoft [ML Model Production Checklist](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-model-checklist/) and [Fundamental Checklist](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-fundamentals-checklist/).
-- [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/).
-- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/).
-- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning).
-- [Awesome Machine Learning Engineer](https://github.com/radix-ai/awesome-machine-learning-engineer).
-- [Machine Learning Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap).
-- [Awesome MLOps](https://github.com/visenger/awesome-mlops).[Another awesome MLOps](https://github.com/kelvins/awesome-mlops).
-- [Made With ML](https://madewithml.com/).
-- [Scikit-Learn Related Projects](https://scikit-learn.org/stable/related_projects.html).
+- [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/)
+- [Applied ML](https://github.com/eugeneyan/applied-ml)
+- Microsoft [ML Model Production Checklist](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-model-checklist/) and [Fundamental Checklist](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-fundamentals-checklist/)
+- [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
+- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+- [Awesome Machine Learning Engineer](https://github.com/radix-ai/awesome-machine-learning-engineer)
+- [Machine Learning Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops).[Another awesome MLOps](https://github.com/kelvins/awesome-mlops)
+- [Made With ML](https://madewithml.com/)
+- [Scikit-Learn Related Projects](https://scikit-learn.org/stable/related_projects.html)
 - [Getting machine learning to production](https://vickiboykis.com/2020/06/09/getting-machine-learning-to-production/)
 
 ## [Machine Learning Technical Debt](https://matthewmcateer.me/blog/machine-learning-technical-debt)
@@ -45,11 +45,12 @@ Tech debt is an analogy for the long-term buildup of costs when engineers make d
 
 ## Resources
 
-- [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go).
-- [The Data Visualization Catalogue](https://datavizcatalogue.com/).
-- [Chart Dos and Don'ts](https://www.eea.europa.eu/data-and-maps/daviz/learn-more/chart-dos-and-donts).
-- [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/).
-- [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked).
-- [Guides for Visualizing Reality](https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/).
-- [Model Interpretability](https://ff06-2020.fastforwardlabs.com/).
-  - [Diverse Counterfactuals](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/).
+- [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/)
+- [Visualization Curriculim](https://jjallaire.github.io/visualization-curriculum/)
+- [Chart Dos and Don'ts](https://www.eea.europa.eu/data-and-maps/daviz/learn-more/chart-dos-and-donts)
+- [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
+- [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)
+- [Guides for Visualizing Reality](https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/)
+- [Model Interpretability](https://ff06-2020.fastforwardlabs.com/)
+- [Diverse Counterfactuals](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)

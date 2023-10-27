@@ -212,22 +212,23 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 
 ## Open Datasets
 
-- [Wikipedia](https://dumps.wikimedia.org/).
-- [Github](https://www.gharchive.org/).
-- [HackerNews](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=hacker_news).
-- [Reddit](https://pushshift.io/).
-- [Blockchain](https://github.com/blockchain-etl).
-- [Our World In Data](https://github.com/owid/owid-datasets).
-- [Fivethirtyeight](https://data.fivethirtyeight.com/).
-- [BuzzFeed News](https://github.com/BuzzFeedNews).
-- [ProPublica](https://www.propublica.org/datastore/).
-- [World Bank](https://data.worldbank.org/indicator).
-- [Ecosyste.ms](https://repos.ecosyste.ms/open-data). An open API service providing repository metadata for many open source software ecosystems.
-- [Deps.dev](https://deps.dev/).
+- [Wikipedia](https://dumps.wikimedia.org/)
+- [Github](https://www.gharchive.org/)
+- [HackerNews](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=hacker_news)
+- [Reddit](https://pushshift.io/)
+- [Blockchain](https://github.com/blockchain-etl)
+- [Our World In Data](https://github.com/owid/owid-datasets)
+- [Fivethirtyeight](https://data.fivethirtyeight.com/)
+- [BuzzFeed News](https://github.com/BuzzFeedNews)
+- [ProPublica](https://www.propublica.org/datastore/)
+- [World Bank](https://data.worldbank.org/indicator)
+- [Ecosyste.ms](https://repos.ecosyste.ms/open-data)
+- [Deps.dev](https://deps.dev/)
 
 ### Open Data Organizations
 
 - [Datahub](https://datahub.io/)
+- [Frictionless](https://frictionlessdata.io/)
 - [Open Data Services](https://opendataservices.coop)
 - [Catalyst Cooperative](https://catalyst.coop/)
 - [Carbon Plan](https://github.com/carbonplan)
@@ -236,30 +237,31 @@ _[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20
 
 ### Indexes
 
-- [Google Dataset Search](https://datasetsearch.research.google.com/).
-- [BigQuery Public Data](https://cloud.google.com/bigquery/public-data).
-- [Kaggle Datasets](https://www.kaggle.com/datasets).
-- [Datahub](https://datahub.io/awesome). By [Datopian](https://tech.datopian.com/), makers of CKAN.
-- [HuggingFace Datasets](https://huggingface.co/datasets).
-- [Data World](https://data.world/datasets/open-data).
-- [Enigma](https://enigma.com/).
-- [DoltHub](https://www.dolthub.com/discover).
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [BigQuery Public Data](https://cloud.google.com/bigquery/public-data)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Datahub](https://datahub.io/awesome)
+- [HuggingFace Datasets](https://huggingface.co/datasets)
+- [Data World](https://data.world/datasets/open-data)
+- [Enigma](https://enigma.com/)
+- [DoltHub](https://www.dolthub.com/discover)
 - [Socrata](https://dev.socrata.com/)
-- [Nasdaq](https://data.nasdaq.com/search).
-- [Zenodo](https://zenodo.org/search?page=1&size=20&q=&file_type=csv&type=dataset&sort=mostviewed).
-- [Splitgraph](https://www.splitgraph.com/explore).
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets).
+- [Nasdaq](https://data.nasdaq.com/search)
+- [Zenodo](https://zenodo.org/search?page=1&size=20&q=&file_type=csv&type=dataset&sort=mostviewed)
+- [Splitgraph](https://www.splitgraph.com/explore)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Data Packaged Core Datasets](https://github.com/datasets/)
-- [Internet Archive Dataset Collection](https://archive.org/details/datasets).
-- [AWS Open Data Registry](https://registry.opendata.aws/).
-- [Datamarket](https://en.datamarket.es/).
-- [Open Data Stack Exchange](https://opendata.stackexchange.com/).
-- [IPFS Datasets](https://awesome.ipfs.io/datasets/).
-- [Datasets Subreddit](https://www.reddit.com/r/datasets/). [Open Data Subreddit](https://www.reddit.com/r/opendata/).
-- [Academic Torrents Datasets](https://academictorrents.com/browse.php).
-- [Open Data Inception](https://opendatainception.io/).
-- [Victoriano's Data Sources](https://victorianoi.notion.site/Data-Sources-79b28912c6d941af99e6ef102c578fa0).
-- [Data is Plural](https://www.data-is-plural.com/).
+- [Internet Archive Dataset Collection](https://archive.org/details/datasets)
+- [AWS Open Data Registry](https://registry.opendata.aws/)
+- [Datamarket](https://en.datamarket.es/)
+- [Open Data Stack Exchange](https://opendata.stackexchange.com/)
+- [IPFS Datasets](https://awesome.ipfs.io/datasets/)
+- [Datasets Subreddit](https://www.reddit.com/r/datasets/). [Open Data Subreddit](https://www.reddit.com/r/opendata/)
+- [Academic Torrents Datasets](https://academictorrents.com/browse.php)
+- [Open Data Inception](https://opendatainception.io/)
+- [Victoriano's Data Sources](https://victorianoi.notion.site/Data-Sources-79b28912c6d941af99e6ef102c578fa0)
+- [Data is Plural](https://www.data-is-plural.com/)
+- [Public APIs](https://github.com/public-api-lists/public-api-lists)
 
 ## Open Source Web Data IDE
 
