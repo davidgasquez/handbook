@@ -1,4 +1,6 @@
-# Things that Might Look Weird in the Future
+# Future
+
+## Things that Might Look Weird in the Future
 
 History teaches us that in 100 years from now [[Openness|some of the assumptions we believed will turn out to be wrong]]. A good question to ask is "What might we be wrong about today?". These are a few things that future humans might see as weird behavior:
 
@@ -7,9 +9,13 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
 - Give birth without advanced assistance.
 - Not caring for all the [animal suffering in the wild](https://longtermrisk.org/the-importance-of-wild-animal-suffering/).
   - Nature is not safe! The default is suffering. The current mentality is that nature is good and disruptions from nature are bad.
-- The ignorance of Social Media and its [full impact on society](https://twitter.com/M_B_Petersen/status/1483457679800651787).
+- The ignorance of Social Media and its [full impact on s_o_ciety](https://twitter.com/M_B_Petersen/status/1483457679800651787).
   - Is "being bad for society" an emergent property of social networks as they grow?
-- Voting Systems and not using more Prediction Markets in public.
+- Current Voting Systems.
+- Not relying more into tools like Prediction Markets.
+
+## Predictions
+
 - More experimentation around [[Politics|governance]]:
   - Charter cities.
   - [Holacracy](https://en.m.wikipedia.org/wiki/Holacracy).
@@ -20,3 +26,14 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
   - More interactive explanations like the ones the awesome [Nicky Case](https://ncase.me/) do!
 - More concern around systems with weird incentives causing large amount of pain (Moloch).
 - Work valuation changes (plumbing more expensive than some software development) due to [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox). We will automate making a full app before a robot is able to master physical arms and legs like a 5 year old.
+- Open data will be more important as they can produce better models and help coordinate people providing shared context.
+- The current decentralized protocols (IPFS, ActivityPub, ...) need to evolve more. Specially around UX. People don't care about decentralization, they care about UX.
+
+### Exciting Software Engineering Ideas
+
+- Content Addressed Data + Immutability
+- CRDTs
+- Homomorphic Encryption
+- Prolly/Merkle Trees
+- Differential/Timely Dataflow
+- Zero-Knowledge Proofs

@@ -1,6 +1,7 @@
 # Cooperatives
 
 - A cooperative is an autonomous association of persons united voluntarily to meet their common economic, social and cultural needs and aspirations through a jointly- owned and democratically- controlled enterprise.
+- There are [many ways to form cooperatives](https://institute.coop/sites/default/files/resources/356%202009_Johnson%20etal_Tech%20Freelancers%20Guide%20to%20Worker%20Co-ops.pdf).
 
 ## Resources
 

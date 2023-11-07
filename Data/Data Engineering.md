@@ -6,7 +6,9 @@
   - **Reliability:** how well can systems recover from outages and incidents?
   - **Speed of execution:** how quickly can you get a new data source up and running?
 - If it can be solved with SQL, stick to SQL.
+  - SQL will be the abstraction layer in streaming too so you don't have to care about incremental materialization or timely dataflows.
 - A [consistent pattern](https://www.startdataengineering.com/post/design-patterns/) across your data pipelines helps devs communicate easily and understand code better.
+- Data Engineering can learn from decentralized systems ideas like, Content Addressed Data, Immutability, and [[Idempotence]].
 
 ## Data Pipelines
 

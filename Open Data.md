@@ -1,7 +1,5 @@
 # Open Data
-
-> Bring Open Data to the level of Open Source.
-> Make Open Data compatible with the modern data ecosystem (tooling, approaches, ...).
+_Make Open Data compatible with the Modern Data Ecosystem_.
 
 ## Motivation
 
@@ -20,41 +18,43 @@ The current landscape has a few problems:
 
 Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
-Iterative improvements over public datasets would yield large amounts of value ([Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. Open Source code has made a huge impact in the world. Let's make Open Data do the same! [Anyone should be able to fork and re-publish fixed, cleaned, reformatted datasets as easily as people fork code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
+Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. 
+
+Open Source code has made a huge impact in the world. Let's make Open Data do the same! Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
 
 ### Why Now?
 
-We have cheaper storage, better compute, and more data. We need to improve our workflows now. How does a world where people collaborate on datasets looks like?
+We have better and cheaper infrastructure. That includes things like faster storage, better compute, and, larger amounts of data. We need to improve our data workflows now. How does a world where people collaborate on datasets looks like? [The data is there. We just need to use it](https://twitter.com/auren/status/1509340748054945794).
 
-During the last few years, a Cambrian explosion of open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets).
+During the last few years, a large number of new data and open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets).
 
-These trends have already quick-started movements like [DeSci](https://ethereum.org/en/desci/) but we still need more tooling around data to make interoperability possible. **We should use the same modern tooling companies are using to manage open datasets**. A sort of [Data Operating system](https://data-operating-system.com/). Having better data will create better and more accessible AI models ([people are working on this](https://github.com/togethercomputer/OpenDataHub)).
+These trends are already making it's way towards movements like [DeSci](https://ethereum.org/en/desci/) or smaller projects like [Py-Code Datasets](https://py-code.org/datasets). But, we still need more tooling around data to improve interoperability as much as possible. Lots of companies have figured out how to make the most of their datasets. **We should use similar tooling and approaches companies are using to manage the open datasets that surrounds us**. A sort of [Data Operating system](https://data-operating-system.com/). 
 
 Data wrangling is a perpetual maintenance commitment, taking a lot of ongoing attention and resources. [Better and modern data tooling can reduce these costs](https://github.com/catalyst-cooperative/pudl).
 
-Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_. They end up building custom tools around their workflows. That works, but limits the potential of these datasets. In the end, there is no `data get OWID/daily-covid-cases`, no `data query "select * from 538/polls"` that could act as entry-point to explore datasets.
+Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_, spending most of their time building custom tools around their workflows. That works, but limits the potential of these datasets. Sadly, there is no `data get OWID/daily-covid-cases` or `data query "select * from 538/polls"` that could act as a quick and easy entry-point to explore datasets.
 
-We could have a better ecosystem if we **collaborate on open standards**! So, lets move towards more composable, maintainable, and reproducible open data.
+We could have a better data ecosystem if we **collaborate on open standards**! So, lets move towards more [composable](https://voltrondata.com/codex), maintainable, and reproducible open data.
 
-¹ I think blockchain data is a great place to start building the idea as the data there is open, immutable, and useful.
+¹ Blockchain data might be a great place to start building on these ideas as the data there is open, immutable, and useful.
 
 ## Design Principles
 
 - **Easy**. Create, curate and share datasets without friction.
-  - Data is useful only when used! Right now, we're not using most of humanity's datasets. That's not because they're not available but because they're hard to get. They're isolated in different places and formats.
+  - Frictionless: Data is useful only when used! Right now, we're not using most of humanity's datasets. That's not because they're not available but because they're hard to get. They're isolated in different places and multiple formats.
   - Pragmatism: published data is better than almost published one because something is missing. Publishing datasets to the web is too hard now and there are few purpose-built tools that help.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
   - Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped.
-  - Metadata as a first-class citizen.
-  - Git based approach collaboration. Adopt and integrate with `git`  to reduce surface area. Build tooling to adapt revisions, tags, branches, issues, PRs to datasets.
-  - Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests_.
-  - Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, ...
-- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In real life events are immutable, data should be too. Make datasets the center of the tooling like [software defined assets](https://dagster.io/blog/software-defined-assets).
-  - Thanks to immutability and content addressing, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
-- **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration, curation, and composability.
-- **Aligned Incentives**. Curators should have incentives to improve datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly.
+  - Metadata as a first-class citizen. Even if minimal and automated.
+  - Git based approach collaboration. Adopt and integrate with `git`  and GitHub to reduce surface area. Build tooling to adapt revisions, tags, branches, issues, PRs to datasets.
+  - Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests/checks_.
+  - Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, reports, ...
+- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In "reality", events are immutable, data should be too. [Make datasets the center of the tooling](https://dagster.io/blog/software-defined-assets).
+  - With immutability and content addressing, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
+- **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration, curation, and composability. On data.
+- **Aligned Incentives**. Curators should have incentives to improve datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly (e.g: [number of contributors to Dune](https://github.com/duneanalytics/spellbook/commits/main)).
   - [Bounties](https://www.dolthub.com/bounties) could be created to reward people that adds useful but missing datasets.
-  - Surfacing and creating great datasets should be rewarded.
+  - Surfacing and creating great datasets could be rewarded (retroactively or with bounties).
   - Curating the data provides compounding benefits for the entire community!
   - Rewarding the datasets creators according to the usefulness. E.g: [CommonCrawl built an amazing repository](https://commoncrawl.org/) that OpenAI has used for their GPTs LLMs. Not sure how well CommonCrawl was compensated.
 - **Open Source and Decentralized**. Datasets should be stored in multiple places.
@@ -63,8 +63,9 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
     - [Trustfall](https://github.com/obi1kenobi/trustfall).
     - Open source data integration projects like [Airbyte](https://airbyte.com/). They can used to build open data connectors making possible to replicate something from `$RANDOM_SOURCE` (e.g: spreadsheets, Ethereum Blocks, URL, ...) to any destination.
     - Adapters are created by the community so data becomes connected.
-  - Integrate with the modern data stack to avoid reinventing the wheel.
-  - Decentralized the computation (where data lives) and then cache copies of the results (or aggregations) in CDNs. Most queries require only reading a small amount of data and going to be similar.
+    - Having better data will help create better and more accessible AI models ([people are working on this](https://github.com/togethercomputer/OpenDataHub)).
+  - Integrate with the modern data stack to avoid reinventing the wheel and increase surface of the required skill sets.
+  - Decentralized the computation (where data lives) and then cache inmutable and static copies of the results (or aggregations) in CDNs (IPFS, R2, Torrent). Most end user queries require only reading a small amount of data!
 
 ## Modules
 
@@ -72,26 +73,26 @@ We could have a better ecosystem if we **collaborate on open standards**! So, le
 
 Package managers have been hailed among the most important innovations Linux brought to the computing industry. The activities of both publishers and users of datasets resemble those of authors and users of software packages.
 
-- **Distribution**. Decentralized. No central authority. Can work in a closed network. Cache/CDN friendly.
+- **Distribution**. Decentralized. No central authority. Can work in closed and private networks. Cache/CDN friendly.
   - A data package is an URI ([like in Deno](https://deno.land/manual@v1.31.2/examples/manage_dependencies)). You can import from an URL (`data add example.com/dataset.yml` or `data add example.com/hub_curated_datasets.yml`).
-  - As [Rufus Pollock puts it](https://datahub.io/docs/dms/notebook#go-modules-and-dependency-management-re-data-package-management-2020-05-16-rufuspollock), Keep it as simple as possible. Store the table location and schema and get me the data on the hard disk fast.
-  - [Bootstrap a package registry](https://antonz.org/writing-package-manager/). E.g: a GitHub repository with lots of known datapackages that acts as fallback and quick way to get started with the tool.
+  - As [Rufus Pollock puts it](https://datahub.io/docs/dms/notebook#go-modules-and-dependency-management-re-data-package-management-2020-05-16-rufuspollock), Keep it as simple as possible. Store the table location and schema and get me the data on the hard disk (or my browser) fast.
+  - [Bootstrap a package registry](https://antonz.org/writing-package-manager/). E.g: a GitHub repository with lots of known `datapackages` that acts as fallback and quick way to get started with the tool (`data list` returns a bunch of known open datasets and integrates with platforms like Huggingface).
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
-  - Datasets could be linked to a [[Open Data#Datafile|Datafile]]/`datapackage.yml` with description, default visualizations, WASM linked code...
-  - One repository, one dataset or catalog/hub.
+  - Datasets are linked to a [[Open Data#Datafile|Datafile]]/`datapackage.yml` with metadata.
+  - One repository, one dataset or one catalog/hub.
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
-    - For example, bring all HF datasets by making a simple PR on their repository that generates a `datapackage.yml` reusing their parquet files.
+    - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making an scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
-- **Formatting**. Datasets should be saved and exposed in multiple formats (CSV, Parquet, ...). Could be done via WASM transformations or in the fly when pulling data. The package manager should be **format and storage agnostic**.
+- **Formatting**. Datasets are saved and exposed in multiple formats (CSV, Parquet, ...). Could be done in the backend, or in the client when pulling data (WASM). The package manager should be **format and storage agnostic**. Give me the dataset with id `xyz` as a CSV in this folder. 
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
   - Have issues and discussions close to the dataset.
 - **Extensible**. Users could extend the package resource (e.g: [Time Series Tabular Package inherits from Tabular Package](https://specs.frictionlessdata.io/tabular-data-package/)) and add better support for more specific kinds of data (geographical).
-  - Integrations could be built to ingest/publish data from other hubs (e.g: CKAN)
+  - Build integrations to ingest and publish data in other hubs (e.g: CKAN, HuggingFace, ...).
 
-### Storage
+### Storage and Serialization
 
-- **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be permanent and accessible.
+- **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be permanent and accessible (look at `git`, `IPFS`, `dolt`, ...).
 - **Versioning**. Should be able to manage _diffs_ and _incremental changes_ in a smart way. E.g: only storing the new added rows or updated columns.
   - Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
   - Each version is referenced by a hash. Git style.
@@ -99,11 +100,11 @@ Package managers have been hailed among the most important innovations Linux bro
   - Think at the dataset level and not the file level.
   - Tabular data could be partitioned to make it easier for future retrieval.
 - **Immutability**. Never remove historical data. Data should be append only.
-  - Similar to how `git` deals with it. You could force the deletion of something in case that's needed, but not the default.
-- **Flexible**. Allow centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
+  - Similar to how `git` deals with it. You _could_ force the deletion of something in case that's needed, but that's not the default behaivor.
+- **Flexible**. Allow arbitrary backends. Both centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
   - As agnostic as possible, supporting many types of data; tables, geospatial, images, ...
   - Can all datasets can be represented as tabular datasets? This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
-  - A dataset could have different formats derived from a common one.  Represent all data as Arrow datasets, and build converters between that one format and all others. This is how Pandoc and LLVM work. The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automatically and some checks at the data level to verify they contain the same information.
+  - A dataset could have different formats derived from a common one.  Build converters between formats relying on the Apache Arrow in memory standard format. This is similar to how Pandoc and LLVM work! The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automagically and run some checks at the data level to verify they contain the same information.
   - Datasets could be tagged from a library of types (e.g: `ip-adress`) and [conversion functions](https://github.com/jbenet/transformer) (`ip-to-country`). Given that the representation is common (Arrow), the transformations could be written in multiple languages.
 
 ### Transformations
@@ -111,9 +112,9 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Deterministic**. Packaged lambda style transformations (WASM/Docker).
   - For tabular data, starting with just SQL might be great.
   - Pyodite + DuckDB for transformations could cover a large area.
-  - Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers. That file will carry [Metadata, Lineage and even some defaults (visualizations, code, ...)](https://handbook.datalad.org/en/latest/basics/101-127-yoda.html)
-- **Declarative**. Everything should be defined as code. E.g: YAML files with the source datasets and the transformations. Similar to how Pachyderm/Kamu/Holium do.
-  - E.g: The tool ends up orchestrating containers that read/write from the storage layer, Pachyderm style.
+  - Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers and [Splitfiles](https://github.com/splitgraph/sgr#build-and-query-versioned-reproducible-datasets). That file will carry [Metadata, Lineage and even some defaults (visualizations, code, ...)](https://handbook.datalad.org/en/latest/basics/101-127-yoda.html)
+- **Declarative**. Transformations should be defined as code and be idempotent. Similar to how Pachyderm/Kamu/Holium work.
+  - E.g: The transformation tool ends up orchestrating containers/functions that read/write from the storage layer, Pachyderm style.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
 - **Templated**. Having a repository/market of open transformations could empower a bunch of use cases ready to plug in to datasets:
   - Detect outliers automatically on tabular data.
@@ -123,94 +124,115 @@ Package managers have been hailed among the most important innovations Linux bro
   - Enrich data smartly (Match and Augment pattern). If a matcher detects a date, the augmenter can add the day of week. If is something like a latitude and longitude, the augmenter adds country/city. [Some tools do this with closed source data](https://www.getcensus.com/blog/census-enrichment-third-party-data-enrichment-now-in-your-warehouse).
   - [Templated validations to make sure datasets conform to certain standards](https://framework.frictionlessdata.io/docs/checks/baseline.html).
 
-### Visualizations
+### Consumption
+- **Accessible**. Datasets are **files**. Datasets are static assets living somewhere. Don't get in the middle with libraries or gated databases. 
+- **Documentation**. Surface derived work (e.g: reports, other datasets, ...).
+- **Embedded Visualizations**. Know what's in there before downloading it.
+  - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](https://tech.datopian.com/views/).
+  - **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
+  - **Dynamic**. Use only the data you need. No need to pull 150GB.
+- **Default APIs**. For some datasets, allowing REST API / GraphQL endpoints might be useful. Same with providing an SQL interface.
 
-- **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](https://tech.datopian.com/views/).
-- **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
-- **Dynamic**. Use only the data you need. No need to pull 150GB.
+##  Frequently Asked Questions
 
-## Architecture
+> I'm not super clear on these answers! Please [reach out](https://davidgasquez.github.io/) if you want to chat about it. 
 
-![Architecture](https://user-images.githubusercontent.com/1682202/224966685-b2406d5f-b162-4a93-a68a-af0afca45ebe.png)
+1. What would be a great use case to start with?
 
-_[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20khdaB-lRumpzN7w)_
+I'd say [chain related data](https://davidgasquez.github.io/blockchain-data-pipelines/). Is open and people are eager to get their hands on it. I'm [working on that area](https://davidgasquez.github.io/gitcoin-data/), so I might be biased.
 
-## Extra Thoughts
+2. Why should people use this instead of doing their own thing?
 
-- [Making a SQL interface](https://twitter.com/josephjacks_/status/1492931290416365568) to query and mix these datasets could be a great step forward since it'll enable tooling like `dbt` to be used on top of it. **Data-as-code**.
-  - SQL should be enough for unlocking most part of the potential. E.g: joining Wikipedia data to Our World In Data.
-  - There are some [web3 DAOs already using `dbt` to improve data models](https://github.com/MetricsDAO/harmony_dbt/tree/main/models/metrics)!
+[If everybody could converge to it, e.g: _"datapackage.json_" as a metadata and schema description standard, then, an ecosystem of utilities and libraries for processing data would take advantage of it](https://news.ycombinator.com/item?id=15346836).
 
-## Open Questions
+3. What is the incentive for people to adopt it?
 
-- What would be a great use case to start with?
-  - Why should people use this vs doing their own thing?
-- How can datasets be indexed?
-- What is the incentive for people to adopt it?
-  - [If everybody could converge to it, e.g: _"datapackage.json_" as a metadata and schema description standard, then, an ecosystem of utilities and libraries for processing data would take advantage of it](https://news.ycombinator.com/item?id=15346836).
-  - Is there a way to use web3 mechanisms to incentivize people? DAOs might be a good fit. Also, companies like [Golden](httpfs://golden.com/) and [index.as](https://index.as/) are doing interesting work on monetizing data curation.
-- How can LLMs help "building bridges"?
-  - They're blurring the line between structured and unstructured data.
-  - E.g: point a GPT wrapper to a GitHub repository and get the auto-generated `datapakage.json`. It should infer files, schema, and types and generate some metadata for us. Then, a "dataset package" can be anything the tool can crawl.
-- [[Large Language Models|LLMs can parse unstructured data (CSV) and also generate structure from any data source (scrapping websites)]] making it easy to [create datasets from random sources](https://tomcritchlow.com/2021/03/29/open-scraping-database/).
-- How can we stream new data reliably? E.g: some datasets like Ethereum `blocks` are not static.
-- Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote source and get it dynamically as needed?
-- Can new table formats play efficiently with IPFS?
-  - E.g: Running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
-  - Parquet could be a great fit if we figure out how to deterministically serialize it and integrate with IPLD.
-- How to work with private data?
-  - Homomorphic encryption?
-- How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works? If you can envision the table you would like to have in front of you, i.e., you can write down the attributes you would like the table to contain, then the system will find it for you.
-  - This probably needs a [[Knowledge Graphs]]!
-- How can a [[Knowledge Graphs]] [help with the data catalog](https://docs.atomicdata.dev/usecases/data-catalog.html)?
-- [How would a Substack for databases look like](https://tomcritchlow.com/2023/01/27/small-databases/)?
-  - An easy tool for creating, maintaining and publishing databases with the ability to restrict parts or all of it behind a pay wall. Pair it with the ability to send email updates to your audience about changes and additions.
+I wonder if there are ways to use novel mechanisms (e.g: DAOs) to incentive people? Also, companies like [Golden](httpfs://golden.com/) and [index.as](https://index.as/) are doing interesting work on monetizing data curation.
 
-### Related Projects
+4. How can LLMs help "building bridges"?
 
-#### Computation
+LLMs could infer schema, types, and generate some metadata for us. [[Large Language Models|LLMs can parse unstructured data (CSV) and also generate structure from any data source (scrapping websites)]] making it easy to [create datasets from random sources](https://tomcritchlow.com/2021/03/29/open-scraping-database/).
 
-- [Kamu](https://www.kamu.dev/).
-- [Bacalhau](https://www.bacalhau.org/).
-- [Holium](https://docs.holium.org/). An open source protocol dedicated to the management of data connected through transformations. Similar to Pachyderm but using WASM and IPFS.
-- [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data).
-- [The Graph](https://thegraph.com/).
-- [Trino](https://trino.io/).
+They're definitely blurring the line between structured and unstructured data too. Imagine pointing a LLMs to a GitHub repository with some CSVs and get the auto-generated `datapakage.json`.
 
-#### Data Package Managers
+5. How can we stream/update new data reliably? E.g: some datasets like Ethereum `blocks` could be updated every few minutes.
+
+I don't have a great answer. Perhaps just push the new data into partitioned datasets?
+
+7. Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote source and get it dynamically as needed?
+
+It should be possible. I wonder if we could mount all datasets locally and explore them as if they were in your laptop.
+
+8. Can new table formats play efficiently with IPFS?
+
+Parquet could be a great fit if we figure out how to deterministically serialize it and integrate with IPLD. This will reduce their size as unchanged columns could be encoded in the same CID.
+
+Later on I think it could be interesting to explore running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
+
+9. How to work with private data?
+
+Homomorphic encryption?
+
+9. How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works? 
+
+If you can envision the table you would like to have in front of you, i.e., you can write down the attributes you would like the table to contain, then the system will find it for you. This probably needs a [[Knowledge Graphs]]!
+
+10. How can a [[Knowledge Graphs]] [help with the data catalog](https://docs.atomicdata.dev/usecases/data-catalog.html)?
+
+It could help users connect datasets. With good enough core datasets, it could be used as an LLM backend.
+
+11. [How would a Substack for databases look like](https://tomcritchlow.com/2023/01/27/small-databases/)?
+
+ An easy tool for creating, maintaining and publishing databases with the ability to restrict parts or all of it behind a pay wall. Pair it with the ability to send email updates to your audience about changes and additions.
+  
+12. Curated and small data (e.g: at the community level) is not reachable by Google. How can we help there?
+
+Indeed! With LLMs on the rise, community curated datasets become more important as they don't appear in the big data dumps.
+
+## Related Projects
+
+### Data Package Managers
 
 - [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down).
-- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/).
+- [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/)
   - Is a [great tool](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/) and uses Git Annex (distributed binary object tracking layer on top of git).
   - Complicated to wrap your head around. Lots of different commands and concepts. On the other hand, it's very powerful and flexible. Git Annex is complex but powerful and flexible.
-  - The handbook is very good, but it's a lot of reading if you just want to test things out.
-- [Huggingface Datasets](https://huggingface.co/docs/datasets).
-- [Quilt](https://github.com/quiltdata/quilt).
-  - Forces both Python and S3.
-- [Oxen](https://github.com/Oxen-AI/Oxen).
-  - Data is not accesible from other tools.
-  - [Docs](https://github.com/Oxen-AI/oxen-release#-oxen-release) are sparse.
-  - Definitely more in the Git for Data space than Dataset Package Manager.
-- [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards).
-- [Datopian Data CLI](https://github.com/datopian/data-cli). Sucesor of [DPM](https://github.com/frictionlessdata/dpm-js).
-- [LakeFS](https://lakefs.io/blog/git-for-data/). More like Git for Data.
-- [Datasette](https://lite.datasette.io/).
-- [Algovera Metahub](https://github.com/AlgoveraAI/metahub).
-- [DVC](https://github.com/iterative/dvc).
-- [XVC](https://github.com/iesahin/xvc).
-- [ArtiVC](https://artivc.io/).
-- [Xetdata](https://xetdata.com/).
-- [Dud](https://github.com/kevin-hanselman/dud).
-- [Splitgraph](https://github.com/splitgraph/sgr).
-- [Deep Lake](https://github.com/activeloopai/deeplake).
-- [Dim](https://github.com/c-3lab/dim).
-  - Hard to grok how to use it from the docs.
-  - Quite small surface area. You can basically install datasets from URLs, create new ones, or apply some kind of GPT3 transformation on top of them.
-- [Juan Benet's data](https://github.com/jbenet/data).
-- [Colah's data](https://github.com/colah/data).
+- [Huggingface Datasets](https://huggingface.co/docs/datasets)
+- [Quilt](https://github.com/quiltdata/quilt)
+  - Forces both Python and S3
+- [Oxen](https://github.com/Oxen-AI/Oxen)
+  - Data is not accesible from other tools
+  - [Docs](https://github.com/Oxen-AI/oxen-release#-oxen-release) are sparse
+  - Definitely more in the Git for Data space than Dataset Package Manager
+- [Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards)
+- [Datopian Data CLI](https://github.com/datopian/data-cli). Successor of [DPM](https://github.com/frictionlessdata/dpm-js)
+- [LakeFS](https://lakefs.io/blog/git-for-data/). More like Git for Data
+- [Datasette](https://lite.datasette.io/)
+- [Algovera Metahub](https://github.com/AlgoveraAI/metahub)
+- [DVC](https://github.com/iterative/dvc)
+- [XVC](https://github.com/iesahin/xvc)
+- [ArtiVC](https://artivc.io/)
+- [Xetdata](https://xetdata.com/)
+- [Dud](https://github.com/kevin-hanselman/dud)
+- [Splitgraph](https://github.com/splitgraph/sgr)
+- [Deep Lake](https://github.com/activeloopai/deeplake)
+- [Dim](https://github.com/c-3lab/dim)
+  - Hard to grok how to use it from the docs
+  - Quite small surface area. You can basically install datasets from URLs, create new ones, or apply some kind of GPT3 transformation on top of them
+- [Juan Benet's data](https://github.com/jbenet/data)
+- [Colah's data](https://github.com/colah/data)
 - [Dolt](https://docs.dolthub.com/) is another interesting project in the space with some awesome data structures. They also [do data bounties](https://www.dolthub.com/repositories/dolthub/us-businesses)!
 
-## Open Datasets
+### Computation
+
+- [Kamu](https://www.kamu.dev/)
+- [Bacalhau](https://www.bacalhau.org/)
+- [Holium](https://docs.holium.org/)
+- [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data)
+- [The Graph](https://thegraph.com/)
+- [Trino](https://trino.io/)
+
+### Large Open Datasets
 
 - [Wikipedia](https://dumps.wikimedia.org/)
 - [Github](https://www.gharchive.org/)
@@ -286,10 +308,10 @@ Could be an awesome front-end to explore [[Open Data]].
 
 ### Interesting Projects
 
-- [Rath](https://rath.kanaries.net/).
-- [Perspective](https://perspective.finos.org/).
-- [Rill Developer](https://github.com/rilldata/rill-developer).
-- [Datastation](https://app.datastation.multiprocess.io/).
+- [Rath](https://rath.kanaries.net/)
+- [Perspective](https://perspective.finos.org/)
+- [Rill Developer](https://github.com/rilldata/rill-developer)
+- [Datastation](https://app.datastation.multiprocess.io/)
 
 #### Datafile
 
@@ -334,3 +356,9 @@ metadata: "..."
 - Spec file locator with fallback to the package registry.
 - Versioning and latest versions.
 - Asset checksums.
+
+## Architecture
+
+![Architecture](https://user-images.githubusercontent.com/1682202/224966685-b2406d5f-b162-4a93-a68a-af0afca45ebe.png)
+
+_[Edit on Excalidraw](https://excalidraw.com/#json=RLkinyHZE-4Px_cl21UDI,z8D-l20khdaB-lRumpzN7w)_
