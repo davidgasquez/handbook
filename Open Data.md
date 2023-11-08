@@ -291,6 +291,7 @@ After playing with [Rill Developer](https://github.com/rilldata/rill-developer),
 
 - Let me add local and remote datasets. Not just one as I'd like to join them later.
 - Let me plot it using Vega-Lite. Guide me through alternatives like [Vega's Voyager2](https://vega.github.io/voyager2/) does.
+  - Might be as simple as surfacing Observable Plot with DuckDB WASM...
 - Use LLMs to improve the datasets and offer next steps:
   - Get suggested transformations for certain columns. If it detect a date, extract day of the week. If it detects a string, `lower()` it...
   - Get suggested plots. Given that it'll know both the column names and the types. Should be possible to create a prompt that returns some plot ideas and another that takes that and write the Vega-Lite code to make it work.
@@ -306,12 +307,15 @@ After playing with [Rill Developer](https://github.com/rilldata/rill-developer),
 
 Could be an awesome front-end to explore [[Open Data]].
 
-### Interesting Projects
+### Relevant Projects
 
 - [Rath](https://rath.kanaries.net/)
+- [Hex.tech](https://hex.tech/)
 - [Perspective](https://perspective.finos.org/)
 - [Rill Developer](https://github.com/rilldata/rill-developer)
-- [Datastation](https://app.datastation.multiprocess.io/)
+- [Datastation](https://datastation.multiprocess.io/)
+- [Excalichart](https://www.excalichart.com/)
+- [Chartpilot](https://www.chartpilot.com/)
 
 #### Datafile
 
