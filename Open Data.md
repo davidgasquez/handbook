@@ -51,6 +51,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
   - Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, reports, ...
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In "reality", events are immutable, data should be too. [Make datasets the center of the tooling](https://dagster.io/blog/software-defined-assets).
   - With immutability and content addressing, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
+  - [Datasets are books, not houses]()!
 - **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration, curation, and composability. On data.
 - **Aligned Incentives**. Curators should have incentives to improve datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly (e.g: [number of contributors to Dune](https://github.com/duneanalytics/spellbook/commits/main)).
   - [Bounties](https://www.dolthub.com/bounties) could be created to reward people that adds useful but missing datasets.
@@ -83,6 +84,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
     - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making an scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
+  - [FAIR](https://www.go-fair.org/fair-principles/).
 - **Formatting**. Datasets are saved and exposed in multiple formats (CSV, Parquet, ...). Could be done in the backend, or in the client when pulling data (WASM). The package manager should be **format and storage agnostic**. Give me the dataset with id `xyz` as a CSV in this folder. 
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
@@ -256,6 +258,7 @@ Indeed! With LLMs on the rise, community curated datasets become more important 
 - [Carbon Plan](https://github.com/carbonplan)
 - [Data is Plural](https://github.com/data-is-plural)
 - [Data Liberation Project](https://github.com/data-liberation-project)
+- [Opendatasoft](https://www.opendatasoft.com/)
 
 ### Indexes
 
