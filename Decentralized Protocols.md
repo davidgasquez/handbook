@@ -20,3 +20,6 @@
   - A decentralized protocol can work with a centralized provider. It has the benefits of both (might be fast but no lock users in).
 - A major downside of decentralized protocols/networks is that they tend to perform poorly. Hubs are efficient.
 - [It's the properties decentralization gives us that we care about, not decentralization itself](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/). Decentralization is a global, emergent property. You can feel latency, you can feel transaction fees, but networks ostensibly feel the same whether they’re centralized or decentralized. Decentralization is valuable when it lets you do new things fundamentally better, not old things fundamentally worse.
+- If a system requires a centralized part, a great alternative is give the user the ability to point to other centralized things taking care of that part.
+- If you have a protocol, try enforcing the desired behavior using the protocol. Your ideas of how to solve it might not be the best and adding a protocol restriction (incentives/penalties) will make people figure out.
+- When building a technology, consider: [does this centralize or decentralize power?](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html)

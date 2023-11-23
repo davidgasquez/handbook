@@ -24,7 +24,7 @@
 - Avoiding stupidity is easier than seeking brilliance. Think backward so that you can avoid failures.
 - Research before judging! We do not know what we don't know. Gather as much context as you can before making any final statement.
   - [Absolute truth is relative and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
-- Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete. Nuance is everywhere.
+- Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete. [Nuance is everywhere](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/).
   - Real people are complex and flawed, [full of faults and biases](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg). Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out.
 	- [Fundamental Attribution Error](http://www.aaronsw.com/weblog/nummi): we attribute people's behavior to their personality, not their situation.
   - Digitizing an analog view will result in some loss of information. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros. Mistrust simple comparisons.

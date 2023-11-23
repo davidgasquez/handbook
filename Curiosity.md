@@ -5,6 +5,7 @@
 - Never stop [[learning]], practice [[Thinking|rational thinking]] and internalize [[mental models]] and other concepts that will help you think more effectively.
 - Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better. Feeling stupid now is better than feeling stupid in 10 years.
 - [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail). Knowing more about the world makes you enjoy it more. [Understanding how music is made increases the pleasure you get from music](https://youtu.be/JbVfcZxfIZo).
+  - Real things exist in essentially infinite resolution. [Looking closer always reveals more, and it’s often not what you’d expect](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/).
 - Do stuff! Whatever is you work on, is worthwhile as long as you share your learnings. In the worst case, if your [[ideas]] don't work out, the community will learn why that approach doesn't make sense.
   - Remix ideas. Ideas are impacted by [[evolution]]. The most useful ones survive and evolve. [Innovation is product of the combinations of ideas](https://youtu.be/XUAIIQFoufs). Everything is a remix!
   - Fail early and often. There is only one guaranteed way you'll won't get something you want, and that's not to pursue it. [Mistakes](https://meta.wikimedia.org/wiki/So_you%27ve_made_a_mistake_and_it%27s_public...) are the portals of discovery.

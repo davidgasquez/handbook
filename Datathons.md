@@ -6,7 +6,7 @@
 2. Do a basic data exploration. Try to understand the problem and gather a sense of what can be important.
 3. Get baseline model working.
 4. Create `scikit-learn` compatible metric if needed.
-5. Try different approaches for preprocessing (encodings, Deep Feature Synthesis, lags, aggregations, imputers, ...). If yopu're working as a group, split preprocessing feature generation between files.
+5. Try different approaches for preprocessing (encodings, Deep Feature Synthesis, lags, aggregations, imputers, ...). If you're working as a group, split preprocessing feature generation between files.
 6. Plot learning curves ([sklearn](https://scikit-learn.org/stable/modules/learning_curve.html) or [external tools](https://github.com/reiinakano/scikit-plot)) to avoid overfitting.
 7. Tune hyper-parameters once you've settled on an specific approach. ([optuna](https://optuna.readthedocs.io/)).
 8. Plot and visualize the predictions (histograms, random prediction, ...) to make sure they're doing as expected. Explain the predictions with [SHAP](https://github.com/slundberg/shap).
@@ -37,9 +37,9 @@
 - [Quick Tutorials](https://www.kaggle.com/c/jane-street-market-prediction/discussion/198951)
 - [Tsfresh](https://tsfresh.readthedocs.io/en/latest/)
 - [Fold](https://github.com/dream-faster/fold)
-- [Prophet](https://facebook.github.io/prophet/docs/quick_start.html)
+- [Neural Prophet](https://neuralprophet.com/)
 - [Darts](https://github.com/unit8co/darts)
 - [Pytimetk](https://github.com/business-science/pytimetk)
-- [Sktime](https://github.com/alan-turing-institute/sktime)
+- [Sktime](https://github.com/alan-turing-institute/sktime) / [Aeon](https://github.com/aeon-toolkit/aeon)
 - [Awesome Collection](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [Video with great ideas](https://www.youtube.com/watch?v=9QtL7m3YS9I)
