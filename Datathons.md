@@ -7,7 +7,7 @@
 3. Get baseline model working.
 4. Design an evaluation method as close as the final evaluation. Plot local evaluation metrics against the public ones (correlation) to validate how well your validation strategy works.
 5. Try different approaches for preprocessing (encodings, Deep Feature Synthesis, lags, aggregations, imputers, ...). If you're working as a group, split preprocessing feature generation between files.
-6. Plot learning curves ([sklearn](https://scikit-learn.org/stable/modules/learning_curve.html) or [external tools](https://github.com/reiinakano/scikit-plot)) to avoid overfitting. 
+6. Plot learning curves ([sklearn](https://scikit-learn.org/stable/modules/learning_curve.html) or [external tools](https://github.com/reiinakano/scikit-plot)) to avoid overfitting.
 7. Plot real and predicted target distribution to see how well your model understand the underlying distribution. Apply any postprocessing that might fix small things.
 8. Tune hyper-parameters once you've settled on an specific approach ([hyperopt](target distribution), [optuna](https://optuna.readthedocs.io/)).
 9. Plot and visualize the predictions (histograms, random prediction, ...) to make sure they're doing as expected. Explain the predictions with [SHAP](https://github.com/slundberg/shap).
@@ -44,4 +44,12 @@
 - [Sktime](https://github.com/alan-turing-institute/sktime) / [Aeon](https://github.com/aeon-toolkit/aeon)
 - [Awesome Collection](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [Video with great ideas](https://www.youtube.com/watch?v=9QtL7m3YS9I)
-- [Tutorial Kaggle Notebook](https://www.kaggle.com/code/tumpanjawat/s3e19-course-eda-fe-lightgbm) 
+- [Tutorial Kaggle Notebook](https://www.kaggle.com/code/tumpanjawat/s3e19-course-eda-fe-lightgbm)
+
+## Datathon Platforms
+
+- [Kaggle](https://www.kaggle.com/competitions)
+- [MLContest](https://mlcontests.com/)
+- [Humyn](https://app.humyn.ai/)
+- [DrivenData](https://www.drivendata.org/competitions/)
+- [Xeek](https://xeek.ai/challenges)

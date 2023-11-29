@@ -48,6 +48,7 @@
 - [Flipside Crypto](https://github.com/FlipsideCrypto/external-models)
 - [MetricsDAO](https://github.com/MetricsDAO)
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
+- [Anomstack](https://github.com/andrewm4894/anomstack)
 
 ### Related [[Podcasts]]
 

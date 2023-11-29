@@ -287,6 +287,7 @@ Indeed! With LLMs on the rise, community curated datasets become more important 
 - [Victoriano's Data Sources](https://victorianoi.notion.site/Data-Sources-79b28912c6d941af99e6ef102c578fa0)
 - [Data is Plural](https://www.data-is-plural.com/)
 - [Public APIs](https://github.com/public-api-lists/public-api-lists)
+- [Real Time Datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
 
 ## Open Source Web Data IDE
 
