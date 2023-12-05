@@ -91,6 +91,27 @@
 - Guacamole (avocado, red onion, garlic, lime, cumin, salt, pepper)
 - Salsa (tomato, onion, garlic, lime, salt, pepper)
 
-## Steps
+### Steps
 
 - [Follow Babish](https://youtu.be/lMaF0iPeDFo).
+
+## Hummus
+
+### Ingredients
+
+- Chickpeas (1 can)
+- Tahini (2 tablespoons)
+- Garlic (2 cloves)
+- Lemon (1)
+- Olive Oil (2 tablespoons)
+- Salt (1 tablespoon)
+- Cumin (1 tablespoon)
+- Paprika (1 tablespoon)
+- Parsley (1 tablespoon)
+
+### Steps
+
+1. Blend everything together.
+2. Add some water if it's too thick.
+3. Add some olive oil and paprika on top.
+4. Serve with pita bread.
