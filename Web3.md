@@ -89,6 +89,7 @@ There is an emerging landscape of [Data and Blockchain](https://primodata.org/la
 - [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 - [Subsquid](https://subsquid.io/)
 - [Cryo](https://github.com/paradigmxyz/cryo)
+- [NanoDB](https://github.com/mistakia/nanodb)
 
 ### Bounty Based Collaboration
 

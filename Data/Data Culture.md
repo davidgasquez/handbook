@@ -6,6 +6,7 @@
   - If analysis is not actionable, it does not really matter. Analysis must drive to action. [Clear results won't spur action themselves](https://www.linkedin.com/posts/eric-weber-060397b7_data-analytics-machinelearning-activity-6675746028144205824-CQxW/). The organization needs to be ready to pivot when something isn't working.
   - [Data's impact is tough to measure — it doesn't always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html).
   - The Data Team should be building and iterating the [Data Product](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/).
+  - Notebooks are a workshop. Production systems are the factory. Not everything needs to be put into production. Not everything should be a notebook. You need both. Lean in to the strength of each.
 - Data is fundamentally a collaborative design process rather than a tool, an analysis, or even a product. [Data works best when the entire feedback loop from idea to production is an iterative process](https://pedram.substack.com/p/data-can-learn-from-design).
   - [To get buy in, explain how the business could benefit from better data](https://youtu.be/Mlz1VwxZuDs) (e.g: more and better insights). Start small and show value.
   - Run *[Purpose Meetings](https://www.avo.app/blog/tracking-the-right-product-metrics)* or [Business Metrics Review](https://youtu.be/nlMn572Dabc).
@@ -30,6 +31,7 @@
 - Data systems can establish methods for understanding the world even as it becomes more complex.
 - Data literacy can create pathways for anyone to contribute equally to the organization's reality.
 - Create a single space as the central place to post [[Data Request Template|data requests]].
+  - On the other hand, data analysis and data science are domain level problems and cannot be centralized.
 - Create a single space to [[Sharing Data Insights|share the results of analysis and decisions made based on them]].
   - Log changes so everyone can jump in and be aware of what’s going on.
   - Log assumptions and lessons learned somewhere. This information should loop back into the data product.
@@ -37,6 +39,7 @@
   - What data is Finance/HR/Marketing using to set their OKRs? Put that on the warehouse and model it.
   - [[Metrics]] should be derived from the most realistic data sources. E.g: using internal databases instead of product tracking for "Users Created".
 - Do you want better data? Hire people interested in data!
+- Good use of data is, ultimately, a question of good epistemology. (“Is this true? What can we conclude? How do we know that?”) Good epistemology is hard. It must be taught.
 - **When things are going well, no one cares about data**. The right time to present data is when things are starting to go bad. Use your early warning detection systems to understand when it looks like it's gonna be time for data to step in and save the day and then position data as a solution in the context of whatever meaning makes sense. The stakeholders are decision makers and they don't have a ton of time. They're looking to make decisions, they're looking to solve problems.
 - [So much of data work is about accumulating little bits of knowledge and building a shared context in your org so that it's possible to have the big, earth shattering revelations we all wish we could drive on a predictable schedule](https://twitter.com/imightbemary/status/1536368160961572864).
 - You won't have the best allocation of resources in a reactive team. Data teams need extra [[slack]]. [Balance user requests with actual needs](https://scientistemily.substack.com/p/product-management-skills-for-data).
@@ -66,6 +69,7 @@
   - Measure [[data quality]] to help set high standards for your data team.
   - Only after measurement can you optimize cost.
   - Only after timing can you make things faster.
+  - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)!
 - [Aim for a culture of celebrating measurable progress and learnings, versus celebrating shipping](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Align company on key actions. Every stakeholder should know how to explore that data.
 - Do pre-mortems. Where would we see the impact of *X* going wrong? Model that and plot it on a dashboard.
@@ -106,4 +110,5 @@
   - Analytics: Making sense of data to guide decisions
 - Make your [modeling technique](https://data-columns.hightouch.io/untitled-2/) explicit.
 - Have a documentation [entry-point for Data](https://github.com/mozilla/data-docs).
-- [For self-serve, aim to own as little as possible but keep in mind you can't make people do what you want but cans top them for doing what you don't want](https://youtu.be/wyW6hQGZxgY).
+- [For self-serve, aim to own as little as possible but keep in mind you can't make people do what you want but can stop them for doing what you don't want](https://youtu.be/wyW6hQGZxgY)
+  - [You need to make a grocery store. You can’t give folks directions to the farm to pick their own produce](https://twitter.com/teej_m/status/1603205457992044545).
