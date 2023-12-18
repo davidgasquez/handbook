@@ -45,6 +45,7 @@
 - [Awesome Collection](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [Video with great ideas](https://www.youtube.com/watch?v=9QtL7m3YS9I)
 - [Tutorial Kaggle Notebook](https://www.kaggle.com/code/tumpanjawat/s3e19-course-eda-fe-lightgbm)
+- Think about adding external datasets like [related Google Trends search](https://trends.google.com/trends/), PiPy Packages downloads, weather, ...
 
 ## Datathon Platforms
 
