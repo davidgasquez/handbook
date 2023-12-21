@@ -20,6 +20,10 @@
 - [Feature Engineering Ideas](https://github.com/aikho/awesome-feature-engineering)
 - [Deep Feature Synthesis](https://featuretools.alteryx.com/en/stable/getting_started/afe.html). [Simple tutorial](https://www.kaggle.com/willkoehrsen/automated-feature-engineering-basics).
 
+## Exploratory Data Analysis Resources
+
+- [HiPlot](https://facebookresearch.github.io/hiplot/)
+
 ### Scikit Learn Compatible Transformers
 
 - [LEGO](https://github.com/koaning/scikit-lego)
@@ -45,7 +49,7 @@
 - [Awesome Collection](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [Video with great ideas](https://www.youtube.com/watch?v=9QtL7m3YS9I)
 - [Tutorial Kaggle Notebook](https://www.kaggle.com/code/tumpanjawat/s3e19-course-eda-fe-lightgbm)
-- Think about adding external datasets like [related Google Trends search](https://trends.google.com/trends/), PiPy Packages downloads, weather, ...
+- Think about adding external datasets like [related Google Trends search](https://trends.google.com/trends/), PiPy Packages downloads, [Statista](https://www.statista.com/), weather, ...
 
 ## Datathon Platforms
 

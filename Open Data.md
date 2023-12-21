@@ -1,4 +1,5 @@
 # Open Data
+
 _Make Open Data compatible with the Modern Data Ecosystem_.
 
 ## Motivation
@@ -18,7 +19,7 @@ The current landscape has a few problems:
 
 Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
-Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. 
+Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions.
 
 Open Source code has made a huge impact in the world. Let's make Open Data do the same! Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
 
@@ -28,7 +29,7 @@ We have better and cheaper infrastructure. That includes things like faster stor
 
 During the last few years, a large number of new data and open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets).
 
-These trends are already making it's way towards movements like [DeSci](https://ethereum.org/en/desci/) or smaller projects like [Py-Code Datasets](https://py-code.org/datasets). But, we still need more tooling around data to improve interoperability as much as possible. Lots of companies have figured out how to make the most of their datasets. **We should use similar tooling and approaches companies are using to manage the open datasets that surrounds us**. A sort of [Data Operating system](https://data-operating-system.com/). 
+These trends are already making it's way towards movements like [DeSci](https://ethereum.org/en/desci/) or smaller projects like [Py-Code Datasets](https://py-code.org/datasets). But, we still need more tooling around data to improve interoperability as much as possible. Lots of companies have figured out how to make the most of their datasets. **We should use similar tooling and approaches companies are using to manage the open datasets that surrounds us**. A sort of [Data Operating system](https://data-operating-system.com/).
 
 Data wrangling is a perpetual maintenance commitment, taking a lot of ongoing attention and resources. [Better and modern data tooling can reduce these costs](https://github.com/catalyst-cooperative/pudl).
 
@@ -85,7 +86,7 @@ Package managers have been hailed among the most important innovations Linux bro
     - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making an scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
   - [FAIR](https://www.go-fair.org/fair-principles/).
-- **Formatting**. Datasets are saved and exposed in multiple formats (CSV, Parquet, ...). Could be done in the backend, or in the client when pulling data (WASM). The package manager should be **format and storage agnostic**. Give me the dataset with id `xyz` as a CSV in this folder. 
+- **Formatting**. Datasets are saved and exposed in multiple formats (CSV, Parquet, ...). Could be done in the backend, or in the client when pulling data (WASM). The package manager should be **format and storage agnostic**. Give me the dataset with id `xyz` as a CSV in this folder.
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
   - Have issues and discussions close to the dataset.
@@ -127,7 +128,8 @@ Package managers have been hailed among the most important innovations Linux bro
   - [Templated validations to make sure datasets conform to certain standards](https://framework.frictionlessdata.io/docs/checks/baseline.html).
 
 ### Consumption
-- **Accessible**. Datasets are **files**. Datasets are static assets living somewhere. Don't get in the middle with libraries or gated databases. 
+
+- **Accessible**. Datasets are **files**. Datasets are static assets living somewhere. Don't get in the middle with libraries or gated databases.
 - **Documentation**. Surface derived work (e.g: reports, other datasets, ...).
 - **Embedded Visualizations**. Know what's in there before downloading it.
   - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](https://tech.datopian.com/views/).
@@ -135,9 +137,9 @@ Package managers have been hailed among the most important innovations Linux bro
   - **Dynamic**. Use only the data you need. No need to pull 150GB.
 - **Default APIs**. For some datasets, allowing REST API / GraphQL endpoints might be useful. Same with providing an SQL interface.
 
-##  Frequently Asked Questions
+## Frequently Asked Questions
 
-> I'm not super clear on these answers! Please [reach out](https://davidgasquez.github.io/) if you want to chat about it. 
+> I'm not super clear on these answers! Please [reach out](https://davidgasquez.github.io/) if you want to chat about it.
 
 1. What would be a great use case to start with?
 
@@ -175,7 +177,7 @@ Later on I think it could be interesting to explore running [`delta-rs`](https:/
 
 Homomorphic encryption?
 
-9. How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works? 
+9. How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works?
 
 If you can envision the table you would like to have in front of you, i.e., you can write down the attributes you would like the table to contain, then the system will find it for you. This probably needs a [[Knowledge Graphs]]!
 
@@ -185,8 +187,8 @@ It could help users connect datasets. With good enough core datasets, it could b
 
 11. [How would a Substack for databases look like](https://tomcritchlow.com/2023/01/27/small-databases/)?
 
- An easy tool for creating, maintaining and publishing databases with the ability to restrict parts or all of it behind a pay wall. Pair it with the ability to send email updates to your audience about changes and additions.
-  
+An easy tool for creating, maintaining and publishing databases with the ability to restrict parts or all of it behind a pay wall. Pair it with the ability to send email updates to your audience about changes and additions.
+
 12. Curated and small data (e.g: at the community level) is not reachable by Google. How can we help there?
 
 Indeed! With LLMs on the rise, community curated datasets become more important as they don't appear in the big data dumps.
@@ -248,6 +250,7 @@ Indeed! With LLMs on the rise, community curated datasets become more important 
 - [World Bank](https://data.worldbank.org/indicator)
 - [Ecosyste.ms](https://repos.ecosyste.ms/open-data)
 - [Deps.dev](https://deps.dev/)
+- [Twitter Community Notes](https://twitter.com/i/communitynotes/download-data)
 
 ### Open Data Organizations
 
@@ -269,6 +272,7 @@ Indeed! With LLMs on the rise, community curated datasets become more important 
 - [Datahub](https://datahub.io/awesome)
 - [HuggingFace Datasets](https://huggingface.co/datasets)
 - [Data World](https://data.world/datasets/open-data)
+- [Statista](https://www.statista.com/)
 - [Enigma](https://enigma.com/)
 - [DoltHub](https://www.dolthub.com/discover)
 - [Socrata](https://dev.socrata.com/)
@@ -287,8 +291,11 @@ Indeed! With LLMs on the rise, community curated datasets become more important 
 - [Open Data Inception](https://opendatainception.io/)
 - [Victoriano's Data Sources](https://victorianoi.notion.site/Data-Sources-79b28912c6d941af99e6ef102c578fa0)
 - [Data is Plural](https://www.data-is-plural.com/)
+- [Open Sustainable Technology](https://opensustain.tech/)
 - [Public APIs](https://github.com/public-api-lists/public-api-lists)
 - [Real Time Datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
+- [Environmental Data Initiative](https://edirepository.org/)
+- [Data One](https://www.dataone.org/)
 
 ## Open Source Web Data IDE
 

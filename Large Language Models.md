@@ -58,6 +58,12 @@
 - [Generate structured data from text](https://thecaglereport.com/2023/03/16/nine-chatgpt-tricks-for-knowledge-graph-workers/).
 - Do API request to SQL Semantic Layers (less prone for errors or hallucinating metric definitions)
 
+## Cool Prompts for DALLE 3
+
+- For logo generation:
+  - A 2d, symmetrical, flat logo for a company working on `[SOMETHING]` that is sleek and simple. Blue and Green. No text.
+  - Minimalistic `[SOMETHING]` design logo from word parlatur, open data, banksy, protocol, universe, interplanetary, white background, illustration.
+
 ### Resources
 
 - [Official GPT Guide](https://platform.openai.com/docs/guides/gpt-best-practices).
