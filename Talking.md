@@ -24,6 +24,7 @@
 - [[Thought Experiments]]
 - Will you eat synthetic meat?
 - [Things to argue about over the holidays instead of politics](https://dynomight.net/arguments/).
+- [Even more things to argue about over the holidays instead of politics](https://dynomight.substack.com/p/arguments-2).
 - Cognitive Reflection Test
 - What is your life default stress/drama level 1 to 10? Where are you now?
 - Why do people doesn't seem to know how to draw a bicycle?
