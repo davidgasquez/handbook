@@ -14,7 +14,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 - [[Open Data]]
 - [[Governance]]
 - [[Programming]]
-- [[Web3]]
+- [[Decentralized Web]]
 - [[Learning]]
 - [[Science]] (biology, astrophysics, neuro, ...)
 
@@ -89,12 +89,12 @@ Instead of building the tool, we can start with a standard protocol and let othe
 - We need a social network that does not cause divisiveness and negativity that is currently the natural by-product of optimizing for greater engagement.
 - How can the network [[Incentives|incentivize]] healthy conversations and encourage nuanced [[Resolving Disagreement|discussions]]?
 
-### Web3 Recommendation Engine
+### Token Recommendation Engine
 
 - Since Ethereum wallets are public, you can get good data on which tokens people similar to you are holding.
 - This might be useful to discover new assets.
 
-### Web3 Data Pipelines
+### Blockchain Data Pipelines Connectors
 
 - There is no Airbyte for blockchains.
 - Everyone is reinventing the wheel, e.g: Dune does ETL, Flipside does it too, ...

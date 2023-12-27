@@ -1,12 +1,12 @@
-# Web3
+# Decentralized Web
 
-- Web3 is theoretically more than [[Blockchain]] and [[Cryptocurrencies]]. [It means building in public, new types of incentives, real ownership of digital property, internet-wide login / identity](https://ckarchive.com/b/p9ueh9hp409k), ...
+- The decentralized web is more than [[Blockchain]] and [[Cryptocurrencies]]. [It means building in public, new types of incentives, real ownership of digital property, internet-wide login / identity](https://ckarchive.com/b/p9ueh9hp409k), ...
 - Key decisions associated with maintaining and updating cryptonetwork protocols. As with every human organization, aligning interests and beliefs among human participants to reach agreement is the goal of [[governance]].
   - [In cryptonetworks, these decisions are made by the community, using open and transparent mechanisms](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e). DAOs don't need a boss!
   - Cryptocurrencies have the [[Incentives]] to keep the users happy since forking is an option.
 - [Web3 is a decentralized internet. Under Web3, the internet is shared online and governed by the collective "we"](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc).
-- Web3 incentives open source. That creates an ecosystem of composable and permissionless tools that increases the speed of innovation.
-- A way to look at Web3 is as a laboratory for radical economic, political, and social experiments.
+- Decentralized web incentives open source. That creates an ecosystem of composable and permissionless tools that increases the speed of innovation.
+- A way to look at the decentralized web movement is as a laboratory for economic, political, and social experiments.
   - The space encourages experimentation in a diverse set of fields like [[Governance]] or [[Finances]].
 
 ## Resources
@@ -45,11 +45,11 @@
 
 ### Blockchain Indexing Projects
 
-There is an emerging landscape of [Data and Blockchain](https://primodata.org/landscape.html).
+There is an emerging landscape of [Data and Blockchain](https://www.primodata.org/blockchain-data).
 
 #### Companies
 
-- [Tokenflow](https://docs.tokenflow.live/)
+- [Tokenflow](https://tokenflow.live/)
 - [Indexed.xyz](https://github.com/indexed-xyz)
 - [BitQuery](https://bitquery.io/) ([GitHub](https://github.com/bitquery/explorer))
 - [Coherent](https://coherent.xyz/) ([GitHub](https://github.com/coherentopensource))
@@ -76,8 +76,10 @@ There is an emerging landscape of [Data and Blockchain](https://primodata.org/la
 
 - [Trueblocks](https://trueblocks.io/)
 - [Blockchain ETL](https://github.com/blockchain-etl)
+- [Cryo](https://github.com/paradigmxyz/cryo)
 - [Mars](https://github.com/deepeth/mars)
 - [Algoran Indexer](https://github.com/algorand/indexer)
+- [Substreams](https://substreams.streamingfast.io/)
 - [Tezos Indexer](https://github.com/baking-bad/tzkt)
 - [db3](https://github.com/db3-teams/db3)
 - [IceFireDB](https://www.icefiredb.xyz/icefiredb_docs/)
@@ -88,7 +90,6 @@ There is an emerging landscape of [Data and Blockchain](https://primodata.org/la
 - [Luabase](https://github.com/luabase)
 - [Digital Assets Examples](https://github.com/aws-samples/digital-assets-examples)
 - [Subsquid](https://subsquid.io/)
-- [Cryo](https://github.com/paradigmxyz/cryo)
 - [NanoDB](https://github.com/mistakia/nanodb)
 
 ### Bounty Based Collaboration

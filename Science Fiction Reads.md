@@ -14,3 +14,4 @@ Some great sci-fi reads I've enjoyed:
 - Ficciones. Jorge Luis Borges.
 - Foundation. Asimov.
 - The Expanse.
+- [The Star](https://sites.uni.edu/morgans/astro/course/TheStar.pdf). Arthur C. Clarke.
