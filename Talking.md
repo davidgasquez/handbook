@@ -15,8 +15,9 @@
 - Dishonest Flattery while effective in some cases, will destroy you long term. If you are unable to find a compliment about another human being that is truthful, you're not trying hard enough.
 - In difficult conversations, keep in mind the ultimate purpose and [[Mindfulness|be calm]]. You don't need to win the conversation. Ensure safety. Control your emotions.
 - Share your facts as stories, not global facts. Logic doesn’t persuade people. Clarity, storytelling, and appealing to self-interest do.
+- Combining walking with talking might be effective for deep conversations. You don't keep eye contact but nevertheless you are very close. For some topics it helps to just talk without having to look someone in the eye. Long pauses are not a problem because there is the landscape passing by that removes the awkwardness.
 
-### [Interesting Questions](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
+## [Interesting Questions](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
 
 - Use FORD (Family, Occupation, Recreation, Dreams) as fallback topics.
 - What's the change you'd do to the current political system?
