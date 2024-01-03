@@ -1,5 +1,10 @@
 # Datathons
 
+## Discover
+
+- [ML Contests](https://mlcontests.com/)
+- [Humyn](https://app.humyn.ai/challenges)
+
 ## Checklist
 
 1. Learn more about the problem. Search for similar Kaggle competitions. Check the task in [Papers with Code](https://paperswithcode.com/).
