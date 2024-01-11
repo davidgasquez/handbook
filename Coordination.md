@@ -32,3 +32,4 @@
   - Graduated sanctions for those who violate community rules.
   - Cheap, accessible means of conflict resolution.
   - Self-determination.
+- There are many [coordination mechanisms](https://coordinationmechanisms.gitcoin.co/). Choose the appropriate one for your situation.

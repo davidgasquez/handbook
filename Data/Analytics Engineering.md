@@ -41,6 +41,7 @@
 - [Mattermost](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt)
 - [Mozilla](https://github.com/mozilla/bigquery-etl)
 - [Dagster Open Platform](https://github.com/dagster-io/dagster-open-platform)
+- [LLM Support Bot](https://github.com/PedramNavid/llm-support-bot)
 - [MIT Open Learning](https://github.com/mitodl/ol-data-platform)
 - [Our World in Data](https://github.com/owid/etl)
 - [Catalyst Cooperative PUDL](https://github.com/catalyst-cooperative/pudl)
