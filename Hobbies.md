@@ -14,7 +14,10 @@
 - Doing some [[Cooking]] and developing [[Recipes]]
 - Small scale [[Gardening]]
 - Playing around with [[Large Language Models]]
-
+- Exploring cities and judging them by 3 factors:
+  - Number of people in a rush
+  - Pigeons QoL
+  - Taxi cars brand
 ## Resources
 
 - [The NoSurf Activities List](https://nosurf.net/activity-list/)
