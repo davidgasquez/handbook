@@ -30,7 +30,8 @@
 
 - [Meltano](https://meltano.com)
 - [Airbyte](https://airbyte.io/)
-- [Singer](https://www.singer.io/)
+- [Singer](https://www.singer.io/) ([SPEC](https://github.com/singer-io/getting-started/blob/master/docs/SPEC.md))
+- [CloudQuery](https://www.cloudquery.io/)
 - [Vector](https://vector.dev)
 - [Cloudfuse](https://github.com/cloudfuse-io)
 - [Flow](https://github.com/estuary/flow). Based on [Gazzette](https://github.com/gazette/core).

@@ -87,4 +87,4 @@ Like any other field, the world of Software Development has some interesting and
 - [Open Source Guides](https://opensource.guide/)
 - [Github Badges](https://shields.io/)
 - [Icons and Photos For Everything](https://thenounproject.com/), [other illustrations](https://github.com/sw-yx/spark-joy#illustrations) and [color toolbox](https://hue.tools/).
-- [Command Line Interface Guidelines](https://clig.dev/) and [12 factors CLI apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46).
+- [Command Line Interface Guidelines](https://clig.dev/) and [12 factors CLI apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) and [Learnings after building CLI apps](https://simonwillison.net/2023/Sep/30/cli-tools-python/).
