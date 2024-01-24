@@ -50,6 +50,19 @@
 - [MetricsDAO](https://github.com/MetricsDAO)
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
 - [Anomstack](https://github.com/andrewm4894/anomstack)
+#### Dagster Resources
+
+- [dagster-io/hooli-data-eng-pipelines](https://github.com/dagster-io/hooli-data-eng-pipelines)
+- [zsvoboda/ngods-stocks](https://github.com/zsvoboda/ngods-stocks/tree/main)
+- [westmarindata/dagster-integration-demo](https://github.com/westmarindata/dagster-integration-demo)
+- [b-gar/dagster-cfb](https://github.com/b-gar/dagster-cfb)
+- [jonathanneo/data-aware-orchestration](https://github.com/jonathanneo/data-aware-orchestration)
+- [mitodl/ol-data-platform](https://github.com/mitodl/ol-data-platform)
+- [fremantle-industries/tabletop](https://github.com/fremantle-industries/tabletop)
+- [franloza/coches-net-dashboard](https://github.com/franloza/coches-net-dashboard)
+- [westmarindata/dagster-pypi-github](https://github.com/westmarindata/dagster-pypi-github/)
+- [slopp/dagster_s3_clickhouse_demo](https://github.com/slopp/dagster_s3_clickhouse_demo)
+- [dagster-io/mdsfest-opensource-mds](https://github.com/dagster-io/mdsfest-opensource-mds)
 
 ### Related [[Podcasts]]
 

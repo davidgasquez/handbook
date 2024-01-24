@@ -262,7 +262,6 @@ Indeed! With LLMs on the rise, community curated datasets become more important 
 - [Data is Plural](https://github.com/data-is-plural)
 - [Data Liberation Project](https://github.com/data-liberation-project)
 - [Opendatasoft](https://www.opendatasoft.com/)
-- [Data Liberation Project](https://www.data-liberation-project.org/)
 
 ### Indexes
 
