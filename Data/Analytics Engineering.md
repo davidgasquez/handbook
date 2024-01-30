@@ -50,6 +50,7 @@
 - [MetricsDAO](https://github.com/MetricsDAO)
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
 - [Anomstack](https://github.com/andrewm4894/anomstack)
+
 #### Dagster Resources
 
 - [dagster-io/hooli-data-eng-pipelines](https://github.com/dagster-io/hooli-data-eng-pipelines)

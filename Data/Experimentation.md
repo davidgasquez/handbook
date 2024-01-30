@@ -4,7 +4,7 @@ An *experiment* is an hypothesis driven exploration to uncover knowledge that ca
 
 When you're not certain of the right answer, the best approach is to [have a portfolio](https://seths.blog/2022/01/portfolio-thinking/), a range of bets that reward us with resilience and significant upside.
 
-_[Insight is derived from action, not analysis](https://commoncog.com/becoming-data-driven-first-principles/)_: you only learn to improve your business when you test control factors, not when you discover them.
+*[Insight is derived from action, not analysis](https://commoncog.com/becoming-data-driven-first-principles/)*: you only learn to improve your business when you test control factors, not when you discover them.
 
 **A/B Test** (Including multivariate tests) are randomized controlled experiment where a single success metric is measured to determine which variant performs the best.
 

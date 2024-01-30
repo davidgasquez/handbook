@@ -32,3 +32,4 @@
   2. A few references. Connect the dots between some links, quotes from other sources.
   3. An anecdote from your own work that provides rich texture and context for what you do.
   4. Some open questions that invite people to discuss.
+- [Keep making your post more opinionated until it reflects your true beliefs](https://twitter.com/HamelHusain/status/1751995737095709164). Don’t hedge. People want to hear what you think!
