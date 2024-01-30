@@ -120,8 +120,8 @@
 
 ## Tools
 
-Sometimes, https://commoncog.com/becoming-data-driven-first-principles/#the-trick. These might help your organization think better with data.
+Sometimes, [tools help creating cultural change](https://commoncog.com/becoming-data-driven-first-principles/#the-trick). These might help your organization think better with data.
 
-- [Process Behaviour Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction)
-- [Time Lagged Conversions](https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/)
-- Change point detection
+- [Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction).
+- [Time Lagged Conversions](https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/).
+- Change point detection.
