@@ -16,6 +16,10 @@
 - Product metrics allow measuring product progress and creating alignment in an outcome-oriented way. There are many product frameworks available to help us think about the right key things to track. Think about **[product metrics that matter](https://uxdesign.cc/product-metrics-that-matter-951b9e4d4eca)** for you.
 - Push a culture of metrics and goals as a source of learning, not promotions or success delegation.
 - Vanity metrics are surface-level metrics. They're often large measures, like number of downloads, that impress others. **Clarity metrics** are operational metrics, like the number of minutes a day your product actually gets used or how long it took for a user to get service. These are the hidden gears that drive growth.
+- When people are pressured to meet a target value there are three ways they can proceed:
+  1. They can work to improve the system.
+  2. They can distort the system.
+  3. Or they can distort the data.
 
 ## Good Metric Checklist
 

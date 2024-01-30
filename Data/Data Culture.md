@@ -22,6 +22,7 @@
   - If data is the most precious asset in a company, does it make sense to have only one team responsible for it?
     - [People talk about data as the new oil but for most companies it’s a lot closer uranium](https://news.ycombinator.com/item?id=27781286). Hard to find people who can to handle or process it correctly, nontrivial security/liabilities if PII is involved, expensive to store and a generally underwhelming return on effort relative to the anticipated utility.
 - [The pain in data teams come from needing to influence PMs/peers with having little control of them. Data teams need to become really great internal marketers/persuaders](https://anchor.fm/census/episodes/The-evolution-of-the-data-industry--data-jobs-w-Avo-CEO-and-Co-founder-Stefania-Olafsdottir-e16hu1l). That said, it shouldn't be the data team job to convince the organization to be data driven. That's not an effective way of spending resources.
+  - Executives are expected to be data driven, even if they don't know what it means.
 - People problems are orders of magnitude more difficult to solve than data problems.
 - **Integrate data where the decision is made**. E.g: Google showing restaurant scores when you're looking something for dinner.
   - Reduce the time to insights. If the data is already in the tool you're using, then there's zero time to insights. Provide a set of tools with the same data and let people choose depending on the goal.
@@ -42,6 +43,7 @@
 - Good use of data is, ultimately, a question of good epistemology. (“Is this true? What can we conclude? How do we know that?”) Good epistemology is hard. It must be taught.
 - **When things are going well, no one cares about data**. The right time to present data is when things are starting to go bad. Use your early warning detection systems to understand when it looks like it's gonna be time for data to step in and save the day and then position data as a solution in the context of whatever meaning makes sense. The stakeholders are decision makers and they don't have a ton of time. They're looking to make decisions, they're looking to solve problems.
 - [So much of data work is about accumulating little bits of knowledge and building a shared context in your org so that it's possible to have the big, earth shattering revelations we all wish we could drive on a predictable schedule](https://twitter.com/imightbemary/status/1536368160961572864).
+  - A big purpose of data is knowledge. Knowledge is "theories or models that allow you to predict the outcomes of your business actions".
 - You won't have the best allocation of resources in a reactive team. Data teams need extra [[slack]]. [Balance user requests with actual needs](https://scientistemily.substack.com/p/product-management-skills-for-data).
 - Do weekly recaps in Slack in to highlight key items, company-wide progress toward north-stars, improvements in certain areas, new customer highlights. All positive and fun stuff.
 - How can we measure the data team impact?
@@ -79,6 +81,7 @@
 - [Culture eats strategy (and tools) for breakfast](https://news.ycombinator.com/item?id=29062266). Until there’s a cultural mindset shift towards how companies value data and metadata, nothing will change.
   - [Tools eat process for breakfast](https://benn.substack.com/p/the-product-is-the-process). No matter how much you blog about best practices, or how many talks you give about better ways to work, people will eventually find their way back into the behavioral grooves cut by the products they use (e.g: dbt, GitHub, ...).
 - Most of the work done in data is in an effort to **reduce entropy** — Model data to remove inaccuracies, turn commonly asked questions into self-serve reports, and funnel ad-hoc questions into a formalized request process. This kind of attitude the nature of data practitioners. In the case of driving decisions with data, **embrace the chaos**.
+  - Data doesn't so much drift towards entropy, **but sprints at it**.
   - [Navigating the chaos to arrive at a trustworthy recommendation is one of the most important jobs to be done.](https://roundup.getdbt.com/p/iterating-on-your-data-team). Decisions usually need to be taken faster and data analyst are [not invited to the table early enough](https://petrjanda.substack.com/p/bring-data-analyst-to-the-table). Again, be lean and iterate.
   - Data is *not* a “set it and forget it” kind of activity. Your dashboard *will* get stale in less than six months. Your key metrics *will* eventually have bad data in them. That machine learning model you spent all of last quarter developing *will* **[drift](https://towardsdatascience.com/model-drift-in-machine-learning-models-8f7e7413b563)** from its original fit. The environment in which your business operates is constantly changing, and so will the product or service that your business delivers. As a result, what is knowable about your business, about your product or service, is constantly changing too. And fast.
 - [Have regular cleanups and audits to keep data in check](https://www.avo.app/blog/data-literacy-why-people-dont-trust-data-tips-from-patreons-dir-of-data-science). They are crucial to keeping your data trust up to par. [Schedule time to delete stuff](https://twitter.com/EdDaWord/status/1532148425487097857).
@@ -88,6 +91,7 @@
   - [Doing the fundamentals really well almost always exposes how little is actually understood about why things are happening. It’s uncomfortable for high performing people to acknowledge that your grip on the levers is slippery](https://twitter.com/gwenwindflower/status/1498822586255519744).
 - [Data ownership is a hard problem](https://www.linkedin.com/posts/chad-sanderson_heres-why-data-ownership-is-an-incredibly-activity-6904107936533114880-gw8n/). Data is fundamentally generated by services (or front-end instrumentation) which is managed by engineers. CDC and other pipelines are built by data engineers. The delineation of ownership responsibilities is very rarely established, with each group wanting to push 'ownership' onto someone else so they can do the jobs they were hired for.
 - [Becoming a data-driven organization is a journey, which unfolds over time and requires critical thinking, human judgement, and experimentation](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard). Fail fast, learn faster.
+  - Data-drivenness is about building tools, abilities, and, most crucially, a culture that acts on data.
   - [Path to create a data-driven organization](https://twitter.com/_abhisivasailam/status/1520274838450888704):
     - 1. Get a well-placed leader with influence to message, model, and demand data-driven execution.
     - 2. Hire/fire based on data aptitude and usage.
@@ -112,3 +116,12 @@
 - Have a documentation [entry-point for Data](https://github.com/mozilla/data-docs).
 - [For self-serve, aim to own as little as possible but keep in mind you can't make people do what you want but can stop them for doing what you don't want](https://youtu.be/wyW6hQGZxgY)
   - [You need to make a grocery store. You can’t give folks directions to the farm to pick their own produce](https://twitter.com/teej_m/status/1603205457992044545).
+- It's easy to lie with statistics, but it's hard to tell the truth without them.
+
+## Tools
+
+Sometimes, https://commoncog.com/becoming-data-driven-first-principles/#the-trick. These might help your organization think better with data.
+
+- [Process Behaviour Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction)
+- [Time Lagged Conversions](https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/)
+- Change point detection

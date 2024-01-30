@@ -8,6 +8,7 @@
   - Make processes [[Idempotence|idempotent]] and [[Automation|automated]].
   - [Put mechanisms that enable the organization to learn and adapt](https://www.remyevard.com/posts/2021/11/30/healthy-organizations.html).
 - _Culture, Coordination, and Capital_ are the foundation of your ability to have an impact on your mission.
+- Every company is a process, and processes may be decomposed into multiple smaller processes. Each process you look at will have outputs that you care about and inputs that you must discover.
 - A company may be looked as a combination of 3 things:
   - The people who work at the company.
   - The process the company uses to get work done.
@@ -34,6 +35,7 @@
 - Decision making should be pushed down the hierarchy to the practitioner.
 - An organization exhibits risk aversion comparable to the most risk averse decision maker in the decision chain.
 - Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships. [Don't try to optimize that number or it'll be gamed](https://www.fast.ai/2019/09/24/metrics/). Solve Problems, not [[metrics]]. When a measure becomes a target, it ceases to be a good measure. Not everything that counts can be measured, and not everything that can be measured counts. [The more important a metric is in social decision making, the more likely it is to be manipulated](https://en.wikipedia.org/wiki/Campbell%27s_law).
+  - Your stated strategy must match the strategy revealed in the context of decision making (budgets and teams).
 - [[Data Culture|Data]] can be valuable in helping you understand the world, test hypotheses, and move beyond gut instincts or hunches. [[Metrics]] can be useful when they are in their proper context and place.
   - Use data to identify friction points, and constantly experiment with changes to make things easier for you and your customers.
 - How does the [data-informed product loop look](https://cutlefish.substack.com/p/tbm-852-the-data-informed-product)?
@@ -48,6 +50,7 @@
 - Train employees well enough they could get another job, but treat them well enough so they never want to.
 - [Apolitical](https://twitter.com/naval/status/1263322014372130817) work environment is hard to maintain. Choose your company battles and causes.
 - Managers will hire more managers as the team scales and that creates new teams. Teams will fight to justify their existence. Beware of this build-up inertia.
+  - [The causal structure of your business does not care about departments](https://commoncog.com/becoming-data-driven-first-principles/).
   - [As organizations become less efficient / less effective, they need more and more managers to "manage" that inefficiency. This kicks off a wicked cycle, because they'll self-identify with managing a problem ... which reinforces it.](https://mobile.twitter.com/johncutlefish/status/1472669773410410504)
   - It might be interesting to cap the core team size at N people (e.g: 150). Focus on solving one problem, and do it well.
 - [The art of org design is essentially effective iteration towards form-context fit. You need four sub-skills to do effective iteration](https://commoncog.com/blog/org-design-skill/). To get good at org design, you need to build more accurate models of the people in your org, learn how they respond to [[incentives]], and in build enough power and credibility to get your org changes to take place.

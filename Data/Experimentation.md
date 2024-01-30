@@ -4,6 +4,8 @@ An *experiment* is an hypothesis driven exploration to uncover knowledge that ca
 
 When you're not certain of the right answer, the best approach is to [have a portfolio](https://seths.blog/2022/01/portfolio-thinking/), a range of bets that reward us with resilience and significant upside.
 
+_[Insight is derived from action, not analysis](https://commoncog.com/becoming-data-driven-first-principles/)_: you only learn to improve your business when you test control factors, not when you discover them.
+
 **A/B Test** (Including multivariate tests) are randomized controlled experiment where a single success metric is measured to determine which variant performs the best.
 
 Normally this will consist of two groups: A **control** and **test** group, but it could also be implemented with multiple test groups (a multivariate test). The goal of an A/B test is to reach a statistically significant result, i.e. you can say that one variant is better than the other with a high level of confidence that observed difference did not occur by chance. While A/B testing is a very powerful conversion optimization instrument, it requires lots of hard work. [Most of your experiments will not produce a significant result](https://www.jitbit.com/news/185-most-of-your-ab-tests-will-fail).
