@@ -2,8 +2,8 @@
 
 ![[Quotes#^a5049d]]
 
-- Aim for a single **"North Star Metric"** alongside 3 to 5 additional supporting metrics. You may also want to consider counter-metrics (or pairing metrics) that keep you from [over-rotating on a singular metric](https://www.dataliftoff.com/wp-content/uploads/2022/10/tennis_balls-1536x2048.jpeg).
-  - [Design **north star metrics that capture value to the customer** rather than value to your organization](https://roundup.getdbt.com/p/the-perfect-north-star-metric).
+- Focus on 3 to 5 metrics. You may also want to consider counter-metrics (or pairing metrics) that keep you from [over-rotating on a singular metric](https://www.dataliftoff.com/wp-content/uploads/2022/10/tennis_balls-1536x2048.jpeg).
+  - [Design **north star metrics that capture value to the customer** rather than value to your organization](https://roundup.getdbt.com/p/the-perfect-north-star-metric). Beware, optimizing against at a single north star metric is like looking exclusively at the score to get insight into how to win the game.
 - Common understanding of a metric matters more than the metric precision. That understanding requires some standardization (names, time spans, ...) and that needs [[Coordination]].
   - Teams need to cooperate when defining metrics.
 - Rely on the SMART framework (Specific, Measurable, Achievable, Results-Oriented, Targeted).
@@ -20,7 +20,10 @@
   1. They can work to improve the system.
   2. They can distort the system.
   3. Or they can distort the data.
-
+- Every metric you use should have an Operational Definition.
+  1. A criterion — the thing you want to measure.
+  2. Test procedure — how will you measure the thing?
+  3. Decision rule — how will you decide if the thing you’re measuring should be included in the count?
 ## Good Metric Checklist
 
 - **Specific and sensitive**: Metrics should be specific to the product or feature, and need to be explicitly and quantitatively defined. The metric should also be sensitive enough to measure the impact we expect to see.
@@ -42,6 +45,7 @@ Remember that there are no objectively right answers. [There is no correct win r
 - Metrics before Strategy. Your metrics are a reflection of your strategy. They help answer, is the strategy working? Metrics without strategy is looking at a bunch of random numbers. Define the strategy before you define your metrics.
 - Definition Is More Important Than A Dashboard. People focus on "building a dashboard." Much more important is choosing which metrics are important and defining those metrics well. Defining is more complicated than people think... There are many ways to define a retention metric depending on your product. Your dashboard is a method to communicate your metrics, which is important, but useless if you choose and define them poorly.
 - Outputs vs Inputs. Most metrics like a retention metric or revenue metric are output metrics. These are metrics you should monitor. Giving output metrics to teams as [[goals]] can be dangerous. They need to break them down into input metrics to make them actionable.
+  - Output metrics represent results and input metrics represent actions.
   - When output metrics are given as goals, teams can often focus on the wrong inputs or thrash between inputs.
   - Focus on usage first (not revenue first). This is the most common version of outputs vs inputs.  Usage creates revenue, revenue does not create usage.  As a result, the most important metrics in terms of creating growth are not your revenue metrics, they are your usage metrics.
 - Mixing Up Retention and Engagement. Retention and engagement are not the same things. Retention is binary.  It answers the question, was this person active within my defined time period?  Yes or no. Engagement is is depth. It answers the question, how active were they within the defined timed period? 0→N. Engagement is one of three major inputs into driving retention.

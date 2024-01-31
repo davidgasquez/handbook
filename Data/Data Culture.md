@@ -14,7 +14,7 @@
     - Business Metrics Review is a 30 to 60 minutes meeting to chat and explore key metrics and teach how to think with data.
   - Value of clear goals and expectations. Validate what you think your job is with your manager and stakeholders, repeatedly.
 - [While the output of your team is what you want to maximize, you'll need some indicators that will help guide you day-to-day](https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/). Decide what's important to you (test coverage, documentation missing, queries run, models created, ...), and generate some internal reports for yourself.
-- [Data teams should be a part of the business conversations from the beginning](https://cultivating-algos.stitchfix.com/). Get the data team involved early, have open discussions with them about the existing work, and how to prioritize new work against the existing backlog. Don’t accept new work without addressing the existing bottlenecks, and don’t accept new work without requirements. **Organizational [[politics]] matter way more than any data methods or technical knowledge**.
+- [Data teams should be a part of the business conversations from the beginning](https://cultivating-algos.stitchfix.com/). Get the data team involved early, have open discussions with them about the existing work, and how to prioritize new work against the existing backlog. Don’t accept new work without addressing the existing bottlenecks, and don’t accept new work without requirements. **Organizational [[politics]] matter way more than any data methods or technical knowledge**. The hard bit about becoming data driven in business isn't the technical bits. It's the political bits.
   - Including data people in meetings causes happy accidents!
   - The layout of the organization impacts time of the information to propagate and adds losses.
   - The modern data team needs to have *real organizational power* — it needs to be able to say "no” and mean it. If your data team does not truly have the power to say no to stakeholders, it will get sent on all kinds of wild goose chases, be unproductive, experience employee churn, etc.
@@ -31,6 +31,7 @@
 - Data professionals can build consensus as the company becomes more diverse.
 - Data systems can establish methods for understanding the world even as it becomes more complex.
 - Data literacy can create pathways for anyone to contribute equally to the organization's reality.
+  - Understanding variation is the beginning of data literacy.
 - Create a single space as the central place to post [[Data Request Template|data requests]].
   - On the other hand, data analysis and data science are domain level problems and cannot be centralized.
 - Create a single space to [[Sharing Data Insights|share the results of analysis and decisions made based on them]].
@@ -43,7 +44,7 @@
 - Good use of data is, ultimately, a question of good epistemology. (“Is this true? What can we conclude? How do we know that?”) Good epistemology is hard. It must be taught.
 - **When things are going well, no one cares about data**. The right time to present data is when things are starting to go bad. Use your early warning detection systems to understand when it looks like it's gonna be time for data to step in and save the day and then position data as a solution in the context of whatever meaning makes sense. The stakeholders are decision makers and they don't have a ton of time. They're looking to make decisions, they're looking to solve problems.
 - [So much of data work is about accumulating little bits of knowledge and building a shared context in your org so that it's possible to have the big, earth shattering revelations we all wish we could drive on a predictable schedule](https://twitter.com/imightbemary/status/1536368160961572864).
-  - A big purpose of data is knowledge. Knowledge is "theories or models that allow you to predict the outcomes of your business actions".
+  - A big purpose of data is knowledge. Knowledge is "theories or models that allow you to predict the outcomes of your business actions". Insights may originate from data but are confirmed through actions.
 - You won't have the best allocation of resources in a reactive team. Data teams need extra [[slack]]. [Balance user requests with actual needs](https://scientistemily.substack.com/p/product-management-skills-for-data).
 - Do weekly recaps in Slack in to highlight key items, company-wide progress toward north-stars, improvements in certain areas, new customer highlights. All positive and fun stuff.
 - How can we measure the data team impact?
@@ -91,7 +92,7 @@
   - [Doing the fundamentals really well almost always exposes how little is actually understood about why things are happening. It’s uncomfortable for high performing people to acknowledge that your grip on the levers is slippery](https://twitter.com/gwenwindflower/status/1498822586255519744).
 - [Data ownership is a hard problem](https://www.linkedin.com/posts/chad-sanderson_heres-why-data-ownership-is-an-incredibly-activity-6904107936533114880-gw8n/). Data is fundamentally generated by services (or front-end instrumentation) which is managed by engineers. CDC and other pipelines are built by data engineers. The delineation of ownership responsibilities is very rarely established, with each group wanting to push 'ownership' onto someone else so they can do the jobs they were hired for.
 - [Becoming a data-driven organization is a journey, which unfolds over time and requires critical thinking, human judgement, and experimentation](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard). Fail fast, learn faster.
-  - Data-drivenness is about building tools, abilities, and, most crucially, a culture that acts on data.
+  - [Data-drivenness is about building tools, abilities, and, most crucially, a culture that acts on data](https://twitter.com/ejames_c/status/1732592768890057115).
   - [Path to create a data-driven organization](https://twitter.com/_abhisivasailam/status/1520274838450888704):
     - 1. Get a well-placed leader with influence to message, model, and demand data-driven execution.
     - 2. Hire/fire based on data aptitude and usage.

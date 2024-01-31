@@ -155,6 +155,7 @@
 - Diversity is represented and embraced; a broad spectrum of views are considered.
 - Progress and set backs are regularly communicated to key stakeholders.
 - When collaborative projects are completed, credit is shared among the contributors.
+- Management is prediction. In order to run a team well, you need to be able to predict the outcomes of your team actions.
 
 ## Links
 

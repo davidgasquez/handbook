@@ -4,6 +4,7 @@ Goals are good for setting a direction. [[Systems]] are for making progress. You
 
 - Minimize decision points. The main thing that consumes willpower isn't the process of doing a task, it's deciding to do the task in the first place. The goal is to get stuff done, not to decide to get stuff done.
 - Shape the default. The ideal situation is for doing the right action to feel like the default.
+- You don’t hit a quantitative goal by focusing on the goal. You hit a quantitative goal by focusing on the process.
 - Beware trivial inconveniences. Think of decisions in terms of activation energy. Some decisions need more energy than others depending on how are setup. Make the good decision effortless. Remove friction from the path to your goals.
 
 ## TAPs
