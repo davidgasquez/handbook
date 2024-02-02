@@ -34,7 +34,7 @@
   - Understanding variation is the beginning of data literacy.
 - Create a single space as the central place to post [[Data Request Template|data requests]].
   - On the other hand, data analysis and data science are domain level problems and cannot be centralized.
-- Create a single space to [[Sharing Data Insights|share the results of analysis and decisions made based on them]].
+- Create a single space to [[Data Practices|share the results of analysis and decisions made based on them]].
   - Log changes so everyone can jump in and be aware of what’s going on.
   - Log assumptions and lessons learned somewhere. This information should loop back into the data product.
 - Make the warehouse the source of truth for all the teams.

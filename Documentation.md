@@ -20,6 +20,7 @@
   - Keep it simple, write in plain language.
   - [Use active voice](https://developers.google.com/style/voice): make clear who's performing the action.
 - [As you are working in a team, then you have to address the problem of shared understanding](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/). This is where documentation come in.
+- [Use the imperative mood in descriptions and instructions](https://twitter.com/kepano/status/1751354613041872985). Use concise action-oriented sentences, written from the user's perspective.
 
 ## Resources
 
