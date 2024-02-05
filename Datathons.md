@@ -49,6 +49,7 @@
 - [Fold](https://github.com/dream-faster/fold)
 - [Neural Prophet](https://neuralprophet.com/)
 - [Darts](https://github.com/unit8co/darts)
+- [Functime](https://docs.functime.ai/forecasting/)
 - [Pytimetk](https://github.com/business-science/pytimetk)
 - [Sktime](https://github.com/alan-turing-institute/sktime) / [Aeon](https://github.com/aeon-toolkit/aeon)
 - [Awesome Collection](https://github.com/MaxBenChrist/awesome_time_series_in_python)
