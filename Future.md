@@ -25,6 +25,7 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
   - More people aware of the trick our mind does to us ([Mind Field](https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2) and [The Story Of Us](https://waitbutwhy.com/2019/08/story-of-us.html)) as well as [how diverse humans are](https://youtu.be/fC5qucSk18w).
   - More interactive explanations like the ones the awesome [Nicky Case](https://ncase.me/) do!
 - More concern around systems with weird incentives causing large amount of pain (Moloch).
+  - E.g: Criminal system rework. Focusing on the system and not on individual punishement.
 - Work valuation changes (plumbing more expensive than some software development) due to [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox). We will automate making a full app before a robot is able to master physical arms and legs like a 5 year old.
 - Open data will be more important as they can produce better models and help coordinate people providing shared context.
 - The current decentralized protocols (IPFS, ActivityPub, ...) need to evolve more. Specially around UX. People don't care about decentralization, they care about UX.
