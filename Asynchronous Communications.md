@@ -14,6 +14,7 @@
   3. Links, images, and as much supporting material as possible that will help illustrate your thoughts.
   4. A concrete need. What do you want to get out of the communication? Approval on a task? An asset of some kind? Be clear.
 - Beware of the (cultural) Power Distance Index. The lower the PDI, the more direct communications are preferred; the higher, the more diplomatic the communications are preferred.
+- Asynchronous communication is efficient and inclusive, ensuring that discussions are well thought through, self-documented, and accessible to all team members, regardless of their work hours.
 
 ## Resources
 

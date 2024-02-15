@@ -1,7 +1,7 @@
 # Organizations
 
 - [Organizations are complex adaptive systems — meaning that they consist of individual humans responding to a messy combination of social, cultural, and economic system incentives](https://commoncog.com/blog/org-design-skill/).
-- It’s all about [[Coordination]].  [Coordination _adds complexity_ to your systems which make them harder to change and work with](https://itnext.io/the-origin-of-complexity-8ecb39130fc). We need more coordination when things get bigger, order matters and consistency is important.
+- It's all about [[Coordination]].  [Coordination _adds complexity_ to your systems which make them harder to change and work with](https://itnext.io/the-origin-of-complexity-8ecb39130fc). We need more coordination when things get bigger, order matters and consistency is important.
   - Split things up (teams, code, data) into smaller sets.
   - Make sure no one gets blocked.
   - Make things composable (e.g: UNIX).
@@ -54,6 +54,7 @@
   - [As organizations become less efficient / less effective, they need more and more managers to "manage" that inefficiency. This kicks off a wicked cycle, because they'll self-identify with managing a problem ... which reinforces it.](https://mobile.twitter.com/johncutlefish/status/1472669773410410504)
   - It might be interesting to cap the core team size at N people (e.g: 150). Focus on solving one problem, and do it well.
 - [The art of org design is essentially effective iteration towards form-context fit. You need four sub-skills to do effective iteration](https://commoncog.com/blog/org-design-skill/). To get good at org design, you need to build more accurate models of the people in your org, learn how they respond to [[incentives]], and in build enough power and credibility to get your org changes to take place.
+- Internally, you should not "sell", but truth seek.
 - Transparency is a vital value. Transparency gets people to treat the company as their own.
 - Adoption of new [[processes]] should _always_ take the step-by-step iteration process into account. You should _never_ think of it as a system to be adopted wholesale; you should always think “hmm, this is a set of tools that seem to work for _some_ context; how do I know this works for mine?” And then you should break those processes down to atomized pieces, and apply them by running smaller, more iterative tests. Understanding the original context is usually key to understanding if the processes have a shot at working when applied to your company.
 - As in other complex [[systems]], we usually blame individuals instead of exploring the root causes. The problem is rarely someone being a villain. It's almost always the system.
@@ -66,7 +67,7 @@
 - [Teams usually don't stop to think what (and why) things are working or not working](https://cutlefish.substack.com/p/tbm-952-when-nothingeverything-actually). Make time for that.
 - By [swinging the pendulum](https://twitter.com/BrandonMChu/status/1502312472644100105) and changing focus periodically, you accept more extreme (and clear) outcomes in the short term, but in the long term arrived at the middle ground you aim for.
 - [Big organizations develop strategic inefficiency to carry on doing what they're doing](https://youtu.be/v1eWIshUzr8?t=1147).
-- You can’t sell something like versioning or encryption as the key feature, you need to put out a comparable product and have these features be the thing that tips the scale in your favour.
+- You can't sell something like versioning or encryption as the key feature, you need to put out a comparable product and have these features be the thing that tips the scale in your favour.
 
 ## Resources
 
