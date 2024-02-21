@@ -19,5 +19,6 @@ Some great advice for [public speaking presentations](http://www.jilles.net/perm
 
 ## Resources
 
-- [Speaking.io](https://speaking.io).
-- [Marp](https://marp.app/).
+- [Speaking.io](https://speaking.io)
+- [Sli.dev](https://sli.dev/)
+- [Marp](https://marp.app/)

@@ -104,6 +104,7 @@
   - What already happened? Descriptive statistics.
   - What will happen? Predictive statistics.
   - What would happen if…? Scenario analysis.
+  - Most importantly, What are we trying to improve?
 - [Stakeholders will always need more data and is hard to say no. Communicating technical complexity to non-technical colleagues can be tough. Some reasons the ask might be hard](https://twitter.com/RichardSwinbank/status/1671780316573310977).
   - You know if the data exists.
   - You know where it is.
