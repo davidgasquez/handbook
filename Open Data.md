@@ -68,6 +68,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
     - Having better data will help create better and more accessible AI models ([people are working on this](https://github.com/togethercomputer/OpenDataHub)).
   - Integrate with the modern data stack to avoid reinventing the wheel and increase surface of the required skill sets.
   - Decentralized the computation (where data lives) and then cache inmutable and static copies of the results (or aggregations) in CDNs (IPFS, R2, Torrent). Most end user queries require only reading a small amount of data!
+- [Other Principles from the Indie Web](https://indieweb.org/principles) like have fun!
 
 ## Modules
 
