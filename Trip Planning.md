@@ -22,7 +22,7 @@
 - ID cards.
 - Card deck to play games.
 - Phone charger.
-- eSIM (Airalo).
+- eSIM (Airalo [or similar](https://esimdb.com/)).
 
 ### Checklist
 
