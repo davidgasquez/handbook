@@ -2,6 +2,7 @@
 
 ![[Quotes#^a5049d]]
 
+- Metrics are how we express how a company turns its inputs into outputs — how the company creates, captures, transforms, spends, and distributes value.
 - Focus on 3 to 5 metrics. You may also want to consider counter-metrics (or pairing metrics) that keep you from [over-rotating on a singular metric](https://www.dataliftoff.com/wp-content/uploads/2022/10/tennis_balls-1536x2048.jpeg).
   - [Design **north star metrics that capture value to the customer** rather than value to your organization](https://roundup.getdbt.com/p/the-perfect-north-star-metric). Beware, optimizing against at a single north star metric is like looking exclusively at the score to get insight into how to win the game.
 - Common understanding of a metric matters more than the metric precision. That understanding requires some standardization (names, time spans, ...) and that needs [[Coordination]].
@@ -9,6 +10,7 @@
 - Rely on the SMART framework (Specific, Measurable, Achievable, Results-Oriented, Targeted).
   - Pick the simplest metric that works for you. Metrics definitions should be as easy as a tool-tip away to find.
 - [Metrics are a tool, but not the destination](https://breakingpoint.substack.com/p/you-have-too-many-metrics)! You want to use the fewest metrics possible to cover all the fundamentals of your business.
+  - Pick a metric you want to improve or affect!
 - Organizations need three things related to metrics:
   1. A [[Metrics|process for defining metrics]].
   2. A single source of truth for the metrics.
@@ -20,10 +22,13 @@
   1. They can work to improve the system.
   2. They can distort the system.
   3. Or they can distort the data.
-- Every metric you use should have an Operational Definition.
+- [Every metric you use should have an Operational Definition](https://twitter.com/ejames_c/status/1732621626259484953).
   1. A criterion — the thing you want to measure.
   2. Test procedure — how will you measure the thing?
   3. Decision rule — how will you decide if the thing you’re measuring should be included in the count?
+- A process is predictable if it just contains routine variation. It is unpredictable if it contains both routine and special variation. You can only improve a process if you first make it predictable.
+- Metrics should help forming a working causal model of the business you're in so you know what interventions you can make and can predict the consequences.
+
 ## Good Metric Checklist
 
 - **Specific and sensitive**: Metrics should be specific to the product or feature, and need to be explicitly and quantitatively defined. The metric should also be sensitive enough to measure the impact we expect to see.
@@ -73,3 +78,17 @@ As you evaluate potential metrics, sure the proxy metric:
 - Is movable. You can affect the metric through changes to the product experience.
 - Is not an average. The danger of averages is you may move the metric by inspiring a small subset of customers to do a lot more of something. But this may not affect enough members to improve the overall product experience.
 - Correlates to your high-level engagement metric.
+
+## Metric Trees
+
+A metric tree is a logical representation of a business' growth model in a graph form. It's a simplified representation of how inputs flow into outputs.
+
+- Metric trees are composed of:
+  - Output metrics
+  - Input metrics
+  - Relationships amongst them. Output Metrics track the performance of key business processes while Input Metrics are the knobs and levers that allow you to manipulate the Output Metrics.
+- [Start from the top metric you care about (the north star metric)](https://sqlpatterns.com/p/designing-metrics-trees).
+- Gather a list of all the metrics your business measures.
+- Standardize metrics before you build the metrics tree.
+- Recursively break down inputs. Once you have a new metric, ask yourself, what are the components of that?
+- The relationship between the metrics isn't always mathematical. Sometimes it's causal or even correlational.

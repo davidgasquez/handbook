@@ -11,7 +11,7 @@
 - [Analytics code should be version controlled, tested, modular and maintainable](https://www.getdbt.com/analytics-engineering/why/).
   - Define all resources ([[Dashboards]] in YAML, Cohorts in SQL, ...) as code.
   - Treat data the same way engineers treat code. That means CI/CD, tests, frequent PRs, ...
-- Use [[Data Request Template]] when getting questions.
+- Use [[Data Practices#Data Request Template]] when getting questions.
 - Analytics work can be roughly split in two buckets:
   1. Building automated [[Systems]], from metrics to [[Dashboards]], to enable self-service use cases for business users. This is what we now typically call analytics engineering.
   2. Doing ad-hoc analyses, to answer some questions directly.

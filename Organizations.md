@@ -68,6 +68,7 @@
 - By [swinging the pendulum](https://twitter.com/BrandonMChu/status/1502312472644100105) and changing focus periodically, you accept more extreme (and clear) outcomes in the short term, but in the long term arrived at the middle ground you aim for.
 - [Big organizations develop strategic inefficiency to carry on doing what they're doing](https://youtu.be/v1eWIshUzr8?t=1147).
 - You can't sell something like versioning or encryption as the key feature, you need to put out a comparable product and have these features be the thing that tips the scale in your favour.
+- Your business may be thought of as a process. It has inputs, and it has outputs. One type of knowledge is understanding which inputs affect which outputs.
 
 ## Resources
 
