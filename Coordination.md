@@ -26,7 +26,7 @@
 - The requirements to govern a commons without tragedy:
   - Clear boundaries.
   - Managed by locals.
-   	- In a small community, everybody knows everybody, and can keep track of what they do. This makes small groups iterated games which rewards trust and penalizes sociopath behavior.
+    - In a small community, everybody knows everybody, and can keep track of what they do. This makes small groups iterated games which rewards trust and penalizes sociopath behavior.
   - Community makes its own rules.
   - Community can monitor behavior.
   - Graduated sanctions for those who violate community rules.
