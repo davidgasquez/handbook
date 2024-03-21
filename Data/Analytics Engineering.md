@@ -2,6 +2,7 @@
 
 - Analytics Engineering is the organization of an organization's information.
 - [Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006).
+  - [More analysis might not be the best solution if you can't validate or take actions on previous analysis](https://twitter.com/ejames_c/status/1753692862548697464)!
 - Accept that [analytics is a mess](https://benn.substack.com/p/analytics-is-a-mess).
   - Explicitly create separate workspaces for curated (production) and messy (experimental) work.
 - Reports are rarely read, and often forgotten. [[Data Culture|Decision-making involves getting data, summarizing and predicting ad then taking action]].
@@ -50,6 +51,7 @@
 - [MetricsDAO](https://github.com/MetricsDAO)
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
 - [Anomstack](https://github.com/andrewm4894/anomstack)
+- [Skrimmage](https://github.com/Skrimmage/Data-Platform)
 
 #### Dagster Resources
 
