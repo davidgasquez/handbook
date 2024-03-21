@@ -6,6 +6,7 @@
   - Stick to defining components and keep concepts generic (cache, [[databases]], algorithm, ...). Show how the components interact.
   - Define boundaries and limitations of each component.
 - Work in the open and [[Documentation|document]] everything.  Transparency increases understanding and reduces synchronization challenges. **[Emulate Open Source projects](https://tomayko.com/blog/2012/adopt-an-open-source-process-constraints) and [[Remote Jobs|remote companies]]**.
+  - [Write weekly updates](https://doingweeknotes.com/) and share them in a common place.
 - To make everyone more productive and happy: **Make feedback loops fast**. [Some best practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/):
   - Tested, automated process for new development environments.
   - Automated preview environments.
