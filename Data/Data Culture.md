@@ -4,6 +4,7 @@
   - Your goal as a data professional is to facilitate [[Making Decisions|decision making]] and [help surface/investigate the performance of a business](https://sqlpatterns.com/p/delivering-value-as-a-data-team) (e.g. [operational](https://twitter.com/ergestx/status/1731324299590479989)).
   - Learning to drive decisions quickly, a bias to action, is a critical competency for an analyst. Every skill you learn – [[communication]], [[writing]], [[experimentation]], [[Metrics|metric design]] – supports this.
   - [If analysis is not actionable, it does not really matter](https://twitter.com/decisionleader/status/1661041373783441408). Analysis must drive to action. [Clear results won't spur action themselves](https://www.linkedin.com/posts/eric-weber-060397b7_data-analytics-machinelearning-activity-6675746028144205824-CQxW/). The organization needs to be ready to pivot when something isn't working.
+    - [Data doesn't make decisions, people do](https://twitter.com/teej_m/status/1765475939084029956).
 - [Data's impact is tough to measure — it doesn't always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html)
   - The value of "insights" is often unknown.
 - The Data Team should be building and iterating the [Data Product](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/).
@@ -123,6 +124,7 @@
 - [For self-serve, aim to own as little as possible but keep in mind you can't make people do what you want but can stop them for doing what you don't want](https://youtu.be/wyW6hQGZxgY)
   - [You need to make a grocery store. You can't give folks directions to the farm to pick their own produce](https://twitter.com/teej_m/status/1603205457992044545).
 - It's easy to lie with statistics, but it's hard to tell the truth without them.
+  - On the other hand, good science doesn't need statistics, you can just look at the scatterplot.
 - Most people approach data with an "optimisation worldview", thinking in terms of "make number go up". There is an alternative. The Process Control worldview, which is similar to"Here is a process. Your job is to discover all the control factors that affect this process.".
   - Your job is to figure out what you can control that affects the process, and then systematically pursue that.
   - You can discover these control factors through one of two ways:
