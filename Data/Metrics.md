@@ -81,7 +81,7 @@ As you evaluate potential metrics, sure the proxy metric:
 
 ## Metric Trees
 
-A metric tree is a logical representation of a business' growth model in a graph form. It's a simplified representation of how inputs flow into outputs.
+A metric tree is a logical representation of a business' growth model in a graph form. It's a simplified representation of how inputs flow into outputs. The [metric tree concept is really a way of expressing a causal model of how a business works](https://sqlpatterns.com/p/debugging-your-business-with-data)!
 
 - Metric trees are composed of:
   - Output metrics
