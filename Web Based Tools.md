@@ -12,6 +12,12 @@ Collection of awesome web based tools.
 - [Birme](https://www.birme.net/)
 - [Law Of UX](https://lawsofux.com/) and [Visual Design Safe Rules](https://anthonyhobday.com/sideprojects/saferules/)
 
+### SVGs
+
+- [SVGViewer](https://www.svgviewer.dev/)
+- [SVG Crop](https://svgcrop.com/)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
+
 ## Teamwork
 
 - [HackMD](https://hackmd.io/)

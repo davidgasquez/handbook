@@ -25,6 +25,7 @@
   - If data is the most precious asset in a company, does it make sense to have only one team responsible for it?
     - [People talk about data as the new oil but for most companies it's a lot closer uranium](https://news.ycombinator.com/item?id=27781286). Hard to find people who can to handle or process it correctly, nontrivial security/liabilities if PII is involved, expensive to store and a generally underwhelming return on effort relative to the anticipated utility.
 - The purpose of becoming data driven is to build a causal model of the business in your head. The purpose of doing all this work is that you want to understand how your business actually works and grows, not rely on superstitious beliefs about how your business works and grows.
+  - You become data driven by looking at the data and not that much by hiring/expanding the data team. You can't outsource it.
 - [The pain in data teams come from needing to influence PMs/peers with having little control of them. Data teams need to become really great internal marketers/persuaders](https://anchor.fm/census/episodes/The-evolution-of-the-data-industry--data-jobs-w-Avo-CEO-and-Co-founder-Stefania-Olafsdottir-e16hu1l). That said, it shouldn't be the data team job to convince the organization to be data driven. That's not an effective way of spending resources.
   - Executives are expected to be data driven, even if they don't know what it means.
   - Epistemology of the leadership team really really matters.

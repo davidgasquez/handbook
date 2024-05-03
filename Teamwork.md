@@ -7,6 +7,9 @@
   - Define boundaries and limitations of each component.
 - Work in the open and [[Documentation|document]] everything.  Transparency increases understanding and reduces synchronization challenges. **[Emulate Open Source projects](https://tomayko.com/blog/2012/adopt-an-open-source-process-constraints) and [[Remote Jobs|remote companies]]**.
   - [Write weekly updates](https://doingweeknotes.com/) and share them in a common place.
+    - What is shipping (e.g. what is on the near horizon).
+    - Why is it important / what is now possible as a result / why should people care?
+    - How are things progressing. Any blockers?
 - To make everyone more productive and happy: **Make feedback loops fast**. [Some best practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/):
   - Tested, automated process for new development environments.
   - Automated preview environments.

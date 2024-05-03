@@ -46,6 +46,7 @@
 - [MIT Open Learning](https://github.com/mitodl/ol-data-platform)
 - [Our World in Data](https://github.com/owid/etl)
 - [Catalyst Cooperative PUDL](https://github.com/catalyst-cooperative/pudl)
+- [Ecosyste.ms](https://github.com/ecosyste-ms)
 - [Spellbook](https://github.com/duneanalytics/spellbook/)
 - [Flipside Crypto](https://github.com/FlipsideCrypto/external-models)
 - [MetricsDAO](https://github.com/MetricsDAO)
