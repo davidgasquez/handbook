@@ -142,55 +142,55 @@ Package managers have been hailed among the most important innovations Linux bro
 
 > I'm not super clear on these answers! Please [reach out](https://davidgasquez.github.io/) if you want to chat about it.
 
-1. What would be a great use case to start with?
+### 1. What would be a great use case to start with?
 
 I'd say [chain related data](https://davidgasquez.github.io/blockchain-data-pipelines/). Is open and people are eager to get their hands on it. I'm [working on that area](https://davidgasquez.github.io/gitcoin-data/), so I might be biased.
 
-2. Why should people use this instead of doing their own thing?
+### 2. Why should people use this instead of doing their own thing?
 
 [If everybody could converge to it, e.g: _"datapackage.json_" as a metadata and schema description standard, then, an ecosystem of utilities and libraries for processing data would take advantage of it](https://news.ycombinator.com/item?id=15346836).
 
-3. What is the incentive for people to adopt it?
+### 3. What is the incentive for people to adopt it?
 
 I wonder if there are ways to use novel mechanisms (e.g: DAOs) to incentive people? Also, companies like [Golden](httpfs://golden.com/) and [index.as](https://index.as/) are doing interesting work on monetizing data curation.
 
-4. How can LLMs help "building bridges"?
+### 4. How can LLMs help "building bridges"?
 
 LLMs could infer schema, types, and generate some metadata for us. [[Large Language Models|LLMs can parse unstructured data (CSV) and also generate structure from any data source (scrapping websites)]] making it easy to [create datasets from random sources](https://tomcritchlow.com/2021/03/29/open-scraping-database/).
 
 They're definitely blurring the line between structured and unstructured data too. Imagine pointing a LLMs to a GitHub repository with some CSVs and get the auto-generated `datapakage.json`.
 
-5. How can we stream/update new data reliably? E.g: some datasets like Ethereum `blocks` could be updated every few minutes.
+### 5. How can we stream/update new data reliably? E.g: some datasets like Ethereum `blocks` could be updated every few minutes
 
 I don't have a great answer. Perhaps just push the new data into partitioned datasets?
 
-7. Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote source and get it dynamically as needed?
+### 7. Is it possible to [mount large amount of data](https://rclone.org/commands/rclone_mount/) ([FUSE](https://github.com/datalad/datalad-fuse)) from a remote source and get it dynamically as needed?
 
 It should be possible. I wonder if we could mount all datasets locally and explore them as if they were in your laptop.
 
-8. Can new table formats play efficiently with IPFS?
+### 8. Can new table formats play efficiently with IPFS?
 
 Parquet could be a great fit if we figure out how to deterministically serialize it and integrate with IPLD. This will reduce their size as unchanged columns could be encoded in the same CID.
 
 Later on I think it could be interesting to explore running [`delta-rs`](https://github.com/delta-io/delta-rs) on top of IPFS.
 
-9. How to work with private data?
+### 9. How to work with private data?
 
-Homomorphic encryption?
+Not sure. Homomorphic encryption?
 
-9. How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works?
+### 9. How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works?
 
 If you can envision the table you would like to have in front of you, i.e., you can write down the attributes you would like the table to contain, then the system will find it for you. This probably needs a [[Knowledge Graphs]]!
 
-10. How can a [[Knowledge Graphs]] [help with the data catalog](https://docs.atomicdata.dev/usecases/data-catalog.html)?
+### 10. How can a [[Knowledge Graphs]] [help with the data catalog](https://docs.atomicdata.dev/usecases/data-catalog.html)?
 
 It could help users connect datasets. With good enough core datasets, it could be used as an LLM backend.
 
-11. [How would a Substack for databases look like](https://tomcritchlow.com/2023/01/27/small-databases/)?
+### 11. [How would a Substack for databases look like](https://tomcritchlow.com/2023/01/27/small-databases/)?
 
 An easy tool for creating, maintaining and publishing databases with the ability to restrict parts or all of it behind a pay wall. Pair it with the ability to send email updates to your audience about changes and additions.
 
-12. Curated and small data (e.g: at the community level) is not reachable by Google. How can we help there?
+### 12. Curated and small data (e.g: at the community level) is not reachable by Google. How can we help there?
 
 Indeed! With LLMs on the rise, community curated datasets become more important as they don't appear in the big data dumps.
 

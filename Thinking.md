@@ -6,17 +6,17 @@
 - For each subject you think you know, ask the following questions:
   - How could I be wrong about this? [In general, be less sure about what you know than intuition implies](https://www.lesswrong.com/tag/epistemic-modesty).
   - What evidence would convince me I'm wrong?
-   	- We use the same term - “[no evidence](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag)” - to mean:
-   	  - This thing is super plausible, and honestly very likely true, but we haven't checked yet, so we can't be sure.
-   	  - We have hard-and-fast evidence that this is false, stop repeating this easily debunked lie.
+    - We use the same term - “[no evidence](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag)” - to mean:
+      - This thing is super plausible, and honestly very likely true, but we haven't checked yet, so we can't be sure.
+      - We have hard-and-fast evidence that this is false, stop repeating this easily debunked lie.
 - Be [specific](https://www.lesswrong.com/posts/XosKB3mkvmXMZ3fBQ/specificity-your-brain-s-superpower). Ask yourself the question, "What's an example of that?" Or more bluntly, "Can I be more specific?"
 - Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much in the last few thousands years and was built for a different world.
 - Believing you're rational makes it easier to fool yourself mistaking your intuitions with rational decision.
 - Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible.
- 	- Anything you know or do could be wrong. You get less dumb by saying things and getting feedback. [We all have crony beliefs](https://meltingasphalt.com/crony-beliefs/). From time to time, do a self-audit and figure out which ideas you've come to hold sacred and remind yourself that they're just ideas.
- 	- Many beliefs are held because there is a social and tribal benefit to holding them, not necessarily because they’re true.
- 	- A great way to do that is to [bet on everything](https://www.lesswrong.com/posts/ybYBCK9D7MZCcdArB/how-to-measure-anything) where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and under-confidence, which will serve you in good stead emotionally when you try to do [[Fallacies|inadequacy reasoning]]. It'll also force you to do falsifiable predictions.
-  		- A tool to assign a percentage to a belief is [the equivalent bet test](https://www.lesswrong.com/posts/EtxTDPMXrbmpheiAt/how-the-equivalent-bet-test-actually-works).
+  - Anything you know or do could be wrong. You get less dumb by saying things and getting feedback. [We all have crony beliefs](https://meltingasphalt.com/crony-beliefs/). From time to time, do a self-audit and figure out which ideas you've come to hold sacred and remind yourself that they're just ideas.
+  - Many beliefs are held because there is a social and tribal benefit to holding them, not necessarily because they’re true.
+  - A great way to do that is to [bet on everything](https://www.lesswrong.com/posts/ybYBCK9D7MZCcdArB/how-to-measure-anything) where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and under-confidence, which will serve you in good stead emotionally when you try to do [[Fallacies|inadequacy reasoning]]. It'll also force you to do falsifiable predictions.
+    - A tool to assign a percentage to a belief is [the equivalent bet test](https://www.lesswrong.com/posts/EtxTDPMXrbmpheiAt/how-the-equivalent-bet-test-actually-works).
 - Instead of thinking "I'm sure X is fake!", try to think in terms of probabilities. E.g: I think there's a 90% chance X is fake. Instead of thinking in terms of changing your mind, think in terms of updating your probabilities. [This mindset](https://astralcodexten.substack.com/p/book-review-the-scout-mindset) makes it easier to remember that it's not a question of winning or losing, but a question of being as accurate as possible. “Probability update” is less emotionally devastating than "I said X, but actually ~X, so I was wrong").
 - You can try things to find out which ideas are right or wrong. It requires asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
 - Knowledge decays. Things you learned in the past might not be true nowadays (_status of Pluto as a planet, dinosaurs with feathers, number of people living, ..._). [Facts decay over time until they are no longer facts or perhaps no longer complete](https://fs.blog/2018/03/half-life/).
@@ -26,7 +26,7 @@
   - [Absolute truth is relative and everyone is doing the best they can](https://letterstoanewdeveloper.com/2019/08/12/there-are-no-adults-in-the-room/). These are opportunities for you to help and learn more about the world.
 - Think in distributions instead of [magic answers](http://cassandraxia.com/cogbiases). The world is [analog and not digital](https://waitbutwhy.com/2019/12/political-disney-world.html), continuous and not discrete. [Nuance is everywhere](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details/).
   - Real people are complex and flawed, [full of faults and biases](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg). Each turn of events is mired in potential positives and potential negatives, which is a mess to sort out.
-   	- [Fundamental Attribution Error](http://www.aaronsw.com/weblog/nummi): we attribute people's behavior to their personality, not their situation.
+    - [Fundamental Attribution Error](http://www.aaronsw.com/weblog/nummi): we attribute people's behavior to their personality, not their situation.
   - Digitizing an analog view will result in some loss of information. In that world, everything is good or bad, everyone is smart or ignorant, ones and zeros. Mistrust simple comparisons.
 - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
 - Local Validity: Some argument steps are allowed steps and some argument steps aren't ([Non-Central Fallacy](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world)), independently of whether they arrive at an answer you agree with.
@@ -37,8 +37,8 @@
 - [Notice](https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html) your internal state (cognitive and emotional).
 - Notice when you are in a failure mode, and step out. For example:
   - [Motivated Reasoning or Soldier Mindset](https://youtu.be/w4RLfVxTGH4?list=WL):
-   	- You are fighting to make sure an argument wins.
-   	- You are fighting to make another argument lose.
+    - You are fighting to make sure an argument wins.
+    - You are fighting to make another argument lose.
   - You are [[incentives|incentivized]] to believe something, or not to notice something, because of social or financial rewards or because it'd be physically inconvenient/annoying.
   - You are [offended/angered/defensive/agitated](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world).
   - You are afraid you'll lose something important if you lose a belief.
@@ -54,7 +54,7 @@
 - Do your philosophical thinking in advance ([cached thoughts](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts)), so you can concentrate on explaining well. Above all, practice staying within the one-inferential-step bound.
   - [Think for yourself about "wise" or important or emotionally fraught topics](https://www.lessestwrong.com/posts/aSQy7yHj6nPD44RNo/how-to-seem-and-be-deep) rather than letting your brain complete the pattern. If you don't stop at the first answer, and cast out replies that seem vaguely unsatisfactory, in time your thoughts will form a coherent whole, flowing from the single source of yourself, rather than being fragmentary repetitions of other people's conclusions.
   - Sometimes inferential distances can be very far apart. You need [willingness to entertain and explore ideas before deciding that they are wrong](https://slatestarcodex.com/2020/05/12/studies-on-slack/). The other person might be on a self-consistent equilibria (someone christian, creationism, ...) and only changing one view of the world wouldn't work. You have to convince them for all the views. [A clear argument has to lay out an inferential pathway, starting from what the audience already knows or accepts](https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances). Same applies when working with a group or even for you! _Change your mind a little at a time_.
-   	- You cant reason someone out of a notion that they didn't reason themselves into.
+    - You cant reason someone out of a notion that they didn't reason themselves into.
 - There's a distinction between tacit knowledge and explicit knowledge:
   - Tacit knowledge is like the knowledge that you use to ride a bicycle—it's complex, experiential, intuitive, hard to put into words. There is knowledge experts have, but cannot explain or write down.
   - Explicit knowledge is clear and concrete and transferable and (at least somewhat) objectively verifiable. How you ride a bicycle is tacit, but the fact that you can ride a bicycle is explicit. It's a binary fact that can be completely and compactly transferred through words, and that is verifiable through experiment.
@@ -64,20 +64,20 @@
   - Humans think in very different styles, related to how they use their senses while thinking. For example, some people see images during a conversation for each concept, others "feel" concepts in their body, others have explicit models that they update, and many have some combination. Also, some people can't imagine in images, and others can't store faces. It's very strange that we enter adult life without a shared understanding of this.
   - Don't model the minds inside other people's brains as exactly the same as your own mind. Humans lack insight into their own minds and what is [common among everyone](https://slatestarcodex.com/2014/03/17/what-universal-human-experiences-are-you-missing-without-realizing-it/) or [unusually specific to a few](https://www.lesswrong.com/posts/baTWMegR42PAsH9qJ/generalizing-from-one-example).
   - [We're all biased to our own personal history](https://www.collaborativefund.com/blog/ideas-that-changed-my-life/). Your personal experiences make up maybe 0.00000001% of what's happened in the world but maybe 80% of how you think the world works.
-   	- When thinking about any question, imagine yourself considering a similar question, under circumstances that would bias you the opposite direction. If you stick with your opinion, it's probably honest; if you'd change your opinion in the counterfactual, you probably had it because of bias.
+    - When thinking about any question, imagine yourself considering a similar question, under circumstances that would bias you the opposite direction. If you stick with your opinion, it's probably honest; if you'd change your opinion in the counterfactual, you probably had it because of bias.
 - [Counterfactual tests to improve rationality](https://astralcodexten.substack.com/p/book-review-the-scout-mindset):
   - **Status Quo Test**: If you're defending the status quo, imagine that the opposite was the status quo. Would you be tempted to switch to what you have now?
   - **Conformity Test:** Imagine that some common and universally-agreed idea was unusual; would you still want to do it? If not, you might be motivated by conformity bias.
   - **The Selective Skeptic Test:** How credible would you consider the same evidence if it supported the other side?
 - [Predictive processing](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) gives us more confidence in an admission that bias is possible, and a hope that there's something other than bias which we can latch onto as a guide. It helps provide a convincing framework we can use to figure out what's going on at all levels of cognition.
-- An estimate is better than a guess. An measurement is better than an estimate.
+- An estimate is better than a guess. A measurement is better than an estimate.
 - All points of view have complex context, many of which are predetermined by chance of birth, biology, and environment. There's no such thing as, "I only believe (x) because of (y)." our brains like simple, binary thinking, but real life is constantly challenging that impulse.
 - Experiments usually have mistakes. When the experiment process improves around a topic, the evidence might decrease indicating it wasn't present in the beginning. To find truth, improve the way to measure it!
-- [Cognitive ease](https://youtu.be**/cebFWOlx848) makes us more likely to believe things that are familiar to us. Cognitive strain helps us avoid the pitfall of jumping to the intuitive but wrong answer. Both ways are useful in different situations, the key is to identify where to flow or fight against the cognitive ease.
+- [Cognitive ease](https://youtu.be/cebFWOlx848) makes us more likely to believe things that are familiar to us. Cognitive strain helps us avoid the pitfall of jumping to the intuitive but wrong answer. Both ways are useful in different situations, the key is to identify where to flow or fight against the cognitive ease.
 - Saying "that's a good point" doesn't lose the argument. It wins trust. Acknowledging a valid observation is a display of respect. It signals that you're [[Listening]] with an open mind, and motivates them to follow suit. You don't have to agree on everything to agree on something.
 - Every time you say "that's a good point", it gets easier for you to acknowledge good points in the future. Same happens when you say "I was wrong".
 
-### Resources
+## Resources
 
 - [LessWrong](https://www.lesswrong.com/) - A community dedicated to improving reasoning and decision-making.
 - [Rationality Checklist](https://www.rationality.org/resources/rationality-checklist) - [[Checklist]] for personal use, so you can have a wish-list of rationality [[Habits]] and see if you're acquiring good habits.

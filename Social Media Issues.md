@@ -1,10 +1,11 @@
 # Social Media Issues
 
+<!-- markdownlint-disable-next-line MD033 -->
 <iframe width="640" height="360" src="https://www.youtube.com/embed/k1BneeJTDcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Internet algorithms are [[Systems|complex profit-maximizing systems]] that want to spoon feed you whatever you're most likely to click on. This is a win-win, symbiotic relationship—until it's not. When the algorithm is luring in your primitive mind against you, the relationship is parasitic. [The algorithm will learn to show thing that will further confirm and strengthen your existing viewpoints](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles).
 - Each app is competing against the other apps. Only the apps that grains your [[Focus|attention]] continue. Over time, your attention is more and more hacked by these apps. All exist to sell your attention to advertisers. Each one has a team optimizing the attention hacking.
-  - Social Media apps might be dangerous due to the amount of data they track. Data is not the new gold, it is the new oil, and it damages the social environment. [If you feel you are being watched, you change your behavior](https://www.socialcooling.com/). [Loss of privacy leads to loss of freedom](https://robindoherty.com/2016/01/06/nothing-to-hide.html). This may limit our desire to speak or think freely thus bring about “chilling effects” on [society—or social cooling](https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/).
+  - Social Media apps might be dangerous due to the amount of data they track. Data is not the new gold, it is the new oil, and it damages the social environment. [If you feel you are being watched, you change your behavior](https://www.socialcooling.com/). [Loss of privacy leads to loss of freedom](https://robindoherty.com/2016/01/06/nothing-to-hide.html). This may limit our desire to speak or think freely thus bring about "chilling effects" on [society—or social cooling](https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/).
    1. Your data is collected and scored.
    2. Your digital reputation may affect your opportunities.
    3. People start changing their behavior to get better scores.

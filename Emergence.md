@@ -4,6 +4,7 @@
 
 When things interact, they often birth new, unpredictable forms. **The sum total of a system is more than its competent parts**. E.g: biological [[evolution]], Conway's Game of Life, Wikipedia, Minecraft.
 
+<!-- markdownlint-disable-next-line MD033 -->
 <iframe width="640" height="360" src="https://www.youtube.com/embed/o_ZuWbX-CyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can't top-down plan emergent [[systems]], but you can provoke them into being. [Here are some attributes that emergent systems often have](http://gordonbrander.com/pattern/provoking-emergence/):
