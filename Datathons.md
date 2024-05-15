@@ -47,7 +47,7 @@
 - [Quick Tutorials](https://www.kaggle.com/c/jane-street-market-prediction/discussion/198951)
 - [Tsfresh](https://tsfresh.readthedocs.io/en/latest/)
 - [Fold](https://github.com/dream-faster/fold)
-- [Neural Prophet](https://neuralprophet.com/)
+- [Neural Prophet](https://neuralprophet.com/) or [TimesFM](https://github.com/google-research/timesfm)
 - [Darts](https://github.com/unit8co/darts)
 - [Functime](https://docs.functime.ai/forecasting/)
 - [Pytimetk](https://github.com/business-science/pytimetk)
