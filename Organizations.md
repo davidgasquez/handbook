@@ -51,8 +51,8 @@
 - [Apolitical](https://twitter.com/naval/status/1263322014372130817) work environment is hard to maintain. Choose your company battles and causes.
 - Managers will hire more managers as the team scales and that creates new teams. Teams will fight to justify their existence. Beware of this build-up inertia.
   - [The causal structure of your business does not care about departments](https://commoncog.com/becoming-data-driven-first-principles/).
-  - [As organizations become less efficient / less effective, they need more and more managers to "manage" that inefficiency. This kicks off a wicked cycle, because they'll self-identify with managing a problem ... which reinforces it.](https://mobile.twitter.com/johncutlefish/status/1472669773410410504)
-  - It might be interesting to cap the core team size at N people (e.g: 150). Focus on solving one problem, and do it well.
+  - [As organizations become less efficient / less effective, they need more and more managers to "manage" that inefficiency. This kicks off a wicked cycle, because they'll self-identify with managing a problem ... which reinforces it.](https://twitter.com/johncutlefish/status/1472669773410410504)
+  - It might be interesting to cap the core team size at N people (e.g: 15). Focus on solving one problem, and do it well.
 - [The art of org design is essentially effective iteration towards form-context fit. You need four sub-skills to do effective iteration](https://commoncog.com/blog/org-design-skill/). To get good at org design, you need to build more accurate models of the people in your org, learn how they respond to [[incentives]], and in build enough power and credibility to get your org changes to take place.
 - Internally, you should not "sell", but truth seek.
 - Transparency is a vital value. Transparency gets people to treat the company as their own.

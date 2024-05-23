@@ -106,3 +106,14 @@ Instead of building the tool, we can start with a standard protocol and let othe
   - Github PRs
   - OKRs
 - Use something like GitHub Releases to publish the changes and artifacts.
+
+### Open Data Organization
+
+Would love to work on [a company/cooperative focused on Open Data](https://github.com/datonic) with the following ideals:
+
+- Small core team ([5-15 persons](https://x.com/kepano/status/1706690014657274201))
+- Remote-first, Asynchronous communications first
+- No managers or PMs
+- Transparent decision-making
+- Profit-sharing among the team
+- Purpose-driven
