@@ -54,6 +54,8 @@
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
 - [Anomstack](https://github.com/andrewm4894/anomstack)
 - [Skrimmage](https://github.com/Skrimmage/Data-Platform)
+- [Ibis](https://github.com/ibis-project/ibis-analytics)
+- [OSO](https://github.com/opensource-observer/oso)
 
 #### Dagster Resources
 
