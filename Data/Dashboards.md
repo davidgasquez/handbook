@@ -34,7 +34,8 @@
 The value is that now discussions are happening about the data.
 
 - Self-serve Analytics is a tricky balance:
-  - The more questions people can theoretically self-serve, the fewer they can practically self-serve. The complexity of the stack grows with each option that gets added to give more flexibility.
+  - The more questions people can theoretically self-serve, the fewer they can practically self-serve. The complexity of the stack grows with each option that gets added to give more flexibility
+    - SQL is the ultimate self-serve tool, but it's not practical for most people. Even if everyone could write SQL, people need to know the semantics (where does it comes from, how is calculated, ...) of the data to write the right queries.
   - In the other hand, people will self serve anyways. Control and clean the environment so they don't have to rely on odd methods to get the probably wrong data. The people that can write SQL are not usually the same people that need the data.
 
 ## Issues with Dashboards
