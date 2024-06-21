@@ -34,6 +34,14 @@
   - Avoid saying what not to do but say what to do instead.
 - Follow [Prompt Engineering Guide](https://www.promptingguide.ai/), [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering),  and [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api). Also [some more on GitHub](https://github.com/PickleBoxer/dev-chatgpt-prompts).
 - [Leaked System Prompts](https://matt-rickard.com/a-list-of-leaked-system-prompts).
+- Some short (1-3 word) prompt fragments that work well:
+  - Be concise
+  - Try harder (for disappointing initial results)
+  - Use Python (to trigger Code Interpreter)
+  - No yapping
+  - ELI5
+  - Give multiple options
+  - Explain each line
 
 #### Prompt Creator
 
