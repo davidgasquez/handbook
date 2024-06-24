@@ -56,6 +56,7 @@
 - [Skrimmage](https://github.com/Skrimmage/Data-Platform)
 - [Ibis](https://github.com/ibis-project/ibis-analytics)
 - [OSO](https://github.com/opensource-observer/oso)
+- [Tuba](https://github.com/tuva-health/tuva)
 
 #### Dagster Resources
 
