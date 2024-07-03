@@ -57,6 +57,7 @@
 - [Ibis](https://github.com/ibis-project/ibis-analytics)
 - [OSO](https://github.com/opensource-observer/oso)
 - [Tuba](https://github.com/tuva-health/tuva)
+- [Department of Education for New South Wales](https://github.com/wisemuffin/nsw-doe-data-stack-in-a-box)
 
 #### Dagster Resources
 
