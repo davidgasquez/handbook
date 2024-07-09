@@ -29,6 +29,7 @@
 - Mao.
 - [Dvorak](https://en.wikipedia.org/wiki/Dvorak_(game)).
 - [Skull](https://boardgamegeek.com/boardgame/92415/skull).
+- [In Vino Morte](https://www.youtube.com/watch?v=ksy4mFBZmR0).
 - [Oh, Hell!](https://www.pagat.com/exact/ohhell.html)
 - [All Card Games](https://www.pagat.com/). A list of card games all around the world.
 
