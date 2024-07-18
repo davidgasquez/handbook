@@ -33,6 +33,16 @@
 - [Oh, Hell!](https://www.pagat.com/exact/ohhell.html)
 - [All Card Games](https://www.pagat.com/). A list of card games all around the world.
 
+## Roadtrip Games
+
+- [Contact](https://www.quora.com/How-do-you-play-the-word-game-Contact).
+- [Black Stories](https://play.google.com/store/apps/details?id=com.divofmod.blackstories&hl=en_US)
+- [Going on a picnic](https://www.thegamegal.com/2011/06/11/going-on-a-picnic/)
+- [Ghost](https://blog.xkcd.com/2007/12/31/ghost/).
+- French Toast. One person thinks of a word. Then someone starts by asking "Is it more like French Toast or more like 'X' ?" where X can be anything they want to guess.
+- Play some beats and everyone goes around freestyle rapping?
+- One Page RPGs
+
 ## RPGs
 
 - [Laser and Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf). Also [with hacks](https://writingalchemy.net/resources/lasers-and-feelings-hacks/)!
