@@ -52,13 +52,15 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
   - Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, reports, ...
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In "reality", events are immutable, data should be too. [Make datasets the center of the tooling](https://dagster.io/blog/software-defined-assets).
   - With immutability and content addressing, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
-  - [Datasets are books, not houses]()!
+  - [Datasets are books, not houses](https://medium.com/qri-io/datasets-are-books-not-houses-760bd4736229)!
 - **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration, curation, and composability. On data.
 - **Aligned Incentives**. Curators should have incentives to improve datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly (e.g: [number of contributors to Dune](https://github.com/duneanalytics/spellbook/commits/main)).
   - [Bounties](https://www.dolthub.com/bounties) could be created to reward people that adds useful but missing datasets.
   - Surfacing and creating great datasets could be rewarded (retroactively or with bounties).
   - Curating the data provides compounding benefits for the entire community!
   - Rewarding the datasets creators according to the usefulness. E.g: [CommonCrawl built an amazing repository](https://commoncrawl.org/) that OpenAI has used for their GPTs LLMs. Not sure how well CommonCrawl was compensated.
+  - Governments needs to be forced to use their open data. This should create a feedback loop and have them improve the quality and freshness of the data.
+That forces to keep up on the quality and freshness.
 - **Open Source and Decentralized**. Datasets should be stored in multiple places.
   - Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources. Similar to:
     - [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
@@ -100,6 +102,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Versioning**. Should be able to manage _diffs_ and _incremental changes_ in a smart way. E.g: only storing the new added rows or updated columns.
   - Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
   - Each version is referenced by a hash. Git style.
+  - Each version is linked to the code that produced it.
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
   - Think at the dataset level and not the file level.
   - Tabular data could be partitioned to make it easier for future retrieval.
