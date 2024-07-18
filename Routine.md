@@ -26,5 +26,6 @@ Small lifestyle changes that can lead to large impact:
 - Chat with everyone.
 - Actively reach out to friends and family.
 - Take notes on everything you learn and share them.
+- If it's under an hour, walk.
 
 On the higher level, you can also have an [[Annual Review List]] to remind yourself some cool things!

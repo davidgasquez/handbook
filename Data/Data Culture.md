@@ -37,7 +37,7 @@
   - Data rarely moves fast enough across companies to enable data-informed decisions.
 - [Earning the authority to deny requests is one of the most important factors to running a world-class data team](https://twitter.com/teej_m/status/1420432376270782464)
 - Data professionals can build consensus as the company becomes more diverse.
-- Data systems can establish methods for understanding the world even as it becomes more complex.
+- Data systems can establish methods for understanding the world even as it becomes more complex. Data is complex, and will stay that way. Not even great business people or strategy can make data simple. So we need data people to help guide business efforts.
 - Data literacy can create pathways for anyone to contribute equally to the organization's reality.
   - [Understanding variation is the beginning of data literacy](https://twitter.com/ejames_c/status/1732597443127382369).
 - Create a single space as the central place to post [[Data Practices#Data Request Template]].
@@ -85,6 +85,8 @@
 - [Aim for a culture of celebrating measurable progress and learnings, versus celebrating shipping](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Align company on key actions. Every stakeholder should know how to explore that data.
 - Do pre-mortems. Where would we see the impact of *X* going wrong? Model that and plot it on a dashboard.
+- You can force coordination by making a chart and start the discussion with it. Having a default chart will foce people to fight on the definition and also provides a starting point. Discussions are much better when there are based on data and definitions.
+  - Coordination happens when people agree on data, direction, and how to move to the desired place.
 - [Send surveys](https://docs.google.com/forms/d/e/1FAIpQLSfufs_0zOGlFiE6oqrdZU7xCi399CBYbIlZkAMe15GTRRcPZA/viewform) from time to time trying to get pain points and know where issues are.
   - E.g: Do you have access to the data I need to make decisions in your role?
 - [Bring the collaboration process inline with the assets to allow for better handoffs and feedback](https://pedram.substack.com/p/data-can-learn-from-design).

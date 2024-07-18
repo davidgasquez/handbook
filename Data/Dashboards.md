@@ -30,6 +30,7 @@
 - Follow up and iterate on your work by marketing, improving and maintaining it into the future.
 - Provide deep links in the dashboard to the underlying data or specific segmentations/filters.
 - Design matters a lot — if it looks bad, people won't look at it.
+- Learn about the tools business people use, understand them, and dive deep into their decision workflows to see where you can actually help and facilitate.
 
 The value is that now discussions are happening about the data.
 
