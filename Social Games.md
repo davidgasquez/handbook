@@ -47,7 +47,7 @@
 
 - [Laser and Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf). Also [with hacks](https://writingalchemy.net/resources/lasers-and-feelings-hacks/)!
 - [Honey Heist](https://gshowitt.itch.io/honey-heist)
-- [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/)
+- [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) ([PDF](https://ladyblackbird.org/downloads/lady_blackbird.pdf))
 - [Everyone is John](https://img.4plebs.org/boards/tg/image/1377/34/1377343288798.pdf)
 - [Roll for Shoes](https://rollforshoes.com/)
 - [List of one page RPGs](https://www.reddit.com/r/rpg/comments/1vie0k/what_are_your_favorite_onepage_rpgs/)
