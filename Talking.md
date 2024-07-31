@@ -11,11 +11,12 @@
 - Ask for help instead of demanding it.
 - [Say "yes, and..." (accept ideas and build on top of them). Make other people feel good. Be positive (optimistic language)](https://youtu.be/VhkcmN-CCYw).
 - Favor interrogative-led questions over leading questions. A leading question attempts to get the [[Listening|listener]] to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. "Did you like the movie?" vs "What did you think about the movie?".
-- Remember people's names. Humans want to be significant. We strive for meaning.
+- Remember people's names. Humans want to be significant.
 - Dishonest Flattery while effective in some cases, will destroy you long term. If you are unable to find a compliment about another human being that is truthful, you're not trying hard enough.
 - In difficult conversations, keep in mind the ultimate purpose and [[Mindfulness|be calm]]. You don't need to win the conversation. Ensure safety. Control your emotions.
-- Share your facts as stories, not global facts. Logic doesn’t persuade people. Clarity, storytelling, and appealing to self-interest do.
+- Share your facts as stories, not global facts. Logic doesn't persuade people. Clarity, storytelling, and appealing to self-interest do.
 - Combining walking with talking might be effective for deep conversations. You don't keep eye contact but nevertheless you are very close. For some topics it helps to just talk without having to look someone in the eye. Long pauses are not a problem because there is the landscape passing by that removes the awkwardness.
+- [Whenever you drop below a certain level of talking with someone, friction accumulates. You get more stuck in our ways, You get stressed and don't have time to maintain the shared context necessary to understand each other.](https://www.henrikkarlsson.xyz/p/making-a-home-together)
 
 ## [Interesting Questions](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
 

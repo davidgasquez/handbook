@@ -13,7 +13,7 @@
 - [Keep the work parallel, the groups small, and the resources local.](https://codahale.com/work-is-work/) If possible, factor work products into independent modules; if not, grow slowly and optimize.
 - Trust increases coordination. To increase trust:
   1. Repeat interactions.
-  2. Look for possible win-wins
+  2. Look for possible win-wins.
   3. Communicate clearly.
 - The best process is no process! In an ideal state it all just works and everything flows. [Adding a couple of checks seems simple but that affects everyone in that process](https://news.ycombinator.com/item?id=28710193).
   - No [[processes]] requires trusting other people. More trust means better coordination without processes. [Trust is the currency of interactions](https://youtu.be/-vbPXbm8eTw).

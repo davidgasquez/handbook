@@ -30,27 +30,27 @@
 - [Dvorak](https://en.wikipedia.org/wiki/Dvorak_(game)).
 - [Skull](https://boardgamegeek.com/boardgame/92415/skull).
 - [In Vino Morte](https://www.youtube.com/watch?v=ksy4mFBZmR0).
-- [Oh, Hell!](https://www.pagat.com/exact/ohhell.html)
+- [Oh, Hell!](https://www.pagat.com/exact/ohhell.html).
 - [All Card Games](https://www.pagat.com/). A list of card games all around the world.
 
 ## Roadtrip Games
 
 - [Contact](https://www.quora.com/How-do-you-play-the-word-game-Contact).
-- [Black Stories](https://play.google.com/store/apps/details?id=com.divofmod.blackstories&hl=en_US)
-- [Going on a picnic](https://www.thegamegal.com/2011/06/11/going-on-a-picnic/)
+- [Black Stories](https://play.google.com/store/apps/details?id=com.divofmod.blackstories&hl=en_US).
+- [Going on a picnic](https://www.thegamegal.com/2011/06/11/going-on-a-picnic/).
 - [Ghost](https://blog.xkcd.com/2007/12/31/ghost/).
 - French Toast. One person thinks of a word. Then someone starts by asking "Is it more like French Toast or more like 'X' ?" where X can be anything they want to guess.
 - Play some beats and everyone goes around freestyle rapping?
-- One Page RPGs
+- One Page RPGs.
 
 ## RPGs
 
 - [Laser and Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf). Also [with hacks](https://writingalchemy.net/resources/lasers-and-feelings-hacks/)!
-- [Honey Heist](https://gshowitt.itch.io/honey-heist)
-- [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) ([PDF](https://ladyblackbird.org/downloads/lady_blackbird.pdf))
-- [Everyone is John](https://img.4plebs.org/boards/tg/image/1377/34/1377343288798.pdf)
-- [Roll for Shoes](https://rollforshoes.com/)
-- [List of one page RPGs](https://www.reddit.com/r/rpg/comments/1vie0k/what_are_your_favorite_onepage_rpgs/)
+- [Honey Heist](https://gshowitt.itch.io/honey-heist).
+- [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) ([PDF](https://ladyblackbird.org/downloads/lady_blackbird.pdf)).
+- [Everyone is John](https://img.4plebs.org/boards/tg/image/1377/34/1377343288798.pdf).
+- [Roll for Shoes](https://rollforshoes.com/).
+- [List of one page RPGs](https://www.reddit.com/r/rpg/comments/1vie0k/what_are_your_favorite_onepage_rpgs/).
 
 ## Online Platforms
 
@@ -63,5 +63,5 @@
 
 ## Boardgames
 
-- [Scythe](https://boardgamegeek.com/boardgame/169786/scythe)
-- [Res Arcana](https://boardgamegeek.com/boardgame/262712/res-arcana)
+- [Scythe](https://boardgamegeek.com/boardgame/169786/scythe).
+- [Res Arcana](https://boardgamegeek.com/boardgame/262712/res-arcana).
