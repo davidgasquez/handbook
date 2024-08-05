@@ -16,3 +16,6 @@
 - [Blockchains could replace networks with markets](https://twitter.com/naval/status/877467629308395521).
 - One of the main downsides of blockchains is that most humans are not good at protecting their passwords, credentials or private keys.
 - Blockchains can be used to ensure the best output in prisoner dilemma style interactions. Write a smart contract that does X when everyone has added the money and no one will be able to betray.
+- Blockchains solve distribution problems but they don't solve the problem of who will add the money to the ecosystem. That's a political one. Unless there are good incentives to move to blockchains.
+  - Once a system moves to a blockchain, it'll get its properties (e.g: transparency and verifiability).
+- Open source has the failure mode of not enough incentives, cryptocurrency has the failure mode of excessive and overly concentrated incentives.

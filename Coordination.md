@@ -33,3 +33,7 @@
   - Cheap, accessible means of conflict resolution.
   - Self-determination.
 - There are many [coordination mechanisms](https://coordinationmechanisms.gitcoin.co/). Choose the appropriate one for your situation.
+- [There is no such thing as a structureless group](https://www.jofreeman.com/joreen/tyranny.htm).
+  - We are individuals, with different talents, predispositions, and backgrounds.
+  - The idea of "structurelessness" does not prevent the formation of informal structures, it becomes a way of masking power.
+  - Make the group structure explicit, not implicit. The rules of decision-making must be open and available to everyone, and this can happen only if they are formalized. Having an established process for decision-making ensures that everyone can participate in it to some extent.
