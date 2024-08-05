@@ -27,6 +27,8 @@ Open Source code has made a huge impact in the world. Let's make Open Data do th
 
 We have better and cheaper infrastructure. That includes things like faster storage, better compute, and, larger amounts of data. We need to improve our data workflows now. How does a world where people collaborate on datasets looks like? [The data is there. We just need to use it](https://twitter.com/auren/status/1509340748054945794).
 
+**[The best thing to do with your data will be thought by someone else](https://youtu.be/_agrBn50kyE?t=925)**.
+
 During the last few years, a large number of new data and open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets).
 
 These trends are already making it's way towards movements like [DeSci](https://ethereum.org/en/desci/) or smaller projects like [Py-Code Datasets](https://py-code.org/datasets). But, we still need more tooling around data to improve interoperability as much as possible. Lots of companies have figured out how to make the most of their datasets. **We should use similar tooling and approaches companies are using to manage the open datasets that surrounds us**. A sort of [Data Operating system](https://data-operating-system.com/).
@@ -140,7 +142,9 @@ Package managers have been hailed among the most important innovations Linux bro
   - **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
   - **Dynamic**. Use only the data you need. No need to pull 150GB.
 - **Default APIs**. For some datasets, allowing REST API / GraphQL endpoints might be useful. Same with providing an SQL interface.
+  - Users should be able to clone public datasets with a single CLI command.
 - **Don't break history**. If a dataset is updated, the [old versions should still be accessible](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/).
+  - Make sure the datasets are there for the long run. This might take different forms (using a domain name, IPFS, ...).
 
 ## Frequently Asked Questions
 
@@ -197,6 +201,10 @@ An easy tool for creating, maintaining and publishing databases with the ability
 ### 12. Curated and small data (e.g: at the community level) is not reachable by Google. How can we help there?
 
 Indeed! With LLMs on the rise, community curated datasets become more important as they don't appear in the big data dumps.
+
+### 13. Wait, wait... What do you mean by "Open Data"?
+
+I use it as a generic term to refero to data and content that can be freely used, modified, and shared by anyone for any purpose. Generally alligned with the [Open Definition](https://opendefinition.org/od/2.1/en/) and [The Open Data Commons](https://opendatacommons.org/).
 
 ## Related Projects
 

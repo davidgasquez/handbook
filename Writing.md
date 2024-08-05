@@ -40,6 +40,12 @@
   2. It is interesting. Written from your own experience, in your personal voice.
   3. It is grounded in reality.
 - Reading is the inhale, writing is the exhale. Breathe.
+- [To write fast](https://learnhowtolearn.org/how-to-build-extremely-quickly/):
+  1. Get topic to write about.
+  2. Quickly write the outline.
+  3. Repeat 2 for each section recursively, until the lowest-level sections are small enough to not need outlines.
+  4. Speedrun. Without caring about quality, fill in each outline (starting at the lowest level) until the whole doc is filled out.
+  5. Enjoy the feeling of being 90% done while you go back and perfect the doc, color the title text, add pictures, etc.
 
 ## Executable Writing
 
