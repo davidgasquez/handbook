@@ -157,7 +157,7 @@
 - The team is staffed adequately and work is evenly distributed.
 - The team, overall, has the level of functional expertise required to do the work, and a reasonable number of stretch goals are available.
 - Conflicts are resolved in a fair and respectful way.
-- Diversity is represented and embraced; a broad spectrum of views are considered.
+- Diversity is represented and embraced; a broad spectrum of views are considered. Diversity is not a political slogan. It's the basis for collective intelligence.
 - Progress and set backs are regularly communicated to key stakeholders.
 - When collaborative projects are completed, credit is shared among the contributors.
 - Management is prediction. In order to run a team well, you need to be able to predict the outcomes of your team actions.

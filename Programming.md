@@ -16,6 +16,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Write code that's easy to delete.
   - If you can't easily explain why something is difficult, then it's incidental complexity, which is probably worth addressing.
   - Reuse [patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns).
+  - The number of moving pieces on average doubles every 18-24 months. No one fully understands [[Systems]].
 - **Do one thing and do it well**.
   - By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
   - Design composable primitives.
@@ -53,7 +54,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Doing 100% of anything is difficult. [Don't focus on perfection](https://youtu.be/pYIho556BS8).
   - Focusing in the 80% is far more efficient and cost-effective. "Better" is the enemy of "good".
   - Handle the 80% and let the 20% fend for themselves.
-  - [[Pareto Principle|80% of the impact comes from 20% of the work]].
+  - [[Pareto Principle|80% of the impact comes from 20% of the work]]. If shitty code solves the problem, it's not shitty code.
   - [Software is never finished, only abandoned](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/).
 - **Treat all the data as an [append only event log](https://www.youtube.com/watch?v=ZQ-MdKj3BjU)**.
   - Use a central log where consumers can subscribe to the relevant events.
@@ -78,6 +79,7 @@ Like any other field, the world of Software Development has some interesting and
 - [Engineering Axioms](https://martinrue.com/my-engineering-axioms/)
 - [CUPID](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
 - [Things they didn't teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
+- [Amdahl to Zipf: Ten Laws of the Physics of People](http://hintjens.com/blog:100)
 
 ## Resources
 

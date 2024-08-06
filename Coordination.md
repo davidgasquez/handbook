@@ -37,3 +37,4 @@
   - We are individuals, with different talents, predispositions, and backgrounds.
   - The idea of "structurelessness" does not prevent the formation of informal structures, it becomes a way of masking power.
   - Make the group structure explicit, not implicit. The rules of decision-making must be open and available to everyone, and this can happen only if they are formalized. Having an established process for decision-making ensures that everyone can participate in it to some extent.
+- [The more you need consensus, the less work you can do](http://hintjens.com/blog:100).

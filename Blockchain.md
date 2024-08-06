@@ -12,6 +12,7 @@
   - Fungible (there isn't a difference between two items. eg. storing files). All the coins are mutually interchangeable.
   - The resource can be provided by a lot of people.
 - Smart contracts can be defined as code that's replicated and executed on all the blockchain nodes.
+  - You can encode "human rights" in a smart contract and the contract will enforce them.
 - Smart contracts allow permissionless composability. [Composability allows anyone in a network to take existing programs and adapt or build on top of them, it unlocks completely new use cases that don't exist in our world](https://future.a16z.com/how-composability-unlocks-crypto-and-everything-else/).
 - [Blockchains could replace networks with markets](https://twitter.com/naval/status/877467629308395521).
 - One of the main downsides of blockchains is that most humans are not good at protecting their passwords, credentials or private keys.
@@ -19,3 +20,4 @@
 - Blockchains solve distribution problems but they don't solve the problem of who will add the money to the ecosystem. That's a political one. Unless there are good incentives to move to blockchains.
   - Once a system moves to a blockchain, it'll get its properties (e.g: transparency and verifiability).
 - Open source has the failure mode of not enough incentives, cryptocurrency has the failure mode of excessive and overly concentrated incentives.
+- Blockchain incentives can have large real world undesired consequences. E.g: Bitcoin incentivizes miners to use a lot of energy.
