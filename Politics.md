@@ -37,6 +37,7 @@
   - We don't know a lot about how the money is used and how to best optimize it. There's isn't too much attention around transparency of these movements.
 - Transparency in politics make it easier to understand the issues and the people who are making progress. E.g: There is no transparency around recycling, so its hard to measure any impact (positive or negative).
 - Absolute laws affect problems that are context dependent. The goal is to minimize misery.
+- [Everyone has a strong pressure toward believing a political story where the agents of positive change are things and people that they can personally relate to. E.g: a lawyer might think that the best way to solve a problem is to sue someone, a programmer might think that the best way to solve a problem is to make open source software for it.](https://80000hours.org/podcast/episodes/vitalik-buterin-techno-optimism/)
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
