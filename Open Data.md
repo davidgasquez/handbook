@@ -285,6 +285,7 @@ I use it as a generic term to refero to data and content that can be freely used
 ### Indexes
 
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Data Commons](https://datacommons.org/)
 - [BigQuery Public Data](https://cloud.google.com/bigquery/public-data)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Datahub](https://datahub.io/awesome)
@@ -314,6 +315,13 @@ I use it as a generic term to refero to data and content that can be freely used
 - [Real Time Datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
 - [Environmental Data Initiative](https://edirepository.org/)
 - [Data One](https://www.dataone.org/)
+- [The Linked Open Data Cloud](https://lod-cloud.net/)
+- [Organisation for Economic Co-operation and Development](https://www.oecd.org/en/data.html)
+
+### Open Data Driven Projects
+
+- [Safemap](https://safemap.io/)
+- [Is it hot in Learmonth right now?](https://isithotrightnow.com/) (Australia) and [Hoy Extremo](https://hoyextremo.com/) (Spain)
 
 ## Open Source Web Data IDE
 
