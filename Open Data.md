@@ -23,6 +23,8 @@ Iterative improvements over public datasets yield large amounts of value ([check
 
 Open Source code has made a huge impact in the world. Let's make Open Data do the same! Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
 
+This document is a collection of ideas and principles to make Open Data more accessible, maintainable, and useful. Also, recognizing that a lot of people are already working on this, there are some amazing datasets, tools, and organizations out there, and, that Open Data is a people problem at 80%. This document is biased towards the technical side of things, as I think that's where I can contribute the most.
+
 ### Why Now?
 
 We have better and cheaper infrastructure. That includes things like faster storage, better compute, and, larger amounts of data. We need to improve our data workflows now. How does a world where people collaborate on datasets looks like? [The data is there. We just need to use it](https://twitter.com/auren/status/1509340748054945794).
@@ -88,7 +90,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - [Bootstrap a package registry](https://antonz.org/writing-package-manager/). E.g: a GitHub repository with lots of known `datapackages` that acts as fallback and quick way to get started with the tool (`data list` returns a bunch of known open datasets and integrates with platforms like Huggingface).
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
   - Datasets are linked to their metadata.
-  - One repository, one dataset or one catalog/hub.
+  - One Git repository should match one portal/catalog/hub. Could also be a dataset. The main thing is for code and data to live together.
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
     - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making an scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
@@ -146,6 +148,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - **Dynamic**. Use only the data you need. No need to pull 150GB.
 - **Default APIs**. For some datasets, allowing REST API / GraphQL endpoints might be useful. Same with providing an SQL interface.
   - Users should be able to clone public datasets with a single CLI command.
+  - Installing datasets could be mounting them from in a virtual filesystem (FUSE) and supporting random access (e.g: HTTP Range requests).
 - **Don't break history**. If a dataset is updated, the [old versions should still be accessible](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/).
   - Make sure the datasets are there for the long run. This might take different forms (using a domain name, IPFS, ...).
 
