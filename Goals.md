@@ -6,6 +6,7 @@ Goals are good for setting a direction. [[Systems]] are for making progress. You
 - Shape the default. The ideal situation is for doing the right action to feel like the default.
 - You don’t hit a quantitative goal by focusing on the goal. You hit a quantitative goal by focusing on the process.
 - Beware trivial inconveniences. Think of decisions in terms of activation energy. Some decisions need more energy than others depending on how are setup. Make the good decision effortless. Remove friction from the path to your goals.
+- [A better wording for goals is "quests"](https://www.raptitude.com/2024/08/do-quests-not-goals/). A quest is an adventure, and you expect it to be one that changes you (gives a reward), not just your situation.
 
 ## TAPs
 
