@@ -60,8 +60,12 @@
 - [Gartic Phone](https://garticphone.com/). The drawing telephone game.
 - [Quicksplain](https://quicksplain.com/). Party trivia game for groups of 2 to 8 people that tests your knowledge on a variety of topics.
 - [Smart Cookie Trivia](https://www.smart-cookie-trivia.com/). Free, fun, challenging, multiplayer quizzes.
+- [Escape Team](https://www.escape-team.com/). A digital-physical escape room game.
 
 ## Boardgames
 
 - [Scythe](https://boardgamegeek.com/boardgame/169786/scythe).
 - [Res Arcana](https://boardgamegeek.com/boardgame/262712/res-arcana).
+- [Sidereal Confluence](https://boardgamegeek.com/boardgame/202426/sidereal-confluence).
+- [Cosmic Encounter](https://boardgamegeek.com/boardgame/39463/cosmic-encounter).
+- [Rising Sun](https://boardgamegeek.com/boardgame/205896/rising-sun)

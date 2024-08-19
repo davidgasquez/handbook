@@ -17,7 +17,7 @@
 - What works for one child may not work for another. It's important to be flexible and adjust your parenting style as needed to best support each child.
 - When tantrums occur, interrupt the flow of the moment. E.g: stop the car somewhere and say "[Do what you want but I'll restart the car once you are calm](https://news.ycombinator.com/item?id=31204423)".
 - Clearly communicated consequences ahead of time works much better than punishment.
-- Raising responsible humans requires giving them responsibility, the opportunity for soft failures to learn from and having those awkward long talks and figuring out how to set healthy boundaries.
+- Raising responsible humans requires giving them responsibility, the opportunity for soft failures to learn from and having those awkward long talks and figuring out how to set healthy boundaries. E.g: [how to deal with money](https://x.com/tayloramurphy/status/1824868300339249648).
 - Allowing kids to have lots of small failures. Whenever you can, let them experience a small consequence that won't be too bad.
 - Allow them to experience the natural consequences of their actions as much as possible, both good and bad. Even if it has a negative consequence for them, as long as it's not too much.
 - Aim to be as predictable as possible. The brain is a prediction engine and hates surprises, so minimize the surprises they have to deal with.
