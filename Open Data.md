@@ -294,6 +294,7 @@ I use it as a generic term to refero to data and content that can be freely used
 - [Datahub](https://datahub.io/awesome)
 - [HuggingFace Datasets](https://huggingface.co/datasets)
 - [Data World](https://data.world/datasets/open-data)
+- [Eurostat](https://ec.europa.eu/eurostat/en/)
 - [Statista](https://www.statista.com/)
 - [Enigma](https://enigma.com/)
 - [DoltHub](https://www.dolthub.com/discover)
