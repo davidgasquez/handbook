@@ -136,6 +136,7 @@
   - You can discover these control factors through one of two ways:
     - [[Experimentation]]
     - Observe sudden, unexplained special variation in your data, which you must then investigate to uncover new control factors that you don't already know about.
+- Don't over rely on data. [Data is inherently objectifying](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html) and naturally reduces complex conceptions and process into coarse representations. There's a certain fetish for data that can be quantified ([McNamara fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy))
 
 ## Tools
 

@@ -22,6 +22,17 @@
 - [As you are working in a team, then you have to address the problem of shared understanding](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/). This is where documentation come in.
 - [Use the imperative mood in descriptions and instructions](https://twitter.com/kepano/status/1751354613041872985). Use concise action-oriented sentences, written from the user's perspective.
   - When writing instructions, anywhere you say "You should X" or "You can X," replace it with the imperative mood of the verb.
+- Ask the below two questions before writing:
+  1. Who am I writing this for?
+  2. What are the top 1-3 takeaways after someone's read?
+- [Write simply](https://zodvik.com/posts/on-writing-well/):
+  - Use fewer than 30 words per sentence
+  - Use ordinary words and simple sentences
+  - Remove fluff
+  - Remove weasel words. Replace adjectives with data or details.
+  - Ask the "So what" question to every sentence that you write.
+  - Prefer active voice to passive.
+- Most docs are short-lived and used for point-in-time discussions. However, some documents serve for a longer time. To have your writing stand the test of time, avoid using references that change with time or location.
 
 ## Resources
 
