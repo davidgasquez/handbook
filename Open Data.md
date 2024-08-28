@@ -33,7 +33,7 @@ We have better and cheaper infrastructure. That includes things like faster stor
 
 During the last few years, a large number of new data and open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets).
 
-These trends are already making it's way towards movements like [DeSci](https://ethereum.org/en/desci/) or smaller projects like [Py-Code Datasets](https://py-code.org/datasets). But, we still need more tooling around data to improve interoperability as much as possible. Lots of companies have figured out how to make the most of their datasets. **We should use similar tooling and approaches companies are using to manage the open datasets that surrounds us**. A sort of [Data Operating system](https://data-operating-system.com/).
+These trends are already making its way towards movements like [DeSci](https://ethereum.org/en/desci/) or smaller projects like [Py-Code Datasets](https://py-code.org/datasets). But, we still need more tooling around data to improve interoperability as much as possible. Lots of companies have figured out how to make the most of their datasets. **We should use similar tooling and approaches companies are using to manage the open datasets that surrounds us**. A sort of [Data Operating system](https://data-operating-system.com/).
 
 One of the biggest problem in open data today is the fact that organizations treat data portals as graveyards where data goes to die. Keeping these datasets up to date is core concern, alongside using the data for operational purposes and showcasing it to the public.
 
@@ -114,7 +114,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - Tabular data could be partitioned to make it easier for future retrieval.
 - **Immutability**. Never remove historical data. Data should be append only.
   - Many public data sources issue restatements or revisions. The protocol should be able to handle this.
-  - Similar to how `git` deals with it. You _could_ force the deletion of something in case that's needed, but that's not the default behaivor.
+  - Similar to how `git` deals with it. You _could_ force the deletion of something in case that's needed, but that's not the default behavior.
 - **Flexible**. Allow arbitrary backends. Both centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
   - As agnostic as possible, supporting many types of data; tables, geospatial, images, ...
   - Can all datasets can be represented as tabular datasets? This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
@@ -192,23 +192,23 @@ Later on I think it could be interesting to explore running [`delta-rs`](https:/
 
 Not sure. Homomorphic encryption?
 
-### 9. How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works?
+### 10. How could something like [Ver](https://raulcastrofernandez.com/data-discovery-updates/) works?
 
 If you can envision the table you would like to have in front of you, i.e., you can write down the attributes you would like the table to contain, then the system will find it for you. This probably needs a [[Knowledge Graphs]]!
 
-### 10. How can a [[Knowledge Graphs]] [help with the data catalog](https://docs.atomicdata.dev/usecases/data-catalog.html)?
+### 11. How can a [[Knowledge Graphs]] [help with the data catalog](https://docs.atomicdata.dev/usecases/data-catalog.html)?
 
 It could help users connect datasets. With good enough core datasets, it could be used as an LLM backend.
 
-### 11. [How would a Substack for databases look like](https://tomcritchlow.com/2023/01/27/small-databases/)?
+### 12. [How would a Substack for databases look like](https://tomcritchlow.com/2023/01/27/small-databases/)?
 
 An easy tool for creating, maintaining and publishing databases with the ability to restrict parts or all of it behind a pay wall. Pair it with the ability to send email updates to your audience about changes and additions.
 
-### 12. Curated and small data (e.g: at the community level) is not reachable by Google. How can we help there?
+### 13. Curated and small data (e.g: at the community level) is not reachable by Google. How can we help there?
 
 Indeed! With LLMs on the rise, community curated datasets become more important as they don't appear in the big data dumps.
 
-### 13. Wait, wait... What do you mean by "Open Data"?
+### 14. Wait, wait... What do you mean by "Open Data"?
 
 I use it as a generic term to refero to data and content that can be freely used, modified, and shared by anyone for any purpose. Generally alligned with the [Open Definition](https://opendefinition.org/od/2.1/en/) and [The Open Data Commons](https://opendatacommons.org/).
 
@@ -343,7 +343,7 @@ After playing with [Rill Developer](https://github.com/rilldata/rill-developer),
   - Local datasets could be shared using something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) or a temporal storage service.
 - Let me grab the state of the app (YAML/JSON), version control it, and generate static (to publish in GitHub Pages) and dynamic (hosted somewhere) dashboards from it.
   - Similar to [evidence.dev](https://evidence.dev/) or [portal.js](https://portaljs.org/).
-- It could also have "smart" data checks. Similar to [deepchecks](https://github.com/deepchecks/deepchecks) alerting for anomalies, outliers, noisy variables, ...
+- It could also have "smart" data checks. Similar to [deepchecks](https://github.com/deepchecks/deepchecks) alerting about anomalies, outliers, noisy variables, ...
 - Given a large amount of [[Open Data]]. It could offer a way for people to upload their datasets [and get them augmented](https://subsets.io/).
   - E.g: Upload a CSV with year and country and the tool could suggest GDP per Capita or population.
 
