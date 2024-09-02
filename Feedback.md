@@ -8,7 +8,7 @@ All feedback is good feedback. If you agree with it, it tells you something abou
 - When someone tells you how to fix it, they're almost always wrong.
 - Collect feedback from everybody.
 
-Your goal is not to do what _you_ think is best, it's to help _others_. This includes respecting their preferences, and respecting their autonomy. It's key that you listen to feedback, be open to the possibility that your actions are systematically unhelpful, and work to build better models of your friends and their preferences. In an ideal world I’d only take the actions that are net good, and avoid all of the ones that are net bad, but in a limited information world this is impossible. And empirically, actually trying _far_ outweighs not trying at all. But you still want to get as net good as possible!
+Your goal is not to do what _you_ think is best, it's to help _others_. This includes respecting their preferences, and respecting their autonomy. It's key that you listen to feedback, be open to the possibility that your actions are systematically unhelpful, and work to build better models of your friends and their preferences. In an ideal world I'd only take the actions that are net good, and avoid all of the ones that are net bad, but in a limited information world this is impossible. And empirically, actually trying _far_ outweighs not trying at all. But you still want to get as net good as possible!
 
 ## Taking Feedback
 

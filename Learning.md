@@ -33,7 +33,7 @@
   - Have an Analogy about it.
   - Visualize it in a Diagram.
   - Gather Examples. Examples are an amazing way to learn things!
-    - Examples are an excellent way to resolve lossy information transfer - they’re a completely different channel of communication than normal. If nothing else, they serve as an error check.
+    - Examples are an excellent way to resolve lossy information transfer - they're a completely different channel of communication than normal. If nothing else, they serve as an error check.
     - Examples are a great way to transfer tacit knowledge, without necessarily making it legible - this is what it means to build intuition.
   - Come with a Plain-English description of the concept.
   - Then, dive into the Technical side.
@@ -49,7 +49,7 @@
   2. Valid environment (few random events, controlled, ...).
   3. Timely feedback.
   4. Deliberate practice.
-- Knowledge is built up through layers. You need more basic knowledge before you can access more advanced knowledge. You can’t learn things that are too far removed from your knowledge tree.
+- Knowledge is built up through layers. You need more basic knowledge before you can access more advanced knowledge. You can't learn things that are too far removed from your knowledge tree.
 - Lasting and solid foundations are made by experiencing.
 - For some subjects, [there's no speed limit](https://sive.rs/kimo). If you're more driven than most people, you can do way more than anyone expects.
 - A great way to spot what is probably true in any field is to find multiple people with different worldviews on a topic and see which parts do they agree upon.

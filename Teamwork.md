@@ -53,7 +53,7 @@
   - A more focused backlog makes it easier and faster to plan cycles, and ensures the work will actually get done.
   - [Balance putting code where they are most comfortable while optimizing for speed vs putting the code where it belongs when considering a longer term perspective on the overall system.](https://twitter.com/jmwind/status/1477399261700526080).
 - **Focus on business outcomes, not on technologies.**
-- When you start from a shared understanding – that you’re all doing your best you can – you can foster a compassionate working environment.
+- When you start from a shared understanding – that you're all doing your best you can – you can foster a compassionate working environment.
   - Everyone on your team should assume that everyone else on the team is doing their best work, given their circumstances.
   - Trust people with freedom. Add [[Processes]] where you need to replace some level of trust.
   - Share as much context as you can.
@@ -112,8 +112,8 @@
 - Most software or processes should be opinionated. In increases [[Coordination|collaboration]]. Flexible processes lets everyone invent their own workflows, which eventually creates chaos as teams scale.
 - As teams scale, traditional approaches to decision making force a tradeoff between transparency and efficiency.
   - The easiest way to ensure everyone can understand the how and why of a decision is to adopt systems that, through their daily operation, ensure such context is automatically and readily available to those who might want it (and explicitly not only those who presently need it).
-- [Run 1:1s (one-on-ones)](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/). A recurring meeting with no set agenda between a manager and one of their reports. Don’t make it a status update (these should be async). Chat about anything bothering you, career growth or type work that is interesting for you. End it with actionable next steps.
-- Say no a lot, up front. [Distractions are anything that doesn’t help you keep your existing features running, or deliver your top priority faster](https://alexturek.com/2022-03-07-How-to-do-less/). Finishing work is more important than starting it.
+- [Run 1:1s (one-on-ones)](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/). A recurring meeting with no set agenda between a manager and one of their reports. Don't make it a status update (these should be async). Chat about anything bothering you, career growth or type work that is interesting for you. End it with actionable next steps.
+- Say no a lot, up front. [Distractions are anything that doesn't help you keep your existing features running, or deliver your top priority faster](https://alexturek.com/2022-03-07-How-to-do-less/). Finishing work is more important than starting it.
 - As a new team member:
   - Ask questions without judging. Never ever be _negative_ about the stuff they created. It was done for a reason.
   - Beware of [Normalization of Deviance](https://danluu.com/wat/).
@@ -138,7 +138,7 @@
 - There's a real danger in thinking that what made you successful in the past will make you successful now.
 - Read all the things.
 - The team you'll be working on will probably have some kind of [normalized deviance](https://danluu.com/wat/). Try to [understand why everything is as it is](https://fs.blog/chestertons-fence/) before doing any recommendations. Don't come in with "the answers".
-  - [Chesterton’s fence](https://www.meyerperin.com/posts/2022-04-02-chestertons-fence.html) is an important concept to keep in mind when starting a new job or a new scope of work. The [context of why a certain architectural choice was made](https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production/) is just as important as understanding its current pain points.
+  - [Chesterton's fence](https://www.meyerperin.com/posts/2022-04-02-chestertons-fence.html) is an important concept to keep in mind when starting a new job or a new scope of work. The [context of why a certain architectural choice was made](https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production/) is just as important as understanding its current pain points.
 - Record first impressions / friction log as you go. [Beginner's mind has real value](https://eugeneyan.com/writing/onboarding/)!
 - Build great relationships so you can be supported in decisions to get some early wins.
 - One of the most valuable things you can do during onboarding is update/write documentation and [create/update checklist of all the processes](https://lifeitself.org/tao/onboarding#create-an-onboarding-issue). This will help you and your team in the long run.

@@ -12,7 +12,7 @@
 - [[Data Culture|Data is a product]] and that means that you can do postmortems (5 whys) and incident reports on data quality issues.
 - [There are two strategies to detect quality issues](https://towardsdatascience.com/data-observability-vs-data-testing-everything-you-need-to-know-6f3d7193b388):
   - Data Testing. Involves checking `null` values, distributions, uniqueness, known invariants, etc.
-  - Data Observability. Since you can’t predict all the failure modes, you can use automated monitoring, alerting, and triaging to identify and evaluate data quality issues.
+  - Data Observability. Since you can't predict all the failure modes, you can use automated monitoring, alerting, and triaging to identify and evaluate data quality issues.
 - Four categories of characteristics about your data form [the four pillars of Data Observability](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability):
   1. The *Metrics* and *Metadata* pillars describe the internal characteristics of our data itself and its external characteristics
   2. The *Lineage* and *Logs* pillars describe internal dependencies within our data and its interactions with the external world data at any point in time.

@@ -61,7 +61,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - You either move information from one place to another, or you move mass from one place to another.
 - The fewer the facts, the stronger the opinion. Arnold H. Glasow.
 - If you think without writing, you only think you're thinking. Leslie Lamport. ^645051
-- It's _chapuzas_ all the way down. Me on my dreams.
+- It's _chapuzas_ all the way down. Me, dreaming.
 - [You will observe with concern how long a useful truth may be known, and exist, before it is generally received and practiced on](https://www.youtube.com/watch?v=IV3dnLzthDA). Benjamin Franklin.
 - People are tribal. The more settled things are, the bigger the tribes can be. The churn comes, and the tribes get small again. Amos Burton.
 - What got you here won't get you there. Marshall Goldsmith.

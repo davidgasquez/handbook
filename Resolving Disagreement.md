@@ -13,12 +13,12 @@ We should be arguing in a constructive fashion: treating arguments as an opportu
 - As much data as possible to backup claims. [Cognitive biases](https://www.titlemax.com/discovery-center/lifestyle/50-cognitive-biases-to-be-aware-of-so-you-can-be-the-very-best-version-of-you/) are limits and mistakes in human judgment that prevent someone from acting rationally. They are present in every aspect of human life, and in tense situations like arguments, they tend to appear more often as emotions are heightened and the brain gets overloaded.
 - Agree on the terminology. Similar understanding of terms makes discussion more productive.
 - Separate the topic from the community. E.g: cryptocurrencies have toxic communities but very interesting ideas.
-- If you debate it it right, you’ll end up respecting the other person.
-- [Sometimes, you'll end up with **high-level generators of disagreement**](https://slatestarcodex.com/2018/05/08/varieties-of-argumentative-experience/). It is what remains when everyone understands exactly what’s being argued, and agrees on what all the evidence says, but have vague and hard-to-define reasons for disagreeing anyway.
+- If you debate it it right, you'll end up respecting the other person.
+- [Sometimes, you'll end up with **high-level generators of disagreement**](https://slatestarcodex.com/2018/05/08/varieties-of-argumentative-experience/). It is what remains when everyone understands exactly what's being argued, and agrees on what all the evidence says, but have vague and hard-to-define reasons for disagreeing anyway.
 - [Make disagreement fun](https://twitter.com/waitbutwhy/status/1461620476363612169):
   - Your motivation for arguing is more "obsession with finding the truth" than "winning a competitive game".
   - Adjust your conviction level to fit your knowledge of the topic.
-  - Attack my ideas, not people. Assume everyone is doing the same and don’t take disagreements personally.
+  - Attack my ideas, not people. Assume everyone is doing the same and don't take disagreements personally.
   - Never agree with me just for the sake of being agreeable.
   - Acknowledge when you are wrong.
 

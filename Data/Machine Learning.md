@@ -17,7 +17,7 @@ These points are expanded with more details in courses like [Made With ML](https
 ## Tips
 
 - Use pre-commit hooks. Start with the basics — black, isort — then add pydocstyle, mypy, check-ast, ...
-- Version your data! Don’t overwrite raw datasets.
+- Version your data! Don't overwrite raw datasets.
 
 ### ML In Production Resources
 
