@@ -5,7 +5,7 @@
 
 ## Resources
 
-- [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o).
+- [A beginner's guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o).
 - [Everything you need to know about DAOs](https://foundation.app/blog/everything-you-need-to-know-about-daos).
 - [The Handbook of Handbooks for Decentralized Organizing](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view).
 - [Resources For Decentralized Organizing](https://commonslibrary.org/resources-for-decentralised-organising/). Also [summarized in slides](https://geo.coop/sites/default/files/patterns_of_decentralized_organizing.pdf).

@@ -11,7 +11,7 @@ If we think about a company as an organism, then a **knowledge management system
 There are some basic principles and [[values]] that will make maintaining and evolving a knowledge base easier over time.
 
 - **Transparency**. Everyone has access to everything.
-- **Iterative Improvements**. Everything is a WIP. No need to say it’ll be updated later or add dates to pages.
+- **Iterative Improvements**. Everything is a WIP. No need to say it'll be updated later or add dates to pages.
 - **Permissionless**. Anyone is able to edit anything. Similar to GitHub Pull Requests. Later, the resource owner can accept or reject the change.
 - **Interconnected**. Links between everything!
 
@@ -36,7 +36,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
 - [Decisions (and rationale) must be documented in a durable location. At GitHub they used to say everything should have a URL](https://haacked.com/archive/2020/04/07/introducing-aboard-beta/). That gives the company a **Decision Log**.
 - Important documents like Roadmaps should be easy to discover and people should be able to comment on and have discussions around them. That promotes keeping it up to date.
 - [[Design Docs]] should have an explicit place, also acting as an historical log.
-- [[Documentation]] should have a common entry point to increase discovery. Each team can have it’s own [[processes]] on top.
+- [[Documentation]] should have a common entry point to increase discovery. Each team can have it's own [[processes]] on top.
 - At a company level, each team documents differently. To make the most of that, grow the knowledge organically and locally, not top down. Each team should have its own permissionless and open way of working and should be made public to the rest of the company. That way they can evolve the system to fit their needs. Then, there is a standard protocol to share information between teams.
   - The protocol serves as the team communications API. An abstraction over the inner works of the team that is common to all the other teams.
   - E.g: Each team having a homepage README with links to their slack, ticket system and processes.
@@ -60,7 +60,7 @@ Whenever you need to thoroughly brief a group of people on an important matter, 
 2. Objective. **What** you want to achieve.
 3. Plan. **How** you want to achieve it.
 4. Logistics. What budget and resources are available, and how they are used.
-5. Communications. How you’ll be coordinating among yourselves and with others in order to achieve your goal.
+5. Communications. How you'll be coordinating among yourselves and with others in order to achieve your goal.
 
 ## Resources
 

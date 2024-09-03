@@ -5,7 +5,7 @@
 - Treat children with respect. They are very smart, they just lack experience. If they "misbehave", talk to them and explain why this is not good. If you can't find an explanation, chances are you are wrong and you should reevaluate your position.
 - [Answer questions with **as much detail as they want**](https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules).
 - You're already doing reinforcement training.
-  - We already reinforce behavior all the time, including bad behavior, often without meaning to. So you might as well notice what you’re doing.
+  - We already reinforce behavior all the time, including bad behavior, often without meaning to. So you might as well notice what you're doing.
   - Children train parents as well as the other way around.
 - [Instead of punishing bad behavior, the emphasis should be on noticing and reinforcing good behavior](https://www.lesswrong.com/posts/Cf2xxC3Yx9g6w7yXN/notes-from-don-t-shoot-the-dog).
 - [Be consistent](https://www.jefftk.com/p/predictable-parenting). Kids will have a predictable context to follow and are less stressed from the context being ambiguous.

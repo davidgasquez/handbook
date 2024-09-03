@@ -25,7 +25,7 @@
 - [Every metric you use should have an Operational Definition](https://twitter.com/ejames_c/status/1732621626259484953).
   1. A criterion — the thing you want to measure.
   2. Test procedure — how will you measure the thing?
-  3. Decision rule — how will you decide if the thing you’re measuring should be included in the count?
+  3. Decision rule — how will you decide if the thing you're measuring should be included in the count?
 - A process is predictable if it just contains routine variation. It is unpredictable if it contains both routine and special variation. You can only improve a process if you first make it predictable.
 - Metrics should help forming a working causal model of the business you're in so you know what interventions you can make and can predict the consequences.
 

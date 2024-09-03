@@ -110,4 +110,4 @@
 
 - [Dog Training Reddit Wiki](https://www.reddit.com/r/Dogtraining/wiki/index)
 - [Kikopup Youtube Channel](https://www.youtube.com/user/kikopup)
-- [Zak George’s Youtube Channel](https://www.youtube.com/channel/UCZzFRKsgVMhGTxffpzgTJlQ)
+- [Zak George's Youtube Channel](https://www.youtube.com/channel/UCZzFRKsgVMhGTxffpzgTJlQ)

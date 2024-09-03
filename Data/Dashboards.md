@@ -70,6 +70,6 @@ The value is that now discussions are happening about the data.
   - That the data is correct.
   - That the transformation logic is correct.
   - That the data is complete.
-- The dashboard is always just a snapshot of "what" is happening, but knowing the underlying base level data is always needed to understand "why" it’s happening.
+- The dashboard is always just a snapshot of "what" is happening, but knowing the underlying base level data is always needed to understand "why" it's happening.
 - Usually, answers don't lead to Eureka moments, they lead to follow up questions and follow up questions.
 - Having 20 dashboards means one is always likely to be up or down by a statistically significant amount.

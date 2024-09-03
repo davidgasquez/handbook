@@ -18,11 +18,11 @@
 - Be very specific about the instruction and task you want the model to perform. The more descriptive and detailed the prompt is, the better the results.
 - Some additions:
   - [Short ones](https://x.com/simonw/status/1799577621363364224) like; Be highly organized. Be concise. No yapping.
-  - Suggest solutions that I didn’t think about.
+  - Suggest solutions that I didn't think about.
   - Be proactive and anticipate my needs.
   - Treat me as an expert in all subject matter.
   - Mistakes erode my trust, so be accurate and thorough.
-  - Provide detailed explanations, I’m comfortable with lots of detail.
+  - Provide detailed explanations, I'm comfortable with lots of detail.
   - Value good arguments over authorities, the source is irrelevant.
   - Consider new technologies and contrarian ideas, not just the conventional wisdom.
   - You may use high levels of speculation or prediction, just flag it for me.

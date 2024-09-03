@@ -7,7 +7,7 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 - Learn to prioritize, and value your time. "I don't have time" is another way of saying "it's not a priority". Busyness is a lack of priorities.
   - Doing one thing requires giving up another. Whenever you explicitly choose to do one thing, you implicitly choose not to do another thing. Embrace the many things you'll never do.
   - Your work will be endless, but your time is finite. You cannot limit the work so you must limit your time. Hours are the only thing you can manage.
-  - Learn to say no. Be ruthlessly deliberate with your time and attention. We guard our money carefully yet we often treat our time as if it’s a limitless resource.
+  - Learn to say no. Be ruthlessly deliberate with your time and attention. We guard our money carefully yet we often treat our time as if it's a limitless resource.
 - Lists help you to summarize your next steps and to not lose focus. If you place them in a very visible place it makes easier to accomplish [[Goals]].
   - Decompose lists items into smaller steps.
 - Doing the same thing over and over again without getting tired is what computers are good at, humans have other skills.

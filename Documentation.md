@@ -10,7 +10,7 @@
   - A how-to guide is goal-oriented, shows how to solve a specific problem with a series of steps. E.g: a recipe in a cookery book.
   - An explanation is understanding-oriented, provides background and context. E.g: an article on culinary social history.
   - A reference guide is information-oriented, describes the machinery and is accurate and complete. E.g: a reference encyclopedia article.
-- [If someone’s having to read your docs, it’s not "simple"](https://justsimply.dev/). Remove filler words.
+- [If someone's having to read your docs, it's not "simple"](https://justsimply.dev/). Remove filler words.
 - [Principles to keep in mind when writing documentation](https://mkaz.blog/misc/notes-on-technical-writing/).
   - The purpose of technical writing is to help users accomplish tasks as quickly and effectively as possible.
   - People learn by doing, prefer to be shown and not told.
