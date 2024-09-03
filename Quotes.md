@@ -65,6 +65,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - [You will observe with concern how long a useful truth may be known, and exist, before it is generally received and practiced on](https://www.youtube.com/watch?v=IV3dnLzthDA). Benjamin Franklin.
 - People are tribal. The more settled things are, the bigger the tribes can be. The churn comes, and the tribes get small again. Amos Burton.
 - What got you here won't get you there. Marshall Goldsmith.
+- Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better. Edsger Dijkstra.
 
 ## External Lists
 
