@@ -58,6 +58,7 @@
 - [OSO](https://github.com/opensource-observer/oso)
 - [Tuba](https://github.com/tuva-health/tuva)
 - [Department of Education for New South Wales](https://github.com/wisemuffin/nsw-doe-data-stack-in-a-box)
+- [OP Analytitcs](https://github.com/ethereum-optimism/op-analytics)
 
 #### Dagster Resources
 
