@@ -17,6 +17,7 @@
 - [OpenRouter](https://openrouter.ai/)
 - [Big AGI](https://get.big-agi.com/)
 - [OpenWebUI](https://openwebui.com/)
+- [Anything LLM](https://github.com/Mintplex-Labs/anything-llm)
 
 ### Prompts
 
