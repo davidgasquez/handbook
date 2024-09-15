@@ -8,18 +8,21 @@ _Make Open Data compatible with the Modern Data Ecosystem_.
 
 As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make economic sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless you can profit from that.
 
-The current landscape has a few problems:
+Combining data from different sources requires the user to reconcile the differences in schemas, formats, assumptions, and more. This [data wrangling is time consuming, tedious and needs to be repeated by every user of the data](https://arxiv.org/pdf/2309.13054).
+
+The Open Data landscape has a few problems:
 
 - **Non Interoperability**. Data is isolated in multiples places and between different formats.
-- **Data Loss**. Data is commonly stored in perishable hardware and formats.
-- **Hard to Search**. Datasets indexing is difficult since [there are many standards](https://xkcd.com/927/).
+- **Hard to Use**. Good datasets are hard to use as indexing is difficult and [many standards](https://xkcd.com/927/) compete. However, none of the indexers specify how the data is to be formatted, enforce any standardization, ... Users must still perform traditional forms of data merging, cleaning, and standardization.
 - **No Collaboration**. No incentives exists for people to work on improving or curating datasets.
 
 [Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is one of the best ways to learn about the world and [[Coordination|coordinate]] people.
 
+There are two big levels where people work on open data; at the government level covering thousands of datasets (CKAN, Socrata, …), and at the individual level where folks who are passionate about a topic publish a few datasets about it. This results on lots of datasets that are disconnected and still requires you to scrape, clean, and join it from all the heterogeneus sources to answer interesting questions. [One of the big ways that data becomes useful is when it is tied to other data](https://x.com/auren/status/1139594779895844865). **Data is only as useful as the questions it can help answer**. Joining, linking, and graphing datasets together allows one to ask more and different kinds of questions.
+
 Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
-Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions.
+Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. Data is vital to understanding the world and improving public welfare.
 
 Open Source code has made a huge impact in the world. Let's make Open Data do the same! Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
 
@@ -54,6 +57,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
   - Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped.
   - Metadata as a first-class citizen. Even if minimal and automated.
   - Git based approach collaboration. Adopt and integrate with `git`  and GitHub to reduce surface area. Build tooling to adapt revisions, tags, branches, issues, PRs to datasets.
+    - Pprtals are a GitHub repository with scripts to collect data from various sources, clean it, and join it, and publish useful datasets and artifacts for that community. Ideally, they are also simple to get started with and expose the best practices in data engineering for curating and transforming data.
   - Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests/checks_.
   - Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, reports, ...
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In "reality", events are immutable, data should be too. [Make datasets the center of the tooling](https://dagster.io/blog/software-defined-assets).
@@ -90,7 +94,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - [Bootstrap a package registry](https://antonz.org/writing-package-manager/). E.g: a GitHub repository with lots of known `datapackages` that acts as fallback and quick way to get started with the tool (`data list` returns a bunch of known open datasets and integrates with platforms like Huggingface).
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
   - Datasets are linked to their metadata.
-  - One Git repository should match one portal/catalog/hub. Could also be a dataset. The main thing is for code and data to live together.
+  - One Git repository should match one portal/catalog/hub. Could also be a dataset. The main thing is for code and data to live together. Each Data Portal should be comparable to a website, and may have a specific topical focus.
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
     - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making an scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
