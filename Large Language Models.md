@@ -12,6 +12,13 @@
 - [Scapeghost](https://jamesturk.github.io/scrapeghost/)
 - [Kor](https://eyurtsev.github.io/kor/index.html)
 
+### FrontEnds
+
+- [OpenRouter](https://openrouter.ai/)
+- [Big AGI](https://get.big-agi.com/)
+- [OpenWebUI](https://openwebui.com/)
+- [Anything LLM](https://github.com/Mintplex-Labs/anything-llm)
+
 ### Prompts
 
 - Designing prompts is an iterative process that requires a lot of experimentation to get optimal results. Start with simple prompts and keep adding more elements and context as you aim for better results.
