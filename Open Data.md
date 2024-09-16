@@ -34,7 +34,7 @@ We have better and cheaper infrastructure. That includes things like faster stor
 
 **[The best thing to do with your data will be thought by someone else](https://youtu.be/_agrBn50kyE?t=925)**.
 
-During the last few years, a large number of new data and open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets).
+During the last few years, a large number of new data and open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets). "Small data" deserves more tooling and people working on it.
 
 These trends are already making its way towards movements like [DeSci](https://ethereum.org/en/desci/) or smaller projects like [Py-Code Datasets](https://py-code.org/datasets). But, we still need more tooling around data to improve interoperability as much as possible. Lots of companies have figured out how to make the most of their datasets. **We should use similar tooling and approaches companies are using to manage the open datasets that surrounds us**. A sort of [Data Operating system](https://data-operating-system.com/).
 
