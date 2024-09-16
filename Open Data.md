@@ -22,7 +22,7 @@ There are two big levels where people work on open data; at the government level
 
 Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
-Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. Data is vital to understanding the world and improving public welfare.
+Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. Data is vital to understanding the world and improving public welfare. Metcalfe’s Law applies to data too. The more connected a dataset is to other data elements, the more valuable it is.
 
 Open Source code has made a huge impact in the world. Let's make Open Data do the same! Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
 
@@ -57,7 +57,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
   - Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped.
   - Metadata as a first-class citizen. Even if minimal and automated.
   - Git based approach collaboration. Adopt and integrate with `git`  and GitHub to reduce surface area. Build tooling to adapt revisions, tags, branches, issues, PRs to datasets.
-    - Pprtals are a GitHub repository with scripts to collect data from various sources, clean it, and join it, and publish useful datasets and artifacts for that community. Ideally, they are also simple to get started with and expose the best practices in data engineering for curating and transforming data.
+    - Portals are a GitHub repository with scripts to collect data from various sources, clean it, and join it, and publish useful datasets and artifacts for that community. Ideally, they are also simple to get started with and expose the best practices in data engineering for curating and transforming data.
   - Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests/checks_.
   - Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, reports, ...
 - **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In "reality", events are immutable, data should be too. [Make datasets the center of the tooling](https://dagster.io/blog/software-defined-assets).
@@ -94,7 +94,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - [Bootstrap a package registry](https://antonz.org/writing-package-manager/). E.g: a GitHub repository with lots of known `datapackages` that acts as fallback and quick way to get started with the tool (`data list` returns a bunch of known open datasets and integrates with platforms like Huggingface).
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
   - Datasets are linked to their metadata.
-  - One Git repository should match one portal/catalog/hub. Could also be a dataset. The main thing is for code and data to live together. Each Data Portal should be comparable to a website, and may have a specific topical focus.
+  - One Git repository should match one portal/catalog/hub. Could also be a dataset. The main thing is for code and data to live together. Each Data Portal should be comparable to a website, and may have a specific topical focus (unify on a central theme).
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
     - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making an scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
@@ -103,6 +103,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
   - Have issues and discussions close to the dataset.
+  - Linking data to other data makes all the data more valuable.
 - **Extensible**. Users could extend the package resource (e.g: [Time Series Tabular Package inherits from Tabular Package](https://specs.frictionlessdata.io/tabular-data-package/)) and add better support for more specific kinds of data (geographical).
   - Build integrations to ingest and publish data in other hubs (e.g: CKAN, HuggingFace, ...).
 
@@ -131,6 +132,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - For tabular data, starting with just SQL might be great.
   - Pyodite + DuckDB for transformations could cover a large area.
   - Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers and [Splitfiles](https://github.com/splitgraph/sgr#build-and-query-versioned-reproducible-datasets). That file will carry [Metadata, Lineage and even some defaults (visualizations, code, ...)](https://handbook.datalad.org/en/latest/basics/101-127-yoda.html)
+    - Standard join keys are the most valuable ways to link data together.
 - **Declarative**. Transformations should be defined as code and be idempotent. Similar to how Pachyderm/Kamu/Holium work.
   - E.g: The transformation tool ends up orchestrating containers/functions that read/write from the storage layer, Pachyderm style.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
@@ -158,7 +160,7 @@ Package managers have been hailed among the most important innovations Linux bro
 
 ## Frequently Asked Questions
 
-> I'm not super clear on these answers! Please [reach out](https://davidgasquez.github.io/) if you want to chat about it.
+> Please [reach out](https://davidgasquez.github.io/) if you want to chat about these ideas or ask more questions.
 
 ### 1. What would be a great use case to start with?
 
@@ -406,6 +408,42 @@ metadata: "..."
 - Spec file locator with fallback to the package registry.
 - Versioning and latest versions.
 - Asset checksums.
+
+#### Unified Schema Design
+
+- The goal is to create a single, [unified schema across datasets](https://docs.cybersyn.com/getting-started/concepts/unified-schema). This schema aims to strike a balance between flexibility to accommodate arbitrarily shaped data along with consistency in core tables.
+- Datasets are built around two concepts: entities and timeseries.
+  - Entities are concrete things or objects (a geography, a company, a mortgage application).
+  - Timeseries are abstract measures (ie. statistics) related to an entity and a date.
+- The core tables are:
+  - `entities`: Contains the entities that are being tracked. For example, Spain, Madrid, etc.
+    - Should be something like `province_index` or `weather_station_index` to be able to join with the timeseries.
+    - This table contains permanent characteristics describing an entity. E.g: for Provinces, the name, the region.
+    - Each row represents a distinct entity. The table is wide, in that immutable characteristics are expressed in their own fields.
+  - `attributes`: Attributes are descriptors of a timeseries. An attribute is the equivalent of a characteristic except for the abstract timeseries rather than the concrete entity.
+    - Columns:
+      - `variable_id`: Unique identifier for the attribute
+      - `name`: Name of the attribute
+      - `description`: Description of the attribute
+      - `unit`: Unit of the attribute
+      - `source`: Source of the attribute
+      - `frequency`: Frequency of the attribute (daily, monthly, etc.)
+      - `measurement_type`: Type of measurement (e.g. nominal, ordinal, interval, ratio, percentage)
+      - Metadata columns;
+        - `category`: Category of the attribute
+        - `namespace`: Namespace of the attribute
+        - `tags`: JSON with tags of the attribute?
+        - `aggregation_function`: Aggregation function to use when aggregating the attribute
+  - `timeseries`: Timeseries are abstract measures (ie. statistics, metrics) related to an entity and a date. Timeseries are temporal statistics or measures centered around an entity and timestamp. For example, GDP of Spain, population of Madrid, etc. Timeseries are abstract concepts (ie. a measure) rather than a concrete thing.
+    - Could be something like `weather_timeseries`  to be able to join with the entities.
+    - Columns:
+      - `variable_id`: Unique identifier for the attribute
+      - `geography_id`: Unique identifier for the geography
+      - `date`: Date of the metric
+      - `value`: Value of the metric
+  - `relationshipts`: Contains the relationships between entities. For example, Spain is composed of provinces, Madrid is a province, etc.
+    - Relationships can also be temporal – valid for an interval defined by specific start and end dates.
+  - `characteristics`: Descriptors of an entity that are temporal. They have a start date and end date.
 
 ## Architecture
 
