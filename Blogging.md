@@ -8,7 +8,10 @@
 - [You are best positioned to help people one step behind you](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045). The material is still fresh in your mind. Many experts have forgotten what it was like to be a beginner and have forgotten why the topic is hard to understand when you first hear it. The context of your particular background, your particular style, and your knowledge level will give a different twist to what you're writing about.
 - [Share unoriginal ideas](https://guzey.com/personal/why-have-a-blog/). Your own ideas mostly seem trivial to you because you have the right concept structures in place to support them. You wouldn't come up with these ideas otherwise.
 - Start with Why. Start with a question. Write the first flawed answer that comes to mind. Write the first question or objection that comes to mind from that answer. Write the first response that comes to mind from that, ...
-- [Writing creates a cache](https://twitter.com/eugeneyan/status/1256828203840073728). The cache (i.e., documents) scales data availability. people can access the cache instead of going to you.
+  - Write the headings first.
+- [Writing creates a cache](https://twitter.com/eugeneyan/status/1256828203840073728). The cache (i.e., documents) scales data availability. People can access the cache instead of going to you.
+- Cut out the jargon when you write. It's about being understood.
+- Put a summary at the top if you're writing a long post.
 - The more you create, the more ideas come yo you to continue creating. That's the creativity [[Feedback Loops|feedback loop]].
 - [Expand your definition of completing a project (any project, no matter how small) to include writing a blog post that explains that project](https://twitter.com/simonw/status/1578018383127187461f).
 - For long-form content, the [diamond model](https://dropbox.design/article/mental-models-for-designers) works great for putting a structure around your main idea:
@@ -33,3 +36,4 @@
   3. An anecdote from your own work that provides rich texture and context for what you do.
   4. Some open questions that invite people to discuss.
 - [Keep making your post more opinionated until it reflects your true beliefs](https://twitter.com/HamelHusain/status/1751995737095709164). Don't hedge. People want to hear what you think!
+- The title gets read way more than the rest, so make it count.
