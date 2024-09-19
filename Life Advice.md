@@ -21,6 +21,7 @@ If you listen to successful people talk about their approaches, remember that al
 - Elevate good behavior rather than punishing bad behavior, especially in [[Parenting|children]] and animals.
 - We know less than we think. We are often not even asking the right questions.
 - You can do more than you think. We are tied down by invisible orthodoxy.
+- Celebrate the victories. Positive reinforcement is more effective than negative reinforcement.
 
 ## Resources
 
