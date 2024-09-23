@@ -120,6 +120,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - Tabular data could be partitioned to make it easier for future retrieval.
 - **Immutability**. Never remove historical data. Data should be append only.
   - Many public data sources issue restatements or revisions. The protocol should be able to handle this.
+  - [Higher resolution is more valuable than lower resolution](https://www.linkedin.com/pulse/re-framing-open-data-john-weigelt/). Publish inmutable data and then compute the lower resolution data from it.
   - Similar to how `git` deals with it. You _could_ force the deletion of something in case that's needed, but that's not the default behavior.
 - **Flexible**. Allow arbitrary backends. Both centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
   - As agnostic as possible, supporting many types of data; tables, geospatial, images, ...
@@ -333,6 +334,14 @@ I use it as a generic term to refero to data and content that can be freely used
 
 - [Safemap](https://safemap.io/)
 - [Is it hot in Learmonth right now?](https://isithotrightnow.com/) (Australia) and [Hoy Extremo](https://hoyextremo.com/) (Spain)
+
+### Novel Technologies
+
+- [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy) that allows releasing statistical information about datasets while protecting the privacy of individual data subjects.
+- Homomorphic encryption.
+- New [deidentification techniques](https://www.ipc.on.ca/sites/default/files/legacy/2016/08/Deidentification-Guidelines-for-Structured-Data.pdf).
+- Data watermarking, fingerprinting, and provenance tracking with blockchains.
+- Better CPUs, compression algorithms, and storage technologies.
 
 ## Open Source Web Data IDE
 
