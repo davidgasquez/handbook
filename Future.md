@@ -32,6 +32,8 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
 
 ### Exciting Software Engineering Ideas
 
+- [Common Digital Infrastructure](https://andrewconner.com/common-digital-infrastructure/)
+  - If you work in tech, this is a fun thought experiment. Imagine you don’t need any money and can devote your time to benefiting everyone by building common digital infrastructure. What would exist in a better future?
 - Content Addressed Data + Immutability
 - CRDTs
 - Homomorphic Encryption

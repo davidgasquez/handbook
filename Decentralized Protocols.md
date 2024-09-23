@@ -26,3 +26,5 @@
 - If a system requires a centralized part, a great alternative is give the user the ability to point to other centralized things taking care of that part.
 - If you have a protocol, try enforcing the desired behavior using the protocol. Your ideas of how to solve it might not be the best and adding a protocol restriction (incentives/penalties) will make people figure out.
 - When building a technology, consider: [does this centralize or decentralize power?](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html)
+- Many decentralized protocols are trying to build next generation common digital infrastructure.
+  - Unfortunately,[nearly every crypto project realized that they could capture value (make a lot of money) with innovative tokenomics that looked a lot like Ponzis, or at least borderline securities fraud](https://andrewconner.com/common-digital-infrastructure/).

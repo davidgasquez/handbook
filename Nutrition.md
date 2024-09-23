@@ -18,6 +18,7 @@
 - [Caffeine](https://examine.com/supplements/caffeine/).
 - [L-Theanine](https://lorienpsych.com/2021/01/31/l-theanine/).
 - [Vitamin B12](https://examine.com/supplements/vitamin-b12/). Around 1 mg per day.
+- [Magnesium](https://examine.com/supplements/magnesium/). Around 410–420 mg/day for men and 320–360 mg/day for women. Magnesium citrate is a good form. Magnesium chloride, magnesium gluconate, and magnesium glycinate also appear to have good bioavailability.
 
 ## Resources
 

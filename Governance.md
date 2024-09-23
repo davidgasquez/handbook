@@ -13,3 +13,4 @@ Governance is a tool an [[Organizations|organization]] uses to decide where powe
 - [CommunityRule](https://communityrule.info/). A governance toolkit for great communities.
 - [Verses](https://verses.xyz/).
 - [[Decentralized Autonomous Organizations]]
+- [Common Digital Infrastructure](https://andrewconner.com/common-digital-infrastructure/)

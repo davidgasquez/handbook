@@ -38,7 +38,7 @@ During the last few years, a large number of new data and open source tools have
 
 These trends are already making its way towards movements like [DeSci](https://ethereum.org/en/desci/) or smaller projects like [Py-Code Datasets](https://py-code.org/datasets). But, we still need more tooling around data to improve interoperability as much as possible. Lots of companies have figured out how to make the most of their datasets. **We should use similar tooling and approaches companies are using to manage the open datasets that surrounds us**. A sort of [Data Operating system](https://data-operating-system.com/).
 
-One of the biggest problem in open data today is the fact that organizations treat data portals as graveyards where data goes to die. Keeping these datasets up to date is core concern, alongside using the data for operational purposes and showcasing it to the public.
+One of the biggest problem in open data today is the fact that organizations treat data portals as graveyards where data goes to die. Keeping these datasets up to date is core concern (data has marginal temporal value), alongside using the data for operational purposes and showcasing it to the public.
 
 Open data is hard to work with because of the overwhelming variety of formats and the engineering cost of integrating them. Data wrangling is a perpetual maintenance commitment, taking a lot of ongoing attention and resources. [Better and modern data tooling can reduce these costs](https://github.com/catalyst-cooperative/pudl).
 
@@ -94,11 +94,12 @@ Package managers have been hailed among the most important innovations Linux bro
   - [Bootstrap a package registry](https://antonz.org/writing-package-manager/). E.g: a GitHub repository with lots of known `datapackages` that acts as fallback and quick way to get started with the tool (`data list` returns a bunch of known open datasets and integrates with platforms like Huggingface).
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
   - Datasets are linked to their metadata.
-  - One Git repository should match one portal/catalog/hub. Could also be a dataset. The main thing is for code and data to live together. Each Data Portal should be comparable to a website, and may have a specific topical focus (unify on a central theme).
+  - One Git repository should match one portal/catalog/hub where related datasets are linked (not islands). Could also be a dataset. The main thing is for code and data to live together. Each Data Portal should be comparable to a website, and may have a specific topical focus (unify on a central theme).
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
     - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making an scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
   - [FAIR](https://www.go-fair.org/fair-principles/).
+  - Finding the right dataset to answer a question is difficult. Good metadata search is essential.
 - **Formatting**. Datasets are saved and exposed in multiple formats (CSV, Parquet, ...). Could be done in the backend, or in the client when pulling data (WASM). The package manager should be **format and storage agnostic**. Give me the dataset with id `xyz` as a CSV in this folder.
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
