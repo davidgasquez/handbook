@@ -53,6 +53,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
 - **Easy**. Create, curate and share datasets without friction.
   - Frictionless: Data is useful only when used! Right now, we're not using most of humanity's datasets. That's not because they're not available but because they're hard to get. They're isolated in different places and multiple formats.
   - Pragmatism: published data is better than almost published one because something is missing. Publishing datasets to the web is too hard now and there are few purpose-built tools that help.
+  - Familiar Workflow: [people won't change their workflow to use a new tool](https://xethub.com/blog/shutting-down-xethub-learnings-and-takeaways). They will use something if it fits into their existing workflow.
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
   - Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped.
   - Metadata as a first-class citizen. Even if minimal and automated.
