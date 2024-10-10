@@ -6,7 +6,7 @@ _Make Open Data compatible with the Modern Data Ecosystem_.
 
 [Open Data is a public good](https://en.wikipedia.org/wiki/Open_data#Open_Data_as_commons). As a result, individual [[incentives]] are not aligned with collective ones.
 
-As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make economic sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless you can profit from that.
+As an organization or research group, [spending time curating and maintaining datasets for other people to use doesn't make economic sense](https://en.wikipedia.org/wiki/Economics_of_open_data), unless you can profit from that. When a scientist publishes a paper, they care about the paper itself. They're incentivized to. The data is usually an afterthought.
 
 Combining data from different sources requires the user to reconcile the differences in schemas, formats, assumptions, and more. This [data wrangling is time consuming, tedious and needs to be repeated by every user of the data](https://arxiv.org/pdf/2309.13054).
 
@@ -15,10 +15,11 @@ The Open Data landscape has a few problems:
 - **Non Interoperability**. Data is isolated in multiples places and between different formats.
 - **Hard to Use**. Good datasets are hard to use as indexing is difficult and [many standards](https://xkcd.com/927/) compete. However, none of the indexers specify how the data is to be formatted, enforce any standardization, ... Users must still perform traditional forms of data merging, cleaning, and standardization.
 - **No Collaboration**. No incentives exists for people to work on improving or curating datasets.
+- **No Versioning**. Datasets disappear or change without notice. It's hard to know what changed and when. Losing data doesn't just inconvenience a few researchers. It actively hinders scientific progress.
 
-[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is one of the best ways to learn about the world and [[Coordination|coordinate]] people.
+[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). Data is one of the best ways to learn about the world and [[Coordination|coordinate]] people. Imagine if, every time you used a library, you had to find the original developer and hope they had a copy. It would be absurd. Yet that's essentially what we're asking scientists to do.
 
-There are two big levels where people work on open data; at the government level covering thousands of datasets (CKAN, Socrata, …), and at the individual level where folks who are passionate about a topic publish a few datasets about it. This results on lots of datasets that are disconnected and still requires you to scrape, clean, and join it from all the heterogeneus sources to answer interesting questions. [One of the big ways that data becomes useful is when it is tied to other data](https://x.com/auren/status/1139594779895844865). **Data is only as useful as the questions it can help answer**. Joining, linking, and graphing datasets together allows one to ask more and different kinds of questions.
+There are three big areas where people work on open data; at the government level covering thousands of datasets (CKAN, Socrata, …), at the scientific level (university level), and at the individual level where folks who are passionate about a topic publish a few datasets about it. This results on lots of datasets that are disconnected and still requires you to scrape, clean, and join it from all the heterogeneus sources to answer interesting questions. [One of the big ways that data becomes useful is when it is tied to other data](https://x.com/auren/status/1139594779895844865). **Data is only as useful as the questions it can help answer**. Joining, linking, and graphing datasets together allows one to ask more and different kinds of questions.
 
 Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
@@ -93,6 +94,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - A data package is an URI ([like in Deno](https://deno.land/manual@v1.31.2/examples/manage_dependencies)). You can import from an URL (`data add example.com/dataset.yml` or `data add example.com/hub_curated_datasets.yml`).
   - As [Rufus Pollock puts it](https://datahub.io/docs/dms/notebook#go-modules-and-dependency-management-re-data-package-management-2020-05-16-rufuspollock), Keep it as simple as possible. Store the table location and schema and get me the data on the hard disk (or my browser) fast.
   - [Bootstrap a package registry](https://antonz.org/writing-package-manager/). E.g: a GitHub repository with lots of known `datapackages` that acts as fallback and quick way to get started with the tool (`data list` returns a bunch of known open datasets and integrates with platforms like Huggingface).
+  - Each package has a [persistent identifier](https://datacite.org/what-we-do/).
 - **Indexing**. Should be easy to list datasets matching a certain pattern or reading from a certain source.
   - Datasets are linked to their metadata.
   - One Git repository should match one portal/catalog/hub where related datasets are linked (not islands). Could also be a dataset. The main thing is for code and data to live together. Each Data Portal should be comparable to a website, and may have a specific topical focus (unify on a central theme).
@@ -279,6 +281,7 @@ I use it as a generic term to refero to data and content that can be freely used
 - [Ecosyste.ms](https://repos.ecosyste.ms/open-data)
 - [Deps.dev](https://deps.dev/)
 - [Twitter Community Notes](https://twitter.com/i/communitynotes/download-data)
+- [Open Meteo](https://open-meteo.com/). [Open Data on AWS](https://github.com/open-meteo/open-data).
 
 ### Open Data Organizations
 
