@@ -31,6 +31,12 @@
 - Provide deep links in the dashboard to the underlying data or specific segmentations/filters.
 - Design matters a lot — if it looks bad, people won't look at it.
 - Learn about the tools business people use, understand them, and dive deep into their decision workflows to see where you can actually help and facilitate.
+- To [make the dashboard standout](https://x.com/Eyowhite3/status/1842935004432626084):
+  - Use margins, easy to read font, ...
+  - Reduce the number of charts and clutter.
+  - Make it obvious what the main takeaway is.
+  - Follow the Z pattern.
+  - Provide context.
 
 The value is that now discussions are happening about the data.
 
