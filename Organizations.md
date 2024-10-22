@@ -69,6 +69,9 @@
 - [Big organizations develop strategic inefficiency to carry on doing what they're doing](https://youtu.be/v1eWIshUzr8?t=1147).
 - You can't sell something like versioning or encryption as the key feature, you need to put out a comparable product and have these features be the thing that tips the scale in your favour.
 - Your business may be thought of as a process. It has inputs, and it has outputs. One type of knowledge is understanding which inputs affect which outputs.
+- Bureaucracy develops through deliberate decisions that seemed logical at the time, not just as a natural consequence of growth. Two main causes of bureaucracy are:
+  - Poorly designed incentive systems that punish mistakes but don't reward success.
+  - Loose coupling between [[systems]]/[[processes]] and desired outcomes.
 
 ## Resources
 

@@ -13,6 +13,12 @@ Behavior is hard to fix. When people say they've learned their lesson they under
 - Two types of incentives:
   - Intrinsic incentives are internal—created by self-interest or desire.
   - Extrinsic incentives are external—created by outside factors (reward, punishment).
+- Designing incentives is hard. Is easy to design a bad incentive, which is worse than no incentive. It is specially hard to design a good incentive that relies on money. Money removes intrinsic incentives and attracks the wrong kind of behavior.
+- [Four components of effectively designed incentives are](https://dhruvmethi.substack.com/p/bureaucracy):
+  - Clear problem statement.
+  - Clear target metric to improve.
+  - Intentional system design.
+  - Commitment to study the metric.
 
 ## Incentive Framework
 

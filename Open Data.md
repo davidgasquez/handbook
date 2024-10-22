@@ -62,7 +62,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
     - Portals are a GitHub repository with scripts to collect data from various sources, clean it, and join it, and publish useful datasets and artifacts for that community. Ideally, they are also simple to get started with and expose the best practices in data engineering for curating and transforming data.
   - Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests/checks_.
   - Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, reports, ...
-- **Reproducible and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In "reality", events are immutable, data should be too. [Make datasets the center of the tooling](https://dagster.io/blog/software-defined-assets).
+- **[Reproducible](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) and Verifiable**. People should be able to trust the final datasets without having to recompute everything from scratch. In "reality", events are immutable, data should be too. [Make datasets the center of the tooling](https://dagster.io/blog/software-defined-assets).
   - With immutability and content addressing, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
   - [Datasets are books, not houses](https://medium.com/qri-io/datasets-are-books-not-houses-760bd4736229)!
 - **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration, curation, and composability. On data.
