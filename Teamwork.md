@@ -121,6 +121,13 @@
 - Keep a [private work log](https://youtu.be/HiF83i1OLOM?list=PLYXaKIsOZBsu3h2SSKEovRn7rGy7wkUAV). It'll make easier for everyone to advocate what you did.
 - [Don't sabotage the team](https://erikbern.com/2023/12/13/simple-sabotage-for-software)!
 - [Nobody gets credit for fixing problems that never happened](https://news.ycombinator.com/item?id=39472693). People get credit for shipping things. Figure out how to reward and recognize people for preventing problems.
+- The same practices that make great [[Large Language Models]] [promts](https://platform.openai.com/docs/guides/prompt-engineering) also make [great practices with humans](https://x.com/tayloramurphy/status/1849269205155123568):
+  - Give clear instructions.
+  - Share relevant background info.
+  - Break big problems into chunks.
+  - Give them time to think.
+  - Point them to helpful tools.
+  - Test their work systematically.
 
 ## [How Small Teams Work](https://posthog.com/handbook/people/team-structure/why-small-teams#how-it-works)
 

@@ -14,3 +14,4 @@
 - [Practice hunting for bugs](https://radimentary.wordpress.com/2018/01/29/hammertime-day-1-bug-hunt/?utm_source=pocket_mylist)! A bug is anything in life that needs improvement. Even if something is going well, if you can imagine it going better, there's a bug.
 - Knowing we really want is hard and takes effort. Explore yourself and your [[values]].
 - Experiment more! It is very very easy to do what comes naturally and never deviate from that. Break the pattern.
+- Consume content that is hard to produce. If the producer can spam the content, it is probably not worth your time. E.g: audiobooks vs podcasts.

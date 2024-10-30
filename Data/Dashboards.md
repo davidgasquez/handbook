@@ -37,6 +37,7 @@
   - Make it obvious what the main takeaway is.
   - Follow the Z pattern.
   - Provide context.
+- Include additional highlight numbers, such as last month's total revenue vs. the planned revenue and the YoY growth. Plot against goals if possible. Have a reasonable goal, and plot your numbers against it!
 
 The value is that now discussions are happening about the data.
 

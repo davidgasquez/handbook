@@ -47,3 +47,4 @@
   - E.g: [[Social Media Issues|social media]] encourages rage, [[blockchain]] protocols "waste" energy using Proof of Work.
   - A person holding a hammer interacts with the world in a different way. It is a different entity. Same with ideas.
 - Most of the world is held together with duct tape so don't be surprised when it breaks.
+- Cultivate your information diet.
