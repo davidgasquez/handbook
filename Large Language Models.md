@@ -3,6 +3,11 @@
 - LLM can build internal [[Knowledge Graphs]]s in their the network layers.
 - ML system where humans are designing how the information is organized (feature engineering, linking, graph building) will scale poorly ([the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)).
 
+## Coding Tips
+
+- Use comments to guide the model to do what you want.
+- Divide the problem into smaller problems (functions, classes, ...) and solve them one by one.
+
 ## Tools
 
 - [LangChain](https://python.langchain.com/en/latest/)

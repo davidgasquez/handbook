@@ -17,6 +17,9 @@ Some great advice for [public speaking presentations](https://web.archive.org/we
 - Don't present any slide with a wall of text.
 - Titles for the graphs should be the conclusion.
 - If having issues keeping with the story (e.g. you need long notes), use many slides to help you cover all the points and offer a summary at the end.
+- Write a great proposal.
+  - Make your proposal easy to scan.
+  - Explain what the audience will take away from your talk.
 
 ## Resources
 
