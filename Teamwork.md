@@ -10,7 +10,7 @@
     - What is shipping (e.g. what is on the near horizon).
     - Why is it important / what is now possible as a result / why should people care?
     - How are things progressing. Any blockers?
-- To make everyone more productive and happy: **Make feedback loops fast**. [Some best practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/):
+- To make everyone more productive and happy: **Make feedback loops fast**. [Some best practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/) / [sensible defaults](https://koaning.io/posts/sensible-defaults/):
   - Tested, automated process for new development environments.
   - Automated preview environments.
   - Automated code formatting.

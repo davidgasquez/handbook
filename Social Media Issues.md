@@ -10,6 +10,7 @@
    2. Your digital reputation may affect your opportunities.
    3. People start changing their behavior to get better scores.
    4. As your weaknesses are mapped, you become increasingly transparent.
+- We must [view individual attention as a societal good](https://medium.com/@pwang/reframing-the-social-media-problem-as-an-attention-crisis-52253dbfe627); and we should see society-wide "joint attention" as, in fact, a Commons, like fresh air or clean water. But unlike air or water, synchronous attention is a manufactured scarcity.
 - Most of our [[news]] feeds are insular networks made up of people who get their info from the same filter bubble we do.
 - [Social media makes more sense when you view it as a place people go to perform rather than a place to communicate](https://collabfund.com/blog/thoughts/).
 - Social media provides an unfortunate filter: it dumbs down complex information. [Ideas don't pass perfectly from one person to another. Like a game of Telephone, the message gets mutated with each re-telling so, over time, ideas "evolve" to be more catchy, copy-able, contagious.](https://ncase.me/crowds/) The fittest ideas doesn't need to be true.

@@ -1,6 +1,6 @@
 # IPFS
 
-- It's a file system with [content based addressing](https://www.youtube.com/watch?v=5Uj6uR3fp-U).
+- It's a file system with [content based addressing](https://www.youtube.com/watch?v=5Uj6uR3fp-U). Instead of domains, you use the content as the domain. Because content can be very very long, we run a small program on it to produce a unique identifier based on that content (a hash). These identifiers are long enough that the possibility of two pieces of content creating the same one is virtually impossible.
   - Files are automatically deduplicated.
   - [It chunks, hashes and organizes blobs in a smart way](https://docs.google.com/presentation/d/1Gx8vSqrWZ7X-3SCgITXqQdinZQeXIAA7ITqL25SsPN8/edit#slide=id.g741b4d76cd_0_13).
 - Once something is added, it can't be changed anymore.

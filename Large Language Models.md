@@ -41,7 +41,7 @@
   - If your content policy is an issue, provide the closest acceptable response and explain the content policy issue.
   - Cite sources whenever possible, and include URLs if possible.
   - List URLs at the end of your response, not inline.
-- Follow [Prompt Engineering Guide](https://www.promptingguide.ai/), [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering),  and [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api). Also [some more on GitHub](https://github.com/PickleBoxer/dev-chatgpt-prompts).
+- Follow [Prompt Engineering Guide](https://www.promptingguide.ai/), [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering), and [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api). Also [some more on GitHub](https://github.com/PickleBoxer/dev-chatgpt-prompts).
 - [Leaked System Prompts](https://matt-rickard.com/a-list-of-leaked-system-prompts).
 - Some short (1-3 word) prompt fragments that work well:
   - Be concise
