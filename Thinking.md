@@ -76,6 +76,8 @@
 - [Cognitive ease](https://youtu.be/cebFWOlx848) makes us more likely to believe things that are familiar to us. Cognitive strain helps us avoid the pitfall of jumping to the intuitive but wrong answer. Both ways are useful in different situations, the key is to identify where to flow or fight against the cognitive ease.
 - Saying "that's a good point" doesn't lose the argument. It wins trust. Acknowledging a valid observation is a display of respect. It signals that you're [[Listening]] with an open mind, and motivates them to follow suit. You don't have to agree on everything to agree on something.
 - Every time you say "that's a good point", it gets easier for you to acknowledge good points in the future. Same happens when you say "I was wrong".
+- There are ways of helping that are more effective than others. E.g: [giving money is usually better than donating stuff](https://www.linkedin.com/feed/update/urn:li:activity:7259253204180221952). More flexible, [allows better logistics](https://www.linkedin.com/pulse/paradojas-sobre-la-ayuda-en-emergencias-y-las-ong-pablo-melchor--lgq3f/) (collecting and transporting water bottles versus buying in bulk and transporting them), local economy benefits, less waste, ...
+
 
 ## Resources
 
