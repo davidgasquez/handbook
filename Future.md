@@ -12,7 +12,7 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
 - The ignorance of Social Media and its [full impact on s_o_ciety](https://twitter.com/M_B_Petersen/status/1483457679800651787).
   - Is "being bad for society" an emergent property of social networks as they grow?
 - Current Voting Systems.
-- Not relying more into tools like Prediction Markets.
+- Not relying more into tools like Prediction Markets (e.g: [to spot papers that might not replicate](https://vitalik.eth.limo/general/2024/11/09/infofinance.html)).
 
 ## Predictions
 
@@ -36,6 +36,7 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
   - If you work in tech, this is a fun thought experiment. Imagine you don’t need any money and can devote your time to benefiting everyone by building common digital infrastructure. What would exist in a better future?
 - Content Addressed Data + Immutability
 - CRDTs
+- Distributed / decentralized data storage systems.
 - Homomorphic Encryption
 - Prolly/Merkle Trees
 - Differential/Timely Dataflow
