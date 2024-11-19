@@ -38,6 +38,7 @@
   - Follow the Z pattern.
   - Provide context.
 - Include additional highlight numbers, such as last month's total revenue vs. the planned revenue and the YoY growth. Plot against goals if possible. Have a reasonable goal, and plot your numbers against it!
+- [Don't use cumulative charts. They are always going up and hide the underlying trend](https://youtu.be/q94VJ3KToK8?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS).
 
 The value is that now discussions are happening about the data.
 
