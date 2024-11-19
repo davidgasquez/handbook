@@ -19,6 +19,7 @@
 - [Pelayo Arbués](https://pelayoarbues.github.io/)
 - [Tom Critchlow](https://tomcritchlow.com/wiki/)
 - [Mario López](https://brain.drmario.tech/)
+- [Alex Turner](https://turntrout.com/)
 
 ## Compilations
 

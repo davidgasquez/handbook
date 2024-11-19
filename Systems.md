@@ -28,6 +28,21 @@ Evolution is easier than revolution. A good approach to incrementally change a s
 2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes. Alter the incentive landscape. [If you can make your system less miserable, make your system less miserable!](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart)
 3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
+These are places within a complex system (a corporation, an economy, a living body, a city, an ecosystem) where a small shift in one thing can produce big changes in everything. These are [the places to intervene in a system](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) (in increasing order of effectiveness):
+
+12. Constants, parameters, numbers (such as subsidies, taxes, standards).
+11. The sizes of buffers and other stabilizing stocks, relative to their flows.
+10. The structure of material stocks and flows (such as transport networks, population age structures).
+9. The lengths of delays, relative to the rate of system change.
+8. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
+7. The gain around driving positive feedback loops.º
+6. The structure of information flows (who does and does not have access to information).
+5. The rules of the system (such as incentives, punishments, constraints).
+4. The power to add, change, evolve, or self-organize system structure.
+3. The goals of the system.
+2. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
+1. The power to transcend paradigms.
+
 **Don't aim for an ideal system. Build a set of [[processes]] and protocols that evolve to fit the environment over time.** [Complex systems fail](https://how.complexsystems.fail/).
 
 If everyone agrees the current system doesn't work well, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).

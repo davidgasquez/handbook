@@ -30,6 +30,7 @@
 - Modern data warehouses [might need new model design paradigms](https://github.com/ActivitySchema/ActivitySchema/blob/main/2.0.md).
 - Good data models make good products.
 - Behind every null value there is a story.
+- Take credit for your work. Get close to the business, figure out what the executives care about, and **communicate value not the work**.
 
 ## Resources
 
