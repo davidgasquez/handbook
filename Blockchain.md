@@ -20,4 +20,4 @@
 - Blockchains solve distribution problems but they don't solve the problem of who will add the money to the ecosystem. That's a political one. Unless there are good incentives to move to blockchains.
   - Once a system moves to a blockchain, it'll get its properties (e.g: transparency and verifiability).
 - Open source has the failure mode of not enough incentives, cryptocurrency has the failure mode of excessive and overly concentrated incentives.
-- Blockchain incentives can have large real world undesired second order consequences. E.g: Bitcoin incentivizes miners to use a lot of energy.
+- Blockchain incentives have large real world undesired second order consequences. E.g: Bitcoin incentivizes miners to use a lot of energy.
