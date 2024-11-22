@@ -9,3 +9,5 @@
   - To set the rules which govern users of their instance.
   - To set the rules which govern who they federate with.
 - It encourages fractal [[governance]] (e.g: communist at family level, liberal at state level, ...)
+  - Users can choose servers based on trust, privacy policies, and community standards, which can enhance security and user control over data.
+- [The network needs a way to preserve content when a node goes down (probably using content-addressed storage)](https://dustycloud.org/blog/how-decentralized-is-bluesky/).
