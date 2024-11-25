@@ -18,7 +18,7 @@ First, focus on [[Incentives]]. [Don't be angry at the people who are benefiting
 
 Keep in mind intervening in a system requires some kind of theory, some kind of model where the positive effects will definitely be better than the side effects - and given how little we know and how bad we are at prediction, this will probably be wrong. A great way to start is removing things, kind of like a negative intervention, and so probably good (e.g: you're unlikely to find a medicine as helpful as smoking is harmful, so focus on stopping smoking). Easy to replace systems get replaced by difficult to replace systems.
 
-[A complex system that works is invariably found to have evolved from a simple system that worked](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law)(more [elementary systems functions](https://en.wikipedia.org/wiki/Systemantics#Elementary_systems_functions)).
+[A complex system that works is invariably found to have evolved from a simple system that worked](<https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law>)(more [elementary systems functions](https://en.wikipedia.org/wiki/Systemantics#Elementary_systems_functions)).
 
 Complex systems usually have [attractor landscapes](https://ncase.me/attractors/) that can be used to change it. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/).
 
@@ -30,18 +30,18 @@ Evolution is easier than revolution. A good approach to incrementally change a s
 
 These are places within a complex system (a corporation, an economy, a living body, a city, an ecosystem) where a small shift in one thing can produce big changes in everything. These are [the places to intervene in a system](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) (in increasing order of effectiveness):
 
-12. Constants, parameters, numbers (such as subsidies, taxes, standards).
-11. The sizes of buffers and other stabilizing stocks, relative to their flows.
-10. The structure of material stocks and flows (such as transport networks, population age structures).
-9. The lengths of delays, relative to the rate of system change.
-8. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
-7. The gain around driving positive feedback loops.º
-6. The structure of information flows (who does and does not have access to information).
-5. The rules of the system (such as incentives, punishments, constraints).
-4. The power to add, change, evolve, or self-organize system structure.
-3. The goals of the system.
-2. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
-1. The power to transcend paradigms.
+1. Constants, parameters, numbers (such as subsidies, taxes, standards).
+2. The sizes of buffers and other stabilizing stocks, relative to their flows.
+3. The structure of material stocks and flows (such as transport networks, population age structures).
+4. The lengths of delays, relative to the rate of system change.
+5. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
+6. The gain around driving positive feedback loops.º
+7. The structure of information flows (who does and does not have access to information).
+8. The rules of the system (such as incentives, punishments, constraints).
+9. The power to add, change, evolve, or self-organize system structure.
+10. The goals of the system.
+11. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
+12. The power to transcend paradigms.
 
 **Don't aim for an ideal system. Build a set of [[processes]] and protocols that evolve to fit the environment over time.** [Complex systems fail](https://how.complexsystems.fail/).
 

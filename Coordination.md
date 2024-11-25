@@ -38,3 +38,5 @@
   - The idea of "structurelessness" does not prevent the formation of informal structures, it becomes a way of masking power.
   - Make the group structure explicit, not implicit. The rules of decision-making must be open and available to everyone, and this can happen only if they are formalized. Having an established process for decision-making ensures that everyone can participate in it to some extent.
 - [The more you need consensus, the less work you can do](http://hintjens.com/blog:100).
+- A way to coordinate without trust is relying on [[Blockchain]] and [[Cryptocurrencies]].
+- Coordinating is better than who takes the resources. The more you can coordinate, the more resources you can take ([Paretotopia](https://youtu.be/1lqBra8r468)).
