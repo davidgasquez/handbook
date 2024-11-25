@@ -18,7 +18,7 @@
 9. Plot and visualize the predictions (histograms, random prediction, ...) to make sure they're doing as expected. Explain the predictions with [SHAP](https://github.com/slundberg/shap).
 10. Think about what postprocessing heuristics can be done to improve or correct predictions.
 11. [Stack](https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html) classifiers ([example](https://www.kaggle.com/couyang/featuretools-sklearn-pipeline#ML-Pipeline)).
-12. Try AutoML models. For tabular data: [TPOT](https://github.com/EpistasisLab/tpot), [AutoSklearn](https://github.com/automl/auto-sklearn), [AutoGluon](https://auto.gluon.ai/stable/index.html), Google AI Platform, [PyCaret](https://github.com/pycaret/pycaret), [Fast.ai](https://docs.fast.ai/), [Alex](https://github.com/Alex-Lekov/AutoML_Alex).For time series: [AtsPy](https://github.com/firmai/atspy), [DeepAR](https://docs.aws.amazon.com/forecast/latest/dg/aws-forecast-recipe-deeparplus.html).
+12. Try AutoML models. For tabular data: [TPOT](https://github.com/EpistasisLab/tpot), [AutoSklearn](https://github.com/automl/auto-sklearn), [AutoGluon](https://auto.gluon.ai/stable/index.html), Google AI Platform, [PyCaret](https://github.com/pycaret/pycaret), [Fast.ai](https://docs.fast.ai/), [Alex](https://github.com/Alex-Lekov/AutoML_Alex).For time series: [AtsPy](https://github.com/firmai/atspy), [DeepAR](https://docs.aws.amazon.com/forecast/latest/dg/aws-forecast-recipe-deeparplus.html), [Nixtla's NBEATS](https://nixtlaverse.nixtla.io/neuralforecast/models.nbeats.html).
 
 ## Preprocessing Resources
 
