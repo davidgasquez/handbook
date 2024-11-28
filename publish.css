@@ -1,12 +1,12 @@
 .theme-dark {
-  --background-primary: #000000;
-  --background-primary-alt: #000000;
-  --background-secondary: #000000;
-  --background-secondary-alt: #000000;
-  --background-modifier-border: #333;
-  --text-accent-hover: #D08770;
-  --link-external-color: #D08770;
+  --background-primary: rgb(10 10 10);
+  --background-primary-alt: rgb(10 10 10);
+  --background-secondary: rgb(10 10 10);
+  --background-secondary-alt: rgb(10 10 10);
+  --background-modifier-border: rgb(82 82 82);
+  --text-accent-hover: rgb(202 138 4);
+  --link-external-color: rgb(202 138 4);
   --link-external-decoration: none;
-  --link-color: #D08770;
+  --link-color: rgb(202 138 4);
   --link-decoration: none;
 }

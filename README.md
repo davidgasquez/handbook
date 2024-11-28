@@ -6,7 +6,7 @@ Personal bits of living knowledge, open for everyone.
 
 - 🛠️ Explore [this Handbook on GitHub](https://github.com/davidgasquez/handbook). Send a [Pull Request](https://github.com/davidgasquez/handbook/pulls) or [fill an issue](https://github.com/davidgasquez/handbok/issues) if you have any feedback!
 - 🗺️ Explore any topic you find interesting on the left sidebar.
-- 📣 [Reach out](https://davidgasquez.github.io/) if you want to chat!
+- 📣 [Reach out](https://davidgasquez.com/) if you want to chat!
 
 ---
 
