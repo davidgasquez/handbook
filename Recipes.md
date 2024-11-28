@@ -112,6 +112,6 @@
 ### Steps
 
 1. Blend everything together.
-2. Add some water if it's too thick.
+2. Add some water (aquafaba) if it's too thick.
 3. Add some olive oil and paprika on top.
 4. Serve with pita bread.
