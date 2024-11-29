@@ -26,6 +26,7 @@
 
 ### Checklist
 
-- Download podcasts, albums or other media.
+- Download podcasts, music or other media.
+- Download maps of the destination.
 - Do all the check-ins.
 - Empty wallet of useless things in the destination.
