@@ -94,11 +94,6 @@ Instead of building the tool, we can start with a standard protocol and let othe
 - Since Ethereum wallets are public, you can get good data on which tokens people similar to you are holding.
 - This might be useful to discover new assets.
 
-### Blockchain Data Pipelines Connectors
-
-- There is no Airbyte for blockchains.
-- Everyone is reinventing the wheel, e.g: Dune does ETL, Flipside does it too, ...
-
 ### Structured Company Changelog
 
 - Create and maintain a _Company Changelog_ in a table (structured and parse-able format) so it can be fed to something like Mixpanel or joined to other datasets to do analysis.
