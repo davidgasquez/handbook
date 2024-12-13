@@ -17,7 +17,6 @@
   - [Trello](https://dework.xyz/)
   - [Notion](https://www.clarity.so/)
   - [Medium](https://mirror.xyz/dashboard)
-  - [Search](https://slate.host/)
   - [Imgur](https://www.pinata.cloud/)
   - [Netlify](https://fleek.co/)
   - [Firebase](https://textile.io)
@@ -95,7 +94,6 @@ There is an emerging landscape of [Data and Blockchain](https://www.primodata.or
 ### Bounty Based Collaboration
 
 - [Bounties Network](https://bounties.network/) - Find freelancers and bounty programs for any task paid in any token on Ethereum.
-- [Open Bounty](https://openbounty.status.im/) - Bounty-based collaboration tool that plugs right into GitHub.
 - [Gitcoin](https://gitcoin.co/) - The easiest way to leverage the open source community to incentivize or monetize work.
 - [Inmunefy](https://immunefi.com/) - Web3's leading bug bounty platform, protecting $100 billion in user funds.
 - [DAOexchange](https://daoexchange.app/). Cross-DAO bounty board.

@@ -43,7 +43,7 @@ Decision making is the process we use to identify and choose alternatives, produ
 - If you're in between two decisions, don't half-ass both of them! Do one 100%, then do the other 100%.
 - People reason more wisely about other people's problems than about their own.
 - When you share something, add the level of confidence you have on it.
-- [Understand your personal stance on the trade-off of compromise versus purity](https://vitalik.ca/general/2020/11/08/concave.html). Given a choice between two alternatives, often both expressed as deep principled philosophies, do you naturally gravitate toward the idea that one of the two paths should be correct and we should stick to it, or do you prefer to find a way in the middle between the two extremes?
+- [Understand your personal stance on the trade-off of compromise versus purity](https://vitalik.eth.limo/general/2020/11/08/concave.html). Given a choice between two alternatives, often both expressed as deep principled philosophies, do you naturally gravitate toward the idea that one of the two paths should be correct and we should stick to it, or do you prefer to find a way in the middle between the two extremes?
 - [It's often not _how much force_ you can bring to bear, so much as whether you can apply that force _effectively_](https://www.lesswrong.com/posts/rQKstXH8ZMAdN5iqD/concentration-of-force).
 
 ![schema](https://miro.medium.com/max/700/1*9H9letDTBO0IvuGbYN4x6A.png)

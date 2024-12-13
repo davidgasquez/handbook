@@ -16,7 +16,7 @@
   - Automated code formatting.
   - Templates for new projects and components.
   - Mechanisms for creating test data.
-  - Invest in [thoughtful logging](https://www.16elt.com/2023/01/06/logging-practices-I-follow/a).
+  - Invest in [thoughtful logging](https://www.16elt.com/2023/01/06/logging-practices-I-follow/).
 - Create a [[Company Handbooks|handbook]] to store your [[Company Knowledge Management|company knowledge]]. Document:
   - [[Processes]].  Status updates, [[Design Docs]], [on-boarding docs/scripts](https://about.gitlab.com/blog/2020/02/10/lessons-learned-as-data-team-manager/),  [[Checklist]], ...
   - Decisions. Context and rationale can be documented in a durable location.
@@ -28,7 +28,7 @@
   - Responsibilities. Things that aren't your fault can still be your responsibility. If something is everyone's job, it's no one's job.
   - Defaults. Each thing should have a place by default, docs, issues, ...
 - Aim to be a completely autonomous team. Everyone should feel empower to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.
-  - [A team's ability to operate autonomously relies on alignment, which is strengthened by context](https://macroapp.io/blog/the-context-warehouse).
+  - [A team's ability to operate autonomously relies on alignment, which is strengthened by context](https://web.archive.org/web/20230605055308/https://macroapp.io/blog/the-context-warehouse).
   - You can also have no durable cross-functional teams. Teams assemble around a project and disperse once the project is done.
 - Run [Automated Check-ins](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
 - The right way to promote people is to give them [meaningful and clear goals](https://youtu.be/oIMvMb5wVO4) for the organization and promote them if they hit the goals.

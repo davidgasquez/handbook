@@ -9,5 +9,5 @@ You can explore all the podcast I'm subscribed to in [my PocketCast list](https:
 - [Mindscape](https://www.preposterousuniverse.com/podcast/). Conversations with the world's most interesting thinkers. Science, society, philosophy, culture, arts, and ideas.
 - Spanish.
 - [Fall of Civilizations](https://fallofcivilizationspodcast.com/). A podcast that explores the collapse of different societies through history.
-  - [Gabinete de Curiosidades](https://www.gabinetepodcast.com/).
+  - [Gabinete de Curiosidades](https://web.archive.org/web/20240528141801/https://www.gabinetepodcast.com/).
   - [Kaizen](https://www.jaimerodriguezdesantiago.com/).

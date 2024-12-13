@@ -227,7 +227,7 @@ I use it as a generic term to refero to data and content that can be freely used
 
 ### Data Package Managers
 
-- [Qri](https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down).
+- [Qri](https://web.archive.org/web/20240413160218/https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down).
 - [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/)
   - Is a [great tool](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/) and uses Git Annex (distributed binary object tracking layer on top of git).
   - Complicated to wrap your head around. Lots of different commands and concepts. On the other hand, it's very powerful and flexible. Git Annex is complex but powerful and flexible.
