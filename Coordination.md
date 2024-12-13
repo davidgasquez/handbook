@@ -4,7 +4,7 @@
   - Coordination problems are a [constraint to production of all kinds of economic value](https://www.lesswrong.com/posts/P6fSj3t4oApQQTB7E/coordination-as-a-scarce-resource).
   - All problems are coordination problems. Moloch is at the end of all!
   - The Second Law of Consulting: No matter how it looks at first, it's always a people problem.
-- [Coordination](https://vitalik.ca/general/2020/09/11/coordination.html), the ability for large [[Teamwork|groups of actors to work together]] for their common interest, is one of the most powerful forces in the universe. It can be improved in many ways:
+- [Coordination](https://vitalik.eth.limo/general/2020/09/11/coordination.html), the ability for large [[Teamwork|groups of actors to work together]] for their common interest, is one of the most powerful forces in the universe. It can be improved in many ways:
   - Faster spread of information.
   - Better norms that identify what behaviors are classified as cheating along with more effective punishments.
   - Stronger and more powerful [[organizations]].

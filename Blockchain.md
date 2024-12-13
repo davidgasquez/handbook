@@ -1,7 +1,7 @@
 # Blockchain
 
 - [A blockchain is a decentralized [[Databases|database]]](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
-  - A blockchain is a worse database. It is slower, requires way more storage and compute, doesn't have customer support, etc. [But has one dimension along which it is radically different. No single entity or small group of entities controls it](https://continuations.com/post/671863718643105792/web3crypto-why-bother).
+  - A blockchain is a worse database. It is slower, requires way more storage and compute, doesn't have customer support, etc. [But has one dimension along which it is radically different. No single entity or small group of entities controls it](https://continuations.com/web3crypto-why-bother).
 - Blockchain solve the Byzantine Generals Problem: [How do participants in a decentralized network communicate and coordinate with each other towards some action without relying on a trusted third-party?](https://a16z.com/2019/11/08/crypto-glossary/).
   - Blockchains are "trustless". There are mechanisms in place by which all parties in the [[Systems|system]] can reach a consensus on what the canonical truth is.
   - Power and trust is distributed (or shared) among the network's stakeholders (e.g. developers, miners, and consumers), rather than concentrated in a single individual or entity (e.g. banks, governments, and financial institutions).

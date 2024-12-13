@@ -18,7 +18,7 @@
 - [Meritocracy isn't an "-ocracy" like democracy or autocracy, where people in wigs sit down to frame a constitution and decide how things should work. It's a dubious abstraction over the fact that people prefer to have jobs done well rather than poorly, and use their financial and social clout to make this happen](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart).
 - [There's an imbalance between doing things and preventing things](https://astralcodexten.substack.com/p/ezra-klein-on-vetocracy). If a leader does something, and it's bad, then journalists will be on the scene to interview the victims of their failure, protesters can march against their abuses of power, etc. If a leader doesn't do something, and it would have been good, this is invisible except in rare cases. As the media becomes better at covering things, people become more outraged by abuses, we should expect the number of new policies that have large impact to go down.
   - [[Problem Solving|When you observe or interact with a problem in any way, you can be blamed for it. At the very least, you are to blame for not doing more]].
-- [Processes that create durable change need to be bulldozery toward the status quo but protecting that change requires a vetocracy](https://vitalik.ca/general/2021/12/19/bullveto.html). There's some optimal rate at which such [[processes]] should happen; too much and there's chaos, not enough and there's stagnation.
+- [Processes that create durable change need to be bulldozery toward the status quo but protecting that change requires a vetocracy](https://vitalik.eth.limo/general/2021/12/19/bullveto.html). There's some optimal rate at which such [[processes]] should happen; too much and there's chaos, not enough and there's stagnation.
 - Your perception of reality has probably been at least a little manipulated. Your opponents are behaving the way they are based on a perception of reality that's different from your own.
   - What does this look/feel like to the people I don't know?
 - Everyone belongs to a tribe and underestimates how influential that tribe is on their thinking. Tribes reduce the ability to challenge ideas or diversify your views because no one wants to lose support of the tribe. Tribes are as self-interested as people, encouraging [[ideas]] and narratives that promote their survival. But they're exponentially more influential than any single person. So tribes are very effective at promoting views that aren't analytical or rational, and people loyal to their tribes are very poor at realizing it.
@@ -52,7 +52,6 @@
 
 - [Charter Cities](https://youtu.be/mSHBma0Ithk).
 - [Quadratic Voting](http://ericposner.com/quadratic-voting/) and [Quadratic Funding](https://wtfisqf.com/).
-  - [Online Quadratic Voting](https://quadraticvote.co/).
 - [Georgism](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty).
 - [Prediction Markets](https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the) as a tool for accountability. [FAQ](https://astralcodexten.substack.com/p/prediction-market-faq).
 - [Pol.is](https://pol.is/home).
