@@ -79,7 +79,6 @@
 - [Coursera](https://www.coursera.org/) - Online learning from the world's best universities and companies
 - [Explorable Explanations](https://explorabl.es/) - A hub for learning through play
 - [Explained Visually](http://setosa.io/ev/) -  Experiment in making hard ideas intuitive using visualizations
-- [No Excuse List](http://noexcuselist.com/) - The best place on the web to learn anything, free
 
 ### Computer Science
 
@@ -87,12 +86,11 @@
 - [Exercism](http://exercism.io/) - Code practice and mentorship for everyone
 - [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/) - Cool visualizations of common algorithms used in Computer Science
 - [Google Developers Codelabs](https://codelabs.developers.google.com/) - Guided, tutorial, hands-on coding experience on Google Products.
-- [Google AI Hub](https://aihub.cloud.google.com/u/0/) - Learn, build and share notebooks, models, and other AI components.
 - [Katacoda](https://www.katacoda.com/) - Learn new technologies using real environments
 right in your browser.
 - [Hackr](http://hackr.io/) - Search for courses on any language, framework or [[Programming]] topic
 - Hardware
-  - [GPUBoss](http://gpuboss.com/) - Compare graphics cards head to head
+  - [UserBenchmark](https://gpu.userbenchmark.com/) - Compare GPUs
   - [PC Part Picker](https://pcpartpicker.com/) - Build guides, which cover systems for all use-cases and budgets, or create your own and share it with our community
   - [Logical Increments](http://www.logicalincrements.com/) - The PC builder's tier list
 
@@ -107,5 +105,4 @@ right in your browser.
 - Privacy
   - [Reddit r/privacy  Wiki](https://www.reddit.com/r/privacy/wiki/index) - Guide to becoming more secure online
   - [Privacy Tools](https://www.privacytools.io/) - Provides knowledge and tools to protect your privacy against global mass surveillance
-  - [Switching Social](https://switching.social/) - Ethical, easy-to-use and privacy-conscious alternatives to multiple tools
 - [Track Awesome List](https://www.trackawesomelist.com/). Track [awesome](https://github.com/sindresorhus/awesome) lists about all kinds of interesting topics.

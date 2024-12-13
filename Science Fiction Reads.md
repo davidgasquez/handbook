@@ -2,7 +2,7 @@
 
 Some great sci-fi reads I've enjoyed:
 
-- [The Last Question](https://www.physics.princeton.edu/ph115/LQ.pdf). Asimov.
+- The Last Question. Asimov.
 - Project Hail Mary. Andy Weir.
 - Exhalation and Story of Your Life. Ted Chiang.
 - Flowes for Algernon. Daniel Keyes.

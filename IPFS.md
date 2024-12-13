@@ -9,6 +9,7 @@
   - They provide Portability and Openness.
 - Keeping files available is a challenge. If the nodes storing a file go down, it'll disappear from the network.
   - Filecoin idea was to help with this adding incentives to the equation.
+- [Content addressing enables robust data integrity checks and efficient networking: systems can verify they received exactly what they asked for and avoid downloading the same content twice. The linked data part lets you link to stuff by its hash. You can build very big graphs with these primitives](https://dasl.ing/).
 
 ## [IPLD](https://ipld.io/)
 

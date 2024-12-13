@@ -11,12 +11,7 @@
 
 ## Tools
 
-- [LangChain](https://python.langchain.com/en/latest/)
-- [Llama Index](https://github.com/jerryjliu/llama_index)
-- [Llama Hub](https://llamahub.ai/)
-- [Shell GPT](https://github.com/TheR1D/shell_gpt)
-- [Scapeghost](https://jamesturk.github.io/scrapeghost/)
-- [Kor](https://eyurtsev.github.io/kor/index.html)
+- [Curated GitHub Starts list](https://github.com/stars/davidgasquez/lists/robot-llms)
 
 ### FrontEnds
 

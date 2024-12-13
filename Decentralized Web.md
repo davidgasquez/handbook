@@ -12,7 +12,7 @@
 ## Resources
 
 - [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) and the [Web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack).
-- [Kernel Community](https://kernel.community/en/learn/).
+- [Kernel Community](https://kernel.community/).
 - Decentralized friendly and open source alternatives:
   - [Trello](https://dework.xyz/)
   - [Notion](https://www.clarity.so/)
@@ -51,7 +51,7 @@ There is an emerging landscape of [Data and Blockchain](https://www.primodata.or
 - [Tokenflow](https://tokenflow.live/)
 - [Indexed.xyz](https://github.com/indexed-xyz)
 - [BitQuery](https://bitquery.io/) ([GitHub](https://github.com/bitquery/explorer))
-- [Coherent](https://coherent.xyz/) ([GitHub](https://github.com/coherentopensource))
+- [Coherent](https://coherent.xyz/)
 - [Covalent](https://www.covalenthq.com/) ([GitHub](https://github.com/covalenthq))
 - [Nansen](https://www.nansen.ai/)
 - [Footprint](https://www.footprint.network/) ([GitHub](https://github.com/footprintanalytics))
@@ -96,7 +96,6 @@ There is an emerging landscape of [Data and Blockchain](https://www.primodata.or
 - [Bounties Network](https://bounties.network/) - Find freelancers and bounty programs for any task paid in any token on Ethereum.
 - [Gitcoin](https://gitcoin.co/) - The easiest way to leverage the open source community to incentivize or monetize work.
 - [Inmunefy](https://immunefi.com/) - Web3's leading bug bounty platform, protecting $100 billion in user funds.
-- [DAOexchange](https://daoexchange.app/). Cross-DAO bounty board.
 - [OnlyDust](https://www.onlydust.xyz/). Contribute to innovative projects, refine your skills and create a lasting impact in the developer community.
 
 #### Analytic Bounties
@@ -104,7 +103,6 @@ There is an emerging landscape of [Data and Blockchain](https://www.primodata.or
 - [Dune](https://twitter.com/dune_bounties).
 - [Flipside](https://flipsidecrypto.xyz/).
 - [MetricsDAO](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe).
-- [Unigrants Community Analytics](https://unigrants.notion.site/Unigrants-Community-Analytics-b09bbb16579d4a569b7e2d393afc4459)
 
 #### Data Engineering Folks
 

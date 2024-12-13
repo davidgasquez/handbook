@@ -1,10 +1,10 @@
 # Social Games
 
-- [Hanabi](https://hanabi.cards/).
+- Hanabi.
 - [Wavelength](https://gjeuken.github.io/telewave). [Alternative](https://longwave.web.app/).
-- [Codenames](https://www.horsepaste.com/). [Alternative](http://those.codes/). Can be also played with [Dixit cards](https://meteuphoric.files.wordpress.com/2016/06/pic2664878_lg.jpg).
-- [Wits and Wagers](https://www.mindblastgames.com/wits/).
-- [Diplomacy](https://play.google.com/store/apps/details?id=se.oort.diplicity). Also [Conspiracy](https://play.google.com/store/apps/details?id=com.badfrog.conspiracy.app), [Primacy](https://www.playprimacy.com/landing) and [Backstabbr](https://www.backstabbr.com/).
+- [Codenames](https://www.horsepaste.com/). Can be also played with [Dixit cards](https://meteuphoric.files.wordpress.com/2016/06/pic2664878_lg.jpg).
+- Wits and Wagers.
+- [Diplomacy](https://play.google.com/store/apps/details?id=se.oort.diplicity). Also [Backstabbr](https://www.backstabbr.com/).
 - [The Schelling Game](https://www.lesswrong.com/posts/kM3Xd2mJeWtsGkgSW/the-schelling-game-a-k-a-the-coordination-game). Discern Schelling points among the group.
 - [Aumann Agreement Game](https://docs.google.com/document/d/1gCKURs0Xdnb8PQS54rckS4CJUp8kCklKs2KKi7xDZdA/edit#). Also possible to [play online](https://aumann.io/).
   - [Calibration Questions](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population).

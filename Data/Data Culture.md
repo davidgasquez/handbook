@@ -18,7 +18,7 @@
       - Business Reviews are one of the best ways to get people to think about data.
   - Value of clear goals and expectations. Validate what you think your job is with your manager and stakeholders, repeatedly.
 - [Weekly Business Review meetings are a process control tool](https://commoncog.com/the-amazon-weekly-business-review/). A tool designed to uncover and disseminate the causal structure of a business.
-- [While the output of your team is what you want to maximize, you'll need some indicators that will help guide you day-to-day](https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/). Decide what's important to you (test coverage, documentation missing, queries run, models created, ...), and generate some internal reports for yourself.
+- [While the output of your team is what you want to maximize, you'll need some indicators that will help guide you day-to-day](http://web.archive.org/web/20240303143022/https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/). Decide what's important to you (test coverage, documentation missing, queries run, models created, ...), and generate some internal reports for yourself.
 - [Data teams should be a part of the business conversations from the beginning](https://cultivating-algos.stitchfix.com/). Get the data team involved early, have open discussions with them about the existing work, and how to prioritize new work against the existing backlog. Don't accept new work without addressing the existing bottlenecks, and don't accept new work without requirements. **Organizational [[politics]] matter way more than any data methods or technical knowledge**. The hard bit about becoming data driven in business isn't the technical bits. It's the political bits.
   - Including data people in meetings causes happy accidents!
   - The layout of the organization impacts time of the information to propagate and adds losses.
@@ -28,7 +28,7 @@
     - [People talk about data as the new oil but for most companies it's a lot closer uranium](https://news.ycombinator.com/item?id=27781286). Hard to find people who can to handle or process it correctly, nontrivial security/liabilities if PII is involved, expensive to store and a generally underwhelming return on effort relative to the anticipated utility.
 - The purpose of becoming data driven is to build a causal model of the business in your head. The purpose of doing all this work is that you want to understand how your business actually works and grows, not rely on superstitious beliefs about how your business works and grows.
   - You become data driven by looking at the data and not that much by hiring/expanding the data team. You can't outsource it.
-- [The pain in data teams come from needing to influence PMs/peers with having little control of them. Data teams need to become really great internal marketers/persuaders](https://anchor.fm/census/episodes/The-evolution-of-the-data-industry--data-jobs-w-Avo-CEO-and-Co-founder-Stefania-Olafsdottir-e16hu1l). That said, it shouldn't be the data team job to convince the organization to be data driven. That's not an effective way of spending resources.
+- [The pain in data teams come from needing to influence PMs/peers with having little control of them. Data teams need to become really great internal marketers/persuaders](http://web.archive.org/web/20210827235335/https://anchor.fm/census/episodes/The-evolution-of-the-data-industry--data-jobs-w-Avo-CEO-and-Co-founder-Stefania-Olafsdottir-e16hu1l). That said, it shouldn't be the data team job to convince the organization to be data driven. That's not an effective way of spending resources.
   - Executives are expected to be data driven, even if they don't know what it means.
   - Epistemology of the leadership team really really matters.
 - People problems are orders of magnitude more difficult to solve than data problems.
@@ -96,7 +96,7 @@
   - Data doesn't so much drift towards entropy, **but sprints at it**.
   - [Navigating the chaos to arrive at a trustworthy recommendation is one of the most important jobs to be done.](https://roundup.getdbt.com/p/iterating-on-your-data-team). Decisions usually need to be taken faster and data analyst are [not invited to the table early enough](https://petrjanda.substack.com/p/bring-data-analyst-to-the-table). Again, be lean and iterate.
   - Data is *not* a "set it and forget it" kind of activity. Your dashboard *will* get stale in less than six months. Your key metrics *will* eventually have bad data in them. That machine learning model you spent all of last quarter developing *will* **[drift](https://towardsdatascience.com/model-drift-in-machine-learning-models-8f7e7413b563)** from its original fit. The environment in which your business operates is constantly changing, and so will the product or service that your business delivers. As a result, what is knowable about your business, about your product or service, is constantly changing too. And fast.
-- [Have regular cleanups and audits to keep data in check](https://www.avo.app/blog/data-literacy-why-people-dont-trust-data-tips-from-patreons-dir-of-data-science). They are crucial to keeping your data trust up to par. [Schedule time to delete stuff](https://twitter.com/EdDaWord/status/1532148425487097857).
+- [Have regular cleanups and audits to keep data in check](http://web.archive.org/web/20231004070856/https://www.avo.app/blog/data-literacy-why-people-dont-trust-data-tips-from-patreons-dir-of-data-science). They are crucial to keeping your data trust up to par. [Schedule time to delete stuff](https://twitter.com/EdDaWord/status/1532148425487097857).
 - We're moving from software consumers to data consumers. Data and BI will become more and more federated (you get data insights on your JIRA card without having to leave JIRA)
 - Over time, data literacy across organizations will become commonplace the same way typewriting has. [Most professionals, at all levels of the business, will be capable of generating their own insights without requiring a data team](https://roundup.getdbt.com/p/data-expertise-everywhere).
 - Data practitioners acknowledge that solid reporting is at the bottom of the data hierarchy of needs but few companies do even basic KPI reporting well.
@@ -108,7 +108,7 @@
     - 1. Get a well-placed leader with influence to message, model, and demand data-driven execution.
     - 2. Hire/fire based on data aptitude and usage.
     - 3. Create mechanisms that force analytical conversations. Sometimes there is no way around spending an afternoon breaking down metrics by different segments until you find The Thing.
-- [Start small. Don't try to wrangle data for the entire company until you have the tools and process down for one team](https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/).
+- [Start small. Don't try to wrangle data for the entire company until you have the tools and process down for one team](http://web.archive.org/web/20240303143022/https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/).
   - Difficulty to work with data scales exponentially with size.
   - [Rule of thumb; your first customer as a data person should be growth](https://twitter.com/josh_wills/status/1577699871335010304).
 - [Data is used largely to answer these questions](https://roundup.getdbt.com/p/bring-back-scenario-analysis):
@@ -125,7 +125,7 @@
 - [Differentiate analytics from data platform work. They are two different jobs, and expecting one to do the work of the other is a trap](https://twitter.com/jamesdensmore/status/1518998298111225857).
   - Data Platform: data infra, pipelines, and a bit of data warehouse modeling
   - Analytics: Making sense of data to guide decisions
-- Make your [modeling technique](https://data-columns.hightouch.io/untitled-2/) explicit.
+- Make your [modeling technique](hhttps://web.archive.org/web/20230925091656/https://data-columns.hightouch.io/untitled-2/) explicit.
 - Have a documentation [entry-point for Data](https://github.com/mozilla/data-docs).
 - [For self-serve, aim to own as little as possible but keep in mind you can't make people do what you want but can stop them for doing what you don't want](https://youtu.be/wyW6hQGZxgY)
   - [You need to make a grocery store. You can't give folks directions to the farm to pick their own produce](https://twitter.com/teej_m/status/1603205457992044545).
