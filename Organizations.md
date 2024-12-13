@@ -60,7 +60,7 @@
 - As in other complex [[systems]], we usually blame individuals instead of exploring the root causes. The problem is rarely someone being a villain. It's almost always the system.
 - [When facing organizational problems do not; ignore them, give up, switch to a top down approach, involve more "lead people", rely on heroes or aim for perfection](https://komoroske.com/slime-mold/).
 - Periodically observe pain points that cost productivity, and task people to reduce them, thereby producing more compound leverage across the whole organization.
-- [In any organization, the people devoted to the benefit of the organization itself always get in control and those dedicated to the goals that the organization is supposed to accomplish have less and less influence, and sometimes are eliminated entirely](https://www.jerrypournelle.com/reports/jerryp/iron.html).
+- [In any organization, the people devoted to the benefit of the organization itself always get in control and those dedicated to the goals that the organization is supposed to accomplish have less and less influence, and sometimes are eliminated entirely](https://en.wikipedia.org/wiki/Jerry_Pournelle#Pournelle's_iron_law_of_bureaucracy).
 - Leaders in a healthy organization [[Communication|listen and communicate]].
 - Organizations naturally move towards growth: more people, more systems, more conflicting worldviews. To facilitate action, communication systems _will_ be established. Make sure these are effective.
 - A company is a superorganism.
