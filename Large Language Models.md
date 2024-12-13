@@ -7,6 +7,7 @@
 
 - Use comments to guide the model to do what you want.
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one.
+- English is becoming the hottest new programming language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
 
 ## Tools
 

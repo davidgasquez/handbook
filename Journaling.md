@@ -1,9 +1,13 @@
 # Journaling
 
 - Journaling is a "keystone" habit. It tightly locks all of your other [[habits]] in place.
+  - Every day at some point, just open up a diary, add the date, then start writing. Write what you did today, and how you are feeling, even if it seems boring.
+  - [Use it as a place to ask yourself questions, and answer them](https://sive.rs/dj).
 - It helps build a self evaluation loop in your life. It gives you the ability to discover what were you thinking and how the decisions turned out. If you don't reflect on your past, any improvements you do in the future will be by randomness.
+  - You're doing this for your future self. Future you will want to look back at this time in your life, and find out what you were actually doing, day-to-day, and how you really felt back then. It will help you make better decisions.
 - When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.
 - [Journal about things, people, or situations for which you are grateful](https://youtu.be/fSwpe8r50_o). Consider including negative situations like avoiding an accident, for instance. **Be specific!**
+- If you care about your thoughts, keep them.
 - The development of a coherent narrative helps you reorganize and structure old memories, making them less traumatic.
 - [[Writing]] on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.
 - **Premeditatio Malorum**. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.
