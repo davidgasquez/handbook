@@ -72,6 +72,7 @@
 - Bureaucracy develops through deliberate decisions that seemed logical at the time, not just as a natural consequence of growth. Two main causes of bureaucracy are:
   - Poorly designed incentive systems that punish mistakes but don't reward success.
   - Loose coupling between [[systems]]/[[processes]] and desired outcomes.
+- Being right is not sufficient to propel organizational change. The hard problem of a business is affecting change, and the bigger the organization, the harder it is to affect that change.
 
 ## Resources
 

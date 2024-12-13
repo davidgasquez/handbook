@@ -23,7 +23,7 @@
 1. Include the purpose of the Pull Request.
 2. Provide an overview of why the work is taking place. Give a good background on why the change is happening.
 3. Be explicit about what feedback you want, if any: a quick pair of :eyes: on the code, discussion on the technical approach, critique on design, a review of copy.
-   - [Explicitly list how to perform validation](https://www.brautaset.org/posts/levelling-up-pull-requests.html).
+  - [Explicitly list how to perform validation](https://www.brautaset.org/posts/levelling-up-pull-requests.html).
 4. [Offering feedback](https://mtlynch.io/human-code-reviews-1/)
 5. Familiarize yourself with the context of the issue, and reasons why this Pull Request exists.
 6. Ask, don't tell.
