@@ -18,3 +18,4 @@
 - Do stuff in public. Think in public. Write in public. Ship in public. [Doing things publicly attracts like-minded people and opportunities that you wouldn't be able to easily otherwise find](https://www.lesswrong.com/posts/dEAmXSyXnpFFc9wgd/21-on-21).
 - You find what you like by trying it, not by thinking about it.
 - Digital things don't have to be skeuomorphic.
+- When asking for something, go out of your way to make extremely clear (beforehand, not after a person has already answered) that [a no is perfectly fine](https://www.lesswrong.com/posts/GLpFovxZdwXYwmbkJ/failures-in-kindness) and really comes at no risk to the other person.

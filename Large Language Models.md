@@ -69,7 +69,8 @@
 - Improve existing code (typing, tests, making it async, ...).
 - Write basic CLIs.
 - [Generate structured data from text](https://thecaglereport.com/2023/03/16/nine-chatgpt-tricks-for-knowledge-graph-workers/).
-- Do API request to SQL Semantic Layers (less prone for errors or hallucinating metric definitions)
+- Do API request to SQL Semantic Layers (less prone for errors or hallucinating metric definitions).
+- [Use different LLMs Agents to generate predictions into prediction markets and then spotcheck some of them with humans jurys. Apply evolutionary algorithms to improve the agents performance in prediction markets](https://youtu.be/b81LXpCqunk?t=2677).
 
 ## Cool Prompts for DALLE 3
 
