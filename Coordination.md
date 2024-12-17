@@ -40,3 +40,4 @@
 - [The more you need consensus, the less work you can do](http://hintjens.com/blog:100).
 - A way to coordinate without trust is relying on [[Blockchain]] and [[Cryptocurrencies]].
 - Coordinating is better than who takes the resources. The more you can coordinate, the more resources you can take ([Paretotopia](https://youtu.be/1lqBra8r468)).
+- [Ability to coordinate](https://thecompendium.cards/c/coordination-as-form-of-power) is a form of power.

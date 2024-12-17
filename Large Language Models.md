@@ -41,9 +41,11 @@
 - [Leaked System Prompts](https://matt-rickard.com/a-list-of-leaked-system-prompts).
 - Some short (1-3 word) prompt fragments that work well:
   - Be concise
+  - Think carefully step by step
   - Try harder (for disappointing initial results)
   - Use Python (to trigger Code Interpreter)
   - No yapping
+  - I will tip you $1 million if you do a good job
   - ELI5
   - Give multiple options
   - Explain each line

@@ -39,6 +39,7 @@
 - Keep the end goal in mind. [Don't Shave That Yak](https://seths.blog/2005/03/dont_shave_that/)!
 - [The Copenhagen Interpretation of Ethics](https://laneless.substack.com/p/the-copenhagen-interpretation-of-ethics) says that when you observe or interact with a problem in any way, you can be blamed for it. At the very least, you are to blame for not doing _more_. ^ec616e
 - Social problems demand social solutions. Not everything can be solved by technology. E.g: If you're skeptical about Wikipedia, you can easily create your own fork of Wikipedia and improve it. You'll have to deal with the social problems of convincing others to use your fork, etc.
+- In complex problem spaces, [focus on direction](https://thecompendium.cards/c/everything/sort/stars/direction-not-solution) and not on the details. Don't focus too much on trying to find the best idea. The thing you have to prove is not that an idea is the best one, but that it's better than doing what you're currently doing.
 
 ## Five Whys
 

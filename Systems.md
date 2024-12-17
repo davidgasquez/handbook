@@ -57,7 +57,7 @@ A [[Mental Models|mental model]] of a system is the reduction of how it works. T
 
 Remember, sometimes not doing something is better than doing it ([Primum non nocere](https://en.wikipedia.org/wiki/Primum_non_nocere)). E.g: controlling small fires instead of letting them burn the top layer of the forest. Spending 1 week repairing trains because there was an accident makes people use the car more, turning into more deaths than leaving the train rails as they were.
 
-> _Almost no one is evil; almost everything is broken._
+> _[Almost no one is evil](https://thecompendium.cards/c/everything/sort/stars/assume-theres-no-villain); almost everything is broken._
 
 ## Inadequate Equilibria
 
