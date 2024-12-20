@@ -47,6 +47,7 @@
 - There are [better ways to build a ballot](https://ncase.me/ballot/).
 - Approval voting is usually a good choice. Is simple to explain and to count, and comprehensibility is an important factor when choosing a voting method. That said, there are [really good alternatives](https://electionscience.github.io/vse-sim/VSEbasic/).
 - Voting isn't really a way to get rid of conflict - it just pushes it underground. Spend the time [[Talking]] about it.
+- Pairwise comparison methods can help find consensus by comparing options two at a time. This reduces cognitive load and can reveal subtle preferences that might be missed in traditional voting. [Because each comparison is "local"](https://deepfunding.org/), you never have to answer difficult grand questions like "what are my top 5 projects". Instead, you answer much more concrete questions like "which of these two projects is more important to me?".
 
 ## Interesting Ideas
 
