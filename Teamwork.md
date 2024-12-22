@@ -128,6 +128,8 @@
   - Give them time to think.
   - Point them to helpful tools.
   - Test their work systematically.
+- Make [small, achievable changes rather than large risky leaps](https://medium.com/@komorama/the-iterative-adjacent-possible-af3e7038357d). Each step should be within the "adjacent possible" - what can be realistically accomplished.
+- Prefer combining proven components in new ways over building everything from scratch.
 
 ## [How Small Teams Work](https://posthog.com/handbook/people/team-structure/why-small-teams#how-it-works)
 
