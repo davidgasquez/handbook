@@ -27,3 +27,7 @@ Some great advice for [public speaking presentations](https://web.archive.org/we
 - [Sli.dev](https://sli.dev/)
 - [Marp](https://marp.app/)
 - [Make beautiful slides](https://ines.io/blog/beginners-guide-beautiful-slides-talks/)
+
+## Great Talks
+
+- [How to Land the Space Shuttle... from Space](https://www.youtube.com/watch?v=Jb4prVsXkZU)
