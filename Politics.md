@@ -56,3 +56,4 @@
 - [Georgism](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty).
 - [Prediction Markets](https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the) as a tool for accountability. [FAQ](https://astralcodexten.substack.com/p/prediction-market-faq).
 - [Pol.is](https://pol.is/home).
+- [Community Notes](https://communitynotes.x.com/guide/en/about/introduction)

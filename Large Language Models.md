@@ -9,6 +9,18 @@
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one.
 - English is becoming the hottest new programming language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
 
+## Agents
+
+Agents are systems where LLMs dynamically direct their own processes and tool usage, maintaining control over how they accomplish tasks.
+
+- [The most common patterns are](https://www.anthropic.com/research/building-effective-agents):
+  - Tool usage: calls tools to accomplish a task.
+  - Chain of thought: decomposes a task into a sequence of steps, where each LLM call processes the output of the previous one.
+  - Routing: classifies an input and directs it to a specialized followup task.
+  - Parallelization: runs multiple agents in parallel and combines their results.
+  - Orchestrator-workers: a single agent that directs a pool of workers to accomplish a task.
+  - Evaluator-optimizer: one LLM call generates a response while another provides evaluation and feedback in a loop.
+
 ## Tools
 
 - [Curated GitHub Starts list](https://github.com/stars/davidgasquez/lists/robot-llms)
@@ -49,15 +61,6 @@
   - ELI5
   - Give multiple options
   - Explain each line
-
-#### Prompt Creator
-
-> I want you to become my prompt master creator, by helping me to create the best possible prompt. In order to do this we will follow the following process:
-> First, you ask me what the prompt is about. I will answer you, and we will go through the next step.
-> Based on the answer I gave you, you will generate the following:
-> An improved prompt, concise.
-> Relevant questions you might have to improve the quality of the prompt.
-> We will go through this process repeatedly, with me providing additional information to you, and you updating the prompt to improve it, until I say we are done.
 
 ## Cool Uses of GPT Models
 
