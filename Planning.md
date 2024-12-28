@@ -1,6 +1,6 @@
 # Planning
 
-![[Quotes#^07c32d]]
+> In preparing for battle I have always found that plans are useless, but planning is indispensable. Dwight D. Eisenhower.
 
 Whether it comes naturally or is the result of a concerted effort and process, every [[Systems|system]] plans to achieve the same benefits:
 

@@ -1,6 +1,6 @@
 # Life's Most Common Regrets
 
-![[Quotes#^1b91f3]]
+> It is not the things we do in life that we regret on our death bed. It is the things we do not. Randy Pausch.
 
 [Regrets of the dying](https://bronnieware.com/blog/regrets-of-the-dying/):
 

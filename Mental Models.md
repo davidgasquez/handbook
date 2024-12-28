@@ -1,6 +1,6 @@
 # Mental Models
 
-![[Quotes#^0452ef]]
+> All models are wrong, but some are useful. George Box.
 
 A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems (a personal algorithm). The world is confusing when your model of the world is wrong. Millions of mental models exists, and every discipline has their own set. Some of them overlap and might be called differently.
 
