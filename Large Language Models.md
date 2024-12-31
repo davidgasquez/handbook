@@ -20,6 +20,7 @@ Agents are systems where LLMs dynamically direct their own processes and tool us
   - Parallelization: runs multiple agents in parallel and combines their results.
   - Orchestrator-workers: a single agent that directs a pool of workers to accomplish a task.
   - Evaluator-optimizer: one LLM call generates a response while another provides evaluation and feedback in a loop.
+- ["Prompt engineering"](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) is a thing.
 
 ## Tools
 

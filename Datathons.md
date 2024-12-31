@@ -1,10 +1,5 @@
 # Datathons
 
-## Discover
-
-- [ML Contests](https://mlcontests.com/)
-- [Humyn](https://app.humyn.ai/challenges)
-
 ## Checklist
 
 1. Learn more about the problem. Search for similar Kaggle competitions. Check the task in [Papers with Code](https://paperswithcode.com/).
@@ -18,7 +13,7 @@
 9. Plot and visualize the predictions (histograms, random prediction, ...) to make sure they're doing as expected. Explain the predictions with [SHAP](https://github.com/slundberg/shap).
 10. Think about what postprocessing heuristics can be done to improve or correct predictions.
 11. [Stack](https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html) classifiers ([example](https://www.kaggle.com/couyang/featuretools-sklearn-pipeline#ML-Pipeline)).
-12. Try AutoML models. For tabular data: [TPOT](https://github.com/EpistasisLab/tpot), [AutoSklearn](https://github.com/automl/auto-sklearn), [AutoGluon](https://auto.gluon.ai/stable/index.html), Google AI Platform, [PyCaret](https://github.com/pycaret/pycaret), [Fast.ai](https://docs.fast.ai/), [Alex](https://github.com/Alex-Lekov/AutoML_Alex).For time series: [AtsPy](https://github.com/firmai/atspy), [DeepAR](https://docs.aws.amazon.com/forecast/latest/dg/aws-forecast-recipe-deeparplus.html), [Nixtla's NBEATS](https://nixtlaverse.nixtla.io/neuralforecast/models.nbeats.html).
+12. Try AutoML models. For tabular data: [TPOT](https://github.com/EpistasisLab/tpot), [AutoSklearn](https://github.com/automl/auto-sklearn), [AutoGluon](https://auto.gluon.ai/stable/index.html), Google AI Platform, [PyCaret](https://github.com/pycaret/pycaret), [Fast.ai](https://docs.fast.ai/), [Alex](https://github.com/Alex-Lekov/AutoML_Alex).For time series: [AtsPy](https://github.com/firmai/atspy), [DeepAR](https://docs.aws.amazon.com/forecast/latest/dg/aws-forecast-recipe-deeparplus.html), [Nixtla's NBEATS](https://nixtlaverse.nixtla.io/neuralforecast/models.nbeats.html), [AutoTS](https://github.com/winedarksea/AutoTS).
 
 ## Preprocessing Resources
 
@@ -60,7 +55,7 @@
 ## Datathon Platforms
 
 - [Kaggle](https://www.kaggle.com/competitions)
-- [MLContest](https://mlcontests.com/)
+- [MLContest](https://mlcontests.com/). They also share a "State of Competitive Machine Learning" report every year ([2023](https://mlcontests.com/state-of-competitive-machine-learning-2023)) and summaries on the state of the art for ["Tabular Data"](https://mlcontests.com/tabular-data/).
 - [Humyn](https://app.humyn.ai/)
 - [DrivenData](https://www.drivendata.org/competitions/)
 - [Xeek](https://xeek.ai/challenges)
