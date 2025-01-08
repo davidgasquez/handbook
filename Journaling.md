@@ -12,7 +12,7 @@
 - [[Writing]] on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.
 - **Premeditatio Malorum**. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.
 - [Journaling is a tool you can use to better manage your mental health](https://nesslabs.com/dear-diary).
-- There are many methods. Start with a simple one like "What worked, what didn't, what's next".
+- There are many methods. Start with a simple one like "what you worked on, what you learned, what didn't work, and what you want to try next".
 - Weekly Review:
   - [Review what happened during the week](https://www.benkuhn.net/weekly/). How did the week go? Write down a list of topics to think about and take written notes on each topic as you think about them.
   - Review a set of recurrent prompts. Tweak them over time. For example:

@@ -59,3 +59,4 @@
 - [Humyn](https://app.humyn.ai/)
 - [DrivenData](https://www.drivendata.org/competitions/)
 - [Xeek](https://xeek.ai/challenges)
+- [Cryptopond](https://cryptopond.xyz/)
