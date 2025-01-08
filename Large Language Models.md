@@ -1,6 +1,7 @@
 # Large Language Models
 
 - LLM can build internal [[Knowledge Graphs]]s in their the network layers.
+- LLM models shine in the kinds of situations where “good enough is good enough”.
 - ML system where humans are designing how the information is organized (feature engineering, linking, graph building) will scale poorly ([the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)).
 - English is becoming the hottest new programming language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
 
