@@ -27,3 +27,31 @@
 - When building a technology, consider: [does this centralize or decentralize power?](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html)
 - Many decentralized protocols are trying to build next generation common digital infrastructure.
   - Unfortunately,[nearly every crypto project realized that they could capture value (make a lot of money) with innovative tokenomics that looked a lot like Ponzis, or at least borderline securities fraud](https://andrewconner.com/common-digital-infrastructure/).
+
+## Types of Decentralization
+
+There are [three distinct types of decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274):
+
+- **Architectural decentralization**: How many physical computers make up the system and how many can fail before the system stops working.
+- **Political decentralization**: How many individuals or organizations control those computers.
+- **Logical decentralization**: Whether the interface and data structures look like a single monolithic system or can be split into independent parts.
+
+A system can be:
+
+- Decentralized in some aspects but centralized in others (e.g., blockchains are politically and architecturally decentralized but logically centralized).
+- Architecturally decentralized but politically centralized (e.g., many companies running on AWS).
+- Politically decentralized but architecturally centralized (e.g., some formal democracies).
+
+## Why Decentralization Matters
+
+[Decentralization provides three key benefits](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274):
+
+- **Fault tolerance**: Systems are less likely to fail accidentally because they rely on many separate components.
+- **Attack resistance**: Systems are more expensive to attack because they lack sensitive central points.
+- **Collusion resistance**: It's harder for participants to collude in ways that benefit them at the expense of others.
+
+However, decentralization is not a silver bullet:
+
+- Common mode failures can still affect decentralized systems (e.g., all nodes running the same client software with a bug).
+- Pure economic models sometimes show that decentralization doesn't matter for security.
+- There's a paradox between fostering good coordination (e.g., quick protocol upgrades) while preventing harmful coordination (e.g., 51% attacks).

@@ -2,12 +2,15 @@
 
 - LLM can build internal [[Knowledge Graphs]]s in their the network layers.
 - ML system where humans are designing how the information is organized (feature engineering, linking, graph building) will scale poorly ([the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)).
+- English is becoming the hottest new programming language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
 
 ## Coding Tips
 
 - Use comments to guide the model to do what you want.
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one.
-- English is becoming the hottest new programming language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
+- Start with a template you like to bootstrap your project and setup all the necessary toolings and following a manageable project pattern.
+- Before coding, make the plan with the model.
+- Make the model ask you more questions to refine the ideas.
 
 ## Agents
 
