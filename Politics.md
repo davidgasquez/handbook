@@ -39,6 +39,15 @@
 - Absolute laws affect problems that are context dependent. The goal is to minimize misery.
 - [Everyone has a strong pressure toward believing a political story where the agents of positive change are things and people that they can personally relate to. E.g: a lawyer might think that the best way to solve a problem is to sue someone, a programmer might think that the best way to solve a problem is to make open source software for it.](https://80000hours.org/podcast/episodes/vitalik-buterin-techno-optimism/)
 - Governments usually don't have a great view into the [[Open Data|data]]. They can't look at the city's economy, energy, climate, and infrastructure in one glance. If they could, [even if poor governing decisions were made, it would be easier to see the impact and optimize them](https://magis.substack.com/p/simcity-and-data-commons).
+- [Central planning](https://vitalik.eth.limo/general/2018/11/25/central_planning.html) and interventionism should be evaluated by counting "knobs" (adjustable parameters) rather than measuring absolute magnitude of intervention.
+  - Simple systems with fewer knobs are desirable because they:
+    - Have fewer points of failure.
+    - Are less likely to overfit to specific contexts.
+    - Are more resistant to corruption and special interests.
+    - Can more easily achieve legitimacy through comprehensibility.
+  - There's a difference between redundant complexity (many parts serving similar goals) and optimizing complexity (one knob per problem).
+  - What seems "simple" is often just familiar - cultural context and shared historical experience shape our perception of complexity.
+  - [[Systems|System design]] should balance mathematical/technical approaches with historical/anthropological learning to avoid extreme conservatism or dangerous utopianism.
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
