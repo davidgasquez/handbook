@@ -9,7 +9,7 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
 - Give birth without advanced assistance.
 - Not caring for all the [animal suffering in the wild](https://longtermrisk.org/the-importance-of-wild-animal-suffering/).
   - Nature is not safe! The default is suffering. The current mentality is that nature is good and disruptions from nature are bad.
-- The ignorance of Social Media and its [full impact on s_o_ciety](https://twitter.com/M_B_Petersen/status/1483457679800651787).
+- The ignorance of Social Media and its [full impact on society](https://twitter.com/M_B_Petersen/status/1483457679800651787).
   - Is "being bad for society" an emergent property of social networks as they grow?
 - Current Voting Systems.
 - Not relying more into tools like Prediction Markets (e.g: [to spot papers that might not replicate](https://vitalik.eth.limo/general/2024/11/09/infofinance.html)).
@@ -41,3 +41,4 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
 - Prolly/Merkle Trees
 - Differential/Timely Dataflow
 - Zero-Knowledge Proofs
+- Have a market of ML/AI models each competing to predict an outcome. When the outcome actually happens, rank them on a leaderboard by how close their predictions were and reward accordingly.

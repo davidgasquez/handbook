@@ -16,7 +16,7 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 - Do the tasks in the right order! One strategy might be starting with the one that could make the others irrelevant or easier.
 - Time-boxing is [[Planning]] how you spend your days in advance and it's so effective because it allows you to iterate. If you didn't complete everything you outlined, you know exactly why -- because you've documented how you planned to spend your time.
 - You'll never have any more time. You have, and have always had, all the time there is. [How you spend your time is a choice](https://leebyron.com/4000/).
-- Success can be measured in the percentage of time you have under your control. [To achieve success](https://blog.samaltman.com/how-to-be-successful):
+- Success can be measured in the percentage of time you have under your control:
   - Compound yourself. Compounding is magic. Keep long-term thinking with a broad view of how different systems in the world are going to come together.
   - Learn to think independently.
   - Make it easy to take risks. Most people overestimate risk and underestimate reward. It's often easier to take risks early in your career; you don't have much to lose, and you potentially have a lot to gain.
