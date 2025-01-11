@@ -29,3 +29,10 @@
 - Social Media companies have incentives to build echo chambers as that's one of the best ways to create engagement and keep users active.
 - [As a creator, Social Media companies use their filtering power to make money forcing people to pay to show the content to users](https://youtu.be/l9ZqXlHl65g).
   - E.g. Instagram controls what shows and in which order it does to maximize time spent in app and make money.
+
+## Social Network Improvements
+
+- [[Federated Networks|Federate and open source current networks]] to improve communities.
+  - [The protocol should evolve differently for each community](https://youtu.be/P-2P3MSZrBM?t=5953). Communities will mix and match protocols (rules, monetization, rewarding, actions, [[governance]], ...) to make the protocol fit their network.
+- We need a social network that does not cause divisiveness and negativity that is currently the natural by-product of optimizing for greater engagement.
+- How can the network [[Incentives|incentivize]] healthy conversations and encourage nuanced [[Resolving Disagreement|discussions]]?

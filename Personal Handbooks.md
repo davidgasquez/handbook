@@ -1,5 +1,28 @@
 # Personal Handbooks
 
+Personal Knowledge Bases allow compound learnings and make it easier to discover new abstractions or connections between concepts. Some interesting properties that a good Personal Knowledge Base should have:
+
+- Simple, Open Source and multi-platform. Works offline, uses plain text files, and has a backup mechanism similar to [[Git]].
+- Focus on capturing ideas and content as fast as possible.
+- Should be managed as a graph:
+  - Nodes are notes or smaller graphs. [Notes should be atomic, concept-oriented and densely linked](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C).
+  - Bidirectional links connecting nodes.
+  - Nodes can have several parents (concepts).
+  - Users can remix and connect ideas in multiple overlapping hierarchies.
+- [Each concept can be linked to external content (video, book, audio)](https://www.notion.so/Models-bb0f4bfd3cd140b3a00cd955e61003f9).
+  - Content can have tags (related concepts)
+- Can be made public.
+- Personal Knowledge bases can be personal [ontologies with similar core components (individuals, classes, attributes, relations, ...)](https://en.wikipedia.org/wiki/Ontology_components).
+
+## Open Source Projects
+
+- [Logseq](https://logseq.com/).
+- [Dendron](https://www.dendron.so/).
+- [Foam](https://foambubble.github.io/).
+- [Noosphere](https://github.com/subconsciousnetwork/noosphere)
+
+## Handbooks
+
 - [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge)
 - [Daryll Santos](https://github.com/daryllxd/lifelong-learning)
 - [Daniel Schildt](https://github.com/d2s/knowledge)
