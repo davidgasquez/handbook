@@ -13,12 +13,18 @@
 9. Plot and visualize the predictions (target vs predicted errors, histograms, random prediction, ...) to make sure they're doing as expected. Explain the predictions with [SHAP](https://github.com/slundberg/shap).
 10. Think about what postprocessing heuristics can be done to improve or correct predictions.
 11. [Stack](https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html) classifiers ([example](https://www.kaggle.com/couyang/featuretools-sklearn-pipeline#ML-Pipeline)).
-12. Try AutoML models. For tabular data: [TPOT](https://github.com/EpistasisLab/tpot), [AutoSklearn](https://github.com/automl/auto-sklearn), [AutoGluon](https://auto.gluon.ai/stable/index.html), Google AI Platform, [PyCaret](https://github.com/pycaret/pycaret), [Fast.ai](https://docs.fast.ai/), [Alex](https://github.com/Alex-Lekov/AutoML_Alex).For time series: [AtsPy](https://github.com/firmai/atspy), [DeepAR](https://docs.aws.amazon.com/forecast/latest/dg/aws-forecast-recipe-deeparplus.html), [Nixtla's NBEATS](https://nixtlaverse.nixtla.io/neuralforecast/models.nbeats.html), [AutoTS](https://github.com/winedarksea/AutoTS).
+12. Try AutoML models.
+  - Tabular: [AutoGluon](https://auto.gluon.ai/), [AutoSklearn](https://github.com/automl/auto-sklearn), Google AI Platform, [PyCaret](https://github.com/pycaret/pycaret), [Fast.ai](https://docs.fast.ai/).
+  - Time Series: [AtsPy](https://github.com/firmai/atspy), [DeepAR](https://docs.aws.amazon.com/forecast/latest/dg/aws-forecast-recipe-deeparplus.html), [Nixtla's NBEATS](https://nixtlaverse.nixtla.io/neuralforecast/models.nbeats.html), [AutoTS](https://github.com/winedarksea/AutoTS).
 
 ## Preprocessing Resources
 
 - [Feature Engineering Ideas](https://github.com/aikho/awesome-feature-engineering)
 - [Deep Feature Synthesis](https://featuretools.alteryx.com/en/stable/getting_started/afe.html). [Simple tutorial](https://www.kaggle.com/willkoehrsen/automated-feature-engineering-basics).
+- [Modern Feature Engineering Ideas](https://www.kaggle.com/c/playground-series-s4e12/discussion/554328) ([code](https://www.kaggle.com/code/cdeotte/first-place-single-model-cv-1-016-lb-1-016)).
+  - Target Encoding (with cross-validation to avoid leakage).
+  - Forward Feature Selection.
+- [Hillclimbing](https://www.kaggle.com/competitions/playground-series-s3e14/discussion/410639)
 
 ## Exploratory Data Analysis Resources
 
