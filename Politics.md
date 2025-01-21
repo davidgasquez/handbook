@@ -57,6 +57,9 @@
 - Approval voting is usually a good choice. Is simple to explain and to count, and comprehensibility is an important factor when choosing a voting method. That said, there are [really good alternatives](https://electionscience.github.io/vse-sim/VSEbasic/).
 - Voting isn't really a way to get rid of conflict - it just pushes it underground. Spend the time [[Talking]] about it.
 - Pairwise comparison methods can help find consensus by comparing options two at a time. This reduces cognitive load and can reveal subtle preferences that might be missed in traditional voting. [Because each comparison is "local"](https://deepfunding.org/), you never have to answer difficult grand questions like "what are my top 5 projects". Instead, you answer much more concrete questions like "which of these two projects is more important to me?".
+- [Voting is a zero-sum game](https://nadia.xyz/voting), meaning that whomever wins does so at the expense of someone else. As a result, voting promotes competition, not cooperation. This issue can be mitigated when:
+  - The default mode is failure, people are motivated to figure out how to escape their terrible fate. If one person loses, everybody loses.
+  - There are clear actions, timelines, and consequences. By specifying the outcome beforehand, and making it undesirable, there is no choice but to take action or lose the game.
 
 ## Interesting Ideas
 
