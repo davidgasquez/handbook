@@ -22,7 +22,7 @@
 - [Feature Engineering Ideas](https://github.com/aikho/awesome-feature-engineering)
 - [Deep Feature Synthesis](https://featuretools.alteryx.com/en/stable/getting_started/afe.html). [Simple tutorial](https://www.kaggle.com/willkoehrsen/automated-feature-engineering-basics).
 - [Modern Feature Engineering Ideas](https://www.kaggle.com/c/playground-series-s4e12/discussion/554328) ([code](https://www.kaggle.com/code/cdeotte/first-place-single-model-cv-1-016-lb-1-016)).
-  - Target Encoding (with cross-validation to avoid leakage).
+  - [Target Encoding](https://www.kaggle.com/competitions/playground-series-s4e12/discussion/554328) (with cross-validation to avoid leakage).
   - Forward Feature Selection.
 - [Hillclimbing](https://www.kaggle.com/competitions/playground-series-s3e14/discussion/410639)
 

@@ -51,7 +51,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
 
 ## Design Principles
 
-- **Easy**. Create, curate and share datasets without friction.
+- **Easy**. Create, curate and [share](https://datamgmtinedresearch.com/share) datasets without friction.
   - Frictionless: Data is useful only when used! Right now, we're not using most of humanity's datasets. That's not because they're not available but because they're hard to get. They're isolated in different places and multiple formats.
   - Pragmatism: published data is better than almost published one because something is missing. Publishing datasets to the web is too hard now and there are few purpose-built tools that help.
   - Familiar Workflow: [people won't change their workflow to use a new tool](https://xethub.com/blog/shutting-down-xethub-learnings-and-takeaways). They will use something if it fits into their existing workflow.
