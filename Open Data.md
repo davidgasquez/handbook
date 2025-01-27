@@ -81,7 +81,7 @@ That forces to keep up on the quality and freshness.
     - Adapters are created by the community so data becomes connected.
     - Having better data will help create better and more accessible AI models ([people are working on this](https://github.com/togethercomputer/OpenDataHub)).
   - Integrate with the modern data stack to avoid reinventing the wheel and increase surface of the required skill sets.
-  - Decentralized the computation (where data lives) and then cache inmutable and static copies of the results (or aggregations) in CDNs (IPFS, R2, Torrent). Most end user queries require only reading a small amount of data!
+  - Decentralized the computation (where data lives) and then cache immutable and static copies of the results (or aggregations) in CDNs (IPFS, R2, Torrent). Most end user queries require only reading a small amount of data!
 - [Other Principles from the Indie Web](https://indieweb.org/principles) like have fun!
 
 ## Modules
@@ -123,7 +123,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - Tabular data could be partitioned to make it easier for future retrieval.
 - **Immutability**. Never remove historical data. Data should be append only.
   - Many public data sources issue restatements or revisions. The protocol should be able to handle this.
-  - [Higher resolution is more valuable than lower resolution](https://www.linkedin.com/pulse/re-framing-open-data-john-weigelt/). Publish inmutable data and then compute the lower resolution data from it.
+  - [Higher resolution is more valuable than lower resolution](https://www.linkedin.com/pulse/re-framing-open-data-john-weigelt/). Publish immutable data and then compute the lower resolution data from it.
   - Similar to how `git` deals with it. You _could_ force the deletion of something in case that's needed, but that's not the default behavior.
 - **Flexible**. Allow arbitrary backends. Both centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
   - As agnostic as possible, supporting many types of data; tables, geospatial, images, ...

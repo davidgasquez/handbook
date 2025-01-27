@@ -51,6 +51,7 @@ graph LR;
   - Objects will be more thread safe inside a program.
   - Easier to reason about the flow of a program.
   - Easier to debug and troubleshoot problems.
+  - [We need immutability to coordinate at a distance and we can afford immutability, as storage gets cheaper](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf).
 
 ## Great Blog Posts
 

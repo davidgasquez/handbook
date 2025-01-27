@@ -2,16 +2,16 @@
 
 ## Checklist
 
-1. Learn more about the problem. Search for similar Kaggle competitions. Check the task in [Papers with Code](https://paperswithcode.com/).
+1. Learn more about the problem. Search for similar Kaggle competitions. Check the task in [Papers with Code](https://paperswithcode.com/). Check [Machine Learning subreddit](https://www.reddit.com/r/MachineLearning) for similar problems.
 2. Do a basic data exploration. Try to understand the problem and gather a sense of what can be important.
-3. Get baseline model working.
+3. Get baseline model working. You can also rely on things like [TableVectorizer](https://skrub-data.org/stable/reference/generated/skrub.TableVectorizer.html#tablevectorizer).
 4. Design an evaluation method as close as the final evaluation. Plot local evaluation metrics against the public ones (correlation) to validate how well your validation strategy works.
-5. Try different approaches for preprocessing (encodings, Deep Feature Synthesis, lags, aggregations, imputers, ...). If you're working as a group, split preprocessing feature generation between files.
+5. Try different approaches for preprocessing (encodings, Deep Feature Synthesis, lags, aggregations, imputers, target/count encoding...). If you're working as a group, split preprocessing feature generation between files.
 6. Plot learning curves ([sklearn](https://scikit-learn.org/stable/modules/learning_curve.html) or [external tools](https://github.com/reiinakano/scikit-plot)) to avoid overfitting.
 7. Plot real and predicted target distribution to see how well your model understand the underlying distribution. Apply any postprocessing that might fix small things.
 8. Tune hyper-parameters once you've settled on an specific approach ([hyperopt](target distribution), [optuna](https://optuna.readthedocs.io/)).
 9. Plot and visualize the predictions (target vs predicted errors, histograms, random prediction, ...) to make sure they're doing as expected. Explain the predictions with [SHAP](https://github.com/slundberg/shap).
-10. Think about what postprocessing heuristics can be done to improve or correct predictions.
+10. Think about what postprocessing heuristics (clipping, mapping to another distribution, ...) can be done to improve or correct predictions.
 11. [Stack](https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html) classifiers ([example](https://www.kaggle.com/couyang/featuretools-sklearn-pipeline#ML-Pipeline)).
 12. Try AutoML models.
   - Tabular: [AutoGluon](https://auto.gluon.ai/), [AutoSklearn](https://github.com/automl/auto-sklearn), Google AI Platform, [PyCaret](https://github.com/pycaret/pycaret), [Fast.ai](https://docs.fast.ai/).
@@ -23,7 +23,7 @@
 - [Feature Engineering Ideas](https://github.com/aikho/awesome-feature-engineering).
 - [Deep Feature Synthesis](https://featuretools.alteryx.com/en/stable/getting_started/afe.html). [Simple tutorial](https://www.kaggle.com/willkoehrsen/automated-feature-engineering-basics).
 - [Modern Feature Engineering Ideas](https://www.kaggle.com/c/playground-series-s4e12/discussion/554328) ([code](https://www.kaggle.com/code/cdeotte/first-place-single-model-cv-1-016-lb-1-016)).
-  - [Target Encoding](https://www.kaggle.com/competitions/playground-series-s4e12/discussion/554328) (with cross-validation to avoid leakage).
+  - [Target Encoding](https://www.kaggle.com/competitions/playground-series-s4e12/discussion/554328) (with cross-validation to avoid leakage). [Data leakage is a common problem in Target Encoding](https://www.geeksforgeeks.org/target-encoding-using-nested-cv-in-sklearn-pipeline/#the-challenge-of-data-leakage-nested-crossvalidation-cv)!
   - Forward Feature Selection.
 - [Hillclimbing](https://www.kaggle.com/competitions/playground-series-s3e14/discussion/410639).
 
@@ -43,6 +43,11 @@
 
 - [Contributions repository](https://github.com/scikit-learn-contrib)
 - [Awesome Scikit-Learn](https://github.com/fkromer/awesome-scikit-learn)
+
+### Polars
+
+- [Modern Polars](https://kevinheavey.github.io/modern-polars/)
+- [Polars The Definitive Guide](https://github.com/jeroenjanssens/python-polars-the-definitive-guide)
 
 ## Time Series Resources
 

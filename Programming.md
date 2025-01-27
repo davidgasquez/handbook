@@ -59,6 +59,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Treat all the data as an [append only event log](https://www.youtube.com/watch?v=ZQ-MdKj3BjU)**.
   - Use a central log where consumers can subscribe to the relevant events.
   - Having a central place ([the log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)) for continuous events make easy to create a stream of data to process and sets a source of truth.
+  - A [log improves coordination in distributed systems](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/).
 - **There is no silver bullet**.
   - Accept that many programming decisions are opinions.
   - Make the trade-offs explicit when making judgments and decisions. With almost every decision you make, you're either deliberately or accidentally trading off one thing for another thing.
