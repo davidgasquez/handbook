@@ -14,6 +14,7 @@
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one.
 - Start with a template you like to bootstrap your project and setup all the necessary toolings and following a manageable project pattern.
 - Before coding, make the plan with the model.
+- Many LLMs now have very large context windows, but filling them with irrelevant code or conversation can confuse the model. Above about 25k tokens of context, most models start to become distracted and become less likely to conform to their system prompt.
 - Make the model ask you more questions to refine the ideas.
 - Take advantage of the fact that [redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms).
 
