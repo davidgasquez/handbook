@@ -36,6 +36,7 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
   - If you work in tech, this is a fun thought experiment. Imagine you don’t need any money and can devote your time to benefiting everyone by building common digital infrastructure. What would exist in a better future?
 - Content Addressed Data + Immutability
 - CRDTs
+- WASM. Specially Pyodide.
 - Distributed / decentralized data storage systems.
 - Homomorphic Encryption
 - Prolly/Merkle Trees
