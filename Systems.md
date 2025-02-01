@@ -35,7 +35,7 @@ These are places within a complex system (a corporation, an economy, a living bo
 3. The structure of material stocks and flows (such as transport networks, population age structures).
 4. The lengths of delays, relative to the rate of system change.
 5. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
-6. The gain around driving positive feedback loops.º
+6. The gain around driving positive feedback loops.
 7. The structure of information flows (who does and does not have access to information).
 8. The rules of the system (such as incentives, punishments, constraints).
 9. The power to add, change, evolve, or self-organize system structure.

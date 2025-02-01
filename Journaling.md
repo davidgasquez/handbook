@@ -8,6 +8,7 @@
 - When you are in an intensely emotional mood, journaling can help you more fully experience and understand those emotions.
 - [Journal about things, people, or situations for which you are grateful](https://youtu.be/fSwpe8r50_o). Consider including negative situations like avoiding an accident, for instance. **Be specific!**
 - If you care about your thoughts, keep them.
+- [Keep detailed logs when situations become strange or concerning](http://hintjens.com/blog:125#toc21).
 - The development of a coherent narrative helps you reorganize and structure old memories, making them less traumatic.
 - [[Writing]] on a regular basis may allow for repeated exposure to your old memories, which will help you get rid of your negative emotional responses.
 - **Premeditatio Malorum**. By imagining the worst case scenario ahead of time, you could overcome the fear of negative experiences and make better plans to prevent them.

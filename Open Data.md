@@ -21,9 +21,9 @@ The Open Data landscape has a few problems:
 
 There are three big areas where people work on open data; at the government level covering thousands of datasets (CKAN, Socrata, …), at the scientific level (university level), and at the individual level where folks who are passionate about a topic publish a few datasets about it. This results on lots of datasets that are disconnected and still requires you to scrape, clean, and join it from all the heterogeneus sources to answer interesting questions. [One of the big ways that data becomes useful is when it is tied to other data](https://x.com/auren/status/1139594779895844865). **Data is only as useful as the questions it can help answer**. Joining, linking, and graphing datasets together allows one to ask more and different kinds of questions.
 
-Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
+Open protocols create open systems. Open code creates tools. **Open data creates open knowledge**. We need better tools, protocols, and mechanisms to improve the Open Data ecosystem. It should be easy to find, download, process, publish, and collaborate on open datasets.
 
-Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. Data is vital to understanding the world and improving public welfare. Metcalfe’s Law applies to data too. The more connected a dataset is to other data elements, the more valuable it is.
+Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. Data is vital to understanding the world and improving public welfare. Metcalfe's Law applies to data too. The more connected a dataset is to other data elements, the more valuable it is.
 
 Open Source code has made a huge impact in the world. Let's make Open Data do the same! Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
 
@@ -67,7 +67,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
   - [Datasets are books, not houses](https://medium.com/qri-io/datasets-are-books-not-houses-760bd4736229)!
 - **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration, curation, and composability. On data.
 - **Aligned Incentives**. Curators should have incentives to improve datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly (e.g: [number of contributors to Dune](https://github.com/duneanalytics/spellbook/commits/main)).
-  - [Bounties](https://www.dolthub.com/bounties) could be created to reward people that adds useful but missing datasets.
+  - [Bounties](http://web.archive.org/web/20230620160338/https://www.dolthub.com/bounties) could be created to reward people that adds useful but missing datasets.
   - Surfacing and creating great datasets could be rewarded (retroactively or with bounties).
   - Curating the data provides compounding benefits for the entire community!
   - Rewarding the datasets creators according to the usefulness. E.g: [CommonCrawl built an amazing repository](https://commoncrawl.org/) that OpenAI has used for their GPTs LLMs. Not sure how well CommonCrawl was compensated.
@@ -173,7 +173,7 @@ I'd say [chain related data](https://davidgasquez.github.io/blockchain-data-pipe
 
 ### 2. Why should people use this instead of doing their own thing?
 
-[If everybody could converge to it, e.g: _"datapackage.json_" as a metadata and schema description standard, then, an ecosystem of utilities and libraries for processing data would take advantage of it](https://news.ycombinator.com/item?id=15346836).
+[If everybody could converge to it, e.g: _"datapackage.json_" as a metadata and schema description standard, then, an ecosystem of utilities and libraries for processing data would take advantage of it](https://news.ycombinator.com/item?id=15346836).
 
 ### 3. What is the incentive for people to adopt it?
 
@@ -227,7 +227,7 @@ I use it as a generic term to refero to data and content that can be freely used
 
 ### Data Package Managers
 
-- [Qri](https://web.archive.org/web/20240413160218/https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](https://qri.io/winding_down).
+- [Qri](https://web.archive.org/web/20240413160218/https://qri.io/). An evolution of the classical open portals that added [[Decentralized Protocols]] (IPFS) and computing on top of the data. Sadly, [it came to an end early in 2022](http://web.archive.org/web/20231205090514/https://qri.io/winding_down).
 - [Datalad](https://www.datalad.org/). [Extended to IPFS](https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/)
   - Is a [great tool](https://archive.fosdem.org/2020/schedule/event/open_research_datalad/) and uses Git Annex (distributed binary object tracking layer on top of git).
   - Complicated to wrap your head around. Lots of different commands and concepts. On the other hand, it's very powerful and flexible. Git Annex is complex but powerful and flexible.
@@ -242,11 +242,11 @@ I use it as a generic term to refero to data and content that can be freely used
 - [Datopian Data CLI](https://github.com/datopian/data-cli). Successor of [DPM](https://github.com/frictionlessdata/dpm-js)
 - [LakeFS](https://lakefs.io/blog/git-for-data/). More like Git for Data
 - [Datasette](https://lite.datasette.io/)
-- [Algovera Metahub](https://github.com/AlgoveraAI/metahub)
+- [Algovera Metahub](http://web.archive.org/web/20230516122527/https://github.com/AlgoveraAI/metahub)
 - [DVC](https://github.com/iterative/dvc)
 - [XVC](https://github.com/iesahin/xvc)
 - [ArtiVC](https://artivc.io/)
-- [Xetdata](https://xetdata.com/)
+- [Xetdata](http://web.archive.org/web/20230308121025/https://xetdata.com/)
 - [Dud](https://github.com/kevin-hanselman/dud)
 - [Splitgraph](https://github.com/splitgraph/sgr)
 - [Deep Lake](https://github.com/activeloopai/deeplake)
@@ -261,8 +261,8 @@ I use it as a generic term to refero to data and content that can be freely used
 
 - [Kamu](https://www.kamu.dev/)
 - [Bacalhau](https://www.bacalhau.org/)
-- [Holium](https://docs.holium.org/)
-- [Ocean Protocol](https://oceanprotocol.com/technology/compute-to-data)
+- [Holium](http://web.archive.org/web/20230316153938/https://docs.holium.org/)
+- [Ocean Protocol](http://web.archive.org/web/20230605003018/https://oceanprotocol.com/technology/compute-to-data)
 - [The Graph](https://thegraph.com/)
 - [Trino](https://trino.io/)
 
@@ -303,9 +303,9 @@ I use it as a generic term to refero to data and content that can be freely used
 - [Data Commons](https://datacommons.org/)
 - [BigQuery Public Data](https://cloud.google.com/bigquery/public-data)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [Datahub](https://datahub.io/awesome)
+- [Datahub Awesome](http://web.archive.org/web/20220705213540/https://datahub.io/awesome)
 - [HuggingFace Datasets](https://huggingface.co/datasets)
-- [Data World](https://data.world/datasets/open-data)
+- [Data World Open Data](http://web.archive.org/web/20241008114054/https://data.world/datasets/open-data)
 - [Eurostat](https://ec.europa.eu/eurostat/en/)
 - [Statista](https://www.statista.com/)
 - [Enigma](https://enigma.com/)
@@ -320,7 +320,7 @@ I use it as a generic term to refero to data and content that can be freely used
 - [AWS Open Data Registry](https://registry.opendata.aws/)
 - [Datamarket](https://en.datamarket.es/)
 - [Open Data Stack Exchange](https://opendata.stackexchange.com/)
-- [IPFS Datasets](https://awesome.ipfs.io/datasets/)
+- [IPFS Datasets](http://web.archive.org/web/20230322192215/https://awesome.ipfs.io/datasets/)
 - [Datasets Subreddit](https://www.reddit.com/r/datasets/). [Open Data Subreddit](https://www.reddit.com/r/opendata/)
 - [Academic Torrents Datasets](https://academictorrents.com/browse.php)
 - [Open Data Inception](https://opendatainception.io/)
@@ -364,7 +364,7 @@ After playing with [Rill Developer](https://github.com/rilldata/rill-developer),
 - Let me grab the state of the app (YAML/JSON), version control it, and generate static (to publish in GitHub Pages) and dynamic (hosted somewhere) dashboards from it.
   - Similar to [evidence.dev](https://evidence.dev/) or [portal.js](https://portaljs.org/).
 - It could also have "smart" data checks. Similar to [deepchecks](https://github.com/deepchecks/deepchecks) alerting about anomalies, outliers, noisy variables, ...
-- Given a large amount of [[Open Data]]. It could offer a way for people to upload their datasets [and get them augmented](https://subsets.io/).
+- Given a large amount of [[Open Data]]. It could offer a way for people to upload their datasets [and get them augmented](http://web.archive.org/web/20250108164736/https://subsets.io/).
   - E.g: Upload a CSV with year and country and the tool could suggest GDP per Capita or population.
 
 Could be an awesome front-end to explore [[Open Data]].
@@ -376,8 +376,8 @@ Could be an awesome front-end to explore [[Open Data]].
 - [Perspective](https://perspective.finos.org/)
 - [Rill Developer](https://github.com/rilldata/rill-developer)
 - [Datastation](https://datastation.multiprocess.io/)
-- [Excalichart](https://www.excalichart.com/)
-- [Chartpilot](https://www.chartpilot.com/)
+- [Excalichart](http://web.archive.org/web/20231018190556/https://www.excalichart.com/)
+- [Chartpilot](http://web.archive.org/web/20241007164422/https://www.chartpilot.com/)
 
 #### Datafile
 

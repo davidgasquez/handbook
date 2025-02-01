@@ -1,7 +1,7 @@
 # House
 
 - [Living in the same place as the people you love matters](https://waitbutwhy.com/2015/12/the-tail-end.html).
-- As with many other things, there are [patterns that will help you structure it](http://www.architectureweek.com/topics/patterns.html).
+- As with many other things, there are [patterns that will help you structure it](http://web.archive.org/web/20230411022833/http://www.architectureweek.com/topics/patterns.html).
 
 ## Buying
 

@@ -12,7 +12,7 @@ Each one act as a lens through which to view the world. You can use them to navi
 - [Useful Models](http://www.defmacro.org/2016/12/22/models.html)
 - [The Big Mental Models](https://jamesclear.com/mental-models)
 - [Julian Spahiro's Mental Models](https://www.julian.com/blog/mental-model-examples)
-- [Mental models for designers](https://dropbox.design/article/mental-models-for-designers)
+- [Mental models for designers](http://web.archive.org/web/20250130021041/https://dropbox.design/article/mental-models-for-designers)
 - [Mental Models Box](https://www.mentalmodelsbox.com/explore)
 
 

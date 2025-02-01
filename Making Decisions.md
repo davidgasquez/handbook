@@ -9,7 +9,7 @@ Decision making is the process we use to identify and choose alternatives, produ
   - Allocating — How much [[Focus|Attention]], [[Time]], and capital should you spend on this?
 - [Separate decisions into four possibilities based on the type of decision](https://fs.blog/2018/09/decision-matrix/):
   1. Irreversible and inconsequential.
-  2. Irreversible and consequential. These are the ones that you really need to focus on. Irreversible decisions tend to have a long lag time from decision to feedback, and are often more consequential. They must be dealt by [becoming **more creative, having more slack, being more equanimous, and pruning more efficiently**.](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
+  2. Irreversible and consequential. These are the ones that you really need to focus on. Irreversible decisions tend to have a long lag time from decision to feedback, and are often more consequential. They must be dealt by [becoming **more creative, having more slack, being more equanimous, and pruning more efficiently**.](http://web.archive.org/web/20240425163013/https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
   3. Reversible and inconsequential
   4. Reversible and consequential. Perfect decisions to run experiments and gather information. Reversible actions can be stopped if they turn out to be bad, and tend to work well with tight [[Feedback Loops]].
 - Set a default decision and work from there.
