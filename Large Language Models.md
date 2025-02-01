@@ -17,6 +17,7 @@
 - Many LLMs now have very large context windows, but filling them with irrelevant code or conversation can confuse the model. Above about 25k tokens of context, most models start to become distracted and become less likely to conform to their system prompt.
 - Make the model ask you more questions to refine the ideas.
 - Take advantage of the fact that [redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms).
+- If you want to force some "reasoning", ask something like "[is that a good suggestion?](https://news.ycombinator.com/item?id=42894688)" or "propose a variety of suggestions for the problem at hand and their trade-offs".
 
 ## Agents
 
