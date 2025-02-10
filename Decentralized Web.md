@@ -8,6 +8,7 @@
 - Decentralized web incentives open source. That creates an ecosystem of composable and permissionless tools that increases the speed of innovation.
 - A way to look at the decentralized web movement is as a laboratory for economic, political, and social experiments.
   - The space encourages experimentation in a diverse set of fields like [[Governance]] or [[Finances]].
+- Networks aren't evenly distributed in the world. E.g: [we see the emergence of densely connected hubs—centralized islands in the internet](https://newsletter.squishy.computer/p/centralization-is-inevitable). Scale-free networks are power-law distributed and emerge due to preferential attachment (rich get richer feedback loops, also known as [[Network Effects]]).
 
 ## Resources
 

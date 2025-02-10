@@ -28,7 +28,7 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
   - E.g: Criminal system rework. Focusing on the system and not on individual punishement.
 - Work valuation changes (plumbing more expensive than some software development) due to [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox). We will automate making a full app before a robot is able to master physical arms and legs like a 5 year old.
 - Open data will be more important as they can produce better models and help coordinate people providing shared context.
-- The current decentralized protocols (IPFS, ActivityPub, ...) need to evolve more. Specially around UX. People don't care about decentralization, they care about UX.
+- The current decentralized protocols (IPFS, ActivityPub, ...) need to evolve more. Specially around UX. People don't care about decentralization, they care about UX. [Centralization is inevitable](https://newsletter.squishy.computer/p/centralization-is-inevitable).
 
 ### Exciting Software Engineering Ideas
 

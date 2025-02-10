@@ -11,3 +11,5 @@ Network [diffusion](https://meltingasphalt.com/interactive/going-critical/) is t
 - A wildfire breaking out across a landscape.
 - Ideas and practices diffusing through a [[culture]].
 - Neutrons cascading through a hunk of enriched uranium.
+- Economies of scale. More scale means more scale.
+- More customers means more social proof means more customers.

@@ -17,7 +17,7 @@ The Open Data landscape has a few problems:
 - **No Collaboration**. No incentives exists for people to work on improving or curating datasets.
 - **No Versioning**. Datasets disappear or change without notice. It's hard to know what changed and when. Losing data doesn't just inconvenience a few researchers. It actively hinders scientific progress.
 
-[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). It drives innovation and decision-making across virtually every industry and sector Data is one of the best ways to learn about the world and [[Coordination|coordinate]] people. Imagine if, every time you used a library, you had to find the original developer and hope they had a copy. It would be absurd. Yet that's essentially what we're asking scientists to do.
+[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). It drives innovation and decision-making across virtually every industry and sector Data is one of the best ways to learn about the world and [[Coordination|coordinate]] people. Imagine if, every time you used a library, you had to find the original developer and hope they had a copy. It would be absurd. Yet that's essentially what we're asking scientists to do. [Science is missing a crucial data packaging/publishing/sharing network](https://hackmd.io/wKKm4cIDR6a9kYwZ3srVFg?view).
 
 There are three big areas where people work on open data; at the government level covering thousands of datasets (CKAN, Socrata, …), at the scientific level (university level), and at the individual level where folks who are passionate about a topic publish a few datasets about it. This results on lots of datasets that are disconnected and still requires you to scrape, clean, and join it from all the heterogeneus sources to answer interesting questions. [One of the big ways that data becomes useful is when it is tied to other data](https://x.com/auren/status/1139594779895844865). **Data is only as useful as the questions it can help answer**. Joining, linking, and graphing datasets together allows one to ask more and different kinds of questions.
 
@@ -101,7 +101,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
     - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making an scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
-  - [FAIR](https://www.go-fair.org/fair-principles/).
+  - Data assets should be Findable, Accessible, Interoperable, and Reproducible. [FAIR](https://www.go-fair.org/fair-principles/).
   - Finding the right dataset to answer a question is difficult. Good metadata search is essential.
 - **Formatting**. Datasets are saved and exposed in multiple formats (CSV, Parquet, ...). Could be done in the backend, or in the client when pulling data (WASM). The package manager should be **format and storage agnostic**. Give me the dataset with id `xyz` as a CSV in this folder.
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
@@ -162,6 +162,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - Installing datasets could be mounting them from in a virtual filesystem (FUSE) and supporting random access (e.g: HTTP Range requests).
 - **Don't break history**. If a dataset is updated, the [old versions should still be accessible](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/).
   - Make sure the datasets are there for the long run. This might take different forms (using a domain name, IPFS, ...).
+- **Subscribable**. Datasets are not just derived from upstream data, they should actually be updated every time the upstream data is updated (e.g: recomputing a metric of wildfire risk whenever new satellite imagery becomes available).
 
 ## Frequently Asked Questions
 

@@ -19,7 +19,7 @@
   - Forking should be a right. Keeps authority contingent (if they abuse power, they might get forked).
 - **[Progressive decentralization](https://a16zcrypto.com/content/article/progressive-decentralization-crypto-product-management/) optional centralization.**
   - A decentralized protocol can work with a centralized provider. It has the benefits of both (might be fast but no lock users in).
-- A major downside of decentralized protocols/networks is that they tend to perform poorly. Hubs are efficient.
+- A major downside of decentralized protocols/networks is that they tend to perform poorly. Hubs are efficient. Hubs act as routers through which information can travel from A to B to C, efficiently.
 - [It's the properties decentralization gives us that we care about, not decentralization itself](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/). Decentralization is a global, emergent property. You can feel latency, you can feel transaction fees, but networks ostensibly feel the same whether they're centralized or decentralized. Decentralization is valuable when it lets you do new things fundamentally better, not old things fundamentally worse.
 - Ultimately, [users don't care about decentralization](https://news.ycombinator.com/item?id=38694551). Most of the time, it doesn't matter if the service is distributed or comes from a single server sitting in someone's basement. Users want to use services (chat, write mails, watch videos, have a website, buy stuff, sell stuff) and not run infrastructure of any kind. Decentralization is a means to an end, not an end in itself.
 - If a system requires a centralized part, a great alternative is give the user the ability to point to other centralized things taking care of that part.
@@ -28,6 +28,7 @@
 - Many decentralized protocols are trying to build next generation common digital infrastructure.
   - Unfortunately,[nearly every crypto project realized that they could capture value (make a lot of money) with innovative tokenomics that looked a lot like Ponzis, or at least borderline securities fraud](https://andrewconner.com/common-digital-infrastructure/).
 - Credible neutrality is the principle that a system or protocol should be demonstrably fair and impartial to all participants, with no hidden biases or privileged interests.
+-
 
 ## Types of Decentralization
 
