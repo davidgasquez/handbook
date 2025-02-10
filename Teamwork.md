@@ -130,6 +130,7 @@
   - Test their work systematically.
 - Make [small, achievable changes rather than large risky leaps](https://medium.com/@komorama/the-iterative-adjacent-possible-af3e7038357d). Each step should be within the "adjacent possible" - what can be realistically accomplished.
 - Prefer combining proven components in new ways over building everything from scratch.
+- [Communicate state, not just deltas](https://experimentalworks.net/posts/2024-01-16-communicate-state/). Communicating state rather than updates significantly increases the clarity of what you are trying to communicate. It makes it easier to follow and engage as it reduces the amount of context other people need to have to understand what you are trying to communicate.
 
 ## [How Small Teams Work](https://posthog.com/handbook/people/team-structure/why-small-teams#how-it-works)
 
