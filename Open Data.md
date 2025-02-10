@@ -151,7 +151,7 @@ Package managers have been hailed among the most important innovations Linux bro
 
 ### Consumption
 
-- **Accessible**. Datasets are **files**. Datasets are static assets living somewhere. Don't get in the middle with libraries, gated databases or [obscure licenses](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/).
+- **Accessible**. Datasets are **files**. Datasets are static assets living somewhere. Don't get in the middle with libraries, gated databases or [obscure licenses](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/). Keep in mind right to exit and decentralization.
 - **Documentation**. Surface derived work (e.g: reports, other datasets, ...) and not only the raw data with minimal metadata.
 - **Embedded Visualizations**. Know what's in there before downloading it.
   - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](https://tech.datopian.com/views/).
@@ -166,7 +166,7 @@ Package managers have been hailed among the most important innovations Linux bro
 
 ## Frequently Asked Questions
 
-> Please [reach out](https://davidgasquez.github.io/) if you want to chat about these ideas or ask more questions.
+> Please [reach out](https://davidgasquez.com) if you want to chat about these ideas or ask more questions.
 
 ### 1. What would be a great use case to start with?
 
@@ -178,7 +178,7 @@ I'd say [chain related data](https://davidgasquez.github.io/blockchain-data-pipe
 
 ### 3. What is the incentive for people to adopt it?
 
-I wonder if there are ways to use novel mechanisms (e.g: DAOs) to incentive people? Also, companies like [Golden](httpfs://golden.com/) and [index.as](https://index.as/) are doing interesting work on monetizing data curation.
+I wonder if there are ways to use novel mechanisms (e.g: DAOs) to incentive people? Also, companies like [Golden](https://golden.com/) and [index.as](https://index.as/) are doing interesting work on monetizing data curation.
 
 ### 4. How can LLMs help "building bridges"?
 
@@ -223,6 +223,10 @@ Indeed! With LLMs on the rise, community curated datasets become more important 
 ### 14. Wait, wait... What do you mean by "Open Data"?
 
 I use it as a generic term to refero to data and content that can be freely used, modified, and shared by anyone for any purpose. Generally alligned with the [Open Definition](https://opendefinition.org/od/2.1/en/) and [The Open Data Commons](https://opendatacommons.org/).
+
+### 15. Is this sustainable?
+
+Having a sustainable Funding Models is key and running large-scale data infrastructure requires significant resources (servers, engineers, etc.). A way to make it sustainable is to make it similar to the GitHub model with free public datasets but paid private options.
 
 ## Related Projects
 
