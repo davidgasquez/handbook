@@ -25,7 +25,7 @@ Open protocols create open systems. Open code creates tools. **Open data creates
 
 Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. Data is vital to understanding the world and improving public welfare. Metcalfe's Law applies to data too. The more connected a dataset is to other data elements, the more valuable it is.
 
-Open Source code has made a huge impact in the world. Let's make Open Data do the same! Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
+Open Source code has made a huge impact in the world. Let's make Open Data do the same! Open data is, essentialy, public infrastructure (similar to roads, bridges, or the internet). Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
 
 This document is a collection of ideas and principles to make Open Data more accessible, maintainable, and useful. Also, recognizing that a lot of people are already working on this, there are some amazing datasets, tools, and organizations out there, and, that Open Data is a people problem at 80%. This document is biased towards the technical side of things, as I think that's where I can contribute the most.
 
@@ -107,6 +107,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
   - Have issues and discussions close to the dataset.
+  - Support for different licensing models beyond "fully open" (e.g., attribution, non-commercial).
   - Linking data to other data makes all the data more valuable.
 - **Extensible**. Users could extend the package resource (e.g: [Time Series Tabular Package inherits from Tabular Package](https://specs.frictionlessdata.io/tabular-data-package/)) and add better support for more specific kinds of data (geographical).
   - Build integrations to ingest and publish data in other hubs (e.g: CKAN, HuggingFace, ...).
@@ -136,7 +137,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Deterministic**. Packaged lambda style transformations (WASM/Docker).
   - For tabular data, starting with just SQL might be great.
   - Pyodite + DuckDB for transformations could cover a large area.
-  - Datasets could be derived by importing other datasets and applying deterministic transformations in the `Datafile`. Similar to Docker containers and [Splitfiles](https://github.com/splitgraph/sgr#build-and-query-versioned-reproducible-datasets). That file will carry [Metadata, Lineage and even some defaults (visualizations, code, ...)](https://handbook.datalad.org/en/latest/basics/101-127-yoda.html)
+  - Datasets could be derived by importing other datasets and applying deterministic transformations. Similar to Docker containers, [Splitfiles](https://github.com/splitgraph/sgr#build-and-query-versioned-reproducible-datasets), and Ollama files. That file will carry extensible and flexible [Metadata, Lineage and even some defaults (visualizations, code, ...)](https://handbook.datalad.org/en/latest/basics/101-127-yoda.html)
     - Standard join keys are the most valuable ways to link data together.
 - **Declarative**. Transformations should be defined as code and be idempotent. Similar to how Pachyderm/Kamu/Holium work.
   - E.g: The transformation tool ends up orchestrating containers/functions that read/write from the storage layer, Pachyderm style.
@@ -145,6 +146,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - Detect outliers automatically on tabular data.
   - Resize images.
   - Normalize sound files.
+  - Built-in mechanisms for handling sensitive data (e.g., anonymization, pseudonymization).
   - Detect suspicions records like a categorical variable value that only appears one time while others values appear many times.
   - Enrich data smartly (Match and Augment pattern). If a matcher detects a date, the augmenter can add the day of week. If is something like a latitude and longitude, the augmenter adds country/city. [Some tools do this with closed source data](https://www.getcensus.com/blog/census-enrichment-third-party-data-enrichment-now-in-your-warehouse).
   - [Templated validations to make sure datasets conform to certain standards](https://framework.frictionlessdata.io/docs/checks/baseline.html).
@@ -227,6 +229,10 @@ I use it as a generic term to refero to data and content that can be freely used
 ### 15. Is this sustainable?
 
 Having a sustainable Funding Models is key and running large-scale data infrastructure requires significant resources (servers, engineers, etc.). A way to make it sustainable is to make it similar to the GitHub model with free public datasets but paid private options.
+
+### 16. How todeal with ilegal content?
+
+Probably like AT Protocol or Activity Pub. Some moderation should be done as a community while other should be upstream.
 
 ## Related Projects
 
