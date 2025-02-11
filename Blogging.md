@@ -37,3 +37,7 @@
   4. Some open questions that invite people to discuss.
 - [Keep making your post more opinionated until it reflects your true beliefs](https://twitter.com/HamelHusain/status/1751995737095709164). Don't hedge. People want to hear what you think!
 - The title gets read way more than the rest, so make it count.
+- [You're not just writing for today's invisible audience](https://andysblog.uk/why-blog-if-nobody-reads-it/). You're writing for:
+  - Future you. Your posts become a time capsule of your evolving mind.
+  - One right person. Maybe one day, someone stumbles across your words at exactly the right moment. And that changes something for them.
+  - The work itself. Consistency beats virality. A hundred posts with depth will outlast a single viral hit.
