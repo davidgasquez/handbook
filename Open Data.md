@@ -16,8 +16,9 @@ The Open Data landscape has a few problems:
 - **Hard to Use**. Good datasets are hard to use as indexing is difficult and [many standards](https://xkcd.com/927/) compete. However, none of the indexers specify how the data is to be formatted, enforce any standardization, ... Users must still perform traditional forms of data merging, cleaning, and standardization.
 - **No Collaboration**. No incentives exists for people to work on improving or curating datasets.
 - **No Versioning**. Datasets disappear or change without notice. It's hard to know what changed and when. Losing data doesn't just inconvenience a few researchers. It actively hinders scientific progress.
+- **Economic Impact**. The inefficiency in data access and preparation represents a significant economic cost. E.g: thousands of Data Analysts spending 80% of their time preparing data for analysis, this represents billions in wasted economic opportunity.
 
-[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). It drives innovation and decision-making across virtually every industry and sector Data is one of the best ways to learn about the world and [[Coordination|coordinate]] people. Imagine if, every time you used a library, you had to find the original developer and hope they had a copy. It would be absurd. Yet that's essentially what we're asking scientists to do. [Science is missing a crucial data packaging/publishing/sharing network](https://hackmd.io/wKKm4cIDR6a9kYwZ3srVFg?view).
+[Open Data can help organizations, scientist, and governments make better decisions](https://twitter.com/patrickc/status/1256987283141492736). It drives innovation and decision-making across virtually every industry and sector Data is one of the best ways to learn about the world and [[Coordination|coordinate]] people. Imagine if, every time you used a library, you had to find the original developer and hope they had a copy. It would be absurd. Yet that's essentially what we're asking scientists to do. [Science is missing a crucial data packaging/publishing/sharing network](https://hackmd.io/wKKm4cIDR6a9kYwZ3srVFg?view). [Friction in data sharing hampers collaboration and limits informed decision making](https://docs.google.com/document/d/1iTl7YWfTAzp8zNXRs01RAIWCP-pRJwQfDg8lsD0TDCM/edit?tab=t.0).
 
 There are three big areas where people work on open data; at the government level covering thousands of datasets (CKAN, Socrata, …), at the scientific level (university level), and at the individual level where folks who are passionate about a topic publish a few datasets about it. This results on lots of datasets that are disconnected and still requires you to scrape, clean, and join it from all the heterogeneus sources to answer interesting questions. [One of the big ways that data becomes useful is when it is tied to other data](https://x.com/auren/status/1139594779895844865). **Data is only as useful as the questions it can help answer**. Joining, linking, and graphing datasets together allows one to ask more and different kinds of questions.
 
@@ -71,8 +72,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
   - Surfacing and creating great datasets could be rewarded (retroactively or with bounties).
   - Curating the data provides compounding benefits for the entire community!
   - Rewarding the datasets creators according to the usefulness. E.g: [CommonCrawl built an amazing repository](https://commoncrawl.org/) that OpenAI has used for their GPTs LLMs. Not sure how well CommonCrawl was compensated.
-  - Governments needs to be forced to use their open data. This should create a feedback loop and have them improve the quality and freshness of the data.
-That forces to keep up on the quality and freshness.
+  - Governments needs to be forced to use their open data. This should create a feedback loop and have them improve the quality and freshness of the data. That forces to keep up on the quality and freshness.
 - **Open Source and [Decentralized](https://github.com/orgs/datonic/discussions/42)**. Datasets should be stored in multiple places.
   - Don't create yet another standard. Provide a way for people to integrate current indexers. Work on _adapters_ for different datasets sources. Similar to:
     - [Foreign Data Wrappers in PostgreSQL](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
@@ -103,14 +103,17 @@ Package managers have been hailed among the most important innovations Linux bro
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
   - Data assets should be Findable, Accessible, Interoperable, and Reproducible. [FAIR](https://www.go-fair.org/fair-principles/).
   - Finding the right dataset to answer a question is difficult. Good metadata search is essential.
+  - Have one profile per user/organization with multiple data products (e.g: how GitHub has one profile per user with multiple repositories, or Hugging Face has one profile per user with multiple datasets).
 - **Formatting**. Datasets are saved and exposed in multiple formats (CSV, Parquet, ...). Could be done in the backend, or in the client when pulling data (WASM). The package manager should be **format and storage agnostic**. Give me the dataset with id `xyz` as a CSV in this folder.
 - **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Making possible to `data fork user/data`, improve something and publish the resulting dataset back (via something like a PR).
   - Have issues and discussions close to the dataset.
   - Support for different licensing models beyond "fully open" (e.g., attribution, non-commercial).
   - Linking data to other data makes all the data more valuable.
+  - Default protocol or social network for sharing datasets (similar to how email or RSS feeds work).
 - **Extensible**. Users could extend the package resource (e.g: [Time Series Tabular Package inherits from Tabular Package](https://specs.frictionlessdata.io/tabular-data-package/)) and add better support for more specific kinds of data (geographical).
   - Build integrations to ingest and publish data in other hubs (e.g: CKAN, HuggingFace, ...).
+  - Any enforcement will bake in assumptions that won't be useful for everyone.
 
 ### Storage and Serialization
 
@@ -122,6 +125,8 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
   - Think at the dataset level and not the file level.
   - Tabular data could be partitioned to make it easier for future retrieval.
+  - Implement [common column standards](https://docs.google.com/document/d/1iTl7YWfTAzp8zNXRs01RAIWCP-pRJwQfDg8lsD0TDCM/edit?tab=t.0) (e.g: `country_code`, `date`, ...) that allow for data validation and standardization across datasets. These also help with interoperability / integration.
+  - Use standardized identifiers and aggregation levels to ensure data quality and compatibility.
 - **Immutability**. Never remove historical data. Data should be append only.
   - Many public data sources issue restatements or revisions. The protocol should be able to handle this.
   - [Higher resolution is more valuable than lower resolution](https://www.linkedin.com/pulse/re-framing-open-data-john-weigelt/). Publish immutable data and then compute the lower resolution data from it.
@@ -165,6 +170,8 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Don't break history**. If a dataset is updated, the [old versions should still be accessible](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/).
   - Make sure the datasets are there for the long run. This might take different forms (using a domain name, IPFS, ...).
 - **Subscribable**. Datasets are not just derived from upstream data, they should actually be updated every time the upstream data is updated (e.g: recomputing a metric of wildfire risk whenever new satellite imagery becomes available).
+- **Dual Role Support**. Recognize that data providers are often data users and vice versa, similar to how GitHub understands that code writers are also code consumers. Design interfaces and tools that support this dual role effectively.
+- **Data Product**. A data product is a collection of data created explicitly to be used by someone else. Incentivize data products as they are the atomic unit of consumption for data.
 
 ## Frequently Asked Questions
 
