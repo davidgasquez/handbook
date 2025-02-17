@@ -140,6 +140,7 @@
 - [It's hard to capture reality with data](https://javisantana.com/fastdata/40-things-I-learned-about-data.html). Modelling reality always gets complex. There are always small nuances, special conditions, things that changed, edge cases and, of course, errors (which sometimes became features). Data visualizations are lossy.
 - Progress in data isn't linear. As a research discipline, you might spend hours making no progress and then have a breakthrough. Or worse, prove your entire approach won't work.
 - [Apply a research mindset to data](https://jxnl.co/writing/2024/10/25/running-effective-ai-standups). Focus on input metrics, build scientific intuition, and embrace uncertainty.
+  - [How can science – loosely, the production of facts – do more to "steer" the outcomes of these processes?](https://jscaseddon.co/2024/02/science-for-steering-vs-for-decision-making/)
 
 ## Tools
 
