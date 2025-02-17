@@ -45,6 +45,7 @@ Decision making is the process we use to identify and choose alternatives, produ
 - When you share something, add the level of confidence you have on it.
 - [Understand your personal stance on the trade-off of compromise versus purity](https://vitalik.eth.limo/general/2020/11/08/concave.html). Given a choice between two alternatives, often both expressed as deep principled philosophies, do you naturally gravitate toward the idea that one of the two paths should be correct and we should stick to it, or do you prefer to find a way in the middle between the two extremes?
 - [It's often not _how much force_ you can bring to bear, so much as whether you can apply that force _effectively_](https://www.lesswrong.com/posts/rQKstXH8ZMAdN5iqD/concentration-of-force).
+- You don't feel the consequences/pain of the actions you don't take! A good decision can still have unintended consequences.
 
 ![schema](https://miro.medium.com/max/700/1*9H9letDTBO0IvuGbYN4x6A.png)
 
