@@ -26,13 +26,13 @@ Open protocols create open systems. Open code creates tools. **Open data creates
 
 Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. Data is vital to understanding the world and improving public welfare. Metcalfe's Law applies to data too. The more connected a dataset is to other data elements, the more valuable it is.
 
-Open Source code has made a huge impact in the world. Let's make Open Data do the same! Open data is, essentialy, public infrastructure (similar to roads, bridges, or the internet). Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
+Open Source code has made a huge impact in the world. Let's make Open Data do the same! Open data is, essentially, public infrastructure (similar to roads, bridges, or the internet). Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
 
-This document is a collection of ideas and principles to make Open Data more accessible, maintainable, and useful. Also, recognizing that a lot of people are already working on this, there are some amazing datasets, tools, and organizations out there, and, that Open Data is a people problem at 80%. This document is biased towards the technical side of things, as I think that's where I can contribute the most.
+This document is a collection of ideas and principles to make Open Data more accessible, maintainable, and useful. Also, recognizing that a lot of people are already working on this, there are some amazing datasets, tools, and organizations out there, and, that Open Data is a people problem at 80%. This document is biased towards the technical side of things, as I think that's where I can contribute the most. I believe we can do much more with the available data.
 
 ### Why Now?
 
-We have better and cheaper infrastructure. That includes things like faster storage, better compute, and, larger amounts of data. We need to improve our data workflows now. How does a world where people collaborate on datasets looks like? [The data is there. We just need to use it](https://twitter.com/auren/status/1509340748054945794).
+We have better and cheaper infrastructure. That includes things like faster storage, better compute, and, larger amounts of data. We need to improve our data workflows now. How does a world where people collaborate on datasets look like? [The data is there. We just need to use it](https://twitter.com/auren/status/1509340748054945794).
 
 **[The best thing to do with your data will be thought by someone else](https://youtu.be/_agrBn50kyE?t=925)**.
 
@@ -59,7 +59,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
 - **Versioned and Modular**. Data and metadata (e.g: `relation`) should be [updated, forked and discussed](https://github.com/jbenet/data/blob/master/dev/designdoc.md#data-hashes-and-refs) as code in version controlled repositories.
   - Prime composability (e.g: [Arrow ecosystem](https://thenewstack.io/how-apache-arrow-is-changing-the-big-data-ecosystem/)) so tools/services can be swapped.
   - Metadata as a first-class citizen. Even if minimal and automated.
-  - Git based approach collaboration. Adopt and integrate with `git`  and GitHub to reduce surface area. Build tooling to adapt revisions, tags, branches, issues, PRs to datasets.
+  - Git based approach collaboration. Adopt and integrate with `git` and GitHub to reduce surface area. Build tooling to adapt revisions, tags, branches, issues, PRs to datasets.
     - Portals are a GitHub repository with scripts to collect data from various sources, clean it, and join it, and publish useful datasets and artifacts for that community. Ideally, they are also simple to get started with and expose the best practices in data engineering for curating and transforming data.
   - Provide a declarative way of defining the datasets schema and other meta-properties like _relations_ or _tests/checks_.
   - Support for integrating non-dataset files. A dataset could be linked to code, visualizations, pipelines, models, reports, ...
@@ -126,6 +126,7 @@ Package managers have been hailed among the most important innovations Linux bro
   - Think at the dataset level and not the file level.
   - Tabular data could be partitioned to make it easier for future retrieval.
   - Implement [common column standards](https://docs.google.com/document/d/1iTl7YWfTAzp8zNXRs01RAIWCP-pRJwQfDg8lsD0TDCM/edit?tab=t.0) (e.g: `country_code`, `date`, ...) that allow for data validation and standardization across datasets. These also help with interoperability / integration.
+    - We can't cooperate on global issues if we can't agree on how to refer to things!
   - Use standardized identifiers and aggregation levels to ensure data quality and compatibility.
 - **Immutability**. Never remove historical data. Data should be append only.
   - Many public data sources issue restatements or revisions. The protocol should be able to handle this.
@@ -134,7 +135,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Flexible**. Allow arbitrary backends. Both centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
   - As agnostic as possible, supporting many types of data; tables, geospatial, images, ...
   - Can all datasets can be represented as tabular datasets? This will enable to run SQL (`select, groupbys, joins`) on top of them which might be the easier way to start collaborating.
-  - A dataset could have different formats derived from a common one.  Build converters between formats relying on the Apache Arrow in memory standard format. This is similar to how Pandoc and LLVM work! The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automagically and run some checks at the data level to verify they contain the same information.
+  - A dataset could have different formats derived from a common one. Build converters between formats relying on the Apache Arrow in memory standard format. This is similar to how Pandoc and LLVM work! The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automagically and run some checks at the data level to verify they contain the same information.
   - Datasets could be tagged from a library of types (e.g: `ip-adress`) and [conversion functions](https://github.com/jbenet/transformer) (`ip-to-country`). Given that the representation is common (Arrow), the transformations could be written in multiple languages.
 
 ### Transformations
@@ -467,7 +468,7 @@ metadata: "..."
         - `tags`: JSON with tags of the attribute?
         - `aggregation_function`: Aggregation function to use when aggregating the attribute
   - `timeseries`: Timeseries are abstract measures (ie. statistics, metrics) related to an entity and a date. Timeseries are temporal statistics or measures centered around an entity and timestamp. For example, GDP of Spain, population of Madrid, etc. Timeseries are abstract concepts (ie. a measure) rather than a concrete thing.
-    - Could be something like `weather_timeseries`  to be able to join with the entities.
+    - Could be something like `weather_timeseries` to be able to join with the entities.
     - Columns:
       - `variable_id`: Unique identifier for the attribute
       - `geography_id`: Unique identifier for the geography
