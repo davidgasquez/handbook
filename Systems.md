@@ -43,7 +43,7 @@ These are places within a complex system (a corporation, an economy, a living bo
 11. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
 12. The power to transcend paradigms.
 
-**Don't aim for an ideal system. Build a set of [[processes]] and protocols that evolve to fit the environment over time.** [Complex systems fail](https://how.complexsystems.fail/).
+**Don't aim for an ideal system. Build a set of [[processes]] and protocols that evolve to fit the environment over time.** [Complex systems fail](https://how.complexsystems.fail/). [The purpose of a system is what it does](https://en.m.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does).
 
 If everyone agrees the current system doesn't work well, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
 
