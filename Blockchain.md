@@ -15,6 +15,7 @@
   - You can encode "incentives" in a smart contract that will be enforced by the code. This drives behavior.
 - Smart contracts allow permissionless composability. [Composability allows anyone in a network to take existing programs and adapt or build on top of them, it unlocks completely new use cases that don't exist in our world](https://future.a16z.com/how-composability-unlocks-crypto-and-everything-else/).
 - [Blockchains could replace networks with markets](https://twitter.com/naval/status/877467629308395521).
+- [They can be thought of as social and economic laboratories because they're great for experimenting with novel concepts at scale](https://x.com/binji_x/status/1891929209737470024).
 - One of the main downsides of blockchains is that most humans are not good at protecting their passwords, credentials or private keys.
 - Blockchains can be used to ensure the best output in prisoner dilemma style interactions. Write a smart contract that does X when everyone has added the money and no one will be able to betray.
 - Blockchains solve distribution problems but they don't solve the problem of who will add the money to the ecosystem. That's a political one. Unless there are good incentives to move to blockchains.
