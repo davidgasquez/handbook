@@ -67,6 +67,7 @@ We could have a better data ecosystem if we **collaborate on open standards**! S
   - With immutability and content addressing, you can move backwards in time and run transformations or queries on how the dataset was at a certain point in time.
   - [Datasets are books, not houses](https://medium.com/qri-io/datasets-are-books-not-houses-760bd4736229)!
 - **Permissionless**. Anyone should be able to add/update/fix datasets or their metadata. GitHub style collaboration, curation, and composability. On data.
+  - Mitigate barriers to entry. When datasets grow extremely large, the substantial requirements for infrastructure, storage, and processing create de facto barriers to entry. At the same tim, their value typically increases due to network effects - more data is better, but less people can afford to curate it.
 - **Aligned Incentives**. Curators should have incentives to improve datasets. Data is messy after all, but a good set of incentives could make great datasets surface and reward contributors accordingly (e.g: [number of contributors to Dune](https://github.com/duneanalytics/spellbook/commits/main)).
   - [Bounties](http://web.archive.org/web/20230620160338/https://www.dolthub.com/bounties) could be created to reward people that adds useful but missing datasets.
   - Surfacing and creating great datasets could be rewarded (retroactively or with bounties).
@@ -173,6 +174,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Subscribable**. Datasets are not just derived from upstream data, they should actually be updated every time the upstream data is updated (e.g: recomputing a metric of wildfire risk whenever new satellite imagery becomes available).
 - **Dual Role Support**. Recognize that data providers are often data users and vice versa, similar to how GitHub understands that code writers are also code consumers. Design interfaces and tools that support this dual role effectively.
 - **Data Product**. A data product is a collection of data created explicitly to be used by someone else. Incentivize data products as they are the atomic unit of consumption for data.
+  - Data is an _experience good_. Its true value often remains uncertain until after it has been used and analyzed. This characteristic creates information asymmetries between data collectors (like local communities) and potential buyers or users, making quality assurance and standardization crucial for building digital trust in data markets.
 
 ## Frequently Asked Questions
 
@@ -228,7 +230,7 @@ An easy tool for creating, maintaining and publishing databases with the ability
 
 ### 13. Curated and small data (e.g: at the community level) is not reachable by Google. How can we help there?
 
-Indeed! With LLMs on the rise, community curated datasets become more important as they don't appear in the big data dumps.
+Indeed! With LLMs on the rise, community curated datasets become more important as they don't appear in the big data dumps. Also, frontline communities around the world suffer from a critical data gap that holds them back from making efficient decisions.
 
 ### 14. Wait, wait... What do you mean by "Open Data"?
 
