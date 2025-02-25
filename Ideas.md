@@ -24,7 +24,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 - [[Modularity]] could also be implemented in the graphic side. You can choose the graphics pack you like just like another cosmetic similar to Rimworld or Dwarf Fortress.
 - Player Driven Economy. Everything is made by players and traded for real life currency. The developers only get a fee for each trade. This makes the game fully F2P but also supports the developers.
 - Companion Apps. Some tasks like trading or [[Planning]] could be done from a mobile device.
-- Systems (items, skills, monsters, ...) could be affected by evolutionary processes or driven by [[Large Language Models]]
+- Systems (items, skills, monsters, ...) could be affected by evolutionary processes or driven by [[Artificial Intelligence Models]]
   - Merging two skills could produce a new one (inheriting properties and perhaps with a small mutation).
   - Monsters inside an area could develop resistance against what's killing them, forcing a change of metagame strategies.
   - Quests rewards will also change dynamically like a market.
@@ -36,7 +36,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 
 - What if each city or town had a changelog? What changed in the last _release_? Did it change a street direction or opened a new commerce?
 - What if stores had a changelog? That'd mean price history for each product and also new products would be easier to find.
-- With [[Large Language Models]], we could generate changelogs for "anything".
+- With [[Artificial Intelligence Models]], we could generate changelogs for "anything".
 
 #### Structured Company Changelog
 

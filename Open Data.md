@@ -194,7 +194,7 @@ I wonder if there are ways to use novel mechanisms (e.g: DAOs) to incentive peop
 
 ### 4. How can LLMs help "building bridges"?
 
-LLMs could infer schema, types, and generate some metadata for us. [[Large Language Models|LLMs can parse unstructured data (CSV) and also generate structure from any data source (scrapping websites)]] making it easy to [create datasets from random sources](https://tomcritchlow.com/2021/03/29/open-scraping-database/).
+LLMs could infer schema, types, and generate some metadata for us. [[Artificial Intelligence Models|LLMs can parse unstructured data (CSV) and also generate structure from any data source (scrapping websites)]] making it easy to [create datasets from random sources](https://tomcritchlow.com/2021/03/29/open-scraping-database/).
 
 They're definitely blurring the line between structured and unstructured data too. Imagine pointing a LLMs to a GitHub repository with some CSVs and get the auto-generated `datapakage.json`.
 
