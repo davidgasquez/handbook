@@ -97,6 +97,8 @@
 - Optimizing for short term speed is dangerous if you don't allow some slack to pick up things that will make you faster in the long run.
   - If you want to optimize for speed, you need an experimentation platform to track the impact of changes. Teams need to learn how to [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit).
 - Look for a way to decouple things as much as possible and don't aim for perfection. Aim for eventual convergence.
+- Broadcast what you want to do, when you plan to do it, and give stakeholders space to explicitly object, rather than explicitly chasing consensus / alignment / approval.
+  - Don't ask for a yes. Instead, [offer a chance to say no, but with a deadline](https://www.mooreds.com/wordpress/archives/3518).
 - Beware of [potential things that might harm your team](https://twitter.com/bernhardsson/status/1594722618585874432).
 - When proposing a change, add context to why is important and how it'll impact people.
 - [Standards make it easy for new team members to onboard and enhance efficiency in the long run (removes micro-decisions)](https://seattledataguy.substack.com/p/setting-standards-for-your-data-team).
