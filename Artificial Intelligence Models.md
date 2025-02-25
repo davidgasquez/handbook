@@ -60,17 +60,6 @@ Agents are systems where LLMs dynamically direct their own processes and tool us
   - Evaluator-optimizer. One LLM call generates a response while another provides evaluation and feedback in a loop.
 - ["Prompt engineering"](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) will have a large impact on the usefulness of an agent.
 
-## Tools
-
-- [Curated GitHub Starts list](https://github.com/stars/davidgasquez/lists/robot-llms)
-
-### FrontEnds
-
-- [OpenRouter](https://openrouter.ai/)
-- [Big AGI](https://get.big-agi.com/)
-- [OpenWebUI](https://openwebui.com/)
-- [Anything LLM](https://github.com/Mintplex-Labs/anything-llm)
-
 ## Use Cases
 
 - Naming things.
@@ -92,3 +81,21 @@ Agents are systems where LLMs dynamically direct their own processes and tool us
 - [Official GPT Guide](https://platform.openai.com/docs/guides/gpt-best-practices).
 - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071&p=2)
 - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html).
+
+### Tools
+
+- [Curated GitHub Starts list](https://github.com/stars/davidgasquez/lists/robot-llms)
+
+### FrontEnds
+
+- [OpenRouter](https://openrouter.ai/)
+- [Big AGI](https://get.big-agi.com/)
+- [OpenWebUI](https://openwebui.com/)
+- [Anything LLM](https://github.com/Mintplex-Labs/anything-llm)
+
+### Benchmarks
+
+- [LLM Arena](https://lmarena.ai/)
+- [LiveBench](https://livebench.ai/#/)
+- [Kagi LLM Benchmark](https://help.kagi.com/kagi/ai/llm-benchmark.html)
+- [Open Router Benchmarks](https://openrouter.ai/benchmarks)
