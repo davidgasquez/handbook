@@ -99,3 +99,4 @@ Agents are systems where LLMs dynamically direct their own processes and tool us
 - [LiveBench](https://livebench.ai/#/)
 - [Kagi LLM Benchmark](https://help.kagi.com/kagi/ai/llm-benchmark.html)
 - [Open Router Benchmarks](https://openrouter.ai/benchmarks)
+- [Scale AI Leaderboard](https://scale.com/leaderboard)
