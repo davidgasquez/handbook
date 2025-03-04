@@ -14,6 +14,7 @@
 - Not all actions are equal. Some actions just validate your identify (arguing with someone online) and others don't seem right but make large differences (negotiating farm animals welfare).
 - We usually vote to whoever gives us simple (and probably wrong) solutions.
 - Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government). To reach more people, arguments and topics need to be simplified to the maximum, losing trade-offs and nuance.
+  - Some other criticisms are; average voters are not sophisticated, because each voter only has a small chance of affecting the outcome, few voters put high-quality thought into their decisions, and you often get either low participation (making the system easy to attack) or de-facto centralization because everyone just defaults to trusting and copying the views of some influencer.
 - Democracy is not there to create optimal outcomes, it's there to prevent really really bad outcomes.
 - Any social structure decays over time, including political systems, nonprofits, religions, ... This is a social problem, that needs social solutions.
 - Groups that form around a goal can work better or worse, depending on how well the goal can be verified by the group. If you're forming a group based on [what percentage of your income are you willing to devote to altruism](https://www.effectivealtruism.org/), that's a really easy thing to monitor.

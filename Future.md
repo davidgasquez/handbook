@@ -38,7 +38,7 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
 - CRDTs
 - WASM. Specially Pyodide.
 - Distributed / decentralized data storage systems.
-- Homomorphic Encryption
+- Multi-party computation (MPC), fully homomorphic encryption (FHE), trusted execution environments (TEEs), ...
 - Prolly/Merkle Trees
 - Differential/Timely Dataflow
 - Zero-Knowledge Proofs
