@@ -6,7 +6,7 @@
 - Wits and Wagers.
 - [Diplomacy](https://play.google.com/store/apps/details?id=se.oort.diplicity). Also [Backstabbr](https://www.backstabbr.com/).
 - [The Schelling Game](https://www.lesswrong.com/posts/kM3Xd2mJeWtsGkgSW/the-schelling-game-a-k-a-the-coordination-game). Discern Schelling points among the group.
-- [Aumann Agreement Game](https://docs.google.com/document/d/1gCKURs0Xdnb8PQS54rckS4CJUp8kCklKs2KKi7xDZdA/edit#). Also possible to [play online](https://aumann.io/).
+- [Aumann Agreement Game](https://docs.google.com/document/d/1gCKURs0Xdnb8PQS54rckS4CJUp8kCklKs2KKi7xDZdA/edit#). Also possible to [play online](https://web.archive.org/web/20241226132325/https://aumann.io/).
   - [Calibration Questions](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population).
 - [Black Stories](https://detective-stories.com/).
 - [Stopots](https://stopots.com/es/). Choose a letter, think about things starting with it.
@@ -56,7 +56,7 @@
 
 - [Laser and Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf). Also [with hacks](https://writingalchemy.net/resources/lasers-and-feelings-hacks/)!
 - [Honey Heist](https://gshowitt.itch.io/honey-heist).
-- [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) ([PDF](https://ladyblackbird.org/downloads/lady_blackbird.pdf)).
+- [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) ([PDF](https://web.archive.org/web/20250119094501/https://ladyblackbird.org/downloads/lady_blackbird.pdf)).
 - [Everyone is John](https://img.4plebs.org/boards/tg/image/1377/34/1377343288798.pdf).
 - [Roll for Shoes](https://rollforshoes.com/).
 - [List of one page RPGs](https://www.reddit.com/r/rpg/comments/1vie0k/what_are_your_favorite_onepage_rpgs/).

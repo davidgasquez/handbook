@@ -120,7 +120,7 @@ Package managers have been hailed among the most important innovations Linux bro
 
 - **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be permanent and accessible (look at `git`, `IPFS`, `dolt`, ...).
 - **Versioning**. Should be able to manage _diffs_ and _incremental changes_ in a smart way. E.g: only storing the new added rows or updated columns.
-  - Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
+  - Should allow [automated harvesting of new data](http://web.archive.org/web/20211209080017/http://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
   - Each version is referenced by a hash. Git style.
   - Each version is linked to the code that produced it.
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.
@@ -163,7 +163,7 @@ Package managers have been hailed among the most important innovations Linux bro
 - **Accessible**. Datasets are **files**. Datasets are static assets living somewhere. Don't get in the middle with libraries, gated databases or [obscure licenses](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/). Keep in mind right to exit and decentralization.
 - **Documentation**. Surface derived work (e.g: reports, other datasets, ...) and not only the raw data with minimal metadata.
 - **Embedded Visualizations**. Know what's in there before downloading it.
-  - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](https://tech.datopian.com/views/).
+  - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](http://web.archive.org/web/20211209065537/http://tech.datopian.com/views/).
   - **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
   - **Dynamic**. Use only the data you need. No need to pull 150GB.
 - **Default APIs**. For some datasets, allowing REST API / GraphQL endpoints might be useful. Same with providing an SQL interface.
@@ -446,7 +446,7 @@ metadata: "..."
 
 #### Unified Schema Design
 
-- The goal is to create a single, [unified schema across datasets](https://docs.cybersyn.com/getting-started/concepts/unified-schema). This schema aims to strike a balance between flexibility to accommodate arbitrarily shaped data along with consistency in core tables.
+- The goal is to create a single, [unified schema across datasets](http://web.archive.org/web/20240720064056/https://docs.cybersyn.com/getting-started/concepts/unified-schema). This schema aims to strike a balance between flexibility to accommodate arbitrarily shaped data along with consistency in core tables.
 - Datasets are built around two concepts: entities and timeseries.
   - Entities are concrete things or objects (a geography, a company, a mortgage application).
   - Timeseries are abstract measures (ie. statistics) related to an entity and a date.
