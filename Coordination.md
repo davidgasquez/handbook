@@ -10,11 +10,23 @@
   - Stronger and more powerful [[organizations]].
   - Tools like smart contracts that allow interactions with reduced levels of trust.
   - [[Governance]] technologies (voting, shares, decision markets...).
-- [Keep the work parallel, the groups small, and the resources local.](https://codahale.com/work-is-work/) If possible, factor work products into independent modules; if not, grow slowly and optimize.
+- [Keep the work parallel, the groups small, and the resources local.](https://codahale.com/work-is-work/) If possible, factor work products into independent modules; if not, grow slowly and optimize.
 - Trust increases coordination. To increase trust:
   1. Repeat interactions.
   2. Look for possible win-wins.
-  3. Communicate clearly.
+  3. Communicate clearly and [stablish common context](https://gestalt.cafe/trust-infrastructure/).
+- Trust is foundational to civilization, enabling coordination across time and distance. The internet has eroded traditional trust mechanisms by:
+  - Reducing the surface area for trust-building
+  - Expanding social contexts beyond our capacity to maintain relationships
+  - Separating information from its contextual moorings
+- Radical transparency is not an effective substitute for trust. It often constrains well-intentioned behavior while bad actors find ways to circumvent it.
+- Trust is built gradually through iterated interactions, with two main shortcuts:
+  - Credible commitments (escrow, contracts, penalties)
+  - Common context and proof of historical behavior
+- Modern [trust infrastructure](https://gestalt.cafe/trust-infrastructure/) needs to solve three key problems:
+  - **Contextual richness**: Sharing metadata alongside information
+  - **Expressibility**: Transforming data while preserving meaning
+  - **Audience control**: Sharing different information with different groups
 - The best process is no process! In an ideal state it all just works and everything flows. [Adding a couple of checks seems simple but that affects everyone in that process](https://news.ycombinator.com/item?id=28710193).
   - No [[processes]] requires trusting other people. More trust means better coordination without processes. [Trust is the currency of interactions](https://youtu.be/-vbPXbm8eTw).
   - When a process becomes the proxy for the result you want, you stop looking at outcomes and just make sure you're doing the process right.
@@ -26,7 +38,7 @@
 - The requirements to govern a commons without tragedy:
   - Clear boundaries.
   - Managed by locals.
-    - In a small community, everybody knows everybody, and can keep track of what they do. This makes small groups iterated games which rewards trust and penalizes sociopath behavior.
+    - In a small community, everybody knows everybody, and can keep track of what they do. This makes small groups iterated games which rewards trust and penalizes sociopath behavior.
   - Community makes its own rules.
   - Community can monitor behavior.
   - Graduated sanctions for those who violate community rules.
