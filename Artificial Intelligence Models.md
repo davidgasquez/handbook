@@ -7,6 +7,9 @@
 - Learning to prompt is similar to learning to search in a search engine (you have to develop a sense of how and what to search for).
 - [LLMs are useful when exploiting the asymmetry between coming up with an answer and verifying the answer](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) (similar to how a sudoku is difficult to solve, but it's easy to verify that a solution is correct).
 - [LLMs are good at the things that computers are bad at, and bad at the things that computers are good at](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem). Also good at things that don't have wrong answers.
+- Context is king. Managing the context window effectively is crucial for getting good results.
+- LLMs amplify existing expertise rather than replacing it.
+- Be aware of training cut-off dates when using LLMs.
 
 ## Prompting
 
@@ -37,12 +40,14 @@
 
 ## Coding Tips
 
+- Using LLMs for coding is difficult and unintuitive, requiring significant effort to master.
 - English is becoming the hottest new programming language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
 - Use comments to guide the model to do what you want.
 - Describe the problem very clearly and effectively.
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one.
 - Start with a template you like to bootstrap your project and setup all the necessary toolings and following a manageable project pattern.
 - Before coding, make the plan with the model.
+- Provide the desired function signatures, API, or docs.
 - Many LLMs now have very large context windows, but filling them with irrelevant code or conversation can confuse the model. Above about 25k tokens of context, most models start to become distracted and become less likely to conform to their system prompt.
 - Make the model ask you more questions to refine the ideas.
 - Take advantage of the fact that [redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms).
