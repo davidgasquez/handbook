@@ -8,6 +8,7 @@
 - [LLMs are useful when exploiting the asymmetry between coming up with an answer and verifying the answer](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) (similar to how a sudoku is difficult to solve, but it's easy to verify that a solution is correct).
 - [LLMs are good at the things that computers are bad at, and bad at the things that computers are good at](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem). Also good at things that don't have wrong answers.
 - Context is king. Managing the context window effectively is crucial for getting good results.
+  - Add websites as context with [jina.ai](https://jina.ai/) or [pure.md](https://pure.md/)
 - LLMs amplify existing expertise rather than replacing it.
 - Be aware of training cut-off dates when using LLMs.
 
