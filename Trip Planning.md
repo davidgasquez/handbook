@@ -13,6 +13,7 @@
 - Bring card/board games for long travel days.
 - [FlightAware](https://www.flightaware.com/) is the best free phone app for the status of your flight.
 - Search for "Walking" videos (tours) around the destination on YouTube.
+- [Check the expected weather](https://weatherspark.com/)!
 - Better to spend more time in a few places than a little time in a bunch of places.
 - Many of the principles of [[Teamwork]] applies to a travel group. Trust people want to have a great trip!
 - Learn [how to pack a backpack](https://australianhiker.com.au/advice/how-to-pack-a-backpack-a-beginners-guide/).
