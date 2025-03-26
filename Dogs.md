@@ -45,7 +45,7 @@
 - Have treats everywhere so you have quick access to them.
 - You can use toys and small play sessions as a food reward alternative.
 - Use jackpots when they do something perfectly!
-- Teach it to stay at open doors for 5 seconds so they wont stomp out of your house.
+- Teach it to stay at open doors for 5 seconds so they won't stomp out of your house.
 - Train after a good exercise session. They'll learn quicker.
 - [Set up and reinforce calm behaviors](https://www.reddit.com/r/Dogtraining/wiki/calm) in any situation.
 - Make what they want contingent on what you want them to do first. For example, checking out another dog after looking at you.

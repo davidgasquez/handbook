@@ -6,7 +6,7 @@
 - For each subject you think you know, ask the following questions:
   - How could I be wrong about this? [In general, be less sure about what you know than intuition implies](https://www.lesswrong.com/tag/epistemic-modesty).
   - What evidence would convince me I'm wrong?
-    - We use the same term - “[no evidence](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag)” - to mean:
+    - We use the same term - "no evidence" - to mean:
       - This thing is super plausible, and honestly very likely true, but we haven't checked yet, so we can't be sure.
       - We have hard-and-fast evidence that this is false, stop repeating this easily debunked lie.
 - Be [specific](https://www.lesswrong.com/posts/XosKB3mkvmXMZ3fBQ/specificity-your-brain-s-superpower). Ask yourself the question, "What's an example of that?" Or more bluntly, "Can I be more specific?"
@@ -17,7 +17,7 @@
   - Many beliefs are held because there is a social and tribal benefit to holding them, not necessarily because they're true.
   - A great way to do that is to [bet on everything](https://www.lesswrong.com/posts/ybYBCK9D7MZCcdArB/how-to-measure-anything) where you can or will find out the answer. Even if you're only testing yourself against one other person, it's a way of calibrating yourself to avoid both overconfidence and under-confidence, which will serve you in good stead emotionally when you try to do [[Fallacies|inadequacy reasoning]]. It'll also force you to do falsifiable predictions.
     - A tool to assign a percentage to a belief is [the equivalent bet test](https://www.lesswrong.com/posts/EtxTDPMXrbmpheiAt/how-the-equivalent-bet-test-actually-works).
-- Instead of thinking "I'm sure X is fake!", try to think in terms of probabilities. E.g: I think there's a 90% chance X is fake. Instead of thinking in terms of changing your mind, think in terms of updating your probabilities. [This mindset](https://astralcodexten.substack.com/p/book-review-the-scout-mindset) makes it easier to remember that it's not a question of winning or losing, but a question of being as accurate as possible. “Probability update” is less emotionally devastating than "I said X, but actually ~X, so I was wrong").
+- Instead of thinking "I'm sure X is fake!", try to think in terms of probabilities. E.g: I think there's a 90% chance X is fake. Instead of thinking in terms of changing your mind, think in terms of updating your probabilities. [This mindset](https://astralcodexten.substack.com/p/book-review-the-scout-mindset) makes it easier to remember that it's not a question of winning or losing, but a question of being as accurate as possible. "Probability update" is less emotionally devastating than "I said X, but actually ~X, so I was wrong").
 - You can try things to find out which ideas are right or wrong. It requires asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
 - Knowledge decays. Things you learned in the past might not be true nowadays (_status of Pluto as a planet, dinosaurs with feathers, number of people living, ..._). [Facts decay over time until they are no longer facts or perhaps no longer complete](https://fs.blog/2018/03/half-life/).
 - Don't fully trust Science (or History) as is not perfect. Studies are based on incorrect assumptions (from other studies), might have experimental issues, or might be manipulated by external factors (e.g: tobacco companies paying for studies).
@@ -31,7 +31,7 @@
 - You need a view of both the micro and the macro, the forest and the trees — and how both perspectives slot together.
 - Local Validity: Some argument steps are allowed steps and some argument steps aren't ([Non-Central Fallacy](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world)), independently of whether they arrive at an answer you agree with.
 - People can fool you by saying they saw things that they didn't see, telling you some things they know but not others or by using flawed steps when drawing conclusions. When you try to make an argument come out with a particular answer, you can fool yourself in the same way.
-- Assume good faith. Trust the other person to be believing things that make sense to them, which you'd have ended up believing if you were exposed to the same stimuli, and that they are generally trying to find the the truth.
+- Assume good faith. Trust the other person to be believing things that make sense to them, which you'd have ended up believing if you were exposed to the same stimuli, and that they are generally trying to find the truth.
 - When you see something odd or something that doesn't fit with what you'd ordinarily expect, notice and promote it to conscious.
 - [Notice when your mind is flinching away from a thought and flag that area as requiring more deliberate exploration](https://www.lesswrong.com/posts/ttGbpJQ8shBi8hDhh/checklist-of-rationality-habits).
 - [Notice](https://agentyduck.blogspot.com/2014/12/how-to-train-noticing.html) your internal state (cognitive and emotional).
@@ -54,7 +54,7 @@
 - Do your philosophical thinking in advance ([cached thoughts](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts)), so you can concentrate on explaining well. Above all, practice staying within the one-inferential-step bound.
   - [Think for yourself about "wise" or important or emotionally fraught topics](https://www.lesserwrong.com/posts/aSQy7yHj6nPD44RNo/how-to-seem-and-be-deep) rather than letting your brain complete the pattern. If you don't stop at the first answer, and cast out replies that seem vaguely unsatisfactory, in time your thoughts will form a coherent whole, flowing from the single source of yourself, rather than being fragmentary repetitions of other people's conclusions.
   - Sometimes inferential distances can be very far apart. You need [willingness to entertain and explore ideas before deciding that they are wrong](https://slatestarcodex.com/2020/05/12/studies-on-slack/). The other person might be on a self-consistent equilibria (someone christian, creationism, ...) and only changing one view of the world wouldn't work. You have to convince them for all the views. [A clear argument has to lay out an inferential pathway, starting from what the audience already knows or accepts](https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances). Same applies when working with a group or even for you! _Change your mind a little at a time_.
-    - You cant reason someone out of a notion that they didn't reason themselves into.
+    - You can't reason someone out of a notion that they didn't reason themselves into.
 - There's a distinction between tacit knowledge and explicit knowledge:
   - Tacit knowledge is like the knowledge that you use to ride a bicycle—it's complex, experiential, intuitive, hard to put into words. There is knowledge experts have, but cannot explain or write down.
   - Explicit knowledge is clear and concrete and transferable and (at least somewhat) objectively verifiable. How you ride a bicycle is tacit, but the fact that you can ride a bicycle is explicit. It's a binary fact that can be completely and compactly transferred through words, and that is verifiable through experiment.
@@ -85,8 +85,7 @@
 - [Rationality Checklist](https://www.rationality.org/resources/rationality-checklist) - [[Checklist]] for personal use, so you can have a wish-list of rationality [[Habits]] and see if you're acquiring good habits.
 - [Kialo](https://www.kialo.com/) - Tool to explore debates.
 - [Arguman](https://arguman.org/) - An argument analysis platform.
-- [Guesstimate](https://www.getguesstimate.com/) - A spreadsheet for things
+- [Guesstimate](https://www.getguesstimate.com/) - A spreadsheet for things that aren't certain.
 - [Metaculus](https://www.metaculus.com/) - Community dedicated to generating accurate predictions about future real-world events by aggregating the collective wisdom, insight, and intelligence of its participants.
-that aren't certain.
 - [Rationality skill tree](https://www.lesswrong.com/posts/wccxMtZdEvHzLRNTZ/a-practice-of-rationality-sequence?commentId=BFaNYCKd3oQqQoZpH).
 - [Center For Applied Rationality Handbook](https://rationality.org/files/CFAR_Handbook_2021-01.pdf)

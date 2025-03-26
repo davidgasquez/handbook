@@ -4,7 +4,7 @@
   - On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are necessary but not valuable. Value is captured by the apps.
     - A great example of a modern open source protocol is [[IPFS]].
   - Fat protocols contain the data. With open protocols and decentralized data ([[Decentralized Web]]), apps are only the frontend of the services.
-- [Protocol and Open Source Funding](https://youtu.be/few99D5WnRg?list=WL). It'll add to the current ways to to fund open source projects:
+- [Protocol and Open Source Funding](https://youtu.be/few99D5WnRg?list=WL). It'll add to the current ways to fund open source projects:
   - Consulting: open source the code, sell consulting.
   - Cloud: open source some code, but sell a closed source cloud complement.
   - [Community](https://mobile.twitter.com/balajis/status/1310101055816921090): open source all code, and issue a token or charge for access to the community.

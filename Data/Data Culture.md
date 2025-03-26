@@ -2,7 +2,7 @@
 
 - The data team needs to be focus on delivering insights and supporting decisions. The outcome of the data team are *decisions* and a *shared context across the organization* that makes coordination easier.
   - Your goal as a data professional is to facilitate [[Making Decisions|decision making]] and [help surface/investigate the performance of a business](https://sqlpatterns.com/p/delivering-value-as-a-data-team) (e.g. [operational](https://twitter.com/ergestx/status/1731324299590479989)).
-  - Learning to drive decisions quickly, a bias to action, is a critical competency for an analyst. Every skill you learn – [[communication]], [[writing]], [[experimentation]], [[Metrics|metric design]] – supports this.
+  - Learning to drive decisions quickly, a bias to action, is a critical competency for an analyst. Every skill you learn – [[communication]], [[writing]], [[experimentation]], [[Metrics|metric design]] – supports this.
   - [If analysis is not actionable, it does not really matter](https://twitter.com/decisionleader/status/1661041373783441408). Analysis must drive to action. [Clear results won't spur action themselves](https://www.linkedin.com/posts/eric-weber-060397b7_data-analytics-machinelearning-activity-6675746028144205824-CQxW/). The organization needs to be ready to pivot when something isn't working.
     - [Data doesn't make decisions, people do](https://twitter.com/teej_m/status/1765475939084029956).
 - [Data's impact is tough to measure — it doesn't always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html)
@@ -121,17 +121,17 @@
   - You know where it is.
   - You know how to translate that question to a data question.
   - You know how to answer that data question by converting the data that exists into an answer.
-  - You're aware of the the quirks in the data.
+  - You're aware of the quirks in the data.
 - [Differentiate analytics from data platform work. They are two different jobs, and expecting one to do the work of the other is a trap](https://twitter.com/jamesdensmore/status/1518998298111225857).
   - Data Platform: data infra, pipelines, and a bit of data warehouse modeling
   - Analytics: Making sense of data to guide decisions
-- Make your [modeling technique](hhttps://web.archive.org/web/20230925091656/https://data-columns.hightouch.io/untitled-2/) explicit.
+- Make your [modeling technique](https://web.archive.org/web/20230925091656/https://data-columns.hightouch.io/untitled-2/) explicit.
 - Have a documentation [entry-point for Data](https://github.com/mozilla/data-docs).
 - [For self-serve, aim to own as little as possible but keep in mind you can't make people do what you want but can stop them for doing what you don't want](https://youtu.be/wyW6hQGZxgY)
   - [You need to make a grocery store. You can't give folks directions to the farm to pick their own produce](https://twitter.com/teej_m/status/1603205457992044545).
 - It's easy to lie with statistics, but it's hard to tell the truth without them.
   - On the other hand, good science doesn't need statistics, you can just look at the scatterplot.
-- Most people approach data with an "optimisation worldview", thinking in terms of "make number go up". There is an alternative. The Process Control worldview, which is similar to"Here is a process. Your job is to discover all the control factors that affect this process.".
+- Most people approach data with an "optimisation worldview", thinking in terms of "make number go up". There is an alternative. The Process Control worldview, which is similar to "Here is a process. Your job is to discover all the control factors that affect this process.".
   - Your job is to figure out what you can control that affects the process, and then systematically pursue that.
   - You can discover these control factors through one of two ways:
     - [[Experimentation]]

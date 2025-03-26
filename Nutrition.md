@@ -24,4 +24,4 @@
 
 - [Examine.com](https://examine.com/) - Nutrition and Supplement Articles.
 - [Eat This Much](https://www.eatthismuch.com/) - Create personalized meal plans based on your food preferences, budget, and schedule.
-- [Budget Bytes](https://www.budgetbytes.com/)- Spend less and enjoy more.
+- [Budget Bytes](https://www.budgetbytes.com/) - Spend less and enjoy more.
