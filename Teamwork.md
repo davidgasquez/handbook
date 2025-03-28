@@ -37,7 +37,7 @@
   - Having skin in the game improves the decision making process.
   - [Have direct responsible individuals for everything. Everyone's problem is no one's problem](https://nintil.com/programming). Having a name accountable instead of a vague "the team" or "the process" makes it easy to make changes.
 - Write postmortems after large changes. This will create [[Feedback Loops]] to guide learning about what happened and how it can be avoided next time. It'll also help calibrate for the previous decisions.
-- Do [lightweight self reviews](https://andrewhuth.substack.com/p/writing-good-performance-self-reviews) . Worst case scenario, they help you update your resume.
+- Do [lightweight self reviews](https://andrewhuth.substack.com/p/writing-good-performance-self-reviews). Worst case scenario, they help you update your resume.
 - Make time to pay technical debt. [[Systems]] evolve organically over time and might get stuck on a local maximum. Alternative abstractions/designs might be better to continue progressing! There are two kinds of tech debt:
   - Things you haven't built yet.
   - Things you shouldn't have built that way.
@@ -47,8 +47,8 @@
   2. Make a list of everything that feels off, no matter how big or small.
   3. Wait a bit, like a month, but address everything.
 - This translates to ideas to review, tools to try, docs you want to write up, ...
-- Culture should incentive people to fix things outside their area. Encourage submitting Pull Requests that might be rejected.
-- Teams [need slack to absorb and adapt when unexpected things come up](https://www.neelnanda.io/blog/38-slack) and to prioritize the development of force multipliers (tooling and automation).
+- Culture should incentivize people to fix things outside their area. Encourage submitting Pull Requests that might be rejected.
+- Teams [need slack to absorb and adapt when unexpected things come up](https://www.neelnanda.io/blog/38-slack) and to prioritize the development of force multipliers (tooling and automation).
   - Lack of [[slack]] compounds. It gets harder and harder to get out as more things get added to backlogs and more patches get added on the systems you build (slowing you down in the end).
   - A more focused backlog makes it easier and faster to plan cycles, and ensures the work will actually get done.
   - [Balance putting code where they are most comfortable while optimizing for speed vs putting the code where it belongs when considering a longer term perspective on the overall system.](https://twitter.com/jmwind/status/1477399261700526080).
@@ -61,7 +61,7 @@
 - Spend time at work thinking strategically. E.g: Think about the approach you will take to address the company's needs over the medium to long term.
 - **How to drive change in a team**: find people who agree on the problem, start small, experiment, scale, repeat. Making big change is hard. Keeping things simple is hard.
   - On the other hand, beware of changing too many things. You don't feel the pain of things you're not doing!
-- Scale organizational efforts across a portfolio of synergistic products.
+- Scale organizational efforts across a portfolio of synergistic products.
 - Don't replace prototypes with roadmaps. Encourage prototyping to learn and build confidence with different parts of your software stack.
 - Ask people ["when do you think you'll get this done"](https://mobile.twitter.com/Carnage4Life/status/1438982223395393536), write it down and then follow up at that time. That makes teams more effective.
 - Every document must have a specific goal written at the top of it.
@@ -114,13 +114,13 @@
 - Most software or processes should be opinionated. In increases [[Coordination|collaboration]]. Flexible processes lets everyone invent their own workflows, which eventually creates chaos as teams scale.
 - As teams scale, traditional approaches to decision making force a tradeoff between transparency and efficiency.
   - The easiest way to ensure everyone can understand the how and why of a decision is to adopt systems that, through their daily operation, ensure such context is automatically and readily available to those who might want it (and explicitly not only those who presently need it).
-- [Run 1:1s (one-on-ones)](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/). A recurring meeting with no set agenda between a manager and one of their reports. Don't make it a status update (these should be async). Chat about anything bothering you, career growth or type work that is interesting for you. End it with actionable next steps.
+- [Run 1:1s (one-on-ones)](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/). A recurring meeting with no set agenda between a manager and one of their reports. Don't make it a status update (these should be async). Chat about anything bothering you, career growth or type of work that is interesting for you. End it with actionable next steps.
 - Say no a lot, up front. [Distractions are anything that doesn't help you keep your existing features running, or deliver your top priority faster](https://alexturek.com/2022-03-07-How-to-do-less/). Finishing work is more important than starting it.
 - As a new team member:
   - Ask questions without judging. Never ever be _negative_ about the stuff they created. It was done for a reason.
   - Beware of [Normalization of Deviance](https://danluu.com/wat/).
 - When meeting/emailing interesting people ask if they know anyone else you can meet with. [Try to expand your network with successful folks in the area/space!](https://twitter.com/AdamRy_n/status/1297920306900865024)
-- Keep a [private work log](https://youtu.be/HiF83i1OLOM?list=PLYXaKIsOZBsu3h2SSKEovRn7rGy7wkUAV). It'll make easier for everyone to advocate what you did.
+- Keep a [private work log](https://youtu.be/HiF83i1OLOM?list=PLYXaKIsOZBsu3h2SSKEovRn7rGy7wkUAV). It'll make it easier for everyone to advocate what you did.
 - [Don't sabotage the team](https://erikbern.com/2023/12/13/simple-sabotage-for-software)!
 - [Nobody gets credit for fixing problems that never happened](https://news.ycombinator.com/item?id=39472693). People get credit for shipping things. Figure out how to reward and recognize people for preventing problems.
 - The same practices that make great [[Artificial Intelligence Models]] [promts](https://platform.openai.com/docs/guides/prompt-engineering) also make [great practices with humans](https://x.com/tayloramurphy/status/1849269205155123568):
@@ -150,7 +150,7 @@
 - There's a real danger in thinking that what made you successful in the past will make you successful now.
 - Read all the things.
 - The team you'll be working on will probably have some kind of [normalized deviance](https://danluu.com/wat/). Try to [understand why everything is as it is](https://fs.blog/chestertons-fence/) before doing any recommendations. Don't come in with "the answers".
-  - [Chesterton's fence](https://www.meyerperin.com/posts/2022-04-02-chestertons-fence.html) is an important concept to keep in mind when starting a new job or a new scope of work. The [context of why a certain architectural choice was made](https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production/) is just as important as understanding its current pain points.
+  - [Chesterton's fence](https://www.meyerperin.com/posts/2022-04-02-chestertons-fence.html) is an important concept to keep in mind when starting a new job or a new scope of work. The [context of why a certain architectural choice was made](https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production/) is just as important as understanding its current pain points.
 - Record first impressions / friction log as you go. [Beginner's mind has real value](https://eugeneyan.com/writing/onboarding/)!
 - Build great relationships so you can be supported in decisions to get some early wins.
 - One of the most valuable things you can do during onboarding is update/write documentation and [create/update checklist of all the processes](https://lifeitself.org/tao/onboarding#create-an-onboarding-issue). This will help you and your team in the long run.
