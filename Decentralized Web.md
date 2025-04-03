@@ -16,7 +16,7 @@
 - [Kernel Community](https://kernel.community/).
 - Decentralized friendly and open source alternatives:
   - [Trello](https://dework.xyz/)
-  - [Notion](https://www.clarity.so/)
+  - [Notion](http://web.archive.org/web/20241220080916/https://www.clarity.so/)
   - [Medium](https://mirror.xyz/dashboard)
   - [Imgur](https://www.pinata.cloud/)
   - [Netlify](https://fleek.co/)
@@ -52,7 +52,7 @@ There is an emerging landscape of [Data and Blockchain](https://www.primodata.or
 - [Tokenflow](https://tokenflow.live/)
 - [Indexed.xyz](https://github.com/indexed-xyz)
 - [BitQuery](https://bitquery.io/) ([GitHub](https://github.com/bitquery/explorer))
-- [Coherent](https://coherent.xyz/)
+- [Coherent](http://web.archive.org/web/20250312045544/https://coherent.xyz/)
 - [Covalent](https://www.covalenthq.com/) ([GitHub](https://github.com/covalenthq))
 - [Nansen](https://www.nansen.ai/)
 - [Footprint](https://www.footprint.network/) ([GitHub](https://github.com/footprintanalytics))

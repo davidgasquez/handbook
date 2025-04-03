@@ -1,6 +1,6 @@
 # Unified Schema Design
 
-- The goal is to create a single, [unified schema across datasets](https://docs.cybersyn.com/getting-started/concepts/unified-schema). This schema aims to strike a balance between flexibility to accommodate arbitrarily shaped data along with consistency in core tables.
+- The goal is to create a single, [unified schema across datasets](http://web.archive.org/web/20240720064056/https://docs.cybersyn.com/getting-started/concepts/unified-schema). This schema aims to strike a balance between flexibility to accommodate arbitrarily shaped data along with consistency in core tables.
 - Datasets are built around two concepts: entities and timeseries.
   - Entities are concrete things or objects (a geography, a company, a mortgage application).
   - Timeseries are abstract measures (ie. statistics) related to an entity and a date.

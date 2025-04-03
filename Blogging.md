@@ -37,6 +37,7 @@
   4. Some open questions that invite people to discuss.
 - [Keep making your post more opinionated until it reflects your true beliefs](https://twitter.com/HamelHusain/status/1751995737095709164). Don't hedge. People want to hear what you think!
 - The title gets read way more than the rest, so make it count.
+- The inverted pyramid works well for blog posts. Put the tweet-length version of the post in the title or first paragraph. Get to the point quickly, then elaborate. Readers can bail out at any point of the text and still take home most of what mattered, while the meticulous crowd can have their nitpicks addressed toward the end.
 - [You're not just writing for today's invisible audience](https://web.archive.org/web/20250219111210/https://andysblog.uk/why-blog-if-nobody-reads-it/). You're writing for:
   - Future you. Your posts become a time capsule of your evolving mind.
   - One right person. Maybe one day, someone stumbles across your words at exactly the right moment. And that changes something for them.

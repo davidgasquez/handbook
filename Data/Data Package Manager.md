@@ -32,9 +32,9 @@ Data is not code, but the activities of both publishers and users of datasets re
 
 ## Storage and Serialization
 
-- **Permanence**. Each [version](https://tech.datopian.com/versioning/) should be permanent and accessible (look at `git`, `IPFS`, `dolt`, ...).
+- **Permanence**. Each [version](http://web.archive.org/web/20211209080049/http://tech.datopian.com/versioning/) should be permanent and accessible (look at `git`, `IPFS`, `dolt`, ...).
 - **Versioning**. Should be able to manage _diffs_ and _incremental changes_ in a smart way. E.g: only storing the new added rows or updated columns.
-  - Should allow [automated harvesting of new data](https://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
+  - Should allow [automated harvesting of new data](http://web.archive.org/web/20211209080017/http://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
   - Each version is referenced by a hash. Git style.
   - Each version is linked to the code that produced it.
 - **Smart**. Use appropriate protocols for storing the data. E.g: rows/columns shouldn't be duplicated if they don't change.

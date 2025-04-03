@@ -75,7 +75,7 @@
   - Being able to run small and compounding experiments (on the product or company [[processes]] and systems) is important. **Work smaller**.
     - [Some experiments won't work](https://www.lesswrong.com/posts/97LgacucCxmyjYiNT/the-archipelago-model-of-community-standards). But oftentimes it _feels_ like it wont work when in fact you just haven't stuck with it long enough for it to bear fruit. This is hard enough for _solo_ experiments. For group experiments, where not just one but _many_ people must all try a thing at once and _get good at it_, all it takes is a little defection to spiral into a mass exodus.
 - The group with the most power determine the system that reflect and reinforce their own way of thinking. Aim for inclusion. _Diversity is being invited to the party. Inclusion is being asked to dance and help organizing the party_.
-- [Brainstorm for questions first (explore). Then find the answers (exploit).](https://getpocket.com/explore/item/better-brainstorming)
+- [Brainstorm for questions first (explore). Then find the answers (exploit).](http://web.archive.org/web/20240522210302/https://getpocket.com/explore/item/better-brainstorming)
 - Strive for constructive conflict. Get people to[[Asking Questions|ask questions]]. Engage in passionate, unfiltered debate about what you need to do to succeed.
 - Encourage to fail. Failing is good if the team [[Learning|learns]] from it!
 - Encourage effectiveness. Find ways to free up your time.
