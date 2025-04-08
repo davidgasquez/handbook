@@ -9,6 +9,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Design for simplicity**.
   - Do the [simplest thing](https://landing.google.com/sre/book/chapters/simplicity.html) that could possibly work.
   - Benefits of simplicity: ease of understanding, ease of change (improvement), ease of debugging, flexibility. [The goal of software design is to create chunks or slices that fit into a human mind](https://mobile.twitter.com/KentBeck/status/1354418068869398538). The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes.
+  - Break down complex problems into simpler, digestible pieces. If you do it right, it will feel like cheating: you just solve simple problems until you're done.
   - We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
   - Eliminate state. If you can't, make it visible.
   - Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
@@ -41,7 +42,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **A programmer who can't re-use other programs is condemned to re-write them**.
   - Use software leverage to your advantage.
   - Many programmers have only a superficial understanding of the importance of re-usable code modules.
-  - [Code isn't just meant to be executed. Code is also a means of [[Communication]] across a team, a way to describe to others the solution to a problem](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
+  - [Code isn't just meant to be executed. Code is also a means of [[Communication]] across a team, a way to describe to others the solution to a problem](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d). Good writing skills often correlate with good thinking and programming skills. [Sharing knowledge through writing (blogs, talks, documentation, open source) clarifies your thinking and helps others](https://endler.dev/2025/best-programmers/).
 - **Silence is golden**.
   - A silent command is often more usable, providing the function asked for and nothing more.
 - **Think parallel**.
