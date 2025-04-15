@@ -18,9 +18,8 @@
 - [Nomic](https://en.wikipedia.org/wiki/Nomic).
 - Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say them in order.
 - Everyone puts a finger in the same platform. Someone counts to three and says the number of fingers remaining in the platform, if they are correct, they're out.
-- Grammarly. Make teams. Generate a random word. One person on each team needs to guess it. The rest of the team needs to proceed a correct phrase that describes the word.
+- Grammarly. Make teams. Generate a random word. One person on each team needs to guess it. The rest of the team needs to take turns saying a word that forms a sentence to describe the word.
 - Guess Who. Someone asks a question like "Who is most likely to do X?" and everyone points to their guess at the same time.
-  [12/31/2024, 12:22] David Gasquez: - Who is most likely to become a monk. Points if you get the person with most votes.
 - Cheers to the Governor. As a group, you have to count to 21. The first rule is that 7 and 14 are swapped. Every time you succeed, you say cheers to the governor and add a new rule (e.g: 8 changes sense, 9 is silent, you have to say hello instead of 4, ...).
 - Celebrity cup. Add people to a cup and grab 2. You need to defend why that couple will work.
 - Deduction Games like "Who Has the Hat".
