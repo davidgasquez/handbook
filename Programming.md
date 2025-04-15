@@ -14,6 +14,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Eliminate state. If you can't, make it visible.
   - Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
   - Complexity is the single major difficulty in the successful development of large-scale software systems.
+  - [You don't need to scale right away](https://thmsmlr.com/cheap-infra). Servers are getting more capable faster than the internet is growing.
   - Compounding complexity must be fought at every turn. [Alternate between phases of expansion (new features) and consolidation](https://qntm.org/devphilo).
   - Write code that's easy to delete.
   - If you can't easily explain why something is difficult, then it's incidental complexity, which is probably worth addressing.
