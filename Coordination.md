@@ -53,4 +53,8 @@
 - A way to coordinate without trust is relying on [[Blockchain]] and [[Cryptocurrencies]].
 - Coordinating is better than who takes the resources. The more you can coordinate, the more resources you can take ([Paretotopia](https://youtu.be/1lqBra8r468)). Keep this in mind when making decisions and negotiating.
 - [Ability to coordinate](https://thecompendium.cards/c/coordination-as-form-of-power) is a form of power.
+- [Collusion](https://vitalik.eth.limo/general/2019/04/03/collusion.html) is the dark side of coordination, where a subset of people coordinate against the interests of a broader group.
+  - Cannot be detected by looking at actions alone, as the same actions can be legitimate or collusive depending on context and intentions.
+  - Requires specific countermeasures like deliberate decentralization, skin-in-the-game mechanisms, and fostering counter-coordination (e.g., forking in blockchain systems).
+  - Examples include price fixing between sellers, vote buying, and 51% attacks on blockchains.
 - Explore [Cooperative Governance](https://nadia.xyz/voting) ideas. It offers an elegant compromise between on-chain and off-chain governance: you have a failure outcome that's enforced and "real", but the process of consensus remains firmly in the hands of people.

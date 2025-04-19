@@ -32,6 +32,7 @@
   - Open source and publicly verifiable execution.
   - Keep it simple.
   - Don't change it too often.
+- Cryptoeconomics is about trying to reduce social trust assumptions by creating systems where we introduce explicit economic incentives for good behavior and economic penalties for bad behavior.
 
 ## Types of Decentralization
 
