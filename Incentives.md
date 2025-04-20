@@ -22,7 +22,7 @@ Behavior is hard to fix. When people say they've learned their lesson they under
 
 ## Incentive Framework
 
-[A structure through which to create, evaluate, and adjust incentives.](https://mobile.twitter.com/SahilBloom/status/1434847309976702980)
+[A structure through which to create, evaluate, and adjust incentives.](https://twitter.com/SahilBloom/status/1434847309976702980)
 
 1. **Objectives**. What does success look like? Without upfront deep thought on objectives, intelligent incentive design is impossible.
 2. **Metrics**. Establish [[Metrics|metrics that you will measure to track success]]. Avoid the McNamara Fallacy—never choose metrics on the basis of what is easily measurable over what is meaningful. Identify a wish list of metrics with no regard for feasibility. Work backwards from there.
@@ -36,3 +36,11 @@ Behavior is hard to fix. When people say they've learned their lesson they under
 Mechanism design is the study of how incentives are created to achieve desired outcomes. It focuses on the design of [[Systems]] and [[Processes]] to achieve desired outcomes.
 
 - Software is eating Mechanism Design. Incentives can be encoded in [[blockchain|blockchains]].
+
+### Impact Evaluators
+
+It's hard to fund important things like public goods, open-source software, research, etc. that don't have a clear, immediate financial return, especially high-risk/high-reward projects.
+
+Traditional funding often fails here. Instead of just giving money upfront (prospectively), Impact Evaluators create systems that look back at what work was actually done and what impact it actually had (retrospectively). The setup is similar to Control Theory. Based on measuring and evaluating this impact against predefined goals, the system then distributes rewards (e.g: similar to how BitCoin block rewards do it).
+
+The Impact Evaluator goal is to **create strong incentives for people/teams to work on valuable, uncertain things** by promising a reward if they succeed in creating demonstrable impact.
