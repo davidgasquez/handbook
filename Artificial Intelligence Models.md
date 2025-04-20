@@ -54,6 +54,7 @@
 - Take advantage of the fact that [redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms).
 - If you want to force some "reasoning", ask something like "[is that a good suggestion?](https://news.ycombinator.com/item?id=42894688)" or "propose a variety of suggestions for the problem at hand and their trade-offs".
 - Add relevant context to the prompt. Context can be external docs, a small pesudocode code example, etc. Adding lots of context can confuse the model, so be careful!
+- [Teach the agents to use tools](https://www.anthropic.com/engineering/claude-code-best-practices).
 
 ## Agents
 

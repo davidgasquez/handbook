@@ -30,3 +30,9 @@ Behavior is hard to fix. When people say they've learned their lesson they under
 4. **Stakes & Effects**. Consider the stakes. If the failures are costly and the decisions hard to reverse, conduct a heavier analysis.
 5. **Skin in the Game**. To avoid principal-agent problems, the incentive designer should have skin in the game. Never allow an incentive to be implemented where the creator participates in pleasure of the upside, but not the pain in the downside. Skin in the game improves outcomes.
 6. **Clarity & Fluidity**. An incentive is only as effective as the clarity of its dissemination and the ability and willingness to adjust it based on new information. Create even understanding playing fields for all constituents and avoid plan continuation bias.
+
+## Mechanism Design
+
+Mechanism design is the study of how incentives are created to achieve desired outcomes. It focuses on the design of [[Systems]] and [[Processes]] to achieve desired outcomes.
+
+- Software is eating Mechanism Design. Incentives can be encoded in [[blockchain|blockchains]].
