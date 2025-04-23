@@ -27,6 +27,7 @@
 - When building a technology, consider: [does this centralize or decentralize power?](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html)
 - Many decentralized protocols are trying to build next generation common digital infrastructure.
   - Unfortunately,[nearly every crypto project realized that they could capture value (make a lot of money) with innovative tokenomics that looked a lot like Ponzis, or at least borderline securities fraud](https://andrewconner.com/common-digital-infrastructure/).
+- [Whether something is decentralised or not is a function of the administrative control of different parts of the system, not a function of the network topology](https://bsky.app/profile/martin.kleppmann.com/post/3jujacxncil2r).
 - [Credible neutrality](https://nakamoto.com/credible-neutrality/) is the principle that a system or protocol should be demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests. When building mechanisms that decide high-stakes outcomes, it's very important for those mechanisms to be credibly neutral. Rules to building a credibly neutral mechanism:
   - Don't write specific people or specific outcomes into the mechanism.
   - Open source and publicly verifiable execution.

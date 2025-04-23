@@ -51,6 +51,7 @@
   - There's a difference between redundant complexity (many parts serving similar goals) and optimizing complexity (one knob per problem).
   - What seems "simple" is often just familiar - cultural context and shared historical experience shape our perception of complexity.
   - [[Systems|System design]] should balance mathematical/technical approaches with historical/anthropological learning to avoid extreme conservatism or dangerous utopianism.
+- [Architecture is Politics](https://web.archive.org/web/20070607161518/blog.kapor.com/?p=29). Freedom, participation, creativity, and openness are better fostered by a [[Decentralized Protocols|decentralized]] but [[coordination|coordinated]] architecture.
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
