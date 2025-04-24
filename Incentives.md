@@ -37,6 +37,8 @@ Mechanism design is the study of how incentives are created to achieve desired o
 
 - Software is eating Mechanism Design. Incentives can be encoded in [[blockchain|blockchains]].
 - The simpler a mechanism is, and the fewer parameters a mechanism has, the less space there is to insert hidden privilege for or against a targeted group. If a mechanism has fifty parameters that interact in complicated ways, then it’s likely that for any desired outcome you can find parameters that will achieve that outcome.
+  - The best engineering designs are those that remove things and make them implicit.
+  - Remember to keep fast [[Feedback Loops]] in mind when designing mechanisms.
 
 ### Impact Evaluators
 
