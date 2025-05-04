@@ -77,7 +77,7 @@
   - Is Data up to date?
   - Is Data Accessible and Discoverable?
   - Is Data Secure?
-- [Good things come from a knowledge of what a system is doing and when it is doing it](https://buz.dev/blog/the-contract-powered-data-platform).
+- [Good things come from a knowledge of what a system is doing and when it is doing it](http://web.archive.org/web/20241103233613/http://buz.dev/blog/the-contract-powered-data-platform).
   - Measure [[data quality]] to help set high standards for your data team.
   - Only after measurement can you optimize cost.
   - Only after timing can you make things faster.

@@ -11,7 +11,7 @@ Handbooks are key for good [[Company Knowledge Management]].
 - [Airbyte](https://handbook.airbyte.com/)
 - [Zapier](https://zapier.com/learn/remote-work/)
 - [Thoughtbot](https://thoughtbot.com/playbook)
-- [18F](https://handbook.18f.gov/)
+- [18F](http://web.archive.org/web/20190709054823/https://handbook.18f.gov/)
 - [Basecamp](https://github.com/basecamp/handbook)
 - [Sourcegraph](https://handbook.sourcegraph.com/)
 - [Madetech](https://github.com/madetech/handbook)

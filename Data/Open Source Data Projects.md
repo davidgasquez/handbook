@@ -11,7 +11,7 @@
 
 - [Jitsu](https://jitsu.com/)
 - [Rudderstack](https://www.rudderstack.com/)
-- [Snowplow Analytics](https://snowplowanalytics.com/)
+- [Snowplow Analytics](http://web.archive.org/web/20220824172020/https://snowplowanalytics.com/)
 
 ## Business Intelligence
 

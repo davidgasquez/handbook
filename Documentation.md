@@ -39,7 +39,7 @@
 - [Microsoft Documentation Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [Google Documentation Style Guide](https://developers.google.com/style)
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/voice-and-tone/)
-- [18F Content Guide](https://content-guide.18f.gov/our-style/voice-and-tone/)
+- [18F Content Guide](http://web.archive.org/web/20230327160033/https://content-guide.18f.gov/our-style/voice-and-tone/)
 
 ## READMEs
 

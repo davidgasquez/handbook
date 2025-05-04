@@ -28,6 +28,7 @@
 - Card deck to play games.
 - Phone charger.
 - eSIM (Airalo [or similar](https://esimdb.com/)).
+- Power Adapter.
 
 ### Checklist
 
