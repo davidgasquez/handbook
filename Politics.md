@@ -52,6 +52,7 @@
   - What seems "simple" is often just familiar - cultural context and shared historical experience shape our perception of complexity.
   - [[Systems|System design]] should balance mathematical/technical approaches with historical/anthropological learning to avoid extreme conservatism or dangerous utopianism.
 - [Architecture is Politics](https://web.archive.org/web/20070607161518/blog.kapor.com/?p=29). Freedom, participation, creativity, and openness are better fostered by a [[Decentralized Protocols|decentralized]] but [[coordination|coordinated]] architecture.
+- Pluralism — the understanding that diversity of people, beliefs, opinions, mechanisms, approaches, implementations, etc within a given context generally results in better outcomes than in the absence of such diversity.
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
