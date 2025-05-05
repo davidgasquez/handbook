@@ -25,6 +25,7 @@
   6. Revise your claim / switch sides.
   7. Repeat steps 3-6 a bunch.
 - People learn when they're surprised.
+- Everything is an experiment. Optimize for being able to run the fast experiments so you can learn faster.
 - There are two modes of thinking:
   - Focused: When you're actively trying to learn something. One task at a time.
   - Diffuse: Relaxed thinking style that connects your learning while you're doing other tasks (playing, sleeping, doing exercise, ...).
