@@ -7,3 +7,4 @@
   - There are better battles to fight than with each other.
   - It's hard to say objectively that one culture is "better" than another, but having the culture pulled in multiple directions clearly burns people out, so focus on cultural alignment in decisions and hiring.
 - Times change, trends change, cultures change.
+- Foster a culture of [people who care](https://grantslatton.com/nobody-cares).
