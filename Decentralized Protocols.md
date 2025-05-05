@@ -13,6 +13,11 @@
 - Tokens create new, scoped economies, and those economies enable new ways of organizing production and operation of goods and services. Because these economies are programmable, they can also embed and optimize for value systems and goals.
 - [Moving to protocols, not platforms](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech), is an approach for free speech in the twenty-first century. Rather than relying on a "marketplace of [[ideas]]" within an individual platform — which can be hijacked by those with malicious intent—protocols could lead to a marketplace of ideals, where competition occurs to provide better services that minimize the impact of those with malicious intent, without cutting off their ability to speak entirely.
   - The fundamental power of the internet is its _interoperability_. It was born out of the ability of different networks to talk to each other using common protocols. The interoperability is what we've lost in the Web 2.0 era. Even such quintessential thing as a web API has no well defined standard or protocol, just a very vague concept of REST or RPC. We need commonly accepted standards and _decentralized_ protocols: for web APIs, for identity management, for message queuing, for web callbacks (webhooks), for online transactions, for semantic web and ontology, etc.
+- [Decentralization enables permissionless innovation](https://newsletter.squishy.computer/p/decentralization-enables-permissionless):
+  - Designing for survivability often leads to decentralization, redundancy, diversity, and adaptability, contrasting with centralized systems optimizing for efficiency.
+  - Nature uses these same properties for resilience against catastrophes.
+  - The internet's original decentralized design enabled permissionless innovation.
+  - Even if systems recentralize (e.g., application layer), building on a decentralized substrate fosters evolvability and allows new innovations.
 - One wallet / DID / private key could allow you to login to any service. That's your credentials. [[NFTs|Owning a thing]] could allow you to enter somewhere.
 - There should be no technical or social single-point-of-failure for the overall protocol and network. There should be no single organization or individual who can entirely exclude others from the ecosystem (though the ecosystem may collectively exclude bad actors). There should be multiple independent interoperating service providers for each infrastructure component.
 - [Open source protocols should favor composability over just about everything](https://youtu.be/TdBTJY-G8xs). Breaking big things into smaller things. This encourages experimentation at multiple levels.
@@ -31,7 +36,7 @@
 - [Credible neutrality](https://nakamoto.com/credible-neutrality/) is the principle that a system or protocol should be demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests. When building mechanisms that decide high-stakes outcomes, it's very important for those mechanisms to be credibly neutral. Rules to building a credibly neutral mechanism:
   - Don't write specific people or specific outcomes into the mechanism.
   - Open source and publicly verifiable execution.
-  - Keep it simple.
+  - Keep it simple. Keeping the protocol simple brings a number of benefits (e.g: makes the protocol simpler to reason about, increasing the number of people who understand and can participate, decreases the cost of creating new infrastructure, reduces the risk of catastrophic bugs, reduces the social attack surface).
   - Don't change it too often.
 - Cryptoeconomics is about trying to reduce social trust assumptions by creating systems where we introduce explicit economic incentives for good behavior and economic penalties for bad behavior.
 
