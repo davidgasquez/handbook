@@ -48,3 +48,9 @@
   - A person holding a hammer interacts with the world in a different way. It is a different entity. Same with ideas.
 - Most of the world is held together with duct tape so don't be surprised when it breaks.
 - Cultivate your information diet.
+- Develop [agency](https://usefulfictions.substack.com/p/how-to-be-more-agentic) (the "determination to make things happen"):
+  - Agency is a learnable skill, not an inherent trait.
+  - Ask for things, even if they seem unreasonable, to test boundaries and learn to absorb "no."
+  - Seek real [[Feedback]] (e.g. anonymous).
+  - Meet a wide range of people, as valuable opportunities often come from unexpected connections.
+  - Burnout is a major killer of agency and creativity. Prioritize rest and sustainable effort.
