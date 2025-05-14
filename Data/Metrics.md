@@ -19,7 +19,7 @@
 - Push a culture of metrics and goals as a source of learning, not promotions or success delegation.
 - Vanity metrics are surface-level metrics. They're often large measures, like number of downloads, that impress others. **Clarity metrics** are operational metrics, like the number of minutes a day your product actually gets used or how long it took for a user to get service. These are the hidden gears that drive growth.
 - [Factors that are easiest to measure or most visible are the ones that get the most attention and might not be the most important ones](https://wiki.c2.com/?SovietShoeFactoryPrinciple).
-- When people are pressured to meet a target value there are three ways they can proceed:
+- [When people are pressured to meet a target value there are three ways they can proceed](https://www.goodreads.com/book/show/63859):
   1. They can work to improve the system.
   2. They can distort the system.
   3. Or they can distort the data.

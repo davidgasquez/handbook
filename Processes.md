@@ -27,4 +27,4 @@ A process takes an input to produce an output. A group of processes can be view 
 
 *The only purpose of good process is to produce good outcomes.* A process is not good unless it produces good outcomes.
 
-You cannot judge the process by a single outcome. [Only a long run of outcomes tell you anything about the process](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html). Consequently, once you know what the process is like, any single outcome from that process adds nothing to your knowledge about the process.
+You cannot judge the process by a single outcome. [Only a long run of outcomes tell you anything about the process](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html). Consequently, once you know what the process is like, any single outcome from that process adds nothing to your knowledge about the process. If you want to improve a process, you have to ignore the process goal first, in favour of examining the process itself and understanding it.

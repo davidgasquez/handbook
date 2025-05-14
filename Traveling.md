@@ -34,5 +34,7 @@
 
 - Download podcasts, music or other media.
 - Download maps of the destination.
+- Book a free tour.
+- Check timely events (e.g. festivals, concerts, musicals,...).
 - Do all the check-ins.
 - Empty wallet of useless things in the destination.

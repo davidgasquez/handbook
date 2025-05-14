@@ -80,6 +80,7 @@
 - Encourage to fail. Failing is good if the team [[Learning|learns]] from it!
 - Encourage effectiveness. Find ways to free up your time.
 - Communication is a central part of working in teams. Prefer [[Asynchronous Communications]], use common [[Communication|communications]] techniques and be friendly. Trust and efficient communication has a big impact on team effectiveness.
+  - Make [sure people talk to each other every day and have a way to teach each other](https://1517.substack.com/p/why-bell-labs-worked).
 - Have a primary [[Communication]] channel.
 - Use long-form [[Writing]], rather than [[Meetings]], speaking, and chatting. Speaking only helps who's in the room, [[Writing]] helps everyone.
 - Finish projects before starting more.
