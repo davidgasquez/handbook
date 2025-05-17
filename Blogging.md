@@ -36,7 +36,12 @@
   3. An anecdote from your own work that provides rich texture and context for what you do.
   4. Some open questions that invite people to discuss.
 - [Keep making your post more opinionated until it reflects your true beliefs](https://twitter.com/HamelHusain/status/1751995737095709164). Don't hedge. People want to hear what you think!
-- The title gets read way more than the rest, so make it count.
+- The title gets read way more than the rest, [so make it count](https://dynomight.net/titles/).
+  - Think of the title as a "classifier": it should attract those who will like the content and deter those who won't.
+  - Use specific language that signals to your target audience that the content is for them.
+  - The title can also convey your writing style and tone.
+  - Be cautious with overly clever or punny titles if you don't have an established audience.
+  - Consider title-driven creation: first choose a compelling title, then write content that delivers on its promise.
 - The inverted pyramid works well for blog posts. Put the tweet-length version of the post in the title or first paragraph. Get to the point quickly, then elaborate. Readers can bail out at any point of the text and still take home most of what mattered, while the meticulous crowd can have their nitpicks addressed toward the end.
 - [You're not just writing for today's invisible audience](https://web.archive.org/web/20250219111210/https://andysblog.uk/why-blog-if-nobody-reads-it/). You're writing for:
   - Future you. Your posts become a time capsule of your evolving mind.

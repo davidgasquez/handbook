@@ -22,6 +22,8 @@ Open protocols create open systems. Open code creates tools. **Open data creates
 
 Iterative improvements over public datasets yield large amounts of value ([check how Dune did it with blockchain data](https://dune.com/blog/the-community-data-platform))¹. Access to data gives people the opportunity to create new business and make better decisions. Data is vital to understanding the world and improving public welfare. Metcalfe's Law applies to data too. The more connected a dataset is to other data elements, the more valuable it is.
 
+In the blockchain example, data is Open, Verifiable, and Useful. And yet, the main provider of data is Dune, a company that captured most of the data layer. Users can run `cryo` but there are no incentives for them to share the data. There isn't a matchmaking market for data and people are forced to repeat the same work.
+
 Open Source code has made a huge impact in the world. Let's make Open Data do the same! Open data is, essentially, public infrastructure (similar to roads, bridges, or the internet). Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
 
 This document is a collection of ideas and principles to make Open Data more accessible, maintainable, and useful. Also, recognizing that a lot of people are already working on this, there are some amazing datasets, tools, and organizations out there, and, that Open Data is a people problem at 80%. This document is biased towards the technical side of things, as I think that's where I can contribute the most. I believe we can do much more with the available data.
@@ -35,7 +37,7 @@ We have better and cheaper infrastructure. That includes things like faster stor
 During the last few years, a large number of new data and open source tools have emerged. There are new query engines (e.g: DuckDB, DataFusion, ...), execution frameworks (WASM), data standards (Arrow, Parquet, ...), and a growing set of open data marketplaces (Datahub, HuggingFace Datasets, Kaggle Datasets). "Small data" deserves more tooling and people working on it. There are many novel technologies too.
 
 - [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy) that allows releasing statistical information about datasets while protecting the privacy of individual data subjects.
-- Homomorphic encryption.
+- Fully Homomorphic Encryption.
 - New [deidentification techniques](https://www.ipc.on.ca/sites/default/files/legacy/2016/08/Deidentification-Guidelines-for-Structured-Data.pdf).
 - Data watermarking, fingerprinting, and provenance tracking with blockchains.
 - Better CPUs, compression algorithms, and storage technologies.
