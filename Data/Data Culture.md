@@ -141,6 +141,7 @@
 - Progress in data isn't linear. As a research discipline, you might spend hours making no progress and then have a breakthrough. Or worse, prove your entire approach won't work.
 - [Apply a research mindset to data](https://jxnl.co/writing/2024/10/25/running-effective-ai-standups). Focus on input metrics, build scientific intuition, and embrace uncertainty.
   - [How can science – loosely, the production of facts – do more to "steer" the outcomes of these processes?](https://jscaseddon.co/2024/02/science-for-steering-vs-for-decision-making/)
+- Data is not superior or inferior to intuition or qualitative sensemaking; it is a third sense for operators. Effective decision-making uses all three: intuition, qualitative sensemaking, and data. [Data is just an added sense](https://commoncog.com/data-is-an-added-sense/). Treat data as a tool for building and verifying intuition, not as a replacement for it. Over-reliance on any single sense—data, intuition, or qualitative feedback—limits understanding.
 
 ## Tools
 

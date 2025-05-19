@@ -44,6 +44,7 @@ Personal Knowledge Bases allow compound learnings and make it easier to discover
 - [Mario López](https://brain.drmario.tech/)
 - [Alex Turner](https://turntrout.com/)
 - [Aditya Chandel](https://tonystark-19.github.io/Dev-Diary/)
+- [Faint Signal](https://faintsignal.org/)
 
 ## Compilations
 

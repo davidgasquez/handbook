@@ -36,9 +36,20 @@ Behavior is hard to fix. When people say they've learned their lesson they under
 Mechanism design is the study of how incentives are created to achieve desired outcomes. It focuses on the design of [[Systems]] and [[Processes]] to achieve desired outcomes.
 
 - Software is eating Mechanism Design. Incentives can be encoded in [[blockchain|blockchains]].
-- The simpler a mechanism is, and the fewer parameters a mechanism has, the less space there is to insert hidden privilege for or against a targeted group. If a mechanism has fifty parameters that interact in complicated ways, then it’s likely that for any desired outcome you can find parameters that will achieve that outcome.
+- The simpler a mechanism is, and the fewer parameters a mechanism has, the less space there is to insert hidden privilege for or against a targeted group. If a mechanism has fifty parameters that interact in complicated ways, then it's likely that for any desired outcome you can find parameters that will achieve that outcome.
   - The best engineering designs are those that remove things and make them implicit.
   - Remember to keep fast [[Feedback Loops]] in mind when designing mechanisms.
+- Mechanism design flips game theory: choose rules (outcomes & payments) so strategic agents reach desired outcomes.
+- An agent's "type" is their private information that determines how much they value each possible outcome (e.g: a bidder's valuation for an item).
+- In quasilinear settings (utility = value − payment), mechanisms map reported types to decisions and transfers.
+- The Revelation Principle lets us focus on direct, truth-telling mechanisms: DSIC (dominant strategies) or BIC (Bayes-Nash).
+- Gibbard–Satterthwaite impossibility: with three or more options and unrestricted preferences, only dictatorial DSIC choice functions exist.
+- Top Trading Cycles yields Pareto-efficient, individually rational, strategyproof allocations in exchange problems.
+
+### Examples
+
+- Bitcoin block rewards.
+- [Vickrey–Clarke–Groves auction](https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_auction) or [Second-price auction](https://en.wikipedia.org/wiki/Generalized_second-price_auction).
 
 ### Impact Evaluators
 

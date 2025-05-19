@@ -39,6 +39,7 @@
   - Keep it simple. Keeping the protocol simple brings a number of benefits (e.g: makes the protocol simpler to reason about, increasing the number of people who understand and can participate, decreases the cost of creating new infrastructure, reduces the risk of catastrophic bugs, reduces the social attack surface).
   - Don't change it too often.
 - Cryptoeconomics is about trying to reduce social trust assumptions by creating systems where we introduce explicit economic incentives for good behavior and economic penalties for bad behavior.
+- [Decentralized systems accelerate innovation by maximizing the greatest number of possibilities and variations that are considered](https://faintsignal.org/decentralized-systems-accelerate-innovation/). Centralized systems are efficient, not disruptively innovative.
 
 ## Types of Decentralization
 
