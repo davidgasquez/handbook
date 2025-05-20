@@ -60,3 +60,7 @@ Traditional funding often fails here. Instead of just giving money upfront (pros
 - The Impact Evaluator goal is to **create strong incentives for people/teams to work on valuable, uncertain things** by promising a reward if they succeed in creating demonstrable impact.
 - They work well on concrete things that you can turn into measurable stuff. They are powerful and will always overfit. When the goal is not exactly aligned, they can be harmful. Eg. Bitcoin wasn't created to maximize the energy consumption.
 - They should be flexible as it's hard to predict ways the evaluation metrics will be gamed.
+- Allow Community Feedback Mechanisms. Implement robust feedback systems that allow participants to report and address concerns about the integrity of the metrics or behaviors in the community. This feedback can be used to refine and improve the system continuously.
+- Use hard to game metrics. Metrics that are hard, or expensive, to game, will be resistant (but not immune) to goodharts law.
+- Use diversified metrics. Rather than relying on a single metric or indicator, use a diverse set of metrics to assess performance or impact.
+- Dynamic and Adaptive Metrics. Implement mechanisms that allow for metrics to be adjusted or replaced as the system evolves. This adaptability can help prevent the gaming of static metrics and ensure that measures continue to align with the underlying goals of the IE.

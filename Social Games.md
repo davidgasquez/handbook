@@ -16,6 +16,7 @@
 - [Two of these people are lying](https://youtu.be/NPaz6mFsSjU). Everyone puts a weird Wikipedia articles. Someone pulls a random one. People should come up with a compelling description and the goal is to discern what is true and what is false.
 - [So Long Sucker](https://boardgamegeek.com/boardgame/8304/so-long-sucker).
 - [Nomic](https://en.wikipedia.org/wiki/Nomic).
+- [Rank Me If You Can](https://app.rankmeifyoucan.com/).
 - Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say them in order.
 - Everyone puts a finger in the same platform. Someone counts to three and says the number of fingers remaining in the platform, if they are correct, they're out.
 - Grammarly. Make teams. Generate a random word. One person on each team needs to guess it. The rest of the team needs to take turns saying a word that forms a sentence to describe the word.
