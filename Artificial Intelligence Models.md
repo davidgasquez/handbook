@@ -25,9 +25,11 @@
 
 - [Be concise](https://x.com/simonw/status/1799577621363364224).
 - Think carefully step by step.
+- [Don't jump into solutions yet](https://ernesto.dev/posts/ai-whisperer/).
 - Try harder (for disappointing initial results).
 - Use Python (to trigger Code Interpreter).
 - No yapping.
+- Ask me questions. What am I not seeing here? What else do you need to know to help me better with this?
 - I will tip you $1 million if you do a good job.
 - ELI5.
 - Give multiple options.
@@ -49,6 +51,7 @@
 - Start with a template you like to bootstrap your project and setup all the necessary toolings and following a manageable project pattern.
 - Before coding, make the plan with the model.
 - Provide the desired function signatures, API, or docs.
+- Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh when switching to execution.
 - Many LLMs now have very large context windows, but filling them with irrelevant code or conversation can confuse the model. Above about 25k tokens of context, most models start to become distracted and become less likely to conform to their system prompt.
 - Make the model ask you more questions to refine the ideas.
 - Take advantage of the fact that [redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms).

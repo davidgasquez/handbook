@@ -40,6 +40,9 @@
   - Then, dive into the Technical side.
 - When discovering a pattern, try to abstract it as much as you can instead of applying it only to a certain area. Once you made this abstraction you will have a new [[Mental Models|mental model]].
 - Learning to program shapes the mind the same way learning a new language does. Each new word, concept or expression helps you model the world.
+- [Experts](https://boydkane.com/essays/experts) work more efficiently than novices by seeing the actual problem clearly and avoiding self-created obstacles.
+  - Novices often don't recognize when decisions need to be made, missing opportunities experts immediately see.
+  - Progress requires finding a sympathetic expert willing to have unstructured conversations and exploring niche areas deeply.
 - Use [[Spaced Repetition]] and get some [[Sleep]].
 - [Test your knowledge easily and often and iterate](https://youtu.be/Y_B6VADhY84?list=WL). It's the number of iterations, not the number of hours, that drives learning. Shorten the [[Feedback Loops]]. You don't need to know everything to start. Start and you'll learn things along the way (Just In Time /JIT learning).
 - Develop strategies instead of procedures. Do this by interleaving different problems. Learning to learn is an art in itself.
@@ -56,7 +59,7 @@
 - A great way to spot what is probably true in any field is to find multiple people with different worldviews on a topic and see which parts do they agree upon.
 - [Practice, practice, practice](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy). Spend [[time]] in the field, practicing the relevant skills first-hand; see both what works and what makes sense. Collect data; run trials. See what other people suggest and test those things yourself. Directly study which things actually produce good results.
 
-> Even if Louis XV had offered a large monetary bounty for ways to immunize himself against the pox, he would have had no way to distinguish Benjamin Jesty from the endless crowd of snake-oil sellers and faith healers and humoral balancers. Indeed, top medical “experts” of the time would likely have warned him *away* from Jesty. — [What Money Cannot Buy](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy)
+> Even if Louis XV had offered a large monetary bounty for ways to immunize himself against the pox, he would have had no way to distinguish Benjamin Jesty from the endless crowd of snake-oil sellers and faith healers and humoral balancers. Indeed, top medical "experts" of the time would likely have warned him *away* from Jesty. — [What Money Cannot Buy](https://www.lesswrong.com/posts/YABJKJ3v97k9sbxwg/what-money-cannot-buy)
 
 - We all have a web of concepts in our minds, our [[Knowledge Graphs]]. The collection of all the concepts we understand, all of our existing knowledge and intuitions, connected together. And you have learned something when you can convert it to concepts and **connect it to your existing understanding**. This means not just understanding the concept itself, but understanding where it fits into the bigger picture, where to use it, etc.
 
