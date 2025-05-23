@@ -40,6 +40,10 @@
   - Don't change it too often.
 - Cryptoeconomics is about trying to reduce social trust assumptions by creating systems where we introduce explicit economic incentives for good behavior and economic penalties for bad behavior.
 - [Decentralized systems accelerate innovation by maximizing the greatest number of possibilities and variations that are considered](https://faintsignal.org/decentralized-systems-accelerate-innovation/). Centralized systems are efficient, not disruptively innovative.
+- There is a [trilemma with Decentralized Identity](https://maciek.blog/p/dit). You can't have all three:
+  - Self-sovereign identity: the user is in control of their identity.
+  - Privacy-preserving: the user's identity is not shared with third parties.
+  - Sybil-resistant: identity is subject to scarcity; i.e., creating more identifiers cannot be used to manipulate a system.
 
 ## Types of Decentralization
 

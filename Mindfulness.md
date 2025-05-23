@@ -54,3 +54,4 @@
   - Seek real [[Feedback]] (e.g. anonymous).
   - Meet a wide range of people, as valuable opportunities often come from unexpected connections.
   - Burnout is a major killer of agency and creativity. Prioritize rest and sustainable effort.
+- [Style is a set of constraints that you stick to](https://stephango.com/style). Style emerges from consistency, and having a style opens your imagination. Collect constraints you enjoy. Unusual constraints make things more fun. You can always change them later. This is your style, after all. It’s not a life commitment, it’s just the way you do things. Having a style collapses hundreds of future decisions into one, and gives you focus. E.g: always pluralize tags to never have to wonder what to name new tags.
