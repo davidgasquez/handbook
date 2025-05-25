@@ -14,6 +14,7 @@
     - Instead of using constructions with "of" or "for", rewrite the sentence to put more information before the noun.
   - **Be consistent**.
   - **Add rhythm**. Vary the sentence length to break the monotony.
+- [Writing that sounds good is more likely to be right](https://paulgraham.com/goodwriting.html). Making sentences sound better forces you to fix ideas unconsciously. Good rhythm matches the natural rhythm of thoughts—use rhythm as a guide for getting ideas right.
 - Use the active voice.
 - Write in a conversational tone. Think about readers when writing.
 - [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. Use the [Minto Pyramid](https://scqa.lifeitself.org/) or another standard structure like this one:
