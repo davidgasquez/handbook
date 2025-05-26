@@ -26,9 +26,9 @@
   1. Who am I writing this for?
   2. What are the top 1-3 takeaways after someone's read?
 - [Write simply](https://zodvik.com/posts/on-writing-well/):
-  - Use fewer than 30 words per sentence
-  - Use ordinary words and simple sentences
-  - Remove fluff
+  - Use fewer than 30 words per sentence.
+  - Use ordinary words and simple sentences.
+  - Remove fluff.
   - Remove weasel words. Replace adjectives with data or details.
   - Ask the "So what" question to every sentence that you write.
   - Prefer active voice to passive.
@@ -45,6 +45,7 @@
 
 - [Building a README](https://readme.so/).
 - [How to Write a Great README](https://www.appsmith.com/blog/write-a-great-readme).
-  - [Template](https://www.makeareadme.com/)
+  - [Template](https://www.makeareadme.com/).
+- [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development).
 - [Starship](https://github.com/starship/starship).
 - [Alacritty](https://github.com/alacritty/alacritty).

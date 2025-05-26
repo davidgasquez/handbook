@@ -39,7 +39,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
 - [[Documentation]] should have a common entry point to increase discovery. Each team can have it's own [[processes]] on top.
 - At a company level, each team documents differently. To make the most of that, grow the knowledge organically and locally, not top down. Each team should have its own permissionless and open way of working and should be made public to the rest of the company. That way they can evolve the system to fit their needs. Then, there is a standard protocol to share information between teams.
   - The protocol serves as the team communications API. An abstraction over the inner works of the team that is common to all the other teams.
-  - E.g: Each team having a homepage README with links to their slack, ticket system and processes.
+  - E.g: Each team having a homepage [README](https://tom.preston-werner.com/2010/08/23/readme-driven-development) with links to their slack, ticket system and processes.
   - Since the protocol is shared between apps, you can build different views on top of the knowledge and tasks via APIs.
 - Add as much information to your tickets/issues as possible. If the tickets/issues are any good, you'll find relevant tickets with links and extra information. That makes easy to tell what is current vs. what is 3 years old. The approach is something like Kafka (a log of everything that happened) versus a database with the current state of the world.
 - [Every document you write can fall into one of two categories](https://clrcrl.com/2021/11/30/fighting-the-entropy-of-knowledge.html):
