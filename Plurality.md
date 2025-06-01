@@ -10,7 +10,7 @@
   - Local currencies and property rights can coexist with global mechanisms for cooperation.
 - Plurality technologies include:
   - [Polis](https://pol.is/home) for large-scale conversations that identify consensus across different viewpoints.
-  - Community Notes that surface content rated highly by people who disagree on other topics.
+  - [Community Notes](https://en.wikipedia.org/wiki/Community_Notes) that surface content rated highly by people who disagree on other topics.
   - Message Checker and other user-facing tools that protect users while preserving autonomy.
   - Quadratic funding and other mechanisms that subsidize collaboration between different groups.
 - Plurality is compatible with:
