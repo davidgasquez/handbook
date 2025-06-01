@@ -33,7 +33,9 @@ Behavior is hard to fix. When people say they've learned their lesson they under
 
 ## Mechanism Design
 
-Mechanism design is the study of how incentives are created to achieve desired outcomes. It focuses on the design of [[Systems]] and [[Processes]] to achieve desired outcomes.
+Mechanism design is the study of how incentives are created to achieve desired outcomes. It focuses on the design of [[Systems]] and [[Processes]] to achieve desired outcomes. [Mechanisms are algorithms plus incentives](https://balajis.com/p/credible-neutrality).
+
+A mechanism is a tool that takes in inputs from multiple people, and uses these inputs as a way to determine things about its participants' values, so as to make some kind of decision that people care about. In a well-functioning mechanism, the decision made by the mechanism is both efficient - in the sense that the decision is the best possible outcome given the participants’ preferences, and incentive-compatible, meaning that people have the incentive to participate "honestly".
 
 - Software is eating Mechanism Design. Incentives can be encoded in [[blockchain|blockchains]].
 - The simpler a mechanism is, and the fewer parameters a mechanism has, the less space there is to insert hidden privilege for or against a targeted group. If a mechanism has fifty parameters that interact in complicated ways, then it's likely that for any desired outcome you can find parameters that will achieve that outcome.
@@ -46,11 +48,15 @@ Mechanism design is the study of how incentives are created to achieve desired o
 - The Revelation Principle lets us focus on direct, truth-telling mechanisms: DSIC (dominant strategies) or BIC (Bayes-Nash).
 - Gibbard–Satterthwaite impossibility: with three or more options and unrestricted preferences, only dictatorial DSIC choice functions exist.
 - Top Trading Cycles yields Pareto-efficient, individually rational, strategyproof allocations in exchange problems.
+- Most bits of information in the output of a mechanism should come from the participants' inputs, not from hard-coded rules inside of the mechanism itself.
 
 ### Examples
 
-- Bitcoin block rewards.
-- [Vickrey–Clarke–Groves auction](https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_auction) or [Second-price auction](https://en.wikipedia.org/wiki/Generalized_second-price_auction).
+- Democracy. The input is votes, the output is who controls each seat in the government that was up for election.
+- Blockchain-awarded incentives for proof of work and proof of stake. The input is what blocks and other messages participants produce, the output is which chain the network accepts as canonical, and rewards are used to encourage "correct" behavior.
+- Auctions. The input is bids, the output is who gets the item being sold, and how much the buyer must pay.
+  - [Vickrey–Clarke–Groves auction](https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_auction).
+  - [Second-price auction](https://en.wikipedia.org/wiki/Generalized_second-price_auction).
 
 ### Impact Evaluators
 
