@@ -20,6 +20,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - If you can't easily explain why something is difficult, then it's incidental complexity, which is probably worth addressing.
   - Reuse [patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns).
   - The number of moving pieces on average doubles every 18-24 months. No one fully understands [[Systems]].
+  - [There are different notions of simplicity](https://vitalik.eth.limo/general/2018/11/25/central_planning.html) (Kolmogorov complexity vs VC Dimension). What is "simple" to describe or appears to have few knobs in one language for describing it is devilishly complex in another, and vice versa.
 - **Do one thing and do it well**.
   - By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
   - Design composable primitives. Name things simply and clearly.

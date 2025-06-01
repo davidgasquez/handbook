@@ -95,7 +95,7 @@ Would love to work on [a company/cooperative focused on Open Data](https://githu
 - A twist on Kaggle, mixing the ML competition aspects with Prediction Markets (e.g: polymarket).
 - Similar to Numerai, participants send submissions and stake some amount of money.
 - The best submissions are selected and the money is distributed among the participants depending on their stake.
-- For each task, rewards are given per row/prediction, not per model. This encourages a plurality of models to be used that specialize in different tasks.
+- For each task, rewards are given per row/prediction, not per model. This encourages a [[Plurality]] of models to be used that specialize in different tasks.
 - Similar approach could be done to incentivize the creation of new datasets. An entity holds out some "groud truth" dataset. Participants can submit datasets and stake some amount of money. The closest dataset to the ground truth is selected. There might be dragons (generating fake data that follows the distribution)!
 - Pluggable Identity with ENS, DID, ...
 - Infrastructure for [infofinance](https://vitalik.eth.limo/general/2024/11/09/infofinance.html).

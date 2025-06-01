@@ -40,6 +40,7 @@
 - Provide detailed explanations, I'm comfortable with lots of detail.
 - Consider new technologies or contrarian ideas, not just the conventional wisdom.
 - You may use high levels of speculation or prediction, just flag it for me.
+- Map out all the interconnected ideas around the core principles. What other topics, assumptions, or implications does it silently touch upon, challenge, or depend on?
 
 ## Coding Tips
 

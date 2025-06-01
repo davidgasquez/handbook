@@ -49,6 +49,7 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - Gibbard–Satterthwaite impossibility: with three or more options and unrestricted preferences, only dictatorial DSIC choice functions exist.
 - Top Trading Cycles yields Pareto-efficient, individually rational, strategyproof allocations in exchange problems.
 - Most bits of information in the output of a mechanism should come from the participants' inputs, not from hard-coded rules inside of the mechanism itself.
+- A good mechanism is also a mechanism that actually does solve the problems that we care about. If it can't be done completely neutrally, it doesn't mean it should not be done at all.
 
 ### Examples
 
@@ -57,6 +58,7 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - Auctions. The input is bids, the output is who gets the item being sold, and how much the buyer must pay.
   - [Vickrey–Clarke–Groves auction](https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_auction).
   - [Second-price auction](https://en.wikipedia.org/wiki/Generalized_second-price_auction).
+- Quadratic voting and funding as a way of coming to agreement on matters of governance and public goods.
 
 ### Impact Evaluators
 
