@@ -44,6 +44,7 @@
   - Self-sovereign identity: the user is in control of their identity.
   - Privacy-preserving: the user's identity is not shared with third parties.
   - Sybil-resistant: identity is subject to scarcity; i.e., creating more identifiers cannot be used to manipulate a system.
+- Two big unsolved problems on decentralized mechanism design are identity (making sure that the same person can't have multiple identities) and collusion (making sure groups cannot coordinate to manipulate the system).
 
 ## Types of Decentralization
 

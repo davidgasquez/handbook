@@ -7,6 +7,7 @@ We should be arguing in a constructive fashion: treating arguments as an opportu
 - Epistemic humility. "It's possible that I might be the one who's wrong here".
 - Arguments are not soldiers. Most people go into debate with a war-like mentality, they feel they must fly the flag for all points that their side supports, regardless of how much they actually agree with them.
   - Do not be afraid to agree with the arguments of the other side when they strike you as reasonable, and critique the arguments of your own side when they strike you as unreasonable.
+- Maintain civilized discourse even when stakes feel high. [The belief that "if a fight is important to you, fight nasty"](https://slatestarcodex.com/2014/02/23/in-favor-of-niceness-community-and-civilization/) undermines the very foundations of productive disagreement. Using deceptive tactics, personal attacks, or silencing opponents may feel effective short-term but degrades the social infrastructure that makes rational discourse possible.
 - Good faith. An assumption that people believe things for causal reasons. Assume good intentions.
 - Confidence in the existence of objective truth or a better position.
 - [[Curiosity]] and/or a desire to uncover truth.

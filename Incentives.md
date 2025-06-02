@@ -50,6 +50,7 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - Top Trading Cycles yields Pareto-efficient, individually rational, strategyproof allocations in exchange problems.
 - Most bits of information in the output of a mechanism should come from the participants' inputs, not from hard-coded rules inside of the mechanism itself.
 - A good mechanism is also a mechanism that actually does solve the problems that we care about. If it can't be done completely neutrally, it doesn't mean it should not be done at all.
+- Any mechanism that can help genuinely under-coordinated parties coordinate will, without the right safeguards, also help already coordinated parties (such as many accounts controlled by the same person) [over-coordinate](https://vitalik.eth.limo/general/2019/04/03/collusion.html) with potential ways to "do wrong" (e.g: extract money from the system).
 
 ### Examples
 

@@ -14,7 +14,10 @@
   - When [[Problem Solving|facing a problem]], prefer a lean approach with a simple solution and built upon it. Re-framing problems will make easy to give simpler solutions. How would it look like if it was simple?
   - Remove friction. Focus on essentials. Complexity itself has costs. It makes life harder to manage, reduces our degrees of freedom, and so forth. Often people do not factor those costs into their decisions as they incrementally and inattentively complexify their lives. A person with the virtue of simplicity asks, of any decision they make, "does this make my life more complex, and if so is that worth it?"
 - Live smarter, not harder. Don't complain about stuff you can easily fix, [[Automation|automate]], or delegate. Money can buy [[time]].
-- Keep Calm. Own and deal with your emotions. [[Stoicism|Focus on what you can control]]. Try to plan the possible outcomes and don't rush.
+- Keep Calm. Own and deal with your emotions. Focus on what you can control. Try to plan the possible outcomes and don't rush.
+  - We don't control and cannot rely on external events, but we can (to a certain extent) control our mind and choose our behavior.
+  - [Stoicism is a tool set that helps us direct our thoughts and actions in an unpredictable world](https://www.njlifehacks.com/what-is-stoicism-overview-definition-10-stoic-principles/).
+  - It's not what happens to us but our reactions to it that matter.
 - Think, understand, and listen before [[Communication|communicating]].
 - Don't worry too much about things that won't matter to you or your loved ones in 10 years.
 - Assume positive intent. No one is your enemy, you're an NPC in their game. Everyone is the main character of their own movie (*sonder*).
