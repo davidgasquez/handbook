@@ -45,6 +45,7 @@
   - Privacy-preserving: the user's identity is not shared with third parties.
   - Sybil-resistant: identity is subject to scarcity; i.e., creating more identifiers cannot be used to manipulate a system.
 - Two big unsolved problems on decentralized mechanism design are identity (making sure that the same person can't have multiple identities) and collusion (making sure groups cannot coordinate to manipulate the system).
+- Identity can be delegated to a community. E.g: Gitcoin uses Passport because they know what the identity requirements are for that community.
 
 ## Types of Decentralization
 
