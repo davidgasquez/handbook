@@ -10,6 +10,8 @@
   - Stronger and more powerful [[organizations]].
   - Tools like smart contracts that allow interactions with reduced levels of trust.
   - [[Governance]] technologies (voting, shares, decision markets...).
+- Groups either coordinate around principles, coordinate around a task (powerful but temporary), or coordinate around a leader.
+  - Principles are factories of tasks and more resilient than leaders.
 - [Keep the work parallel, the groups small, and the resources local.](https://codahale.com/work-is-work/) If possible, factor work products into independent modules; if not, grow slowly and optimize.
 - Trust increases coordination. To increase trust:
   1. Repeat interactions.
@@ -36,7 +38,7 @@
   - Something similar could be achieved at a society level, where pain triggers processes that make it stop.
 - Only a few bits of information are possible to reliably convey to a large number of people. [The larger the group, the smaller the message needs to be](https://www.lesswrong.com/posts/4ZvJab25tDebB8FGE/you-get-about-five-words).
 - The requirements to govern a commons without tragedy:
-  - Clear boundaries.
+  - [Clear boundaries](https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_long-enduring_CPR_(Common_Pool_Resource)_institutions%22).
   - Managed by locals.
     - In a small community, everybody knows everybody, and can keep track of what they do. This makes small groups iterated games which rewards trust and penalizes sociopath behavior.
   - Community makes its own rules.

@@ -2,12 +2,17 @@
 
 - [Plurality is a political philosophy and framework](https://vitalik.eth.limo/general/2024/08/21/plurality.html) that seeks to create mechanisms for large-scale cooperation while preserving diversity and autonomy.
   - Plurality stands between [[Governance|Technocracy]] and [[Decentralized Autonomous Organizations|Libertarianism]], offering a third way that emphasizes connections between individuals and groups.
+  - The core element is the principle of [cooperation across diversity](https://www.radicalxchange.org/media/blog/why-i-am-a-pluralist/).
   - Plurality recognizes that there is no single model that can explain the world perfectly, and we should use a combination of different models instead.
-- Key ideas of [Plurality](https://www.plurality.net/):
-  - [[Identity]] should be intersectional and social, using the entire set of a person's actions and interactions to determine trustworthiness.
-  - [[Governance]] mechanisms should count uncorrelated signals additively but correlated signals with diminishing returns.
-  - [[Organizations|Organizations]] should allow different degrees of membership, not just true-or-false.
-  - Local currencies and property rights can coexist with global mechanisms for cooperation.
+  - Pluralism has two sides: institutional (fostering cooperation between diverse groups vs. atomistic individualism or centralistic universalism) and epistemic (embracing diverse ways of knowing vs. single rational logic or technocracy).
+  - Plurality offers a distinct technological vision from AI (which seeks singular "general" intelligence) and Web3 (which focuses on "sovereign individuals"), instead building on the internet's "network of networks" architecture where diverse local communities use interoperable protocols.
+- [[Identity]] should be intersectional and social, using the entire set of a person's actions and interactions to determine trustworthiness.
+- [[Governance]] mechanisms should count uncorrelated signals additively but correlated signals with diminishing returns.
+- [[Organizations|Organizations]] should allow different degrees of membership, not just true-or-false.
+- Local currencies and property rights can coexist with global mechanisms for cooperation.
+- We should understand the world through a patchwork combination of models, and not try to stretch any single model to beyond its natural applicability
+- There is a set of principled mathematical techniques by which you can design social, political and economic mechanisms that treat not just individuals, but also connections between individuals as a first-class object.
+- We should take connections between individuals really seriously, and work to expand and strengthen healthy connections.
 - Plurality technologies include:
   - [Polis](https://pol.is/home) for large-scale conversations that identify consensus across different viewpoints.
   - [Community Notes](https://en.wikipedia.org/wiki/Community_Notes) that surface content rated highly by people who disagree on other topics.
