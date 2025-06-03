@@ -66,6 +66,13 @@
 - [Voting is a zero-sum game](https://nadia.xyz/voting), meaning that whomever wins does so at the expense of someone else. As a result, voting promotes competition, not cooperation. This issue can be mitigated when:
   - The default mode is failure, people are motivated to figure out how to escape their terrible fate. If one person loses, everybody loses.
   - There are clear actions, timelines, and consequences. By specifying the outcome beforehand, and making it undesirable, there is no choice but to take action or lose the game.
+- Pass/fail voting is unavoidably inefficient and excludes nuance; specialized, asynchronous, multivariate processes can reduce cognitive burden and broaden participation.
+- [We need new, specialized decision-making processes that](https://kronosapiens.github.io/blog/2019/05/08/against-voting.html):
+  - Push more "thinking" as possible into software, so people can participate asynchronously.
+  - Replace yes/no votes with multivariate, real-valued allocations ("shades of gray") so every voice moves the dial.
+  - Allow liquid-democracy–style delegation, so expertise flows to where it’s needed.
+  - Build in regularization (e.g. caps on how fast budgets can shift) and sunset/failure signals, so policies self-correct or expire.
+  - Architect coordination as a fractal "pace-layering" of ever more specific algorithms, each handling half the remaining complexity with the simplest tool.
 
 ## Interesting Ideas
 

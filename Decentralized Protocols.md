@@ -18,6 +18,17 @@
   - Nature uses these same properties for resilience against catastrophes.
   - The internet's original decentralized design enabled permissionless innovation.
   - Even if systems recentralize (e.g., application layer), building on a decentralized substrate fosters evolvability and allows new innovations.
+- [Redecentralization one layer up, is progress](https://newsletter.squishy.computer/p/redecentralization):
+  - Content-addressing (CIDs) decouples data from origin, enabling fungible storage, redundancy, and credible exit.
+  - UCANs (user-controlled authorization networks) decouple trust from origin via self-sovereign signatures.
+  - Petname systems map human-friendly names to keys and CIDs locally, bypassing centralized naming.
+  - Aggregators can arise without lock-in: users retain their data and social graphs for seamless exit.
+  - Friend-to-friend gossip networks enable Dunbar-scale "cozyweb" communities.
+- [Centralization is inevitable](https://newsletter.squishy.computer/p/centralization-is-inevitable):
+  - Scale-free networks emerge via preferential attachment and efficiency, concentrating power in hubs.
+  - Power-law distributions confer resilience to random failure but acute vulnerability to targeted attacks.
+  - Networks cycle through randomness, growth, consolidation, and collapse.
+  - Overlapping systems at different stages guard against monocultures and single points of failure.
 - One wallet / DID / private key could allow you to login to any service. That's your credentials. [[NFTs|Owning a thing]] could allow you to enter somewhere.
 - There should be no technical or social single-point-of-failure for the overall protocol and network. There should be no single organization or individual who can entirely exclude others from the ecosystem (though the ecosystem may collectively exclude bad actors). There should be multiple independent interoperating service providers for each infrastructure component.
 - [Open source protocols should favor composability over just about everything](https://youtu.be/TdBTJY-G8xs). Breaking big things into smaller things. This encourages experimentation at multiple levels.
@@ -45,7 +56,27 @@
   - Privacy-preserving: the user's identity is not shared with third parties.
   - Sybil-resistant: identity is subject to scarcity; i.e., creating more identifiers cannot be used to manipulate a system.
 - Two big unsolved problems on decentralized mechanism design are identity (making sure that the same person can't have multiple identities) and collusion (making sure groups cannot coordinate to manipulate the system).
-- Identity can be delegated to a community. E.g: Gitcoin uses Passport because they know what the identity requirements are for that community.
+- Identity can be delegated to a community. E.g: Gitcoin uses Passport because they know what the identity requirements are for that community. Solving identity at a global scale means "[seeing like a state](https://newsletter.squishy.computer/p/soulbinding-like-a-state)" and distorting the messy reality.
+  - What we call "on-chain identity" is really "on-chain legibility" - a standardized, certified, registered system that simplifies complex human identity into quantifiable data points, similar to how scientific forestry reduced complex ecosystems to countable rows of trees.
+  - The solution is "Keys not IDs" - focus on what users are authorized to do rather than who they are, using public-key cryptography for authorization without the baggage of permanent identity tracking.
+  - Shift to a zero-trust model: trust people via signatures, not servers
+  - Build webs of trust via PGP-style key exchanges
+  - Layer reputation & attestations (proof-of-humanity, moderation tags) on keys
+  - Digital journals as self-sovereign stores of evolving identity data over time.
+  - Knowledge graphs tracking which peers mirror each datum, enabling witness-based verification.
+  - Credit graphs encoding degrees of trust/credit between participants as identity primitives.
+  - [Intersectional Social Data](https://www.radicalxchange.org/media/blog/2019-10-24-uh78r5/) enables group-based and non-individualistic verification via social trust paths.
+- The ideal is to focus on Keys, not IDs. Don't focus on who you are but what you are authorized to do.
+- Composability is a moat. Web3's open, composable protocols create value when systems interoperate, replacing Web2's network-effect moats.
+- [Entangled distributed systems yield unpredictable behaviors, suggesting a 'gardening' rather than 'controlling' approach to protocol design](https://newsletter.squishy.computer/p/web3) (Emergent complexity).
+- [Credible exit](https://newsletter.squishy.computer/p/credible-exit) ensures users can leave a service without vendor lock-in by relying on open, decentralized protocols and interchange formats.
+  - Decoupling identifiers from hosting (DNS, CIDs) enables seamless migration between providers by updating name mappings.
+  - Federated protocols (email, Mastodon) support portability of social graphs and messages across services.
+  - Standard export/import formats (OMPL for podcasts, XML for WordPress) facilitate hostile interoperability.
+  - Durable, universally useful formats (plain text, CSV, PNG, MP3) make data portable and usable outside the originating app.
+  - Local-first storage and immutable data (CRDTs) support ongoing synchronization and avoid stale static exports.
+  - Permissionless, open APIs and protocols allow multiple apps to interoperate without centralized lock-in.
+  - Open source protocols and applications enable full-fidelity exit through forks and reconstructions.
 
 ## Types of Decentralization
 
