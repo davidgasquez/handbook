@@ -88,6 +88,10 @@ Agents are systems where LLMs dynamically direct their own processes and tool us
 - [Generate structured data from text](https://thecaglereport.com/2023/03/16/nine-chatgpt-tricks-for-knowledge-graph-workers/).
 - Do API request to SQL Semantic Layers (less prone for errors or hallucinating metric definitions).
 - [Use different LLMs Agents to generate predictions into prediction markets and then spotcheck some of them with humans jurys. Apply evolutionary algorithms to improve the agents performance in prediction markets](https://youtu.be/b81LXpCqunk?t=2677).
+- [Generate Podcast with LLMs talking about a topic](https://notebooklm.google.com/). Some great prompts:
+  - Focus on the details. Don't stay high level. Explain concisely.
+  - Focus on overall themes and principles across all the sources.
+  - Relate concepts together. Map out all the interconnected ideas around.
 
 ## Resources
 
