@@ -49,9 +49,10 @@
 - Use comments to guide the model to do what you want.
 - Describe the problem very clearly and effectively.
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one.
+  - Keep sessions to as few messages as possible.
 - Start with a template you like to bootstrap your project and setup all the necessary toolings and following a manageable project pattern.
-- Before coding, make the plan with the model.
-- Provide the desired function signatures, API, or docs.
+- Before coding, make the plan with the model. You can use the same or a different model to critique the plan and iterate.
+- Provide the desired function signatures, API, or docs. Apply the TDD loop and make the model write tests and the code until the tests pass.
 - Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh when switching to execution.
 - Many LLMs now have very large context windows, but filling them with irrelevant code or conversation can confuse the model. Above about 25k tokens of context, most models start to become distracted and become less likely to conform to their system prompt.
 - Make the model ask you more questions to refine the ideas.
@@ -59,6 +60,7 @@
 - If you want to force some "reasoning", ask something like "[is that a good suggestion?](https://news.ycombinator.com/item?id=42894688)" or "propose a variety of suggestions for the problem at hand and their trade-offs".
 - Add relevant context to the prompt. Context can be external docs, a small pesudocode code example, etc. Adding lots of context can confuse the model, so be careful!
 - [Teach the agents to use tools](https://www.anthropic.com/engineering/claude-code-best-practices).
+- Be aware of the "cache" (e.g: never edit files manually during a session)
 
 ## Agents
 
