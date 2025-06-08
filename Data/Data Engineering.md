@@ -10,6 +10,7 @@
 - A [consistent pattern](https://www.startdataengineering.com/post/design-patterns/) across your data pipelines helps devs communicate easily and understand code better.
 - Data Engineering can learn from decentralized systems ideas like, Content Addressed Data, Immutability, and [[Idempotence]].
 - [Schemas aren't eliminated by using a "schemaless" data store](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/) (like a NoSQL database). They're just pushed to the reading layer.
+- [Bring compute to data instead of data to compute](https://youtu.be/S0mviKhVmBI)!
 
 ## Data Pipelines
 
