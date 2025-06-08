@@ -20,7 +20,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 
 ### Hyper Mega Awesome Game
 
-- Modular Approach. The idea is to some kind of state (main character, currency, ...) and multiple shards to play. Each shard could implement a different rule set or genre.
+- Modular Approach. The idea is to have some kind of state (main character, currency, ...) and multiple shards to play. Each shard could implement a different rule set or genre.
 - [[Modularity]] could also be implemented in the graphic side. You can choose the graphics pack you like just like another cosmetic similar to Rimworld or Dwarf Fortress.
 - Player Driven Economy. Everything is made by players and traded for real life currency. The developers only get a fee for each trade. This makes the game fully F2P but also supports the developers.
 - Companion Apps. Some tasks like trading or [[Planning]] could be done from a mobile device.
@@ -96,6 +96,6 @@ Would love to work on [a company/cooperative focused on Open Data](https://githu
 - Similar to Numerai, participants send submissions and stake some amount of money.
 - The best submissions are selected and the money is distributed among the participants depending on their stake.
 - For each task, rewards are given per row/prediction, not per model. This encourages a [[Plurality]] of models to be used that specialize in different tasks.
-- Similar approach could be done to incentivize the creation of new datasets. An entity holds out some "groud truth" dataset. Participants can submit datasets and stake some amount of money. The closest dataset to the ground truth is selected. There might be dragons (generating fake data that follows the distribution)!
+- Similar approach could be done to incentivize the creation of new datasets. An entity holds out some "ground truth" dataset. Participants can submit datasets and stake some amount of money. The closest dataset to the ground truth is selected. There might be dragons (generating fake data that follows the distribution)!
 - Pluggable Identity with ENS, DID, ...
 - Infrastructure for [infofinance](https://vitalik.eth.limo/general/2024/11/09/infofinance.html).

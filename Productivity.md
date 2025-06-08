@@ -13,4 +13,4 @@
 - [[Journaling|Keep a log]] of what happened each day. You can also add what you've learned!
 - Create [[checklist]] for repetitive processes. For example, a [[checklist]] detailing all the task to do before ending the day.
 - "Where is the good knife?" If you're looking for your good X, it means you have bad Xs. Throw those out.
-- Your mind should be flexible, but your processes should be repeatables and predictable.
+- Your mind should be flexible, but your processes should be repeatable and predictable.

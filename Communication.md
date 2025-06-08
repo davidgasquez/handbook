@@ -15,7 +15,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   - Without going overboard, use a tasteful amount of graphic design (e.g: bolding one key sentence).
   - Break up a giant nuanced block into sections.
   - If something is critical, make it visual.
-- If you want an answer, you have to[[Asking Questions|ask a question]]. People typically have a lot to say, but they'll volunteer little.
+- If you want an answer, you have to [[Asking Questions|ask a question]]. People typically have a lot to say, but they'll volunteer little.
 
 ## Resources
 

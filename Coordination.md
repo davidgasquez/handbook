@@ -33,8 +33,8 @@
   - No [[processes]] requires trusting other people. More trust means better coordination without processes. [Trust is the currency of interactions](https://youtu.be/-vbPXbm8eTw).
   - When a process becomes the proxy for the result you want, you stop looking at outcomes and just make sure you're doing the process right.
   - Every process will slow you down, and some will make you better.
-- If we imagine human society as it's own organism. We need processes and other coordination tools to make it remove the hand from the fire when it starts to burn.
-  - The hand doesn't know what to do, but relies information to the brain, that makes the appropriate changes.
+- If we imagine human society as its own organism. We need processes and other coordination tools to make it remove the hand from the fire when it starts to burn.
+      - The hand doesn't know what to do, but relays information to the brain, that makes the appropriate changes.
   - Something similar could be achieved at a society level, where pain triggers processes that make it stop.
 - Only a few bits of information are possible to reliably convey to a large number of people. [The larger the group, the smaller the message needs to be](https://www.lesswrong.com/posts/4ZvJab25tDebB8FGE/you-get-about-five-words).
 - The requirements to govern a commons without tragedy:
