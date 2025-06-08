@@ -10,7 +10,7 @@
 - [[Governance]] mechanisms should count uncorrelated signals additively but correlated signals with diminishing returns.
 - [[Organizations|Organizations]] should allow different degrees of membership, not just true-or-false.
 - Local currencies and property rights can coexist with global mechanisms for cooperation.
-- We should understand the world through a patchwork combination of models, and not try to stretch any single model to beyond its natural applicability
+- We should understand the world through a patchwork combination of models, and not try to stretch any single model beyond its natural applicability
 - There is a set of principled mathematical techniques by which you can design social, political and economic mechanisms that treat not just individuals, but also connections between individuals as a first-class object.
 - We should take connections between individuals really seriously, and work to expand and strengthen healthy connections.
 - Plurality technologies include:
