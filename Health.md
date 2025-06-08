@@ -10,10 +10,12 @@
 
 ## Blood Markers
 
+These are some of the blood markers that could be useful to measure and monitor.
+
 - Cortisol: Stress marker.
 - HbA1c: Glucose/diabetes marker.
 - hsCRP: Inflammation marker.
-- LDL: Bad cholesterol  .
+- LDL: Bad cholesterol.
 - HDL: Good cholesterol.
 - AST: Liver function.
 - Ferritin: Indicates inflammation, obesity, excess iron.

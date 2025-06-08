@@ -7,7 +7,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - The more you can decompose, the more innovation you'll drive.
   - The best code is no code, or code you don't have to maintain.
 - **Design for simplicity**.
-  - Do the [simplest thing](https://landing.google.com/sre/book/chapters/simplicity.html) that could possibly work.
+  - Do the [simplest thing](https://landing.google.com/sre/book/chapters/simplicity.html) that could possibly work (e.g: UNIX tools remain incredibly powerful and efficient for "Big Data").
   - Benefits of simplicity: ease of understanding, ease of change (improvement), ease of debugging, flexibility. [The goal of software design is to create chunks or slices that fit into a human mind](https://mobile.twitter.com/KentBeck/status/1354418068869398538). The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes.
   - Break down complex problems into simpler, digestible pieces. If you do it right, it will feel like cheating: you just solve simple problems until you're done.
   - We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
