@@ -1,6 +1,6 @@
 # Data Culture
 
-- The data team needs to be focus on delivering insights and supporting decisions. The outcome of the data team are *decisions* and a *shared context across the organization* that makes coordination easier.
+- The data team needs to be focus on delivering insights and supporting decisions. The outcome of the data team are _decisions_ and a _shared context across the organization_ that makes coordination easier.
   - Your goal as a data professional is to facilitate [[Making Decisions|decision making]] and [help surface/investigate the performance of a business](https://sqlpatterns.com/p/delivering-value-as-a-data-team) (e.g. [operational](https://twitter.com/ergestx/status/1731324299590479989)).
   - Learning to drive decisions quickly, a bias to action, is a critical competency for an analyst. Every skill you learn – [[communication]], [[writing]], [[experimentation]], [[Metrics|metric design]] – supports this.
   - [If analysis is not actionable, it does not really matter](https://twitter.com/decisionleader/status/1661041373783441408). Analysis must drive to action. [Clear results won't spur action themselves](https://www.linkedin.com/posts/eric-weber-060397b7_data-analytics-machinelearning-activity-6675746028144205824-CQxW/). The organization needs to be ready to pivot when something isn't working.
@@ -11,7 +11,7 @@
   - Notebooks are a workshop. Production systems are the factory. Not everything needs to be put into production. Not everything should be a notebook. You need both. Lean in to the strength of each.
 - Data is fundamentally a collaborative design process rather than a tool, an analysis, or even a product. [Data works best when the entire feedback loop from idea to production is an iterative process](https://pedram.substack.com/p/data-can-learn-from-design).
   - [To get buy in, explain how the business could benefit from better data](https://youtu.be/Mlz1VwxZuDs) (e.g: more and better insights). Start small and show value.
-  - Run *[Purpose Meetings](https://www.avo.app/blog/tracking-the-right-product-metrics)* or [Business Metrics Review](https://youtu.be/nlMn572Dabc).
+  - Run _[Purpose Meetings](https://www.avo.app/blog/tracking-the-right-product-metrics)_ or [Business Metrics Review](https://youtu.be/nlMn572Dabc).
     - Purpose Meetings are 30 min meetings in which stakeholders, engineers and data align on the goal of a release and what is the best way to evaluate the impact and understand its success. Align on the goal, commit on metrics and design the data.
     - Business Metrics Review is a 30 to 60 minutes meeting to chat and explore key metrics and teach how to think with data.
       - You don't hit a quantitative goal by focusing on the goal. You hit a quantitative goal by focusing on the process.
@@ -22,7 +22,7 @@
 - [Data teams should be a part of the business conversations from the beginning](https://cultivating-algos.stitchfix.com/). Get the data team involved early, have open discussions with them about the existing work, and how to prioritize new work against the existing backlog. Don't accept new work without addressing the existing bottlenecks, and don't accept new work without requirements. **Organizational [[politics]] matter way more than any data methods or technical knowledge**. The hard bit about becoming data driven in business isn't the technical bits. It's the political bits.
   - Including data people in meetings causes happy accidents!
   - The layout of the organization impacts time of the information to propagate and adds losses.
-  - The modern data team needs to have *real organizational power* — it needs to be able to say "no" and mean it. If your data team does not truly have the power to say no to stakeholders, it will get sent on all kinds of wild goose chases, be unproductive, experience employee churn, etc.
+  - The modern data team needs to have _real organizational power_ — it needs to be able to say "no" and mean it. If your data team does not truly have the power to say no to stakeholders, it will get sent on all kinds of wild goose chases, be unproductive, experience employee churn, etc.
   - Data should report to the CEO. Ideally at least with some weekly metrics split into (a) notable trends, (b) watching close, and (c) business as usual.
   - If data is the most precious asset in a company, does it make sense to have only one team responsible for it?
     - [People talk about data as the new oil but for most companies it's a lot closer uranium](https://news.ycombinator.com/item?id=27781286). Hard to find people who can to handle or process it correctly, nontrivial security/liabilities if PII is involved, expensive to store and a generally underwhelming return on effort relative to the anticipated utility.
@@ -60,13 +60,13 @@
   - Making a [[Writing a Roadmap|roadmap]] can help you telling if you are hitting milestone deadlines or letting them slip.
     - Embedded data team members need to help other teams build their roadmap too.
   - Also, having a changelog ([do releases!](https://betterprogramming.pub/great-data-platforms-use-conventional-commits-51fc22a7417c)) will help show the team impact on the data product across time.
-- [Push for a *centralization of the reporting structure*, but keeping the *work management decentralized*](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
+- [Push for a _centralization of the reporting structure_, but keeping the _work management decentralized_](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Unify resources (datasets, entities, definitions, metrics). Have one source of truth for each one and make that clear to everyone. That source of truth needs heavy curation. Poor curation leads to confusion, distrust and…. lots of wasted effort.
   - Aim to share the source of truth with the production code. Usually database information is better than tracking information.
   - Data should be defined unambiguously in a single place. Anyone can look up definitions without confusion.
   - If definition or business logic is changed, backfills should occur automatically and data remains up-to-date.
-- [Organizations have *too much* data. Without better ways of organizing it, large volumes of data are more overwhelming than useful.](https://towardsdatascience.com/good-data-citizenship-doesnt-work-265f13a37fa5)
-  - Use the questions people are asking to find data *hotspots* and focus our energy on those. That means some corners of your data will be messy, and some concepts will go undocumented. Data is perennially broken and messy. **Embrace the mess**.
+- [Organizations have _too much_ data. Without better ways of organizing it, large volumes of data are more overwhelming than useful.](https://towardsdatascience.com/good-data-citizenship-doesnt-work-265f13a37fa5)
+  - Use the questions people are asking to find data _hotspots_ and focus our energy on those. That means some corners of your data will be messy, and some concepts will go undocumented. Data is perennially broken and messy. **Embrace the mess**.
   - Get excited when people ask questions. Embrace confusion and curiosity. Offer help. Be friendly.
   - [Reality is complex and multidimensional and often difficult to comprehend](https://mobile.twitter.com/rahulj51/status/1485429967131639808).
   - [Document data when it's generated](https://davidsj.substack.com/p/the-data-chasm). Make it part of the process of adding a new event, table, or a replication job, when the change is already top of mind. If possible, embed it in the development process, and pester people when they don't include the necessary updates. This shifts the burden of documentation upstream, making it part of the development cycle.
@@ -84,7 +84,7 @@
   - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)!
 - [Aim for a culture of celebrating measurable progress and learnings, versus celebrating shipping](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Align company on key actions. Every stakeholder should know how to explore that data.
-- Do pre-mortems. Where would we see the impact of *X* going wrong? Model that and plot it on a dashboard.
+- Do pre-mortems. Where would we see the impact of _X_ going wrong? Model that and plot it on a dashboard.
 - You can force coordination by making a chart and start the discussion with it. Having a default chart will foce people to fight on the definition and also provides a starting point. Discussions are much better when there are based on data and definitions.
   - Coordination happens when people agree on data, direction, and how to move to the desired place.
 - [Send surveys](https://docs.google.com/forms/d/e/1FAIpQLSfufs_0zOGlFiE6oqrdZU7xCi399CBYbIlZkAMe15GTRRcPZA/viewform) from time to time trying to get pain points and know where issues are.
@@ -95,7 +95,8 @@
 - Most of the work done in data is in an effort to **reduce entropy** — Model data to remove inaccuracies, turn commonly asked questions into self-serve reports, and funnel ad-hoc questions into a formalized request process. This kind of attitude the nature of data practitioners. In the case of driving decisions with data, **embrace the chaos**.
   - Data doesn't so much drift towards entropy, **but sprints at it**.
   - [Navigating the chaos to arrive at a trustworthy recommendation is one of the most important jobs to be done.](https://roundup.getdbt.com/p/iterating-on-your-data-team). Decisions usually need to be taken faster and data analyst are [not invited to the table early enough](https://petrjanda.substack.com/p/bring-data-analyst-to-the-table). Again, be lean and iterate.
-  - Data is *not* a "set it and forget it" kind of activity. Your dashboard *will* get stale in less than six months. Your key metrics *will* eventually have bad data in them. That machine learning model you spent all of last quarter developing *will* **[drift](http://web.archive.org/web/20221010060836/https://towardsdatascience.com/model-drift-in-machine-learning-models-8f7e7413b563)** from its original fit. The environment in which your business operates is constantly changing, and so will the product or service that your business delivers. As a result, what is knowable about your business, about your product or service, is constantly changing too. And fast.
+  - Data is _not_ a "set it and forget it" kind of activity. Your dashboard _will_ get stale in less than six months. Your key metrics _will_ eventually have bad data in them. That machine learning model you spent all of last quarter developing _will_ **[drift](http://web.archive.org/web/20221010060836/https://towardsdatascience.com/model-drift-in-machine-learning-models-8f7e7413b563)** from its original fit. The environment in which your business operates is constantly changing, and so will the product or service that your business delivers. As a result, what is knowable about your business, about your product or service, is constantly changing too. And fast.
+- No model is perfect. Reality has many more dimensions. Models exist **within a context**.
 - [Have regular cleanups and audits to keep data in check](http://web.archive.org/web/20231004070856/https://www.avo.app/blog/data-literacy-why-people-dont-trust-data-tips-from-patreons-dir-of-data-science). They are crucial to keeping your data trust up to par. [Schedule time to delete stuff](https://twitter.com/EdDaWord/status/1532148425487097857).
 - We're moving from software consumers to data consumers. Data and BI will become more and more federated (you get data insights on your JIRA card without having to leave JIRA)
 - Over time, data literacy across organizations will become commonplace the same way typewriting has. [Most professionals, at all levels of the business, will be capable of generating their own insights without requiring a data team](https://roundup.getdbt.com/p/data-expertise-everywhere).
@@ -142,6 +143,7 @@
 - [Apply a research mindset to data](https://jxnl.co/writing/2024/10/25/running-effective-ai-standups). Focus on input metrics, build scientific intuition, and embrace uncertainty.
   - [How can science – loosely, the production of facts – do more to "steer" the outcomes of these processes?](https://jscaseddon.co/2024/02/science-for-steering-vs-for-decision-making/)
 - Data is not superior or inferior to intuition or qualitative sensemaking; it is a third sense for operators. Effective decision-making uses all three: intuition, qualitative sensemaking, and data. [Data is just an added sense](https://commoncog.com/data-is-an-added-sense/). Treat data as a tool for building and verifying intuition, not as a replacement for it. Over-reliance on any single sense—data, intuition, or qualitative feedback—limits understanding.
+- Underlying most of the problems around data, there is the question: [how do we represent reality with data, without flattening it](https://denniseirorere.com/posts/graph-the-true-data-and-reality/)?
 
 ## Tools
 
