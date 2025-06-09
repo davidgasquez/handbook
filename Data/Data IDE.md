@@ -1,4 +1,4 @@
-## Open Source Web Data IDE
+# Data IDE
 
 After playing with [Rill Developer](https://github.com/rilldata/rill-developer), DuckDB, Vega, WASM, [Rath](https://rath.kanaries.net/), and other modern Data IDEs, I think we have all the pieces for an awesome web based BI/Data exploration tool. Some of the features it could have:
 
