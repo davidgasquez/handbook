@@ -77,6 +77,7 @@
   - Local-first storage and immutable data (CRDTs) support ongoing synchronization and avoid stale static exports.
   - Permissionless, open APIs and protocols allow multiple apps to interoperate without centralized lock-in.
   - Open source protocols and applications enable full-fidelity exit through forks and reconstructions.
+- Explore the [design patterns](https://decentpatterns.com/library/) that are generalizable to protocols, applications, and the user interfaces of decentralized applications and help people build better systems.
 
 ## Types of Decentralization
 
