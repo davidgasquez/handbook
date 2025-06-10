@@ -1,6 +1,6 @@
 # Large Language Models
 
-- LLM build internal [[Knowledge Graphs]] in their network layers.
+- LLMs build internal [[Knowledge Graphs]] in their network layers.
 - LLM models shine in the kinds of situations where "good enough is good enough".
 - Classic ML system where humans are designing how the information is organized (feature engineering, linking, graph building) scale poorly ([the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)). LLMs are able to learn how to organize the information from the data itself.
 - [LLMs may not yet have human-level depth, but they already have vastly superhuman breadth](https://news.ycombinator.com/item?id=42625851).
@@ -58,7 +58,7 @@
 - Make the model ask you more questions to refine the ideas.
 - Take advantage of the fact that [redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms).
 - If you want to force some "reasoning", ask something like "[is that a good suggestion?](https://news.ycombinator.com/item?id=42894688)" or "propose a variety of suggestions for the problem at hand and their trade-offs".
-- Add relevant context to the prompt. Context can be external docs, a small pesudocode code example, etc. Adding lots of context can confuse the model, so be careful!
+- Add relevant context to the prompt. Context can be external docs, a small pseudocode code example, etc. Adding lots of context can confuse the model, so be careful!
 - [Teach the agents to use tools](https://www.anthropic.com/engineering/claude-code-best-practices).
 - Be aware of the "cache" (e.g: never edit files manually during a session)
 

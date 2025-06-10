@@ -76,7 +76,7 @@
     - [Some experiments won't work](https://www.lesswrong.com/posts/97LgacucCxmyjYiNT/the-archipelago-model-of-community-standards). But oftentimes it _feels_ like it wont work when in fact you just haven't stuck with it long enough for it to bear fruit. This is hard enough for _solo_ experiments. For group experiments, where not just one but _many_ people must all try a thing at once and _get good at it_, all it takes is a little defection to spiral into a mass exodus.
 - The group with the most power determine the system that reflect and reinforce their own way of thinking. Aim for inclusion. _Diversity is being invited to the party. Inclusion is being asked to dance and help organizing the party_.
 - [Brainstorm for questions first (explore). Then find the answers (exploit).](http://web.archive.org/web/20240522210302/https://getpocket.com/explore/item/better-brainstorming)
-- Strive for constructive conflict. Get people to[[Asking Questions|ask questions]]. Engage in passionate, unfiltered debate about what you need to do to succeed.
+- Strive for constructive conflict. Get people to [[Asking Questions|ask questions]]. Engage in passionate, unfiltered debate about what you need to do to succeed.
 - Encourage to fail. Failing is good if the team [[Learning|learns]] from it!
 - Encourage effectiveness. Find ways to free up your time.
 - Communication is a central part of working in teams. Prefer [[Asynchronous Communications]], use common [[Communication|communications]] techniques and be friendly. Trust and efficient communication has a big impact on team effectiveness.
@@ -124,7 +124,7 @@
 - Keep a [private work log](https://youtu.be/HiF83i1OLOM?list=PLYXaKIsOZBsu3h2SSKEovRn7rGy7wkUAV). It'll make it easier for everyone to advocate what you did.
 - [Don't sabotage the team](https://erikbern.com/2023/12/13/simple-sabotage-for-software)!
 - [Nobody gets credit for fixing problems that never happened](https://news.ycombinator.com/item?id=39472693). People get credit for shipping things. Figure out how to reward and recognize people for preventing problems.
-- The same practices that make great [[Artificial Intelligence Models]] [promts](https://platform.openai.com/docs/guides/prompt-engineering) also make [great practices with humans](https://x.com/tayloramurphy/status/1849269205155123568):
+- The same practices that make great [[Artificial Intelligence Models]] [prompts](https://platform.openai.com/docs/guides/prompt-engineering) also make [great practices with humans](https://x.com/tayloramurphy/status/1849269205155123568):
   - Give clear instructions.
   - Share relevant background info.
   - Break big problems into chunks.
