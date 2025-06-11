@@ -63,6 +63,7 @@
 
 - We all have a web of concepts in our minds, our [[Knowledge Graphs]]. The collection of all the concepts we understand, all of our existing knowledge and intuitions, connected together. And you have learned something when you can convert it to concepts and **connect it to your existing understanding**. This means not just understanding the concept itself, but understanding where it fits into the bigger picture, where to use it, etc.
 - Knowledge is not as a hunt for a single, ultimate and universal truth. [Is similar to the spirit of ecology: a gradual evolution of stably coexisting diversity that speciates and complexifies as it develops](https://www.radicalxchange.org/media/blog/why-i-am-a-pluralist/).
+- T[he world is full of things that merely appear good but aren't really](https://sarahconstantin.substack.com/p/what-goes-without-saying), and that it's important to vigilantly sift out the real from the fake. Concepts like Goodhart's Law, cargo-culting, greenwashing, hype cycles, Sturgeon's Law, ... are all pointing at the basic understanding that it's easier to seem good than to be good.
 
 ## Learning Soft Skills
 

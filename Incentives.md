@@ -52,6 +52,7 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - A good mechanism is also a mechanism that actually does solve the problems that we care about. If it can't be done completely neutrally, it doesn't mean it should not be done at all.
 - Any mechanism that can help genuinely under-coordinated parties coordinate will, without the right safeguards, also help already coordinated parties (such as many accounts controlled by the same person) [over-coordinate](https://vitalik.eth.limo/general/2019/04/03/collusion.html) with potential ways to "do wrong" (e.g: extract money from the system).
 - You can increase mechanism complexity if you trade it off for identity or collusion resistance. If you figure out a way to make it the mechanism identity resistant then, it'll support more complex setups.
+- [Truthtelling games](https://jonathanwarden.com/truthtelling-games/) can incentivize honesty through coordination games where participants win by giving the same answer as others, with truth serving as a powerful Schelling point (truthtelling is the winning strategy only if everybody else tells the truth). Information elicitation mechanisms can get people to reveal private/subjective information truthfully even without verification.
 
 ### Examples
 
@@ -60,18 +61,11 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - Auctions. The input is bids, the output is who gets the item being sold, and how much the buyer must pay.
   - [Vickrey–Clarke–Groves auction](https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_auction).
   - [Second-price auction](https://en.wikipedia.org/wiki/Generalized_second-price_auction).
-- Quadratic voting and funding as a way of coming to agreement on matters of governance and public goods.
+- Quadratic voting and funding as a way of coming to agreement on matters of governance and [[Public Goods Funding]].
 
-### Impact Evaluators
+### Resources
 
-It's hard to fund important things like public goods, open-source software, research, etc. that don't have a clear, immediate financial return, especially high-risk/high-reward projects.
-
-Traditional funding often fails here. Instead of just giving money upfront (prospectively), Impact Evaluators create systems that look back at what work was actually done and what impact it actually had (retrospectively). The setup is similar to Control Theory. Based on measuring and evaluating this impact against predefined goals, the system then distributes rewards (e.g: similar to how BitCoin block rewards do it).
-
-- The Impact Evaluator goal is to **create strong incentives for people/teams to work on valuable, uncertain things** by promising a reward if they succeed in creating demonstrable impact.
-- They work well on concrete things that you can turn into measurable stuff. They are powerful and will always overfit. When the goal is not exactly aligned, they can be harmful. Eg. Bitcoin wasn't created to maximize the energy consumption.
-- They should be flexible as it's hard to predict ways the evaluation metrics will be gamed.
-- Allow Community Feedback Mechanisms. Implement robust feedback systems that allow participants to report and address concerns about the integrity of the metrics or behaviors in the community. This feedback can be used to refine and improve the system continuously.
-- Use hard to game metrics. Metrics that are hard, or expensive, to game, will be resistant (but not immune) to goodharts law.
-- Use diversified metrics. Rather than relying on a single metric or indicator, use a diverse set of metrics to assess performance or impact.
-- Dynamic and Adaptive Metrics. Implement mechanisms that allow for metrics to be adjusted or replaced as the system evolves. This adaptability can help prevent the gaming of static metrics and ensure that measures continue to align with the underlying goals of the IE.
+- [Jonathan Warden's blog](https://jonathanwarden.com)
+- [Sam Harsimony's Substack](https://substack.com/@splittinginfinity)
+- [Victor Sint Nicolaas' blog](https://victorsintnicolaas.com/)
+- [Allocation Mechanisms](https://www.allo.expert/mechanisms)
