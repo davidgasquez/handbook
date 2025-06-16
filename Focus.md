@@ -11,3 +11,4 @@
 - Periodic exposure to nature and out-of-doors in an relaxing, undemanding way can restore attention capability.
 - [Attention is a scarce resource](https://youtu.be/ZWI4_Oe-Qbs). Everything in the world is fighting to get yours.
 - Some [sounds or music](https://mynoise.net/) can help you focus.
+- [The main thing is keeping the main thing the main thing](https://mattrickard.com/keep-the-main-thing-the-main-thing).
