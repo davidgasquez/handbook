@@ -1,4 +1,4 @@
-# Large Language Models
+# Artificial Intelligence Models
 
 - LLMs build internal [[Knowledge Graphs]] in their network layers.
 - LLM models shine in the kinds of situations where "good enough is good enough".
