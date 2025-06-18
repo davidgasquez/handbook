@@ -7,7 +7,7 @@ Public goods are defined as goods that are both nonexcludable (it's infeasible t
 - All funding mechanisms involve trade-offs between simplicity, robustness, and theoretical optimality. There is no mechanism that [can simultaneously achieve four desirable criteria](https://www.jstor.org/stable/2298018)-
 - [[Plurality|Different public goods require different funding approaches based on their characteristics and communities]].
 - Mathematical optimality matters less than perceived fairness and historical precedent. Ideal funding methods that don't work in practice are not ideal.
-  - Mechanisms which satisfy different constraints have already been discovered, and it seems unlikely that a different approach will radically change the landscape. Instead, the **bottleneck seems to be in popularizing and scaling existing mechanisms in the real world**.
+  - [[Mechanism Design|Mechanism]] which satisfy different constraints have already been discovered, and it seems unlikely that a different approach will radically change the landscape. Instead, the **bottleneck seems to be in popularizing and scaling existing mechanisms in the real world**.
 
 ## Desirable Criteria
 

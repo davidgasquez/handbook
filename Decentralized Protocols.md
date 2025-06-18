@@ -55,7 +55,7 @@
   - Self-sovereign identity: the user is in control of their identity.
   - Privacy-preserving: the user's identity is not shared with third parties.
   - Sybil-resistant: identity is subject to scarcity; i.e., creating more identifiers cannot be used to manipulate a system.
-- Two big unsolved problems on decentralized mechanism design are identity (making sure that the same person can't have multiple identities) and collusion (making sure groups cannot coordinate to manipulate the system).
+- Two big unsolved problems on decentralized [[Mechanism Design]] are identity (making sure that the same person can't have multiple identities) and collusion (making sure groups cannot coordinate to manipulate the system).
 - Identity can be delegated to a community. E.g: Gitcoin uses Passport because they know what the identity requirements are for that community. Solving identity at a global scale means "[seeing like a state](https://newsletter.squishy.computer/p/soulbinding-like-a-state)" and distorting the messy reality.
   - What we call "on-chain identity" is really "on-chain legibility" - a standardized, certified, registered system that simplifies complex human identity into quantifiable data points, similar to how scientific forestry reduced complex ecosystems to countable rows of trees.
   - The solution is "Keys not IDs" - focus on what users are authorized to do rather than who they are, using public-key cryptography for authorization without the baggage of permanent identity tracking.
