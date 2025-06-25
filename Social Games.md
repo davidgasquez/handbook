@@ -24,6 +24,7 @@
 - Cheers to the Governor. As a group, you have to count to 21. The first rule is that 7 and 14 are swapped. Every time you succeed, you say cheers to the governor and add a new rule (e.g: 8 changes sense, 9 is silent, you have to say hello instead of 4, ...).
 - Celebrity cup. Add people to a cup and grab 2. You need to defend why that couple will work.
 - Deduction Games like "Who Has the Hat".
+- Hand made [Chronology](https://boardgamegeek.com/boardgame/834/chronology). Write up events as a group, [then sort them out](https://boardgamegeek.com/video/47758/chronology/chronology-overview).
 - [Many other activities can be played as games](https://www.whataaabout.com/)!
 
 ## Card Games
