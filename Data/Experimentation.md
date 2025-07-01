@@ -41,7 +41,7 @@ You can use [online calculators](http://experimentcalculator.com/) to estimate t
 - Business problem
 - Supporting data
 - Required tracking
-- [Expected outcome](https://about.gitlab.com/handbook/business-technology/data-team/experimentation-best-practices/):
+- [Expected outcome](http://web.archive.org/web/20231128193004/https://about.gitlab.com/handbook/product/product-analysis/experimentation/):
   - Define the primary metric that we want the experimentation to move. This is the metric we use to define the rollout scenario.
   - Define the secondary metric(s): There are metrics that help us validate and understand in detail why and how the primary metric was impacted-
   - Define Guardrail metrics: This helps us ensure we are not harming the business in the long run for short-term gains.
@@ -65,4 +65,4 @@ Experimentation unlocks entrepreneurialism, creating a vehicle for teams down th
 ## Resources
 
 - [GrowthBook](https://growthbook.io/). Open source A/B testing.
-- [GitLab Product Experimentation](https://about.gitlab.com/handbook/product/product-analysis/experimentation/) and [Growth Experimentation](https://about.gitlab.com/handbook/engineering/development/growth/experimentation/) handbooks.
+- [GitLab Product Experimentation](http://web.archive.org/web/20231128193004/https://about.gitlab.com/handbook/product/product-analysis/experimentation/) and [Growth Experimentation](https://about.gitlab.com/handbook/engineering/development/growth/experimentation/) handbooks.

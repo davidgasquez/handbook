@@ -10,5 +10,5 @@
   3. Create automation. Create a script that runs everything.
 - Drive standards through automation and building internal tools/scripts rather than through extensive [[documentation]].
   - Standards can help to reduce this friction but take time. Before jumping into standards processes, [consider other ways to encourage consistency](https://blog.ldodds.com/2023/09/18/consistency-before-standards/).
-  - If you jump into standards, [make them open, modular, interoperable, customizable and, extensible](https://voltrondata.com/codex/standards-over-silos#1-3-5-composable-systems-are-MICE).
+  - If you jump into standards, [make them open, modular, interoperable, customizable and, extensible](http://web.archive.org/web/20250327201845/https://voltrondata.com/codex/standards-over-silos).
 - Makefiles are a great way to document and consolidate different projects of a team. Each project should have a [`make` that runs it](https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/), and perhaps a `make deploy` to deploy it. Language and tool independent!
