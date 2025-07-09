@@ -69,7 +69,7 @@
   1. Question everything.
   2. Remove more than you add.
   3. Optimize what works.
-  4. Shorten iteration cycles. **[Boyd's Law of Iteration](https://blog.codinghorror.com/boyds-law-of-iteration/): speed of iteration beats quality of iteration**.
+  4. Shorten iteration cycles. **[Boyd's Law of Iteration](https://blog.codinghorror.com/boyds-law-of-iteration/): speed of iteration beats quality of iteration**. No tasks longer than one week. You have to ship something into live production every week – worst case, two weeks.
   5. [[Automation|Automate]] and keep standards.
 - Keep great global [[coordination]] and incentive local experimentation.
   - Being able to run small and compounding experiments (on the product or company [[processes]] and systems) is important. **Work smaller**.
@@ -144,6 +144,8 @@
 - There may be certain functions where at your current stage that don't need a team yet.
 - Each team runs its own processes. This must be done transparently.
 - The team has the final call in which of its features get into production, with no need for external QA/control.
+- Dogfooding is a superpower. Ship, use, iterate.
+- Prototypes over RFCs and discussions.
 
 ## Getting Started
 

@@ -82,7 +82,7 @@ Like any other field, the world of Software Development has some interesting and
 - [Laws of Software Development](http://www.globalnerdy.com/2007/07/18/laws-of-software-development/)
 - [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
 - [Laws of Computing](https://gist.github.com/sorahn/905f67acf00d6f2aa69e74a39de65941)
-- [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws) ([website](https://hacker-laws.com/))
 - [Engineering Axioms](https://martinrue.com/my-engineering-axioms/)
 - [CUPID](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
 - [Things they didn't teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
