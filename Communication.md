@@ -15,6 +15,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   - Without going overboard, use a tasteful amount of graphic design (e.g: bolding one key sentence).
   - Break up a giant nuanced block into sections.
   - If something is critical, make it visual.
+- **Beware [semantic diffusion](https://martinfowler.com/bliki/SemanticDiffusion.html)**. Popular terms lose their precise meaning as they spread through repeated misinterpretation. Complex ideas get simplified, then distorted, like a game of telephone. The more desirable a term sounds, the more likely it gets misappropriated. Keep pointing back to original definitions rather than abandoning diffused terms.
 - If you want an answer, you have to [[Asking Questions|ask a question]]. People typically have a lot to say, but they'll volunteer little.
 
 ## Resources
