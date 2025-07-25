@@ -23,12 +23,13 @@
 
 - Bottle of water.
 - Sunglasses.
+- Backpack (portable/foldable).
 - Medicines.
 - ID cards.
+- Power Adapter.
 - Card deck to play games.
 - Phone charger.
 - eSIM (Airalo [or similar](https://esimdb.com/)).
-- Power Adapter.
 
 ### Checklist
 
