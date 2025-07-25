@@ -5,8 +5,8 @@
   - [More analysis might not be the best solution if you can't validate or take actions on previous analysis](https://twitter.com/ejames_c/status/1753692862548697464)!
 - Accept that [analytics is a mess](https://benn.substack.com/p/analytics-is-a-mess).
   - Explicitly create separate workspaces for curated (production) and messy (experimental) work.
-- Reports are rarely read, and often forgotten. [[Data Culture|Decision-making involves getting data, summarizing and predicting ad then taking action]].
-  - One of the best ways to communicate data is telling stories. Stories are more captative and present a coherent view around a topic.
+- Reports are rarely read, and often forgotten. [[Data Culture|Decision-making involves getting data, summarizing and predicting and then taking action]].
+  - One of the best ways to communicate data is telling stories. Stories are more captivating and present a coherent view around a topic.
 - [The analytics engineer workload is a lot like being a data librarian](https://www.youtube.com/watch?v=T0Z_ibd3Hx0).
   - If you are running a library you have these books coming in and you have people who are looking for books on specific topics and you've got to figure out a way to organize all those books so that all those people can find what they need. There are many different ways to organize books, not just one perfect solution. A librarian is interested in helping people find the books that they're looking for but also discovering new books that they didn't realize that they were looking for.
 - [Analytics code should be version controlled, tested, modular and maintainable](https://www.getdbt.com/analytics-engineering/why/).
@@ -59,9 +59,9 @@
 - [Skrimmage](https://github.com/Skrimmage/Data-Platform)
 - [Ibis](https://github.com/ibis-project/ibis-analytics)
 - [OSO](https://github.com/opensource-observer/oso)
-- [Tuba](https://github.com/tuva-health/tuva)
+- [Tuva](https://github.com/tuva-health/tuva)
 - [Department of Education for New South Wales](https://github.com/wisemuffin/nsw-doe-data-stack-in-a-box)
-- [OP Analytitcs](https://github.com/ethereum-optimism/op-analytics)
+- [OP Analytics](https://github.com/ethereum-optimism/op-analytics)
 - [Transfermarkt Datasets](https://github.com/dcaribou/transfermarkt-datasets)
 - [OpenTimes](https://github.com/dfsnow/opentimes)
 

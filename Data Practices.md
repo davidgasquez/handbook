@@ -12,7 +12,7 @@ Inspired by [Caitlin Hudon Intake Form for Data Requests](https://caitlinhudon.c
 - People need to prepare and that means better kickoff conversation.
 - Easier to triage and connect dots across requests.
 - Creates easily referenced records of requests.
-- Friction cuts down on lazy asks. Too much friction will disuade legit ask.
+- Friction cuts down on lazy asks. Too much friction will dissuade legit ask.
 
 ### Data Request Form
 
