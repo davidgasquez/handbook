@@ -13,6 +13,7 @@
   - [Context Engineering](https://www.philschmid.de/context-engineering) is the discipline of designing and building dynamic systems that provides the right information and tools, in the right format, at the right time, to give a LLM everything it needs to accomplish a task.
 - LLMs amplify existing expertise rather than replacing it.
 - Be aware of training cut-off dates when using LLMs.
+- "AIs" can be dangerous in underspecified environments (e.g: pausing games to last longer in the level) but those are the places where we will use them most. If something is well specified, there might be better solutions/optimizations (maths, code, ...).
 
 ## Prompting
 
@@ -80,6 +81,14 @@ Agents are systems where LLMs dynamically direct their own processes and tool us
   - Orchestrator-workers. A single agent that directs a pool of workers to accomplish a task.
   - Evaluator-optimizer. One LLM call generates a response while another provides evaluation and feedback in a loop.
 - ["Prompt engineering"](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) will have a large impact on the usefulness of an agent.
+- Agents decides what tools to use and what context to fetch.
+- Minimal interfaces win. The most effective coding agents have surprisingly simple interfaces.
+- Tight coupling between agents and their tools means swapping models creates terrible user experiences. Each model has specific capabilities that tools are designed around.
+- Traditional RAG engines are overkill. Many coding agents use simple tools like grep instead of complex embedding models and re-rankers. The intelligence is in the agent's feedback loops and runtime design.
+- Sub-agents extend context windows. When tasks would consume too much context, spinning up a sub-agent to handle that specific task preserves the main agent's context window.
+- Tools come in three flavors: context retrieval (finding information), feedback loops (verifying actions), and planning (structuring work over longer horizons).
+- Tool overload confuses models. Just because you can connect every tool doesn't mean you should. Each tool description consumes context window space and can confuse the model about which tool to use when.
+- Unix philosophy beats vertical integration. The most powerful coding agents follow Unix principles, simple, composable tools that do one thing well.
 
 ## Use Cases
 
