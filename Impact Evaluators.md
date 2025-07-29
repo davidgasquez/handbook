@@ -4,24 +4,101 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 
 Traditional funding often fails here. Instead of just giving money upfront (prospectively), Impact Evaluators create systems that look back at what work was actually done and what impact it actually had (retrospectively). It's much easier to judge the impact in a retrospective way!
 
-- The setup is similar to Control Theory. Based on measuring and evaluating this impact against predefined goals, the system then distributes rewards (e.g: similar to how BitCoin block rewards do it).
-- The Impact Evaluator goal is to **create strong incentives for people/teams to work on valuable, uncertain things** by promising a reward if they succeed in creating demonstrable impact.
-- They work well on concrete things that you can turn into measurable stuff. They are powerful and will always overfit. When the goal is not exactly aligned, they can be harmful. Eg. Bitcoin wasn't created to maximize the energy consumption.
-- They should be flexible as it's hard to predict ways the evaluation metrics will be gamed.
+- The goal is to **create strong incentives for people/teams to work on valuable, uncertain things** by promising a reward if they succeed in creating demonstrable impact.
+- Impact Evaluators work well on concrete things that you can turn into measurable stuff. They are powerful and might overfit.
+  - When the goal is not exactly aligned, they can be harmful. E.g: Bitcoin wasn't created to maximize the energy consumption.
 - Allow Community Feedback Mechanisms. Implement robust feedback systems that allow participants to report and address concerns about the integrity of the metrics or behaviors in the community. This feedback can be used to refine and improve the system continuously.
-- Use hard to game metrics. Metrics that are hard, or expensive, to game, will be resistant (but not immune) to goodharts law.
-- Use diversified metrics. Rather than relying on a single metric or indicator, use a diverse set of metrics to assess performance or impact.
-- Dynamic and Adaptive Metrics. Implement mechanisms that allow for metrics to be adjusted or replaced as the system evolves. This adaptability can help prevent the gaming of static metrics and ensure that measures continue to align with the underlying goals of the IE.
+- Designing IEs has the side effect of making impact more legible, decomposed into specific properties, which can be represented by specific metrics.
+  - Something like l2beat as a leaderboard
+  - IEs should [make "making the next L2beat" a permissionless process](https://vitalik.eth.limo/general/2024/09/28/alignment.html) for the space. Independent entities should arise to evaluate how projects met the IE criteria.
+  - Do more to make different aspects of alignment legible, while not centralizing in one single "watcher", we can make the concept much more effective, and fair and inclusive in the way that the Ethereum ecosystem strives to be.
+- Impact Evaluators need to be (permissionless) forkable. Anyone could setup a fork with their own pool?
+- Start local and a small community and grow from there.
+  - Impact evaluation should be done by the community at the local level. They should define their own metrics and evaluation criteria.
+  - IEs should start small (community) and simple. Iterate as fast as possible with a learning feedback loop (there isn't a community one in deepfunding)!
+  - Figure out system structures and incentives and use as an examples for the level above.
+  - Focus on positive sum games and mechanisms.
+  - E.g: OSO's "developer count" requires +5 commits to be counted. You might or might not align with that metric.
+- IEs, as most systems should have a deadline or something like that so it fades away if it's not working.
+- [IEs are the scientific method in disguise like AI evals](https://eugeneyan.com/writing/eval-process/). You need automated IEs, which is basically science applied to building better systems. You also need human oversight.
+- For optimization tasks with continuous output, follow bittensor model.
+- IEs are like nuclear power: extremely powerful if used correctly, but so very easy to get wrong, and when things go wrong the whole thing blows up in your face.
+- We might be in an "Arrow's Impossibility Theorem" situation where there is no way to design a mechanism that is fair, efficient and incentive compatible.
+  - There is no "end of history" because whenever you fix an evaluation, some group has an incentive to abuse or break it again and feast on the wreckage.
+  - This is the formal impossibility theorem that no mechanism can simultaneously achieve four desirable criteria:
+    - Pareto Efficiency: The outcome achieved by the mechanism maximizes the overall welfare or some other desirable objective function.
+    - Incentive Compatibility: Designing mechanisms so that participants are motivated to act truthfully, without gaining by misrepresenting their preferences.
+    - Individual Rationality: Ensuring that every participant has a non-negative utility (or at least no worse off) by participating in the mechanism.
+    - Budget Balance: The mechanism generates sufficient revenue to cover its costs or payouts, without running a net deficit.
+- [Current markets can optimize for the wrong things](https://meaningalignment.substack.com/p/market-intermediaries-a-post-agi) - clicks, engagement, and profit - rather than human wellbeing and flourishing. This misalignment will become catastrophic as AI systems become more powerful (arms races, propaganda, ...)
+  - Three common responses to market failures, all of which centralize power without fixing the underlying incentive problems: coordination, redistribution, and regulation.
+  - The wrong outcomes are being monitored and contracted against. Is hard to optimize for "human-flourishing-related outcomes".
+  - Four interconnected issues:
+    - Incomplete contracts - It's too expensive to measure what really matters (human flourishing), so we contract on proxies (hours worked, subscriptions)
+    - Power asymmetries - Large suppliers face millions of individual consumers with take-it-or-leave-it contracts
+    - Externalities - Individual flourishing depends on community wellbeing, but contracts remain individualized
+    - Information asymmetries - Suppliers control the metrics and optimize for growth rather than user outcomes
+- Legibility is key. E.g: How much did X contribute to Ethereum? The goal is to transform alignment from an exclusive social game into a merit-based system with clear, measurable criteria.
+  - Support organizations like L2beat to track project alignment
+  - Let projects compete on measurable criteria rather than connections
+  - Enable neutral evaluation by EF and others
+  - Create separation of powers through multiple independent "dashboard organizations"
+- Tradeoffs in public goods funding approaches:
+  - Voting on models: feels too abstract for voters and doesn't leverage their specific project expertise
+  - Voting on metrics: judges just play with numbers until they get their favored allocation
+  - Voting directly on projects: halo effect, peanut butter distributions, heavy operational workload
+- An allocation mechanism can be seen as a measurement process, with the goal being the reduction of uncertainty concerning present beliefs about the future. An effective process will gather and leverage as much information as possible while maximizing the signal-to-noise ratio of that information — aims which are often at odds.
+- In the digital world, we can apply several techniques to the same input and evaluate the potential impacts. E.g: Simulate different voting systems and see which one fits the best with the current views. This is a case for the system to have a final mechanism that acts as a layer for human to express preferences.
+- [Every community and institutions wants to see a better, more responsive and dynamic provision of public goods within them, usually lack information about which goods have the greatest value and know quite a bit about social structure internally which would allow them to police the way GitCoin has in the domains it knows](https://gov.gitcoin.co/t/a-vision-for-a-pluralistic-civilizational-scale-infrastructure-for-funding-public-goods/9503/11).
+  - IE's helps a community with more data and information to make better decisions.
+  - Open Data Platforms for the community to gather better data and make better decisions.
+  - Can open data be rewarded with an IE? What does a block reward mean there?
+- Seeing like a State blinds you to the realities that are complex. Need a way to evolve the metric to be anti-Goodhart's.
+  - Not even anti-goodharts. Research says the best thing to do is to give all money to vaccine distribution, ...
+- Run multiple "aggregations" algorithms and have humans blindly select which one they prefer (blind test).
+  - The meta-layer can help compose and evaluate mechanisms. How do we know mechanism B is better than A? Or even better than A + B, how do we evolve things?
+    - Reinforcement Learning?
+- [IEs need to show how the solution is produced by the interactions of people each of whom possesses only partial knowledge](https://news.ycombinator.com/item?id=44232461).
+- Bandit Algorithms?
+  - Do IEs need some explore/exploit thing? E.g. Use multi-armed bandit algorithms to adaptively choose between evaluation mechanisms based on historical performance and context.
+  - Use maximal lotteries to enforce the exploration
+- Having discrete rounds simplify the process. Like a batch pipeline.
+- The more humans gets involved, the messier (papers, ... academia). You cannot get away from humans in most problems.
 
 Impact Evaluators are frameworks for [[Coordination|coordinating]] work and aligning [[Incentives]] in complex [[Systems]]. They provide mechanisms for retrospectively evaluating and rewarding contributions based on actual impact, helping solve coordination problems in [[Public Goods Funding]], research evaluation, and decentralized systems.
 
-## Core Principles
+## Principles
 
-- **Retrospective evaluation beats prospective promises**. Judge work by its actual impact, not promised outcomes. This reduces speculation and gaming while rewarding genuine value creation.
-- **Credible neutrality through simplicity**. [The simpler a mechanism, the less space for hidden privilege](https://vitalik.eth.limo/general/2020/09/11/coordination.html). Fewer parameters mean more resistance to corruption and overfit.
-- **Comparative truth over absolute metrics**. [Pairwise comparisons and rankings are more reliable than absolute scoring](https://anishathalye.com/designing-a-better-judging-system/). Humans excel at relative judgments.
-- **Permissionless scalability**. Anyone should be able to [fork the evaluation system with their own criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html), preventing capture and enabling experimentation.
-- **Legible impact attribution**. Make contributions and their value visible. [Transform vague notions of "alignment" into measurable criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html) that projects can compete on.
+- Retrospective Reward for Verifiable Impact
+  - Judge work by its actual impact, not promised outcomes. This reduces speculation and gaming while rewarding genuine value creation
+  - Legible Impact Attribution
+    - Make contributions and their value visible. [Transform vague notions of "alignment" into measurable criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html) that projects can compete on
+- Credible Neutrality Through Transparent and Simple Mechanisms
+  - [The simpler a mechanism, the less space for hidden privilege](https://vitalik.eth.limo/general/2020/09/11/coordination.html). Fewer parameters mean more resistance to corruption and overfit and more people engaging
+  - Demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests
+  - Don't write specific people or outcomes into the mechanism (multiple accounts)
+- Comparative Truth-Seeking Over Absolute Metrics
+  - [Pairwise comparisons and rankings are more reliable than absolute scoring](https://anishathalye.com/designing-a-better-judging-system/). Humans excel at relative judgments
+- Anti-Goodhart Resilience
+- Permissionless Scalability
+  - Anyone should be able to [fork the evaluation system with their own criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html), preventing capture and enabling experimentation.
+- Plurality-Aware Preference Aggregation
+- Collusion-Resistant Architecture
+- Credible Exit and Forkability
+- Composable and Interoperable Design
+- Works on Public Existing Infrastructure
+- Market-Based Discovery Mechanisms and Incentive Alignment
+
+## Related Fields
+
+- Social Choice Theory
+- Mechanism Design
+- Computational Social Choice
+- Game Theory
+- Machine Learning
+- Voting Theory
+- Process Control Theory
+- LLM Evals
 
 ## Design Considerations
 
@@ -57,27 +134,25 @@ Impact Evaluators are frameworks for [[Coordination|coordinating]] work and alig
   - Fork-and-exit rights for minorities
   - Privacy pools that exclude provably malicious actors
   - Multiple independent "dashboard organizations" preventing capture
+  - They should be flexible as it's hard to predict ways the evaluation metrics will be gamed.
 
 ## Mechanism Toolkit
 
 - **Staking and slashing**. Require deposits that get burned for misbehavior. Simple but requires upfront capital.
 - **Pairwise comparison engines**. Convert human judgments into weights using [Elo ratings or Bradley-Terry models](https://www.keiruaprod.fr/blog/2021/06/02/elo-vs-bradley-terry-model.html).
+- **Unprovable-vote schemes (MACI)**. Use zero-knowledge and key-revocation games so ballots can't be sold or coerced.
+- **Collusion-safe games**. Rely on identity-free incentives (PoW-like) or security-deposit futarchy where bad coordination is personally costly.
+- **Robust unique-human identity**. Multifactor "proof-of-personhood" that cannot be credibly rented, blocking sybil farms and bribe pools.
+- **Fork-and-exit rights**. Make systems easy to split so minority users can counter-coordinate against cartels.
 - **Quadratic mechanisms**. [Funding](https://vitalik.eth.limo/general/2019/12/07/quadratic.html) and voting that make influence proportional to square root of resources, reducing plutocracy.
-- **Prediction and decision markets**. ["Vote values, bet beliefs"](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) - use conditional markets to choose policies maximizing agreed metrics.
-- **Token-curated registries**. Stakeholders deposit tokens to curate lists, with challenges and slashing for bad entries.
-- **Augmented bonding curves**. Automated market makers that route fees to upstream dependencies based on usage.
+- **Prediction and decision markets (futarchy)**. ["Vote values, bet beliefs"](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) - conditional markets choose policies that maximize agreed-upon metrics.
+- **Distilled-human-judgement markets**. A jury scores a small sample, open AI/human traders supply full answers, rewards fit; scales expertise cheaply.
+- **Deep funding credit-graphs**. Donations or protocol issuance auto-flow along weighted dependency edges set by the mechanism, rewarding upstream contributors.
+- **Engine-and-steering-wheel pattern**. Open competition of AI "engines" acts under a simple, credibly-neutral rule-set set and audited/reinforced by humans.
+- **Research Augmented Bonding Curves (ABCs) / Curation Markets**. Automated market makers that route fees to upstream dependencies based on usage.
+- **Information-elicitation without verification**. [Peer-prediction mechanisms](https://jonathanwarden.com/information-elicitation-mechanisms/), [Bayesian Truth Serum](https://www.science.org/doi/10.1126/science.1102081), and other techniques to get truthful data from subjective evaluation.
+- **Token-curated registries (TCRs)**. Stakeholders deposit tokens to curate lists; challengers and voters decide on inclusions, with slashing/redistribution to discourage bad entries.
 - **Deliberative protocols**. [Structured discussion processes](https://jonathanwarden.com/deliberative-consensus-protocols/) that surface information before voting.
-
-## Related Fields
-
-- Social Choice Theory
-- Mechanism Design
-- Computational Social Choice
-- Game Theory
-- Machine Learning
-- Voting Theory
-- Process Control Theory
-- LLM Evals
 
 ## The Path Forward
 
@@ -87,6 +162,17 @@ Impact Evaluators are frameworks for [[Coordination|coordinating]] work and alig
 - **Layer human judgment on algorithmic engines**. The ["engine and steering wheel" pattern](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) - let algorithms handle scale while humans set direction and audit results.
 
 Impact Evaluators are powerful but dangerous. Like nuclear reactors, they can solve major [[Coordination]] problems when designed well, but cascade failures are catastrophic. Start small, fail safely, and always maintain [credible exit options](https://newsletter.squishy.computer/p/soulbinding-like-a-state).
+
+## Ideas
+
+### Plurality Impact Evaluators
+
+A federated network or ecosystem of IEs built on a shared, transparent substrate (blockchain). Different communities ("Impact Pods") define their own scopes and objectives, leverage diverse measurement tools, and are evaluated through multiple, competing "Evaluation Lenses." Funding flows through dedicated pools linked to these Pods and Lenses.
+
+- Impact Pods are self-organizing groups/communities (e.g., DAOs, project teams, research labs) define their specific objectives (O) and the scope (S) of work they consider relevant. They register their Pod on the public ledger, outlining their scope, objectives, and accepted measurement methods.
+- Measurement Attestors are a diverse ecosystem of tools and actors provide attestations linked to Hypercerts.
+- Evaluation Lenses are registered entities (could be smart contracts, expert panels operating under transparent rules, DAOs) that ingest Hypercerts (with their attestations) relevant to specific Pods and output evaluation scores. Multiple "Lenses" can exist and operate in parallel.
+- Funding Pools create dedicated pools of capital specifying which Impact Pods, Evaluation Lenses and Reward Functions
 
 ## Resources
 
@@ -132,3 +218,4 @@ Impact Evaluators are powerful but dangerous. Like nuclear reactors, they can so
 - [A natural adaptive process for collective decision-making](https://onlinelibrary.wiley.com/doi/10.3982/TE5380)
 - [Tournament Theory: Thirty Years of Contests and Competitions](https://www.researchgate.net/publication/275441821_Tournament_Theory_Thirty_Years_of_Contests_and_Competitions)
 - [Are We Learning Yet? A Meta-Review of Evaluation Failures Across Machine Learning](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/757b505cfd34c64c85ca5b5690ee5293-Paper-round2.pdf)
+- [Asymmetry of verification and verifier's law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
