@@ -1,20 +1,21 @@
 # Impact Evaluators
 
-Impact Evaluators are frameworks for [[Coordination|coordinating]] work and aligning [[Incentives]] in complex [[Systems]]. They provide mechanisms for retrospectively evaluating and rewarding contributions based on actual impact, helping solve coordination problems in [[Public Goods Funding]], research evaluation, and decentralized systems.
+Impact Evaluators are frameworks for [[Coordination|coordinating]] work and aligning [[Incentives]] in complex [[Systems]]. They provide mechanisms for retrospectively evaluating and rewarding contributions based on impact, helping solve coordination problems in [[Public Goods Funding]].
 
-It's hard to do [[Public Goods Funding]], open-source software, research, etc. that don't have a clear, immediate financial return, especially high-risk/high-reward projects.
+It's hard to do [[Public Goods Funding]], open-source software, research, etc. that don't have a clear, immediate financial return, especially high-risk/high-reward projects. Traditional funding often fails here. Instead of just giving money upfront (prospectively), Impact Evaluators create systems that look back at what work was actually done and what impact it actually had (retrospectively). It's much easier to judge the impact in a retrospective way!
 
-Traditional funding often fails here. Instead of just giving money upfront (prospectively), Impact Evaluators create systems that look back at what work was actually done and what impact it actually had (retrospectively). It's much easier to judge the impact in a retrospective way!
+## Notes
 
 - The goal is to **create strong incentives for people/teams to work on valuable, uncertain things** by promising a reward if they succeed in creating demonstrable impact.
-- Impact Evaluators work well on concrete things that you can turn into measurable stuff. They are powerful and might overfit.
-  - When the goal is not exactly aligned, they can be harmful. E.g: Bitcoin wasn't created to maximize the energy consumption.
-- Allow Community Feedback Mechanisms. Implement robust feedback systems that allow participants to report and address concerns about the integrity of the metrics or behaviors in the community. This feedback can be used to refine and improve the system continuously.
+- Impact Evaluators work well on concrete things that you can turn into measurable stuff.
+  - They are powerful things and will overfit. When the goal is not well aligned, they can be harmful. E.g: Bitcoin wasn't created to maximize the energy consumption. An Impact Evaluators might become an Externalities Maximizers.
+- **Community Feedback Mechanism**. Implement robust feedback systems that allow participants to report and address concerns about the integrity of the metrics or behaviors in the community. Use the feedback to refine and improve the system.
 - Designing IEs has the side effect of making impact more legible, decomposed into specific properties, which can be represented by specific metrics.
   - Something like l2beat as a leaderboard
   - IEs should [make "making the next L2beat" a permissionless process](https://vitalik.eth.limo/general/2024/09/28/alignment.html) for the space. Independent entities should arise to evaluate how projects met the IE criteria.
   - Do more to make different aspects of alignment legible, while not centralizing in one single "watcher", we can make the concept much more effective, and fair and inclusive in the way that the Ethereum ecosystem strives to be.
-- Impact Evaluators need to be (permissionless) forkable. Anyone could setup a fork with their own pool?
+- Impact Evaluators need to be (permissionless) forkable.
+  - Anyone should be able to [fork the evaluation system with their own criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html), preventing capture and enabling experimentation.
 - Start local and a small community and grow from there.
   - Impact evaluation should be done by the community at the local level. They should define their own metrics and evaluation criteria.
   - IEs should start small (community) and simple. Iterate as fast as possible with a learning feedback loop (there isn't a community one in deepfunding)!
@@ -58,6 +59,7 @@ Traditional funding often fails here. Instead of just giving money upfront (pros
     - Power asymmetries - Large suppliers face millions of individual consumers with take-it-or-leave-it contracts
     - Externalities - Individual flourishing depends on community wellbeing, but contracts remain individualized
     - Information asymmetries - Suppliers control the metrics and optimize for growth rather than user outcomes
+- When collecting data, [pairwise comparisons and rankings are more reliable than absolute scoring](https://anishathalye.com/designing-a-better-judging-system/). Humans excel at relative judgments, but struggle with absolute judgments.
 - Legibility is key. E.g: How much did X contribute to Ethereum? The goal is to transform alignment from an exclusive social game into a merit-based system with clear, measurable criteria.
   - Support organizations like L2beat to track project alignment
   - Let projects compete on measurable criteria rather than connections
@@ -80,12 +82,16 @@ Traditional funding often fails here. Instead of just giving money upfront (pros
   - Privacy pools that exclude provably malicious actors
   - Multiple independent "dashboard organizations" preventing capture
   - They should be flexible as it's hard to predict ways the evaluation metrics will be gamed.
+- [The simpler a mechanism, the less space for hidden privilege](https://vitalik.eth.limo/general/2020/09/11/coordination.html). Fewer parameters mean more resistance to corruption and overfit and more people engaging
+  - Demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests
+  - Don't write specific people or outcomes into the mechanism (e.g: using multiple accounts)
 - An allocation mechanism can be seen as a measurement process, with the goal being the reduction of uncertainty concerning present beliefs about the future. An effective process will gather and leverage as much information as possible while maximizing the signal-to-noise ratio of that information — aims which are often at odds.
 - In the digital world, we can apply several techniques to the same input and evaluate the potential impacts. E.g: Simulate different voting systems and see which one fits the best with the current views. This is a case for the system to have a final mechanism that acts as a layer for human to express preferences.
 - [Every community and institutions wants to see a better, more responsive and dynamic provision of public goods within them, usually lack information about which goods have the greatest value and know quite a bit about social structure internally which would allow them to police the way GitCoin has in the domains it knows](https://gov.gitcoin.co/t/a-vision-for-a-pluralistic-civilizational-scale-infrastructure-for-funding-public-goods/9503/11).
   - IE's helps a community with more data and information to make better decisions.
   - Open Data Platforms for the community to gather better data and make better decisions.
   - Can open data be rewarded with an IE? What does a block reward mean there?
+- Legible Impact Attribution. Make contributions and their value visible. [Transform vague notions of "alignment" into measurable criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html) that projects can compete on.
 - Seeing like a State blinds you to the realities that are complex. Need a way to evolve the metric to be anti-Goodhart's.
   - Not even anti-goodharts. Research says the best thing to do is to give all money to vaccine distribution, ...
 - **Embrace plurality over perfection**. [No single mechanism can satisfy all desirable properties](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) (efficiency, fairness, incentive compatibility, budget balance). Different contexts need different trade-offs.
@@ -117,18 +123,10 @@ Traditional funding often fails here. Instead of just giving money upfront (pros
 ## Principles
 
 - Retrospective Reward for Verifiable Impact
-  - Judge work by its actual impact, not promised outcomes. This reduces speculation and gaming while rewarding genuine value creation
-  - Legible Impact Attribution
-    - Make contributions and their value visible. [Transform vague notions of "alignment" into measurable criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html) that projects can compete on
 - Credible Neutrality Through Transparent and Simple Mechanisms
-  - [The simpler a mechanism, the less space for hidden privilege](https://vitalik.eth.limo/general/2020/09/11/coordination.html). Fewer parameters mean more resistance to corruption and overfit and more people engaging
-  - Demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests
-  - Don't write specific people or outcomes into the mechanism (multiple accounts)
 - Comparative Truth-Seeking Over Absolute Metrics
-  - [Pairwise comparisons and rankings are more reliable than absolute scoring](https://anishathalye.com/designing-a-better-judging-system/). Humans excel at relative judgments
 - Anti-Goodhart Resilience
 - Permissionless Scalability
-  - Anyone should be able to [fork the evaluation system with their own criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html), preventing capture and enabling experimentation.
 - Plurality-Aware Preference Aggregation
 - Collusion-Resistant Architecture
 - Credible Exit and Forkability
@@ -145,25 +143,34 @@ Traditional funding often fails here. Instead of just giving money upfront (pros
 - Machine Learning
 - Voting Theory
 - Process Control Theory
-- LLM Evals
+- Large Language Models Evaluation
 
 ## Mechanism Toolkit
 
-- **Staking and slashing**. Require deposits that get burned for misbehavior. Simple but requires upfront capital.
-- **Pairwise comparison engines**. Convert human judgments into weights using [Elo ratings or Bradley-Terry models](https://www.keiruaprod.fr/blog/2021/06/02/elo-vs-bradley-terry-model.html).
-- **Unprovable-vote schemes (MACI)**. Use zero-knowledge and key-revocation games so ballots can't be sold or coerced.
+- **Staking and Slashing**. Require deposits that get burned for misbehavior. Simple but requires upfront capital.
+- **Pairwise Comparison Engines**. Convert human judgments into weights using [Elo ratings or Bradley-Terry models](https://www.keiruaprod.fr/blog/2021/06/02/elo-vs-bradley-terry-model.html).
+- **Unprovable Vote Schemes (MACI)**. Use zero-knowledge and key-revocation games so ballots can't be sold or coerced.
 - **Collusion-safe games**. Rely on identity-free incentives (PoW-like) or security-deposit futarchy where bad coordination is personally costly.
-- **Robust unique-human identity**. Multifactor "proof-of-personhood" that cannot be credibly rented, blocking sybil farms and bribe pools.
-- **Fork-and-exit rights**. Make systems easy to split so minority users can counter-coordinate against cartels.
-- **Quadratic mechanisms**. [Funding](https://vitalik.eth.limo/general/2019/12/07/quadratic.html) and voting that make influence proportional to square root of resources, reducing plutocracy.
-- **Prediction and decision markets (futarchy)**. ["Vote values, bet beliefs"](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) - conditional markets choose policies that maximize agreed-upon metrics.
-- **Distilled-human-judgement markets**. A jury scores a small sample, open AI/human traders supply full answers, rewards fit; scales expertise cheaply.
-- **Deep funding credit-graphs**. Donations or protocol issuance auto-flow along weighted dependency edges set by the mechanism, rewarding upstream contributors.
+- **Fork-and-exit**. Make systems easy to split so minority users can counter-coordinate against cartels.
+- **Quadratic Mechanisms**. [Funding](https://vitalik.eth.limo/general/2019/12/07/quadratic.html) and voting that make influence proportional to square root of resources, reducing plutocracy.
+- **Prediction and Decision Markets (Futarchy)**. ["Vote values, bet beliefs"](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) - conditional markets choose policies that maximize agreed-upon metrics.
+- **Distilled-Human-Judgement Markets**. A jury scores a small sample, open AI/human traders supply full answers, rewards fit; scales expertise cheaply.
 - **Engine-and-steering-wheel pattern**. Open competition of AI "engines" acts under a simple, credibly-neutral rule-set set and audited/reinforced by humans.
 - **Research Augmented Bonding Curves (ABCs) / Curation Markets**. Automated market makers that route fees to upstream dependencies based on usage.
-- **Information-elicitation without verification**. [Peer-prediction mechanisms](https://jonathanwarden.com/information-elicitation-mechanisms/), [Bayesian Truth Serum](https://www.science.org/doi/10.1126/science.1102081), and other techniques to get truthful data from subjective evaluation.
-- **Token-curated registries (TCRs)**. Stakeholders deposit tokens to curate lists; challengers and voters decide on inclusions, with slashing/redistribution to discourage bad entries.
+- **Information-Elicitation without Verification**. [Peer-prediction mechanisms](https://jonathanwarden.com/information-elicitation-mechanisms/), [Bayesian Truth Serum](https://www.science.org/doi/10.1126/science.1102081), and other techniques to get truthful data from subjective evaluation.
+- **Token-Curated Registries (TCRs)**. Stakeholders deposit tokens to curate lists; challengers and voters decide on inclusions, with slashing/redistribution to discourage bad entries.
 - **Deliberative protocols**. [Structured discussion processes](https://jonathanwarden.com/deliberative-consensus-protocols/) that surface information before voting.
+- **Harberger Taxes/COST (Common Ownership Self-assessed Tax)** - Entities self-assess value and pay tax on it, but must sell at that price if someone wants to buy. Useful for allocating scarce positions/rights in evaluation systems.
+- **Dominant Assurance Contracts** - Entrepreneur provides refund + bonus if funding threshold isn't met, solving the assurance problem in public goods funding more elegantly than traditional crowdfunding.
+- **Conviction Voting** - Preferences gain strength over time rather than snapshot voting. Voters continuously express preferences and conviction builds, reducing governance attacks.
+- **Retroactive Oracles** - Designated future evaluators whose preferences are predicted by current markets. Separates the "who decides" from "what they'll value" questions.
+- **Sortition/Random Selection** - Randomly selected evaluation committees from qualified pools. Reduces corruption and strategic behavior while maintaining statistical representativeness.
+- **Optimistic Mechanisms** - Actions are allowed by default but can be challenged within a time window. Reduces friction for honest actors while maintaining security.
+- **Vickrey-Clarke-Groves (VCG) Mechanisms** - Generalized truthful mechanisms where participants pay the externality they impose on others. Could be adapted for impact evaluation.
+- **Streaming/Continuous Funding** - Instead of discrete rounds, continuous flows based on current evaluation state. Reduces volatility and gaming of evaluation periods.
+- **Liquid Democracy** - Delegation of evaluation power to trusted experts, revocable at any time. Balances expertise with democratic control.
+- **Threshold Cryptography/Secret Sharing** - For private evaluation scores that only become public when aggregated. Prevents anchoring and collusion during evaluation.
+- **Augmented Bonding Curves with Vesting** - Time-locked rewards that vest based on continued positive evaluation over time, aligning long-term incentives
 
 ## Ideas
 
