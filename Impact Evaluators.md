@@ -29,6 +29,7 @@ Impact Evaluators are frameworks for [[Coordination|coordinating]] work and alig
   - Each community understands its context better than outsiders ([seeing like a state blinds you to local realities](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/))
   - Local experiments surface patterns for higher-level systems
   - Small groups enable iterated games that reward trust and penalize defection
+  - Reduced size reduce friction
 - **Build anti-Goodhart resilience**. Any metric used for decisions [becomes subject to gaming pressures](https://en.wikipedia.org/wiki/Campbell%27s_law). Design for evolution:
   - Run multiple evaluation algorithms in parallel and let humans choose
   - Use exploration/exploitation trade-offs (like multi-armed bandits) to test new metrics
