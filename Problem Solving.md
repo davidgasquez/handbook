@@ -1,6 +1,6 @@
 # Problem Solving
 
-![[Quotes#^1f0d5b]]
+> In life, there are no solutions, only trade-offs. Thomas Sowell.
 
 - Problems have multiple solutions at multiple levels.
   - [It's easier to solve a series of simple subproblems than it is to solve one big complex problem directly](https://www.erichgrunewald.com/posts/decomposition-and-problem-solving/).
@@ -30,6 +30,7 @@
 - [Value functional decomposition. Functions are a powerful abstraction, not just for writing less code, but for thinking about problems.](https://praeclarum.org/2022/02/19/hard-problems.html)
 - Grossman's Law: Complex problems have simple, easy to understand wrong answers. Simple explanations are appealing even when they're wrong.
 - Aim for a Minimum Viable Solution. **Start small and iterate**. Fail early and learn from it. That allows you to explore, then exploit.
+- [A very reliable source of good ideas is trying to build stuff, often terrible stuff, until you stumble upon a good idea. Build, pivot, build, rework, build, abandon it, build, have that ah-ha moment](https://x.com/chrisalbon/status/1949607412253515903).
 - Break down large problems into smaller ones. [Chart a course and then create incentives for people to act/solve on them](https://youtu.be/B-dd2ZRlymo). [[Coordination]] is the key part of solving these kind of problems.
 - When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away ([Via Negativa](https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/)). For example, the foods you avoid are more important than the foods you eat.
 - Your problems will tend to either be **adaptive** or **technical**. Adaptive problems require experimentation, novel strategies, or new ways of thinking and being; they're problems containing "unknown unknowns" and are often opaque in addition to being difficult. Technical problems may be equally difficult, but their difficulty lies in execution. Technical problems are those where the path to the solution is known or knowable and does not need to be discovered.
