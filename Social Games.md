@@ -19,6 +19,7 @@
 - [Rank Me If You Can](https://app.rankmeifyoucan.com/).
 - Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say them in order.
 - Everyone puts a finger in the same platform. Someone counts to three and says the number of fingers remaining in the platform, if they are correct, they're out.
+- Confidence Interval Game. Select a continuous variable (Iceland Population). Everyone precommits a 95% interval range answer. If you're out, you lose 20 points. If you're in, you get 1 point for each person that lost points.
 - Grammarly. Make teams. Generate a random word. One person on each team needs to guess it. The rest of the team needs to take turns saying a word that forms a sentence to describe the word.
 - Guess Who. Someone asks a question like "Who is most likely to do X?" and everyone points to their guess at the same time.
 - Cheers to the Governor. As a group, you have to count to 21. The first rule is that 7 and 14 are swapped. Every time you succeed, you say cheers to the governor and add a new rule (e.g: 8 changes sense, 9 is silent, you have to say hello instead of 4, ...).
