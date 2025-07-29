@@ -16,7 +16,11 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Do more to make different aspects of alignment legible, while not centralizing in one single "watcher", we can make the concept much more effective, and fair and inclusive in the way that the Ethereum ecosystem strives to be.
 - Impact Evaluators need to be (permissionless) forkable.
   - Anyone should be able to [fork the evaluation system with their own criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html), preventing capture and enabling experimentation.
-- Start local and a small community and grow from there.
+- **Start local and iterate**. Begin with small communities defining their own [[Metrics]] and evaluation criteria. Use rapid [[Feedback Loops]] to learn what works before scaling up.
+  - Each community understands its context better than outsiders ([seeing like a state blinds you to local realities](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/))
+  - Local experiments surface patterns for higher-level systems
+  - Small groups enable iterated games that reward trust and penalize defection
+  - Reduced size reduce friction
   - Impact evaluation should be done by the community at the local level. They should define their own metrics and evaluation criteria.
   - IEs should start small (community) and simple. Iterate as fast as possible with a learning feedback loop (there isn't a community one in deepfunding)!
   - Figure out system structures and incentives and use as an examples for the level above.
@@ -27,11 +31,6 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - [IEs are the scientific method in disguise like AI evals](https://eugeneyan.com/writing/eval-process/). You need automated IEs, which is basically science applied to building better systems. You also need human oversight.
 - For areas with continuous output (e.g: minting for "better path finding algorightms"), follow Bittensor model.
 - IEs are like nuclear power: extremely powerful if used correctly, but so very easy to get wrong, and when things go wrong the whole thing blows up in your face.
-- **Start local and iterate**. Begin with small communities defining their own [[Metrics]] and evaluation criteria. Use rapid [[Feedback Loops]] to learn what works before scaling up.
-  - Each community understands its context better than outsiders ([seeing like a state blinds you to local realities](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/))
-  - Local experiments surface patterns for higher-level systems
-  - Small groups enable iterated games that reward trust and penalize defection
-  - Reduced size reduce friction
 - **Build anti-Goodhart resilience**. Any metric used for decisions [becomes subject to gaming pressures](https://en.wikipedia.org/wiki/Campbell%27s_law). Design for evolution:
   - Run multiple evaluation algorithms in parallel and let humans choose
   - Use exploration/exploitation trade-offs (like multi-armed bandits) to test new metrics
@@ -44,23 +43,16 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Multiple communities to share measurement infrastructure
   - Different evaluation methods to operate on the same data
   - Evolution through recombination rather than redesign
-- We might be in an "Arrow's Impossibility Theorem" situation where there is no way to design a mechanism that is fair, efficient and incentive compatible.
+- **Embrace plurality over perfection**. [No single mechanism can satisfy all desirable properties](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) (efficiency, fairness, incentive compatibility, budget balance). Different contexts need different trade-offs.
   - There is no "end of history" because whenever you fix an evaluation, some group has an incentive to abuse or break it again and feast on the wreckage.
   - This is the formal impossibility theorem that no mechanism can simultaneously achieve four desirable criteria:
     - Pareto Efficiency: The outcome achieved by the mechanism maximizes the overall welfare or some other desirable objective function.
     - Incentive Compatibility: Designing mechanisms so that participants are motivated to act truthfully, without gaining by misrepresenting their preferences.
     - Individual Rationality: Ensuring that every participant has a non-negative utility (or at least no worse off) by participating in the mechanism.
     - Budget Balance: The mechanism generates sufficient revenue to cover its costs or payouts, without running a net deficit.
-- [Current markets can optimize for the wrong things](https://meaningalignment.substack.com/p/market-intermediaries-a-post-agi) - clicks, engagement, and profit - rather than human wellbeing and flourishing. This misalignment will become catastrophic as AI systems become more powerful (arms races, propaganda, ...)
-  - Three common responses to market failures, all of which centralize power without fixing the underlying incentive problems: coordination, redistribution, and regulation.
-  - The wrong outcomes are being monitored and contracted against. Is hard to optimize for "human-flourishing-related outcomes".
-  - Four interconnected issues:
-    - Incomplete contracts - It's too expensive to measure what really matters (human flourishing), so we contract on proxies (hours worked, subscriptions)
-    - Power asymmetries - Large suppliers face millions of individual consumers with take-it-or-leave-it contracts
-    - Externalities - Individual flourishing depends on community wellbeing, but contracts remain individualized
-    - Information asymmetries - Suppliers control the metrics and optimize for growth rather than user outcomes
+
 - When collecting data, [pairwise comparisons and rankings are more reliable than absolute scoring](https://anishathalye.com/designing-a-better-judging-system/). Humans excel at relative judgments, but struggle with absolute judgments.
-- Legibility is key. E.g: How much did X contribute to Ethereum? The goal is to transform alignment from an exclusive social game into a merit-based system with clear, measurable criteria.
+- **Legible Impact Attribution**. Make contributions and their value visible. [Transform vague notions of "alignment" into measurable criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html) that projects can compete on.
   - Support organizations like L2beat to track project alignment
   - Let projects compete on measurable criteria rather than connections
   - Enable neutral evaluation by EF and others
@@ -72,6 +64,11 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - **Incomplete contracts problem**. [It's expensive to measure what really matters](https://meaningalignment.substack.com/p/market-intermediaries-a-post-agi), so we optimize proxies that drift from true goals.
   - Current markets optimize clicks and engagement over human flourishing
   - The more powerful the optimization, the more dangerous the misalignment
+  - Four interconnected issues:
+    - Incomplete contracts - It's too expensive to measure what really matters (human flourishing), so we contract on proxies (hours worked, subscriptions)
+    - Power asymmetries - Large suppliers face millions of individual consumers with take-it-or-leave-it contracts
+    - Externalities - Individual flourishing depends on community wellbeing, but contracts remain individualized
+    - Information asymmetries - Suppliers control the metrics and optimize for growth rather than user outcomes
 - **Information elicitation without verification**. Getting truthful data from subjective evaluation when you can't verify it requires clever [[Mechanism Design]]:
   - [Peer prediction mechanisms](https://jonathanwarden.com/information-elicitation-mechanisms/) that reward agreement with hidden samples
   - [Bayesian Truth Serum](https://www.science.org/doi/10.1126/science.1102081) that uses both answers and predictions
@@ -91,8 +88,8 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - IE's helps a community with more data and information to make better decisions.
   - Open Data Platforms for the community to gather better data and make better decisions.
   - Can open data be rewarded with an IE? What does a block reward mean there?
-- Legible Impact Attribution. Make contributions and their value visible. [Transform vague notions of "alignment" into measurable criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html) that projects can compete on.
-- Seeing like a State blinds you to the realities that are complex. Need a way to evolve the metric to be anti-Goodhart's.
+- **Legible Impact Attribution**. Make contributions and their value visible. [Transform vague notions of "alignment" into measurable criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html) that projects can compete on.
+  - Seeing like a State blinds you to the realities that are complex. Need a way to evolve the metric to be anti-Goodhart's.
   - Not even anti-goodharts. Research says the best thing to do is to give all money to vaccine distribution, ...
 - **Embrace plurality over perfection**. [No single mechanism can satisfy all desirable properties](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) (efficiency, fairness, incentive compatibility, budget balance). Different contexts need different trade-offs.
 - **Make evaluation infrastructure permissionless**. Just as anyone can fork code, anyone should be able to fork evaluation criteria. This prevents capture and enables innovation.
@@ -100,7 +97,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - **Layer human judgment on algorithmic engines**. The ["engine and steering wheel" pattern](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) - let algorithms handle scale while humans set direction and audit results.
 - The easier to verify the solution is (e.g: verify a program passes the test vs verify the experiment replicates), the better and faster the IE can be.
 - If the domain of the IE is sortable and differentiable, it's easy as it can be seen as pure optimization and doesn't require humans subjective evaluation.
-- Verify the evaluation is actually better than the baseline.
+- **Verify the evaluation is actually better than the baseline**.
   - Run multiple "aggregations" algorithms and have humans blindly select which one they prefer (blind test).
   - The meta-layer can help compose and evaluate mechanisms. How do we know mechanism B is better than A? Or even better than A + B, how do we evolve things?
     - Reinforcement Learning?
@@ -108,14 +105,14 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Is the evaluation/reward better than a centralized/simpler alternative?
     - E.g: on tabular clinical prediction datasets, standard logistic regression was found to be on par with deep recurrent models
 - [IEs need to show how the solution is produced by the interactions of people each of whom possesses only partial knowledge](https://news.ycombinator.com/item?id=44232461).
-- IEs are optimization processes with tend to exploit (more impact, more reward). This ends up with a monopoly (100% exploit). You probably want to always have some exploration.
+- **Exploration vs Exploitation**. IEs are optimization processes with tend to exploit (more impact, more reward). This ends up with a monopoly (100% exploit). You probably want to always have some exploration.
   - Do IEs need some explore/exploit thing? E.g. Use multi-armed bandit algorithms to adaptively choose between evaluation mechanisms based on historical performance and context.
   - Use maximal lotteries to enforce the exploration
 - Having discrete rounds simplify the process. Like a batch pipeline.
 - The more humans gets involved, the messier (papers, ... academia). You cannot get away from humans in most problems.
 - [Campbell's Law](https://en.wikipedia.org/wiki/Campbell%27s_law). The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.
 - [The McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy). Never choose metrics on the basis of what is easily measurable over what is meaningful. Data is inherently objectifying and naturally reduces complex conceptions and process into coarse representations. There’s a certain fetish for data that can be quantified.
-- IEs should define also a Data Structure for each layer so they can compose (graph, weight vector). That is the API.
+- **Composable Data Structures**. IEs should define also a Data Structure for each layer so they can compose (graph, weight vector). That is the API.
   - E.g: Deepfunding problem data structure is a graph. Weights are a vector/dict, ...
 - IEs will have to do some sort of "error analysis". [Is the most important activity in LLM evals](https://hamel.dev/blog/posts/evals-faq/#q-why-is-error-analysis-so-important-in-llm-evals-and-how-is-it-performed). Error analysis helps you decide what evals to write in the first place. It allows you to identify failure modes unique to your application and data.
 - Film festivals are "local" IEs each one serving different values/communities.
