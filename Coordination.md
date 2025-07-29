@@ -59,5 +59,6 @@
   - Cannot be detected by looking at actions alone, as the same actions can be legitimate or collusive depending on context and intentions.
   - Requires specific countermeasures like deliberate decentralization, skin-in-the-game mechanisms, and fostering counter-coordination (e.g., forking in blockchain systems).
   - Examples include price fixing between sellers, vote buying, and 51% attacks on blockchains.
+  - Any mechanism that helps under-coordinated parties coordinate will also help already-coordinated parties over-coordinate to extract value.
 - Explore [Cooperative Governance](https://nadia.xyz/voting) ideas. It offers an elegant compromise between on-chain and off-chain governance: you have a failure outcome that's enforced and "real", but the process of consensus remains firmly in the hands of people.
 - There are [interventions](https://www.prosocialdesign.org/) to help online spaces bring out the best in human nature online (deleting a comment that breaks a forum's rules, a reminder of the community rules, ...). This helps build trust and coordination.
