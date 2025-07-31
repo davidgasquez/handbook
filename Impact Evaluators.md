@@ -82,7 +82,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - [The simpler a mechanism, the less space for hidden privilege](https://vitalik.eth.limo/general/2020/09/11/coordination.html). Fewer parameters mean more resistance to corruption and overfit and more people engaging
   - Demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests
   - Don't write specific people or outcomes into the mechanism (e.g: using multiple accounts)
-- An allocation mechanism can be seen as a measurement process, with the goal being the reduction of uncertainty concerning present beliefs about the future. An effective process will gather and leverage as much information as possible while maximizing the signal-to-noise ratio of that information — aims which are often at odds.
+- [An allocation mechanism can be seen as a measurement process, with the goal being the reduction of uncertainty concerning present beliefs about the future. An effective process will gather and leverage as much information as possible while maximizing the signal-to-noise ratio of that information — aims which are often at odds](https://blog.zaratan.world/p/quadratic-v-pairwise).
 - In the digital world, we can apply several techniques to the same input and evaluate the potential impacts. E.g: Simulate different voting systems and see which one fits the best with the current views. This is a case for the system to have a final mechanism that acts as a layer for human to express preferences.
 - [Every community and institutions wants to see a better, more responsive and dynamic provision of public goods within them, usually lack information about which goods have the greatest value and know quite a bit about social structure internally which would allow them to police the way GitCoin has in the domains it knows](https://gov.gitcoin.co/t/a-vision-for-a-pluralistic-civilizational-scale-infrastructure-for-funding-public-goods/9503/11).
   - IE's helps a community with more data and information to make better decisions.
@@ -116,6 +116,19 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - E.g: Deepfunding problem data structure is a graph. Weights are a vector/dict, ...
 - IEs will have to do some sort of "error analysis". [Is the most important activity in LLM evals](https://hamel.dev/blog/posts/evals-faq/#q-why-is-error-analysis-so-important-in-llm-evals-and-how-is-it-performed). Error analysis helps you decide what evals to write in the first place. It allows you to identify failure modes unique to your application and data.
 - Film festivals are "local" IEs each one serving different values/communities.
+- Use humans for sensing qualitative properties, machines for bookkeeping and preserve legitimacy by letting people choose/vote on the prefered evaluation mechanism.
+- You can reduce coordination overhead through adaptive lazy consensus (continuous pairwise voting).
+- The most important thing to do is to keep experimenting and learns from previous iterations
+  - Cultivate a culture which welcomes experimentation.
+  - Ostrom's Law. "A resource arrangement that works in practice can work in theory"
+- To create a permissionless way for projects to participate, staking is a solution.
+- You want a reactive and self balancing system. Loops where one parts reacts the other parts.
+  - Feedback loop with the errors of the previous round
+- The entire thing needs to be like a game. People want to participate because is fun and they get some rewards.
+- Decide metrics so that gaming/exploiting them means having a better tool, system, process.
+- Which algorithm is the best assigning weights is not the best question.
+  - What would you change about the algorithm?
+  - What would you change about the process?
 
 ## Principles
 
