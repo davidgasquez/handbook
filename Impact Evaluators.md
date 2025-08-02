@@ -50,7 +50,6 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
     - Incentive Compatibility: Designing mechanisms so that participants are motivated to act truthfully, without gaining by misrepresenting their preferences.
     - Individual Rationality: Ensuring that every participant has a non-negative utility (or at least no worse off) by participating in the mechanism.
     - Budget Balance: The mechanism generates sufficient revenue to cover its costs or payouts, without running a net deficit.
-
 - When collecting data, [pairwise comparisons and rankings are more reliable than absolute scoring](https://anishathalye.com/designing-a-better-judging-system/). Humans excel at relative judgments, but struggle with absolute judgments.
 - **Legible Impact Attribution**. Make contributions and their value visible. [Transform vague notions of "alignment" into measurable criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html) that projects can compete on.
   - Support organizations like L2beat to track project alignment
@@ -129,6 +128,8 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - Which algorithm is the best assigning weights is not the best question.
   - What would you change about the algorithm?
   - What would you change about the process?
+- Have a democratic way of expressing the values of the community and some representatives
+- Economist might be good at analyzing economies but doens't mean they're good at creating them. A phisicist or ecologist might be a better fit.
 
 ## Principles
 
@@ -146,10 +147,12 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 
 ## Related Fields
 
+- Reinforcement Learning
+- Cybernetics
+- Game Design
 - Social Choice Theory
 - Mechanism Design
 - Computational Social Choice
-- Game Theory
 - Machine Learning
 - Voting Theory
 - Process Control Theory
@@ -241,3 +244,4 @@ A federated network or ecosystem of IEs built on a shared, transparent substrate
 - [Ostrom's Common Pool Resource Management](https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/)
 - [Community Notes Note ranking algorithm](https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes)
 - [Deep Funding is a Special Case of Generalized Impact Evaluators](https://hackmd.io/@dwddao/HypnqpQKke)
+- [An Analysis of Pairwise Preference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3359677)
