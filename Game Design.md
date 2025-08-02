@@ -9,6 +9,7 @@ Some [principles](https://youtu.be/zaxAdRlyZQ8) to keep in mind:
 5. Make the next action obvious.
 6. Give clear and immediate [[feedback]] with no distraction.
 7. Balance skills with challenge.
+8. A game looking gorgeous is not enough, needs a good community
 
 ## [Fun Theory Insights](https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun)
 
