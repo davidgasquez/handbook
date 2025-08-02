@@ -35,6 +35,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
     - You should be able to "punch through" your abstraction layer and get to the code behind it in cases you need that.
   - Sometimes you have to stop sharpening the saw, and just start cutting.
   - Software which is broken because there is no incentive to ship good software is going to stay broken until the incentives change.
+  - [Software that's fast changes behavior](https://www.catherinejue.com/fast). Fast eliminates cognitive friction and signals simplicity.
 - **Choose portability over efficiency**.
   - If today's hardware just about runs a program with just about adequate efficiency, tomorrow's will run it with power to spare.
   - The developer task is to make sure his program will run on that new hardware with minimal effort.

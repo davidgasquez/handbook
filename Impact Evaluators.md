@@ -245,3 +245,4 @@ A federated network or ecosystem of IEs built on a shared, transparent substrate
 - [Community Notes Note ranking algorithm](https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes)
 - [Deep Funding is a Special Case of Generalized Impact Evaluators](https://hackmd.io/@dwddao/HypnqpQKke)
 - [An Analysis of Pairwise Preference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3359677)
+- [Analysing public goods games using reinforcement learning: effect of increasing group size on cooperation](https://royalsocietypublishing.org/doi/10.1098/rsos.241195)
