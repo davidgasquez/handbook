@@ -25,6 +25,7 @@
 - Ask the below two questions before writing:
   1. Who am I writing this for?
   2. What are the top 1-3 takeaways after someone's read?
+- [Model your reader's current understanding and guide them to your perspective](https://grantslatton.com/how-to-design-document). Anticipate and preemptively address potential reader objections. The goal is to convince readers (especially yourself) that your approach is optimal through clear logical progression.
 - [Write simply](https://zodvik.com/posts/on-writing-well/):
   - Use fewer than 30 words per sentence.
   - Use ordinary words and simple sentences.

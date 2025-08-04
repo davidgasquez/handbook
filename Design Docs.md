@@ -26,6 +26,8 @@
 - In many docs a diagram can be useful.
 - The steps in the life-cycle of a design document are: Create, Iterate, Review, Implement, Iterate and Learn.
 - [The RFC and feedback should be posted publicly. Everyone can join the discussion. The goal is to include as many people as possible to access more points of view and spread the knowledge simultaneously](https://candost.blog/how-to-stop-endless-discussions/).
+- [Structure your design docs with clear organization where every sentence flows obviously from the previous ones](https://grantslatton.com/how-to-design-document). Each paragraph should represent a single, clear idea. Model the reader's current understanding and guide them to your perspective by anticipating and preemptively addressing potential objections.
+- [Ruthlessly edit design docs to reduce length by ~30%](https://grantslatton.com/how-to-design-document). Use short, focused paragraphs that can be summarized in one sentence. Move complex calculations and supplementary details to an appendix to keep the main document immediately comprehensible.
 - The process brings accountability. Whoever writes the proposal should be kept accountable. When people know that they will be accountable, they tend to approach more carefully and consider different aspects seriously. Ways to hold yourself and others accountable for showing your work:
   - Start by stating the problem you're trying to solve and why.
   - Enumerate what your goals were and what principles you followed.
