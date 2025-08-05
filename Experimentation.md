@@ -1,5 +1,7 @@
 # Experimentation
 
+> One test result is worth one thousand expert opinions. Wernher von Braun.
+
 An *experiment* is an hypothesis driven exploration to uncover knowledge that can be used to improve a company or product.
 
 When you're not certain of the right answer, the best approach is to [have a portfolio](https://seths.blog/2022/01/portfolio-thinking/), a range of bets that reward us with resilience and significant upside.
