@@ -92,10 +92,19 @@ Would love to work on [a company/cooperative focused on Open Data](https://githu
 
 ### Decentralized Kaggle
 
-- A twist on Kaggle, mixing the ML competition aspects with Prediction Markets (e.g: polymarket).
+There are many datasets that, while being public goods, are either hard to get or directly not available to the public. The work needed to curate, distribute, and publish them is not well supported in almost all ecosystems. E.g: Dune (closed and very expensive) is the main data layer for Blockchains (open and permissionless). Teams spend lots of time and engineering on delivering high-quality datasets. **Is there a way we can incentivize this kind of work**?
+
+In the blockchain data example, everyone is forced to run `cryo` because there isn't a matchmaking market for data. Everyone has to repeat the same work as sharing the data is not rewarded.
+
+The idea would be to have a Kaggle style competition that can incentivize the creation/curation of public good datasets.
+
+- The Host of the competition gather samples from multiple sources and create a small "test dataset".
+- Participants don't know which rows are being evaluated on and are incentivized to submit accurate values for all the rows.
+- A distance metric is used to measure accuracy and value of the submitted datasets.
+- With enough participants, the final dataset could be a function of the best submissions (e.g: a vote where each row is decided as the most common submitted rows from top participants or the average between them)
+- Could also be another twist on Kaggle, mixing the ML competition aspects with Prediction Markets (e.g: polymarket).
 - Similar to Numerai, participants send submissions and stake some amount of money.
 - The best submissions are selected and the money is distributed among the participants depending on their stake.
 - For each task, rewards are given per row/prediction, not per model. This encourages a [[Plurality]] of models to be used that specialize in different tasks.
-- Similar approach could be done to incentivize the creation of new datasets. An entity holds out some "ground truth" dataset. Participants can submit datasets and stake some amount of money. The closest dataset to the ground truth is selected. There might be dragons (generating fake data that follows the distribution)!
 - Pluggable Identity with ENS, DID, ...
 - Infrastructure for [infofinance](https://vitalik.eth.limo/general/2024/11/09/infofinance.html).
