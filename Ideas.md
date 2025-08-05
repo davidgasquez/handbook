@@ -103,6 +103,7 @@ The idea would be to have a Kaggle style competition that can incentivize the cr
 - A distance metric is used to measure accuracy and value of the submitted datasets.
 - With enough participants, the final dataset could be a function of the best submissions (e.g: a vote where each row is decided as the most common submitted rows from top participants or the average between them)
 - Could also be another twist on Kaggle, mixing the ML competition aspects with Prediction Markets (e.g: polymarket).
+- [Fix the ML model, encourage participants to gather the data and measure based on the impact on the final metric](https://www.dataperf.org/training-set-acquisition).
 - Similar to Numerai, participants send submissions and stake some amount of money.
 - The best submissions are selected and the money is distributed among the participants depending on their stake.
 - For each task, rewards are given per row/prediction, not per model. This encourages a [[Plurality]] of models to be used that specialize in different tasks.
