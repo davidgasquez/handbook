@@ -34,6 +34,7 @@
   - Ask the "So what" question to every sentence that you write.
   - Prefer active voice to passive.
 - Most docs are short-lived and used for point-in-time discussions. However, some documents serve for a longer time. To have your writing stand the test of time, avoid using references that change with time or location.
+- Documentation valuable if it captures the design decision and intention at the time of the creation of the software, rather than the functionality of the software itself.
 
 ## Resources
 
