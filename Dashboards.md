@@ -82,3 +82,9 @@ The value is that now discussions are happening about the data.
 - The dashboard is always just a snapshot of "what" is happening, but knowing the underlying base level data is always needed to understand "why" it's happening.
 - Usually, answers don't lead to Eureka moments, they lead to follow up questions and follow up questions.
 - Having 20 dashboards means one is always likely to be up or down by a statistically significant amount.
+- [Most dashboards are underutilized, with approximately 75% going unused within weeks](https://www.thdpth.com/p/dashboard-dysfunctorrhea-how-the) - they can separate leaders from business reality, create decision bottlenecks, optimize for measurability over importance, and generate false sense of certainty.
+  - Alternative approaches to dashboards:
+    - Jeff Bezos uses narrative memos and the "70% rule" for decision-making - if you can't write a 2-page narrative explaining your decision, you don't understand it.
+    - Warren Buffett spends 80% of day reading industry reports with minimal dashboard reliance - prioritizing external industry context over internal metrics.
+    - Jason Fried uses a simple "Hell Yes" gut check instead of metrics - asking "Would I want to do this again?"
+  - Real leadership requires the courage to decide with imperfect information - temporarily ignoring dashboards and developing alternative decision-making proxies can lead to better outcomes.
