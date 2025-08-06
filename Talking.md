@@ -20,13 +20,15 @@
 - Combining walking with talking might be effective for deep conversations. You don't keep eye contact but nevertheless you are very close. For some topics it helps to just talk without having to look someone in the eye. Long pauses are not a problem because there is the landscape passing by that removes the awkwardness.
 - [Whenever you drop below a certain level of talking with someone, friction accumulates. You get more stuck in our ways, You get stressed and don't have time to maintain the shared context necessary to understand each other.](https://www.henrikkarlsson.xyz/p/making-a-home-together)
 
-## [Interesting Questions](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
+## Interesting Questions
 
-- Use FORD (Family, Occupation, Recreation, Dreams) as fallback topics.
-- What's the change you'd do to the current political system?
-  - Why hasn't happened?
+- There are [many list with interesting questions](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
+- Ask people about their interests and challenges
+  - What topics have you been interested in lately?
+  - What are the biggest problems you are facing around X?
+- Direct random questions might work for some people!
+  - What's the change you'd do to the current political system? Why hasn't happened?
 - [[Thought Experiments]]
-- Will you eat synthetic meat?
 - [Things to argue about over the holidays instead of politics](https://dynomight.net/arguments/). [More](https://dynomight.substack.com/p/arguments-2). And [even more](https://dynomight.substack.com/p/arguments-3).
 - Cognitive Reflection Test
 - What is your life default stress/drama level 1 to 10? Where are you now?

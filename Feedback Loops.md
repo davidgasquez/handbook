@@ -18,3 +18,4 @@
 - Poor kids becoming rich adults. Then, they raise rich kids that don't share the same [[Values]] that made the parents rich.
 - Artist making musing while they experience life without fame. Once fame gets in they don't have the same life experience and can't produce the same type of music.
 - [The Mongol Empire was an unification of many nomadic tribes. They were unstoppable for a while until they started to become more civilized. The thing that made them unstoppable (nomadic and "uncivilized") stopped being a part of their [[Culture]] and the empire began to break down.](https://www.dancarlin.com/product/hardcore-history-wrath-of-the-khans-series/)
+- The [[Science#Metascience]] learning loop: trial new social processes → evaluate effectiveness → scale successful approaches → amplify transformative changes. A positive feedback loop designed to systematically improve how science itself operates.
