@@ -19,6 +19,7 @@ Behavior is hard to fix. When people say they've learned their lesson they under
   - Clear target metric to improve.
   - Intentional system design.
   - Commitment to study the metric.
+- Human values are highly dimensional. Nudging people in the right direction is hard, specially because nudges usually are very low dimensional.
 
 ## Incentive Framework
 

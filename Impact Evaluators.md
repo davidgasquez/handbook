@@ -70,15 +70,15 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
     - Information asymmetries - Suppliers control the metrics and optimize for growth rather than user outcomes
 - **Information elicitation without verification**. Getting truthful data from subjective evaluation when you can't verify it requires clever [[Mechanism Design]]:
   - [Peer prediction mechanisms](https://jonathanwarden.com/information-elicitation-mechanisms/) that reward agreement with hidden samples
-  - [Bayesian Truth Serum](https://www.science.org/doi/10.1126/science.1102081) that uses both answers and predictions
-  - Coordination games where truth serves as a Schelling point
+  - [Bayesian Truth Serum](https://www.science.org/doi/10.1126/science.1102081) that uses both answers and predictions.
+  - Coordination games where truth serves as a Schelling point.
 - **Collusion resistance**. Any mechanism helping under-coordinated parties will also help [over-coordinated parties extract value](https://vitalik.eth.limo/general/2019/04/03/collusion.html). Countermeasures include:
-  - Identity-free incentives (like proof-of-work)
-  - Fork-and-exit rights for minorities
-  - Privacy pools that exclude provably malicious actors
-  - Multiple independent "dashboard organizations" preventing capture
+  - Identity-free incentives (like proof-of-work).
+  - Fork-and-exit rights for minorities.
+  - Privacy pools that exclude provably malicious actors.
+  - Multiple independent "dashboard organizations" preventing capture.
   - They should be flexible as it's hard to predict ways the evaluation metrics will be gamed.
-- [The simpler a mechanism, the less space for hidden privilege](https://vitalik.eth.limo/general/2020/09/11/coordination.html). Fewer parameters mean more resistance to corruption and overfit and more people engaging
+- [The simpler a mechanism, the less space for hidden privilege](https://vitalik.eth.limo/general/2020/09/11/coordination.html). Fewer parameters mean more resistance to corruption and overfit and more people engaging.
   - Demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests
   - Don't write specific people or outcomes into the mechanism (e.g: using multiple accounts)
 - [An allocation mechanism can be seen as a measurement process, with the goal being the reduction of uncertainty concerning present beliefs about the future. An effective process will gather and leverage as much information as possible while maximizing the signal-to-noise ratio of that information — aims which are often at odds](https://blog.zaratan.world/p/quadratic-v-pairwise).
@@ -102,11 +102,10 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
     - Reinforcement Learning?
     - Genetic algorithms?
   - Is the evaluation/reward better than a centralized/simpler alternative?
-    - E.g: on tabular clinical prediction datasets, standard logistic regression was found to be on par with deep recurrent models
+    - E.g: on tabular clinical prediction datasets, standard logistic regression was found to be on par with deep recurrent models.
 - [IEs need to show how the solution is produced by the interactions of people each of whom possesses only partial knowledge](https://news.ycombinator.com/item?id=44232461).
 - **Exploration vs Exploitation**. IEs are optimization processes with tend to exploit (more impact, more reward). This ends up with a monopoly (100% exploit). You probably want to always have some exploration.
   - Do IEs need some explore/exploit thing? E.g. Use multi-armed bandit algorithms to adaptively choose between evaluation mechanisms based on historical performance and context.
-  - Use maximal lotteries to enforce the exploration
 - Having discrete rounds simplify the process. Like a batch pipeline.
 - The more humans gets involved, the messier (papers, ... academia). You cannot get away from humans in most problems.
 - [Campbell's Law](https://en.wikipedia.org/wiki/Campbell%27s_law). The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.
@@ -122,14 +121,24 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Ostrom's Law. "A resource arrangement that works in practice can work in theory"
 - To create a permissionless way for projects to participate, staking is a solution.
 - You want a reactive and self balancing system. Loops where one parts reacts the other parts.
-  - Feedback loop with the errors of the previous round
+  - Feedback loop with the errors of the previous round.
 - The entire thing needs to be like a game. People want to participate because is fun and they get some rewards.
 - Decide metrics so that gaming/exploiting them means having a better tool, system, process.
 - Which algorithm is the best assigning weights is not the best question.
   - What would you change about the algorithm?
   - What would you change about the process?
-- Have a democratic way of expressing the values of the community and some representatives
+- Have a democratic way of expressing the values of the community and some representatives.
 - Economist might be good at analyzing economies but doens't mean they're good at creating them. A phisicist or ecologist might be a better fit.
+- Making it so people don't have to do somehting is cool. Makeing it so people can't do that thing is bad. E.g: time saving tools like AI is great but humans should be able to jump in if they want!
+  - If people don't want to have their "time saved" have the freedom to express themselves. E.g: offer pairwise comparisons by default but let people expand on feedback or send large project reviews.
+  - Information gathering is messy and noisy. It's hard to get a clear picture of what people think. Let people express themselves as much as they want.
+- Complex model of people aren't always good (performative reactions, noise, ...)
+- Prioritize consent and community feedback.
+  - Community should steer the ship.
+  - Design a democratic control that reacts to feedback.
+- Allow people to express themselves as much as they want.
+  - Super expert with lots of context already have the weights!
+- Pairwise shines when all the context is in the UX.
 
 ## Principles
 
