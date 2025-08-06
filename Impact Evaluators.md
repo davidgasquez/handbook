@@ -247,3 +247,4 @@ A federated network or ecosystem of IEs built on a shared, transparent substrate
 - [An Analysis of Pairwise Preference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3359677)
 - [Analysing public goods games using reinforcement learning: effect of increasing group size on cooperation](https://royalsocietypublishing.org/doi/10.1098/rsos.241195)
 - [CrowdTruth 2.0: Quality Metrics for Crowdsourcing with Disagreement](https://arxiv.org/pdf/1808.06080)
+- [Coevolutionary dynamics of population and institutional rewards in public goods games](https://www.sciencedirect.com/science/article/pii/S095741742302081X)
