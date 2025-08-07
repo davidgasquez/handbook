@@ -38,3 +38,36 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - [Allocation Mechanisms](https://www.allo.expert/mechanisms)
 - [Generalized Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf) - Framework for retrospective reward mechanisms
 - [Info Finance](https://vitalik.eth.limo/general/2024/11/09/infofinance.html) - Using information aggregation for social decisions
+
+
+## Toolkit
+
+- **Staking and Slashing**. Require deposits that get burned for misbehavior. Simple but requires upfront capital.
+- **Pairwise Comparison Engines**. Convert human judgments into weights using [Elo ratings or Bradley-Terry models](https://www.keiruaprod.fr/blog/2021/06/02/elo-vs-bradley-terry-model.html).
+- **Unprovable Vote Schemes (MACI)**. Use zero-knowledge and key-revocation games so ballots can't be sold or coerced.
+- **Collusion-safe games**. Rely on identity-free incentives (PoW-like) or security-deposit futarchy where bad coordination is personally costly.
+- **Fork-and-exit**. Make systems easy to split so minority users can counter-coordinate against cartels.
+- **Quadratic Mechanisms**. [Funding](https://vitalik.eth.limo/general/2019/12/07/quadratic.html) and voting that make influence proportional to square root of resources, reducing plutocracy.
+- **Prediction and Decision Markets (Futarchy)**. ["Vote values, bet beliefs"](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) - conditional markets choose policies that maximize agreed-upon metrics.
+- **Distilled-Human-Judgement Markets**. A jury scores a small sample, open AI/human traders supply full answers, rewards fit; scales expertise cheaply.
+- **Engine-and-steering-wheel pattern**. Open competition of AI "engines" acts under a simple, credibly-neutral rule-set set and audited/reinforced by humans.
+- **Research Augmented Bonding Curves (ABCs) / Curation Markets**. Automated market makers that route fees to upstream dependencies based on usage.
+- **Information-Elicitation without Verification**. [Peer-prediction mechanisms](https://jonathanwarden.com/information-elicitation-mechanisms/), [Bayesian Truth Serum](https://www.science.org/doi/10.1126/science.1102081), and other techniques to get truthful data from subjective evaluation.
+- **Token-Curated Registries (TCRs)**. Stakeholders deposit tokens to curate lists; challengers and voters decide on inclusions, with slashing/redistribution to discourage bad entries.
+- **Deliberative protocols**. [Structured discussion processes](https://jonathanwarden.com/deliberative-consensus-protocols/) that surface information before voting.
+- **Harberger Taxes/COST (Common Ownership Self-assessed Tax)** - Entities self-assess value and pay tax on it, but must sell at that price if someone wants to buy. Useful for allocating scarce positions/rights in evaluation systems.
+- **Dominant Assurance Contracts** - Entrepreneur provides refund + bonus if funding threshold isn't met, solving the assurance problem in public goods funding more elegantly than traditional crowdfunding.
+- **Conviction Voting** - Preferences gain strength over time rather than snapshot voting. Voters continuously express preferences and conviction builds, reducing governance attacks.
+- **Retroactive Oracles** - Designated future evaluators whose preferences are predicted by current markets. Separates the "who decides" from "what they'll value" questions.
+- **Sortition/Random Selection** - Randomly selected evaluation committees from qualified pools. Reduces corruption and strategic behavior while maintaining statistical representativeness.
+- **Optimistic Mechanisms** - Actions are allowed by default but can be challenged within a time window. Reduces friction for honest actors while maintaining security.
+- **Vickrey-Clarke-Groves (VCG) Mechanisms** - Generalized truthful mechanisms where participants pay the externality they impose on others. Could be adapted for impact evaluation.
+- **Streaming/Continuous Funding** - Instead of discrete rounds, continuous flows based on current evaluation state. Reduces volatility and gaming of evaluation periods.
+- **Liquid Democracy** - Delegation of evaluation power to trusted experts, revocable at any time. Balances expertise with democratic control.
+- **Threshold Cryptography/Secret Sharing** - For private evaluation scores that only become public when aggregated. Prevents anchoring and collusion during evaluation.
+- **Augmented Bonding Curves with Vesting** - Time-locked rewards that vest based on continued positive evaluation over time, aligning long-term incentives
+- **Multi-armed Bandits** - Adaptive mechanism selection algorithms that balance exploration and exploitation. Dynamically choose between evaluation mechanisms based on historical performance and context to optimize for both learning and effectiveness.
+- **Privacy Pools** - Systems that maintain participant privacy while excluding provably malicious actors. Allow honest participants to prove non-membership in bad actor sets without revealing their identity.
+- **Reinforcement Learning for Meta-Evaluation** - Use RL to evolve evaluation mechanisms through trial and error. The system learns which evaluation approaches work best in different contexts by treating mechanism selection as a sequential decision problem.
+- **Genetic Algorithms** - Evolution-based optimization for evaluation mechanisms. Breed and mutate successful evaluation strategies, allowing the system to discover novel approaches through recombination and selection pressure.
+- **Schelling Point Coordination Games** - Information elicitation mechanisms where truth naturally emerges as the coordination point. Participants are incentivized to report honestly because they expect others to do the same, making truth the natural focal point.
