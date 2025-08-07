@@ -1,6 +1,6 @@
 # Conceptual Compression
 
-![[Quotes#^7fe266]]
+> Civilization advances by extending the number of important operations which we can perform without thinking of them. Alfred North Whitehead.
 
 From time to time, look for abstractions that can compress the information behind them. This way you can reduce mental space. When needed, you can expand the abstraction and go deeper. This is used a lot in [[programming]], where a new tool or package emerges taking care of that was previously done by human minds (OMRs vs hand written SQL)!
 
