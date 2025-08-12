@@ -2,7 +2,7 @@
 
 > All models are wrong, but some are useful. George Box.
 
-A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems (a personal algorithm). The world is confusing when your model of the world is wrong. Millions of mental models exists, and every discipline has their own set. Some of them overlap and might be called differently.
+A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems (a personal algorithm). The world is confusing when your model of the world is wrong. Millions of mental models exists, and every discipline has their own set. Some of them overlap and might be called differently. [The world is too complex to "pragmatically reason through" every single decision. To be effective, you need to take, and reuse, intermediate steps](https://vitalik.eth.limo/general/2025/08/12/ideas.html).
 
 Each one act as a lens through which to view the world. You can use them to navigate the territory of reality, and just like different types of maps (some simplistic and cartoonish, others realistic and highly detailed) can be more or less useful for different purposes, even maps that you know are not literally correct can still have value.
 
@@ -14,7 +14,6 @@ Each one act as a lens through which to view the world. You can use them to navi
 - [Julian Spahiro's Mental Models](https://www.julian.com/blog/mental-model-examples)
 - [Mental models for designers](http://web.archive.org/web/20250130021041/https://dropbox.design/article/mental-models-for-designers)
 - [Mental Models Box](https://www.mentalmodelsbox.com/explore)
-
 
 ## Interesting Models
 
