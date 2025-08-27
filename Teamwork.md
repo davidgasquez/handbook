@@ -29,6 +29,7 @@
   - Defaults. Each thing should have a place by default, docs, issues, ...
 - Aim to be a completely autonomous team. Everyone should feel empower to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.
   - [A team's ability to operate autonomously relies on alignment, which is strengthened by context](https://web.archive.org/web/20230605055308/https://macroapp.io/blog/the-context-warehouse).
+  - Strong engineers make independent decisions about work priorities when necessary.
   - You can also have no durable cross-functional teams. Teams assemble around a project and disperse once the project is done.
 - Run [Automated Check-ins](https://basecamp.com/features/checkins) to share things explicitly. What are people working on, what are they planning to work on next, ...
 - The right way to promote people is to give them [meaningful and clear goals](https://youtu.be/oIMvMb5wVO4) for the organization and promote them if they hit the goals.
@@ -58,6 +59,7 @@
   - Trust people with freedom. Add [[Processes]] where you need to replace some level of trust.
   - Share as much context as you can.
 - Times change, trends change, cultures change. Make it explicit.
+- Organizations have "load-bearing illegible components" beyond formal rules. Understanding these unwritten dynamics is crucial for effective work.
 - Spend time at work thinking strategically. E.g: Think about the approach you will take to address the company's needs over the medium to long term.
 - **How to drive change in a team**: find people who agree on the problem, start small, experiment, scale, repeat. Making big change is hard. Keeping things simple is hard.
   - On the other hand, beware of changing too many things. You don't feel the pain of things you're not doing!
@@ -153,6 +155,7 @@
 - There's a real danger in thinking that what made you successful in the past will make you successful now.
 - Read all the things.
 - The team you'll be working on will probably have some kind of [normalized deviance](https://danluu.com/wat/). Try to [understand why everything is as it is](https://fs.blog/chestertons-fence/) before doing any recommendations. Don't come in with "the answers".
+  - Strategic rule-bending can sometimes be effective, but requires significant competence and understanding of context.
   - [Chesterton's fence](https://www.meyerperin.com/posts/2022-04-02-chestertons-fence.html) is an important concept to keep in mind when starting a new job or a new scope of work. The [context of why a certain architectural choice was made](https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production/) is just as important as understanding its current pain points.
 - Record first impressions / friction log as you go. [Beginner's mind has real value](https://eugeneyan.com/writing/onboarding/)!
 - Build great relationships so you can be supported in decisions to get some early wins.
