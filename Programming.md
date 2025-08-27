@@ -8,10 +8,12 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - The best code is no code, or code you don't have to maintain.
 - **Design for simplicity**.
   - Do the [simplest thing](https://landing.google.com/sre/book/chapters/simplicity.html) that could possibly work (e.g: UNIX tools remain incredibly powerful and efficient for "Big Data").
+  - Good system design looks "boring". Impressive complexity often signals over-design. Start simple and evolve.
   - Benefits of simplicity: ease of understanding, ease of change (improvement), ease of debugging, flexibility. [The goal of software design is to create chunks or slices that fit into a human mind](https://mobile.twitter.com/KentBeck/status/1354418068869398538). The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes.
   - Break down complex problems into simpler, digestible pieces. If you do it right, it will feel like cheating: you just solve simple problems until you're done.
   - We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
-  - Eliminate state. If you can't, make it visible.
+  - Eliminate state. If you can't, make it visible. Stateful components can get into a bad state.
+    - Have one service that knows about the state - i.e. it talks to a database - [and other services that do stateless things](https://www.seangoedecke.com/good-system-design/).
   - Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
   - Complexity is the single major difficulty in the successful development of large-scale software systems.
   - [You don't need to scale right away](https://thmsmlr.com/cheap-infra). Servers are getting more capable faster than the internet is growing.
@@ -77,6 +79,13 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Avoid implicit rules**.
   - Implicit rules should always be made explicit and shared with others or automated. Ideally, all processes should be written as code, stored, and versioned. Minimize the cognitive load imposed on your users.
   - The best way to understand something is to break it. The second best way is to rewrite it from scratch without using any external libraries.
+- **Make APIs boring**.
+  - [Designing APIs is a balance between familiarity and flexibility](https://www.seangoedecke.com/good-api-design/).
+  - Don't break userspace.
+  - The success of an API depends entirely on the product or service it enables.
+  - Your API should support simple API keys for authentication, because many of your users will not be professional engineers.
+  - Requests that take action (particularly high-stakes action like payments) should include some kind of idempotency key to make retries safe.
+  - Your API will always be a source of incidents. Make sure you have rate limits and killswitches in place.
 
 Like any other field, the world of Software Development has some interesting and famous "laws". These are some of them I've found interesting, funny or worth knowing:
 
