@@ -54,7 +54,7 @@ The value is that now discussions are happening about the data.
   - Dashboards report on current status. Users don't act on status. They act on change in status.
   - Dashboards (lines and rectangles) are useful to notice if something goes wrong.
   - **It's usually not possible to generate meaningful insight simply by looking at line charts in a dashboard** A chart alone cannot possibly convey everything, and that kind of thinking inhibits our ability to influence the business with our work.
-  - Specially, if [there are 10 unrelated charts in the same dashboard](https://www.deathofdashboards.com/).
+  - Specially, if [there are 10 unrelated charts in the same dashboard](http://web.archive.org/web/20250718040500/http://deathofdashboards.com/).
 - Building a dashboard requires gathering lot of context. Once built, only a few users aware of all the context can really use it in the proper way.
 - [They can serve endless needs, but in doing so, rarely do they serve _particular_ needs perfectly](https://win.hyperquery.ai/p/analysis-or-dashboard).
 - Dashboards shouldn't be single-use

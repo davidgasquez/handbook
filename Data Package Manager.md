@@ -77,7 +77,7 @@ Data is not code, but the activities of both publishers and users of datasets re
 - **Accessible**. Datasets are **files**. Datasets are static assets living somewhere. Don't get in the middle with libraries, gated databases or [obscure licenses](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/). Keep in mind right to exit and decentralization.
 - **Documentation**. Surface derived work (e.g: reports, other datasets, ...) and not only the raw data with minimal metadata.
 - **Embedded Visualizations**. Know what's in there before downloading it.
-  - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](https://tech.datopian.com/views/).
+  - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](http://web.archive.org/web/20211209065537/http://tech.datopian.com/views/).
   - **Exploratory**. Allow drill downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
   - **Dynamic**. Use only the data you need. No need to pull 150GB.
 - **Default APIs**. For some datasets, allowing REST API / GraphQL endpoints might be useful. Same with providing an SQL interface.

@@ -1,6 +1,6 @@
 # Pixel Art
 
-- [Tutorials](https://blog.studiominiboss.com/pixelart) - Great collection of pixel art tutorials.
+- [Tutorials](https://web.archive.org/web/20250730134304/https://saint11.art/blog/pixel-art-tutorials/) - Great collection of pixel art tutorials.
 
 ## Resources
 

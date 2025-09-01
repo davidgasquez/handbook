@@ -34,7 +34,7 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 
 - [Jonathan Warden's blog](https://jonathanwarden.com)
 - [Sam Harsimony's Substack](https://substack.com/@splittinginfinity)
-- [Victor Sint Nicolaas' blog](https://victorsintnicolaas.com/)
+- [Victor Sint Nicolaas' blog](http://web.archive.org/web/20250719074804/https://victorsintnicolaas.com/)
 - [Allocation Mechanisms](https://www.allo.expert/mechanisms)
 - [Generalized Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf) - Framework for retrospective reward mechanisms
 - [Info Finance](https://vitalik.eth.limo/general/2024/11/09/infofinance.html) - Using information aggregation for social decisions
