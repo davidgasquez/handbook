@@ -130,7 +130,7 @@ Agents are systems where LLMs dynamically direct their own processes and tool us
 ### Benchmarks
 
 - [LLM Arena](https://lmarena.ai/)
-- [LiveBench](https://livebench.ai/#/)
+- [Terminal Bench](https://www.tbench.ai/)
+- [LiveBench](https://livebench.ai/#/) ([SWE](https://liveswebench.ai/))
 - [Kagi LLM Benchmark](https://help.kagi.com/kagi/ai/llm-benchmark.html)
-- [Open Router Benchmarks](https://openrouter.ai/benchmarks)
 - [Scale AI Leaderboard](https://scale.com/leaderboard)
