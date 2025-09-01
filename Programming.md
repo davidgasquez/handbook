@@ -7,16 +7,18 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - The more you can decompose, the more innovation you'll drive.
   - The best code is no code, or code you don't have to maintain.
 - **Design for simplicity**.
-  - Do the [simplest thing](https://landing.google.com/sre/book/chapters/simplicity.html) that could possibly work (e.g: UNIX tools remain incredibly powerful and efficient for "Big Data").
+  - Do the [simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/). Start with the absolute minimum viable implementation and only add complexity when new requirements absolutely demand it (e.g: UNIX tools remain incredibly powerful and efficient for "Big Data").
   - Good system design looks "boring". Impressive complexity often signals over-design. Start simple and evolve.
   - Benefits of simplicity: ease of understanding, ease of change (improvement), ease of debugging, flexibility. [The goal of software design is to create chunks or slices that fit into a human mind](https://mobile.twitter.com/KentBeck/status/1354418068869398538). The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes.
   - Break down complex problems into simpler, digestible pieces. If you do it right, it will feel like cheating: you just solve simple problems until you're done.
   - We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
+  - Simplicity means fewer moving pieces, less internal connectivity, and components with clear, straightforward interfaces that remain stable without ongoing maintenance.
+  - Simple doesn't mean hacky or low-quality. The first solution is rarely the simplest - simplicity requires deep understanding of the current system.
   - Eliminate state. If you can't, make it visible. Stateful components can get into a bad state.
     - Have one service that knows about the state - i.e. it talks to a database - [and other services that do stateless things](https://www.seangoedecke.com/good-system-design/).
   - Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
   - Complexity is the single major difficulty in the successful development of large-scale software systems.
-  - [You don't need to scale right away](https://thmsmlr.com/cheap-infra). Servers are getting more capable faster than the internet is growing.
+  - [You don't need to scale right away](https://thmsmlr.com/cheap-infra). Servers are getting more capable faster than the internet is growing. Anticipating future scale is often counterproductive - most systems can't accurately predict multi-order-of-magnitude growth.
   - Compounding complexity must be fought at every turn. [Alternate between phases of expansion (new features) and consolidation](https://qntm.org/devphilo).
   - Write code that's easy to delete.
   - If you can't easily explain why something is difficult, then it's incidental complexity, which is probably worth addressing.
@@ -67,6 +69,10 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Use a central log where consumers can subscribe to the relevant events.
   - Having a central place ([the log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)) for continuous events make easy to create a stream of data to process and sets a source of truth.
   - A [log improves coordination in distributed systems](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/).
+- **[Reduce cognitive load](https://minds.md/zakirullin/cognitive)**.
+  - Working memory is tiny (≈4 chunks). Design code, tests, and APIs so a change fits in one mental model at a time.
+  - Prefer deep modules. Simple, stable interfaces that hide complexity. Avoid fleets of tiny wrappers and over‑factored classes/methods.
+  - Limit choice. Favor a small, orthogonal subset of language/library features over clever, "feature‑rich" constructs.
 - **There is no silver bullet**.
   - Accept that many programming decisions are opinions.
   - Make the trade-offs explicit when making judgments and decisions. With almost every decision you make, you're either deliberately or accidentally trading off one thing for another thing.
