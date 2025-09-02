@@ -24,7 +24,7 @@
   - Requires total leadership buy-in. Without unified commitment from the top, the WBR won’t succeed.
   - Every metric has an owner. Metric owners must understand what's "normal" versus "anomalous" and be accountable. They don't rely on lagging or un-actionable metrics.
   - Repetition builds "fingertip feel". Over time leaders can scan hundreds of metrics quickly, reducing decision latency.
-  - Meetings shouldn't turn into “reading history” instead of managing the business.
+  - [Meetings shouldn't turn into “reading history” instead of managing the business](https://xmrit.com/articles/what-makes-wbrs-special/).
   - Warning. Overreacting to random noise week-to-week wastes energy.
   - Don't report numbers without generating decisions, next steps, or deeper investigations.
   - Leaders prune, refine, or add new input metrics.
