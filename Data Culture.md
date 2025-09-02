@@ -18,6 +18,16 @@
       - Business Reviews are one of the best ways to get people to think about data.
   - Value of clear goals and expectations. Validate what you think your job is with your manager and stakeholders, repeatedly.
 - [Weekly Business Review meetings are a process control tool](https://commoncog.com/the-amazon-weekly-business-review/). A tool designed to uncover and disseminate the causal structure of a business.
+  - It provides a periodic meeting (for executives/managers) that reviews all metrics and allows them to alter them if need be.
+  - Review lots of metrics. Each should be reviewed briefly, with most of them being "no change, move on" but allows managers to get a holistic feel for the model and identify metrics that are or are becoming outliers.
+  - Process control worldview. The goal isn't "more ideas", it's to surface causes, design experiments, and improve the system.
+  - Requires total leadership buy-in. Without unified commitment from the top, the WBR won’t succeed.
+  - Every metric has an owner. Metric owners must understand what's "normal" versus "anomalous" and be accountable. They don't rely on lagging or un-actionable metrics.
+  - Repetition builds "fingertip feel". Over time leaders can scan hundreds of metrics quickly, reducing decision latency.
+  - Meetings shouldn't turn into “reading history” instead of managing the business.
+  - Warning. Overreacting to random noise week-to-week wastes energy.
+  - Don't report numbers without generating decisions, next steps, or deeper investigations.
+  - Leaders prune, refine, or add new input metrics.
 - [While the output of your team is what you want to maximize, you'll need some indicators that will help guide you day-to-day](http://web.archive.org/web/20240303143022/https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/). Decide what's important to you (test coverage, documentation missing, queries run, models created, ...), and generate some internal reports for yourself.
 - [Data teams should be a part of the business conversations from the beginning](https://cultivating-algos.stitchfix.com/). Get the data team involved early, have open discussions with them about the existing work, and how to prioritize new work against the existing backlog. Don't accept new work without addressing the existing bottlenecks, and don't accept new work without requirements. **Organizational [[politics]] matter way more than any data methods or technical knowledge**. The hard bit about becoming data driven in business isn't the technical bits. It's the political bits.
   - Including data people in meetings causes happy accidents!
