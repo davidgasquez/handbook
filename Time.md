@@ -3,6 +3,7 @@
 Time is the most valuable and least replaceable resource. Just like money, [time must be explicitly managed](https://youtu.be/oTugjssqOT0). If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive. **Days are long but decades are short**.
 
 - Remember that you are dying. We have limited time and we must choose how to spend it. Unfortunately, we rarely take the time to consciously do this.
+  - Whatever you think an hour of your time is [[Finances|worth]], it's worth at least ten times more.
 - [One of the most costly mistakes you can make is not valuing your time. One of the most selfish mistakes you can make is not valuing other people's time.](https://www.lesswrong.com/posts/dEAmXSyXnpFFc9wgd/21-on-21)
 - Learn to prioritize, and value your time. "I don't have time" is another way of saying "it's not a priority". Busyness is a lack of priorities.
   - Doing one thing requires giving up another. Whenever you explicitly choose to do one thing, you implicitly choose not to do another thing. Embrace the many things you'll never do.
@@ -32,3 +33,4 @@ Time is the most valuable and least replaceable resource. Just like money, [time
 - Mortality is the main source of scarcity. If we had infinite time, we would be less concerned with whether something was faster. The reason speed has value is because time has value; the reason time has value is because human life has value, and lifespans are finite. [If you made lifespans much longer, you'd reduce the effective cost of everything](https://balajis.com/the-purpose-of-technology/). The ultimate purpose of technology is to eliminate mortality.
 - Spend money on experiences.
 - [[Meditation|Calm down]], gain autonomy over your choices, and make better ones.
+- Delegate, automate, eliminate, and generally simplify.
