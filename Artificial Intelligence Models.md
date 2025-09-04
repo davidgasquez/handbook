@@ -50,6 +50,7 @@
 - Using LLMs for coding is difficult and unintuitive, requiring significant effort to master.
 - English is becoming the hottest new programming language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
 - Use comments to guide the model to do what you want.
+- Don't delegate thinking, delegate work.
 - Describe the problem very clearly and effectively.
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one.
   - Keep sessions to as few messages as possible.

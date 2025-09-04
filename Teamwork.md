@@ -111,6 +111,7 @@
     - E.g: Slow _boiling frog_ situations where existing tools have become ineffective but no one noticed.
 - [Act as if you might leave on short notice](https://jmmv.dev/2021/04/always-be-quitting.html).  Document your knowledge, long-term plans, meetings, train people around you, empower other people, delegate and keep learning!
   - Write everything in plain text and in a shared place so is not lost.
+- Don't delegate thinking, delegate work.
 - You have to put in more effort to make something appear effortless. Effortless, elegant performances are often the result of a large volume of effortful. Praise this instead of complex solutions.
 - Invisible work will happen. If you're doing it, make an effort to share and get credit for it. Build a narrative (story) for your work. Arm your manager and fight recency bias keeping track of all the things you've done.
 - As a manager, give problems to solve, not solutions. Make sure the team knows what they're working toward and that it has the resources needed to complete the work.
