@@ -69,6 +69,7 @@
 - Balancing log verbosity is crucial. Informative yet concise logs optimize token usage and inference speed.
 - [You need quick and clear feedback loops](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) (fast tool responses, clean logs, ...).
 - Prefer functions with clear, descriptive and longer than usual function names over classes. Avoid inheritance and overly clever hacks.
+- Write legible (text based) relevant content and link it with anything else (code, diagrams, ...).
 
 ## Agents
 

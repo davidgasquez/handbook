@@ -6,6 +6,7 @@
   - Cryptocurrencies have the [[Incentives]] to keep the users happy since forking is an option.
 - [Web3 is a decentralized internet. Under Web3, the internet is shared online and governed by the collective "we"](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc).
 - Decentralized web incentives open source. That creates an ecosystem of composable and permissionless tools that increases the speed of innovation.
+- [Openness allows local groups to design systems for governance, identity, and other needs in ways that are compatible with local goals](https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html).
 - A way to look at the decentralized web movement is as a laboratory for economic, political, and social experiments.
   - The space encourages experimentation in a diverse set of fields like [[Governance]] or [[Finances]].
 - Networks aren't evenly distributed in the world. E.g: [we see the emergence of densely connected hubs—centralized islands in the internet](https://newsletter.squishy.computer/p/centralization-is-inevitable). Scale-free networks are power-law distributed and emerge due to preferential attachment (rich get richer feedback loops, also known as [[Network Effects]]).

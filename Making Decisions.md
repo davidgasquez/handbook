@@ -15,6 +15,7 @@ Decision making is the process we use to identify and choose alternatives, produ
 - Set a default decision and work from there.
 - Realize that the possibility space is much bigger than you initially think. Take some distance and see the decision through different lenses. The bottleneck to doing something is often knowing that it's even an option.
 - How un-doable is a decision? If an idea is fully un-doable, make it as quickly as you can. When a decision is something that you can't take back, then it's worth really, really understanding. **Aim for preserving optionality**.
+  - Sometimes is good to think like a triage nurse — if you spend too long per patient, you hurt many.
 - To maximize your long-term happiness, prioritize the projects you'd most regret not having pursued by the time you're old and looking back at your life.
 - Gather all the information you can. Then, schedule [[time]] to think deeply about it. Brain-dump your thoughts on the problem - what's going wrong, why is it inefficient? Try to understand it in as much detail as possible.
   - Learn from the mistakes of others. You can't live long enough to make them all yourself.

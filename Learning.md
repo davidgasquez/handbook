@@ -11,7 +11,7 @@
   3. Identify your knowledge gaps. What are you missing?
   4. Organize and Simplify. Tell a story to teach. Analogies help here!
 - Follow the guidelines stated in Coursera's [*Learning How to Learn* summary](https://www.reddit.com/r/GetMotivated/comments/5950tm/text_i_just_finished_the_online_coursera_course/).
-- Write down the process that better worked for you. Keep improving the process with the learning of failed experiences. [Learn iterating over the process](https://twitter.com/naval/status/1052856864965152769).
+- Write down the process that better worked for you. Keep improving the process with the learning of failed experiences. Pain is also information... sometimes you have to learn it the hard way. [Learn iterating over the process](https://twitter.com/naval/status/1052856864965152769).
 - There are two categories of learning. [Mix them both to learn faster](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/).
   1. **Guided:** Reading a tutorial, taking a course, watching a YouTube video. Anything where you're following a guide.
   2. **Unguided:** Creating your own projects from scratch, extending a tutorial, looking things up in the docs. Anything where you aren't following a guide.
