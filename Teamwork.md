@@ -65,6 +65,7 @@
   - On the other hand, beware of changing too many things. You don't feel the pain of things you're not doing!
 - Scale organizational efforts across a portfolio of synergistic products.
 - Don't replace prototypes with roadmaps. Encourage prototyping to learn and build confidence with different parts of your software stack.
+- Never be shy to give credit to others!
 - Ask people ["when do you think you'll get this done"](https://mobile.twitter.com/Carnage4Life/status/1438982223395393536), write it down and then follow up at that time. That makes teams more effective.
 - Every document must have a specific goal written at the top of it.
 - When building something:
@@ -137,6 +138,14 @@
 - Make [small, achievable changes rather than large risky leaps](https://medium.com/@komorama/the-iterative-adjacent-possible-af3e7038357d). Each step should be within the "adjacent possible" - what can be realistically accomplished.
 - Prefer combining proven components in new ways over building everything from scratch.
 - [Communicate state, not just deltas](https://experimentalworks.net/posts/2024-01-16-communicate-state/). Communicating state rather than updates significantly increases the clarity of what you are trying to communicate. It makes it easier to follow and engage as it reduces the amount of context other people need to have to understand what you are trying to communicate.
+- You don't get to avoid "politics" in software, because building is collaborative, and all collaboration is political. No matter how correct or elegant your code is or how good your idea is, if you haven't built the relationships or put consideration into the broader social dynamic, you're much less likely to succeed. [The social stuff is usually the hardest part of any software developer's job, and, perhaps, especially so with distributed systems development](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/).
+- [Ideas don't speak. People do](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/). And the people who understand how to navigate organizational dynamics, build relationships, and yes, play politics? Their ideas get heard.
+- [Here's what good politics looks like in practice](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/):
+  1. Building relationships before you need them.
+  2. Understanding the real incentives.
+  3. Managing up effectively.
+  4. Creating win-win situations.
+  5. Being visible. Share your wins, present at all-hands, write those design docs that everyone will reference later.
 
 ## [How Small Teams Work](https://posthog.com/handbook/people/team-structure/why-small-teams#how-it-works)
 

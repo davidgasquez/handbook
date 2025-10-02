@@ -54,6 +54,7 @@
 - [Architecture is Politics](https://web.archive.org/web/20070607161518/blog.kapor.com/?p=29). Freedom, participation, creativity, and openness are better fostered by a [[Decentralized Protocols|decentralized]] but [[coordination|coordinated]] architecture.
 - [[Plurality]] — the understanding that diversity of people, beliefs, opinions, mechanisms, approaches, implementations, etc within a given context generally results in better outcomes than in the absence of such diversity.
 - For many social systems, truly large-scale, repeatable tests (to verify systems work as intended) are difficult if not impossible. Having simple systems is critical to legitimacy.
+- Politics is just how humans coordinate in groups. It’s the invisible network of relationships, influence, and informal power that exists in every organization. [You can refuse to participate, but that doesn't make it go away](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/). It just means decisions get made without you. The alternative to good politics isn't no politics. It's bad politics winning by default.
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
