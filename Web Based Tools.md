@@ -31,7 +31,7 @@ Collection of awesome web based tools.
 
 ## Sharing
 
-- [Web Wormhole](https://webwormhole.io/)
+- [Web Wormhole](http://web.archive.org/web/20240805023032/https://webwormhole.io/)
 - [Fatest Fish](https://fastest.fish/)
 - [GIFs](https://gifcap.dev/)
 

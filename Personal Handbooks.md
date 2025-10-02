@@ -28,7 +28,7 @@ Personal Knowledge Bases allow compound learnings and make it easier to discover
 - [Daniel Schildt](https://github.com/d2s/knowledge)
 - [Julian Shapiro](https://www.julian.com/)
 - [Gordon Brander](http://gordonbrander.com/pattern/)
-- [h0p3](https://philosopher.life/#h0p3)
+- [h0p3](http://web.archive.org/web/20240710224348/https://philosopher.life/#h0p3)
 - [Karlicoss](https://beepb00p.xyz/exobrain/)
 - [Victoriano Izquierdo](https://www.notion.so/Learning-81054755c60d4d628e3f1cc7a95e4e7f)
 - [Piotr Stojanow](https://wiki.stojanow.com/)

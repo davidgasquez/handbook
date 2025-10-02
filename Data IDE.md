@@ -9,7 +9,7 @@ After playing with [Rill Developer](https://github.com/rilldata/rill-developer),
   - Get suggested transformations for certain columns. If it detect a date, extract day of the week. If it detects a string, `lower()` it...
   - Get suggested plots. Given that it'll know both the column names and the types. Should be possible to create a prompt that returns some plot ideas and another that takes that and write the Vega-Lite code to make it work.
   - Make it easy to query the data via Natural Language.
-- Let me transform them with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)). Similar to [Neptyne](https://neptyne.com/) but in the browser (WASM).
+- Let me transform them with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)). Similar to [Neptyne](http://web.archive.org/web/20250306181451/https://www.neptyne.com/) but in the browser (WASM).
 - Let me save the plots in a separate space and give me a shareable URL encoded link.
   - Local datasets could be shared using something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) or a temporal storage service.
 - Let me grab the state of the app (YAML/JSON), version control it, and generate static (to publish in GitHub Pages) and dynamic (hosted somewhere) dashboards from it.

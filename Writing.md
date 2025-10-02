@@ -33,7 +33,7 @@
 - You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
   - [The point of editing](https://evaparish.com/blog/how-i-edit) is to think about how you're using language and to make choices that suit the message you want to deliver, not to unquestioningly follow rules—mine or anyone else's.
 - When writing tutorials or guides, use the second-person and describe actions to a user. These types of content talks to people when humans can't. [Technical documentation follows the same rules than normal writing](https://developers.google.com/tech-writing/one).
-  - [Make it fun](https://davnicwil.com/tips-for-making-writing-more-fun/)!
+  - [Make it fun](http://web.archive.org/web/20240307010045/https://davnicwil.com/tips-for-making-writing-more-fun/)!
 - The skills you learn by writing transfer to speaking. Being good at speaking makes you more persuasive.
 - If it's not written down, it's not.
 - Good nonfiction has three qualities:

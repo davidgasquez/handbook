@@ -12,7 +12,7 @@
   - [[Governance]] technologies (voting, shares, decision markets...).
 - Groups either coordinate around principles, coordinate around a task (powerful but temporary), or coordinate around a leader.
   - Principles are factories of tasks and more resilient than leaders.
-- [Keep the work parallel, the groups small, and the resources local.](https://codahale.com/work-is-work/) If possible, factor work products into independent modules; if not, grow slowly and optimize.
+- [Keep the work parallel, the groups small, and the resources local.](http://web.archive.org/web/20250719100829/https://codahale.com/work-is-work/) If possible, factor work products into independent modules; if not, grow slowly and optimize.
 - Trust increases coordination. To increase trust:
   1. Repeat interactions.
   2. Look for possible win-wins.

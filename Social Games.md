@@ -47,7 +47,7 @@
 ## Roadtrip Games
 
 - [Contact](https://www.quora.com/How-do-you-play-the-word-game-Contact).
-- [Black Stories](https://play.google.com/store/apps/details?id=com.divofmod.blackstories&hl=en_US).
+- [Black Stories](https://web.archive.org/web/20240730003323/https://play.google.com/store/apps/details?id=com.divofmod.blackstories&hl=en_US).
 - [Going on a picnic](https://www.thegamegal.com/2011/06/11/going-on-a-picnic/).
 - [Ghost](https://blog.xkcd.com/2007/12/31/ghost/).
 - French Toast. One person thinks of a word. Then someone starts by asking "Is it more like French Toast or more like 'X' ?" where X can be anything they want to guess.

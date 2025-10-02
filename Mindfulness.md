@@ -26,7 +26,7 @@
   - Don't punish people for trying. You teach them to not try things or not to try them with you.
   - Most of the harm we do as humans is not due to cruelty, but rather to indifference.
 - Prefer delayed gratification, making short term sacrifices to get long term benefits.
-- Don't be a [whatever person](https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to [[Making Decisions|make decisions]] and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.
+- Don't be a [whatever person](http://web.archive.org/web/20230929110127/https://medium.com/@courtneyseiter/the-tribe-of-whatever-or-how-i-learned-to-make-a-decision-8ab0a76f1f0c#.vj7olnmm5). Don't be afraid to [[Making Decisions|make decisions]] and actively take them! All decision making — even if small ones — can be a good practice for the bigger ones you'll face.
   - Be the friend who makes a decisive call when everyone else is waffling about what to eat.
 - Don't judge. Reality is neutral. To a tree, there's no concept of right or wrong or good or bad. You're born, you have a whole set of sensory experiences... and then you die. How you choose to interpret that is up to you. And you do have that choice. Why are you taking something so seriously?
   - One person morally disgusting behavior is another person perfectly normal lifestyle. Most of the time you can't decide what is wrong or good because you have very limited experiences.

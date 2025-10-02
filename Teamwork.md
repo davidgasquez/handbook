@@ -163,7 +163,7 @@
 - One of the most valuable things you can do during onboarding is update/write documentation and [create/update checklist of all the processes](https://lifeitself.org/tao/onboarding#create-an-onboarding-issue). This will help you and your team in the long run.
 - [Make bite-sized impact, fast](https://stormdata.substack.com/p/reflecting-on-my-impact-during-my).
 
-## [Team Management](http://pnewman.org/engineering_mgmt_checklist.txt)
+## [Team Management](https://web.archive.org/web/20230530204926/https://www.pnewman.org/engineering_mgmt_checklist.txt)
 
 - Every member of the team knows what they should be working on.
 - Every member of the team knows what to do if they finish a task, or get blocked.

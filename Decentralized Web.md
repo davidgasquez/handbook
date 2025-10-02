@@ -56,7 +56,7 @@ There is an emerging landscape of [Data and Blockchain](https://www.primodata.or
 - [Covalent](https://www.covalenthq.com/) ([GitHub](https://github.com/covalenthq))
 - [Nansen](https://www.nansen.ai/)
 - [Footprint](https://www.footprint.network/) ([GitHub](https://github.com/footprintanalytics))
-- [Blockchair](https://blockchair.com/dumps#database)
+- [Blockchair](http://web.archive.org/web/20240228210324/https://blockchair.com/dumps)
 - [Sentio](https://www.sentio.xyz/) ([GitHub](https://github.com/sentioxyz))
 - [GeniiData](https://geniidata.com/)
 - [Transpose](https://www.transpose.io/) ([GitHub](https://github.com/TransposeData))

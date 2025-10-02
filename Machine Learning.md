@@ -25,7 +25,7 @@ These points are expanded with more details in courses like [Made With ML](https
 
 - [Applied ML in Production](https://madewithml.com/#course)
 - [Applied ML](https://github.com/eugeneyan/applied-ml)
-- Microsoft [ML Model Production Checklist](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-model-checklist/) and [Fundamental Checklist](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-fundamentals-checklist/)
+- Microsoft [ML Model Production Checklist](https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-model-checklist/) and [Fundamental Checklist](http://web.archive.org/web/20240903115158/https://microsoft.github.io/code-with-engineering-playbook/machine-learning/ml-fundamentals-checklist)
 - [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
 - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
@@ -50,7 +50,7 @@ Tech debt is an analogy for the long-term buildup of costs when engineers make d
 - [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/) and [Project](https://datavizproject.com/).
 - [Visualization Curriculim](https://jjallaire.github.io/visualization-curriculum/)
-- [Chart Dos and Don'ts](https://www.eea.europa.eu/data-and-maps/daviz/learn-more/chart-dos-and-donts)
+- [Chart Dos and Don'ts](http://web.archive.org/web/20211026152255/https://www.eea.europa.eu/data-and-maps/dashboards/industry-energy-ghg/)
 - [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
 - [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)
 - [Guides for Visualizing Reality](https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/)

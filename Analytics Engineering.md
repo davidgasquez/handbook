@@ -52,7 +52,7 @@
 - [Ecosyste.ms](https://github.com/ecosyste-ms)
 - [Spellbook](https://github.com/duneanalytics/spellbook/)
 - [Flipside Crypto](https://github.com/FlipsideCrypto/external-models)
-- [Artemis](https://github.com/Artemis-xyz/dbt)
+- [Artemis](http://web.archive.org/web/20250717073700/https://github.com/Artemis-xyz/dbt)
 - [MetricsDAO](https://github.com/MetricsDAO)
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)
 - [Anomstack](https://github.com/andrewm4894/anomstack)

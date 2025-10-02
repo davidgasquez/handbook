@@ -161,5 +161,5 @@
 Sometimes, [tools help creating cultural change](https://commoncog.com/becoming-data-driven-first-principles/#the-trick). These might help your organization think better with data.
 
 - [Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction) and [Process Control](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html).
-- [Time Lagged Conversions](https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/).
+- [Time Lagged Conversions](http://web.archive.org/web/20240914135511/https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/).
 - Change point detection.
