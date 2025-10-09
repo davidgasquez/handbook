@@ -5,6 +5,7 @@
 - Classic ML system where humans are designing how the information is organized (feature engineering, linking, graph building) scale poorly ([the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)). LLMs are able to learn how to organize the information from the data itself.
 - [LLMs may not yet have human-level depth, but they already have vastly superhuman breadth](https://news.ycombinator.com/item?id=42625851).
 - Learning to prompt is similar to learning to search in a search engine (you have to develop a sense of how and what to search for).
+- AI tools amplify existing expertise. The more skills and experience you have on a topic, the faster and better the results you can get from working with LLMs on that topic.
 - [LLMs are useful when exploiting the asymmetry between coming up with an answer and verifying the answer](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) (similar to how a sudoku is difficult to solve, but it's easy to verify that a solution is correct).
 - [LLMs are good at the things that computers are bad at, and bad at the things that computers are good at](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem). Also good at things that don't have wrong answers.
 - Context is king. Managing the context window effectively is crucial for getting good results.
@@ -70,6 +71,21 @@
 - [You need quick and clear feedback loops](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) (fast tool responses, clean logs, ...).
 - Prefer functions with clear, descriptive and longer than usual function names over classes. Avoid inheritance and overly clever hacks.
 - Write legible (text based) relevant content and link it with anything else (code, diagrams, ...).
+- Use a checklist. Plan, iterate, and refine.
+- [Fail early and often. Agents are pretty good at getting oriented, and failure is cheap. Throw out your problem, and let it work at it. If it fails, start over, adding the tidbits of information it couldn’t figure out on its own](https://sketch.dev/blog/seven-prompting-habits).
+- Go concurrent. Many agents can work in parallel on different tasks or even the same task with different approaches (you can then choose the best one).
+- [LLMs actively reward existing top tier software engineering practices](https://simonwillison.net/2025/Oct/7/vibe-engineering/):
+  - Automated testing.
+  - Planning in advance.
+  - Comprehensive documentation.
+  - Good version control habits.
+  - Having effective automation in place.
+  - A culture of code review.
+  - Modular, reusable code.
+  - Strong research skills.
+  - The ability to ship to a preview environment.
+  - An instinct for what can be outsourced (to AI vs what needs human attention).
+  - An good (updated) sense of estimation.
 
 ## Agents
 
