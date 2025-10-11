@@ -24,6 +24,7 @@
 - Be very specific about the instructions, task, and output format you want the model to perform.
 - Follow [Prompt Engineering Guide](https://www.promptingguide.ai/), [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering), and [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api). Also [some more on GitHub](https://github.com/PickleBoxer/dev-chatgpt-prompts).
 - Learn from [leaked System Prompts](https://matt-rickard.com/a-list-of-leaked-system-prompts).
+- Sometimes, [you should let the models write their own prompts](https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html).
 
 ### Fragments
 
