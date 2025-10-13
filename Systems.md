@@ -55,6 +55,8 @@ Interaction between system actors causes **externalities**: the consequences of 
 
 Most large social systems are pursuing objectives other than the ones they proclaim, and the ones they pursue are wrong. E.g: [The educational system is not dedicated to produce learning by students, but teaching by teachers—and teaching is a major obstruction to learning.](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/)
 
+[Social systems belong to the class called multi-loop nonlinear feedback systems](https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/65cdf0faf132dec7ec75e91f9651b31f_behavior.pdf). In the long history of evolution it has not been necessary until very recent historical times for people to understand complex feedback systems. Evolutionary processes have not given us the mental ability to interpret properly the dynamic behavior of those complex systems in which we are now embedded.
+
 A [[Mental Models|mental model]] of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
 Remember, sometimes not doing something is better than doing it ([Primum non nocere](https://en.wikipedia.org/wiki/Primum_non_nocere)). E.g: controlling small fires instead of letting them burn the top layer of the forest. Spending 1 week repairing trains because there was an accident makes people use the car more, turning into more deaths than leaving the train rails as they were.
