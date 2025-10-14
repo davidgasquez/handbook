@@ -1,7 +1,7 @@
 # Data Package Manager
 
 Package managers have been hailed among the most important innovations Linux brought to the computing industry.
-Data is not code, but the activities of both publishers and users of datasets resemble those of authors and users of software packages.
+Data is not code, but the activities of both publishers and users of datasets resemble those of authors and users of software packages. Package managers provide frictionless access to code, an universal catalogue, standardized metadata, versioning, and a social/reputation layer (e.g: installs)
 
 ## Principles
 
