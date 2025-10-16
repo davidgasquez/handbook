@@ -57,7 +57,7 @@
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one.
   - Keep sessions to as few messages as possible.
 - Start with a template you like to bootstrap your project and setup all the necessary toolings and following a manageable project pattern.
-- Before coding, make the plan with the model. You can use the same or a different model to critique the plan and iterate.
+- Before coding, make the plan with the model. You can use the same or a different model to critique the plan and iterate. If you are unsure, ask to ["give a few options before making changes"](https://steipete.me/posts/just-talk-to-it).
 - Provide the desired function signatures, API, or docs. Apply the TDD loop and make the model write tests and the code until the tests pass.
 - Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh when switching to execution.
 - Many LLMs now have very large context windows, but filling them with irrelevant code or conversation can confuse the model. Above about 25k tokens of context, most models start to become distracted and become less likely to conform to their system prompt.
