@@ -73,7 +73,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Evolution through recombination rather than redesign.
   - To create a permissionless way for projects to participate, staking is a solution.
   - Fix a Data Structure (API) for each layer so they can compose (graph, weight vector).
-    - E.g: Deepfunding problem data structure is a graph. Weights are a vector/dict, ...
+    - E.g: [[Deep Funding]] problem data structure is a graph. Weights are a vector/dict, ...
 - **Embrace plurality over perfection**.
   - [No single mechanism can satisfy all desirable properties](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) (efficiency, fairness, incentive compatibility, budget balance). Different contexts need different trade-offs.
   - There will be no "stable state". Whenever you fix an evaluation, some group has an incentive to abuse or break it again and feast on the wreckage.

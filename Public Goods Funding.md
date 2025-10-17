@@ -27,3 +27,4 @@ Public goods are defined as goods that are both nonexcludable (it's infeasible t
 - [Publig Goods Funding Mechanism List](https://docs.google.com/document/d/1n8fP3tWfLBIa-w4wC0rbOw2wo7odWvwseWptbuBdg6c/edit?tab=t.0)
 - [List of Public Goods Funding Mechanisms](https://harsimony.wordpress.com/2022/02/10/list-of-public-goods-funding-mechanisms/)
 - [Funding public goods using the Nash product rule](https://victorsintnicolaas.com/funding-public-goods-using-the-nash-product-rule/)
+- [[Deep Funding]]
