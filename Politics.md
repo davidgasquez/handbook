@@ -74,6 +74,7 @@
   - Allow liquid-democracy–style delegation, so expertise flows to where it’s needed.
   - Build in regularization (e.g. caps on how fast budgets can shift) and sunset/failure signals, so policies self-correct or expire.
   - Architect coordination as a fractal "pace-layering" of ever more specific algorithms, each handling half the remaining complexity with the simplest tool.
+- [A key technical component making democracy work is the secret ballot. No one knows who you voted for, and furthermore, you do not have the ability to prove to anyone else who you voted for, even if you really want to](https://vitalik.eth.limo/general/2025/04/14/privacy.html).
 
 ## Interesting Ideas
 
