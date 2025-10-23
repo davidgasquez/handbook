@@ -67,6 +67,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
     - Humans excel at relative judgments, but struggle with absolute judgments.
     - Many algorithms can be used to convert pairwise comparisons into absolute scores.
     - Pairwise shines when all the context is in the UX.
+    - [Data is good at providing comprehensive coverage of things that are countable. Data is bad at dealing with nuances and qualitative concepts that experts intuitively understand.](https://gov.optimism.io/t/lessons-learned-from-two-years-of-retroactive-public-goods-funding/9239)
 - **Design for composability**. Define clear data structures (graphs, weight vectors) as APIs between layers.
   - Multiple communities could share measurement infrastructure.
   - Different evaluation methods can operate on the same data.
@@ -123,6 +124,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - The meta-layer can help compose and evaluate mechanisms. How do we know mechanism B is better than A? Or even better than A + B, how do we evolve things?
   - Is the evaluation/reward better than a centralized/simpler alternative?
     - E.g: on tabular clinical prediction datasets, standard logistic regression was found to be on par with deep recurrent models.
+  - People only reveal their true opinions after seeing the result (you need to show people something and iterate based on their reactions in order to build something they actually want).
 - **Exploration vs Exploitation**. IEs are optimization processes with tend to exploit (more impact, more reward). This ends up with a monopoly (100% exploit). You probably want to always have some exploration.
 - [IEs need to show how the solution is produced by the interactions of people each of whom possesses only partial knowledge](https://news.ycombinator.com/item?id=44232461).
 
