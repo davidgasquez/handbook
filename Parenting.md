@@ -21,6 +21,12 @@
 - Allowing kids to have lots of small failures. Whenever you can, let them experience a small consequence that won't be too bad.
 - Allow them to experience the natural consequences of their actions as much as possible, both good and bad. Even if it has a negative consequence for them, as long as it's not too much.
 - Aim to be as predictable as possible. The brain is a prediction engine and hates surprises, so minimize the surprises they have to deal with.
+- For every strong opinion, there's an equally strong opposite opinion. Some basic strategies:
+  - Spend lots of (phone-free) time with them.
+  - Show them that the world is a fun and fascinating place.
+  - Don't interrupt them when their focused or daydreaming. Help them learn to be entertained by their own minds-
+  - Refrain from imposing lots of little rules, but where there are rules, be firm about them.
+  - Build problem-solving confidence, teaching them to become a person who says "I want to figure out the directions" instead of a person who says "let's just ask someone"
 
 ## Resources
 
