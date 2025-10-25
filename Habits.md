@@ -4,9 +4,9 @@
 
 Habits can be great because they help us get tasks done efficiently without having to spend willpower (a limited resource) on them all the time. The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it ([ego depletion](https://en.wikipedia.org/wiki/Ego_depletion)). [Having a habit collapses hundreds of future decisions into one, and gives you focus](https://twitter.com/kepano/status/1698388043278012621). Habits will keep the frontal cortex free to solve other problems. Make a deliberate choice about what needs consistency and what doesn't.
 
-[Make part of your identity to be an agent](https://www.neelnanda.io/blog/become-a-person-who-actually-does-things) that does things. E.g: noticing the small problems, and fixing them. The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become. Focus on [[The Four Laws of Behavior Change]].
+[Make it part of your identity to be an agent](https://www.neelnanda.io/blog/become-a-person-who-actually-does-things) that does things. E.g: noticing the small problems, and fixing them. The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become. Focus on [[The Four Laws of Behavior Change]].
 
-They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break habits and know how to make habits. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them [compound](https://www.investopedia.com/terms/c/compoundinterest.asp). Remember, there are [no hacks](http://www.collaborativefund.com/blog/useful-hacks/) in life!
+They can also cause addictions and be harmful for us. It's important to be aware of your habits and know how to break and build them. Habits are the compound interest of self-improvement. Make small habits that push you forward, little by little, and make them [compound](https://www.investopedia.com/terms/c/compoundinterest.asp). Remember, there are [no hacks](http://www.collaborativefund.com/blog/useful-hacks/) in life!
 
 [Change is hard. Understanding it better, makes it easier](https://www.youtube.com/watch?v=75d_29QWELk). The secret of getting ahead is getting started.
 
@@ -20,8 +20,8 @@ Helpful steps for building habits:
   - Be proactively lazy by organizing a space for its intended purpose. That way you are priming it to make the next action easy.
 - **Use the power of accountability to reinforce the routine**. If you can find someone who will hold you accountable, do it. Someone who does the routine with you, or a coach who will call you out if you make excuses. Whatever you value, hang around people that are better at it than you are.
 - **One thing at a time**. Don't build a big routine of 15 tasks at once. Ease into it one habit at a time. Changing one at a time routine allows you to isolate the benefits. Remove related bad habits at the same time.
-- **Don't overload yourself**. Leave [[time]] in your schedule for play. If it gets to be too much, decide which one you will drop permanently to make rooms for the rest.
+- **Don't overload yourself**. Leave [[time]] in your schedule for play. If it gets to be too much, decide which one you will drop permanently to make room for the rest.
 
 **Cognitive inertia** is the reason that changing our habits can be difficult. The default is always the path of least resistance, which is easy to accept and harder to question. The important thing about inertia is that it is only the initial push that is difficult. After that, progress tends to be smoother. A good life is a series of good days!
 
-One of the biggest influence on your personality is your peer group. Choose your peers wisely!
+One of the biggest influences on your personality is your peer group. Choose your peers wisely!

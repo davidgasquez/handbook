@@ -23,7 +23,7 @@ These thought experiments are useful for evaluating your beliefs and reasoning. 
 - [Experience Machine](https://en.m.wikipedia.org/wiki/Experience_machine).
 - [The iPhone Thought Experiment](https://waitbutwhy.com/table/iphone-thought-experiment).
 - You can clone yourself for 100$. How many times would you do it?
-- Is dying to russian roulette an accident or a suicide?
+- Is dying to Russian roulette an accident or a suicide?
 - Cryonics
-  - Is like getting to an hospital in the future
+  - Is like getting to a hospital in the future
   - What if you wake up in a dystopian future?

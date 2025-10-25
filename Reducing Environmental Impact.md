@@ -6,7 +6,7 @@
 - Use renewable energy. Donate to renewable energies projects.
 - Insulate your house.
 - [Use GMOs](https://www.bio.org/blogs/gmos-have-benefits-environment).
-- [Vote with your wallet by buy environmentally conscious things from environmentally conscious](https://youtu.be/yiw6_JakZFc) and if possible, local companies.
+- [Vote with your wallet by buying environmentally conscious things from environmentally conscious](https://youtu.be/yiw6_JakZFc) and if possible, local companies.
 - Opt for long lasting products over ones you will have to replace quickly.
 - Avoid plastic products.
 - Plant plants and create gardens!
@@ -17,6 +17,6 @@
   - [Individual actions aren't enough to improve the current state](https://www.youtube.com/watch?v=DYLWZPFEWTw). They give a false sense of progress [while not doing much progress](https://criticalscience.medium.com/climate-change-on-a-little-planet-b859721767d5). E.g: recycling doesn't seem to make a dent in climate change and [recycled plastics are often actively harmful, poisoning people or ending up in the sea](https://hwfo.substack.com/p/an-illustrated-guide-to-plastic-straws). Choices like your diet or how much you take the car have a much bigger impact.
     - [The cultural dynamic in many places of serving more food than your guests can possibly eat–as a form of status or generosity–is persistent and wasteful. But it's just a small part of a system that needs fixing](https://seths.blog/2023/04/profiting-from-food-waste-confusion/).
   - [By focusing on the individuals, we miss the much bigger problem of climate change.](https://youtu.be/RSgXcFdHxFI?list=WL). Around 70% of emissions come for 100 companies. Push governments to transform the economy so individuals don't have all the pressure.
-  - It's hard to make changes since climate change happens slowly and doesn't trigger our fight and fly response. We need [[Incentives]] that makes buying and using the good things the selfish thing to do.
-  - What's good for the individual is harming the collective and no one is going to concede because is not [[Thinking|rational]]. E.g: it's cheaper to buy an foul car than an electric one.
+  - It's hard to make changes since climate change happens slowly and doesn't trigger our fight-or-flight response. We need [[Incentives]] that makes buying and using the good things the selfish thing to do.
+  - What's good for the individual is harming the collective and no one is going to concede because is not [[Thinking|rational]]. E.g: it's cheaper to buy a polluting car than an electric one.
     - Tesla is changing the incentives so even if you don't care about environmental change, you'd buy a Tesla.

@@ -2,8 +2,8 @@
 
 - Learn to read [dog body language](https://www.flickr.com/photos/lilita/5652847156) ([calming signals](https://youtu.be/MgnLgHFRJu4)).
 - Training is creating a common language between you and your dog.
-- Play is the easiest way to bond with your dog. Don't leave out all their toys. They loose potency over time. You can build toy drive by playing with your dog in short bursts.
-- Play a lot with their legs and pawns to get them used to a human touching them. Practice handling exercises across the day to get them used to humans.
+- Play is the easiest way to bond with your dog. Don't leave out all their toys. They lose potency over time. You can build toy drive by playing with your dog in short bursts.
+- Play a lot with their legs and paws to get them used to a human touching them. Practice handling exercises across the day to get them used to humans.
 - Exercise in the morning for a calmer day. Fetch is the most reliable way to drain some energy from your dog.
 - Don't use your dog's name as a reprimand or a part of one. Use it during fun activities and praise.
 - Don't repeat commands over and over.
@@ -13,14 +13,14 @@
 - A great small resource is the book [After you get your puppy](https://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf).
 - If someone else is taking care of your dog for a while, leave everything written explicitly. They'll make adaptation much easier and your dog will keep similar habits.
 - Play before eating. That way the dog will associate toys with a positive thing.
-- [Reinforce being calm on different context](https://youtu.be/lLyiQODnR1s). This will make them listen to you in new places.
-- Understand [what can your dog eat](https://www.naturzoo.com/carteles-informativos-alimentos-adecuados-una-dieta-natural-perros/) and what they can't.
+- [Reinforce being calm in different contexts](https://youtu.be/lLyiQODnR1s). This will make them listen to you in new places.
+- Understand [what your dog can eat](https://www.naturzoo.com/carteles-informativos-alimentos-adecuados-una-dieta-natural-perros/) and what they can't.
 
 ## Building Confidence
 
 - Don't force the dog to do what they don't want to do/aren't comfortable doing yet. Make every experience a positive one.
-- Put them in situations he can be successful in. Maybe it's finding a treat in plain sight at first and then slowly making it more difficult that they have to figure it out but not so hard that they gets frustrated and give up.
-- Let the dog make their decision and praise if its a good one.
+- Put them in situations they can be successful in. Maybe it's finding a treat in plain sight at first and then slowly making it more difficult that they have to figure it out but not so hard that they get frustrated and give up.
+- Let the dog make their decision and praise if it's a good one.
 - Touch is a great trick to help them build confidence.
 
 ## Separation Anxiety
@@ -37,10 +37,10 @@
 
 ## Training Tips
 
-- Train in any situation possible (and is safe to do it). For the first 6-12 months, spend at least 20 minutes of formal training a day in short training sessions (1-3 min).
+- Train in any situation possible (and in which it's safe to do it). For the first 6-12 months, spend at least 20 minutes of formal training a day in short training sessions (1-3 min).
 - Work on focus with distractions and you'll have an excellent groundwork.
-- All animals, including humans, are "trained" 100% of the time
-- Say "yes!" and award as fast as possible after they do what you want. They have about a 1 second window to register that behavior as the cause of the reward.
+- All animals, including humans, are "trained" 100% of the time.
+- Say "yes!" and reward as fast as possible after they do what you want. They have about a 1 second window to register that behavior as the cause of the reward.
 - Remember to give your dog some "easy wins". You would not want to be paid less as you got better at your job.
 - Have treats everywhere so you have quick access to them.
 - You can use toys and small play sessions as a food reward alternative.
@@ -51,7 +51,7 @@
 - Make what they want contingent on what you want them to do first. For example, checking out another dog after looking at you.
 - When playing with your pup, have him settle down for frequent short interludes every one or two minutes. Initially have the pup lie still for a few seconds before letting him play again. After a minute, interrupt the play session once more with a three-second settle-down. Then try for four seconds, then five, eight, ten, and so on. Although being yo-yoed between the commands "Settle down" and "Let's play" is difficult at first, the puppy soon learns to settle down quickly and happily.
 - End the training sessions before they get unhappy so they continue coming back for more and thinking it's fun.
-- Don't allow two fails in a row. E.g: If your puppy breaks the stay, make it easier next time
+- Don't allow two failures in a row. E.g: If your puppy breaks the stay, make it easier next time.
 - Add music to your training sessions to get it associated with positive rewards.
 - Train before eating so the rewards have more value and they are [more interested in the tricks](https://youtu.be/knYNa0U5QZU).
 - Movement builds drive. Be energetic in the training session.
@@ -73,7 +73,7 @@
 - [Attention Game](https://youtu.be/5e_gVqJkdek). Make a kissy noise and reward when your dog looks at your face.
 - [Leash Pressure Game](https://youtu.be/iKG89GVOJiM). Reinforce your dog turn around and come back to you when they hit the end of the leash.
 - [Heel-work Game](https://youtu.be/45lk4_tud9Y). Use a table to help your dog heel with you.
-- Calmness. Reinforce settle and calm in their bed. Add movement away from the enclosure. You can also add handling and distractions. If your dog gets up or star whining, lower criteria and start again.
+- Calmness. Reinforce settle and calm in their bed. Add movement away from the enclosure. You can also add handling and distractions. If your dog gets up or starts whining, lower criteria and start again.
 
 ### Stuffed Kongs
 
@@ -91,11 +91,11 @@
 
 ### Improving Recall
 
-- Work on basic exercises (e.g: [calling your dog when you know its going to come](https://www.youtube.com/watch?v=SVJe2VgoYV4), [making them go through your legs](https://youtu.be/jdbZErtB9Ok), ...).
-- The key to a great recall is to [counter-condition the dog so it remains calm under all conditions](https://youtu.be/6uTgSr0acBo). Condition the dog to be relaxed around wild life and pay attention to you.
+- Work on basic exercises (e.g: [calling your dog when you know it's going to come](https://www.youtube.com/watch?v=SVJe2VgoYV4), [making them go through your legs](https://youtu.be/jdbZErtB9Ok), ...).
+- The key to a great recall is to [counter-condition the dog so it remains calm under all conditions](https://youtu.be/6uTgSr0acBo). Condition the dog to be relaxed around wildlife and pay attention to you.
 - Give your dog access to what they want when they come back to you ([Premack Principle](https://www.akc.org/expert-advice/training/what-is-the-premack-principle-in-dog-training/)). If that's not an option, try to give them a great reward (or a combination like praise, food, petting and vocal inflection).
   - Don't call your dog just to end his fun. If you do this it decreases the chance he/she will want to come back to you when called. Instead, recall often and treat without putting on the lead or ending the fun.
-- Don't repeat the cue many times. Recall should be a 100% reliable.
+- Don't repeat the cue many times. Recall should be 100% reliable.
 - Try not to go towards your dog when working on recall.
 - Clap your hands while shouting your recall word in an excited, hyperactive voice.
 - [Reinforce each time you get your dog's attention in the wild](https://youtu.be/QFhtFt6Qy6g).

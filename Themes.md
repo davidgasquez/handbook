@@ -27,7 +27,7 @@ You don't need to limit themes to yourself. Can be applied to other things like 
 
 ## House Themes
 
-These are the 3 themes I try to keep in my at my home.
+These are the 3 themes I try to keep in mind at my home.
 
 - No bad knifes.
 - Make the right thing to do the easiest thing to do.

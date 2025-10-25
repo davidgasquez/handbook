@@ -10,7 +10,7 @@
 - [LLMs are good at the things that computers are bad at, and bad at the things that computers are good at](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem). Also good at things that don't have wrong answers.
 - Context is king. Managing the context window effectively is crucial for getting good results.
   - Add websites as context with [jina.ai](https://jina.ai/) or [pure.md](https://pure.md/)
-  - Context is easy to mess: [context poisoning, context distraction, context confusion, context clash](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html), ...
+  - Context is easy to mess up: [context poisoning, context distraction, context confusion, context clash](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html), ...
   - [Context Engineering](https://www.philschmid.de/context-engineering) is the discipline of designing and building dynamic systems that provides the right information and tools, in the right format, at the right time, to give a LLM everything it needs to accomplish a task.
 - LLMs amplify existing expertise rather than replacing it.
 - Be aware of training cut-off dates when using LLMs.
@@ -56,7 +56,7 @@
 - Describe the problem very clearly and effectively.
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one.
   - Keep sessions to as few messages as possible.
-- Start with a template you like to bootstrap your project and setup all the necessary toolings and following a manageable project pattern.
+- Start with a template you like to bootstrap your project and set up all the necessary tooling while following a manageable project pattern.
 - Before coding, make the plan with the model. You can use the same or a different model to critique the plan and iterate. If you are unsure, ask to ["give a few options before making changes"](https://steipete.me/posts/just-talk-to-it).
 - Provide the desired function signatures, API, or docs. Apply the TDD loop and make the model write tests and the code until the tests pass.
 - Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh when switching to execution.

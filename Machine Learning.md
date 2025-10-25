@@ -49,7 +49,7 @@ Tech debt is an analogy for the long-term buildup of costs when engineers make d
 
 - [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
 - [The Data Visualization Catalogue](https://datavizcatalogue.com/) and [Project](https://datavizproject.com/).
-- [Visualization Curriculim](https://jjallaire.github.io/visualization-curriculum/)
+- [Visualization Curriculum](https://jjallaire.github.io/visualization-curriculum/)
 - [Chart Dos and Don'ts](http://web.archive.org/web/20211026152255/https://www.eea.europa.eu/data-and-maps/dashboards/industry-energy-ghg/)
 - [Machine Learning Tutorials](https://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
 - [Data looks better naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked)

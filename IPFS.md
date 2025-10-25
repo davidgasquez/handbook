@@ -16,7 +16,7 @@
 - Data model for IPFS
 - Everything is a node. Nodes have types.
 - The data structure is a Merkle Tree.
-- Makes easy to have interoperability of data. Useful for distributed databases.
+- Makes it easy to have interoperability of data. Useful for distributed databases.
   - Bridges content addressing and distributed systems.
 
 ## LibP2P

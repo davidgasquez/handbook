@@ -2,7 +2,7 @@
 
 A way to keep yourself on track with your [[habits]] is to have a routine.
 
-1. **Rules**. Remind yourself on the current set of rules, constrains, various addictions, time-draining things. E.g. limit social media, do some stretching, ...
+1. **Rules**. Remind yourself on the current set of rules, constraints, various addictions, time-draining things. E.g. limit social media, do some stretching, ...
 2. **Gratitude**. Visualize and [[Meditation|meditate]] on the idea that you might die today.
 3. **Long-term goals and short-term [[goals]]**. Review big goals that you would like to achieve in the next years and the short term goals that lead to them that you can act on.
 4. **Visualize the day**. Visualize yourself going through the day challenges and wins.
@@ -27,6 +27,6 @@ Small lifestyle changes that can lead to large impact:
 - Actively reach out to friends and family.
 - Take notes on everything you learn and share them.
 - If it's under an hour, walk.
-- Have a day of the week where you list everything that went wrong during the weekend figure out what needs to change.
+- Have a day of the week where you list everything that went wrong during the weekend and figure out what needs to change.
 
 On the higher level, you can also have an [[Annual Review List]] to remind yourself some cool things!

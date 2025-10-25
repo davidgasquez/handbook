@@ -1,7 +1,7 @@
 # Data Package Manager
 
 Package managers have been hailed among the most important innovations Linux brought to the computing industry.
-Data is not code, but the activities of both publishers and users of datasets resemble those of authors and users of software packages. Package managers provide frictionless access to code, an universal catalogue, standardized metadata, versioning, and a social/reputation layer (e.g: installs)
+Data is not code, but the activities of both publishers and users of datasets resemble those of authors and users of software packages. Package managers provide frictionless access to code, a universal catalogue, standardized metadata, versioning, and a social/reputation layer (e.g: installs)
 
 ## Principles
 
@@ -14,7 +14,7 @@ Data is not code, but the activities of both publishers and users of datasets re
   - Datasets are linked to their metadata.
   - One Git repository should match one portal/catalog/hub where related datasets are linked (not islands). Could also be a dataset. The main thing is for code and data to live together. Each Data Portal should be comparable to a website, and may have a specific topical focus (unify on a central theme).
   - To avoid yet another open dataset portal, build adapters to integrate with other indexes.
-    - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making an scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
+    - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making a scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
   - Data assets should be Findable, Accessible, Interoperable, and Reproducible. [FAIR](https://www.go-fair.org/fair-principles/).
   - Finding the right dataset to answer a question is difficult. Good metadata search is essential.

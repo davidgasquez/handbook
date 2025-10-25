@@ -4,7 +4,7 @@ Checklists are an essential component of high-quality processes, e.g. in aviatio
 
 ## [How To Build A Checklist](http://projectmanagementhacks.com/how-to-build-a-checklist/)
 
-1. **Identify "Stupid Mistakes" that cause failure**.  Understand the most significantly causes of failure.
+1. **Identify "Stupid Mistakes" that cause failure**. Understand the most significant causes of failure.
 2. **Seek Additional Input From Others**. There are other people in your organization who either do similar work or who use the results of your work. Ask these people for their ideas on the common causes of failure or what they would suggest checking.
 3. **Create Simple "Do" Steps**. Reminders to do a specific action.
 4. **Test The Checklist**. Put your checklist into action.

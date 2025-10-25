@@ -5,7 +5,7 @@
 - The goal of meditation is not to quit having thoughts, but to observe them, watch them without reacting and rationalizing them. This helps rewire the way your brain works similar to cognitive behavioral therapy. Typically, people who work towards this, have less anxiety and depression because they don't react to every thought they have, which gives them a greater control of their emotions.
 - In [[programming]] terms, it defragments the hard drive and repairs errors in the OS.
 - Too many distractions lead to a heavy mind.
-- Meditating is controlling [[Focus|attention]]. Everything is downstream attention. Practice [mindfulness meditation](https://youtu.be/hQo-CQzoW24) to improve your attention and noticing.
+- Meditating is controlling [[Focus|attention]]. Everything is downstream of attention. Practice [mindfulness meditation](https://youtu.be/hQo-CQzoW24) to improve your attention and noticing.
 
 ## How to Meditate
 

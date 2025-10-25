@@ -32,7 +32,7 @@ Collection of awesome web based tools.
 ## Sharing
 
 - [Web Wormhole](http://web.archive.org/web/20240805023032/https://webwormhole.io/)
-- [Fatest Fish](https://fastest.fish/)
+- [Fastest Fish](https://fastest.fish/)
 - [GIFs](https://gifcap.dev/)
 
 ## GPS

@@ -1,6 +1,6 @@
 # DNA Genetic Testing and Analysis
 
-- Companies like 23andMe look only at a few specific genomics coordinates that are known to be contain pathogenic variants, but chances are if you have the associated disease you don't have a variant at one of those few select locations. Because of this, [a negative test result does not mean someone isn't at risk for the condition](https://www.nytimes.com/interactive/2019/02/01/opinion/23andme-cancer-dna-test-brca.html).
+- Companies like 23andMe look only at a few specific genomics coordinates that are known to contain pathogenic variants, but chances are if you have the associated disease you don't have a variant at one of those few select locations. Because of this, [a negative test result does not mean someone isn't at risk for the condition](https://www.nytimes.com/interactive/2019/02/01/opinion/23andme-cancer-dna-test-brca.html).
 - If it says you don't have something, then that means nothing. If it says you do have something, then that means you should be on the lookout for other corroborating data or symptoms.
 - Genetic data may help people today, but it can also be sold to insurance companies in the [[Future]].
 - [Your DNA is already probably on a database](https://youtu.be/KT18KJouHWg).
@@ -8,7 +8,7 @@
 
 ## Resources
 
-- You can retrieve information about your DNA variations at [Promethease](https://promethease.com/). Other kind of data can be extracted with [dna.land](https://dna.land/) and [FoundMyMitness Genetics](https://www.foundmyfitness.com/genetics).
+- You can retrieve information about your DNA variations at [Promethease](https://promethease.com/). Other kind of data can be extracted with [dna.land](https://dna.land/) and [FoundMyFitness Genetics](https://www.foundmyfitness.com/genetics).
 - [Gedmatch](https://www.gedmatch.com/).
 - [DNAPainter](https://dnapainter.com/).
 - [Nutrahacker](https://nutrahacker.com/).

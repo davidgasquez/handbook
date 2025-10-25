@@ -11,7 +11,7 @@
       - We have hard-and-fast evidence that this is false, stop repeating this easily debunked lie.
 - Be [specific](https://www.lesswrong.com/posts/XosKB3mkvmXMZ3fBQ/specificity-your-brain-s-superpower). Ask yourself the question, "What's an example of that?" Or more bluntly, "Can I be more specific?"
 - Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much in the last few thousands years and was built for a different world.
-- Believing you're rational makes it easier to fool yourself mistaking your intuitions with rational decision.
+- Believing you're rational makes it easier to fool yourself, mistaking your intuitions for rational decisions.
 - Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible.
   - Anything you know or do could be wrong. You get less dumb by saying things and getting feedback. [We all have crony beliefs](https://web.archive.org/web/20250129202840/https://meltingasphalt.com/crony-beliefs/). From time to time, do a self-audit and figure out which ideas you've come to hold sacred and remind yourself that they're just ideas.
   - Many beliefs are held because there is a social and tribal benefit to holding them, not necessarily because they're true.

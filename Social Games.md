@@ -33,7 +33,7 @@
 - [New Eleusis](https://web.archive.org/web/20190822201119/http://www.matuszek.org/eleusis1.html).
 - [Bartok](<https://en.wikipedia.org/wiki/Bartok_(card_game)>).
 - Mao.
-- [Egypcian Ratscrew](https://waste.org/~oliviax/cards/ratscrew.html).
+- [Egyptian Ratscrew](https://waste.org/~oliviax/cards/ratscrew.html).
 - [Dvorak](http://web.archive.org/web/20241219082825/https://en.wikipedia.org/wiki/Dvorak_(game)).
 - [Skull](https://boardgamegeek.com/boardgame/92415/skull).
 - [Cheat / Bullshit](https://www.pagat.com/beating/cheat.html).

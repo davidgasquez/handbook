@@ -27,7 +27,7 @@
   - [[Meetings]] agendas and conclusions.
   - Responsibilities. Things that aren't your fault can still be your responsibility. If something is everyone's job, it's no one's job.
   - Defaults. Each thing should have a place by default, docs, issues, ...
-- Aim to be a completely autonomous team. Everyone should feel empower to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.
+- Aim to be a completely autonomous team. Everyone should feel empowered to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.
   - [A team's ability to operate autonomously relies on alignment, which is strengthened by context](https://web.archive.org/web/20230605055308/https://macroapp.io/blog/the-context-warehouse).
   - Strong engineers make independent decisions about work priorities when necessary.
   - You can also have no durable cross-functional teams. Teams assemble around a project and disperse once the project is done.
@@ -195,7 +195,7 @@
 - [Ways of Working](https://github.com/joelparkerhenderson/ways-of-working) - Guidelines that improve teamwork and communication.
 - Team Management.
   - [IPFS](https://github.com/ipfs/team-mgmt).
-  - [Kubernetes Governanve](https://github.com/kubernetes/community/blob/master/governance.md).
+  - [Kubernetes Governance](https://github.com/kubernetes/community/blob/master/governance.md).
   - [Linear Method](https://linear.app/method/introduction).
 - Guides to Communications:
   - [Gitlab Communications](https://about.gitlab.com/handbook/communication/).

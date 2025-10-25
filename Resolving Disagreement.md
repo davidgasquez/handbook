@@ -2,7 +2,7 @@
 
 ![[Quotes#^448662]]
 
-We should be arguing in a constructive fashion: treating arguments as an opportunity to [[Learning|expand knowledge]], finding points of disagreement, and [[Coordination|collaborating]] towards a common truth. A few assumptions are required to have a successfully disagreement:
+We should be arguing in a constructive fashion: treating arguments as an opportunity to [[Learning|expand knowledge]], finding points of disagreement, and [[Coordination|collaborating]] towards a common truth. A few assumptions are required to have a successful disagreement:
 
 - Epistemic humility. "It's possible that I might be the one who's wrong here".
 - Arguments are not soldiers. Most people go into debate with a war-like mentality, they feel they must fly the flag for all points that their side supports, regardless of how much they actually agree with them.
@@ -14,7 +14,7 @@ We should be arguing in a constructive fashion: treating arguments as an opportu
 - As much data as possible to backup claims. [Cognitive biases](https://www.titlemax.com/discovery-center/lifestyle/50-cognitive-biases-to-be-aware-of-so-you-can-be-the-very-best-version-of-you/) are limits and mistakes in human judgment that prevent someone from acting rationally. They are present in every aspect of human life, and in tense situations like arguments, they tend to appear more often as emotions are heightened and the brain gets overloaded.
 - Agree on the terminology. Similar understanding of terms makes discussion more productive.
 - Separate the topic from the community. E.g: cryptocurrencies have toxic communities but very interesting ideas.
-- If you debate it it right, you'll end up respecting the other person.
+- If you debate it right, you'll end up respecting the other person.
 - [Sometimes, you'll end up with **high-level generators of disagreement**](https://slatestarcodex.com/2018/05/08/varieties-of-argumentative-experience/). It is what remains when everyone understands exactly what's being argued, and agrees on what all the evidence says, but have vague and hard-to-define reasons for disagreeing anyway.
 - [Make disagreement fun](https://twitter.com/waitbutwhy/status/1461620476363612169):
   - Your motivation for arguing is more "obsession with finding the truth" than "winning a competitive game".
@@ -35,7 +35,7 @@ Make sure you're arguing efficiently. We feel the most compulsion to distinguish
 
 Tips to argue efficiently:
 
-- Acknowledge the positive intentions. Try to understanding his or her rationale and state it out loud directly to them.
+- Acknowledge the positive intentions. Try to understand his or her rationale and state it out loud directly to them.
 - Express what you see and what you think! Remember, kindness matters. You might be looking at a screen or shouting to a device, but you are really [[talking]] to a person.
 - Identify and propose a solution. You should try to build consensus by demonstrating how your solution will resolve everyone's concerns, not just your own.
 - Outline the benefits and advantages of your proposal.

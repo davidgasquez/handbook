@@ -96,7 +96,7 @@ There is an emerging landscape of [Data and Blockchain](https://www.primodata.or
 
 - [Bounties Network](https://bounties.network/) - Find freelancers and bounty programs for any task paid in any token on Ethereum.
 - [Gitcoin](https://gitcoin.co/) - The easiest way to leverage the open source community to incentivize or monetize work.
-- [Inmunefy](https://immunefi.com/) - Web3's leading bug bounty platform, protecting $100 billion in user funds.
+- [Immunefi](https://immunefi.com/) - Web3's leading bug bounty platform, protecting $100 billion in user funds.
 - [OnlyDust](https://www.onlydust.xyz/). Contribute to innovative projects, refine your skills and create a lasting impact in the developer community.
 
 #### Analytic Bounties

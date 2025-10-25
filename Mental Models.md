@@ -2,9 +2,9 @@
 
 > All models are wrong, but some are useful. George Box.
 
-A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems (a personal algorithm). The world is confusing when your model of the world is wrong. Millions of mental models exists, and every discipline has their own set. Some of them overlap and might be called differently. [The world is too complex to "pragmatically reason through" every single decision. To be effective, you need to take, and reuse, intermediate steps](https://vitalik.eth.limo/general/2025/08/12/ideas.html).
+A mental model is a thought process about how something works in the real world. They can help to shape behavior and set an approach to solving problems (a personal algorithm). The world is confusing when your model of the world is wrong. Millions of mental models exist, and every discipline has its own set. Some of them overlap and might be called differently. [The world is too complex to "pragmatically reason through" every single decision. To be effective, you need to take, and reuse, intermediate steps](https://vitalik.eth.limo/general/2025/08/12/ideas.html).
 
-Each one act as a lens through which to view the world. You can use them to navigate the territory of reality, and just like different types of maps (some simplistic and cartoonish, others realistic and highly detailed) can be more or less useful for different purposes, even maps that you know are not literally correct can still have value.
+Each one acts as a lens through which to view the world. You can use them to navigate the territory of reality, and just like different types of maps (some simplistic and cartoonish, others realistic and highly detailed) can be more or less useful for different purposes, even maps that you know are not literally correct can still have value.
 
 - [Mental Models: The Best Way to Make Intelligent Decisions](https://www.farnamstreetblog.com/mental-models/)
 - [A Searching and Fearless Intellectual Inventory](https://www.facebook.com/notes/kent-beck/a-searching-and-fearless-intellectual-inventory/1179765038723025)
@@ -100,6 +100,6 @@ A list of mental models that I find interesting and useful. List comes from [And
 - Adaptive systems are stronger: [[Systems]] that can change are more resilient.
 - Condition setup: Create circumstances that make desired outcomes more likely.
 - Proof of work: Demonstrable effort creates credibility.
-- Exaptation: Features evolved for one purpose can be repurposed for another
+- Exaptation: Features evolved for one purpose can be repurposed for another.
 - Lottery of birth: The arbitrary nature of our starting circumstances.
 - Optimal amount of X is not zero: Perfect isn't always zero tolerance.

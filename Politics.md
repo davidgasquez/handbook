@@ -1,17 +1,17 @@
 # Politics
 
 - To debate politics as in any other field, first gather information and then decide. [Think like a scientist](https://waitbutwhy.com/2019/09/thinking-ladder.html).
-- Think of it as a [[Systems|complex system]]. Everything is related and has unexpected consequences. Don't miss-attribute systemic failures to scapegoats.
+- Think of it as a [[Systems|complex system]]. Everything is related and has unexpected consequences. Don't misattribute systemic failures to scapegoats.
   - The world is really complex, so we can't effectively model it. Therefore we should not just use the simple model where there is only one approach to [[Problem Solving|solving problems]].
   - If everyone hates the current system, who perpetuates it? Probably [[Incentives]].
   - [It's easier to blame people than systems](https://youtu.be/aPhrTOg1RUk).
 - Politics is affected by the population psyche. During rough times, we lose some ability to think clearly as a group.
 - If you think politics is annoying, it's because you're privileged enough to not care about it.
 - Don't attach to any movement so it doesn't become part of [[Identity|your identity]]. [Arguments are soldiers](https://www.lesswrong.com/posts/9weLK2AJ9JEt2Tt8f/politics-is-the-mind-killer). Once you attach to one side, you must support all arguments of that side, and attack all arguments that appear to favor the enemy side.
-- Political ideologies are mostly wrong. For most issues it's makes a lot more sense to study the issue in detail than try to have an opinion based on pre-packaged ideology. It's better to discuss issues without invoking teams.
-  - Issues aren't binary. Political parties make it seem so to make it work with their political interests. When you spot a binary question, think if its really a binary one or it is much more nuanced.
-- Some issues are not as important but are discussed much more times. The fact that some changes happens very gradually makes it hard for our brains that didn't evolve with subtle dangers in mind to realize the scope of the problem (e.g Climate Change vs terrorist attacks). [Sometimes, even if the issue is very simple to solve, its hard to discern its importance when every other issue is being raised as more important than the others](https://slatestarcodex.com/2017/11/30/book-review-inadequate-equilibria/).
-- Not all actions are equal. Some actions just validate your identify (arguing with someone online) and others don't seem right but make large differences (negotiating farm animals welfare).
+- Political ideologies are mostly wrong. For most issues it makes a lot more sense to study the issue in detail than try to have an opinion based on pre-packaged ideology. It's better to discuss issues without invoking teams.
+  - Issues aren't binary. Political parties make it seem so to make it work with their political interests. When you spot a binary question, think if it's really a binary one or it is much more nuanced.
+- Some issues are not as important but are discussed much more often. The fact that some changes happen very gradually makes it hard for our brains that didn't evolve with subtle dangers in mind to realize the scope of the problem (e.g Climate Change vs terrorist attacks). [Sometimes, even if the issue is very simple to solve, it's hard to discern its importance when every other issue is being raised as more important than the others](https://slatestarcodex.com/2017/11/30/book-review-inadequate-equilibria/).
+- Not all actions are equal. Some actions just validate your identity (arguing with someone online) and others don't seem right but make large differences (negotiating farm animal welfare).
 - We usually vote to whoever gives us simple (and probably wrong) solutions.
 - Democracy is the worst form of government, except for all the others — Winston Churchill [_probably quoting someone else_](https://richardlangworth.com/worst-form-of-government). To reach more people, arguments and topics need to be simplified to the maximum, losing trade-offs and nuance.
   - Some other criticisms are; average voters are not sophisticated, because each voter only has a small chance of affecting the outcome, few voters put high-quality thought into their decisions, and you often get either low participation (making the system easy to attack) or de-facto centralization because everyone just defaults to trusting and copying the views of some influencer.

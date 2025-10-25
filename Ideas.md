@@ -28,7 +28,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
   - Merging two skills could produce a new one (inheriting properties and perhaps with a small mutation).
   - Monsters inside an area could develop resistance against what's killing them, forcing a change of metagame strategies.
   - Quests rewards will also change dynamically like a market.
-- Players can vote for the next patch changes with in game money. This way developers gets feedback on what's important.
+- Players can vote for the next patch changes with in-game money. This way developers get feedback on what's important.
 - Could have a GPS RPG extension. Locations in the real world would be named similarly to the real place but with a twist given by a Neural Network.
 - Factions can take control of a region and build new things there.
 
@@ -98,10 +98,10 @@ In the blockchain data example, everyone is forced to run `cryo` because there i
 
 The idea would be to have a Kaggle style competition that can incentivize the creation/curation of public good datasets.
 
-- The Host of the competition gather samples from multiple sources and create a small "test dataset".
+- The host of the competition gathers samples from multiple sources and creates a small "test dataset".
 - Participants don't know which rows are being evaluated on and are incentivized to submit accurate values for all the rows.
 - A distance metric is used to measure accuracy and value of the submitted datasets.
-- With enough participants, the final dataset could be a function of the best submissions (e.g: a vote where each row is decided as the most common submitted rows from top participants or the average between them)
+- With enough participants, the final dataset could be a function of the best submissions (e.g: a vote where each row is decided as the most common submitted rows from top participants or the average of them)
 - Could also be another twist on Kaggle, mixing the ML competition aspects with Prediction Markets (e.g: polymarket).
 - [Fix the ML model, encourage participants to gather the data and measure based on the impact on the final metric](https://www.dataperf.org/training-set-acquisition).
 - Similar to Numerai, participants send submissions and stake some amount of money.

@@ -1,6 +1,6 @@
 # Data Culture
 
-- The data team needs to be focus on delivering insights and supporting decisions. The outcome of the data team are _decisions_ and a _shared context across the organization_ that makes coordination easier.
+- The data team needs to be focused on delivering insights and supporting decisions. The outcome of the data team are _decisions_ and a _shared context across the organization_ that makes coordination easier.
   - Your goal as a data professional is to facilitate [[Making Decisions|decision making]] and [help surface/investigate the performance of a business](https://sqlpatterns.com/p/delivering-value-as-a-data-team) (e.g. [operational](https://twitter.com/ergestx/status/1731324299590479989)).
   - Learning to drive decisions quickly, a bias to action, is a critical competency for an analyst. Every skill you learn – [[communication]], [[writing]], [[experimentation]], [[Metrics|metric design]] – supports this.
   - [If analysis is not actionable, it does not really matter](https://twitter.com/decisionleader/status/1661041373783441408). Analysis must drive to action. [Clear results won't spur action themselves](https://www.linkedin.com/posts/eric-weber-060397b7_data-analytics-machinelearning-activity-6675746028144205824-CQxW/). The organization needs to be ready to pivot when something isn't working.

@@ -8,7 +8,7 @@ Inspired by [Gwern Questions](https://www.gwern.net/Questions), [Patrick Colliso
   - Would it be better if we grouped kids by skill level instead of age?
   - [What's the best way of teaching kids how to think?](https://news.ycombinator.com/item?id=24638756)
   - [How can schools be optimized?](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart)
-  - How does effective [[Parenting]] looks like?
+  - How does effective [[Parenting]] look like?
 - [Are nootropics useful?](https://www.gwern.net/Nootropics)
 - How can [Genetic Engineering](https://www.youtube.com/watch?v=jAhjPd4uNFY) do good and [how can it go badly](https://www.youtube.com/watch?v=n__42UNIhvU).
   - What happens when we start [[DNA Genetic Testing and Analysis|tinkering with our genes after improving our health]]?

@@ -9,4 +9,4 @@
 
 ## Resources
 
-- [Build your own database on Rust](https://github.com/adambcomer/database-engine)
+- [Build your own database in Rust](https://github.com/adambcomer/database-engine)

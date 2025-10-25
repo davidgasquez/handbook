@@ -8,7 +8,7 @@
 - [Eat like an adult](https://thefitness.wiki/improving-your-diet/). Generally avoid processed foods, favor nuts and berries for snacks. **Eliminate sugars.**
   - [Beware of the ways the body deals with glucose](https://www.sumapositiva.com/p/curva-glucosa).
 - [It's been shown that the timing of your meals and more specifically your protein intake, doesn't make any difference to the growth of your muscles. Just get adequate protein and calories throughout the day, though you might want to eat something post workout anyway for energy](https://www.reddit.com/r/leangains/comments/9fxkof/if_you_eat_a_big_preworkout_meal_do_you_need_to/).
-- Do a 15 minute walk after meals.
+- Do a 15-minute walk after meals.
 
 ## Supplements
 

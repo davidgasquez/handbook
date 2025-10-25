@@ -18,12 +18,12 @@ When designing a process, look for these properties:
 
 - Algorithmic. So you don't need to think about choices. This reduces mental overhead and anxiety (The Paradox of Choice).
   - A way to reduce choices is self binding (like Ulysses did). Limiting our actions in the future will reduce the choices we'll need to do.
-- Flexible. Make if fluid enough to keep up with changes. [Loopholes will be abused](https://www.youtube.com/watch?v=dDYFiq1l5Dg) if the process can't change quickly enough to fix itself.
+- Flexible. Make it fluid enough to keep up with changes. [Loopholes will be abused](https://www.youtube.com/watch?v=dDYFiq1l5Dg) if the process can't change quickly enough to fix itself.
 - Low Friction. Simple processes are easier to understand and apply. [Trivial inconveniences usually have more implications than it seems](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences).
 - Short [[Feedback Loops]]. Show the results as soon as you can.
 - [[Idempotence|Idempotent]] processes are easy to manage
 
-A process takes an input to produce an output. A group of processes can be view as a System.
+A process takes an input to produce an output. A group of processes can be viewed as a System.
 
 *The only purpose of good process is to produce good outcomes.* A process is not good unless it produces good outcomes.
 
