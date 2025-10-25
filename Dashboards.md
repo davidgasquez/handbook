@@ -1,6 +1,6 @@
 # Dashboards
 
-[Dashboards create a shared sense of reality](https://benn.substack.com/p/data-is-for-dashboards) and help everyone understand whats going on better. They exist for the purpose of quickly and concisely answering questions. [Understanding must come before action](https://sarahsnewsletter.substack.com/p/what-substack-analytics-engineers). Understanding also helps us ask the right questions.
+[Dashboards create a shared sense of reality](https://benn.substack.com/p/data-is-for-dashboards) and help everyone understand what's going on better. They exist for the purpose of quickly and concisely answering questions. [Understanding must come before action](https://sarahsnewsletter.substack.com/p/what-substack-analytics-engineers). Understanding also helps us ask the right questions.
 
 ## Sensible Defaults
 
@@ -21,7 +21,7 @@
     - What features it's tracking via links to team repositories, project briefs, screenshots, or video walk-throughs.
   - Take-aways.
   - Metadata (owner, related OKRs, TTL, …).
-- Make them so its easy to go one layer down (X went down in Y location, or for Z new users, etc).
+- Make them so it's easy to go one layer down (X went down in Y location, or for Z new users, etc).
 - Recreate dashboard from first principles periodically.
 - When plotting a rate, add the top of funnel and bottom of funnel numbers to make sure things are as expected.
 - A large change is not necessarily worth investigating, and a small change is not necessarily benign. What you want to know is if the change is exceptional.

@@ -12,7 +12,7 @@
 - [Say "yes, and..." (accept ideas and build on top of them). Make other people feel good. Be positive (optimistic language)](https://youtu.be/VhkcmN-CCYw).
 - Favor interrogative-led questions over leading questions. A leading question attempts to get the [[Listening|listener]] to agree or disagree with a premise you feed to them. An interrogative-led question often begins with the words: who; where; what; when; why. "Did you like the movie?" vs "What did you think about the movie?".
 - Remember people's names. Humans want to be significant.
-- Not every topic is of equal interest to all humans. When you are in a converation with multiple people and know the conversation is steering back to a human who isn't listening, say their name.
+- Not every topic is of equal interest to all humans. When you are in a conversation with multiple people and know the conversation is steering back to a human who isn't listening, say their name.
 - Repeat the hard part when you don't understand. Or, repeat the last thing they said and add a question mark. Ask questions if you don't understand.
 - Dishonest Flattery while effective in some cases, will destroy you long term. If you are unable to find a compliment about another human being that is truthful, you're not trying hard enough.
 - In difficult conversations, keep in mind the ultimate purpose and [[Mindfulness|be calm]]. You don't need to win the conversation. Ensure safety. Control your emotions.
@@ -32,4 +32,4 @@
 - [Things to argue about over the holidays instead of politics](https://dynomight.net/arguments/). [More](https://dynomight.substack.com/p/arguments-2). And [even more](https://dynomight.substack.com/p/arguments-3).
 - Cognitive Reflection Test
 - What is your life default stress/drama level 1 to 10? Where are you now?
-- Why do people doesn't seem to know how to draw a bicycle?
+- Why do people not seem to know how to draw a bicycle?

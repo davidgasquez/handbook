@@ -35,7 +35,7 @@ More examples in the [Handbook of Handbooks](https://hackmd.io/@yHk1snI9T9SNpiFu
 - [Greaterthan](https://handbook.greaterthan.works/)
 - [Root Systems](https://github.com/root-systems/handbook)
 - [Life Itself](https://lifeitself.org/tao/)
-- [Campight](https://camplight.net/public/documents/guidebook.pdf)
+- [Camplight](https://camplight.net/public/documents/guidebook.pdf)
 - [CrispDNA](https://dna.crisp.se/docs/index.html)
 - [Disco.coop](https://manifesto.disco.coop/)
 - [IndieWeb](https://indieweb.org/)

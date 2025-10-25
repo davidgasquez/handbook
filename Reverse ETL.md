@@ -6,7 +6,7 @@
 
 - It provides a source of truth for all the tools: **the data warehouse**.
   - Each tool can use and share the same definitions, events, and properties.
-  - Tracking is less dependent of business rules.
+  - Tracking is less dependent on business rules.
   - Centralized tests can be added to validate assumptions.
   - It removes some tools limitations (e.g. Customer.io ways of doing segmentation, Pendo limitation on events cohort).
   - SQL Queries will return the same numbers than other BI tools like Mixpanel.
