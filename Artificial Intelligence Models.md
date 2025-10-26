@@ -67,9 +67,11 @@
 - Add relevant context to the prompt. Context can be external docs, a small pseudocode code example, etc. Adding lots of context can confuse the model, so be careful!
 - [Teach the agents to use tools](https://www.anthropic.com/engineering/claude-code-best-practices).
 - Be aware of the "cache" (e.g: never edit files manually during a session)
-- [Focus on building a rich environment with good tests, documentation, consistent patterns, and clear feature definitions - this helps both humans and AI work better](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/).
+- [Focus on building a rich environment with good and fasts tests, documentation, consistent patterns, and clear feature definitions - this helps both humans and AI work better](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/).
 - Balancing log verbosity is crucial. Informative yet concise logs optimize token usage and inference speed.
 - [You need quick and clear feedback loops](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) (fast tool responses, clean logs, ...).
+  - Give them the ability to interactively test the code they are writing too.
+- Linters, type checkers, auto-formatters - give coding agents helpful tools to run and they'll use them.
 - Prefer functions with clear, descriptive and longer than usual function names over classes. Avoid inheritance and overly clever hacks.
 - Write legible (text based) relevant content and link it with anything else (code, diagrams, ...).
 - Use a checklist. Plan, iterate, and refine.
