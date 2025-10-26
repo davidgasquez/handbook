@@ -24,7 +24,7 @@
 - Water (3 glasses)
 - Soy Milk (1 glass)
 - Protein Powder (5 tablespoons)
-- Coffe (6 tablespoons)
+- Coffee (6 tablespoons)
 
 ### Steps
 
@@ -45,7 +45,7 @@
 
 ### Steps
 
-1. Mix everything together until the dough is consistent. Let it rest at least for 2 hours, ideally something like 5 days. There are [different kind](https://youtu.be/ahxKAlbp6DU) of doughs.
+1. Mix everything together until the dough is consistent. Let it rest at least for 2 hours, ideally something like 5 days. There are [different kinds](https://youtu.be/ahxKAlbp6DU) of doughs.
 
 ## Pickling
 
@@ -62,7 +62,7 @@
 
 ### Steps
 
-- Mix the vinegar, water, sugar and salt together and get it to boil. Put everything else on a jar and let it sit for 1 day.
+- Mix the vinegar, water, sugar and salt together and get it to boil. Put everything else in a jar and let it sit for 1 day.
 
 ## Cold Brew
 
@@ -77,7 +77,7 @@
 
 1. Brew with a 1 part coffee to 8 parts water ratio.
 2. Use a coarse grind.
-3. Put the mix on the fridge from 24 to 96 hours.
+3. Put the mix in the fridge from 24 to 96 hours.
 
 ## Nachos
 

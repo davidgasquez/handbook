@@ -27,7 +27,7 @@ Decision making is the process we use to identify and choose alternatives, produ
 - Look for win-win decisions. If someone has to lose, you're not thinking hard enough or you need to make structural/[[Incentives]]/environmental changes. Avoid false dichotomies. When given two great options, choose both. When given two horrible options, choose neither. Think outside the box!
 - The rule of 5. Think about what the decision looks like 5 days, 5 weeks, 5 months, 5 years, 5 decades.
 - Flip your goal state with your current state, and ask if you would like to go back there. This helps you switch around any biases that might be influencing your decision-making.
-- Ask what information would cause you to change your mind. If you don't have that information, find it. If you do, track is religiously. **Collect [[Feedback]] and be open to change outcomes**.
+- Ask what information would cause you to change your mind. If you don't have that information, find it. If you do, track it religiously. **Collect [[Feedback]] and be open to change outcomes**.
 - We are all susceptible to bias, almost all the time. A way to detect bias and minimize the decision impact is to [run it by a bias checklist](https://www.businessinsider.com/read-this-checklist-before-you-make-any-decisions-2011-6?IR=T).
   - Noticing biases in others is easy, noticing biases in yourself is hard.
 - [There are many reasons why smart people may make a poor decision](https://nesslabs.com/decision-making); Overconfidence, Analysis paralysis, Information overload, Lack of emotional or physical resources, ...

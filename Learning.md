@@ -75,7 +75,7 @@
 ## Teaching
 
 - [Use **strictly positive reinforcement**. Frame unpleasant activities as "isn't X an exciting opportunity to make Y better"?](https://www.lesswrong.com/posts/Cf2xxC3Yx9g6w7yXN/notes-from-don-t-shoot-the-dog)
-- Keep **backchaining** in mind. Start from the end result and explain each step back and how it affects the next one. This helps connects the result with the required steps.
+- Keep **backchaining** in mind. Start from the end result and explain each step back and how it affects the next one. This helps connect the result with the required steps.
 - Show how is done before asking to do. **Monkey see**. **Monkey do**.
 
 ## Resources

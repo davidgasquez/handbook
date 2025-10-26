@@ -17,7 +17,7 @@
 - Exploring cities and judging them by 3 factors:
   - Number of people in a rush
   - Pigeons QoL
-  - Taxi cars brand
+  - Taxi car brands
 
 ## Resources
 

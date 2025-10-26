@@ -9,7 +9,7 @@
   - In the academic side, [Intro Theory by Dmiti Tymoczko](https://dmitri.mycpanel.princeton.edu/teaching.html). His course works on a much more fundamental level than any other music theory course.
 - [Study Music](https://github.com/vpavlenko/study-music) is a great GitHub repo with lots of music theory resources.
 
-## Youtube Channels
+## YouTube Channels
 
 - [Bill Hilton](https://www.youtube.com/user/billhiltonbiz)
 - [Nahre Sol](https://www.youtube.com/channel/UC8R8FRt1KcPiR-rtAflXmeg)

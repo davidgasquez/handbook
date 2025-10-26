@@ -2,7 +2,7 @@
 
 ![[Quotes#^396dbb]]
 
-- Select a theme and make sure everyone is in the same page.
+- Select a theme and make sure everyone is on the same page.
   - Organize your travel around passions instead of pure destinations.
 - Agree on a budget ballpark before planning. This will make decisions easier down the road.
   - Ensure you have similar budget expectations. This determines so many things! It's not just about paying equal share.
