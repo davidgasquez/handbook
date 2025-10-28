@@ -46,6 +46,7 @@
 - Consider new technologies or contrarian ideas, not just the conventional wisdom.
 - You may use high levels of speculation or prediction, just flag it for me.
 - Map out all the interconnected ideas around the core principles. What other topics, assumptions, or implications does it silently touch upon, challenge, or depend on?
+- [Now that you wrote the code, what would you do better?](https://x.com/steipete/status/1982563870138081790)
 
 ## Coding Tips
 
