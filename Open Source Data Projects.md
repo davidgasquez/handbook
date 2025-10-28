@@ -36,7 +36,7 @@
 - [Cloudfuse](https://github.com/cloudfuse-io)
 - [Flow](https://github.com/estuary/flow). Based on [Gazzette](https://github.com/gazette/core).
 
-## Orchestators
+## Orchestrators
 
 - [Dagster](https://www.dagster.io/)
 - [Prefect](https://www.prefect.io/)

@@ -4,7 +4,7 @@ Product analytics can be defined as the way companies analyze what their users a
 
 - [[Organizations]] want **visibility** into how their users use their products to make educated decisions on what they should be **improving and building**.
 - SQL is not the ideal tool for analyzing event data. Explorations into why users are doing a particular action requires **diving into the granular events themselves**.
-- [Start small (ant iterate), stay small (limit metrics and dashboards), and keep it simple (you can explain the metric in plain language)](https://twitter.com/0xferruccio/status/1501983388399325191).
+- [Start small (and iterate), stay small (limit metrics and dashboards), and keep it simple (you can explain the metric in plain language)](https://twitter.com/0xferruccio/status/1501983388399325191).
 - [Product analytics should be part of the product life-cycle the same way writing unit tests is](https://youtu.be/qK6vAJKh6fo). That is, without a middleman and having data involved from the start.
 - [Have one clear owner for: event implementation, QA, stakeholder buy-in on metrics from events. For each of these areas, ownership extends forever to make sure there are no regressions](https://twitter.com/sarahmk125/status/1521814508045582336).
 - Measure tracking quality and treat all tracking bugs as production incidents.

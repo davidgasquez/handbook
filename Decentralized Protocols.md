@@ -8,7 +8,7 @@
   - Consulting: open source the code, sell consulting.
   - Cloud: open source some code, but sell a closed source cloud complement.
   - [Community](https://mobile.twitter.com/balajis/status/1310101055816921090): open source all code, and issue a token or charge for access to the community.
-  - Open Source projects would have a protocol. You could buy shares of Kubernetes, Tensorflow, ... or contribute to gain tokens. This [[incentives]] contributing and helping people.
+  - Open Source projects would have a protocol. You could buy shares of Kubernetes, TensorFlow, ... or contribute to gain tokens. This [[incentives]] contributing and helping people.
   - [Many more](https://youtu.be/Axj8NJXnCN0)!
 - Tokens create new, scoped economies, and those economies enable new ways of organizing production and operation of goods and services. Because these economies are programmable, they can also embed and optimize for value systems and goals.
 - [Moving to protocols, not platforms](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech), is an approach for free speech in the twenty-first century. Rather than relying on a "marketplace of [[ideas]]" within an individual platform — which can be hijacked by those with malicious intent—protocols could lead to a marketplace of ideals, where competition occurs to provide better services that minimize the impact of those with malicious intent, without cutting off their ability to speak entirely.
@@ -29,7 +29,7 @@
   - Power-law distributions confer resilience to random failure but acute vulnerability to targeted attacks.
   - Networks cycle through randomness, growth, consolidation, and collapse.
   - Overlapping systems at different stages guard against monocultures and single points of failure.
-- One wallet / DID / private key could allow you to login to any service. That's your credentials. [[NFTs|Owning a thing]] could allow you to enter somewhere.
+- One wallet / DID / private key could allow you to log in to any service. That's your credentials. [[NFTs|Owning a thing]] could allow you to enter somewhere.
 - There should be no technical or social single-point-of-failure for the overall protocol and network. There should be no single organization or individual who can entirely exclude others from the ecosystem (though the ecosystem may collectively exclude bad actors). There should be multiple independent interoperating service providers for each infrastructure component.
 - [Open source protocols should favor composability over just about everything](https://youtu.be/TdBTJY-G8xs). Breaking big things into smaller things. This encourages experimentation at multiple levels.
   - Forking should be a right. Keeps authority contingent (if they abuse power, they might get forked).
@@ -72,7 +72,7 @@
 - [Credible exit](https://newsletter.squishy.computer/p/credible-exit) ensures users can leave a service without vendor lock-in by relying on open, decentralized protocols and interchange formats.
   - Decoupling identifiers from hosting (DNS, CIDs) enables seamless migration between providers by updating name mappings.
   - Federated protocols (email, Mastodon) support portability of social graphs and messages across services.
-  - Standard export/import formats (OMPL for podcasts, XML for WordPress) facilitate hostile interoperability.
+  - Standard export/import formats (OPML for podcasts, XML for WordPress) facilitate hostile interoperability.
   - Durable, universally useful formats (plain text, CSV, PNG, MP3) make data portable and usable outside the originating app.
   - Local-first storage and immutable data (CRDTs) support ongoing synchronization and avoid stale static exports.
   - Permissionless, open APIs and protocols allow multiple apps to interoperate without centralized lock-in.

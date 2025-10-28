@@ -10,7 +10,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely. Roy T. Bennett.
 - If you want to feel good, brainstorm it. If you want to appear good, test it. If you want to know if you're any good, ship it. Jason Fried.
 - Life doesn't get better. You get better at it. ^9748a6
-- It is not the things we do in life that we regret on our death bed. It is the things we do not. Randy Pausch. ^1b91f3
+- It is not the things we do in life that we regret on our deathbed. It is the things we do not. Randy Pausch. ^1b91f3
 - There is nothing so useless as doing efficiently that which should not be done at all. Peter Drucker.
 - Questions are places in your mind where answers fit. If you haven't asked the question, the answer has nowhere to go. It hits your mind and bounces right off. You have to ask the question – you have to want to know – in order to open up the space for the answer to fit. Clay Christiansen. ^c63c02
 - Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away. Antoine de Saint-Exupéry.
@@ -36,7 +36,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally. Robert M. Pirsig.
 - Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Richard Feynman.
 - There are no solutions. There are only trade-offs. Thomas Sowell. ^1f0d5b
-- It's not that life is short, it's that we waste to much of it. Seneca.
+- It's not that life is short, it's that we waste too much of it. Seneca.
 - Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in. Isaac Asimov.
 - Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you'll never be the same again. Steve Jobs.
 - A witty saying proves nothing. Voltaire.
@@ -53,7 +53,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - In preparing for battle I have always found that plans are useless, but planning is indispensable. Dwight D. Eisenhower. ^07c32d
 - Everyone you will ever meet knows something you don't. Your job is to discover what it is, and it won't be obvious. Bill Nye. ^307613
 - More effort is wasted doing things that don't matter than is wasted doing things inefficiently. Elimination is the highest form of optimization. James Clear.
-- Concensus is the process of abandoning all beliefs, principles, values, and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: I stand for consensus?. Margaret Thatcher.
+- Consensus is the process of abandoning all beliefs, principles, values, and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: I stand for consensus?. Margaret Thatcher.
 - If you cannot measure it, you cannot improve it.  Lord Kelvin. ^a5049d
 - Y es que en el mundo traidor nada hay verdad ni mentira: todo es según el color del cristal con que se mira. Ramón de Campoamor.
 - You either move information from one place to another, or you move mass from one place to another.

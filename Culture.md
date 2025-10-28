@@ -9,4 +9,4 @@
 - Times change, trends change, cultures change.
 - Foster a culture of [people who care](https://grantslatton.com/nobody-cares).
 - Culture conforms to the shape of communication. E.g: open, transparent communication fosters more trust and collaboration.
-- You get a good culture of people want to participate on it because is a good culture.
+- You get a good culture when people want to participate in it because it is a good culture.

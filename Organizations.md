@@ -9,7 +9,7 @@
   - [Put mechanisms that enable the organization to learn and adapt](https://www.remyevard.com/posts/2021/11/30/healthy-organizations.html).
 - _Culture, Coordination, and Capital_ are the foundation of your ability to have an impact on your mission.
 - Every company is a process, and processes may be decomposed into multiple smaller processes. Each process you look at will have outputs that you care about and inputs that you must discover.
-- A company may be looked as a combination of 3 things:
+- A company may be looked at as a combination of 3 things:
   - The people who work at the company.
   - The process the company uses to get work done.
   - The purpose for which the company exists.

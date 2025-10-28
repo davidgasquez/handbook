@@ -30,6 +30,6 @@
       - `geography_id`: Unique identifier for the geography
       - `date`: Date of the metric
       - `value`: Value of the metric
-  - `relationshipts`: Contains the relationships between entities. For example, Spain is composed of provinces, Madrid is a province, etc.
+  - `relationships`: Contains the relationships between entities. For example, Spain is composed of provinces, Madrid is a province, etc.
     - Relationships can also be temporal – valid for an interval defined by specific start and end dates.
   - `characteristics`: Descriptors of an entity that are temporal. They have a start date and end date.

@@ -16,7 +16,7 @@
 - Trust increases coordination. To increase trust:
   1. Repeat interactions.
   2. Look for possible win-wins.
-  3. Communicate clearly and [stablish common context](https://gestalt.cafe/trust-infrastructure/).
+  3. Communicate clearly and [establish common context](https://gestalt.cafe/trust-infrastructure/).
 - Trust is foundational to civilization, enabling coordination across time and distance. The internet has eroded traditional trust mechanisms by:
   - Reducing the surface area for trust-building
   - Expanding social contexts beyond our capacity to maintain relationships

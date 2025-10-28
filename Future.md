@@ -12,7 +12,7 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
 - The ignorance of Social Media and its [full impact on society](https://twitter.com/M_B_Petersen/status/1483457679800651787).
   - Is "being bad for society" an emergent property of social networks as they grow?
 - Current Voting Systems.
-- Not relying more into tools like Prediction Markets (e.g: [to spot papers that might not replicate](https://vitalik.eth.limo/general/2024/11/09/infofinance.html)).
+- Not relying more on tools like Prediction Markets (e.g: [to spot papers that might not replicate](https://vitalik.eth.limo/general/2024/11/09/infofinance.html)).
 
 ## Predictions
 
@@ -23,12 +23,12 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
 - Cities are friendly to humans & wildlife, not cars.
 - More experimentation around [[Learning]] and education (e.g: [teaching game theory](https://twitter.com/BoyanSlat/status/1469063939417907204) as a subject [in the modern curriculum](https://seths.blog/2021/09/the-modern-curriculum/))
   - More people aware of the trick our mind does to us ([Mind Field](https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2) and [The Story Of Us](https://waitbutwhy.com/2019/08/story-of-us.html)) as well as [how diverse humans are](https://youtu.be/fC5qucSk18w).
-  - More interactive explanations like the ones the awesome [Nicky Case](https://ncase.me/) do!
+  - More interactive explanations like the ones the awesome [Nicky Case](https://ncase.me/) does!
 - More concern around systems with weird incentives causing large amount of pain (Moloch).
-  - E.g: Criminal system rework. Focusing on the system and not on individual punishement.
+  - E.g: Criminal system rework. Focusing on the system and not on individual punishment.
 - Work valuation changes (plumbing more expensive than some software development) due to [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox). We will automate making a full app before a robot is able to master physical arms and legs like a 5 year old.
 - Open data will be more important as they can produce better models and help coordinate people providing shared context.
-- The current decentralized protocols (IPFS, ActivityPub, ...) need to evolve more. Specially around UX. People don't care about decentralization, they care about UX. [Centralization is inevitable](https://newsletter.squishy.computer/p/centralization-is-inevitable).
+- The current decentralized protocols (IPFS, ActivityPub, ...) need to evolve more. Especially around UX. People don't care about decentralization, they care about UX. [Centralization is inevitable](https://newsletter.squishy.computer/p/centralization-is-inevitable).
 
 ### Exciting Software Engineering Ideas
 
@@ -36,7 +36,7 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
   - If you work in tech, this is a fun thought experiment. Imagine you don’t need any money and can devote your time to benefiting everyone by building common digital infrastructure. What would exist in a better future?
 - Content Addressed Data + Immutability
 - CRDTs
-- WASM. Specially Pyodide.
+- WASM. Especially Pyodide.
 - Distributed / decentralized data storage systems.
 - Multi-party computation (MPC), fully homomorphic encryption (FHE), trusted execution environments (TEEs), ...
 - Prolly/Merkle Trees

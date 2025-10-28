@@ -5,7 +5,7 @@ Some great sci-fi reads I've enjoyed:
 - The Last Question. Asimov.
 - Project Hail Mary. Andy Weir.
 - Exhalation and Story of Your Life. Ted Chiang.
-- Flowes for Algernon. Daniel Keyes.
+- Flowers for Algernon. Daniel Keyes.
 - [The Egg](http://www.galactanet.com/oneoff/theegg_mod.html). Andy Weir.
 - [The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html). Marc Stiegler.
 - The Three Body Problem. Liu Cixin.

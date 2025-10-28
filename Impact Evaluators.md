@@ -14,7 +14,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Impact evaluation should be done by the community at the local level.
     - E.g: "Developers" in OSO filter for GitHub accounts with more than 5 commits. Communities might or might not align with that metric.
   - Focus on positive sum games and mechanisms.
-  - Small groups enable iterated games that reward trust and penalize defection. Reduced size reduce friction.
+  - Small groups enable iterated games that reward trust and penalize defection. Reduced size reduces friction.
   - Have a deadline or something like that so it fades away if it's not working or actively used.
   - [The McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy). Never choose metrics on the basis of what is easily measurable over what is meaningful. Data is inherently objectifying and naturally reduces complex conceptions and process into coarse representations. There's a certain fetish for data that can be quantified.
   - Cultivate a culture which welcomes experimentation.
@@ -24,23 +24,23 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Use the feedback to refine and improve the system.
   - Prioritize consent and community feedback.
   - Community should steer the ship.
-  - You want a reactive and self balancing system. Loops where one parts reacts the other parts.
+  - You want a reactive and self-balancing system. Loops where one part reacts to the other parts.
     - Feedback loop with the errors of the previous round.
   - Design a democratic control that reacts to feedback.
   - Allow people to express themselves as much as they want.
     - E.g: an expert can give very precise feedback/knowledge/weights to a set of projects, while a community member can give a more general feedback.
-  - Which algorithm is the best assigning weights is not the best question.
+  - Which algorithm is the best at assigning weights is not the best question.
     - What would you change about the algorithm?
     - What would you change about the process?
 - **Communities usually lack important information to fund public goods**
-  - [Every community and institutions wants to see a better, more responsive and dynamic provision of public goods within them, usually lack information about which goods have the greatest value and know quite a bit about social structure internally which would allow them to police the way GitCoin has in the domains it knows](https://gov.gitcoin.co/t/a-vision-for-a-pluralistic-civilizational-scale-infrastructure-for-funding-public-goods/9503/11).
+  - [Communities and institutions want to see a better, more responsive and dynamic provision of public goods within them but usually lack information about which goods have the greatest value and know quite a bit about social structure internally which would allow them to police the way GitCoin has in the domains it knows](https://gov.gitcoin.co/t/a-vision-for-a-pluralistic-civilizational-scale-infrastructure-for-funding-public-goods/9503/11).
   - Impact Evaluators act as a framework for information gathering and can help communities make better decisions.
   - [[Open Data]] Platforms for the community to gather better data and make better decisions.
 - **Simplicity as a principle**.
   - [The simpler a mechanism, the less space for hidden privilege](https://vitalik.eth.limo/general/2020/09/11/coordination.html).
   - Fewer parameters mean more resistance to corruption and overfit and more people engaging.
   - Fix rules to keep things simple and easy to play. Opinionated framework with sane defaults!
-  - Demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests
+  - Demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests.
   - Don't write specific people or outcomes into the mechanism (e.g: using multiple accounts)
 - **Build anti-Goodhart resilience**.
   - Any metric used for decisions [becomes subject to gaming pressures](https://en.wikipedia.org/wiki/Campbell%27s_law).
