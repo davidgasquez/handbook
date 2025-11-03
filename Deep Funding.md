@@ -68,3 +68,28 @@ In its current shape, the graph's vertices are projects and the edges are the re
 - Self declaration needs a "contest process" to resolve issues/abuse.
 - Harberger Tax on self declarations? Bayesian Truth Serum for Weight Elicitation?
   - Projects continuously auction off "maintenance contracts" where funders bid on keeping projects maintained. The auction mechanism reveals willingness-to-pay for continued operation. Dependencies naturally emerge as projects that lose maintenance see their dependents bid up their contracts.
+
+## Open Problems
+
+- Unreliable juror evidence (low statistical power & consistency)
+  - Very few edges achieve statistical significance
+  - The noise makes any downstream model "garbage‑in, garbage‑out"
+  - How to incentivice good jurors?
+  - How to deal with messy jurors?
+  - Intensity scoring in pairwise comparisons
+    - Asking jurors "how much better" introduces order‑dependence and scale mismatch (e.g., 999× vs 100× for the same comparison)
+- Dependency graph accuracy, completeness, and adversarial behavior
+  - How to keep the graph up to date?
+- Process transparency, openness, and reproducibility
+  - Who chooses the aggregation formula?
+- Temporal drift (dependencies and preferences)
+  - Snapshots get out of date
+  - Jurors evalaute projects that have changed
+- Scalability to large graphs
+  - With hundreds of nodes, assigning a reasonable score to a random project requires local link structure...
+  - How to speed up the data gathering process?
+- Incentive design for participants
+  - Static, concentrated rewards don’t encourage edge‑case discovery or diversity of modeling approaches.
+- Fitness of the Deep Funding approach
+  - How is the final distribution evaluated?
+  - Falsifiable hypothesis to verify the weights are correct
