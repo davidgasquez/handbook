@@ -44,6 +44,8 @@ In its current shape, the graph's vertices are projects and the edges are the re
 - Have hypercerts or similar. The price of these (total value) sets the weights across dependencies (`numpy`'s certificates trade at 3x the price of a utility library, the edge weight reflects this)
 - If there are reviewers/validators/jurors, need to be public so they have some sort of reputation.
   - Reputation system / ELO for Jurors which score is closer to the final one. This biases towards averages.
+  - Account for Jurors biases with Hierarchical Bradley Terry or similar.
+  - Allow anyone to be a juror, select jurors based on their skills.
 - Stake based flow:
   - Anyone can propose a new edge, and anyone can stake money on that. If they get funding, you get rewarded. Could be also quadratic voting style where you vouch for something.
   - Should the edge weights/stake decay over time unless refreshed by new attestations?
