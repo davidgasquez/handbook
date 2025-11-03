@@ -87,6 +87,7 @@ In its current shape, the graph's vertices are projects and the edges are the re
   - How to keep the graph up to date?
 - Process transparency, openness, and reproducibility
   - Who chooses the aggregation formula?
+    - Why not Bradley-Terry (RLHF style)?
   - What is the best metric to compute distances?
   - The process is sensitive to irrelevant changes (e.g: updating some parameter on the data pipeline changes the leaderboard considerably)
 - Temporal drift (dependencies and preferences)
@@ -100,3 +101,4 @@ In its current shape, the graph's vertices are projects and the edges are the re
 - Fitness of the Deep Funding approach
   - How is the final distribution evaluated?
   - Falsifiable hypothesis to verify the weights are correct
+  - If the goal of pattern recognition was to classify objects in a scene, it made sense to score an algorithm by how often it succeeded in doing so. The goal of Deep Funding is to develop allocate resources to public goods that rivals how private goods are funded, how do we measyre success?
