@@ -30,6 +30,11 @@ In its current shape, the graph's vertices are projects and the edges are the re
 
 ## Ideas
 
+- Used juror data as the human feedback side of RLHF
+  - Mix this with a [social choice perspective](https://iclr.cc/virtual/2024/invited-talk/21799). Benchmarks are the aggregation of "votes" to choose the best models. Arrow's impossibility theorem works here though!
+  - Create models/mechanisms that fill the graph using whatever techniques they want.
+  - Then, evaluate (or even tune) these models based on the jurors data.
+  - Jurors vote on the models themselves by looking at their results and comparing models between them.
 - Let the dependent set their weight percentage if they're around.
 - The most elegant mechanism is probably something like a [prediction markets](https://docs.fileverse.io/0x7248Fe92e7087d02D3604396b057295026FC62A1/49#key=DgfQgJ-bCAVr0NNFU0vp1HNW_Sh23GVieRmA_QXsDbHIRVyhv37c1XnOBM8lW6PT).
   - Solves the current issues there of missing dependencies (due to technical issues or because they're more abstract), preference drift, adversarial situations, ...
@@ -82,6 +87,8 @@ In its current shape, the graph's vertices are projects and the edges are the re
   - How to keep the graph up to date?
 - Process transparency, openness, and reproducibility
   - Who chooses the aggregation formula?
+  - What is the best metric to compute distances?
+  - The process is sensitive to irrelevant changes (e.g: updating some parameter on the data pipeline changes the leaderboard considerably)
 - Temporal drift (dependencies and preferences)
   - Snapshots get out of date
   - Jurors evalaute projects that have changed
