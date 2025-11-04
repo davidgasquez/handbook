@@ -35,6 +35,7 @@ In its current shape, the graph's vertices are projects and the edges are the re
   - Create models/mechanisms that fill the graph using whatever techniques they want
   - Then, evaluate (or even tune) these models based on the juror data
   - Jurors vote on the models themselves by looking at their results and comparing models between them
+  - Split pairs into calibration and test sets (or do K-fold CV), fit each mechanism's 𝜏 on calibration, then compare negative log-likelihood on test. Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful.
 - Let the dependent set their weight percentage if they're around
 - The most elegant mechanism is probably something like a [prediction market](https://docs.fileverse.io/0x7248Fe92e7087d02D3604396b057295026FC62A1/49#key=DgfQgJ-bCAVr0NNFU0vp1HNW_Sh23GVieRmA_QXsDbHIRVyhv37c1XnOBM8lW6PT)
   - Solves the current issues there of missing dependencies (due to technical issues or because they're more abstract), preference drift, adversarial situations, ...
@@ -85,6 +86,7 @@ In its current shape, the graph's vertices are projects and the edges are the re
   - How to deal with messy jurors?
   - Intensity scoring in pairwise comparisons
     - Asking jurors "how much better" introduces order‑dependence and scale mismatch (e.g., 999× vs 100× for the same comparison)
+  - Are there beter methods to derive weights from [noisy pairwise comparisons](https://arxiv.org/abs/2510.09333) ([from multiple annotators](https://arxiv.org/abs/1612.04413))?
 - Dependency graph accuracy, completeness, and adversarial behavior
   - How to keep the graph up to date?
 - Process transparency, openness, and reproducibility
@@ -97,7 +99,7 @@ In its current shape, the graph's vertices are projects and the edges are the re
   - Jurors evaluate projects that have changed
 - Scalability to large graphs
   - With hundreds of nodes, assigning a reasonable score to a random project requires local link structure...
-  - How to speed up the data gathering process?
+  - How to [speed up the data gathering process](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-6/Active-ranking-from-pairwise-comparisons-and-when-parametric-assumptions-do/10.1214/18-AOS1772.pdf)?
 - Incentive design for participants
   - Static, concentrated rewards don’t encourage edge‑case discovery or diversity of modeling approaches.
 - Fitness of the Deep Funding approach
