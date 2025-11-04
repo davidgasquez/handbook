@@ -9,7 +9,8 @@ In Deep Funding, multiple mechanisms work together:
   1. Aggregating human preferences (polls, pairwise comparisons, ...)
   2. Using prediction markets
   3. Getting weights from an AI model
-  4. Having experts fill weights manually
+  4. Collaborative Filtering
+  5. Having experts fill weights manually
 3. A mechanism that takes that weight vector as input and distributes money to the projects
 
 This problem touches data, mechanism design, and open source! Also, each layer can be optimized and iterated independently.
@@ -67,19 +68,25 @@ After participating in the ML competition and Prediction Market, and doing a few
 
 ## Ideas
 
+### Alternative Approach
+
+Given the current open problems, this is interesting and alternative way of running a Deep Funding "round". The gist of the idea is to **use only a few significant data points to choose and reward the final models** instead of deriving weights for the entire set of childs/dependencies of a project.
+
+Like in the current setup, a DAG of projects is needed. The organizers publish that and also an encoded list of projects that will be evaluated by Jurors. Participants can only see the DAG, the "evaluated projects" will be revealed at the end.
+
+Once participans have worked on their models and send/trade their predictions, the "evaluated project" list is revealed and only those projects are used to evaluate predictions. The question here is... how can we evaluate only a few projects without jurors giving a connected graph to the rest of the projects? You can use metrics like the [Brier score](https://en.wikipedia.org/wiki/Brier_score) or using Bradley Terry to evaluating a pre-given mechanism's scores ([in that case you're fitting just a single global scale or temperature parameter to minimize negative log-likelihood](https://apxml.com/courses/rlhf-reinforcement-learning-human-feedback/chapter-3-reward-modeling-human-preferences/reward-model-calibration))!
+
+The task of the organizers is to gather pairwise comparisons to make this subset significant, which is much simpler and feasible than doing it so for the entire dependencies of a node (can be 128). For example, we can estimate that to get a 10% relative error on the weights, we would need ~600 efficiently sampled pairs. Compare that with the 2000 needed to get a 20% relative error on 128 items.
+
+### More Ideas
+
 - There are beter methods to derive weights from [noisy pairwise comparisons](https://arxiv.org/abs/2510.09333) ([from multiple annotators](https://arxiv.org/abs/1612.04413))
 - Use active ranking or dueling bandits to [speed up the data gathering process](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-6/Active-ranking-from-pairwise-comparisons-and-when-parametric-assumptions-do/10.1214/18-AOS1772.pdf)
-- Use juror data as the human feedback side of RLHF
-  - Mix this with a [social choice perspective](https://iclr.cc/virtual/2024/invited-talk/21799). Benchmarks are the aggregation of "votes" to choose the best models. Arrow's impossibility theorem works here though!
-  - Create models/mechanisms that fill the graph using whatever techniques they want
-  - Then, evaluate (or even tune) these models based on the juror data
-  - Jurors vote on the models themselves by looking at their results and comparing models between them
-  - Split pairs into calibration and test sets (or do K-fold CV), fit each mechanism's 𝜏 on calibration, then compare negative log-likelihood on test. Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful
-- If anyone can rate you can remove low quality raters with heuristics or pick only the best N raters (crowd BT)
+- Do some post processing to the weights:
+  - Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful
+  - If gaps are not statistically meaninfull, bucket rewards (using Zipf's law) so it feels fair
+- If anyone (or jury selection is more relaxed) can rate you can remove low quality raters with heuristics or pick only the best N raters (crowd BT)
 - Let the dependent set their weight percentage if they're around
-- The most elegant mechanism is probably something like a [prediction market](https://docs.fileverse.io/0x7248Fe92e7087d02D3604396b057295026FC62A1/49#key=DgfQgJ-bCAVr0NNFU0vp1HNW_Sh23GVieRmA_QXsDbHIRVyhv37c1XnOBM8lW6PT)
-  - Solves the current issues there of missing dependencies (due to technical issues or because they're more abstract), preference drift, adversarial situations, ...
-  - Replaces the "Collecting accurate project dependencies" issue with an ongoing market
 - Instead of one canonical graph, allow different stakeholder groups (developers, funders, users) to maintain their own weight overlays on the same edge structure. Aggregate these views using quadratic or other mechanisms
 - If there is a plurality of these "dependency graphs" (or just different set of weights), the funding organization can choose which one to use! The curators gain a % of the money for their service. This creates a market-like mechanism that incentivizes useful curation.
 - Have hypercerts or similar. The price of these (total value) sets the weights across dependencies (`numpy`'s certificates trade at 3x the price of a utility library, the edge weight reflects this)
@@ -96,12 +103,6 @@ After participating in the ML competition and Prediction Market, and doing a few
 - Doing [something similar to Ecosyste.ms](https://blog.ecosyste.ms/2025/04/04/ecosystem-funds-ga.html) might be a better way
   - A curated set of repositories. You fund that dependency graph + weights.
   - Could be done looking at the funding or license (if there is a license to declare your deps).
-- Graph Completion (Scaling Human Judgement) might be done in different ways:
-  - Constraint-Based Optimization (`scipy.optimize.minimize`)
-  - Collaborative Filtering (like a recommendation system where you're predicting weights between nodes)
-  - Matrix Factorization (NMF)
-  - Prediction Markets
-  - AIs
 - Run the mechanism on "eras" / batches so the graph changes and the weights evolve.
 - How to expand to a graph of dependencies that are not only code?
   - Academic papers and research that influenced design decisions
