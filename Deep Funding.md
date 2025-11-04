@@ -89,6 +89,7 @@ The task of the organizers is to [gather pairwise comparisons to make this subse
   - Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful
   - If gaps are not statistically meaninfull, bucket rewards (using Zipf's law) so it feels fair
 - If anyone (or jury selection is more relaxed) can rate you can remove low quality raters with heuristics or pick only the best N raters (crowd BT)
+- How would things look like if they were Bayesian instead of [classic Bradley-Terry](https://gwern.net/resorter)? Since comparisons are noisy and we have unreliable jurors, can we [compute distributions instead of "skills"](https://github.com/max-niederman/fullrank)?
 - Let the dependent set their weight percentage if they're around
 - Instead of one canonical graph, allow different stakeholder groups (developers, funders, users) to maintain their own weight overlays on the same edge structure. Aggregate these views using quadratic or other mechanisms
 - If there is a plurality of these "dependency graphs" (or just different set of weights), the funding organization can choose which one to use! The curators gain a % of the money for their service. This creates a market-like mechanism that incentivizes useful curation.
