@@ -35,7 +35,8 @@ In its current shape, the graph's vertices are projects and the edges are the re
   - Create models/mechanisms that fill the graph using whatever techniques they want
   - Then, evaluate (or even tune) these models based on the juror data
   - Jurors vote on the models themselves by looking at their results and comparing models between them
-  - Split pairs into calibration and test sets (or do K-fold CV), fit each mechanism's 𝜏 on calibration, then compare negative log-likelihood on test. Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful.
+  - Split pairs into calibration and test sets (or do K-fold CV), fit each mechanism's 𝜏 on calibration, then compare negative log-likelihood on test. Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful
+- If anyone can rate you can remove low quality raters with heuristics or pick only the best N raters (crowd BT)
 - Let the dependent set their weight percentage if they're around
 - The most elegant mechanism is probably something like a [prediction market](https://docs.fileverse.io/0x7248Fe92e7087d02D3604396b057295026FC62A1/49#key=DgfQgJ-bCAVr0NNFU0vp1HNW_Sh23GVieRmA_QXsDbHIRVyhv37c1XnOBM8lW6PT)
   - Solves the current issues there of missing dependencies (due to technical issues or because they're more abstract), preference drift, adversarial situations, ...
