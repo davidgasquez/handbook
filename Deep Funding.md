@@ -6,11 +6,11 @@ In Deep Funding, multiple mechanisms work together:
 
 1. A mechanism that generates an up-to-date and comprehensive DAG of relevant dependencies given a source node
 2. A mechanism that fills the graph with relevant weights. These weights represent the latent item utilities. There can be many ways of getting to them!
-  1. Aggregating human preferences (polls, pairwise comparisons, ...)
-  2. Using prediction markets
-  3. Getting weights from an AI model
-  4. Collaborative Filtering
-  5. Having experts fill weights manually
+  - Aggregating human preferences (polls, pairwise comparisons, ...)
+  - Using prediction markets
+  - Getting weights from an AI model
+  - Collaborative Filtering
+  - Having experts fill weights manually
 3. A mechanism that takes that weight vector as input and distributes money to the projects
 
 This problem touches data, mechanism design, and open source! Also, each layer can be optimized and iterated independently.
