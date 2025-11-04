@@ -78,7 +78,7 @@ Once participans have worked on their models and send/trade their predictions, t
 
 Once the best model is chosen, the same pairwise comparisons can be used [to adjust the scale of the weight distribution](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf). That means the market resolution uses only the subset (for payouts to traders) but the funding distribution uses the model's global ranking with its probabilities calibrated to the subset via a single scalar 𝑎 that pins the entire slate to the same scale that was verified by real judgments. The jurors pairwise comparisons can even be "merged" with the best model to incorporate all data in there.
 
-The task of the organizers is to [gather pairwise comparisons to make this subset significant](https://arxiv.org/pdf/1505.01462), which is much simpler and feasible than doing it so for the entire dependencies of a node (can be 128). For example, we can estimate that to get a 10% relative error on the weights, we would need ~600 [efficiently sampled pairs](https://arxiv.org/abs/2302.13507). Compare that with the 2000 needed to get a 20% relative error on 128 items.
+The task of the organizers is to [gather pairwise comparisons to make this subset significant](https://arxiv.org/pdf/1505.01462), which is much simpler and feasible than doing it so for the entire dependencies of a node (can be 128). For example, we can estimate that to get a 10% relative error on the weights, we would need ~600 [efficiently sampled pairs](https://arxiv.org/abs/2302.13507) ([or approximate rankings](https://proceedings.mlr.press/v84/heckel18a.html)). Compare that with the 2000 needed to get a 20% relative error on 128 items.
 
 ### More Ideas
 
