@@ -4,11 +4,11 @@ The goal of [Deep Funding](https://deepfunding.org/) is to develop a system that
 
 In Deep Funding, multiple mechanisms work together:
 
-1. A mechanism that generates an up-to-date and comprehensive DAG of relevant dependencies given a source node.
-2. Another mechanism that fills the graph with relevant weights. This might be broken down into:
-  1. Collecting human judgement accurately.
-  2. Scaling Human Judgement to fill the rest of the graph. This can be something like a [prediction market](https://ethresear.ch/t/deep-funding-a-prediction-market-for-open-source-dependencies/23101), an AI model, ... Basically anything that predicts the human judgement.
-3. Reward Distribution.
+1. A mechanism that generates an up-to-date and comprehensive DAG of relevant dependencies given a source node
+2. A mechanism that fills the graph with relevant weights. For example:
+  1. Aggregating human preferences
+  2. Scaling Human Judgement to fill the rest of the graph. This can be something like a [prediction market](https://ethresear.ch/t/deep-funding-a-prediction-market-for-open-source-dependencies/23101), an AI model, ...
+3. A mechanism that takes that weight vector as input and distributes money to the projects
 
 This problem touches data, mechanism design, and open source! Each layer can be optimized and iterated independently.
 
