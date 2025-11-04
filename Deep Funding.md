@@ -5,12 +5,14 @@ The goal of [Deep Funding](https://deepfunding.org/) is to develop a system that
 In Deep Funding, multiple mechanisms work together:
 
 1. A mechanism that generates an up-to-date and comprehensive DAG of relevant dependencies given a source node
-2. A mechanism that fills the graph with relevant weights. For example:
-  1. Aggregating human preferences
-  2. Scaling Human Judgement to fill the rest of the graph. This can be something like a [prediction market](https://ethresear.ch/t/deep-funding-a-prediction-market-for-open-source-dependencies/23101), an AI model, ...
+2. A mechanism that fills the graph with relevant weights. These weights represent the latent item utilities. There can be many ways of getting to them!
+  1. Aggregating human preferences (polls, pairwise comparisons, ...)
+  2. Using prediction markets
+  3. Getting weights from an AI model
+  4. Having experts fill weights manually
 3. A mechanism that takes that weight vector as input and distributes money to the projects
 
-This problem touches data, mechanism design, and open source! Each layer can be optimized and iterated independently.
+This problem touches data, mechanism design, and open source! Also, each layer can be optimized and iterated independently.
 
 In its current shape, the graph's vertices are projects and the edges are the relative impact of each project in its parent. The same approach could be used for anything that matches the graph shape (e.g: science research).
 
@@ -28,8 +30,45 @@ In its current shape, the graph's vertices are projects and the edges are the re
   - Skin in the Game. Participants have something to lose from bad assessments
 - Project Independence (no need to participate in the process to get funded)
 
+## Current Approach
+
+So far, Deep Funding has been implemented like this:
+
+1. A list of projects is choosen. This is usually provided by an external entity or process (e.g: the [best model from the ML competition](https://cryptopond.xyz/modelfactory/detail/2564617) choose the next 100 projects). So far a DAG/graph structure has not been needed since all projects have been compared for their impact on the "Ethereum Ecosystem".
+2. Jurors do pairwise comparisons between projects. An aggregation method is choosen (Huber loss, L2 norm in log space, ...) to derive the "ground truth" relative project weights.
+3. An ML competition and [a Prediction Market](https://ethresear.ch/t/deep-funding-a-prediction-market-for-open-source-dependencies/23101) are kicked off. Modelers and traders are evaluated against a holdout set of pairwise comparisons.
+4. Partitipants are rewarded based on how close they get to the "jurors' ground truth".
+
+### Open Problems
+
+After participating in the ML competition and Prediction Market, and doing a few deep dives into the data and methodology, I think these are the main open problems.
+
+- **Juror Reliability**
+  - So far, expert juror's pairwise comparisons have been inconsistent, noisy, and low in statistical power
+  - Getting comparisons has been quite expensive in time and resources
+  - Asking jurors "how much better" introduces order‑dependence and scale mismatch
+  - Messy jurors have [disproportionate impact on the weights](https://davidgasquez.github.io/deepfunding-trial-data-analysis/#-robustness-checks)
+  - Weights are not consistent due to the limited amount of data collected and the variance on it
+  - Large graphs (hundreds of projects) make getting accurate weights from the pairwise evaluation infeasible
+- **Mechanism Settings**
+  - Some parameters have a large effect and haven't been adjusted
+  - The aggregation formula (huber, log loss, bradley terry, ...) has a very large impact on both modelers/traders and project rewards
+  - Need more process around who chooses the aggregation formula and why is choosen
+  - In the pilot (huber loss), some projects got weights on a scale jurors didn't feel reasonable (e.g: EIPs repo got 30%)
+  - The prediction market might cause good modelers to not participate as time of entry is more important than having a good model
+- **Weights Evaluation**
+  - [How do we measure success?](https://davidgasquez.com/weight-allocation-mechanism-evals/) If the goal of pattern recognition was to classify objects in a scene, it made sense to score an algorithm by how often it succeeded in doing so. What is the equivalent for Deep Funding?
+  - Once the weights are set, there isn't [a process to evaluate how "fit" those are](https://davidgasquez.com/weight-allocation-mechanism-evals/)
+    - E.g: the current idea is to gather a connected graph of pairwise comparisons, why not use that to reward projects directly and skip the Prediction Market?
+  - We need a falsifiable hypotheses to validate Deep Funding is "better"
+- **Graph Maintenance**
+  - If the process takes a few weeks, the weights might change significally (e.g: a project releases a major version)
+  - Jurors are also affected by temporal drift and their preferences evolve over time
+
 ## Ideas
 
+- There are beter methods to derive weights from [noisy pairwise comparisons](https://arxiv.org/abs/2510.09333) ([from multiple annotators](https://arxiv.org/abs/1612.04413))
+- Use active ranking or dueling bandits to [speed up the data gathering process](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-6/Active-ranking-from-pairwise-comparisons-and-when-parametric-assumptions-do/10.1214/18-AOS1772.pdf)
 - Use juror data as the human feedback side of RLHF
   - Mix this with a [social choice perspective](https://iclr.cc/virtual/2024/invited-talk/21799). Benchmarks are the aggregation of "votes" to choose the best models. Arrow's impossibility theorem works here though!
   - Create models/mechanisms that fill the graph using whatever techniques they want
@@ -77,33 +116,3 @@ In its current shape, the graph's vertices are projects and the edges are the re
 - Self declaration needs a "contest process" to resolve issues/abuse.
 - Harberger Tax on self declarations? Bayesian Truth Serum for Weight Elicitation?
   - Projects continuously auction off "maintenance contracts" where funders bid on keeping projects maintained. The auction mechanism reveals willingness-to-pay for continued operation. Dependencies naturally emerge as projects that lose maintenance see their dependents bid up their contracts
-
-## Open Problems
-
-- Unreliable juror evidence (low statistical power & consistency)
-  - Very few edges achieve statistical significance
-  - The noise makes any downstream model "garbage‑in, garbage‑out"
-  - How to incentivize good jurors?
-  - How to deal with messy jurors?
-  - Intensity scoring in pairwise comparisons
-    - Asking jurors "how much better" introduces order‑dependence and scale mismatch (e.g., 999× vs 100× for the same comparison)
-  - Are there beter methods to derive weights from [noisy pairwise comparisons](https://arxiv.org/abs/2510.09333) ([from multiple annotators](https://arxiv.org/abs/1612.04413))?
-- Dependency graph accuracy, completeness, and adversarial behavior
-  - How to keep the graph up to date?
-- Process transparency, openness, and reproducibility
-  - Who chooses the aggregation formula?
-    - Why not Bradley-Terry (RLHF style)?
-  - What is the best metric to compute distances?
-  - The process is sensitive to irrelevant changes (e.g: updating some parameter on the data pipeline changes the leaderboard considerably)
-- Temporal drift (dependencies and preferences)
-  - Snapshots get out of date
-  - Jurors evaluate projects that have changed
-- Scalability to large graphs
-  - With hundreds of nodes, assigning a reasonable score to a random project requires local link structure...
-  - How to [speed up the data gathering process](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-6/Active-ranking-from-pairwise-comparisons-and-when-parametric-assumptions-do/10.1214/18-AOS1772.pdf)?
-- Incentive design for participants
-  - Static, concentrated rewards don’t encourage edge‑case discovery or diversity of modeling approaches.
-- Fitness of the Deep Funding approach
-  - How is the final distribution evaluated?
-  - Falsifiable hypothesis to verify the weights are correct
-  - If the goal of pattern recognition was to classify objects in a scene, it made sense to score an algorithm by how often it succeeded in doing so. The goal of Deep Funding is to allocate resources to public goods in a way that rivals how private goods are funded, how do we measure success?
