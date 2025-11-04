@@ -4,10 +4,10 @@ The goal of [Deep Funding](https://deepfunding.org/) is to develop a system that
 
 In Deep Funding, multiple mechanisms work together:
 
-1. A mechanism that generates an up to date and comprehensive DAG of relevant dependencies given a source node.
+1. A mechanism that generates an up-to-date and comprehensive DAG of relevant dependencies given a source node.
 2. Another mechanism that fills the graph with relevant weights. This might be broken down into:
   1. Collecting human judgement accurately.
-  2. Scaling Human Judgement to fill the rest of the graph. This can be something like a prediction market, an AI model, ... Basically anything that predicts the human judgement
+  2. Scaling Human Judgement to fill the rest of the graph. This can be something like a [prediction market](https://ethresear.ch/t/deep-funding-a-prediction-market-for-open-source-dependencies/23101), an AI model, ... Basically anything that predicts the human judgement.
 3. Reward Distribution.
 
 This problem touches data, mechanism design, and open source! Each layer can be optimized and iterated independently.
@@ -30,24 +30,24 @@ In its current shape, the graph's vertices are projects and the edges are the re
 
 ## Ideas
 
-- Used juror data as the human feedback side of RLHF
+- Use juror data as the human feedback side of RLHF
   - Mix this with a [social choice perspective](https://iclr.cc/virtual/2024/invited-talk/21799). Benchmarks are the aggregation of "votes" to choose the best models. Arrow's impossibility theorem works here though!
   - Create models/mechanisms that fill the graph using whatever techniques they want.
-  - Then, evaluate (or even tune) these models based on the jurors data.
+  - Then, evaluate (or even tune) these models based on the juror data.
   - Jurors vote on the models themselves by looking at their results and comparing models between them.
 - Let the dependent set their weight percentage if they're around.
-- The most elegant mechanism is probably something like a [prediction markets](https://docs.fileverse.io/0x7248Fe92e7087d02D3604396b057295026FC62A1/49#key=DgfQgJ-bCAVr0NNFU0vp1HNW_Sh23GVieRmA_QXsDbHIRVyhv37c1XnOBM8lW6PT).
+- The most elegant mechanism is probably something like a [prediction market](https://docs.fileverse.io/0x7248Fe92e7087d02D3604396b057295026FC62A1/49#key=DgfQgJ-bCAVr0NNFU0vp1HNW_Sh23GVieRmA_QXsDbHIRVyhv37c1XnOBM8lW6PT).
   - Solves the current issues there of missing dependencies (due to technical issues or because they're more abstract), preference drift, adversarial situations, ...
   - Replaces the "Collecting accurate project dependencies" issue with an ongoing market
 - Instead of one canonical graph, allow different stakeholder groups (developers, funders, users) to maintain their own weight overlays on the same edge structure. Aggregate these views using quadratic or other mechanisms.
-- If there is a plurality of these "dependency graphs" (or just different set of weights), the funding organization can choose which one to use! The curators gain a % of the money for their service. This creates a market like mechanism that incentivizes useful curation.
+- If there is a plurality of these "dependency graphs" (or just different set of weights), the funding organization can choose which one to use! The curators gain a % of the money for their service. This creates a market-like mechanism that incentivizes useful curation.
 - Have hypercerts or similar. The price of these (total value) sets the weights across dependencies (`numpy`'s certificates trade at 3x the price of a utility library, the edge weight reflects this)
 - If there are reviewers/validators/jurors, need to be public so they have some sort of reputation.
-  - Reputation system / ELO for Jurors which score is closer to the final one. This biases towards averages.
-  - Account for Jurors biases with Hierarchical Bradley Terry or similar.
+  - Reputation system / ELO for Jurors whose score is closer to the final one. This biases towards averages.
+  - Account for jurors' biases with Hierarchical Bradley Terry or similar.
   - Allow anyone to be a juror, select jurors based on their skills.
-- Stake based flow:
-  - Anyone can propose a new edge, and anyone can stake money on that. If they get funding, you get rewarded. Could be also quadratic voting style where you vouch for something.
+- Stake-based flow:
+  - Anyone can propose a new edge, and anyone can stake money on that. If they get funding, you get rewarded. Could also be quadratic voting style where you vouch for something.
   - Should the edge weights/stake decay over time unless refreshed by new attestations?
   - Quadratic funding or similar for the stake weighting to avoid plutocracy
   - Anyone can challenge an edge by staking against it
@@ -61,7 +61,7 @@ In its current shape, the graph's vertices are projects and the edges are the re
   - Matrix Factorization (NMF)
   - Prediction Markets
   - AIs
-- Run the mechanism on "eras" / batches so the graph changes and the weights evolves.
+- Run the mechanism on "eras" / batches so the graph changes and the weights evolve.
 - How to expand to a graph of dependencies that are not only code?
   - Academic papers and research that influenced design decisions
   - Cross-language inspiration (e.g., Ruby on Rails influencing web frameworks in other languages)
@@ -81,7 +81,7 @@ In its current shape, the graph's vertices are projects and the edges are the re
 - Unreliable juror evidence (low statistical power & consistency)
   - Very few edges achieve statistical significance
   - The noise makes any downstream model "garbage‑in, garbage‑out"
-  - How to incentivice good jurors?
+  - How to incentivize good jurors?
   - How to deal with messy jurors?
   - Intensity scoring in pairwise comparisons
     - Asking jurors "how much better" introduces order‑dependence and scale mismatch (e.g., 999× vs 100× for the same comparison)
@@ -94,7 +94,7 @@ In its current shape, the graph's vertices are projects and the edges are the re
   - The process is sensitive to irrelevant changes (e.g: updating some parameter on the data pipeline changes the leaderboard considerably)
 - Temporal drift (dependencies and preferences)
   - Snapshots get out of date
-  - Jurors evalaute projects that have changed
+  - Jurors evaluate projects that have changed
 - Scalability to large graphs
   - With hundreds of nodes, assigning a reasonable score to a random project requires local link structure...
   - How to speed up the data gathering process?
@@ -103,4 +103,4 @@ In its current shape, the graph's vertices are projects and the edges are the re
 - Fitness of the Deep Funding approach
   - How is the final distribution evaluated?
   - Falsifiable hypothesis to verify the weights are correct
-  - If the goal of pattern recognition was to classify objects in a scene, it made sense to score an algorithm by how often it succeeded in doing so. The goal of Deep Funding is to develop allocate resources to public goods that rivals how private goods are funded, how do we measyre success?
+  - If the goal of pattern recognition was to classify objects in a scene, it made sense to score an algorithm by how often it succeeded in doing so. The goal of Deep Funding is to allocate resources to public goods in a way that rivals how private goods are funded, how do we measure success?
