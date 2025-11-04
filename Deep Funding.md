@@ -32,20 +32,20 @@ In its current shape, the graph's vertices are projects and the edges are the re
 
 - Use juror data as the human feedback side of RLHF
   - Mix this with a [social choice perspective](https://iclr.cc/virtual/2024/invited-talk/21799). Benchmarks are the aggregation of "votes" to choose the best models. Arrow's impossibility theorem works here though!
-  - Create models/mechanisms that fill the graph using whatever techniques they want.
-  - Then, evaluate (or even tune) these models based on the juror data.
-  - Jurors vote on the models themselves by looking at their results and comparing models between them.
-- Let the dependent set their weight percentage if they're around.
-- The most elegant mechanism is probably something like a [prediction market](https://docs.fileverse.io/0x7248Fe92e7087d02D3604396b057295026FC62A1/49#key=DgfQgJ-bCAVr0NNFU0vp1HNW_Sh23GVieRmA_QXsDbHIRVyhv37c1XnOBM8lW6PT).
+  - Create models/mechanisms that fill the graph using whatever techniques they want
+  - Then, evaluate (or even tune) these models based on the juror data
+  - Jurors vote on the models themselves by looking at their results and comparing models between them
+- Let the dependent set their weight percentage if they're around
+- The most elegant mechanism is probably something like a [prediction market](https://docs.fileverse.io/0x7248Fe92e7087d02D3604396b057295026FC62A1/49#key=DgfQgJ-bCAVr0NNFU0vp1HNW_Sh23GVieRmA_QXsDbHIRVyhv37c1XnOBM8lW6PT)
   - Solves the current issues there of missing dependencies (due to technical issues or because they're more abstract), preference drift, adversarial situations, ...
   - Replaces the "Collecting accurate project dependencies" issue with an ongoing market
-- Instead of one canonical graph, allow different stakeholder groups (developers, funders, users) to maintain their own weight overlays on the same edge structure. Aggregate these views using quadratic or other mechanisms.
+- Instead of one canonical graph, allow different stakeholder groups (developers, funders, users) to maintain their own weight overlays on the same edge structure. Aggregate these views using quadratic or other mechanisms
 - If there is a plurality of these "dependency graphs" (or just different set of weights), the funding organization can choose which one to use! The curators gain a % of the money for their service. This creates a market-like mechanism that incentivizes useful curation.
 - Have hypercerts or similar. The price of these (total value) sets the weights across dependencies (`numpy`'s certificates trade at 3x the price of a utility library, the edge weight reflects this)
-- If there are reviewers/validators/jurors, need to be public so they have some sort of reputation.
-  - Reputation system / ELO for Jurors whose score is closer to the final one. This biases towards averages.
-  - Account for jurors' biases with Hierarchical Bradley Terry or similar.
-  - Allow anyone to be a juror, select jurors based on their skills.
+- If there are reviewers/validators/jurors, need to be public so they have some sort of reputation
+  - Reputation system / ELO for Jurors whose score is closer to the final one. This biases towards averages
+  - Account for jurors' biases with Hierarchical Bradley Terry or similar
+  - Allow anyone to be a juror, select jurors based on their skills
 - Stake-based flow:
   - Anyone can propose a new edge, and anyone can stake money on that. If they get funding, you get rewarded. Could also be quadratic voting style where you vouch for something.
   - Should the edge weights/stake decay over time unless refreshed by new attestations?
@@ -66,15 +66,15 @@ In its current shape, the graph's vertices are projects and the edges are the re
   - Academic papers and research that influenced design decisions
   - Cross-language inspiration (e.g., Ruby on Rails influencing web frameworks in other languages)
   - Standards and specifications that enable interoperability
-- Allow projects to "insure" against their critical dependencies disappearing or becoming unmaintained. This creates a market signal for dependency risk and could fund maintenance of critical-but-boring infrastructure.
+- Allow projects to "insure" against their critical dependencies disappearing or becoming unmaintained. This creates a market signal for dependency risk and could fund maintenance of critical-but-boring infrastructure
 - Composable Evaluation Criteria
-  - Rather than a single weighting mechanism, allow different communities to define their own evaluation functions (security-focused, innovation-focused, stability-focused) that can be composed. This enables plurality while maintaining comparability.
-- Create a bounty system where anyone can claim rewards for discovering hidden dependencies (similar to bug bounties).
+  - Rather than a single weighting mechanism, allow different communities to define their own evaluation functions (security-focused, innovation-focused, stability-focused) that can be composed. This enables plurality while maintaining comparability
+- Create a bounty system where anyone can claim rewards for discovering hidden dependencies (similar to bug bounties)
   - This crowdsources the graph discovery problem and incentivizes thorough documentation.
-- Projects can opt out of the default distribution and declare a custom one. Organizers can allow or ignore that.
+- Projects can opt out of the default distribution and declare a custom one. Organizers can allow or ignore that
 - Self declaration needs a "contest process" to resolve issues/abuse.
 - Harberger Tax on self declarations? Bayesian Truth Serum for Weight Elicitation?
-  - Projects continuously auction off "maintenance contracts" where funders bid on keeping projects maintained. The auction mechanism reveals willingness-to-pay for continued operation. Dependencies naturally emerge as projects that lose maintenance see their dependents bid up their contracts.
+  - Projects continuously auction off "maintenance contracts" where funders bid on keeping projects maintained. The auction mechanism reveals willingness-to-pay for continued operation. Dependencies naturally emerge as projects that lose maintenance see their dependents bid up their contracts
 
 ## Open Problems
 
