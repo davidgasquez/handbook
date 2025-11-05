@@ -15,7 +15,7 @@ In Deep Funding, multiple mechanisms work together:
 
 This problem touches data, mechanism design, and open source! Also, each layer can be optimized and iterated independently.
 
-In its current shape, the graph's vertices are projects and the edges are the relative impact of each project in its parent. The same approach could be used for anything that matches the graph shape (e.g: science research).
+In its current shape, the graph's vertices are projects and the edges are the relative impact of each project in its parent. The same approach could be used for [anything that matches the graph](https://x.com/VitalikButerin/status/1981946493780345303) shape (e.g: science research).
 
 ## Desired Properties
 
@@ -75,11 +75,17 @@ Given the current open problems, this is interesting and alternative way ([inspi
 
 Like in the current setup, a DAG of projects is needed. The organizers publish that and also an encoded list of projects that will be evaluated by Jurors. Participants can only see the DAG, the "evaluated projects" will be revealed at the end.
 
-Once participans have worked on their models and send/trade their predictions, the "evaluated project" list is revealed and only those projects are used to evaluate predictions. Best strategy is to price truthfully on the unknown benchmark subset. The question here is... how can we evaluate only a few projects without jurors giving a connected graph to the rest of the projects? You can use metrics like the [Brier score](https://en.wikipedia.org/wiki/Brier_score) or using [calibrated Bradley Terry](https://www.itai-shapira.com/pdfs/pairwise_calibrated_rewards_for_pluralistic_alignment.pdf) to evaluating a pre-given mechanism's scores ([in that case you're fitting just a single global scale or temperature parameter to minimize negative log-likelihood](https://apxml.com/courses/rlhf-reinforcement-learning-human-feedback/chapter-3-reward-modeling-human-preferences/reward-model-calibration))!
+Once participans have worked on their models and send/trade their predictions, the "evaluated project" list is revealed and only those projects are used to evaluate weights' predictions. Best strategy is to price truthfully all items. The question here is: how can we evaluate only a few projects without jurors giving a connected graph to the rest of the projects?
 
-Once the best model is chosen, the same pairwise comparisons can be used [to adjust the scale of the weight distribution](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf). That means the market resolution uses only the subset (for payouts to traders) but the funding distribution uses the model's global ranking with its probabilities calibrated to the subset via a single scalar 𝑎 that pins the entire slate to the same scale that was verified by real judgments. The jurors pairwise comparisons can even be "merged" with the best model to incorporate all data in there.
+Since we don't have a global view (no interconnected graph), we need to use comparative and scale free metrics. Metrics like the [Brier score](https://en.wikipedia.org/wiki/Brier_score) or methods like [Bradley Terry](https://www.itai-shapira.com/pdfs/pairwise_calibrated_rewards_for_pluralistic_alignment.pdf) can be used to evaluate any model or trader's weights ([in that case you're fitting just a single global scale or temperature parameter to minimize negative log-likelihood](https://apxml.com/courses/rlhf-reinforcement-learning-human-feedback/chapter-3-reward-modeling-human-preferences/reward-model-calibration))!
+
+Once the best model is chosen (the one that acts the closer to the choosen subset of pairwise comparisons), the same pairwise comparisons can be used [to adjust the scale of the weight distribution](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf). That means the market resolution uses only the subset (for payouts to traders) but the funding distribution uses the model's global ranking with its probabilities calibrated to the subset via a single scalar 𝑎 that pins the entire slate to the same scale that was verified by real judgments. The jurors pairwise comparisons can even be "merged" with the best model to incorporate all data in there.
+
+Basically, there are two steps; first, select the best model and then, rescale weights using the jury pairwise comparisons. With much fewer comparisons, we can get to a better final weight distribution since we have more significant graph (relative weights) and we also use the golden juror pairs to adjust the scale.
 
 The task of the organizers is to [gather pairwise comparisons to make this subset significant](https://arxiv.org/pdf/1505.01462), which is much simpler and feasible than doing it so for the entire dependencies of a node (can be 128). For example, we can estimate that to get a 10% relative error on the weights, we would need ~600 [efficiently sampled pairs](https://arxiv.org/abs/2302.13507) ([or approximate rankings](https://proceedings.mlr.press/v84/heckel18a.html)). Compare that with the 2000 needed to get a 20% relative error on 128 items.
+
+Once the competition ends, extra comparisons could be gathered for projects that have high variance or via other trigger mechanism.
 
 ### More Ideas
 
