@@ -89,13 +89,15 @@ Once the competition ends, extra comparisons could be gathered for projects that
 
 ### More Ideas
 
-- [Detect and correct for evaluators' bias in the task of ranking items from pairwise comparisons](https://link.springer.com/article/10.1007/s10618-024-01024-z)
-- There are beter and more modern methods to derive weights from [noisy pairwise comparisons](https://arxiv.org/abs/2510.09333) ([from multiple annotators](https://arxiv.org/abs/1612.04413))
+- We should test the assumption experts jurors give good results. Jurors are messy and not well callibrated. Collecting more information from "expert" jurors will probably add more noise. We should instead assume noisy jurors and use techniques to deal with that.
+  - There are beter and more modern methods to derive weights from [noisy pairwise comparisons](https://arxiv.org/abs/2510.09333) ([from multiple annotators](https://arxiv.org/abs/1612.04413))
+  - [Detect and correct for evaluators' bias in the task of ranking items from pairwise comparisons](https://link.springer.com/article/10.1007/s10618-024-01024-z)
 - Use active ranking or dueling bandits to [speed up the data gathering process](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-6/Active-ranking-from-pairwise-comparisons-and-when-parametric-assumptions-do/10.1214/18-AOS1772.pdf)
 - Do some post processing to the weights:
   - Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful
   - If gaps are not statistically meaninfull, bucket rewards (using Zipf's law) so it feels fair
 - If anyone (or jury selection is more relaxed) can rate you can remove low quality raters with heuristics or pick only the best N raters (crowd BT)
+- To gather more comparisons, a top-k method could be used intead of pairwise. Show 6 projects. Ask for the top 3 (no need to order them).
 - How would things look like if they were Bayesian instead of [classic Bradley-Terry](https://gwern.net/resorter)? Since comparisons are noisy and we have unreliable jurors, can we [compute distributions instead of "skills"](https://github.com/max-niederman/fullrank)?
 - Let the dependent set their weight percentage if they're around
 - Instead of one canonical graph, allow different stakeholder groups (developers, funders, users) to maintain their own weight overlays on the same edge structure. Aggregate these views using quadratic or other mechanisms
