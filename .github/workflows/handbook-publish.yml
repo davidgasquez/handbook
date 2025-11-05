@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Trigger Cloudflare Pages deploy hook
         env:
-          DEPLOY_HOOK_URL: ${{ secrets.CF_PAGES_DEPLOY_HOOK }}
+          DEPLOY_HOOK_URL: ${{ secrets.DEPLOY_HOOK_URL }}
         run: |
           set -euo pipefail
           curl -X POST -sS "${DEPLOY_HOOK_URL}"
