@@ -1,0 +1,17 @@
+name: Deploy davidgasquez.com
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cloudflare Pages deploy hook
+        env:
+          DEPLOY_HOOK_URL: ${{ secrets.CF_PAGES_DEPLOY_HOOK }}
+        run: |
+          set -euo pipefail
+          curl -X POST -sS "${DEPLOY_HOOK_URL}"
