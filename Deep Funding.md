@@ -87,8 +87,21 @@ The task of the organizers is to [gather pairwise comparisons to make this subse
 
 Once the competition ends, extra comparisons could be gathered for projects that have high variance or via other trigger mechanism.
 
+
 ### More Ideas
 
+- Set a consensus over which meta-mechanism is used to evaluate weights (e.g: Brier Score). Judged/rank mechanism/models solely on their performance agains the rigorous pre-built eval set. No subjective opinions. Just a leaderboard of the most effective weight distributions.
+- No intensity, just more good ol pairwise comparisons!
+  - Intensity [requires global knowledge](https://xkcd.com/883/), has interpersonal scales, and humans are incoherent when assigning them (even in the same order of magnitude).
+  - Make it easy and smooth for people to make their comparisons. Use LLM suggestions, good UX with details, remove any friction, and get as many as possible. Filter after the fact using heuristics or something simpler like a whitelist. If there is a test set (labels from people the org trust), evaluate against that to choose the best labelers.
+  - Fields that use pairwise comparisons.
+    - Psychology (psychometrics) trying to predict the latent utilities of items
+    - Consumer science doing preference testing
+    - Decision analysis
+    - Marketing (also with top-k or best-worst method)
+    - Recommendation systems
+    - Sports (elo)
+    - RLHF
 - We should test the assumption experts jurors give good results. Jurors are messy and not well callibrated. Collecting more information from "expert" jurors will probably add more noise. We should instead assume noisy jurors and use techniques to deal with that.
   - There are beter and more modern methods to derive weights from [noisy pairwise comparisons](https://arxiv.org/abs/2510.09333) ([from multiple annotators](https://arxiv.org/abs/1612.04413))
   - [Detect and correct for evaluators' bias in the task of ranking items from pairwise comparisons](https://link.springer.com/article/10.1007/s10618-024-01024-z)
