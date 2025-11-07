@@ -70,6 +70,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
     - [Data is good at providing comprehensive coverage of things that are countable. Data is bad at dealing with nuances and qualitative concepts that experts intuitively understand.](https://gov.optimism.io/t/lessons-learned-from-two-years-of-retroactive-public-goods-funding/9239)
     - Crowds bring natural diversity and help capture human semantics. [Disagreement is signal, not just noise](https://github.com/CrowdTruth/CrowdTruth-core/blob/master/tutorial/Part%20I_%20CrowdTruth%20Tutorial.pdf). There are niches of experts in the crowds.
     - Collecting good pairwise data [is similar to collecting good ML/AI training data](https://github.com/cleanlab/cleanlab).
+    - [The RLHF fields also deals with this issue](https://mlhp.stanford.edu/src/chap6.html).
 - **Design for composability**. Define clear data structures (graphs, weight vectors) as APIs between layers.
   - Multiple communities could share measurement infrastructure.
   - Different evaluation methods can operate on the same data.

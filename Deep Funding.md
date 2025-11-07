@@ -111,6 +111,7 @@ Once the competition ends, extra comparisons could be gathered for projects that
   - Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful
   - If gaps are not statistically meaningful, bucket rewards (using Zipf's law) so it feels fair
 - If anyone (or jury selection is more relaxed) can rate you can remove low quality raters with heuristics or pick only the best N raters (crowd BT)
+  - Crowdsourced annotators are often unreliable, effectively [integrating multiple noisy labels to produce accurate annotations stands as arguably the most important consideration for designing and implementing a crowdsourcing system](https://arxiv.org/pdf/2407.06902).
 - To gather more comparisons, a top-k method could be used instead of pairwise. Show 6 projects. Ask for the top 3 (no need to order them).
 - How would things look like if they were [Bayesian Bradley Terry](https://erichorvitz.com/crowd_pairwise.pdf) instead of [classic Bradley-Terry](https://gwern.net/resorter)? Since comparisons are noisy and we have unreliable jurors, can we [compute distributions instead of "skills"](https://github.com/max-niederman/fullrank)?
 - Let the dependent set their weight percentage if they're around
