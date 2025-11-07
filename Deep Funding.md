@@ -106,12 +106,13 @@ Once the competition ends, extra comparisons could be gathered for projects that
   - There are better and more modern methods to derive weights from [noisy pairwise comparisons](https://arxiv.org/abs/2510.09333) ([from multiple annotators](https://arxiv.org/abs/1612.04413))
   - [Detect and correct for evaluators' bias in the task of ranking items from pairwise comparisons](https://link.springer.com/article/10.1007/s10618-024-01024-z)
 - Use active ranking or dueling bandits to [speed up the data gathering process](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-6/Active-ranking-from-pairwise-comparisons-and-when-parametric-assumptions-do/10.1214/18-AOS1772.pdf)
+  - Stop with a "budget stability" rule (expected absolute dollar change from one more batch is less than a threshold)
 - Do some post processing to the weights:
   - Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful
   - If gaps are not statistically meaningful, bucket rewards (using Zipf's law) so it feels fair
 - If anyone (or jury selection is more relaxed) can rate you can remove low quality raters with heuristics or pick only the best N raters (crowd BT)
 - To gather more comparisons, a top-k method could be used instead of pairwise. Show 6 projects. Ask for the top 3 (no need to order them).
-- How would things look like if they were Bayesian instead of [classic Bradley-Terry](https://gwern.net/resorter)? Since comparisons are noisy and we have unreliable jurors, can we [compute distributions instead of "skills"](https://github.com/max-niederman/fullrank)?
+- How would things look like if they were [Bayesian Bradley Terry](https://erichorvitz.com/crowd_pairwise.pdf) instead of [classic Bradley-Terry](https://gwern.net/resorter)? Since comparisons are noisy and we have unreliable jurors, can we [compute distributions instead of "skills"](https://github.com/max-niederman/fullrank)?
 - Let the dependent set their weight percentage if they're around
 - Instead of one canonical graph, allow different stakeholder groups (developers, funders, users) to maintain their own weight overlays on the same edge structure. Aggregate these views using quadratic or other mechanisms
 - If there is a plurality of these "dependency graphs" (or just different set of weights), the funding organization can choose which one to use! The curators gain a % of the money for their service. This creates a market-like mechanism that incentivizes useful curation.
@@ -143,3 +144,4 @@ Once the competition ends, extra comparisons could be gathered for projects that
 - Self declaration needs a "contest process" to resolve issues/abuse.
 - Harberger Tax on self declarations? Bayesian Truth Serum for Weight Elicitation?
   - Projects continuously auction off "maintenance contracts" where funders bid on keeping projects maintained. The auction mechanism reveals willingness-to-pay for continued operation. Dependencies naturally emerge as projects that lose maintenance see their dependents bid up their contracts
+- [Explore Rank Centrality](https://arxiv.org/pdf/1209.1688). Theoretical and empirical results show that with a graph that has a decent spectral gap `O(n log(𝑛))` pair samples suffice for accurate scores and ranking.

@@ -65,9 +65,11 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Let funders choose which lenses align with their values.
   - When collecting data, [pairwise comparisons and rankings are more reliable than absolute scoring](https://anishathalye.com/designing-a-better-judging-system/).
     - Humans excel at relative judgments, but struggle with absolute judgments.
-    - Many algorithms can be used to convert pairwise comparisons into absolute scores.
+    - [Many algorithms can be used to convert pairwise comparisons into absolute scores](https://crowd-kit.readthedocs.io/en/latest/).
     - Pairwise shines when all the context is in the UX.
     - [Data is good at providing comprehensive coverage of things that are countable. Data is bad at dealing with nuances and qualitative concepts that experts intuitively understand.](https://gov.optimism.io/t/lessons-learned-from-two-years-of-retroactive-public-goods-funding/9239)
+    - Crowds bring natural diversity and help capture human semantics. [Disagreement is signal, not just noise](https://github.com/CrowdTruth/CrowdTruth-core/blob/master/tutorial/Part%20I_%20CrowdTruth%20Tutorial.pdf). There are niches of experts in the crowds.
+    - Collecting good pairwise data [is similar to collecting good ML/AI training data](https://github.com/cleanlab/cleanlab).
 - **Design for composability**. Define clear data structures (graphs, weight vectors) as APIs between layers.
   - Multiple communities could share measurement infrastructure.
   - Different evaluation methods can operate on the same data.
