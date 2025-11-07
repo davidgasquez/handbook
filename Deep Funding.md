@@ -51,7 +51,8 @@ After participating in the ML competition and Prediction Market, and doing a few
   - Messy jurors have [disproportionate impact on the weights](https://davidgasquez.github.io/deepfunding-trial-data-analysis/#-robustness-checks)
   - Weights are not consistent due to the limited amount of data collected and the variance on it
   - Large graphs (hundreds of projects) make getting accurate weights from the pairwise evaluation infeasible
-    - E.g. GG24 round has ~100 projects and [would need ~ 3000 "actively sampled" comparisons to get to a relative error of 10%](https://arxiv.org/pdf/1505.01462)
+    - E.g. GG24 round has ~100 projects and [would need more than 3000 "actively sampled" comparisons to get to a relative error of 10%](https://arxiv.org/pdf/1505.01462)
+    - This approach/paradigm requires more training examples jurors can produce in a reasonable span of time
 - **Mechanism Settings**
   - Some parameters have a large effect and haven't been adjusted
   - The aggregation formula (huber, log loss, bradley terry, ...) has a very large impact on both modelers/traders and project rewards
