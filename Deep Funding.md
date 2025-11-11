@@ -59,6 +59,8 @@ After participating in the ML competition and Prediction Market, and doing a few
   - Need more process around who chooses the aggregation formula and why it is chosen
   - In the pilot (huber loss), some projects got weights on a scale jurors didn't feel reasonable (e.g: EIPs repo got 30%)
   - The prediction market might cause good modelers to not participate as time of entry is more important than having a good model
+  - There might be an incetive to game the market at the last minute
+    - Might be worth it to increase your project share given the money distribution
 - **Weights Evaluation**
   - [How do we measure success?](https://davidgasquez.com/weight-allocation-mechanism-evals/) If the goal of pattern recognition was to classify objects in a scene, it made sense to score an algorithm by how often it succeeded in doing so. What is the equivalent for Deep Funding? What is the [metric we are optimizing](https://mlhp.stanford.edu/src/chap4.html#sec-metric-elicitation)?
   - Once the weights are set, there isn't [a process to evaluate how "fit" those are](https://davidgasquez.com/weight-allocation-mechanism-evals/)
