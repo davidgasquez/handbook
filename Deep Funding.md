@@ -13,7 +13,7 @@ In Deep Funding, multiple mechanisms (involving data, mechanism design, and open
   - Having experts fill weights manually
 3. A mechanism that takes that weight vector as input and distributes money to the projects
 
-Traditional funding scales with people (doing the thinking, filtering, design) and software (collecting data and automating rules to distribute money accordingly). You can see Deep Funding like [the Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) approach for funding. Figure out how to turn your system into "evals" and then scale it with software 2.0 (map the problems to objective function and then using AI to optimize them).
+Deep Funding can be viewed as a [Software-2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) approach to public-goods allocation. Instead of manually designing funding rules, evaluation processes, and governance structures, define an objective function, tests, eval sets, and scoring criteria. Then, let any kind of mechanism (AI models, prediction markets, statistical algorithms, human raters, etc.) compete to solve them. The human work shifts from hand-crafting decision procedures to specifying what "good allocation" looks like and collecting high-quality data. Everything else becomes an optimization problem where participants will try to produce weight predictions that best fit the data. Deep Funding can be seen as **an evolving benchmark suite for truthfully estimating public-goods value**, and progress comes from iterating on the evals rather than hard-coding the system itself.
 
 ## Desired Properties
 
