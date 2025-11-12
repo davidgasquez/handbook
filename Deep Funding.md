@@ -2,7 +2,7 @@
 
 The goal of [Deep Funding](https://deepfunding.org/) is to develop a system that can allocate resources to public goods with a level of accuracy, fairness, and open access that rivals how private goods are funded by markets, ensuring that high-quality open-source projects can be sustained. Traditional price signals don't exist, so we need "artificial markets" that can simulate the information aggregation properties of real markets while being resistant to the unique failure modes of public goods funding.
 
-In Deep Funding, multiple mechanisms work together:
+In Deep Funding, multiple mechanisms (involving data, mechanism design, and open source) work together. Each layer can be optimized and iterated independently.
 
 1. A mechanism that generates an up-to-date and comprehensive DAG of relevant dependencies given a source node
 2. A mechanism that fills the graph with relevant weights. These weights represent the latent item utilities. There can be many ways of getting to them!
@@ -13,11 +13,7 @@ In Deep Funding, multiple mechanisms work together:
   - Having experts fill weights manually
 3. A mechanism that takes that weight vector as input and distributes money to the projects
 
-This problem touches data, mechanism design, and open source! Also, each layer can be optimized and iterated independently.
-
-In its current shape, the graph's vertices are projects and the edges are the relative impact of each project in its parent. The same approach could be used for [anything that matches the graph](https://x.com/VitalikButerin/status/1981946493780345303) shape (e.g: science research).
-
-You can see Deep Funding from the same perspective [we saw Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35). The goal is to have a mechanism that funds public goods by specifying some goals or desirable outputs, not hardcoded rules (e.g: reward by total downloads).
+Traditional funding scales with people (doing the thinking, filtering, design) and software (collecting data and automating rules to distribute money accordingly). You can see Deep Funding like [the Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) approach for funding. Figure out how to turn your system into "evals" and then scale it with software 2.0 (map the problems to objective function and then using AI to optimize them).
 
 ## Desired Properties
 
@@ -38,6 +34,7 @@ You can see Deep Funding from the same perspective [we saw Software 2.0](https:/
 So far, Deep Funding has been implemented like this:
 
 1. A list of projects is chosen. This is usually provided by an external entity or process (e.g: the [best model from the ML competition](https://cryptopond.xyz/modelfactory/detail/2564617) chooses the next 100 projects). So far a DAG/graph structure has not been needed since all projects have been compared for their impact on the "Ethereum Ecosystem".
+  - In its current shape, the graph's vertices are projects and the edges are the relative impact of each project in its parent. The same approach could be used for [anything that matches the graph](https://x.com/VitalikButerin/status/1981946493780345303) shape (e.g: science research).
 2. Jurors do pairwise comparisons between projects. An aggregation method is chosen (Huber loss, L2 norm in log space, ...) to derive the "ground truth" relative project weights.
 3. An ML competition and [a Prediction Market](https://ethresear.ch/t/deep-funding-a-prediction-market-for-open-source-dependencies/23101) are kicked off. Modelers and traders are evaluated against a holdout set of pairwise comparisons.
 4. Participants are rewarded based on how close they get to the "jurors' ground truth".
