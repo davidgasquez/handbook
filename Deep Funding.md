@@ -17,6 +17,8 @@ This problem touches data, mechanism design, and open source! Also, each layer c
 
 In its current shape, the graph's vertices are projects and the edges are the relative impact of each project in its parent. The same approach could be used for [anything that matches the graph](https://x.com/VitalikButerin/status/1981946493780345303) shape (e.g: science research).
 
+You can see Deep Funding from the same perspective [we saw Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35). The goal is to have a mechanism that funds public goods by specifying some goals or desirable outputs, not hardcoded rules (e.g: reward by total downloads).
+
 ## Desired Properties
 
 - Credible Neutrality Through Transparent and Simple Mechanisms
@@ -82,11 +84,11 @@ Once participants have worked on their models and send/trade their predictions, 
 
 Since we don't have a global view (no interconnected graph), we need to use comparative and scale free metrics. Metrics like the [Brier score](https://en.wikipedia.org/wiki/Brier_score) or methods like [Bradley Terry](https://www.itai-shapira.com/pdfs/pairwise_calibrated_rewards_for_pluralistic_alignment.pdf) can be used to evaluate any model or trader's weights ([in that case you're fitting just a single global scale or temperature parameter to minimize negative log-likelihood](https://apxml.com/courses/rlhf-reinforcement-learning-human-feedback/chapter-3-reward-modeling-human-preferences/reward-model-calibration))!
 
-Once the best model is chosen (the one that acts closest to the chosen subset of pairwise comparisons), the same pairwise comparisons can be used [to adjust the scale of the weight distribution](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf). That means the market resolution uses only the subset (for payouts to traders) but the funding distribution uses the model's global ranking with its probabilities calibrated to the subset via a single scalar 𝑎 that pins the entire slate to the same scale that was verified by real judgments. The jurors pairwise comparisons can even be "merged" with the best model to incorporate all data in there.
+Once the best model is chosen (the one that acts closest to the chosen subset of pairwise comparisons), the same pairwise comparisons can be used [to adjust the scale of the weight distribution](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf). That means the market resolution uses only the subset (for payouts to traders) but the funding distribution uses the model's global ranking with its probabilities calibrated to the subset via a single scalar _a_ that pins the entire slate to the same scale that was verified by real judgments. The jurors pairwise comparisons can even be "merged" with the best model to incorporate all data in there.
 
 Basically, there are two steps; first, select the best model and then, rescale weights using the jury pairwise comparisons. With much fewer comparisons, we can get to a better final weight distribution since we have more significant graph (relative weights) and we also use the golden juror pairs to adjust the scale.
 
-The task of the organizers is to [gather pairwise comparisons to make this subset significant](https://arxiv.org/pdf/1505.01462), which is much simpler and feasible than doing it so for the entire dependencies of a node (can be 128). For example, we can estimate that to get a 10% relative error on the weights, we would need ~600 [efficiently sampled pairs](https://arxiv.org/abs/2302.13507) ([or approximate rankings](https://proceedings.mlr.press/v84/heckel18a.html)). Compare that with the 2000 needed to get a 20% relative error on 128 items.
+The task of the organizers is to [gather pairwise comparisons to make this subset significant](https://arxiv.org/pdf/1505.01462), which is much simpler and feasible than doing it so for the entire dependencies of a node (can be 128). With [efficiently sampled pairs](https://arxiv.org/abs/2302.13507) ([or approximate rankings](https://proceedings.mlr.press/v84/heckel18a.html)) much less comparisons are needed in a subset.
 
 Once the competition ends, extra comparisons could be gathered for projects that have high variance or via other trigger mechanism.
 
@@ -104,6 +106,8 @@ Once the competition ends, extra comparisons could be gathered for projects that
     - Recommendation systems
     - Sports (elo)
     - RLHF
+  - Pairwise make thins a decision (yes / no, this or that). No one knows what 3.4x better means
+  - Occam's razor works here too: simple things generalize better
 - We should test the assumption experts jurors give good results. Jurors are messy and not well calibrated. Collecting more information from "expert" jurors will probably add more noise. We should instead assume noisy jurors and use techniques to deal with that.
   - There are better and more modern methods to derive weights from [noisy pairwise comparisons](https://arxiv.org/abs/2510.09333) ([from multiple annotators](https://arxiv.org/abs/1612.04413))
   - [Detect and correct for evaluators' bias in the task of ranking items from pairwise comparisons](https://link.springer.com/article/10.1007/s10618-024-01024-z)
