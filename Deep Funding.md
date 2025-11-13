@@ -46,6 +46,7 @@ After participating in the ML competition and Prediction Market, and doing a few
 - **Juror Reliability**
   - So far, expert juror's pairwise comparisons have been inconsistent, noisy, and low in statistical power
   - Getting comparisons has been quite expensive in time and resources
+  - The jury (secret) pool diversity is not guaranteed
   - Asking jurors "how much better" introduces order‑dependence and scale mismatch
   - Messy jurors have [disproportionate impact on the weights](https://davidgasquez.github.io/deepfunding-trial-data-analysis/#-robustness-checks)
   - Weights are not consistent due to the limited amount of data collected and the variance on it
@@ -104,7 +105,7 @@ Once the competition ends, extra comparisons could be gathered for projects that
     - Recommendation systems
     - Sports (elo)
     - RLHF
-  - Pairwise make thins a decision (yes / no, this or that). No one knows what 3.4x better means
+  - Pairwise make choices a simple decision (yes / no, this or that). No one knows what 3.4x better means
   - Occam's razor works here too: simple things generalize better
   - Intensity makes the distribution curve arbitrary
 - We should test the assumption experts jurors give good results. Jurors are messy and not well calibrated. Collecting more information from "expert" jurors will probably add more noise. We should instead assume noisy jurors and use techniques to deal with that.
