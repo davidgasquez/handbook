@@ -20,6 +20,7 @@ Public goods are defined as goods that are both nonexcludable (it's infeasible t
 - Identity and Reputation. To prevent sybil attacks, some form of identity is needed. If reputation is important, a public identity is preferred. If anonymity is required, zero-knowledge proofs or re-randomizable encryption may be necessary. Reputation is an important incentive to fund public goods. Some form of reputation score or record of participation can be useful for repeated games. These scores can help identify bad actors or help communities coalesce around a particular funding venue. [Identity-free mechanism can also be used](https://victorsintnicolaas.com/funding-public-goods-in-identity-free-systems/).
 - Verifiable Mechanisms. Users may want certain guarantees about a mechanism before or after participation, especially if the mechanism being used is concealed. Ex-ante, they may want to upper-bound their amount of spending towards the good, ex-post, they may require proof that a sufficient number of individuals contributed.
 - Anti-Collusion Infrastructure. Like secure voting systems, there is a threat of buying votes in a funding mechanism. Collusion can be discouraged by making it impossible for users to prove how they reported their preferences. This infrastructure must be extended to prevent collusion between the 3rd party and the users.
+- Predictable Schedules. Participants need to know when are they getting funded.
 
 ## Resources
 
