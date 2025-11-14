@@ -87,7 +87,7 @@ Data is not code, but the activities of both publishers and users of datasets re
   - Make sure the datasets are there for the long run. This might take different forms (using a domain name, IPFS, ...).
 - **Subscribable**. Datasets are not just derived from upstream data, they should actually be updated every time the upstream data is updated (e.g: recomputing a metric of wildfire risk whenever new satellite imagery becomes available).
 - **Dual Role Support**. Recognize that data providers are often data users and vice versa, similar to how GitHub understands that code writers are also code consumers. Design interfaces and tools that support this dual role effectively.
-- **Data Product**. A data product is a collection of data created explicitly to be used by someone else. Incentivize data products as they are the atomic unit of consumption for data.
+- **Data Product**. A data product is a collection of data created explicitly to be used by someone else (dataset, dashboard, report, benchmark, ...). Incentivize data products as they are the atomic unit of consumption for data.
   - Data is an _experience good_. Its true value often remains uncertain until after it has been used and analyzed. This characteristic creates information asymmetries between data collectors (like local communities) and potential buyers or users, making quality assurance and standardization crucial for building digital trust in data markets.
 
 ## Simple Package Manager Design
