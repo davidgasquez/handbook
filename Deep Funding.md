@@ -152,3 +152,5 @@ Once the competition ends, extra comparisons could be gathered for projects that
 - Harberger Tax on self declarations? Bayesian Truth Serum for Weight Elicitation?
   - Projects continuously auction off "maintenance contracts" where funders bid on keeping projects maintained. The auction mechanism reveals willingness-to-pay for continued operation. Dependencies naturally emerge as projects that lose maintenance see their dependents bid up their contracts
 - [Explore Rank Centrality](https://arxiv.org/pdf/1209.1688). Theoretical and empirical results show that with a graph that has a decent spectral gap `O(n log(𝑛))` pair samples suffice for accurate scores and ranking.
+- Report which mechanism is closer (distance metric) to each juror
+- Reward mantainers of the actual projects for pairwise choices
