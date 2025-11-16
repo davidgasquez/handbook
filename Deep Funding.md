@@ -52,20 +52,20 @@ After participating in the ML competition and Prediction Market, and doing a few
   - Weights are not consistent due to the limited amount of data collected and the variance on it
   - Large graphs (hundreds of projects) make getting accurate weights from the pairwise evaluation infeasible
     - E.g. GG24 round has ~100 projects and [would need more than 3000 "actively sampled" comparisons to get to a relative error of 10%](https://arxiv.org/pdf/1505.01462)
-    - This approach/paradigm requires more training examples jurors can produce in a reasonable span of time
+    - This approach/paradigm requires more training examples than jurors can produce in a reasonable span of time
 - **Mechanism Settings**
   - Some parameters have a large effect and haven't been adjusted
   - The aggregation formula (huber, log loss, bradley terry, ...) has a very large impact on both modelers/traders and project rewards
   - Need more process around who chooses the aggregation formula and why it is chosen
   - In the pilot (huber loss), some projects got weights on a scale jurors didn't feel reasonable (e.g: EIPs repo got 30%)
   - The prediction market might cause good modelers to not participate as time of entry is more important than having a good model
-  - There might be an incetive to game the market at the last minute
+  - There might be an incentive to game the market at the last minute
     - Might be worth it to increase your project share given the money distribution
 - **Weights Evaluation**
   - [How do we measure success?](https://davidgasquez.com/weight-allocation-mechanism-evals/) If the goal of pattern recognition was to classify objects in a scene, it made sense to score an algorithm by how often it succeeded in doing so. What is the equivalent for Deep Funding? What is the [metric we are optimizing](https://mlhp.stanford.edu/src/chap4.html#sec-metric-elicitation)?
   - Once the weights are set, there isn't [a process to evaluate how "fit" those are](https://davidgasquez.com/weight-allocation-mechanism-evals/)
     - E.g: the current idea is to gather a connected graph of pairwise comparisons, why not use that to reward projects directly and skip the Prediction Market?
-  - We need a falsifiable hypotheses to validate Deep Funding is "better"
+  - We need falsifiable hypotheses to validate Deep Funding is "better"
 - **Graph Maintenance**
   - If the process takes a few weeks, the weights might change significantly (e.g: a project releases a major version)
   - Jurors are also affected by temporal drift and their preferences evolve over time
@@ -80,21 +80,21 @@ Like in the current setup, a DAG of projects is needed. The organizers publish t
 
 Once participants have worked on their models and send/trade their predictions, the "evaluated project" list is revealed and only those projects are used to evaluate weights' predictions. Best strategy is to price truthfully all items. The question here is: how can we evaluate only a few projects without jurors giving a connected graph to the rest of the projects?
 
-Since we don't have a global view (no interconnected graph), we need to use comparative and scale free metrics. Metrics like the [Brier score](https://en.wikipedia.org/wiki/Brier_score) or methods like [Bradley Terry](https://www.itai-shapira.com/pdfs/pairwise_calibrated_rewards_for_pluralistic_alignment.pdf) can be used to evaluate any model or trader's weights ([in that case you're fitting just a single global scale or temperature parameter to minimize negative log-likelihood](https://apxml.com/courses/rlhf-reinforcement-learning-human-feedback/chapter-3-reward-modeling-human-preferences/reward-model-calibration))!
+Since we don't have a global view (no interconnected graph), we need to use comparative and scale-free metrics. Metrics like the [Brier score](https://en.wikipedia.org/wiki/Brier_score) or methods like [Bradley Terry](https://www.itai-shapira.com/pdfs/pairwise_calibrated_rewards_for_pluralistic_alignment.pdf) can be used to evaluate any model or trader's weights ([in that case you're fitting just a single global scale or temperature parameter to minimize negative log-likelihood](https://apxml.com/courses/rlhf-reinforcement-learning-human-feedback/chapter-3-reward-modeling-human-preferences/reward-model-calibration))!
 
 Once the best model is chosen (the one that acts closest to the chosen subset of pairwise comparisons), the same pairwise comparisons can be used [to adjust the scale of the weight distribution](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf). That means the market resolution uses only the subset (for payouts to traders) but the funding distribution uses the model's global ranking with its probabilities calibrated to the subset via a single scalar _a_ that pins the entire slate to the same scale that was verified by real judgments. The **jurors** pairwise comparisons can even be "merged" with the best model to incorporate all data in there.
 
 Basically, there are two steps; first, select the best model and then, rescale weights using the jury pairwise comparisons. With much fewer comparisons, we can get to a better final weight distribution since we have more significant graph (relative weights) and we also use the golden juror pairs to adjust the scale.
 
-The task of the organizers is to [gather pairwise comparisons to make this subset significant](https://arxiv.org/pdf/1505.01462), which is much simpler and feasible than doing it so for the entire dependencies of a node (can be 128). With [efficiently sampled pairs](https://arxiv.org/abs/2302.13507) ([or approximate rankings](https://proceedings.mlr.press/v84/heckel18a.html)) much less comparisons are needed in a subset.
+The task of the organizers is to [gather pairwise comparisons to make this subset significant](https://arxiv.org/pdf/1505.01462), which is much simpler and feasible than doing it so for the entire dependencies of a node (can be 128). With [efficiently sampled pairs](https://arxiv.org/abs/2302.13507) ([or approximate rankings](https://proceedings.mlr.press/v84/heckel18a.html)) far fewer comparisons are needed in a subset.
 
-Once the competition ends, extra comparisons could be gathered for projects that have high variance or via other trigger mechanism.
+Once the competition ends, extra comparisons could be gathered for projects that have high variance or via another trigger mechanism.
 
 ### More Ideas
 
 - Set a consensus over which meta-mechanism is used to evaluate weights (e.g: Brier Score). Judged/rank mechanism/models solely on their performance against the rigorous pre-built eval set. No subjective opinions. Just a leaderboard of the most aligned weight distributions.
-  - Winrates can be derived from pairwise comparisons
-- No intensity, just more good ol pairwise comparisons!
+  - Win rates can be derived from pairwise comparisons
+- No intensity, just more good old pairwise comparisons!
   - Intensity [requires global knowledge](https://xkcd.com/883/), has interpersonal scales, and humans are incoherent when assigning them (even in the same order of magnitude).
   - Make it easy and smooth for people to make their comparisons. Use LLM suggestions, good UX with details, remove any friction, and get as many as possible. Filter after the fact using heuristics or something simpler like a whitelist. If there is a test set (labels from people the org trust), evaluate against that to choose the best labelers.
   - Fields that use pairwise comparisons.
@@ -105,18 +105,18 @@ Once the competition ends, extra comparisons could be gathered for projects that
     - Recommendation systems
     - Sports (elo)
     - RLHF
-  - Pairwise make choices a simple decision (yes / no, this or that). No one knows what 3.4x better means
+  - Pairwise comparisons make choices a simple decision (yes / no, this or that). No one knows what 3.4x better means
   - Occam's razor works here too: simple things generalize better
   - Intensity makes the distribution curve arbitrary
-- We should test the assumption experts jurors give good results. Jurors are messy and not well calibrated. Collecting more information from "expert" jurors will probably add more noise. We should instead assume noisy jurors and use techniques to deal with that.
+- We should test the assumption expert jurors give good results. Jurors are messy and not well calibrated. Collecting more information from "expert" jurors will probably add more noise. We should instead assume noisy jurors and use techniques to deal with that.
   - There are better and more modern methods to derive weights from [noisy pairwise comparisons](https://arxiv.org/abs/2510.09333) ([from multiple annotators](https://arxiv.org/abs/1612.04413))
   - [Detect and correct for evaluators' bias in the task of ranking items from pairwise comparisons](https://link.springer.com/article/10.1007/s10618-024-01024-z)
 - Use active ranking or dueling bandits to [speed up the data gathering process](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-6/Active-ranking-from-pairwise-comparisons-and-when-parametric-assumptions-do/10.1214/18-AOS1772.pdf)
   - Stop with a "budget stability" rule (expected absolute dollar change from one more batch is less than a threshold)
-- Do some post processing to the weights:
+- Do some post-processing to the weights:
   - Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful
   - If gaps are not statistically meaningful, bucket rewards (using Zipf's law) so it feels fair
-- If anyone (or jury selection is more relaxed) can rate you can remove low quality raters with heuristics or pick only the best N raters (crowd BT)
+- If anyone (or jury selection is more relaxed) can rate you can remove low-quality raters with heuristics or pick only the best N raters (crowd BT)
   - Crowdsourced annotators are often unreliable, effectively [integrating multiple noisy labels to produce accurate annotations stands as arguably the most important consideration for designing and implementing a crowdsourcing system](https://arxiv.org/pdf/2407.06902).
 - To gather more comparisons, a top-k method could be used instead of pairwise. Show 6 projects. Ask for the top 3 (no need to order them).
 - How would things look like if they were [Bayesian Bradley Terry](https://erichorvitz.com/crowd_pairwise.pdf) instead of [classic Bradley-Terry](https://gwern.net/resorter)? Since comparisons are noisy and we have unreliable jurors, can we [compute distributions instead of "skills"](https://github.com/max-niederman/fullrank)?
@@ -148,9 +148,9 @@ Once the competition ends, extra comparisons could be gathered for projects that
 - Create a bounty system where anyone can claim rewards for discovering hidden dependencies (similar to bug bounties)
   - This crowdsources the graph discovery problem and incentivizes thorough documentation.
 - Projects can opt out of the default distribution and declare a custom one for dependencies. Organizers can allow or ignore that
-- Self declaration needs a "contest process" to resolve issues/abuse
+- Self-declaration needs a "contest process" to resolve issues/abuse
 - Harberger Tax on self declarations? Bayesian Truth Serum for Weight Elicitation?
   - Projects continuously auction off "maintenance contracts" where funders bid on keeping projects maintained. The auction mechanism reveals willingness-to-pay for continued operation. Dependencies naturally emerge as projects that lose maintenance see their dependents bid up their contracts
 - [Explore Rank Centrality](https://arxiv.org/pdf/1209.1688). Theoretical and empirical results show that with a graph that has a decent spectral gap `O(n log(𝑛))` pair samples suffice for accurate scores and ranking.
 - Report which mechanism is closer (distance metric) to each juror
-- Reward mantainers of the actual projects for pairwise choices
+- Reward maintainers of the actual projects for pairwise choices
