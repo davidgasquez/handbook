@@ -54,7 +54,6 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - Everyone you will ever meet knows something you don't. Your job is to discover what it is, and it won't be obvious. Bill Nye. ^307613
 - More effort is wasted doing things that don't matter than is wasted doing things inefficiently. Elimination is the highest form of optimization. James Clear.
 - Consensus is the process of abandoning all beliefs, principles, values, and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: I stand for consensus?. Margaret Thatcher.
-- If you cannot measure it, you cannot improve it.  Lord Kelvin. ^a5049d
 - Y es que en el mundo traidor nada hay verdad ni mentira: todo es según el color del cristal con que se mira. Ramón de Campoamor.
 - You either move information from one place to another, or you move mass from one place to another.
 - The fewer the facts, the stronger the opinion. Arnold H. Glasow.

@@ -1,6 +1,6 @@
 # Metrics
 
-![[Quotes#^a5049d]]
+> If you cannot measure it, you cannot improve it — Lord Kelvin.
 
 - Metrics are how we express how a company turns its inputs into outputs — how the company creates, captures, transforms, spends, and distributes value.
 - Focus on 3 to 5 metrics. You may also want to consider counter-metrics (or pairing metrics) that keep you from [over-rotating on a singular metric](https://www.dataliftoff.com/wp-content/uploads/2022/10/tennis_balls-1536x2048.jpeg).
@@ -58,13 +58,14 @@ Remember that there are no objectively right answers. [There is no correct win r
 - Mixing Up Retention and Engagement. Retention and engagement are not the same things. Retention is binary.  It answers the question, was this person active within my defined time period?  Yes or no. Engagement is is depth. It answers the question, how active were they within the defined timed period? 0→N. Engagement is one of three major inputs into driving retention.
 - Customers vs Users. A customer and a user is not the same thing in most business models.  A customer is defined as the person/group that is paying you.  A user is a person using the product.
 - In subscription products, oftentimes there are multiple users associated with a single customer.  Or people are users before they are a customer.  You need to separate the definition and language between these two things for teams to clearly act on them.
+- You don't need perfect accuracy sometimes. Moving in the right direction counts (i.e. fitbit heartrate is off but variance is still useful).
 
 ## Principles for a [Metrics Platform](https://medium.com/airbnb-engineering/airbnb-metric-computation-with-minerva-part-2-9afe6695b486)
 
 - **Standardized**: Data is defined unambiguously in a single place. Anyone can look up definitions without confusion.
 - **Declarative:** Users define the “what” and not the “how”. The processes by which the metrics are calculated, stored, or served are entirely abstracted away from end users.
 - **Scalable**: The tool must be both computationally _and_ operationally scalable.
-- **Consistent**: Data is always consistent. If definition or business logic is changed, backfills occur automatically and data remains up-to-date.
+- **Consistent**: If definition or business logic is changed, backfills occur automatically and data remains up-to-date.
 - **Highly available**: Existing datasets are replaced by new datasets with zero downtime and minimal interruption to data consumption.
 - **Well tested**: Users can prototype and validate their changes extensively well before they are merged into production.
 
