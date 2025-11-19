@@ -54,12 +54,16 @@
   - On the other hand, data analysis and data science are domain level problems and cannot be centralized.
 - Create a single space to [[Data Practices|share the results of analysis and decisions made based on them]].
   - Log changes so everyone can jump in and be aware of what's going on.
-  - Log assumptions and lessons learned somewhere. This information should loop back into the data product.
+  - [Log assumptions and lessons learned somewhere](https://commoncog.com/no-learning-dont-close-loops/). This information should loop back into the data product.
 - Make the warehouse the source of truth for all the teams.
   - What data is Finance/HR/Marketing using to set their OKRs? Put that on the warehouse and model it.
   - [[Metrics]] should be derived from the most realistic data sources. E.g: using internal databases instead of product tracking for "Users Created".
 - Do you want better data? Hire people interested in data!
   - Having managers tell the data team to "Find Insights" is a telltale mark of bad data management and organizational structure.
+- The method to improve _anything_ over time:
+  1. What are you trying to accomplish?
+  2. How will you know a change is an improvement?
+  3. What changes can you make that might lead to improvement?
 - Good use of data is, ultimately, a question of good epistemology. ("Is this true? What can we conclude? How do we know that?") Good epistemology is hard. It must be taught.
 - **When things are going well, no one cares about data**. The right time to present data is when things are starting to go bad. Use your early warning detection systems to understand when it looks like it's gonna be time for data to step in and save the day and then position data as a solution in the context of whatever meaning makes sense. The stakeholders are decision makers and they don't have a ton of time. They're looking to make decisions, they're looking to solve problems.
 - [So much of data work is about accumulating little bits of knowledge and building a shared context in your org so that it's possible to have the big, earth shattering revelations we all wish we could drive on a predictable schedule](https://twitter.com/imightbemary/status/1536368160961572864).
@@ -153,6 +157,7 @@
 - Progress in data isn't linear. As a research discipline, you might spend hours making no progress and then have a breakthrough. Or worse, prove your entire approach won't work.
 - [Apply a research mindset to data](https://jxnl.co/writing/2024/10/25/running-effective-ai-standups). Focus on input metrics, build scientific intuition, and embrace uncertainty.
   - [How can science – loosely, the production of facts – do more to "steer" the outcomes of these processes?](https://jscaseddon.co/2024/02/science-for-steering-vs-for-decision-making/)
+  - You don't hit a quantitative goal by focusing on the goal. You hit a quantitative goal by focusing on the process. Focus on finding the controllable input metrics and drive that.
 - Data is not superior or inferior to intuition or qualitative sensemaking; it is a third sense for operators. Effective decision-making uses all three: intuition, qualitative sensemaking, and data. [Data is just an added sense](https://commoncog.com/data-is-an-added-sense/). Treat data as a tool for building and verifying intuition, not as a replacement for it. Over-reliance on any single sense—data, intuition, or qualitative feedback—limits understanding.
 - Underlying most of the problems around data, there is the question: [how do we represent reality with data, without flattening it](https://denniseirorere.com/posts/graph-the-true-data-and-reality/)?
 

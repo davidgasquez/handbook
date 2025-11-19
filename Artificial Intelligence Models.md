@@ -7,6 +7,7 @@
 - Learning to prompt is similar to learning to search in a search engine (you have to develop a sense of how and what to search for).
 - AI tools amplify existing expertise. The more skills and experience you have on a topic, the faster and better the results you can get from working with LLMs on that topic.
 - [LLMs are useful when exploiting the asymmetry between coming up with an answer and verifying the answer](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) (similar to how a sudoku is difficult to solve, but it's easy to verify that a solution is correct).
+  - [Software 2.0 automates what we can verify](https://x.com/karpathy/status/1990116666194456651). If a task/job is verifiable, then it is optimizable directly or via reinforcement learning, and a neural net can be trained to work extremely well.
 - [LLMs are good at the things that computers are bad at, and bad at the things that computers are good at](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem). Also good at things that don't have wrong answers.
 - Context is king. Managing the context window effectively is crucial for getting good results.
   - Add websites as context with [jina.ai](https://jina.ai/) or [pure.md](https://pure.md/)

@@ -1,0 +1,210 @@
+
+--- POST 41452 BY ccerv1 ---
+tl;dr-
+In 2023, Optimism ran two megarounds. In 2024, Optimism ran one round per domain per year. We’ve learned that mega rounds devolve into popularity contests and annual feedback loops are too slow. In 2025, Optimism should focus on fewer domains, iterate more rapidly, and refine what works.
+In 2023, Optimism had everyone vote on everything. In 2024, Optimism ran experiments around expertise-based voting and metrics-based voting. We’ve learned what humans are good at - and what data is good at. In 2025, Optimism should take the best of both (and set aside the rest).
+In both 2023 and 2024, we struggled at measuring the success of Retro Funding itself. The time for not knowing how well this works is over.
+Full post…
+This was supposed to be simple
+As Vitalik
+wrote
+when initially describing the mechanism: “The core principle behind the concept of retroactive public goods funding is simple: it’s easier to agree on what was useful than what will be useful.”
+Now, nearly two years into this experiment, we should be able to look back at the mechanism of Retro Funding itself and apply this same analysis.
+Specifically, we want to understand:
+Can people actually agree on what was useful?
+Under what circumstances does retroactive funding produce superior outcomes?
+Simple, right? Not entirely.
+My team at OSO has been trying to help Optimism answer some of these questions since
+Round 2
+. In this post, we’ll look at a very high level at what’s happened across five rounds of Retro Funding (Rounds 2-5) and share some of our observations.
+The good news is there are some clear learnings about what people are good at agreeing on and how to create the right conditions for consensus. These learnings are the result of deliberate experiments that were undertaken in 2024, for instance, experimenting with metrics-based voting in Round 4 and expertise-based voting in Round 5.
+The not-so-good news is that we don’t (yet) have the data to show that retroactive funding produces superior outcomes.
+In our view, solving the measurement problem is the most important thing to get right in 2025. We need to build an engine for measuring the impact of each allocation cycle—one that gives us more than a vague sense that it’s working and one that gives the collective more than a single round (per domain) per year to see what’s working.
+Our recommendations include:
+Continuing to move away from project-based voting
+Finding the right balance of metrics and experts’ subjective assessments
+Focusing on a relatively narrow set of domains but with more rapid feedback cycles
+Basically, if 2024 was all about experimenting on expertise-based voting and metrics-based voting, then 2025 should be about combining the best of both. Once we discover the optimal combinations, we can expand the scope and complexity of rounds.
+What humans are good at (and what data is good at)
+Optimism has now completed five rounds that use badgeholder-based voting to allocate tokens.
+Each round had different design parameters and these have allowed us to learn different things about what humans and data are good at.
+Here’s a quick summary:
+Round
+Design Parameters
+Key Lessons Learned
+Round 2
+Projects had to be nominated by a badgeholder in order to make the round. Badgeholders had to determine outright token allocations for each of the 200 projects with minimal tooling.
+Project nomination process was awkward and time-consuming for badgeholders. Badgeholders needed more structure in the voting process; everyone came up with their own scattershot method (eg, sharing spreadsheets to rate their favorite projects).
+Round 3
+Any project could sign-up for one or more domains and self-report their metrics. Badgeholders would do a light review to filter out spam, but left everything else intact. Projects had to get at least 17 votes in order to receive rewards. Over 600 projects ended up getting approved. Badgeholders still had to determine outright token allocations for each of the 600+ projects. Badgeholders could also create “lists” recommending projects and outright allocations.
+Voters felt overwhelmed. It was very difficult to differentiate between weak projects and good ones with little reputation; borderline projects led campaigns to reach the quorum line. The domain categories were not strictly enforced and thus mostly useless to badgeholders. Impact metrics were not comparable. Every list was different and there was no quality control. Onchain projects received a smaller share of the token pool than most badgeholders felt they deserved.
+Round 4
+Focused only on onchain builders with strict eligibility requirements (based on onchain activity). Badgeholders were provided metrics instead of projects to vote on. Over 200 projects were approved out of 400+ applicants. Projects could receive a multiplier if they were open source.
+Badgeholders found voting much easier. Results had a steep power law distribution, but voters generally felt the top projects were rewarded fairly. Metrics alone couldn’t capture quality, momentum, and other nuances, highlighting the need for more complex evaluation signals. Metrics did not work as well for certain “cutting-edge” sub-domains (eg, 4337 related apps). The open source multiplier was too complex to enforce consistently.
+Round 5
+Focused only on OP Stack contributions with strict eligibility requirements (enforced by a small review team). Returned to project-based voting, grouping voters by expertise and assigning each to a single category of 20-30 projects, rather than hundreds.
+Results were very flat, and voters felt the top projects were not rewarded sufficiently. Perverse incentive to divide work across multiple smaller contributions / teams in order to receive more tokens. Grouping by expertise revealed significant differences between experts and non-experts both in project selection and allocation strategy. After seeing both allocations, voters preferred experts’ selections.
+In Round 6, which is currently underway, Optimism is experimenting with impact attestations and a more aggressive set of distribution options for badgeholders.
+Clearly, the optimal Retro Funding design hasn’t been found yet. But we do see some recurring themes:
+Humans are good at relative comparisons (what’s more valuable)
+Humans are bad at outright comparisons (how much more valuable)
+Data is good at providing comprehensive coverage of things that are countable
+Data is bad at dealing with nuances and qualitative concepts that experts intuitively understand
+We’ve also learned that people only reveal their true opinions after seeing the result. This follows basic product theory: you need to show people something and iterate based on their reactions in order to build something they actually want.
+Metrics-driven, experts in the loop
+These hard-earned lessons inform our recommendation for how Optimism approaches future round designs. The goal should be to combine the best parts of what humans and data are good at.
+Here is the basic framework we propose:
+We use metrics-based evaluations to propose initial token allocations within a domain.
+We let subject matter experts review, fine-tune the metrics, and choose the best allocations.
+Over time, we identify which metrics best align with experts’ qualitative assessments, refining models through consistent backtesting.
+This approach leverages data’s systematic reach with human intuition’s nuanced adjustments. Metrics establish a quantitative foundation, ensuring that projects are assessed objectively and fairly, while expert review adds layers of qualitative nuance, including quality, innovation, and momentum. An iterative feedback loop lets us adjust metrics based on expert insights—particularly valuable when experts consistently revise scores or highlight lower-scoring projects. This process is similar to RLHF (Reinforcement Learning with Human Feedback) in machine learning, but with an emphasis on retaining clear, interpretable inputs for expert adjustments.
+Practically, we implement this by establishing metrics within a domain, generating proposals for initial allocations (by weighting metrics into an evaluation algorithm), and refining the allocations with expert input. Such an approach should work best in domains with lots of verifiable data, e.g., onchain builders and software dependencies.
+This framework should also perform well in fast-evolving domains. Experts can adjust allocations to reflect Optimism’s shifting priorities (e.g., prioritizing interoperability transactions over standard transactions), address data blind spots (e.g., fine-tuning metrics for 4337-related projects), and reward innovation (e.g., favoring fast-growing, high-potential projects over more established but static ones).
+One essential element is running funding rounds even more frequently and continuously. Doing so lets us pinpoint metrics most correlated with desirable outcomes and backtest these metrics and evaluation algorithms against historical data. Each round remains an experiment, but the cumulative impact across rounds should reveal a clear, positive trend over time.
+Hard Choices → Easy Life
+The end goal remains super ambitious: to develop predictive models that guide economic policy for the collective. For instance, in 2025, we may want to discover that incentivizing certain behaviors predictably leads to increased interoper transaction volume.
+Reaching this goal won’t be easy. It requires focus, as the outcomes are highly path-dependent.
+Currently, hard choices need to be made around domain scopes. Any changes may be unpopular, especially among community members accustomed to existing Retro Funding patterns. However, narrowing the scope and committing to continuous improvement within scopes are essential steps in reaching the top of the mountain.
+image
+800×661 27 KB
+Looking back, we’ll likely see some initial assumptions were overly optimistic or naive. But we can’t improve by continuing to “spray and pray.” Governance is ultimately about making hard choices with limited resources.
+Optimism has spent two important years learning, but it’s time to double-down on what works in 2025.
+
+--- POST 41460 BY Gonna.eth ---
+Great article Carl as always super helpful!
+Are there any concrete steps for building “an engine” to track impact? It Would be nice to have a clear picture of how to define, track, and iterate on these metrics, and love the idea of aggregating nuanced human impact over time.
+Narrowing domains and increasing feedback frequency is great, but it would be helpful to clarify which domains would be prioritized and how to handle potential trade-offs (e.g., does narrowing the scope risk excluding high-impact outlier projects?). Or at least define a few “long-term” metrics from a bigger list, Why?
+An interesting effect of these metrics in the past is that they’re starting to serve as a guide for projects on what The Foundation, and hopefully The Collective in the future, considers worth funding retroactively. This dynamic shows the influence of Retro Funding metrics as a signaling tool to foster long-term commitment from builders, as they gain confidence that their contributions align with recognized priorities and are likely to be rewarded. Defining long-term metrics could help attract and retain talent, as builders see a clear pathway to recognition and support for their efforts.
+Narrowing domains may be unpopular, but involving The Collective as much as The Foundation can in decision-making and processes will probably mitigate resistance.
+After participating in the OP-Stack round, the ‘Metrics-Driven, Experts in the Loop’ approach feels especially compelling and separating voting from judging. I’m inclined to a model where badgeholders delegate their vote to professionals with specific expertise to asses impact and vote on behalf of the Citizen House. I would even prefer Citizens determine the budget and make OP Stack community members do a peer review between themselves for budget allocation.
+Lastly, about the ‘Guest voter’ experiment: while I believe it’s good to experiment, after the OP Stack report, I think we can all agree that a high schooler who just passed chemistry can’t choose the Nobel Prize winner in chemistry. We should be working on Badgeholder accountability and expansion.
+
+--- POST 41466 BY ccerv1 ---
+Thanks for the feedback Gonna. Will respond in line to several of the topics you raised.
+Gonna.eth:
+Are there any concrete steps for building “an engine” to track impact?
+Not yet. But if there’s support for this general direction, I’d love to help prototype something for RF7 (dev tooling).
+Gonna.eth:
+Narrowing domains and increasing feedback frequency is great, but it would be helpful to clarify which domains would be prioritized
+Some domains would definitely be better suited than others, onchain builders being the most obvious, but in principle this could be done for any domain with public / verifiable data.
+Gonna.eth:
+does narrowing the scope risk excluding high-impact outlier projects?
+Definitely a risk. Hopefully this is a gap that mission requests can fill.
+Gonna.eth:
+Or at least define a few “long-term” metrics from a bigger list
+The
+Superchain Health dashboard
+seems like a good place to start.
+Gonna.eth:
+Defining long-term metrics could help attract and retain talent, as builders see a clear pathway to recognition and support for their efforts.
+100%
+Gonna.eth:
+Narrowing domains may be unpopular, but involving The Collective as much as The Foundation can in decision-making and processes will probably mitigate resistance.
+Agreed - this is an important function of governance. BUT also retro funding shouldn’t be expected to do everything for everyone. I hope mission requests remain broad and adaptable.
+Gonna.eth:
+After participating in the OP-Stack round, the ‘Metrics-Driven, Experts in the Loop’ approach feels especially compelling and separating voting from judging.
+Same here - the findings from the OP Stack round were what really stood out to me. I would also add that subject matter expertise isn’t the only kind of expertise that’s relevant to the job of reviewing projects. Some people bring an expert craft to the process of researching projects, mitigating biases, asking good questions, etc.
+
+--- POST 41467 BY joanbp ---
+ccerv1:
+I would also add that subject matter expertise isn’t the only kind of expertise that’s relevant to the job of reviewing projects. Some people bring an expert craft to the process of researching projects, mitigating biases, asking good questions, etc.
+Thank you for putting this into words - I had been looking for a way to communicate exactly this sentiment.
+Also, while I believe strongly in listening to experts, there is also the matter of building a strong democratic foundation. To me, this is what citizenship is all about: Listening to everyone, discussing any concerns raised, considering pros and cons, and trying to get to a point of rough consensus where there are (ideally) no real losers.
+I kind of like
+@Gonna.eth
+’s idea about having citizens delegate to experts - but I would like it to only be an option, not a requirement. And it should be possible to only delegate for a round at a time.
+That way, I might decide to delegate my citizen’s vote to, say, Carl in a round such as RF5, but I might decide to delegate it to LauNaMu or myself in RF6. That way, I, as the citizen, get to decide in each round what
+kind
+(kinds) of expertise I value for the task at hand.
+Apart from the matter of decentralizing and democratizing power by distributing it among (in the future, I hope, many more!) citizens rather than a few fixed ‘badgeholders’ or ‘experts’, I think this has a crucial psychological/pedagogical/social rationale:
+When you get to hold power, as a citizen, you also get responsibility. Without that, you naturally lack incentive to learn and discuss and ask questions and point out problems and come up with solutions. A certain apathy arises.
+The past few rounds have brought important insights. I think a major issue with them, though, has been the lack of much debate, both internally among citizens, among citizens and guest voters (experts in RF5 and ‘random’ in RF6) and among citizens and other groups of the Collective in general.
+As for citizens vs guest voters, debate has in fact been actively discouraged!
+I understand why, in the name of the experiment. But I think we should also be clear that a lack of communication seriously handicaps the democratic process that might have been.
+Of course there will always be experts who know more than random citizens about any specific domain. But no group of experts will be better voters
+in general
+than a well informed and caring group of citizens who are strong communicators and know how to pull in the experts where it makes sense.
+The issue is: It takes time and effort to grow well informed and caring and communicating citizens of that kind. It is a set of skills that needs to be learned, through meaningful practice and application to real-world problems that genuinely concern you. And it is relationships and shared frames of reference that have to be seeded and nurtured.
+You can’t just give random people power, tell them not to talk to the experts and see how they handle it, and then decide that they are not up to the task.
+Well, you can, but you are not going to learn what a truly informed citizenship might be able to acomplish.
+If the Citizens House is supposed to be all about focussing on the long-term sustainability of Optimism (and the Superchain), then I believe in the model of informed citizenship where it might be possible to delegate power to subject matter experts on a case by case basis, but where it is equally possible to vote yourself, and where there is always an incentive to learn and discuss and share context and consider many different perspectives and kinds of expertise - and then make up your mind.
+Anything less than that would be a missed opportunity, the way I see it.
+
+--- POST 41537 BY LauNaMu ---
+I’ve read through this and started analyzing it, however, as I shared with Jonas (who asked me to post it here) before I go into details it would be very valuable to get the direct sources of the summary
+particularly for the “Key Lessons Learned” section. It’s currently unclear if each of the conclusions presented is derived from a significant amount of data.
+I think this would additionally strengthen the analysis and the hypothesis that follow. Could these sources please be included?
+
+--- POST 41538 BY Gneric ---
+As a citizen being able to allocate to experts and several well informed citizens seems smart IMO, but what could be the downside of such decision?
+
+--- POST 41540 BY ccerv1 ---
+Hi Lau,
+I don’t have access to the raw survey results, but here are some screenshots from the post-round badgeholder retros.
+image
+2028×1038 133 KB
+image
+1526×818 14.7 KB
+image
+1500×846 36.8 KB
+image
+1652×952 15 KB
+Regarding the expert vs non-expert allocations, I have in my notes from the RF5 retro that ~80% of survey respondents preferred the expert allocations from RF5.
+This
+thread
+also has a lot of feedback on RF3, including issues with lists and the relatively low allocation to onchain projects. Trent from Protocol Guild also had a good
+essay
+about the perverse incentive to “atomize” work in RF5.
+Were there other sources you had in mind?
+
+--- POST 41541 BY 1a35e1 ---
+Agree that there needs to be more data oriented processes. The more public data is available the easier it will be to explore and make judgements.
+Can we work to build out a
+https://data.optimism.io/
+or similar
+
+--- POST 41543 BY Chain_L ---
+That’s a great idea.
+Currently there is public data around, but scattered everywhere.
+numbaNERDs can be the path via which this can be maintained.
+
+--- POST 41552 BY Deelabs ---
+We find this retrospective analysis of Optimism’s Retro Funding mechanism to be thorough and insightful, particularly in its systematic evaluation of the evolving funding approaches and their respective outcomes across different rounds.
+The analysis is proficient in identifying key learnings from each implementation phase, and effectively outlines the strengths and limitations of both human judgment and data-driven approaches.
+Particularly compelling is the proposed framework that combines metrics-based evaluation with expert oversight. This hybrid approach arguably addresses many of the limitations observed in previous rounds:
+Leverages data’s systematic reach while maintaining human intuition for nuanced decisions
+Enables iterative improvement through faster feedback cycles
+Creates a more sustainable and scalable evaluation process
+The emphasis on narrowing domain scope while increasing iteration frequency is a pragmatic evolution and in our view, a suitable approach. Rather than attempting to solve everything at once, this approach allows for meaningful refinement of the mechanism within specific contexts.
+It would be efficient to specify and concretize the domains worthy of further attention and prioritization.
+We’re supportive of the recommendation to move toward a more focused, metrics-driven approach with expert oversight. The emphasis on continuous improvement and faster iteration cycles should enable more effective resource allocation while building stronger empirical evidence for what works.
+
+--- POST 41621 BY noturhandle ---
+Hey Carl, incredible summary. Thanks for sharing.
+In the lessons learned for Round 5, you mentioned that teams had perverse incentives to break the work into smaller contributions, but I can’t determine the cause.
+Can you expand at all? Were projects simply trying to submit to more categories, i.e., spread betting? Or was there some element of the voting design that preferred smaller projects?
+
+--- POST 41623 BY ismailemin ---
+I really liked the article thanks for it Carl.
+joanbp:
+That way, I might decide to delegate my citizen’s vote to, say, Carl in a round such as RF5, but I might decide to delegate it to LauNaMu or myself in RF6. That way, I, as the citizen, get to decide in each round what
+kind
+(kinds) of expertise I value for the task at hand.
+Also liked the idea of delegating the VP in the Citizens’ House. Maybe we should create profiles for every badgeholder so anyone can know what are their expertise areas. This also enables the selection of new citizens based on gaps in expertise areas.
+
+--- POST 41626 BY ccerv1 ---
+Hey
+@noturhandle
+noturhandle:
+In the lessons learned for Round 5, you mentioned that teams had perverse incentives to break the work into smaller contributions, but I can’t determine the cause.
+Can you expand at all? Were projects simply trying to submit to more categories, i.e., spread betting? Or was there some element of the voting design that preferred smaller projects?
+I think the primary reason is that many badgeholders want to give something to everyone who has had
+some impact
+, however small. So they give 1-2% to lots of small projects. Even if there are some zero votes, the median is still likely to be around 1-2%.
+At the same time, many badgeholders have historically been wary of giving very large allocations to projects they feel are high impact, eg, over 10%. So large projects will also get a lot of 1-2% votes and then a few >10%, but not enough to significantly skew the median.
+The result is a median of 1-2% for a small project and maybe 3-5% for a large project.
+If a well-known large project wanted to take advantage of this tendency and optimize its retro funding, it would almost certainly do better by submitting 5 projects with a combined expected value of 5-10% (versus the current 3-5% for a single project).
+Note: I’m writing this from recall - I’m not looking at actual numbers.
+
+--- POST 41889 BY happy ---
+great info and super useful content
