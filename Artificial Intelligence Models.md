@@ -5,6 +5,7 @@
 - Classic ML system where humans are designing how the information is organized (feature engineering, linking, graph building) scale poorly ([the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)). LLMs are able to learn how to organize the information from the data itself.
 - [LLMs may not yet have human-level depth, but they already have vastly superhuman breadth](https://news.ycombinator.com/item?id=42625851).
 - Learning to prompt is similar to learning to search in a search engine (you have to develop a sense of how and what to search for).
+- LLMs have encyclopedic knowledge but suffer from hallucinations, jagged intelligence, and "amnesia" (no persistent memory).
 - AI tools amplify existing expertise. The more skills and experience you have on a topic, the faster and better the results you can get from working with LLMs on that topic.
 - [LLMs are useful when exploiting the asymmetry between coming up with an answer and verifying the answer](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) (similar to how a sudoku is difficult to solve, but it's easy to verify that a solution is correct).
   - [Software 2.0 automates what we can verify](https://x.com/karpathy/status/1990116666194456651). If a task/job is verifiable, then it is optimizable directly or via reinforcement learning, and a neural net can be trained to work extremely well.
@@ -92,6 +93,7 @@
   - The ability to ship to a preview environment.
   - An instinct for what can be outsourced (to AI vs what needs human attention).
   - An good (updated) sense of estimation.
+- Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
 
 ## Agents
 

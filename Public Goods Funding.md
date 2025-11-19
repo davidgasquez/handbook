@@ -22,6 +22,18 @@ Public goods are defined as goods that are both nonexcludable (it's infeasible t
 - **Anti-Collusion Infrastructure**. Like secure voting systems, there is a threat of buying votes in a funding mechanism. Collusion can be discouraged by making it impossible for users to prove how they reported their preferences. This infrastructure must be extended to prevent collusion between the 3rd party and the users.
 - **Predictable Schedules**. Participants need to know when are they getting funded.
 
+## Methods
+
+### Simulation Process (S-process)
+
+The [S-Process (Simulation Process)](https://www.youtube.com/watch?v=jWivz6KidkI) is a collaborative funding algorithm designed to optimize the distribution of resources to public goods. It allows multiple funders to delegate the complexity of grant-making to overlapping groups of trusted "recommenders".
+
+- **Aggregate Information, Not Just Money**. Instead of funders voting with dollars, participants input **Marginal Value Functions (MVFs)**. This creates a "How valuable is the next dollar given to this organization?" curve for each organization.
+- **Delegation to Trusted Recommenders:** Funders often lack the time to evaluate every opportunity, the system allows them to delegate the creation of these value curves to trusted experts. Funders still have the "Final Say". This relieves stress on the advisors (recommenders), allowing them to express honest opinions without the anxiety of being the sole decision-maker.
+- **Discourse is Essential:** Numbers cannot replace conversation. The process requires real-time debate where advisors explain *why* they value an organization differently.
+1.  **Iterated Simulations:** The allocation algorithm is run repeatedly *during* the discussion. Advisors see where the money would go based on their current inputs, discuss the outcome, and adjust their inputs. This turns a "one-shot" game into an iterated cooperative game.
+2.  **The "Disagreement Matrix":** The system highlights where advisors disagree most (e.g., Advisor A loves Org X, Advisor B hates Org X). Discussion is focused specifically on these disagreements to surface new information.
+
 ## Resources
 
 - [Public Goods Funding Landscape](https://splittinginfinity.substack.com/p/the-public-goods-funding-landscape)
