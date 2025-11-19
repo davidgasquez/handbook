@@ -125,7 +125,9 @@ Once the competition ends, extra comparisons could be gathered for projects that
 - Let the dependent set their weight percentage if they're around
 - Have hypercerts or similar. The price of these (total value) sets the weights across dependencies (`numpy`'s certificates trade at 3x the price of a utility library, the edge weight reflects this)
 - If there are reviewers/validators/jurors, need to be public so they have some sort of reputation
-  - Reputation system / ELO for Jurors whose score is closer to the final one. This biases towards averages
+  - Reputation system for Jurors
+    - E.g: whose score is closer to the final one. This biases towards averages
+    - Use graph algorithms ([MaxFlow](https://maxflow.one/how-it-works)) to weight jurors
   - Account for jurors' biases with Hierarchical Bradley Terry or similar
   - Allow anyone to be a juror, select jurors based on their skills
 - Stake-based flow:
