@@ -1,13 +1,12 @@
 # Public Goods Funding
 
-Public goods are defined as goods that are both nonexcludable (it's infeasible to prevent someone from consuming the good) and nonrivalrous (one person's consumption can not reduce another person's consumption of the good). They benefit everyone but are difficult to fund through traditional market mechanisms due to their non-excludable and non-rivalrous nature. Examples include open-source software, scientific research, environmental protection, and community infrastructure.
+Public goods are defined as goods that are both non-excludable (it's infeasible to prevent someone from consuming the good) and nonrivalrous (one person's consumption can not reduce another person's consumption of the good). They benefit everyone but are difficult to fund through traditional market mechanisms due to their non-excludable and non-rivalrous nature. Examples include open-source software, scientific research, environmental protection, and community infrastructure.
 
-- The fact that public goods are not excludable creates a "free-rider problem", where people are incentivized to enjoy the benefits of the good without paying for it.
-  - [What's the point of contributing to a public park if non-contributors can use it too](https://splittinginfinity.substack.com/p/the-public-goods-funding-landscape)?
-- All funding mechanisms involve trade-offs between simplicity, robustness, and theoretical optimality. There is no mechanism that [can simultaneously achieve four desirable criteria](https://www.jstor.org/stable/2298018)-
+- The fact that public goods are not excludable creates a "free-rider problem", where people are incentivized to enjoy the benefits of the good without paying for it. [What's the point of contributing to a public park if non-contributors can use it too](https://splittinginfinity.substack.com/p/the-public-goods-funding-landscape)?
+- All funding mechanisms involve trade-offs between simplicity, robustness, and theoretical optimality. There is no mechanism that [can simultaneously achieve four desirable criteria](https://www.jstor.org/stable/2298018).
 - [[Plurality|Different public goods require different funding approaches based on their characteristics and communities]].
 - Mathematical optimality matters less than perceived fairness and historical precedent. Ideal funding methods that don't work in practice are not ideal.
-  - [[Mechanism Design|Mechanism]] which satisfy different constraints have already been discovered, and it seems unlikely that a different approach will radically change the landscape. Instead, the **bottleneck seems to be in popularizing and scaling existing mechanisms in the real world**.
+- Many [[Mechanism Design|mechanisms]] which satisfy different constraints have already been discovered, and it seems unlikely that a different approach will radically change the landscape. Instead, the **bottleneck seems to be in popularizing and scaling existing mechanisms**.
 
 ## Desirable Criteria
 
@@ -31,8 +30,18 @@ The [S-Process (Simulation Process)](https://www.youtube.com/watch?v=jWivz6KidkI
 - **Aggregate Information, Not Just Money**. Instead of funders voting with dollars, participants input **Marginal Value Functions (MVFs)**. This creates a "How valuable is the next dollar given to this organization?" curve for each organization.
 - **Delegation to Trusted Recommenders:** Funders often lack the time to evaluate every opportunity, the system allows them to delegate the creation of these value curves to trusted experts. Funders still have the "Final Say". This relieves stress on the advisors (recommenders), allowing them to express honest opinions without the anxiety of being the sole decision-maker.
 - **Discourse is Essential:** Numbers cannot replace conversation. The process requires real-time debate where advisors explain *why* they value an organization differently.
-1.  **Iterated Simulations:** The allocation algorithm is run repeatedly *during* the discussion. Advisors see where the money would go based on their current inputs, discuss the outcome, and adjust their inputs. This turns a "one-shot" game into an iterated cooperative game.
-2.  **The "Disagreement Matrix":** The system highlights where advisors disagree most (e.g., Advisor A loves Org X, Advisor B hates Org X). Discussion is focused specifically on these disagreements to surface new information.
+- **Iterated Simulations:** The allocation algorithm is run repeatedly *during* the discussion. Advisors see where the money would go based on their current inputs, discuss the outcome, and adjust their inputs. This turns a "one-shot" game into an iterated cooperative game.
+- **The "Disagreement Matrix":** The system highlights where advisors disagree most (e.g., Advisor A loves Org X, Advisor B hates Org X). Discussion is focused specifically on these disagreements to surface new information.
+
+### Shares Funding
+
+When a project turns out to be great, pay both the builders and the early funders. People who repeatedly back the right projects end up with more money and can fund more next time.
+
+Builders create public goods (OSS, research, infrastructure, etc.), funders chooses and puts money in them. Retrospective rounds are made with any [[Impact Evaluators]] mechanism. Projects and funders are rewarded accordingly.
+
+Each cycle has tro phases: Funding and Retro. The funding phase is where funders give money to any projects they decide to back. They recive "retro shares" for that project. Basically, Who backed what, and by how much? The retrospective phase is where the system rewards impact. A mechanism is run (e.g: [[Deep Funding]]) that returns a version of impact for each project.
+
+Capital concentrates in the hands of those who were repeatedly "right" about which public goods mattered.
 
 ## Resources
 
