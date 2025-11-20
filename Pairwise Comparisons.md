@@ -24,3 +24,10 @@ Pairwise comparisons are any processes of comparing entities in pairs to judge w
 - Use robust methods (crowd BT, hierarchical BT, [Bayesian variants](https://erichorvitz.com/crowd_pairwise.pdf)) to correct annotator bias and uncertainty.
 - Expert jurors can be inconsistent, biased, and expensive. [Large graphs of comparisons](https://arxiv.org/pdf/1505.01462) are needed to tame variance.
 - You can report accuracy/Brier by using [bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)).
+
+## Resources
+
+- [Elo vs Bradley-Terry Model](https://www.keiruaprod.fr/blog/2021/06/02/elo-vs-bradley-terry-model.html)
+- [Designing a Better Judging System](https://anishathalye.com/designing-a-better-judging-system/)
+- [Quadratic vs Pairwise](https://blog.zaratan.world/p/quadratic-v-pairwise)
+- [An Analysis of Pairwise Preference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3359677)
