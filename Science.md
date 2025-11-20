@@ -1,6 +1,6 @@
 # Science
 
-![[Quotes#^d54898]]
+> The good thing about [science](https://youtu.be/3MRHcYtZjFY) is that it's true whether or not you believe in it. Neil deGrasse Tyson.
 
 - Science is how humanity learns.
 - Science is the main way humanity extends what we know about the world beyond what we can sense directly. Technology is how we use that knowledge to make our lives better.

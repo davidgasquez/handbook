@@ -1,6 +1,6 @@
 # Traveling
 
-![[Quotes#^396dbb]]
+> You enjoy a trip three times. Getting ready for it, while traveling and when you remember it. Good memories appreciate over time!
 
 - Select a theme and make sure everyone is on the same page.
   - Organize your travel around passions instead of pure destinations.

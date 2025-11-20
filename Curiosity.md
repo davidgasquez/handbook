@@ -1,6 +1,6 @@
 # Curiosity
 
-![[Quotes#^307613]]
+> Everyone you will ever meet knows something you don't. Your job is to discover what it is, and it won't be obvious. Bill Nye.
 
 - Never stop [[learning]], practice [[Thinking|rational thinking]] and internalize [[mental models]] and other concepts that will help you think more effectively.
 - Knowledge is a powerful tool. The more you [feel like a noob](http://paulgraham.com/noob.html), the better. Feeling stupid now is better than feeling stupid in 10 years.

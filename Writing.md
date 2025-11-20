@@ -1,6 +1,6 @@
 # Writing
 
-![[Quotes#^645051]]
+> If you think without writing, you only think you're thinking. Leslie Lamport.
 
 - Writing things down helps clarifying [[Ideas]]. One of the tests of whether you understand something is whether you can explain it to someone else. [Writing doesn't just communicate ideas; it generates them](http://www.paulgraham.com/writing44.html).
   - Writing down your ideas shows you whether they have substance. Detecting when you're wrong is the first step to becoming right. There are many ways to record thought. Writing is the best for improving your [[Thinking]].

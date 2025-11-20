@@ -1,6 +1,6 @@
 # Resolving Disagreement
 
-![[Quotes#^448662]]
+> Don't raise your voice, improve your argument. Desmond Tutu.
 
 We should be arguing in a constructive fashion: treating arguments as an opportunity to [[Learning|expand knowledge]], finding points of disagreement, and [[Coordination|collaborating]] towards a common truth. A few assumptions are required to have a successful disagreement:
 

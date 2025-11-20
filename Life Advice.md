@@ -1,6 +1,6 @@
 # Life Advice
 
-![[Quotes#^9748a6]]
+> Life doesn't get better. You get better at it.
 
 [On most days you are busy just keeping your head above water. So it is not easy to figure out what to do with your life and how to spend your time.](https://youtu.be/JXeJANDKwDc)
 

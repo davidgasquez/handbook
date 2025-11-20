@@ -1,6 +1,6 @@
 # Communication
 
-![[Quotes#^a6f960]]
+> To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others — Tony Robbins
 
 Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, [[Resolving Disagreement|discussion]], [[Talking|talking]],  [[Learning|education]], [[listening]], and many more. Communication is a skill that is learnable.
 

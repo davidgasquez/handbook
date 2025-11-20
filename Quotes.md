@@ -3,25 +3,18 @@
 A quote is a distilled piece of knowledge. These are some of my favorites.
 
 - Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. Anthony Robbins.
-- The good thing about [science](https://youtu.be/3MRHcYtZjFY) is that it's true whether or not you believe in it. Neil deGrasse Tyson. ^d54898
-- Don't raise your voice, improve your argument. Desmond Tutu. ^448662
 - Desire is a contract you make with yourself to be unhappy until you get what you want. Naval Ravikant.
-- To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others — Tony Robbins ^a6f960
 - Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely. Roy T. Bennett.
 - If you want to feel good, brainstorm it. If you want to appear good, test it. If you want to know if you're any good, ship it. Jason Fried.
-- Life doesn't get better. You get better at it. ^9748a6
-- It is not the things we do in life that we regret on our deathbed. It is the things we do not. Randy Pausch. ^1b91f3
 - There is nothing so useless as doing efficiently that which should not be done at all. Peter Drucker.
-- Questions are places in your mind where answers fit. If you haven't asked the question, the answer has nowhere to go. It hits your mind and bounces right off. You have to ask the question – you have to want to know – in order to open up the space for the answer to fit. Clay Christiansen. ^c63c02
 - Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away. Antoine de Saint-Exupéry.
 - You cannot answer a question that you cannot ask, and you cannot ask a question that you have no words for. Judea Pearl.
 - [The mind is its own place, and in itself can make a heaven of hell, a hell of heaven](https://youtu.be/RPicL1AWrs8?list=WL).
 - There's no love in a carbon atom, No hurricane in a water molecule, No financial collapse in a dollar bill. Peter Dodds.
-- All models are wrong, but some are useful. George Box. ^0452ef
+- All models are wrong, but some are useful. George Box.
 - Relax, no one else knows what they're doing either. Ricky Gervais.
 - When you view the world as a series of outputs, you form opinions. But when you view the world as a series of [[systems]], you form strategies. Channing Allen.
 - I hate that man. I must get to know him better. Abraham Lincoln.
-- You enjoy a trip three times. Getting ready for it, while traveling and when you remember it. Good memories appreciate over time! ^396dbb
 - Extraordinary claims require extraordinary evidence. Carl Sagan.
 - The rabbit runs faster than the fox, because the rabbit is running for his life while the fox is only running for his dinner. Richard Dawkins.
 - Where all think alike, no one thinks very much. Walter Lippmann.
@@ -35,14 +28,14 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - It is impossible for a man to learn what he thinks he already knows. Epictetus.
 - You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally. Robert M. Pirsig.
 - Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Richard Feynman.
-- There are no solutions. There are only trade-offs. Thomas Sowell. ^1f0d5b
+- There are no solutions. There are only trade-offs. Thomas Sowell.
 - It's not that life is short, it's that we waste too much of it. Seneca.
 - Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in. Isaac Asimov.
 - Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you'll never be the same again. Steve Jobs.
 - A witty saying proves nothing. Voltaire.
 - This too shall pass. Persian adage.
 - [Show me a man who thinks he's objective and I'll show you a man who's deceiving himself](https://www.collaborativefund.com/blog/a-few-rules/). Henry Luce.
-- The real problem of humanity is the following: we have Paleolithic emotions, medieval institutions, and god-like technology. Edward O. Wilson. ^8eb74d
+- The real problem of humanity is the following: we have Paleolithic emotions, medieval institutions, and god-like technology. Edward O. Wilson.
 - You could be good today. But instead, you choose tomorrow. Marcus Aurelius.
 - Happiness is a cookie that your brain bakes for itself. It's not made by the environment. The environment cannot make you happy. Joscha Bach.
 - Start now. Start where you are. Start with fear. Start with pain. Start with doubt. Start with hands shaking. Start with voice trembling but start. Start and don't stop. Start where you are, with what you have. Just... start. Ijeoma Umebinyuo
@@ -50,14 +43,11 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - That which can be destroyed by the truth should be. P.C. Hodgell.
 - The past is a foreign country, they do things differently there. Leslie Poles Hartley.
 - Most advice is basically people mistaking correlation for causation. Leo Polovets.
-- In preparing for battle I have always found that plans are useless, but planning is indispensable. Dwight D. Eisenhower. ^07c32d
-- Everyone you will ever meet knows something you don't. Your job is to discover what it is, and it won't be obvious. Bill Nye. ^307613
 - More effort is wasted doing things that don't matter than is wasted doing things inefficiently. Elimination is the highest form of optimization. James Clear.
 - Consensus is the process of abandoning all beliefs, principles, values, and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: I stand for consensus?. Margaret Thatcher.
 - Y es que en el mundo traidor nada hay verdad ni mentira: todo es según el color del cristal con que se mira. Ramón de Campoamor.
 - You either move information from one place to another, or you move mass from one place to another.
 - The fewer the facts, the stronger the opinion. Arnold H. Glasow.
-- If you think without writing, you only think you're thinking. Leslie Lamport. ^645051
 - It's _chapuzas_ all the way down. Me, dreaming.
 - [You will observe with concern how long a useful truth may be known, and exist, before it is generally received and practiced on](https://www.youtube.com/watch?v=IV3dnLzthDA). Benjamin Franklin.
 - People are tribal. The more settled things are, the bigger the tribes can be. The churn comes, and the tribes get small again. Amos Burton.
