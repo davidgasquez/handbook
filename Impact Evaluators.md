@@ -4,6 +4,7 @@ Impact Evaluators are frameworks for [[Coordination|coordinating]] work and alig
 
 It's hard to do [[Public Goods Funding]], open-source software, research, etc. that don't have a clear, immediate financial return, especially high-risk/high-reward projects. Traditional funding often fails here. Instead of just giving money upfront (prospectively), Impact Evaluators create systems that look back at what work was actually done and what impact it actually had (retrospectively). It's much easier to judge the impact in a retrospective way!
 
+- The extent to which an intervention is _causally responsible_ for an specific outcome (intended or unintended) is a hard thing to figure out. There are many classic approaches; Theory of Change, Data Analysis, ML, ...
 - The goal is to **create a system with strong [[Incentives]] for people/teams to work on valuable, uncertain things** by distributing a reward according to the demonstrable impact.
 - Impact Evaluators work well on concrete areas where you can turn into easily measurable metrics. Impact Evaluators are powerful and will overfit. When the goal is not well aligned, they can be harmful. E.g: Bitcoin increasing the energy consumption of the planet. **Impact Evaluators can become Externalities Maximizers**.
 - **Start local and iterate**.
@@ -19,6 +20,8 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - [The McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy). Never choose metrics on the basis of what is easily measurable over what is meaningful. Data is inherently objectifying and naturally reduces complex conceptions and process into coarse representations. There's a certain fetish for data that can be quantified.
   - Cultivate a culture which welcomes experimentation.
   - Ostrom's Law. "A resource arrangement that works in practice can work in theory"
+  - Even in environments with clear and easy to get metrics, someone has to make a decision of why that metric results in a better allocation instead of another similar or a combination. It's all humand judgment / governance!
+    - There is no way around defining a metric/loss function to evaluate allocations! Discussions should be focused on this instead of the specific of an allocation mechanism.
 - **Community Feedback Mechanism**.
   - Implement robust feedback systems that allow participants to report and address concerns about the integrity of the metrics or behaviors in the community.
   - Use the feedback to refine and improve the system.
@@ -63,12 +66,14 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Gather objective attestations about work (commits, usage stats, dependencies).
   - Apply multiple "evaluation lenses" to interpret the data.
   - Let funders choose which lenses align with their values.
-  - Prefer [[Pairwise Comparisons]] for human input over absolute scoring; standard methods turn pairs into scores/ranks and handle noisy raters.
+  - Prefer [[Pairwise Comparisons]] for human input over absolute scoring. Standard methods turn pairs into scores/ranks and handle noisy raters.
+    - Pairwise comparisons are useful to abstract "impact" and other complex and subjective metrics. Makes the decision more local and easier. More of a hunch based decision.
   - [Data is good at providing comprehensive coverage of things that are countable. Data is bad at dealing with nuances and qualitative concepts that experts intuitively understand.](https://gov.optimism.io/t/lessons-learned-from-two-years-of-retroactive-public-goods-funding/9239)
 - **Design for composability**. Define clear data structures (graphs, weight vectors) as APIs between layers.
   - Multiple communities could share measurement infrastructure.
   - Different evaluation methods can operate on the same data.
   - Evolution through recombination rather than redesign.
+  - Goal is evolutionary impact evaluation so people that are good, thrive.
   - To create a permissionless way for projects to participate, staking is a solution.
   - Fix a Data Structure (API) for each layer so they can compose (graph, weight vector).
     - E.g: [[Deep Funding]] problem data structure is a graph. Weights are a vector/dict, ...
@@ -80,12 +85,16 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
     - Incentive Compatibility: Designing mechanisms so that participants are motivated to act truthfully, without gaining by misrepresenting their preferences.
     - Individual Rationality: Ensuring that every participant has a non-negative utility (or at least no worse off) by participating in the mechanism.
     - Budget Balance: The mechanism generates sufficient revenue to cover its costs or payouts, without running a net deficit.
+  - If you do something with a large "impact" and I do something with less "impact". It's clear you deserve more. How much more, is debatible. Depends on the goals of the organizers!
+  - In most of the mechanisms working nowadays (e.g: [[Deep Funding]]), there are arbitrary decissions that affect the allocation.
+    - Small rules might have a disproportionate impact.
 - **Legible Impact Attribution**. Make contributions and their value visible.
   - [Transform vague notions of "alignment" into measurable criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html) that projects can compete on.
   - Designing Impact Evaluators has the side effect of making impact more legible, decomposed into specific properties, which can be represented by specific metrics.
   - Do more to make different aspects of alignment legible, while not centralizing in one single "watcher" (e.g: l2beats, ...).
   - Let projects compete on measurable criteria rather than connections.
   - Create separation of evaluations through multiple independent "dashboard organizations".
+  - Take into account that projects have a [marginal utility function](https://youtu.be/jWivz6KidkI).
 - **Incomplete contracts problem**. [It's expensive to measure what really matters](https://meaningalignment.substack.com/p/market-intermediaries-a-post-agi), so we optimize proxies that drift from true goals.
   - Current markets optimize clicks and engagement over human flourishing.
   - The more powerful the optimization, the more dangerous the misalignment.
@@ -108,6 +117,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - **Make evaluation infrastructure permissionless**. Just as anyone can fork code, anyone should be able to fork evaluation criteria. This prevents capture and enables innovation.
   - Anyone should be able to [fork the evaluation system with their own criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html), preventing capture and enabling experimentation.
 - [IEs are the scientific method in disguise, like AI evals](https://eugeneyan.com/writing/eval-process/).
+- There are two areas of Impmact Evaluators where coordination is needed: allocation rules and mechanism selection.
 - **Focus on error analysis**. Like in [LLM evaluations](https://hamel.dev/blog/posts/evals-faq/), understanding failure modes matters more than optimizing metrics. Study what breaks and why.
   - IEs will have to do some sort of "error analysis". [Is the most important activity in LLM evals](https://hamel.dev/blog/posts/evals-faq/#q-why-is-error-analysis-so-important-in-llm-evals-and-how-is-it-performed). Error analysis helps you decide what evals to write in the first place. It allows you to identify failure modes unique to your application and data.
 - **Reduce cognitive load for humans**. Let [algorithms handle scale while humans set direction and audit results](https://vitalik.eth.limo/general/2025/02/28/aihumans.html).

@@ -92,6 +92,7 @@ Once the competition ends, extra comparisons could be gathered for projects that
 
 ### More Ideas
 
+- Fix weight distributions (Zipf law) and make modelers focus on predicting the rank. Pick the model that aligns the most with the pairwise data collected.
 - Set a consensus over which meta-mechanism is used to evaluate weights (e.g: Brier Score). Judged/rank mechanism/models solely on their performance against the rigorous pre-built eval set. No subjective opinions. Just a leaderboard of the most aligned weight distributions.
   - Win rates can be derived from pairwise comparisons
 - Lean on the [[Pairwise Comparisons]] playbook (binary questions over intensity, active sampling, filtering noisy raters) for any human labeling.
