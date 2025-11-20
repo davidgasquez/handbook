@@ -2,7 +2,7 @@
 
 Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. [If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person](https://twitter.com/saranormous/status/1527839900069875713).
 
-Behavior is hard to fix. When people say they've learned their lesson they underestimate how much of their previous mistake was caused by emotions that will return when faced with the same circumstances unless incentives have changed.
+Behavior is hard to fix. When people say they've learned their lesson, they underestimate how much of their previous mistake was caused by emotions that will return when faced with the same circumstances unless incentives have changed.
 
 > _"Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior"._ Dee Hock.
 
@@ -29,5 +29,5 @@ Behavior is hard to fix. When people say they've learned their lesson they under
 2. **Metrics**. Establish [[Metrics|metrics that you will measure to track success]]. Avoid the McNamara Fallacy—never choose metrics on the basis of what is easily measurable over what is meaningful. Identify a wish list of metrics with no regard for feasibility. Work backwards from there.
 3. **Anti-Metrics**. Establish "anti-metrics" that you measure to track unintended consequences. Anti-metrics force you to consider whether your incentives are fixing one problem here, but creating another problem over there.
 4. **Stakes & Effects**. Consider the stakes. If the failures are costly and the decisions hard to reverse, conduct a heavier analysis.
-5. **Skin in the Game**. To avoid principal-agent problems, the incentive designer should have skin in the game. Never allow an incentive to be implemented where the creator participates in pleasure of the upside, but not the pain in the downside. Skin in the game improves outcomes.
-6. **Clarity & Fluidity**. An incentive is only as effective as the clarity of its dissemination and the ability and willingness to adjust it based on new information. Create even understanding playing fields for all constituents and avoid plan continuation bias.
+5. **Skin in the Game**. To avoid principal-agent problems, the incentive designer should have skin in the game. Never allow an incentive to be implemented where the creator participates in the pleasure of the upside, but not the pain of the downside. Skin in the game improves outcomes.
+6. **Clarity & Fluidity**. An incentive is only as effective as the clarity of its dissemination and the ability and willingness to adjust it based on new information. Create even playing fields for all constituents and avoid plan continuation bias.

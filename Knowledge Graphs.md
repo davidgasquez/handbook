@@ -17,8 +17,8 @@
 - The status quo of the semantic web space is still SPARQL.
   - You can build [a knowledge graph database on top of a relational engine](https://twitter.com/RelationalAI).
 - Knowledge Graphs act as a semantic layer.
-- Tables in SQL (relational databases) are collections of relationships.
-- It is possible to make append only and dynamic KGs with Temporal Knowledge Graphs!
+- Tables in SQL (relational [[Databases]]) are collections of relationships.
+- It is possible to make append-only and dynamic KGs with Temporal Knowledge Graphs!
 
 ## Projects
 
