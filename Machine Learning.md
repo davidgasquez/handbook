@@ -4,7 +4,7 @@
 
 1. Frame the problem. Define a clear and concise objective with clear metrics. [Write it as a design doc](https://applyingml.com/resources/ml-design-docs/). To know "what it is good enough" you have to collect and annotate more data than most people and organizations want to do.
 1. Get the data. Make the data tidy. Machine learning models are only as reliable as the data used to train them. [The data matters more than the model](https://twitter.com/beeonaposy/status/1353735905962577920). Data matters more than the model. [The main bottleneck is collecting enough high quality data and getting it properly annotated and verified](https://news.ycombinator.com/item?id=45875618). Then doing proper evals with humans in the loop to get it right.
-1. Explore the data. Verify any assumptions. Garbage in, garbage out.
+1. Explore the data. Verify any assumptions. Garbage in, garbage out. Remove ALL friction from looking at data.
 1. Create a model. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be the [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa). Evaluate the model with the defined metric.
 1. Make sure everything works end to end. _You design it, you train it, you deploy it_. [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html) and automatically. Add a clear description of the model. [Monitor model performance in production](https://youtu.be/hqxQO7MoQIE).
 1. Make results (models, analysis, graphs, ...) reproducible (code, environment and data). Version your code, data and configuration. Make feature dependencies explicit in the code. Separate code from configuration.
@@ -16,10 +16,31 @@
 
 These points are expanded with more details in courses like [Made With ML](https://madewithml.com/).
 
-## Tips
+## Evals
 
-- Use pre-commit hooks. Start with the basics — black, isort — then add pydocstyle, mypy, check-ast, ...
-- Version your data! Don't overwrite raw datasets.
+> Don't hope for "great", specify it, measure it, and improve toward it!
+
+- Evals make fuzzy goals and abstract ideas specific and explicit. They help you systematically measure and improve a system.
+- Evals are a key set of tools and methods to measure and improve the ability of an AI system to meet expectations.
+- [Success with AI hinges on how fast you can iterate](https://hamel.dev/blog/posts/evals/#iterating-quickly-success). You must have processes and tools for evaluating quality (tests), debugging issues (logging, inspecting data), and changing the behavior or the system (prompt eng, fine-tuning, writing code).
+- Collecting good evals will make you understand the problem better.
+- Working with probabilistic systems requires new kinds of measurement and deeper consideration of trade-offs.
+- Don't work if you cannot define what "great" means for your use case.
+
+### The [Eval Loop](https://openai.com/index/evals-drive-next-chapter-of-ai/)
+
+1. **Specify**.
+  - Define what "great" means.
+  - Write down the purpose of your AI system in plain terms.
+  - The resulting golden set of examples should be a living, authoritative reference of your most skilled experts' judgement and taste for what "great" looks like.
+  - The process is iterative and messy.
+2. **Measure**
+  - Test against real-world conditions. Reliably surface concrete examples of how and when the system is failing.
+  - Use examples drawn from real-world situations whenever possible.
+3. **Improve**
+  - Learn from errors.
+  - Addressing problems uncovered by your eval can take on many forms: refining prompts, adjusting data access, updating the eval itself to better reflect your goals, ...
+  -
 
 ### ML In Production Resources
 

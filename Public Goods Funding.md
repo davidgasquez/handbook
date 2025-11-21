@@ -7,6 +7,9 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - [[Plurality|Different public goods require different funding approaches based on their characteristics and communities]].
 - Mathematical optimality matters less than perceived fairness and historical precedent. Ideal funding methods that don't work in practice are not ideal.
 - Many [[Mechanism Design|mechanisms]] which satisfy different constraints have already been discovered, and it seems unlikely that a different approach will radically change the landscape. Instead, the **bottleneck seems to be in popularizing and scaling existing mechanisms**.
+- Retrospective evaluation is often easier than prospective funding. [[Impact Evaluators]] and retroactive public goods funding reward **verifiable impact after the fact** instead of just predictions about future impact.
+- Effective funding systems usually start small and local, with tight feedback loops and clear community ownership, and only then generalize once patterns are proven.
+- The funding **infrastructure itself is a public good**. Data, evaluation pipelines, and mechanisms should be open, composable, and forkable so communities can reuse and adapt them.
 
 ## Desirable Criteria
 
@@ -18,8 +21,14 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - **Provable Participation**. Even if spending should be kept private, users may want to prove their participation in a funding mechanism in order to boost their reputation or as part of an agreement.
 - **Identity and Reputation**. To prevent sybil attacks, some form of identity is needed. If reputation is important, a public identity is preferred. If anonymity is required, zero-knowledge proofs or re-randomizable encryption may be necessary. Reputation is an important incentive to fund public goods. Some form of reputation score or record of participation can be useful for repeated games. These scores can help identify bad actors or help communities coalesce around a particular funding venue. [Identity-free mechanism can also be used](https://victorsintnicolaas.com/funding-public-goods-in-identity-free-systems/).
 - **Verifiable Mechanisms**. Users may want certain guarantees about a mechanism before or after participation, especially if the mechanism being used is concealed. Ex-ante, they may want to upper-bound their amount of spending towards the good, ex-post, they may require proof that a sufficient number of individuals contributed.
-- **Anti-Collusion Infrastructure**. Like secure voting [[Systems]], there is a threat of buying votes in a funding mechanism. Collusion can be discouraged by making it impossible for users to prove how they reported their preferences. This infrastructure must be extended to prevent collusion between the 3rd party and the users.
+- **Anti-Collusion Infrastructure**. Like secure voting systems, there is a threat of buying votes in a funding mechanism. Collusion can be discouraged by making it impossible for users to prove how they reported their preferences. This infrastructure must be extended to prevent collusion between the 3rd party and the users.
 - **Predictable Schedules**. Participants need to know when are they getting funded.
+- **Simplicity and Legibility**. The simpler a mechanism (fewer parameters, clear rules, open-source and publicly verifiable execution), the less space there is for hidden privilege, corruption, and overfitting, and the easier it is for people to understand and engage with it.
+- **Anti-Goodhart Resilience**. Any metric used for decisions will be gamed. Mechanisms should assume this, incorporate **feedback loops and error analysis**, and make it easy to update or combine metrics and evaluators when they drift from what really matters.
+- **Plurality and Forkability**. No single mechanism can satisfy all desirable properties in all contexts. Systems should support **multiple evaluators and preference-aggregation methods**, and allow communities to fork and adapt criteria when they disagree.
+- **Composable Data and Evaluation Layers**. Separate **data collection** (attestations about work, usage, dependencies, etc.) from **judgment** (how that data is weighted). Multiple evaluation "lenses" (models, juries, dashboards) should be able to operate on the same shared data structures (graphs, weight vectors).
+- **Exploration vs Exploitation**. Funding mechanisms are optimization processes that tend to exploit known winners. Some budget should be reserved for **exploration of uncertain, high-variance public goods**, not just those that already score well on existing metrics.
+- **Community Feedback and Local Control**. Mechanisms should include channels for participants to flag problems, suggest changes, and adjust evaluation criteria. Small, local experiments with clear consent and ownership are often the safest way to evolve funding systems.
 
 ## Methods
 
@@ -37,9 +46,9 @@ The [S-Process (Simulation Process)](https://www.youtube.com/watch?v=jWivz6KidkI
 
 When a project turns out to be great, pay both the builders and the early funders. People who repeatedly back the right projects end up with more money and can fund more next time.
 
-Builders create public goods (OSS, research, infrastructure, etc.), funders chooses and puts money in them. Retrospective rounds are made with any [[Impact Evaluators]] mechanism. Projects and funders are rewarded accordingly.
+Builders create public goods (OSS, research, infrastructure, etc.), funders choose and put money in them. Retrospective rounds are made with any [[Impact Evaluators]] mechanism. Projects and funders are rewarded accordingly.
 
-Each cycle has tro phases: Funding and Retro. The funding phase is where funders give money to any projects they decide to back. They recive "retro shares" for that project. Basically, Who backed what, and by how much? The retrospective phase is where the system rewards impact. A mechanism is run (e.g: [[Deep Funding]]) that returns a version of impact for each project.
+Each cycle has two phases: Funding and Retro. The funding phase is where funders give money to any projects they decide to back. They receive "retro shares" for that project. Basically, who backed what, and by how much? The retrospective phase is where the system rewards impact. A mechanism is run (e.g: [[Deep Funding]]) that returns a version of impact for each project.
 
 Capital concentrates in the hands of those who were repeatedly "right" about which public goods mattered.
 
