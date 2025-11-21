@@ -14,6 +14,7 @@ Pairwise comparisons are any processes of comparing entities in pairs to judge w
 - Keep the UX fast and low-friction. Suggest options, keep context in the UI, and let people expand only if they want.
 - Avoid intensity questions. They are order-dependent and [require global knowledge](https://xkcd.com/883/).
 - Use [active sampling](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-6/Active-ranking-from-pairwise-comparisons-and-when-parametric-assumptions-do/10.1214/18-AOS1772.pdf)/dueling bandits to focus on informative pairs. Stop when marginal value drops.
+- With [efficiently sampled pairs](https://arxiv.org/abs/2302.13507) ([or approximate rankings](https://proceedings.mlr.press/v84/heckel18a.html)) far fewer comparisons are needed.
 - [Top-k tasks](https://proceedings.mlr.press/v84/heckel18a.html) can scale collection (pick best 3 of 6) while still convertible to pairwise data.
 - Expect [noisy raters](https://arxiv.org/abs/1612.04413). Filter or reweight after the fact using heuristics or gold questions instead of overfitting to ["experts" biases](https://link.springer.com/article/10.1007/s10618-024-01024-z).
 
@@ -22,7 +23,7 @@ Pairwise comparisons are any processes of comparing entities in pairs to judge w
 - There are many aggregation/eval rules; [Bradley-Terry](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model), [Huber in log-space](https://en.wikipedia.org/wiki/Huber_loss), [Brier](https://en.wikipedia.org/wiki/Brier_score), ...
 - Converting pairs into scores or rankings is standard; start with Elo/Bradley-Terry (or crowd-aware variants) before custom models.
 - Use robust methods (crowd BT, hierarchical BT, [Bayesian variants](https://erichorvitz.com/crowd_pairwise.pdf)) to correct annotator bias and uncertainty.
-- Expert jurors can be inconsistent, biased, and expensive. [Large graphs of comparisons](https://arxiv.org/pdf/1505.01462) are needed to tame variance.
+- Expert jurors can be inconsistent, biased, and expensive. [Large graphs of comparisons](https://arxiv.org/pdf/1505.01462) are needed to tame variance. You can estimate how many pairwise comparisons are needed to make raking significant.
 - You can report accuracy/Brier by using [bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)).
 
 ## Resources
@@ -31,3 +32,7 @@ Pairwise comparisons are any processes of comparing entities in pairs to judge w
 - [Designing a Better Judging System](https://anishathalye.com/designing-a-better-judging-system/)
 - [Quadratic vs Pairwise](https://blog.zaratan.world/p/quadratic-v-pairwise)
 - [An Analysis of Pairwise Preference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3359677)
+- [CrowdTruth 2.0: Quality Metrics for Crowdsourcing with Disagreement](https://arxiv.org/pdf/1808.06080)
+- [Ten Kilograms of Chocolate](https://medium.com/@florian_32814/ten-kilograms-of-chocolate-75c4fa3492b6)
+- [Tool to sort items using Bradley-Terry](https://gwern.net/resorter)
+- [Tool to sort items using a Bayesian approach](https://github.com/max-niederman/fullrank)

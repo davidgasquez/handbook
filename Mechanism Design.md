@@ -71,3 +71,9 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - **Reinforcement Learning for Meta-Evaluation** - Use RL to evolve evaluation mechanisms through trial and error. The system learns which evaluation approaches work best in different contexts by treating mechanism selection as a sequential decision problem.
 - **Genetic Algorithms** - Evolution-based optimization for evaluation mechanisms. Breed and mutate successful evaluation strategies, allowing the system to discover novel approaches through recombination and selection pressure.
 - **Schelling Point Coordination Games** - Information elicitation mechanisms where truth naturally emerges as the coordination point. Participants are incentivized to report honestly because they expect others to do the same, making truth the natural focal point.
+
+## Resources
+
+- [Quadratic Payments: A Primer](https://vitalik.eth.limo/general/2019/12/07/quadratic.html)
+- [Quadratic Funding is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
+- [A Mild Critique of Quadratic Funding](https://kronosapiens.github.io/blog/2019/12/13/mild-critique-qf.html)

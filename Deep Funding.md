@@ -1,6 +1,6 @@
 # Deep Funding
 
-The goal of [Deep Funding](https://deepfunding.org/) is to develop a system that can allocate resources to public goods with a level of accuracy, fairness, and open access that rivals how private goods are funded by markets, ensuring that high-quality open-source projects can be sustained. Traditional price signals don't exist, so we need "artificial markets" that can simulate the information aggregation properties of real markets while being resistant to the unique failure modes of public goods funding.
+The goal of [Deep Funding](https://deepfunding.org/) is to develop a system that can allocate resources to public goods with a level of accuracy, fairness, and open access that rivals how private goods are funded by markets, ensuring that high-quality open-source projects can be sustained. Traditional price signals don't exist, so we need "artificial markets" that can simulate the information aggregation properties of real markets while being resistant to the unique failure modes of public goods funding. [Deep Funding is an Impact Evaluator](https://hackmd.io/@dwddao/HypnqpQKke).
 
 In Deep Funding, multiple mechanisms (involving data, mechanism design, and open source) work together. Each layer can be optimized and iterated independently.
 
@@ -72,34 +72,10 @@ After participating in the ML competition and Prediction Market, and doing a few
 
 ## Ideas
 
-### Alternative Approach
-
-Given the current open problems, this is interesting and alternative way ([inspired by RLHF](https://www.itai-shapira.com/pdfs/pairwise_calibrated_rewards_for_pluralistic_alignment.pdf)) of running a Deep Funding "round". The gist of the idea is to **use only a few significant data points to choose and reward the final models** instead of deriving weights for the entire set of children/dependencies of a project. Resolve the market with only a few, well-tested pairs!
-
-Like in the current setup, a DAG of projects is needed. The organizers publish that and also an encoded list of projects that will be evaluated by Jurors. Participants can only see the DAG, the "evaluated projects" will be revealed at the end.
-
-Once participants have worked on their models and send/trade their predictions, the "evaluated project" list is revealed and only those projects are used to evaluate weights' predictions. Best strategy is to price truthfully all items. The question here is: how can we evaluate only a few projects without jurors giving a connected graph to the rest of the projects?
-
-Since we don't have a global view (no interconnected graph), we need to use comparative and scale-free metrics. Metrics like the [Brier score](https://en.wikipedia.org/wiki/Brier_score) or methods like [Bradley Terry](https://www.itai-shapira.com/pdfs/pairwise_calibrated_rewards_for_pluralistic_alignment.pdf) can be used to evaluate any model or trader's weights ([in that case you're fitting just a single global scale or temperature parameter to minimize negative log-likelihood](https://apxml.com/courses/rlhf-reinforcement-learning-human-feedback/chapter-3-reward-modeling-human-preferences/reward-model-calibration))! Don't give the mechanism explicit instructions. Just give it a goal (and compute rewards) and let it figure out the best strategy.
-
-Once the best model is chosen (the one that acts closest to the chosen subset of pairwise comparisons), the same pairwise comparisons can be used [to adjust the scale of the weight distribution](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf). That means the market resolution uses only the subset (for payouts to traders) but the funding distribution uses the model's global ranking with its probabilities calibrated to the subset via a single scalar _a_ that pins the entire slate to the same scale that was verified by real judgments. The **jurors** pairwise comparisons can even be "merged" with the best model to incorporate all data in there.
-
-Basically, there are two steps; first, select the best model and then, rescale weights using the jury pairwise comparisons. With much fewer comparisons, we can get to a better final weight distribution since we have more significant graph (relative weights) and we also use the golden juror pairs to adjust the scale.
-
-The task of the organizers is to [gather pairwise comparisons to make this subset significant](https://arxiv.org/pdf/1505.01462), which is much simpler and feasible than doing it so for the entire dependencies of a node (can be 128). With [efficiently sampled pairs](https://arxiv.org/abs/2302.13507) ([or approximate rankings](https://proceedings.mlr.press/v84/heckel18a.html)) far fewer comparisons are needed in a subset.
-
-Once the competition ends, extra comparisons could be gathered for projects that have high variance or via another trigger mechanism.
-
-### More Ideas
-
-- Fix weight distributions (Zipf law) and make modelers focus on predicting the rank. Pick the model that aligns the most with the pairwise data collected.
-- Set a consensus over which meta-mechanism is used to evaluate weights (e.g: Brier Score). Judged/rank mechanism/models solely on their performance against the rigorous pre-built eval set. No subjective opinions. Just a leaderboard of the most aligned weight distributions.
+- An alternative is to take an ([inspired by RLHF](https://www.itai-shapira.com/pdfs/pairwise_calibrated_rewards_for_pluralistic_alignment.pdf)) approach. **Use only a few significant data points to choose and reward the final models** instead of deriving weights for the entire set of children/dependencies of a project. Resolve the market with only a few, well-tested pairs!
+- Fix weight distributions (Zipf law) and make modelers/jurors focus on predicting the rank. Pick the model that aligns the most with the pairwise data collected.
   - Win rates can be derived from pairwise comparisons
 - Lean on the [[Pairwise Comparisons]] playbook (binary questions over intensity, active sampling, filtering noisy raters) for any human labeling.
-- Do some post-processing to the weights:
-  - Report accuracy/Brier and use paired bootstrap to see if gap is statistically meaningful
-  - If gaps are not statistically meaningful, bucket rewards (using Zipf's law) so it feels fair
-- How would things look like if they were [Bayesian Bradley Terry](https://erichorvitz.com/crowd_pairwise.pdf) instead of [classic Bradley-Terry](https://gwern.net/resorter)? Since comparisons are noisy and we have unreliable jurors, can we [compute distributions instead of "skills"](https://github.com/max-niederman/fullrank)?
 - Instead of one canonical graph, allow different stakeholder groups (developers, funders, users) to maintain their own weight overlays on the same edge structure. Aggregate these views using quadratic or other mechanisms
   - If there is a plurality of these "dependency graphs" (or just different set of weights), the funding organization can choose which one to use! The curators gain a % of the money for their service. This creates a market-like mechanism that incentivizes useful curation.
 - Let the dependent set their weight percentage if they're around

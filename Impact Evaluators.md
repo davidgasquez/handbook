@@ -2,7 +2,7 @@
 
 Impact Evaluators are frameworks for [[Coordination|coordinating]] work and aligning [[Incentives]] in complex [[Systems]]. They provide mechanisms for retrospectively evaluating and rewarding contributions based on impact, helping solve coordination problems in [[Public Goods Funding]].
 
-It's hard to do [[Public Goods Funding]], open-source software, research, etc. that don't have a clear, immediate financial return, especially high-risk/high-reward projects. Traditional funding often fails here. Instead of just giving money upfront (prospectively), Impact Evaluators create systems that look back at what work was actually done and what impact it actually had (retrospectively). It's much easier to judge the impact in a retrospective way!
+It's hard to do [[Public Goods Funding]], open-source software, research, etc. that don't have a clear, immediate financial return, especially high-risk/high-reward projects. Traditional funding often fails here. Instead of just giving money upfront (prospectively), Impact Evaluators create systems that look back at what work was actually done and what impact it actually had (retrospectively). **[It's much easier to judge the impact in a retrospective way](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c)**!
 
 - The extent to which an intervention is _causally responsible_ for an specific outcome (intended or unintended) is a hard thing to figure out. There are many classic approaches; Theory of Change, Data Analysis, ML, ...
 - The goal is to **create a system with strong [[Incentives]] for people/teams to work on valuable, uncertain things** by distributing a reward according to the demonstrable impact.
@@ -134,6 +134,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - People only reveal their true opinions after seeing the result (you need to show people something and iterate based on their reactions in order to build something they actually want).
 - **Exploration vs Exploitation**. IEs are optimization processes with tend to exploit (more impact, more reward). This ends up with a monopoly (100% exploit). You probably want to always have some exploration.
 - [IEs need to show how the solution is produced by the interactions of people each of whom possesses only partial knowledge](https://news.ycombinator.com/item?id=44232461).
+- Set a consensus over which meta-mechanism is used to evaluate weights (e.g: Brier Score). Judged/rank mechanism/models solely on their performance against the rigorous pre-built eval set. No subjective opinions. Just a leaderboard of the most aligned weight distributions.
 
 ## Principles
 
@@ -173,15 +174,9 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - [Generalized Impact Evaluators, A year of experiments and theory](https://research.protocol.ai/blog/2023/generalized-impact-evaluators-a-year-of-experiments-and-theory/)
 - [Deliberative Consensus Protocols](https://jonathanwarden.com/deliberative-consensus-protocols/)
 - [Credible Neutrality](https://balajis.com/p/credible-neutrality)
-- [Quadratic Payments: A Primer](https://vitalik.eth.limo/general/2019/12/07/quadratic.html)
-- [Quadratic Funding is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
-- [A Mild Critique of Quadratic Funding](https://kronosapiens.github.io/blog/2019/12/13/mild-critique-qf.html)
 - [Funding impact via milestone markets](https://docs.fileverse.io/0x0D97273dee4D1010321f9eBa2e9eaB135C17D6dE/0#key=5GgcacTDy2h1QwWV9vJqGD-YzwomzuIOueMACpjghbJLxfG3ZqbWl1qDC1Le04uR)
 - [Kafka Index](https://summerofprotocols.com/wp-content/uploads/2024/04/Kafka-Index-Nadia-Asparouhova-1.pdf)
 - [The Unreasonable Sufficiency of Protocols](https://summerofprotocols.com/the-unreasonable-sufficiency-of-protocols-web)
-- [Good Death](https://summerofprotocols.com/research/good-death)
-- [Retroactive Public Goods Funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c)
-- [The Public Goods Funding Landscape](https://splittinginfinity.substack.com/p/the-public-goods-funding-landscape)
 - [Coordination, Good and Bad](https://vitalik.eth.limo/general/2020/09/11/coordination.html)
 - [On Collusion](https://vitalik.eth.limo/general/2019/04/03/collusion.html)
 - [Remuneration Rights](https://openrevolution.net/remuneration-rights)
@@ -196,9 +191,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - [Soulbinding Like a State](https://newsletter.squishy.computer/p/soulbinding-like-a-state)
 - [Market Intermediaries in a Post-AGI World](https://meaningalignment.substack.com/p/market-intermediaries-a-post-agi)
 - [Goodhart's Law Not Useful](https://commoncog.com/goodharts-law-not-useful/)
-- [Ten Kilograms of Chocolate](https://medium.com/@florian_32814/ten-kilograms-of-chocolate-75c4fa3492b6)
 - [Bittensor's Anatomy of Incentive Mechanism](https://docs.bittensor.com/learn/anatomy-of-incentive-mechanism)
-- [Frequently Asked Questions (And Answers) About AI Evals](https://hamel.dev/blog/posts/evals-faq/)
 - [Proportionally fair online allocation of public goods with predictions](https://dl.acm.org/doi/abs/10.24963/ijcai.2023/3)
 - [A natural adaptive process for collective decision-making](https://onlinelibrary.wiley.com/doi/10.3982/TE5380)
 - [Tournament Theory: Thirty Years of Contests and Competitions](https://www.researchgate.net/publication/275441821_Tournament_Theory_Thirty_Years_of_Contests_and_Competitions)
@@ -206,7 +199,5 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - [Asymmetry of verification and verifier's law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
 - [Ostrom's Common Pool Resource Management](https://earthbound.report/2018/01/15/elinor-ostroms-8-rules-for-managing-the-commons/)
 - [Community Notes Note ranking algorithm](https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes)
-- [Deep Funding is a Special Case of Generalized Impact Evaluators](https://hackmd.io/@dwddao/HypnqpQKke)
 - [Analysing public goods games using reinforcement learning: effect of increasing group size on cooperation](https://royalsocietypublishing.org/doi/10.1098/rsos.241195)
-- [CrowdTruth 2.0: Quality Metrics for Crowdsourcing with Disagreement](https://arxiv.org/pdf/1808.06080)
 - [Coevolutionary dynamics of population and institutional rewards in public goods games](https://www.sciencedirect.com/science/article/pii/S095741742302081X)
