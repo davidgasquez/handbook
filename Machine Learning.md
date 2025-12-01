@@ -26,6 +26,12 @@ These points are expanded with more details in courses like [Made With ML](https
 - Collecting good evals will make you understand the problem better.
 - Working with probabilistic systems requires new kinds of measurement and deeper consideration of trade-offs.
 - Don't work if you cannot define what "great" means for your use case.
+- Good eval metrics:
+  - Measure an error you've observed.
+  - Relates to a non-trivial issue you will iterate on.
+  - Are scoped to a specific failure.
+  - Has a binary outcome (not a 1–5 score).
+  - Is verifiable (i.e. human labels for LLM-as-a-Judge)
 
 ### The [Eval Loop](https://openai.com/index/evals-drive-next-chapter-of-ai/)
 

@@ -23,6 +23,7 @@
   - Metadata (owner, related OKRs, TTL, …).
 - Make them so it's easy to go one layer down (X went down in Y location, or for Z new users, etc).
 - Recreate dashboard from first principles periodically.
+- Concise and to the point dashboards! Stuffing a dashboard with a bunch of random metrics is a guaranteed way to waste everyone's time.
 - When plotting a rate, add the top of funnel and bottom of funnel numbers to make sure things are as expected.
 - A large change is not necessarily worth investigating, and a small change is not necessarily benign. What you want to know is if the change is exceptional.
 - Be clear with your stakeholder about whether this is a one-off vs. something that should be referenced more than once.
