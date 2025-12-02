@@ -2,6 +2,8 @@
 
 - [Living in the same place as the people you love matters](https://waitbutwhy.com/2015/12/the-tail-end.html).
 - As with many other things, there are [patterns that will help you structure it](http://web.archive.org/web/20230411022833/http://www.architectureweek.com/topics/patterns.html).
+- Any time you have a problem, search for a solution.
+- Be pro-active about modifying your environment. You can drastically improve your environment for usually little effort and money.
 
 ## Buying
 

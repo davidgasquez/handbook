@@ -18,6 +18,7 @@
 - Be aware of training cut-off dates when using LLMs.
 - "AIs" can be dangerous in underspecified environments (e.g: pausing games to last longer in the level) but those are the places where we will use them most. If something is well specified, there might be better solutions/optimizations (maths, code, ...).
 - [When the main purpose of writing is to demonstrate your thinking (building trust, applying for a job), don't use LLM output](https://x.com/HamelHusain/status/1976720326106173673). Use LLMs hen need to communicate info, or do admin stuff, where the person really just wants info and doesn't need to be convinced "how you think". LLMs are good at writing but bad at thinking.
+- LLMs as "stateless functions". Fixed weights, no updating. LLMs are in-context learners.
 
 ## Prompting
 
@@ -75,7 +76,7 @@
 - Balancing log verbosity is crucial. Informative yet concise logs optimize token usage and inference speed.
 - [You need quick and clear feedback loops](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) (fast tool responses, clean logs, ...).
   - Give them the ability to interactively test the code they are writing too.
-- Linters, type checkers, auto-formatters - give coding agents helpful tools to run and they'll use them.
+- Linters, type checkers, auto-formatters - give coding agents helpful tools to run and they'll use them. Always use deterministic tools whenever you can!
 - Prefer functions with clear, descriptive and longer than usual function names over classes. Avoid inheritance and overly clever hacks.
 - Write legible (text based) relevant content and link it with anything else (code, diagrams, ...).
 - Use a checklist. Plan, iterate, and refine.
