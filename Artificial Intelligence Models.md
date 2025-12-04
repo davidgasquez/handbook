@@ -56,6 +56,7 @@
 
 - Using LLMs for coding is difficult and unintuitive, requiring significant effort to master.
 - English is becoming the hottest new programming language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
+  - [Prompts are code](https://mariozechner.at/posts/2025-06-02-prompts-are-code/). Markdown and JSON files are state.
 - Use comments to guide the model to do what you want.
 - Don't delegate thinking, delegate work.
 - Describe the problem very clearly and effectively.
@@ -66,6 +67,8 @@
 - Provide the desired function signatures, API, or docs. Apply the TDD loop and make the model write tests and the code until the tests pass.
 - Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh when switching to execution.
 - Many LLMs now have very large context windows, but filling them with irrelevant code or conversation can confuse the model. Above about 25k tokens of context, most models start to become distracted and become less likely to conform to their system prompt.
+- [Use Progressive Disclosure](https://www.humanlayer.dev/blog/writing-a-good-claude-md) to ensure that the agent only sees tasks or project-specific instructions when it needs them.
+- Prefer pointers to files than copies (no code snippets, ...).
 - Make the model ask you more questions to refine the ideas.
 - Take advantage of the fact that [redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms).
 - If you want to force some "reasoning", ask something like "[is that a good suggestion?](https://news.ycombinator.com/item?id=42894688)" or "propose a variety of suggestions for the problem at hand and their trade-offs".

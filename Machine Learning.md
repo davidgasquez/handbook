@@ -26,6 +26,11 @@ These points are expanded with more details in courses like [Made With ML](https
 - Collecting good evals will make you understand the problem better.
 - Working with probabilistic systems requires new kinds of measurement and deeper consideration of trade-offs.
 - Don't work if you cannot define what "great" means for your use case.
+- [Evals replace LGTM-vibes development](https://newsletter.pragmaticengineer.com/p/evals). They systematize quality when outputs are non-deterministic.
+- [Error analysis](https://youtu.be/ORrStCArmP4) workflow: build a simple trace viewer, review ~100 traces, annotate the first upstream failure ([open coding](https://shribe.eu/open-coding/)), cluster into themes ([axial coding](https://delvetool.com/blog/openaxialselective)), and use counts to prioritize. Bootstrap with grounded synthetic data if real data is thin.
+- Pick the right evaluator: code-based assertions for deterministic failures; LLM-as-judge for subjective ones. Keep labels binary (PASS/FAIL) with human critiques. Partition data so the judge cannot memorize answers; validate the judge against human labels (TPR/TNR) before trusting it.
+- Run evals in CI/CD and keep monitoring with production data.
+  - [Analyze → measure → improve → automate → repeat](https://newsletter.pragmaticengineer.com/p/evals).
 - Good eval metrics:
   - Measure an error you've observed.
   - Relates to a non-trivial issue you will iterate on.
