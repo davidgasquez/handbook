@@ -98,6 +98,7 @@
   - An instinct for what can be outsourced (to AI vs what needs human attention).
   - An good (updated) sense of estimation.
 - Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
+- [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
 
 ## Agents
 
@@ -119,6 +120,7 @@ Agents are systems where LLMs dynamically direct their own processes and tool us
 - Tools come in three flavors: context retrieval (finding information), feedback loops (verifying actions), and planning (structuring work over longer horizons).
 - Tool overload confuses models. Just because you can connect every tool doesn't mean you should. Each tool description consumes context window space and can confuse the model about which tool to use when.
 - Unix philosophy beats vertical integration. The most powerful coding agents follow Unix principles, simple, composable tools that do one thing well.
+- The way you wrap, feed, and observe a powerful model often matters more than fancy prompt tricks or extra bells and whistles on the model itself.
 
 ## Use Cases
 
