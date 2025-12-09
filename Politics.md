@@ -55,6 +55,7 @@
 - [[Plurality]] — the understanding that diversity of people, beliefs, opinions, mechanisms, approaches, implementations, etc within a given context generally results in better outcomes than in the absence of such diversity.
 - For many social systems, truly large-scale, repeatable tests (to verify systems work as intended) are difficult if not impossible. Having simple systems is critical to legitimacy.
 - Politics is just how humans coordinate in groups. It’s the invisible network of relationships, influence, and informal power that exists in every organization. [You can refuse to participate, but that doesn't make it go away](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/). It just means decisions get made without you. The alternative to good politics isn't no politics. It's bad politics winning by default.
+- [Policy should tell people what the goal is](https://x.com/VitalikButerin/status/1996997278893044045) (e.g., "reduce road wear" or "reduce emissions") by pricing the externality directly, instead of telling how to optimize for it (making it easy to game arbitrary rules).
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 

@@ -42,6 +42,8 @@
 - Social problems demand social solutions. Not everything can be solved by technology. E.g: If you're skeptical about Wikipedia, you can easily create your own fork of Wikipedia and improve it. You'll have to deal with the social problems of convincing others to use your fork, etc.
   - To convince someone, show historical attemps failures and analyze them.
 - In complex problem spaces, [focus on direction](https://thecompendium.cards/c/everything/sort/stars/direction-not-solution) and not on the details. Don't focus too much on trying to find the best idea. The thing you have to prove is not that an idea is the best one, but that it's better than doing what you're currently doing.
+- [You cannot solve a people problem with a technical solution. Most technical problems are really people problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html). Most people problems are [[Coordination]] and [[Communication]] problems.
+- All technology produces second and third order effects beyond what was intended, and [[Feedback Loops]] often magnify them in complex systems.
 
 ## Five Whys
 
