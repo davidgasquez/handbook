@@ -20,6 +20,7 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - Any mechanism that can help genuinely under-coordinated parties coordinate will, without the right safeguards, also help already coordinated parties (such as many accounts controlled by the same person) [over-coordinate](https://vitalik.eth.limo/general/2019/04/03/collusion.html) with potential ways to "do wrong" (e.g: extract money from the system).
 - You can increase mechanism complexity if you trade it off for identity or collusion resistance. If you figure out a way to make it the mechanism identity resistant then, it'll support more complex setups.
 - [Truthtelling games](https://jonathanwarden.com/truthtelling-games/) can incentivize honesty through coordination games where participants win by giving the same answer as others, with truth serving as a powerful Schelling point (truthtelling is the winning strategy only if everybody else tells the truth). Information elicitation mechanisms can get people to reveal private/subjective information truthfully even without verification.
+- Some of the interesting properties of a mechanism are; local/bottom up decision making, can be combined in different layers (horizontal / vertical), and [[Modularity|modularity]].
 
 ### Examples
 
@@ -38,7 +39,6 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - [Allocation Mechanisms](https://www.allo.expert/mechanisms)
 - [Generalized Impact Evaluators](https://research.protocol.ai/publications/generalized-impact-evaluators/ngwhitepaper2.pdf) - Framework for retrospective reward mechanisms
 - [Info Finance](https://vitalik.eth.limo/general/2024/11/09/infofinance.html) - Using information aggregation for social decisions
-
 
 ## Toolkit
 
