@@ -82,6 +82,7 @@ The aim is to answer the following questions each time:
 4. **What if I want to know more?** A **link to additional information** can be valuable for people who have time for more than a quick scan and want to understand how you developed the insight, or do some of their own related exploration.
 5. **What if I have a question?** Explicitly **inviting questions** and responses is crucial. It's the best part of sharing an insight! This is where you get to learn about things your colleagues know that you don't, or what they're curious about but has not yet risen to the level of becoming a data request from them.
 6. **What if posting this prompts a whole bunch of follow-up questions, or exposes incorrect assumptions?** If you have hit on something that's interesting to a lot of people there likely will be questions that spin off, new ways to slice the data you're looking at, or assumptions you have made that need to be corrected.
+- Apply [[Data Visualization]] principles so shared charts stay clear when they travel.
 
 ### Slack Template
 
@@ -94,19 +95,3 @@ The aim is to answer the following questions each time:
 
 _Questions, concerns, ideas? Thread on!_ 🧵
 ```
-
-## Charting Principles
-
-[Some principles to keep in mind when creating charts](https://www.eugenewei.com/blog/2017/11/13/remove-the-legend).
-
-- Don't include a legend; instead, label data series directly in the plot area. Usually labels to the right of the most recent data point are best. Some people argue that a legend is okay if you have more than one data series. My belief is that they're never needed on any well-constructed line graph.
-- Use thousands comma separators to make large figures easier to read
-- Related to that, never include more precision than is needed in data labels. For example, Excel often chooses two decimal places for currency formats, but most line graphs don't need that, and often you can round to 000's or millions to reduce data label size. If you're measuring figures in the billions and trillions, we don't need to see all those zeroes, in fact it makes it harder to read.
-- Format axis labels to match the format of the figures being measured; if it's US dollars, for example, format the labels as currency.
-- Look at the spacing of axis labels and increase the interval if they are too crowded. As Tufte counsels, always reduce non-data-ink as much as possible without losing communicative power.
-- Start your y-axis at zero (assuming you don't have negative values)
-- Try not to have too many data series; five to eight seems the usual limit, depending on how closely the lines cluster. On rare occasion, it's fine to exceed this; sometimes the sheer volume of data series is the point, to show a bunch of lines clustered. These are edge cases for a reason, however.
-- If you have too many data series, consider using small multiples if the situation warrants, for example if the y-axes can match in scale across all the multiples.
-- Include explanations for anomalous events directly on the graph; you may not always be there in person to explain your chart if it travels to other audiences.
-- Always note, usually below the graph, the source for the data.
-- Include targets for figures as asymptotes to help audiences see if you're on track to reach them.

@@ -16,6 +16,8 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   - Break up a giant nuanced block into sections.
   - If something is critical, make it visual.
 - **Beware [semantic diffusion](https://martinfowler.com/bliki/SemanticDiffusion.html)**. Popular terms lose their precise meaning as they spread through repeated misinterpretation. Complex ideas get simplified, then distorted, like a game of telephone. The more desirable a term sounds, the more likely it gets misappropriated. Keep pointing back to original definitions rather than abandoning diffused terms.
+- [Use plain language for complex concepts](https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization) — most ideas can be understood by most people if explained clearly. But keep jargon when precision matters (e.g., distinguishing mean from median); in those cases, add a brief definition alongside the technical term.
+- [[Data Visualization]] can communicate faster than 1,000 words; [that power comes with responsibility](https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization) — misleading charts spread just as easily as accurate ones.
 - If you want an answer, you have to [[Asking Questions|ask a question]]. People typically have a lot to say, but they'll volunteer little.
 
 ## Resources

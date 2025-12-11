@@ -9,7 +9,7 @@
     - The data will move 1 of three directions; up, down or stay the same. Ahead of time, what will the stakeholder do in each case? Are all three answers the same?
 - Strive to create dashboards that are either standalone or include links to provide the relevant context. Without meaning, data is just digits.
   - Ideally, push visualizations to the tools that have the context (e.g. a chart in a Slack message, a chart in a Jira ticket, a chart in a HubsPot, etc).
-- [Make your charts professional](https://bsky.app/profile/peck.phd/post/3lbfgjdnvy22k).
+- [Make your charts professional](https://bsky.app/profile/peck.phd/post/3lbfgjdnvy22k). [[Data Visualization]] is important.
 - [Add all the possible context into the dashboard](https://www.youtube.com/watch?v=Kub2bXrKmOE):
   - Instructions.
   - Purpose and explanation of the data being shown.
