@@ -22,7 +22,7 @@ When designing a process, look for these properties:
 - Low Friction. Simple processes are easier to understand and apply. [Trivial inconveniences usually have more implications than it seems](https://www.lesswrong.com/posts/reitXJgJXFzKpdKyd/beware-trivial-inconveniences).
 - Short [[Feedback Loops]]. Show the results as soon as you can.
 - [[Idempotence|Idempotent]] processes are easy to manage
-- Write it down. Writting what's happening can be a giant leap forward in terms of getting people to agree on what the process actually is.
+- Write it down. Writing what's happening can be a giant leap forward in terms of getting people to agree on what the process actually is.
 
 A process takes an input to produce an output. Group of processes can be viewed as [[systems]].
 

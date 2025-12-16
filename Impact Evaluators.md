@@ -86,7 +86,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
     - Individual Rationality: Ensuring that every participant has a non-negative utility (or at least no worse off) by participating in the mechanism.
     - Budget Balance: The mechanism generates sufficient revenue to cover its costs or payouts, without running a net deficit.
   - If you do something with a large "impact" and I do something with less "impact". It's clear you deserve more. How much more, is debatible. Depends on the goals of the organizers!
-  - In most of the mechanisms working nowadays (e.g: [[Deep Funding]]), there are arbitrary decissions that affect the allocation.
+  - In most of the mechanisms working nowadays (e.g: [[Deep Funding]]), there are arbitrary decisions that affect the allocation.
     - Small rules might have a disproportionate impact.
 - **Legible Impact Attribution**. Make contributions and their value visible.
   - [Transform vague notions of "alignment" into measurable criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html) that projects can compete on.
@@ -117,11 +117,11 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - **Make evaluation infrastructure permissionless**. Just as anyone can fork code, anyone should be able to fork evaluation criteria. This prevents capture and enables innovation.
   - Anyone should be able to [fork the evaluation system with their own criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html), preventing capture and enabling experimentation.
 - [IEs are the scientific method in disguise, like AI evals](https://eugeneyan.com/writing/eval-process/).
-- There are two areas of Impmact Evaluators where coordination is needed: allocation rules and mechanism selection.
+- There are two areas of Impact Evaluators where coordination is needed: allocation rules and mechanism selection.
 - **Focus on error analysis**. Like in [LLM evaluations](https://hamel.dev/blog/posts/evals-faq/), understanding failure modes matters more than optimizing metrics. Study what breaks and why.
   - IEs will have to do some sort of "error analysis". [Is the most important activity in LLM evals](https://hamel.dev/blog/posts/evals-faq/#q-why-is-error-analysis-so-important-in-llm-evals-and-how-is-it-performed). Error analysis helps you decide what evals to write in the first place. It allows you to identify failure modes unique to your application and data.
 - **Reduce cognitive load for humans**. Let [algorithms handle scale while humans set direction and audit results](https://vitalik.eth.limo/general/2025/02/28/aihumans.html).
-  - Use humans for sensing qualitative properties, machines for bookkeeping and preserve legitimacy by letting people choose/vote on the prefered evaluation mechanism.
+  - Use humans for sensing qualitative properties, machines for bookkeeping and preserve legitimacy by letting people choose/vote on the preferred evaluation mechanism.
 - Making it so people don't have to do something is cool. Making it so people can't do that thing is bad. E.g: time saving tools like AI is great but humans should be able to jump in if they want!
   - If people don't want to have their "time saved" have the freedom to express themselves. E.g: offer pairwise comparisons by default but let people expand on feedback or send large project reviews.
   - Information gathering is messy and noisy. It's hard to get a clear picture of what people think. Let people express themselves as much as they want.

@@ -29,6 +29,6 @@ You don't need to limit themes to yourself. Can be applied to other things like 
 
 These are the 3 themes I try to keep in mind at my home.
 
-- No bad knifes.
+- No bad knives.
 - Make the right thing to do the easiest thing to do.
 - Make easy to [[Automation|automate]] stuff.

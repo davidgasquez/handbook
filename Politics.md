@@ -25,7 +25,7 @@
 - Your perception of reality has probably been at least a little manipulated. Your opponents are behaving the way they are based on a perception of reality that's different from your own.
   - What does this look/feel like to the people I don't know?
 - Everyone belongs to a tribe and underestimates how influential that tribe is on their thinking. Tribes reduce the ability to challenge ideas or diversify your views because no one wants to lose support of the tribe. Tribes are as self-interested as people, encouraging [[ideas]] and narratives that promote their survival. But they're exponentially more influential than any single person. So tribes are very effective at promoting views that aren't analytical or rational, and people loyal to their tribes are very poor at realizing it.
-- Utopia can't be planed from scratch! Push decisions to the edges (localism) where they have [[incentives]] to make good choices.
+- Utopia can't be planned from scratch! Push decisions to the edges (localism) where they have [[incentives]] to make good choices.
   - A good counter argument is that people might not be educated enough to make the best decision and a centralized institution could do it much better for them (e.g: a government banning lead from most products is credited with the most significant global drop in crime rates in decades).
 - Most political debates are people with different time horizons talking over each other.
 - [Liberalism has a few big economic problems](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/); [[coordination]] issues (Moloch), irrationality and lack of information.

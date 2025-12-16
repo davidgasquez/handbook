@@ -25,7 +25,7 @@ Systems tend towards production and data pipelines aren't an exception. Valuable
 - **[[Modularity]]**: Steps are independent, declarative, and [[Idempotence|idempotent]]. This makes pipelines composable.
 - **Consistency**: Same conventions and design patterns across pipelines. If a failure is actionable by the user, clearly let them know what they can do. Schema on write as there is always a schema.
 - **Efficiency**: Low event latency when needed. Easy to scale up and down. A user should not be able to configure something that will not work. Don't mix heterogeneous workloads under the same tooling (e.g: big data warehouses doing simple queries 95% of their time and 1 big batch once a day).
-- **Flexibility**: Steps change to conform data points. Changes don't stop the pipeline or losses data. Fail fast and upstream.
+- **Flexibility**: Steps change to conform to data points. Changes don't stop the pipeline or lose data. Fail fast and upstream.
 
 ### Data Flow
 

@@ -63,7 +63,7 @@ Data is not code, but the activities of both publishers and users of datasets re
 - **Declarative**. Transformations should be defined as code and be idempotent. Similar to how Pachyderm/Kamu/Holium work.
   - E.g: The transformation tool ends up orchestrating containers/functions that read/write from the storage layer, Pachyderm style.
 - **Environment agnostic**. Can be run locally and remotely. One machine or a cluster. Streaming or batch.
-- **Templated**. Having a repository/market of open transformations could empower a bunch of use cases ready to plug in to datasets:
+- **Templated**. Having a repository/market of open transformations could empower a bunch of use cases ready to plug into datasets:
   - Detect outliers automatically on tabular data.
   - Resize images.
   - Normalize sound files.

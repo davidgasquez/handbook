@@ -8,7 +8,7 @@
 - [Data's impact is tough to measure — it doesn't always translate to value](https://dfrieds.com/articles/data-science-reality-vs-expectations.html)
   - The value of "insights" is often unknown.
 - The Data Team should be building and iterating the [Data Product](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/).
-  - Notebooks are a workshop. Production systems are the factory. Not everything needs to be put into production. Not everything should be a notebook. You need both. Lean in to the strength of each.
+  - Notebooks are a workshop. Production systems are the factory. Not everything needs to be put into production. Not everything should be a notebook. You need both. Lean into the strength of each.
 - Data is fundamentally a collaborative design process rather than a tool, an analysis, or even a product. [Data works best when the entire feedback loop from idea to production is an iterative process](https://pedram.substack.com/p/data-can-learn-from-design).
   - [To get buy in, explain how the business could benefit from better data](https://youtu.be/Mlz1VwxZuDs) (e.g: more and better insights). Start small and show value.
   - Run _[Purpose Meetings](https://www.avo.app/blog/tracking-the-right-product-metrics)_ or [Business Metrics Review](https://youtu.be/nlMn572Dabc).
@@ -69,7 +69,7 @@
 - [So much of data work is about accumulating little bits of knowledge and building a shared context in your org so that it's possible to have the big, earth shattering revelations we all wish we could drive on a predictable schedule](https://twitter.com/imightbemary/status/1536368160961572864).
   - A big purpose of data is knowledge. Knowledge is **"theories or models that allow you to predict the outcomes of your business actions"**. Insights may originate from data but are confirmed through actions.
 - You won't have the best allocation of resources in a reactive team. Data teams need extra [[slack]]. [Balance user requests with actual needs](https://scientistemily.substack.com/p/product-management-skills-for-data).
-- Do weekly recaps in Slack in to highlight key items, company-wide progress toward north-stars, improvements in certain areas, new customer highlights. All positive and fun stuff.
+- Do weekly recaps in Slack to highlight key items, company-wide progress toward north-stars, improvements in certain areas, new customer highlights. All positive and fun stuff.
 - How can we measure the data team impact?
   - Making a [[Writing a Roadmap|roadmap]] can help you telling if you are hitting milestone deadlines or letting them slip.
     - Embedded data team members need to help other teams build their roadmap too.
@@ -99,7 +99,7 @@
 - [Aim for a culture of celebrating measurable progress and learnings, versus celebrating shipping](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Align company on key actions. Every stakeholder should know how to explore that data.
 - Do pre-mortems. Where would we see the impact of _X_ going wrong? Model that and plot it on a dashboard.
-- You can force coordination by making a chart and start the discussion with it. Having a default chart will foce people to fight on the definition and also provides a starting point. Discussions are much better when there are based on data and definitions.
+- You can force coordination by making a chart and start the discussion with it. Having a default chart will force people to fight on the definition and also provides a starting point. Discussions are much better when there are based on data and definitions.
   - Coordination happens when people agree on data, direction, and how to move to the desired place.
 - [Send surveys](https://docs.google.com/forms/d/e/1FAIpQLSfufs_0zOGlFiE6oqrdZU7xCi399CBYbIlZkAMe15GTRRcPZA/viewform) from time to time trying to get pain points and know where issues are.
   - E.g: Do you have access to the data I need to make decisions in your role?

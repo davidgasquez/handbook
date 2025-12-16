@@ -47,9 +47,9 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Data is only useful as long as it's being used**.
   - Flat files help ensure that data is usable for the longest possible time.
   - For complex data structures where plain text really isn't appropriate, use a structured text format instead. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. [Data structures, not algorithms, are central to programming](https://users.ece.utexas.edu/~adnan/pike.html).
-- **A programmer who can't re-use other programs is condemned to re-write them**.
+- **A programmer who can't reuse other programs is condemned to re-write them**.
   - Use software leverage to your advantage.
-  - Many programmers have only a superficial understanding of the importance of re-usable code modules.
+  - Many programmers have only a superficial understanding of the importance of reusable code modules.
   - [Code isn't just meant to be executed. Code is also a means of [[Communication]] across a team, a way to describe to others the solution to a problem](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d). Good writing skills often correlate with good thinking and programming skills. [Sharing knowledge through writing (blogs, talks, documentation, open source) clarifies your thinking and helps others](https://endler.dev/2025/best-programmers/).
 - **Silence is golden**.
   - A silent command is often more usable, providing the function asked for and nothing more.
