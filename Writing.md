@@ -17,6 +17,8 @@
 - [Writing that sounds good is more likely to be right](https://paulgraham.com/goodwriting.html). Making sentences sound better forces you to fix ideas unconsciously. Good rhythm matches the natural rhythm of thoughts—use rhythm as a guide for getting ideas right.
 - Use the active voice.
 - Write in a conversational tone. Think about readers when writing.
+- [A strong title is a pointer to a specific idea](https://taylor.town/how-to-title) and becomes a reusable handle in [[Communication]] and [[Ideas]].
+- [Finding a piece's "true name" often reveals its core narrative](https://taylor.town/how-to-title). If the title is fuzzy, cut back to the main thread and sharpen [[Focus]].
 - [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. Use the [Minto Pyramid](https://scqa.lifeitself.org/) or another standard structure like this one:
   - Decide what you're actually saying. [Define a clear thesis](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html). State the main point before you give the reasoning that leads to it.
     - What is your main point? Who are you writing for?

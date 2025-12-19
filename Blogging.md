@@ -42,6 +42,11 @@
   - The title can also convey your writing style and tone.
   - Be cautious with overly clever or punny titles if you don't have an established audience.
   - Consider title-driven creation: first choose a compelling title, then write content that delivers on its promise.
+- [Good titles are pointers to a latent space](https://taylor.town/how-to-title). Titles travel on their own through [[news]] feeds and social networks. Many people share or curate from the headline alone, so it must stand on its own. Choose headlines that respect reader [[focus]] and align with your [[values]]. Good titles:
+  - Make a strong claim about the content
+  - Are almost too specific
+  - Use unusual word combinations
+  - Evoke curiosity
 - The inverted pyramid works well for blog posts. Put the tweet-length version of the post in the title or first paragraph. Get to the point quickly, then elaborate. Readers can bail out at any point of the text and still take home most of what mattered, while the meticulous crowd can have their nitpicks addressed toward the end.
 - [You're not just writing for today's invisible audience](https://web.archive.org/web/20250219111210/https://andysblog.uk/why-blog-if-nobody-reads-it/). You're writing for:
   - Future you. Your posts become a time capsule of your evolving mind.
