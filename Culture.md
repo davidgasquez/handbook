@@ -10,3 +10,7 @@
 - Foster a culture of [people who care](https://grantslatton.com/nobody-cares).
 - Culture conforms to the shape of communication. E.g: open, transparent communication fosters more trust and collaboration.
 - You get a good culture when people want to participate in it because it is a good culture.
+- If a culture officially says to do one thing, but actually people do something else, then the latter is more decisive.
+- Culture is shaped by [[Incentives]], but then incentives are themselves implemented by people, who are guided by culture.
+- You want an environment [where cultures improve and compete](https://vitalik.eth.limo/general/2025/12/17/societies.html), but not on the basis of violent force, and also not exclusively on low-level forms of memetic fitness (eg. virality of individual posts on social media, moment-by-moment enjoyment and convenience), but rather on some kind of fair playing field that creates sufficient space to showcase the longer-term benefits that a thriving culture provides.
+- Truly instantiating a culture with any level of depth requires not just talking about the culture's themes, but actually living them.
