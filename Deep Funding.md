@@ -79,6 +79,7 @@ After participating in the ML competition and Prediction Market, and doing a few
 - Instead of one canonical graph, allow different stakeholder groups (developers, funders, users) to maintain their own weight overlays on the same edge structure. Aggregate these views using quadratic or other mechanisms
   - If there is a plurality of these "dependency graphs" (or just different set of weights), the funding organization can choose which one to use! The curators gain a % of the money for their service. This creates a market-like mechanism that incentivizes useful curation.
 - Let the dependent set their weight percentage if they're around
+- Let the applicants apply with wathever "abstractions level" they want (e.g: a whole framework, one repository, an entire organization). Rely on pairwise comparisons to resolve conflicts.
 - Have hypercerts or similar. The price of these (total value) sets the weights across dependencies (`numpy`'s certificates trade at 3x the price of a utility library, the edge weight reflects this)
 - If there are reviewers/validators/jurors, need to be public so they have some sort of reputation
   - Reputation system for Jurors

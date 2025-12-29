@@ -85,7 +85,7 @@
 - Use a checklist. Plan, iterate, and refine.
 - [Fail early and often. Agents are pretty good at getting oriented, and failure is cheap. Throw out your problem, and let it work at it. If it fails, start over, adding the tidbits of information it couldn’t figure out on its own](https://sketch.dev/blog/seven-prompting-habits).
 - Go concurrent. Many agents can work in parallel on different tasks or even the same task with different approaches (you can then choose the best one).
-- [LLMs actively reward existing top tier software engineering practices](https://simonwillison.net/2025/Oct/7/vibe-engineering/):
+- Applying software engineering best practices is key. [LLMs actively reward existing top tier software engineering practices](https://simonwillison.net/2025/Oct/7/vibe-engineering/):
   - Automated testing.
   - Planning in advance.
   - Comprehensive documentation.
@@ -121,6 +121,7 @@ Agents are systems where LLMs dynamically direct their own processes and tool us
 - Tool overload confuses models. Just because you can connect every tool doesn't mean you should. Each tool description consumes context window space and can confuse the model about which tool to use when.
 - Unix philosophy beats vertical integration. The most powerful coding agents follow Unix principles, simple, composable tools that do one thing well.
 - The way you wrap, feed, and observe a powerful model often matters more than fancy prompt tricks or extra bells and whistles on the model itself.
+- Decomposing your agent into discrete steps improves reliability and efficiency. If there is a bit of work that happens often and is easier to _eval_ than your entire task, that's a good thing to break out and optimize.
 
 ## Use Cases
 
