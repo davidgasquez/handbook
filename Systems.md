@@ -43,19 +43,25 @@ These are places within a complex system (a corporation, an economy, a living bo
 11. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
 12. The power to transcend paradigms.
 
-**Don't aim for an ideal system. Build a set of [[processes]] and protocols that evolve to fit the environment over time.** [Complex systems fail](https://how.complexsystems.fail/). [High entropy systems are easier to maintain and require less energy to keep things as they are](https://slatestarcodex.com/2016/07/25/how-the-west-was-won/).
+**Don't aim for an ideal system. Build a set of [[processes]] and protocols that evolve to fit the environment over time.** [Complex systems fail](https://how.complexsystems.fail/). Don't move the ball, move the hill and fight loops with loops. [High entropy systems are easier to maintain and require less energy to keep things as they are](https://slatestarcodex.com/2016/07/25/how-the-west-was-won/).
 
 [The purpose of a system is what it does](https://en.m.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does). However, [this view can be misleading](https://www.astralcodexten.com/p/come-on-obviously-the-purpose-of). A system's purpose is often its intended goal, even if it fails or has unintended consequences (e.g., a hospital intends to cure all patients, even if it doesn't succeed; bus emissions are side effects, not the purpose). Attributing failure or negative side effects as the *intended* purpose often ignores complexity, conflicting goals, or simple failure. A [common interpretation](https://www.astralcodexten.com/p/highlights-from-the-comments-on-posiwid) is that if a system consistently fails its stated purpose but isn't changed, its *actual* (perhaps hidden) purpose might be succeeding. Understanding the *intended* purpose, even if the system fails, is often useful for predicting its behavior (e.g., predicting an intelligence agency's actions based on its goal to prevent attacks, even if it fails). The phrase can obscure the useful distinction between a primary goal and unavoidable (or accepted) side effects.
 
 If everyone agrees the current system doesn't work well, who perpetuates it? Some [systems with systemic/incentives failures are broken in multiple places so that no one actor can make them better](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), even though, in principle, some [magically coordinated action could move to a new stable state](https://equilibriabook.com/molochs-toolbox/).
 
-A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/) (the absence of binding constraints on behavior). By having some margin for error, the system is allowed to pursue opportunities and explore approaches that improve it.
+A system needs competition and [slack](https://slatestarcodex.com/2020/05/12/studies-on-slack/) (the absence of binding constraints on behavior). By having some margin for error, the system is allowed to pursue opportunities and explore approaches that improve it. It needs chaos too. Evolution requires two things; variation (chaos) and selection (loops).
 
 Interaction between system actors causes **externalities**: the consequences of their actions on _other actors or processes_. This is important because, intuitively, humans are self-centered, and it's easy to not notice the effects your actions have on others. And it almost never feels as _visceral_ as the costs and benefits to yourself. The canonical examples are [[coordination]] problems, like climate change. Taking a plane flight has strong benefits to me, but costs everyone on Earth a little bit, a negative externality. And a lot of the problems in the world today boil down to coordination problems where our actions have negative externalities.
 
 Most large social systems are pursuing objectives other than the ones they proclaim, and the ones they pursue are wrong. E.g: [The educational system is not dedicated to produce learning by students, but teaching by teachers—and teaching is a major obstruction to learning.](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/)
 
 [Social systems belong to the class called multi-loop nonlinear feedback systems](https://ocw.mit.edu/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/65cdf0faf132dec7ec75e91f9651b31f_behavior.pdf). In the long history of evolution it has not been necessary until very recent historical times for people to understand complex feedback systems. Evolutionary processes have not given us the mental ability to interpret properly the dynamic behavior of those complex systems in which we are now embedded.
+
+There are tools that [help understand how complex systems behave](https://youtu.be/PCwtsK_FhUw).
+
+1. [[Feedback Loops]]. Systems are made of loops where things feed back into themselves. Can be reinforcing loops (compound interest) or balancing loops (thermostat).
+2. Attractors. States a system naturally "wants" to settle into. Systems can have "bad" attractors.
+3. [[Emergence]]. Complex behavior arises from simple rules followed by individuals, not from a central leader. You cannot understand the system just by looking at one piece in isolation.
 
 A [[Mental Models|mental model]] of a system is the reduction of how it works. The model cuts through the noise to highlight the system's core components and how they work together.
 
