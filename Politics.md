@@ -81,7 +81,8 @@
 
 ## Interesting Ideas
 
-- [Charter Cities](https://youtu.be/mSHBma0Ithk).
+- [Charter Cities](https://chartercitiesinstitute.org/) and [Zones](https://vitalik.eth.limo/general/2025/12/17/societies.html).
+- [Vouching as regulation substitute](https://vitalik.eth.limo/general/2025/12/17/societies.html).
 - [Quadratic Voting](http://ericposner.com/quadratic-voting/) and [Quadratic Funding](https://wtfisqf.com/).
 - [Georgism](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty).
 - [Prediction Markets](https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the) as a tool for accountability. [FAQ](https://astralcodexten.substack.com/p/prediction-market-faq).

@@ -22,3 +22,4 @@
   - Exponential technological growth, by designing property rights that force rising tides to lift all boats.
   - Valuing excellence and expertise, through mechanisms like prediction markets with per-person subsidies.
   - Local experimentation in social media, blockchain ecosystems, and local government.
+- [When different people disagree about how things should be done](https://vitalik.eth.limo/general/2025/12/17/societies.html), it's healthy to have a bias toward solutions where both versions exist at least somewhere, and people can freely choose between them. Peacefully making something small in a corner somewhere to see how it plays out is the most productive and least risky way for any actor to implement their vision—it provides rapid feedback about whether ideas actually work in reality.
