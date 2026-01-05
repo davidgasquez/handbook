@@ -10,6 +10,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Do the [simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/). Start with the absolute minimum viable implementation and only add complexity when new requirements absolutely demand it (e.g: UNIX tools remain incredibly powerful and efficient for "Big Data").
   - Good system design looks "boring". Impressive complexity often signals over-design. Start simple and evolve.
   - Benefits of simplicity: ease of understanding, ease of change (improvement), ease of debugging, flexibility. [The goal of software design is to create chunks or slices that fit into a human mind](https://mobile.twitter.com/KentBeck/status/1354418068869398538). The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes.
+  - We are simple apes and we like simple stone tools.
   - Break down complex problems into simpler, digestible pieces. If you do it right, it will feel like cheating: you just solve simple problems until you're done.
   - We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
   - Simplicity means fewer moving pieces, less internal connectivity, and components with clear, straightforward interfaces that remain stable without ongoing maintenance.
