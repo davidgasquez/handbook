@@ -98,6 +98,17 @@
   - The ability to ship to a preview environment.
   - An instinct for what can be outsourced (to AI vs what needs human attention).
   - An good (updated) sense of estimation.
+- Some [[programming]] rules for code design from the Unix philosophy help here:
+  - Modularity: Write simple parts connected by clean interfaces.
+  - Clarity: Clarity is better than cleverness.
+  - Separation: Separate policy from mechanism. Separate interfaces from engines.
+  - Simplicity: Design for simplicity. Add complexity only where you must.
+  - Transparency: Design for visibility to make inspection and debugging easier.
+  - Fold knowledge into data so program logic can be stupid and robust.
+  -  When a program has nothing surprising to say, it should say nothing.
+  - When you must fail, fail noisily and as soon as possible.
+  - Prototype before polishing. Get it working before you optimize it.
+  - Distrust all claims for "one true way".
 - Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
 - [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
 - In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
