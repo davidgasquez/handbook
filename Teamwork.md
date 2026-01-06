@@ -43,6 +43,7 @@
   - Things you haven't built yet.
   - Things you shouldn't have built that way.
 - Accidental complexity is a sum of all the shortcuts you have taken. Complexity attracts more complexity and compounds in a non-linear way. Every shortcut you take is an invitation to more shortcuts elsewhere.
+- Your code doesn't advocate for you. People do. In organizations, decisions get made in meetings you're not invited to, using summaries you didn't write, by people who have five minutes and twelve priorities. If no one can articulate your impact when you're not in the room, your impact is effectively optional. [Make the value chain legible to everyone, including yourself](https://addyosmani.com/blog/21-lessons/).
 - When the context changes a lot, you can use [the blue tape technique](https://randsinrepose.com/archives/the-blue-tape-list/) to notice what is wrong with it:
   1. Notice everything that feels off.
   2. Make a list of everything that feels off, no matter how big or small.

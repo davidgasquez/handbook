@@ -25,6 +25,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Reuse [patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns).
   - The number of moving pieces on average doubles every 18-24 months. No one fully understands [[Systems]].
   - [There are different notions of simplicity](https://vitalik.eth.limo/general/2018/11/25/central_planning.html) (Kolmogorov complexity vs VC Dimension). What is "simple" to describe or appears to have few knobs in one language for describing it is devilishly complex in another, and vice versa.
+  - Most performance wins come from removing work, not adding cleverness.
   - [Good taste is writing code that looks so simple, everyone else says "anyone could have written that!"](https://news.ycombinator.com/item?id=45411143)
 - **Do one thing and do it well**.
   - By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
@@ -34,6 +35,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
   - There is nothing so useless as doing efficiently that which should not be done at all.
   - Writing program code is a good way of debugging your thinking.
+  - [You can edit a bad page, but you can't edit a blank one.](https://addyosmani.com/blog/21-lessons/)
   - Apply small improvements at each iteration. Running the program will make it more resilient and robust as more errors get fixed.
   - Premature optimization is the root of all evil. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built. Standardization is a form of optimization and shouldn't be proposed until there's a body of evidence to support what's being standardized.
     - [Increased efficiency can sometimes, counterintuitively, lead to worse outcomes](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html).

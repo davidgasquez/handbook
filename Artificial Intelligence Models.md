@@ -100,6 +100,7 @@
   - An good (updated) sense of estimation.
 - Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
 - [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
+- In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
 
 ## Agents
 
