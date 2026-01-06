@@ -2,6 +2,15 @@
 
 A few personal random ideas. A multitude of bad ideas is necessary for one good idea!
 
+## How Ideas Happen
+
+- Most "new" ideas are the next reachable step from what already exists. Stairs, not teleportation.
+- Ideas show up when partial thoughts collide: people, artifacts (docs, code, past debates), ...
+- Many good ideas start half-baked. You keep them around until they meet the missing piece.
+- Failure is information. Feedback turns wandering into convergence.
+- Repurpose a thing built for one job into a different job. Reuse as invention.
+- Stable primitives and standards let lots of people build lots of things faster and safer.
+
 ## Key Properties of Ideas
 
 - Timeless.
