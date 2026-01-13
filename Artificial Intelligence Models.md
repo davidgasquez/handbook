@@ -112,10 +112,18 @@
 - Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
 - [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
 - In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
+- [Use all programming languages and technologies instead of just the ones you're already familiar with](https://x.com/mrexodia/status/2010157660885176767).
+- Your job is to write clear specifications, plans, and examples. Define what "done" means, how to test it. Review outcomes, not lines of code.
+- Project setup is the single most important human time investment you can make.
+  - Make your project build, test, and lint with a single command.
+  - Print minimal, actionable error messages.
+  - If a human gets lost onboarding to your codebase, an LLM is definitely going to be lost.
+- Design small, isolated systems. You can check a static website looks great easily. You can check a small API design works well. Compose black boxes into larger systems. Individual boxes can be rewritten in other languages, removed, replaced easily. You can measure them individually.
+- Failed attempts are cheap. If the plan fails and the result is bad, just delete everything and try again.
 
 ## Agents
 
-Agents are systems where LLMs dynamically direct their own processes and tool usage, maintaining control over how they accomplish tasks.
+An agent runs tools in a loop to achieve a goal. Agents are systems where LLMs dynamically direct their own processes and tool usage, maintaining control over how they accomplish tasks. Agents help decouple programming, the craft of physically typing code, from engineering, the architecture of your system, the goals, the "why" of what you're building.
 
 - [The most common patterns are](https://www.anthropic.com/research/building-effective-agents):
   - Tool usage. Calls tools to accomplish a task.
