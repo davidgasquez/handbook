@@ -143,6 +143,7 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where LLMs d
 - Unix philosophy beats vertical integration. The most powerful coding agents follow Unix principles, simple, composable tools that do one thing well.
 - The way you wrap, feed, and observe a powerful model often matters more than fancy prompt tricks or extra bells and whistles on the model itself.
 - Decomposing your agent into discrete steps improves reliability and efficiency. If there is a bit of work that happens often and is easier to _eval_ than your entire task, that's a good thing to break out and optimize.
+- Ultimately, [we are the agents](https://mitsuhiko.github.io/talks/me-and-the-machine/). Use these tools to amplify your own abilities. Give them direction, not simple questions. Engineer feedback loops to make them more reliable. Build systems that let you focus on what matters.
 
 ## Use Cases
 
