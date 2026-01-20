@@ -29,17 +29,36 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 
 ### Hyper Mega Awesome Game
 
-- Modular Approach. The idea is to have some kind of state (main character, currency, ...) and multiple shards to play. Each shard could implement a different rule set or genre.
-- [[Modularity]] could also be implemented in the graphic side. You can choose the graphics pack you like just like another cosmetic similar to Rimworld or Dwarf Fortress.
-- Player Driven Economy. Everything is made by players and traded for real life currency. The developers only get a fee for each trade. This makes the game fully F2P but also supports the developers.
-- Companion Apps. Some tasks like trading or [[Planning]] could be done from a mobile device.
-- Systems (items, skills, monsters, ...) could be affected by evolutionary processes or driven by [[Artificial Intelligence Models]]
+- Modular.
+  - Have some kind of state (main character, currency, ...) and multiple shards to play. Each shard could implement a different rule set or genre.
+  - Use AT Protocol.
+  - [[Modularity]] can also be implemented in the graphic side. You can choose the graphics pack you like just like another cosmetic similar to Rimworld or Dwarf Fortress.
+  - Support external apps for certain tasks like trading.
+- Player Driven.
+  - Everything is made by players and can be traded.
+  - Could use real life currency and the developers only get a fee for each trade?
+  - Groups can take control of a region and build new things there.
+- Evolutionary.
+  - Systems (items, skills, monsters, ...) could be affected by evolutionary processes or driven by [[Artificial Intelligence Models]]
   - Merging two skills could produce a new one (inheriting properties and perhaps with a small mutation).
   - Monsters inside an area could develop resistance against what's killing them, forcing a change of metagame strategies.
   - Quests rewards will also change dynamically like a market.
-- Players can vote for the next patch changes with in-game money. This way developers get feedback on what's important.
-- Could have a GPS RPG extension. Locations in the real world would be named similarly to the real place but with a twist given by a Neural Network.
-- Factions can take control of a region and build new things there.
+- GPS.
+  - Locations in the real world would be named similarly to the real place but with a twist given by a Neural Network.
+- Asynchronous.
+  - Players can play at their own pace. Setup equipment and combat strategies that will be executed when you're offline.
+  - Builds feel like “programming a character,” not piloting one.
+- Extraction-based core loop.
+  - You go out on runs carrying loot at risk and must return to a safe base to secure it.
+  - Death during a run causes loss of unbanked items.
+- Group Play.
+  - Groups have shared resources, upgrades, and long-term goals.
+  - Cooperative progress persists even when players play asynchronously.
+  - Group decisions matter more than individual optimization.
+  - Big enemies and events are defeated through accumulated group contributions.
+- Roguelike variability per run.
+  - Each run offers random modifiers that alter combat behavior (Hades like).
+  - Builds must adapt dynamically rather than rely on a single optimal path.
 
 ### Unconventional Changelogs
 
