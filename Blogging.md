@@ -52,3 +52,5 @@
   - Future you. Your posts become a time capsule of your evolving mind.
   - One right person. Maybe one day, someone stumbles across your words at exactly the right moment. And that changes something for them.
   - The work itself. Consistency beats virality. A hundred posts with depth will outlast a single viral hit.
+- If you have done something cool, or you have studied something for a long time, or you have thought something interesting, and you are writing it up, and you are at a loss how to get started, try to extract out the key phrase. What do you find yourself ranting about to people repeatedly? What does the Wikipedia entry miss that frustrates you? How would the world be different if this were not true? If you were telling a friend in a rush why you were excited to write this down, what would you say? Just say that!
+  - When writing, your first job is to [**make them care**](https://gwern.net/blog/2026/make-me-care).

@@ -53,7 +53,7 @@
 - [Decentralized systems accelerate innovation by maximizing the greatest number of possibilities and variations that are considered](https://faintsignal.org/decentralized-systems-accelerate-innovation/). Centralized systems are efficient, not disruptively innovative.
 - There is a [trilemma with Decentralized Identity](https://maciek.blog/p/dit). You can't have all three:
   - Self-sovereign identity: the user is in control of their identity.
-  - Privacy-preserving: the user's identity is not shared with third parties.
+  - [[Privacy]]-preserving: the user's identity is not shared with third parties.
   - Sybil-resistant: identity is subject to scarcity; i.e., creating more identifiers cannot be used to manipulate a system.
 - Two big unsolved problems on decentralized [[Mechanism Design]] are identity (making sure that the same person can't have multiple identities) and collusion (making sure groups cannot coordinate to manipulate the system).
 - Identity can be delegated to a community. E.g: Gitcoin uses Passport because they know what the identity requirements are for that community. Solving identity at a global scale means "[seeing like a state](https://newsletter.squishy.computer/p/soulbinding-like-a-state)" and distorting the messy reality.

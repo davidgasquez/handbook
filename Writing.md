@@ -14,6 +14,7 @@
     - Instead of using constructions with "of" or "for", rewrite the sentence to put more information before the noun.
   - **Be consistent**.
   - **Add rhythm**. Vary the sentence length to break the monotony.
+- [Make the reader care](https://gwern.net/blog/2026/make-me-care). Because if they are not hooked by the first line, they will probably not keep reading, no matter how good the rest of it is.
 - [Writing that sounds good is more likely to be right](https://paulgraham.com/goodwriting.html). Making sentences sound better forces you to fix ideas unconsciously. Good rhythm matches the natural rhythm of thoughts—use rhythm as a guide for getting ideas right.
 - Use the active voice.
 - Write in a conversational tone. Think about readers when writing.

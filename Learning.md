@@ -110,7 +110,7 @@ right in your browser.
 - [HTML for People](https://htmlforpeople.com/) - Resource for learning HTML.
 - [Typography in ten minutes](https://practicaltypography.com/typography-in-ten-minutes.html) - Learn the basics of typography.
 - [Metaknowledge](https://github.com/RichardLitt/meta-knowledge) - A list of knowledge repositories from multiple people.
-- Privacy
+- [[Privacy]]
   - [Reddit r/privacy  Wiki](https://www.reddit.com/r/privacy/wiki/index) - Guide to becoming more secure online.
   - [Privacy Tools](https://www.privacytools.io/) - Provides knowledge and tools to protect your privacy against global mass surveillance.
 - [Track Awesome List](https://www.trackawesomelist.com/). Track [awesome](https://github.com/sindresorhus/awesome) lists about all kinds of interesting topics.
