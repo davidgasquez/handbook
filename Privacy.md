@@ -3,6 +3,8 @@
 - [Privacy is about power](https://www.privacyguides.org/en/basics/why-privacy-matters/), and human information confers power over human beings.
 - If we care about being authentic, fulfilled, and free humans, we have to care about the rules that apply to information about us.
 - [A society with no privacy is a severe disadvantage in any resistance against the oppressive tendencies of the state and other large corporate actors.](https://www.reddit.com/r/privacy/comments/188v2ao/why_is_privacy_important_to_you/)
+  - Think about how badly things can go if the wrong people end up in positions of power.
+  - What happens when someone is being stalked by an abusive ex-partner who works in law enforcement and has access to those databases?
 - Data mining can be a weapon.
 - Privacy is the assurance that your data is only seen by the parties you intend to view it.
 - Anonymity is the ability to act without a persistent identifier.
