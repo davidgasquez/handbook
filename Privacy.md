@@ -1,0 +1,19 @@
+# Privacy
+
+- [Privacy is about power](https://www.privacyguides.org/en/basics/why-privacy-matters/), and human information confers power over human beings.
+- If we care about being authentic, fulfilled, and free humans, we have to care about the rules that apply to information about us.
+- [A society with no privacy is a severe disadvantage in any resistance against the oppressive tendencies of the state and other large corporate actors.](https://www.reddit.com/r/privacy/comments/188v2ao/why_is_privacy_important_to_you/)
+- Data mining can be a weapon.
+- Privacy is the assurance that your data is only seen by the parties you intend to view it.
+- Anonymity is the ability to act without a persistent identifier.
+  - Pseudonymity is a persistent identifier.
+- You shouldn't confuse privacy with secrecy. We know what happens in the bathroom, but you still close the door.
+- There are always certain facts about us, say, personal health information, or sexual behavior, that we wouldn't want the whole world to know.
+- [Less privacy => you give more data to advertisers => you get more personalized ads => ads are more effective on you => political ads change your opinions more => your political views are partly bought by money.](https://www.reddit.com/r/privacy/comments/188v2ao/why_is_privacy_important_to_you/). Ads work, on everyone, regardless what you think.
+- You may be fine with being influenced by ads, but you are also imposing it on everyone you care about, without their consent.
+- Companies can see all your data, and companies are made of people, and people can be malicious.
+- Companies can share your innocuous data with law enforcement and get you arrested for being in the wrong place at the wrong time.
+- Any information that is tied to your person can be used against you if it lands in the wrong person's hands. Privacy is safety.
+- Digital privacy is even more paramount than social non-digital privacy, because it can be accessed or exploited remotely from anywhere.
+- You behave very differently when you know you are being watched. A lack of privacy changes how you act.
+- You do have things to hide. You do not know what you need to hide today for the reality of tomorrow.
