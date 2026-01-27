@@ -20,6 +20,9 @@
 - [When the main purpose of writing is to demonstrate your thinking (building trust, applying for a job), don't use LLM output](https://x.com/HamelHusain/status/1976720326106173673). Use LLMs when you need to communicate info, or do admin stuff, where the person really just wants info and doesn't need to be convinced "how you think". LLMs are good at writing but bad at thinking.
   - LLMs are helpful when you want the output/result and don't need to do the work yourself (e.g: [going to the gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym) doesn't work if the weights are automatically lifted).
 - LLMs as "stateless functions". Fixed weights, no updating. LLMs are in-context learners.
+- LLMs are a lot better at fill in the blanks (the micro) than grand strategy (the macro). [Generalists might increasingly outperform specialists](https://x.com/karpathy/status/2015883857489522876).
+  - The skill you want to build is the ability to understand problems and have some concept of how to solve them.
+  - Knowing how [the style](https://x.com/luusssso/status/2000941875910598700) is named makes prompting easier.
 
 ## Prompting
 
@@ -58,6 +61,7 @@
 - Using LLMs for coding is difficult and unintuitive, requiring significant effort to master.
 - English is becoming the hottest new programming language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
   - [Prompts are code](https://mariozechner.at/posts/2025-06-02-prompts-are-code/). Markdown and JSON files are state.
+  - [Specs are core to programming with LLMs](https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html).
 - Use comments to guide the model to do what you want.
 - Don't delegate thinking, delegate work.
 - Describe the problem very clearly and effectively.
