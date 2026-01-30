@@ -124,6 +124,8 @@
   - If a human gets lost onboarding to your codebase, an LLM is definitely going to be lost.
 - Design small, isolated systems. You can check a static website looks great easily. You can check a small API design works well. Compose black boxes into larger systems. Individual boxes can be rewritten in other languages, removed, replaced easily. You can measure them individually.
 - Failed attempts are cheap. If the plan fails and the result is bad, just delete everything and try again.
+- Model behaviour is not deterministic, intuition for one model doesn't transfer to other models, even within the same family or reasoing level, intuitions for one coding harness does not transfer to other harnesses, and so on.
+- [Software is still hard](https://x.com/badlogicgames/status/2017008550111773098). It gets harder if you trick yourself into thinking the agents can take on the hard parts.
 
 ## Agents
 
