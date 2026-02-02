@@ -15,3 +15,4 @@
 - Knowing what we really want is hard and takes effort. Explore yourself and your [[values]].
 - Experiment more! It is very very easy to do what comes naturally and never deviate from that. Break the pattern.
 - Consume content that is hard to produce. If the producer can spam the content, it is probably not worth your time. E.g: audiobooks vs podcasts.
+- Having fun is efficient! Doing fun activities gives you your energy back.
