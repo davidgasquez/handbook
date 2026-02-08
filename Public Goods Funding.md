@@ -19,7 +19,7 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - **Budget Balance**. The mechanism generates sufficient revenue to cover its costs or payouts, without running a net deficit.
 - **Coalition-Proofness**. Preventing groups of participants from conspiring to manipulate the mechanism to their advantage.
 - **Provable Participation**. Even if spending should be kept private, users may want to prove their participation in a funding mechanism in order to boost their reputation or as part of an agreement.
-- **Identity and Reputation**. To prevent sybil attacks, some form of identity is needed. If reputation is important, a public identity is preferred. If anonymity is required, zero-knowledge proofs or re-randomizable encryption may be necessary. Reputation is an important incentive to fund public goods. Some form of reputation score or record of participation can be useful for repeated games. These scores can help identify bad actors or help communities coalesce around a particular funding venue. [Identity-free mechanism can also be used](https://victorsintnicolaas.com/funding-public-goods-in-identity-free-systems/).
+- **Identity and Reputation**. To prevent sybil attacks, some form of identity is needed. If reputation is important, a public identity is preferred. If anonymity is required, zero-knowledge proofs or re-randomizable encryption may be necessary. Reputation is an important incentive to fund public goods. Some form of reputation score or record of participation can be useful for repeated games. These scores can help identify bad actors or help communities coalesce around a particular funding venue. [Identity-free mechanism can also be used](https://victorsintnicolaas.substack.com/p/funding-public-goods-in-identity-free-systems).
 - **Verifiable Mechanisms**. Users may want certain guarantees about a mechanism before or after participation, especially if the mechanism being used is concealed. Ex-ante, they may want to upper-bound their amount of spending towards the good, ex-post, they may require proof that a sufficient number of individuals contributed.
 - **Anti-Collusion Infrastructure**. Like secure voting systems, there is a threat of buying votes in a funding mechanism. Collusion can be discouraged by making it impossible for users to prove how they reported their preferences. This infrastructure must be extended to prevent collusion between the 3rd party and the users.
 - **Predictable Schedules**. Participants need to know when are they getting funded.
@@ -51,6 +51,16 @@ Builders create public goods (OSS, research, infrastructure, etc.), funders choo
 Each cycle has two phases: Funding and Retro. The funding phase is where funders give money to any projects they decide to back. They receive "retro shares" for that project. Basically, who backed what, and by how much? The retrospective phase is where the system rewards impact. A mechanism is run (e.g: [[Deep Funding]]) that returns a version of impact for each project.
 
 Capital concentrates in the hands of those who were repeatedly "right" about which public goods mattered.
+
+## Reputation
+
+Many public goods funding mechanisms are not immune to Sybil-attacks, [so verifying the identity of participants is crucial](https://victorsintnicolaas.substack.com/p/public-goods-funding-landscape). Additionally, if funding occurs over many rounds, clearly identifying which individuals are free-riding is critical to punishing defection. [Reputation helps solve the 'tragedy of the commons'](https://europepmc.org/article/med/11807552).
+
+- Vouch-Based Scoring
+  - Each vouch is a simple binary endorsement from your perspective—you either vouch for someone or you don't. No complicated trust levels.
+  - Each community can define what "vouching" means to them.
+  - [Apply algorithms on top of the decentralized vouch graph](https://maxflow.one/how-it-works) to identify trustworthy participants. Tweak the parameters for your use case.
+  - Communities can reuse and share vouch graph and even combine it with other data sources (e.g., contribution history, social media presence) to create a more robust customized reputation systems.
 
 ## Resources
 
