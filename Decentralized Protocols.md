@@ -18,6 +18,7 @@
   - Nature uses these same properties for resilience against catastrophes.
   - The internet's original decentralized design enabled permissionless innovation.
   - Even if systems recentralize (e.g., application layer), building on a decentralized substrate fosters evolvability and allows new innovations.
+  - [The idea is to replace the useful functions of a system with locally controlled and owned ones](https://geohot.github.io/blog/jekyll/update/2022/02/09/the-problem-of-the-state.html).
 - [Redecentralization one layer up, is progress](https://newsletter.squishy.computer/p/redecentralization):
   - Content-addressing (CIDs) decouples data from origin, enabling fungible storage, redundancy, and credible exit.
   - UCANs (user-controlled authorization networks) decouple trust from origin via self-sovereign signatures.
