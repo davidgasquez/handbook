@@ -1,0 +1,64 @@
+# Agentic Engineering
+
+An agent runs tools in a loop to achieve a goal. Agents are systems where [[Artificial Intelligence Models|LLMs]] dynamically direct their own processes and tool usage, maintaining control over how they accomplish tasks. Agents help decouple programming, the craft of physically typing code, from engineering, the architecture of your system, the goals, the "why" of what you're building.
+
+- Using LLMs for coding is difficult and unintuitive, requiring significant effort to master.
+- Don't delegate thinking, delegate work.
+- Before coding, make the plan with the model. 
+  - You can use the same or a different model to critique the plan and iterate. If you are unsure, ask to ["give a few options before making changes"](https://steipete.me/posts/just-talk-to-it).
+  - [Redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms). Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh once you know what and how to build it.
+  - Failed attempts are cheap. If the plan fails and the result is bad, just delete everything and try again.
+- Divide the problem into smaller problems (functions, classes, ...) and solve them one by one. Keep sessions short.
+- [Use Progressive Disclosure](https://www.humanlayer.dev/blog/writing-a-good-claude-md) to ensure that the agent only sees tasks or project-specific instructions when it needs them.
+- [Teach and tell the agents to use the same tool you'd use](https://www.anthropic.com/engineering/claude-code-best-practices) to run and debug code. 
+- [Focus on building a rich environment with good and fasts tests, documentation, consistent patterns, and clear feature definitions - this helps both humans and AI work better](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/).
+- Balancing log verbosity is crucial. Informative yet concise logs optimize token usage and inference speed.
+- [You need quick and clear feedback loops](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) (fast tool responses, clean logs, ...).
+  - Give them the ability to interactively test the code they are writing too.
+- Use deterministic tools whenever you can. Linters, type checkers, auto-formatters, commit hooks, ...
+- Prefer functions with clear, descriptive, unique, and longer than usual function names over classes. Avoid inheritance and overly clever hacks.
+- Write legible (text based) relevant content and link it with anything else (code, diagrams, ...).
+- [Fail early and often. Agents are pretty good at getting oriented, and failure is cheap. Throw out your problem, and let it work at it. If it fails, start over, adding the tidbits of information it couldn’t figure out on its own](https://sketch.dev/blog/seven-prompting-habits).
+- Applying software engineering best practices is key. [LLMs actively reward existing top tier software engineering practices](https://simonwillison.net/2025/Oct/7/vibe-engineering/):
+  - Automated testing.
+  - Planning in advance.
+  - Comprehensive documentation.
+  - Good version control habits.
+  - Having effective automation in place.
+  - A culture of code review.
+  - Modular, reusable code.
+  - Strong research skills.
+  - The ability to ship to a preview environment.
+  - An instinct for what can be outsourced (to AI vs what needs human attention).
+  - An good (updated) sense of estimation.
+- Some [[programming]] rules for code design from the Unix philosophy help here:
+  - Modularity: Write simple parts connected by clean interfaces.
+  - Clarity: Clarity is better than cleverness.
+  - Separation: Separate policy from mechanism. Separate interfaces from engines.
+  - Simplicity: Design for simplicity. Add complexity only where you must.
+  - Transparency: Design for visibility to make inspection and debugging easier.
+  - Fold knowledge into data so program logic can be stupid and robust.
+  -  When a program has nothing surprising to say, it should say nothing.
+  - When you must fail, fail noisily and as soon as possible.
+  - Prototype before polishing. Get it working before you optimize it.
+  - Distrust all claims for "one true way". We are all figuring this out and "this" is changing every day.
+- Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
+- [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
+- In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
+- [Use all programming languages and technologies instead of just the ones you're already familiar with](https://x.com/mrexodia/status/2010157660885176767).
+- Your job is to write clear specifications, plans, and examples. Define what "done" means, how to test it. Review outcomes, not lines of code.
+- Project setup is the single most important human time investment you can make.
+  - Make your project build, test, and lint with a single command.
+  - Print minimal, actionable error messages.
+  - If a human gets lost onboarding to your codebase, an LLM is definitely going to be lost.
+- Design small, isolated systems. You can check a static website looks great easily. You can check a small API design works well. Compose black boxes into larger systems. Individual boxes can be rewritten in other languages, removed, replaced easily. You can measure them individually.
+- Model behaviour is not deterministic, intuition for one model doesn't transfer to other models, even within the same family or reasoing level, intuitions for one coding harness does not transfer to other harnesses, and so on.
+- [Software is still hard](https://x.com/badlogicgames/status/2017008550111773098). It gets harder if you trick yourself into thinking the agents can take on the hard parts.
+- Tools come in three flavors: context retrieval (finding information), feedback loops (verifying actions), and planning (structuring work over longer horizons).
+- Tool/skills overload confuses models. Just because you can connect every tool doesn't mean you should. Each tool description consumes context window space and can confuse the model about which tool to use when.
+- Unix philosophy beats vertical integration. The most powerful coding agents follow Unix principles, simple, composable tools that do one thing well.
+- The way you wrap, feed, and observe a powerful model often matters more than fancy prompt tricks or extra bells and whistles on the model itself.
+- Decomposing your agent into discrete steps improves reliability and efficiency. If there is a bit of work that happens often and is easier to _eval_ than your entire task, that's a good thing to break out and optimize.
+- Ultimately, [we are the agents](https://mitsuhiko.github.io/talks/me-and-the-machine/). Use these tools to amplify your own abilities. Give them direction, not simple questions. Engineer feedback loops to make them more reliable. Build systems that let you focus on what matters.
+- Move away from visual interfaces and toward headless, API-first environments. An agent needs a CLI or a robust API, not a button on a web page.
+- [Provide structured error hints](https://robertsahlin.substack.com/p/why-the-future-of-data-platform-engineering). If a request fails, the system should provide a reason that allows an agent to self-correct and retry without human intervention.
