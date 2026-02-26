@@ -12,7 +12,8 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 - [Use Progressive Disclosure](https://www.humanlayer.dev/blog/writing-a-good-claude-md) to ensure that the agent only sees tasks or project-specific instructions when it needs them.
 - [Teach and tell the agents to use the same tool you'd use](https://www.anthropic.com/engineering/claude-code-best-practices) to run and debug code. 
 - [Focus on building a rich environment with good and fasts tests, documentation, consistent patterns, and clear feature definitions - this helps both humans and AI work better](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/).
-- Balancing log verbosity is crucial. Informative yet concise logs optimize token usage and inference speed.
+- [Reduce noise](https://blog.codemine.be/posts/2026/20260222-be-quiet/) in [[Feedback Loops|feedback loops]]. Quiet success output, loud failure output.
+  - Prefer errors-only logs. Disable update banners, spinners, and ANSI color noise, tool-specific flags).
 - [You need quick and clear feedback loops](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) (fast tool responses, clean logs, ...).
   - Give them the ability to interactively test the code they are writing too.
 - Use deterministic tools whenever you can. Linters, type checkers, auto-formatters, commit hooks, ...
@@ -22,7 +23,7 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 - Applying software engineering best practices is key. [LLMs actively reward existing top tier software engineering practices](https://simonwillison.net/2025/Oct/7/vibe-engineering/):
   - Automated testing.
   - Planning in advance.
-  - Comprehensive documentation.
+  - Comprehensive documentation (exportable/accessible in markdown).
   - Good version control habits.
   - Having effective automation in place.
   - A culture of code review.
@@ -55,10 +56,11 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 - Model behaviour is not deterministic, intuition for one model doesn't transfer to other models, even within the same family or reasoing level, intuitions for one coding harness does not transfer to other harnesses, and so on.
 - [Software is still hard](https://x.com/badlogicgames/status/2017008550111773098). It gets harder if you trick yourself into thinking the agents can take on the hard parts.
 - Tools come in three flavors: context retrieval (finding information), feedback loops (verifying actions), and planning (structuring work over longer horizons).
+- [Write skills for your product](https://x.com/karpathy/status/2026360908398862478) so agents know how to use it properly. Distribute them. 
 - Tool/skills overload confuses models. Just because you can connect every tool doesn't mean you should. Each tool description consumes context window space and can confuse the model about which tool to use when.
 - Unix philosophy beats vertical integration. The most powerful coding agents follow Unix principles, simple, composable tools that do one thing well.
 - The way you wrap, feed, and observe a powerful model often matters more than fancy prompt tricks or extra bells and whistles on the model itself.
 - Decomposing your agent into discrete steps improves reliability and efficiency. If there is a bit of work that happens often and is easier to _eval_ than your entire task, that's a good thing to break out and optimize.
 - Ultimately, [we are the agents](https://mitsuhiko.github.io/talks/me-and-the-machine/). Use these tools to amplify your own abilities. Give them direction, not simple questions. Engineer feedback loops to make them more reliable. Build systems that let you focus on what matters.
-- Move away from visual interfaces and toward headless, API-first environments. An agent needs a CLI or a robust API, not a button on a web page.
+- Move away from visual interfaces and toward headless, API-first environments. An agent needs a CLI or a robust API, not a button on a web page. Make your product usable from the CLI!
 - [Provide structured error hints](https://robertsahlin.substack.com/p/why-the-future-of-data-platform-engineering). If a request fails, the system should provide a reason that allows an agent to self-correct and retry without human intervention.
