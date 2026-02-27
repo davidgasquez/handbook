@@ -22,6 +22,7 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 - [Fail early and often. Agents are pretty good at getting oriented, and failure is cheap. Throw out your problem, and let it work at it. If it fails, start over, adding the tidbits of information it couldn’t figure out on its own](https://sketch.dev/blog/seven-prompting-habits).
 - Applying software engineering best practices is key. [LLMs actively reward existing top tier software engineering practices](https://simonwillison.net/2025/Oct/7/vibe-engineering/):
   - Automated testing.
+  - [Red/green TDD](https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/).
   - Planning in advance.
   - Comprehensive documentation (exportable/accessible in markdown).
   - Good version control habits.
