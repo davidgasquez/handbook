@@ -1,5 +1,6 @@
 # Decentralized Protocols
 
+- [The point of decentralization is to guarantee the rights of individuals and communities on the Internet](https://www.pfrazee.com/blog/practical-decentralization).
 - Decentralized protocols become [fat protocols](https://www.usv.com/writing/2016/08/fat-protocols/).
   - On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are necessary but not valuable. Value is captured by the apps.
     - A great example of a modern open source protocol is [[IPFS]].
@@ -46,6 +47,17 @@
 - Many decentralized protocols are trying to build next generation common digital infrastructure.
   - Unfortunately,[nearly every crypto project realized that they could capture value (make a lot of money) with innovative tokenomics that looked a lot like Ponzis, or at least borderline securities fraud](https://andrewconner.com/common-digital-infrastructure/).
 - [Whether something is decentralised or not is a function of the administrative control of different parts of the system, not a function of the network topology](https://bsky.app/profile/martin.kleppmann.com/post/3jujacxncil2r).
+  - Protocol design is an authority model, not only a network topology.
+  - Ask explicitly. Who has the right to host or unhost data.
+  - Who has the right to platform or deplatform speech.
+  - Who has the right to implement feeds and search algorithms.
+  - Who has the right to collect user behavior and place ads.
+  - This frames decentralization as practical [[Governance]] and [[Privacy]] guarantees, not ideology.
+- [Good protocol design requires balancing the tensions of ideology and practicality](https://www.pfrazee.com/blog/practical-decentralization).
+  - Pure models break at scale (centralization, p2p, ...). Large social systems need shared indexes and operational reliability.
+  - Practical systems can use servers for uptime, device sync, key management, and performance.
+  - Rights still need protection by design. User-addressed content for smooth migration and a shared data space for modular services.
+  - Separate powers across hosting, moderation, algorithms, and apps so no single provider controls the full stack.
 - [Credible neutrality](https://nakamoto.com/credible-neutrality/) is the principle that a system or protocol should be demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests. When building mechanisms that decide high-stakes outcomes, it's very important for those mechanisms to be credibly neutral. Rules to building a credibly neutral mechanism:
   - Don't write specific people or specific outcomes into the mechanism.
   - Open source and publicly verifiable execution.
