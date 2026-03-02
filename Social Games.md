@@ -7,7 +7,7 @@
 - [Diplomacy](https://play.google.com/store/apps/details?id=se.oort.diplicity). Also [Backstabbr](https://www.backstabbr.com/).
 - [The Schelling Game](https://www.lesswrong.com/posts/kM3Xd2mJeWtsGkgSW/the-schelling-game-a-k-a-the-coordination-game). Discern Schelling points among the group.
 - [Aumann Agreement Game](https://docs.google.com/document/d/1gCKURs0Xdnb8PQS54rckS4CJUp8kCklKs2KKi7xDZdA/edit#). Also possible to [play online](https://web.archive.org/web/20241226132325/https://aumann.io/).
-  - [Calibration Questions](https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population).
+  - [Calibration Questions](https://web.archive.org/web/20230828073617/https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population).
 - [Black Stories](https://detective-stories.com/).
 - [Stopots](https://stopots.com/es/). Choose a letter, think about things starting with it.
 - [Two Rooms and a Boom](https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom). [Print and Play version](https://drive.google.com/drive/folders/1_jbxtyH0V0xACK_crdIbf-QMFv0aw7pr). [Online Version](https://www.playkaboom.com/) ([alternative](http://tworooms.centralus.cloudapp.azure.com/)).
@@ -39,7 +39,7 @@
 - [Bartok](<https://en.wikipedia.org/wiki/Bartok_(card_game)>).
 - Mao.
 - [Egyptian Ratscrew](https://waste.org/~oliviax/cards/ratscrew.html).
-- [Dvorak](http://web.archive.org/web/20241219082825/https://en.wikipedia.org/wiki/Dvorak_(game)).
+- [Dvorak](https://web.archive.org/web/20241219082825/https://en.wikipedia.org/wiki/Dvorak_(game)).
 - [Skull](https://boardgamegeek.com/boardgame/92415/skull).
 - [Cheat / Bullshit](https://www.pagat.com/beating/cheat.html).
 - [In Vino Morte](https://www.youtube.com/watch?v=ksy4mFBZmR0).
@@ -75,7 +75,7 @@
 - [Rocket Crab](https://rocketcrab.com/). Party games for phones.
 - [Gartic Phone](https://garticphone.com/). The drawing telephone game.
 - [Quicksplain](https://quicksplain.com/). Party trivia game for groups of 2 to 8 people that tests your knowledge on a variety of topics.
-- [Smart Cookie Trivia](https://www.smart-cookie-trivia.com/). Free, fun, challenging, multiplayer quizzes.
+- [Smart Cookie Trivia](https://web.archive.org/web/20251211062847/https://www.smart-cookie-trivia.com/). Free, fun, challenging, multiplayer quizzes.
 - [Escape Team](https://www.escape-team.com/). A digital-physical escape room game.
 
 ## Boardgames

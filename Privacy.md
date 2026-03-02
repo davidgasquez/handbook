@@ -2,7 +2,7 @@
 
 - [Privacy is about power](https://www.privacyguides.org/en/basics/why-privacy-matters/), and human information confers power over human beings.
 - If we care about being authentic, fulfilled, and free humans, we have to care about the rules that apply to information about us. [Privacy gives you the freedom to live your life in a way that best suits your personal goals and needs](https://vitalik.eth.limo/general/2025/04/14/privacy.html).
-- [Doing privacy first tackles multiple online harms by addressing corporate surveillance.](https://www.eff.org/wp/privacy-first-better-way-address-online-harms)
+- [Doing privacy first tackles multiple online harms by addressing corporate surveillance.](https://web.archive.org/web/20260224191356/https://www.eff.org/wp/privacy-first-better-way-address-online-harms)
 - [A society with no privacy is a severe disadvantage in any resistance against the oppressive tendencies of the state and other large corporate actors.](https://www.reddit.com/r/privacy/comments/188v2ao/why_is_privacy_important_to_you/)
   - Think about how badly things can go if the wrong people end up in positions of power.
   - What happens when someone is being stalked by an abusive ex-partner who works in law enforcement and has access to those databases?

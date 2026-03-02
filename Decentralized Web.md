@@ -17,10 +17,10 @@
 - [Kernel Community](https://kernel.community/).
 - Decentralized friendly and open source alternatives:
   - [Trello](https://dework.xyz/)
-  - [Notion](http://web.archive.org/web/20241220080916/https://www.clarity.so/)
+  - [Notion](https://web.archive.org/web/20241220080916/https://www.clarity.so/)
   - [Medium](https://mirror.xyz/dashboard)
   - [Imgur](https://www.pinata.cloud/)
-  - [Netlify](https://fleek.co/)
+  - [Netlify](https://web.archive.org/web/20250105132652/https://fleek.co/)
   - [Firebase](https://textile.io)
   - [Dropbox](https://www.sliksafe.com/). [Another](https://files.chainsafe.io/)
   - [Publishing](https://docs.distributed.press/)
@@ -29,8 +29,8 @@
 ## Links
 
 - [Kernel](https://kernel.community/). An 8 week program covering crypto and web3.
-- [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Great list of crypto readings and resources.
-  - [Understanding Crypto](https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)- Learn more about cryptocurrencies.
+- [Crypto Canon](https://web.archive.org/web/20230219013152/https://a16z.com/2018/02/10/crypto-readings-resources/) - Great list of crypto readings and resources.
+  - [Understanding Crypto](https://web.archive.org/web/20230207021732/https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)- Learn more about cryptocurrencies.
 - [DAOs, A Canon](https://future.a16z.com/dao-canon/). Understand, build, and get involved with “decentralized autonomous organizations”.
 - [Trading View](https://www.tradingview.com/markets/cryptocurrencies/) - Crypto charts.
 - [Finematics](https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA). Educational videos on DeFi (Decentralized Finance).
@@ -45,21 +45,21 @@
 
 ### Blockchain Indexing Projects
 
-There is an emerging landscape of [Data and Blockchain](https://www.primodata.org/blockchain-data).
+There is an emerging landscape of [Data and Blockchain](https://web.archive.org/web/20241013061702/https://www.primodata.org/blockchain-data).
 
 #### Companies
 
 - [Tokenflow](https://tokenflow.live/)
 - [Indexed.xyz](https://github.com/indexed-xyz)
 - [BitQuery](https://bitquery.io/) ([GitHub](https://github.com/bitquery/explorer))
-- [Coherent](http://web.archive.org/web/20250312045544/https://coherent.xyz/)
+- [Coherent](https://web.archive.org/web/20250312045544/https://coherent.xyz/)
 - [Covalent](https://www.covalenthq.com/) ([GitHub](https://github.com/covalenthq))
 - [Nansen](https://www.nansen.ai/)
 - [Footprint](https://www.footprint.network/) ([GitHub](https://github.com/footprintanalytics))
-- [Blockchair](http://web.archive.org/web/20240228210324/https://blockchair.com/dumps)
+- [Blockchair](https://web.archive.org/web/20240228210324/https://blockchair.com/dumps)
 - [Sentio](https://www.sentio.xyz/) ([GitHub](https://github.com/sentioxyz))
 - [GeniiData](https://geniidata.com/)
-- [Transpose](https://www.transpose.io/) ([GitHub](https://github.com/TransposeData))
+- [Transpose](https://web.archive.org/web/20250422042357/https://www.transpose.io/) ([GitHub](https://github.com/TransposeData))
 - [Allium](https://twitter.com/alliumlabs)
 - [Kyve](https://www.kyve.network/)
 - [Token Terminal](https://tokenterminal.com/)

@@ -22,7 +22,7 @@ Inspired by [Caitlin Hudon Intake Form for Data Requests](https://caitlinhudon.c
   - How can we measure our progress/success for each step?
   - What happens if we don't hit the target?
 - What is the real problem you're trying to solve?
-  - Frame the (initially vague) data questions this way: [How does _lever_ impact _KPI_?](https://www.narrator.ai/blog/how-i-frame-data-questions-to-make-analyses-more-useful/)
+  - Frame the (initially vague) data questions this way: [How does _lever_ impact _KPI_?](https://web.archive.org/web/20220810142837/https://www.narrator.ai/blog/how-i-frame-data-questions-to-make-analyses-more-useful/)
 - What is the business question you're trying to answer?
 - What decision will you make or action will you take with this data?
 - [What are we trying to improve](https://twitter.com/ergestx/status/1758538405695086829)?

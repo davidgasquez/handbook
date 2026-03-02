@@ -77,7 +77,7 @@
 
 ### Stuffed Kongs
 
-[Stuffed Kongs](https://youtu.be/LwZI1isnvPQ) are meant to give your puppy or dog a chance to work out his brain and tongue while he gets a delicious treat or meal and you get some well-deserved downtime to relax. [Some stuffings](https://www.naturzoo.com/estimulacion-mental-alimentos-naturales/):
+[Stuffed Kongs](https://youtu.be/LwZI1isnvPQ) are meant to give your puppy or dog a chance to work out his brain and tongue while he gets a delicious treat or meal and you get some well-deserved downtime to relax. [Some stuffings](https://web.archive.org/web/20230929103825/https://www.naturzoo.com/estimulacion-mental-alimentos-naturales/):
 
 - Puppy kibble or wet food.
 - Proteins: Beef (non-fatty cut), chicken, turkey, salmon - all should be unseasoned and cooked.

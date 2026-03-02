@@ -1,7 +1,7 @@
 # Blogging
 
 - Expect 80% of the [[ideas]] in a post to happen after you start [[Writing]] it, and 50% of those you start with to be wrong.
-- To decide if your idea is worth [[Writing]] about, [ask these questions](https://jvns.ca/blog/2016/05/22/how-do-you-write-blog-posts/):
+- To decide if your idea is worth [[Writing]] about, [ask these questions](https://web.archive.org/web/20260205031856/https://jvns.ca/blog/2016/05/22/how-do-you-write-blog-posts/):
   - Would this have helped me a year ago?
   - Would this have helped me last week?
   - Do you think this would be interesting to at least like 2 other people?
@@ -14,7 +14,7 @@
 - Put a summary at the top if you're writing a long post.
 - The more you create, the more ideas come to you to continue creating. That's the creativity [[Feedback Loops|feedback loop]].
 - [Expand your definition of completing a project (any project, no matter how small) to include writing a blog post that explains that project](https://twitter.com/simonw/status/1578018383127187461).
-- For long-form content, the [diamond model](http://web.archive.org/web/20250130021041/https://dropbox.design/article/mental-models-for-designers) works great for putting a structure around your main idea:
+- For long-form content, the [diamond model](https://web.archive.org/web/20250130021041/https://dropbox.design/article/mental-models-for-designers) works great for putting a structure around your main idea:
   1. Attention: Start with a story, statistic, or something similar
   2. Main topic: Briefly introduce the main topic you'll cover
   3. Previews: Give quick previews of your subtopics

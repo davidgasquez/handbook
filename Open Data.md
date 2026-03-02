@@ -24,7 +24,7 @@ Iterative improvements over public datasets yield large amounts of value ([check
 
 In the blockchain example, data is Open, Verifiable, and Useful. And yet, the main provider of data is Dune, a company that captured most of the data layer. Users can run `cryo` but there are no incentives for them to share the data. There isn't a matchmaking market for data and people are forced to repeat the same work.
 
-Open Source code has made a huge impact in the world. Let's make Open Data do the same! Open data is, essentially, public infrastructure (similar to roads, bridges, or the internet). Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](http://web.archive.org/web/20240719190206/https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
+Open Source code has made a huge impact in the world. Let's make Open Data do the same! Open data is, essentially, public infrastructure (similar to roads, bridges, or the internet). Let's make it possible for [anyone to fork and re-publish fixed, cleaned, reformatted datasets as easily as we do the same things with code](https://web.archive.org/web/20240719190206/https://juan.benet.ai/blog/2014-02-21-data-management-problems/).
 
 This document is a collection of ideas and principles to make Open Data more accessible, maintainable, and useful. Also, recognizing that a lot of people are already working on this, there are some amazing datasets, tools, and organizations out there, and, that Open Data is a people problem at 80%. This document is biased towards the technical side of things, as I think that's where I can contribute the most. I believe we can do much more with the available data.
 
@@ -42,7 +42,7 @@ During the last few years, a large number of new data and open source tools have
 - Data watermarking, fingerprinting, and provenance tracking with blockchains.
 - Better CPUs, compression algorithms, and storage technologies.
 
-These trends are already making their way towards movements like [DeSci](https://ethereum.org/en/desci/) or smaller projects like [Py-Code Datasets](https://py-code.org/datasets). But, we still need more tooling around data to improve interoperability as much as possible. Lots of companies have figured out how to make the most of their datasets. **We should use similar tooling and approaches companies are using to manage the open datasets that surrounds us**. A sort of [Data Operating system](http://web.archive.org/web/20250316031339/https://data-operating-system.com/).
+These trends are already making their way towards movements like [DeSci](https://ethereum.org/en/desci/) or smaller projects like [Py-Code Datasets](https://web.archive.org/web/20260224162429/https://py-code.org/datasets). But, we still need more tooling around data to improve interoperability as much as possible. Lots of companies have figured out how to make the most of their datasets. **We should use similar tooling and approaches companies are using to manage the open datasets that surrounds us**. A sort of [Data Operating system](https://web.archive.org/web/20250316031339/https://data-operating-system.com/).
 
 One of the biggest problems in open data today is the fact that organizations treat data portals as graveyards where data goes to die. Keeping these datasets up to date is a core concern (data has marginal temporal value), alongside using the data for operational purposes and showcasing it to the public.
 
@@ -50,4 +50,4 @@ Open data is hard to work with because of the overwhelming variety of formats an
 
 Organizations like [Our World in Data](https://ourworldindata.org/) or [538](https://fivethirtyeight.com/) provide useful analysis but have to deal with _dataset management_, spending most of their time building custom tools around their workflows. That works, but limits the potential of these datasets. Sadly, there is no `data get OWID/daily-covid-cases` or `data query "select * from 538/polls"` that could act as a quick and easy entry-point to explore datasets.
 
-We could have a better data ecosystem if we **collaborate on open standards**! So, let's move towards more [composable](https://voltrondata.com/codex), maintainable, and reproducible open data.
+We could have a better data ecosystem if we **collaborate on open standards**! So, let's move towards more [composable](https://web.archive.org/web/20260119102459/https://voltrondata.com/codex), maintainable, and reproducible open data.

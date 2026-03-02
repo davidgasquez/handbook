@@ -78,7 +78,7 @@ Some ~spells~ styles to try when designing dashboards, UIs, or anything else.
 
 ### Tools
 
-- [Curated GitHub Starts list](https://github.com/stars/davidgasquez/lists/robot-llms)
+- [Curated GitHub Starts list](https://web.archive.org/web/20260226130834/https://github.com/stars/davidgasquez/lists/robot-llms)
 
 ### FrontEnds
 

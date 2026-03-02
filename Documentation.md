@@ -41,11 +41,11 @@
 - [Microsoft Documentation Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [Google Documentation Style Guide](https://developers.google.com/style)
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/voice-and-tone/)
-- [18F Content Guide](http://web.archive.org/web/20230327160033/https://content-guide.18f.gov/our-style/voice-and-tone/)
+- [18F Content Guide](https://web.archive.org/web/20230327160033/https://content-guide.18f.gov/our-style/voice-and-tone/)
 
 ## READMEs
 
-- [Building a README](https://readme.so/).
+- [Building a README](https://web.archive.org/web/20251221211249/https://readme.so/).
 - [How to Write a Great README](https://www.appsmith.com/blog/write-a-great-readme).
   - [Template](https://www.makeareadme.com/).
 - [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development).
