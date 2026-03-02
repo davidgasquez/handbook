@@ -76,10 +76,6 @@ Some ~spells~ styles to try when designing dashboards, UIs, or anything else.
 - [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071&p=2)
 - [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html).
 
-### Tools
-
-- [Curated GitHub Starts list](https://web.archive.org/web/20260226130834/https://github.com/stars/davidgasquez/lists/robot-llms)
-
 ### FrontEnds
 
 - [OpenRouter](https://openrouter.ai/)
