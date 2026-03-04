@@ -6,7 +6,7 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 - Don't delegate thinking, delegate work.
 - Before coding, make the plan with the model. 
   - You can use the same or a different model to critique the plan and iterate. If you are unsure, ask to ["give a few options before making changes"](https://steipete.me/posts/just-talk-to-it).
-  - [Redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms). Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh once you know what and how to build it.
+  - [Code is cheap. Redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms). Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh once you know what and how to build it.
   - Failed attempts are cheap. If the plan fails and the result is bad, just delete everything and try again.
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one. Keep sessions short.
 - [Use Progressive Disclosure](https://www.humanlayer.dev/blog/writing-a-good-claude-md) to ensure that the agent only sees tasks or project-specific instructions when it needs them.
@@ -45,6 +45,7 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
   - Prototype before polishing. Get it working before you optimize it.
   - Distrust all claims for "one true way". We are all figuring this out and "this" is changing every day.
 - Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
+  - [Your job is to design environments where iteration converges toward correctness instead of drifting toward plausible nonsense](https://nonstructured.com/zen-of-ai-coding/).
 - [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
 - In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
 - [Use all programming languages and technologies instead of just the ones you're already familiar with](https://x.com/mrexodia/status/2010157660885176767).
