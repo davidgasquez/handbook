@@ -20,6 +20,8 @@
 - [When the main purpose of writing is to demonstrate your thinking (building trust, applying for a job), don't use LLM output](https://x.com/HamelHusain/status/1976720326106173673). Use LLMs when you need to communicate info, or do admin stuff, where the person really just wants info and doesn't need to be convinced "how you think". LLMs are good at writing but bad at thinking.
   - LLMs are helpful when you want the output/result and don't need to do the work yourself (e.g: [going to the gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym) doesn't work if the weights are automatically lifted).
   - Personal communication and writing as trust and self expression. Rewriting with LLMs changes meaning, blurs authorship, erodes voice.
+- For now, AI generated content should be consumed by you, not shared with others. This applies to code, bug reports, emails, and so on.
+  - [Don't send LLM-generated content](https://x.com/ankrgyl/status/2030372464900067572). Send a human the prompt and let them run their own LLM. [If your prompt is too embarrassing to send, reconsider your communication](https://x.com/davidcrawshaw/status/2030411715045892305).
 - [Don't outsoutce thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/). That means tasks that:
   - Build complex tacit knowledge you'll need for navigating the world in the future.
   - Are an expression of care and presence for someone else.
@@ -69,6 +71,8 @@ Some ~spells~ styles to try when designing dashboards, UIs, or anything else.
 - Sharp rectangles, thin borders
 - Terminal-inspired developer minimalism
 - Fieldset + legend pattern
+
+[More skills at the impecable repo](https://github.com/pbakaus/impeccable).
 
 ## Resources
 
