@@ -61,6 +61,10 @@ Many public goods funding mechanisms are not immune to Sybil-attacks, [so verify
   - Each community can define what "vouching" means to them.
   - [Apply algorithms on top of the decentralized vouch graph](https://maxflow.one/how-it-works) to identify trustworthy participants. Tweak the parameters for your use case.
   - Communities can reuse and share vouch graph and even combine it with other data sources (e.g., contribution history, social media presence) to create a more robust customized reputation systems.
+- [Portable track records are more useful than a single global score](https://gui.do/post/ai-slop-reputation/). A context-free number like "reputation score: 742" tells you nothing; what should travel is "what you did, where, when, and how the community received it", with each community deciding how to interpret it.
+  - You can generate a thousand plausible forum posts. You can't fake two years of helpful contributions that other real people actually engaged with across independent communities.
+  - _"Show your work"_ is a better design than public scores, tiers, or ranks. Descriptive activity data is legible to humans, while computed scores are easy to game and drift toward social credit systems.
+- Shared reputation needs guardrails: local interpretation, privacy controls, decay for old activity, and a path for sustained good behavior to rebuild trust.
 
 ## Resources
 
