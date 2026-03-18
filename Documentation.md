@@ -5,11 +5,13 @@
   - Update documentation in lockstep when updating the codebase.
   - Documentation should be **versioned**.
   - Documentation changes should be reviewed in the same way as your code.
+  - Show realistic examples and verify them against the code when possible with type checks, tests, or builds.
 - [Documentation](https://diataxis.fr/) needs to include and be structured around its four different functions: [tutorials, how-to guides, technical reference and explanation](https://documentation.divio.com/introduction/). Each of them requires a distinct mode of writing.
   - A tutorial is learning-oriented, allows the newcomer to get started, similar to a lesson. E.g: teaching a small child how to cook.
   - A how-to guide is goal-oriented, shows how to solve a specific problem with a series of steps. E.g: a recipe in a cookery book.
   - An explanation is understanding-oriented, provides background and context. E.g: an article on culinary social history.
   - A reference guide is information-oriented, describes the machinery and is accurate and complete. E.g: a reference encyclopedia article.
+- For reference docs, use a [predictable structure](https://raw.githubusercontent.com/tempoxyz/mpp/refs/heads/main/AGENTS.md): one-line summary, usage, return type or output, parameters or inputs, and clearly marked optional fields.
 - [If someone's having to read your docs, it's not "simple"](https://justsimply.dev/). Remove filler words.
 - [Principles to keep in mind when writing documentation](https://mkaz.blog/misc/notes-on-technical-writing/).
   - The purpose of technical writing is to help users accomplish tasks as quickly and effectively as possible.
@@ -19,6 +21,13 @@
   - [Use second person](https://developers.google.com/style/person): "you" rather than "we".
   - Keep it simple, write in plain language.
   - [Use active voice](https://developers.google.com/style/voice): make clear who's performing the action.
+  - Use present tense, second person ("you"), and [sentence case for headings](https://raw.githubusercontent.com/tempoxyz/mpp/refs/heads/main/AGENTS.md).
+  - Use contractions.
+  - Use code font for parameters, commands, status codes, and object names.
+  - Cut filler words like "just", "simply", "easily", and "obviously".
+  - Don't claim things are "easy" or "fast."
+  - Avoid future tense ("will"), weak conditional phrasing ("should"), and Latin abbreviations like "e.g."; prefer direct instructions and "for example".
+  - Keep headings short and never skip heading levels.
 - [As you are working in a team, then you have to address the problem of shared understanding](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/). This is where documentation come in.
 - [Use the imperative mood in descriptions and instructions](https://twitter.com/kepano/status/1751354613041872985). Use concise action-oriented sentences, written from the user's perspective.
   - When writing instructions, anywhere you say "You should X" or "You can X," replace it with the imperative mood of the verb.
