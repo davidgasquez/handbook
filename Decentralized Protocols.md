@@ -33,6 +33,7 @@
   - Networks cycle through randomness, growth, consolidation, and collapse.
   - Overlapping systems at different stages guard against monocultures and single points of failure.
 - One wallet / DID / private key could allow you to log in to any service. That's your credentials. [[NFTs|Owning a thing]] could allow you to enter somewhere.
+- Protocols to structure who can do what. Protocol designs are often about the how, but the consequence of the how is an authority model.
 - There should be no technical or social single-point-of-failure for the overall protocol and network. There should be no single organization or individual who can entirely exclude others from the ecosystem (though the ecosystem may collectively exclude bad actors). There should be multiple independent interoperating service providers for each infrastructure component.
 - [Open source protocols should favor composability over just about everything](https://youtu.be/TdBTJY-G8xs). Breaking big things into smaller things. This encourages experimentation at multiple levels.
   - Forking should be a right. Keeps authority contingent (if they abuse power, they might get forked).
@@ -53,11 +54,13 @@
   - Who has the right to implement feeds and search algorithms.
   - Who has the right to collect user behavior and place ads.
   - This frames decentralization as practical [[Governance]] and [[Privacy]] guarantees, not ideology.
+  - The central challenge is not just decentralizing architecture, but building institutions that prevent power from simply reappearing elsewhere.
 - [Good protocol design requires balancing the tensions of ideology and practicality](https://www.pfrazee.com/blog/practical-decentralization).
   - Pure models break at scale (centralization, p2p, ...). Large social systems need shared indexes and operational reliability.
   - Practical systems can use servers for uptime, device sync, key management, and performance.
   - Rights still need protection by design. User-addressed content for smooth migration and a shared data space for modular services.
   - Separate powers across hosting, moderation, algorithms, and apps so no single provider controls the full stack.
+- Without explicit governance of shared resources, open protocols will still be governed—by whoever becomes economically or operationally indispensable first.
 - [Credible neutrality](https://nakamoto.com/credible-neutrality/) is the principle that a system or protocol should be demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests. When building mechanisms that decide high-stakes outcomes, it's very important for those mechanisms to be credibly neutral. Rules to building a credibly neutral mechanism:
   - Don't write specific people or specific outcomes into the mechanism.
   - Open source and publicly verifiable execution.
