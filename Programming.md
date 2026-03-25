@@ -17,6 +17,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Simple doesn't mean hacky or low-quality. The first solution is rarely the simplest - simplicity requires deep understanding of the current system.
   - Eliminate state. If you can't, make it visible. Stateful components can get into a bad state.
     - Have one service that knows about the state - i.e. it talks to a database - [and other services that do stateless things](https://www.seangoedecke.com/good-system-design/).
+  - Prefer [behavior over representation](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf) and [intention-revealing names](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf).
   - Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.
   - Complexity is the single major difficulty in the successful development of large-scale software systems.
   - [You don't need to scale right away](https://thmsmlr.com/cheap-infra). Servers are getting more capable faster than the internet is growing. Anticipating future scale is often counterproductive - most systems can't accurately predict multi-order-of-magnitude growth.
@@ -31,6 +32,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Do one thing and do it well**.
   - By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
   - Design composable primitives. Name things simply and clearly.
+  - Keep [one level of abstraction per method](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf).
 - [**Make it work, make it right, make it fast**](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast).
   - Build a prototype as soon as possible to get a sense of the entire process.
   - Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
@@ -77,6 +79,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Working memory is tiny (≈4 chunks). Design code, tests, and APIs so a change fits in one mental model at a time.
   - Prefer deep modules. Simple, stable interfaces that hide complexity. Avoid fleets of tiny wrappers and over‑factored classes/methods.
   - Limit choice. Favor a small, orthogonal subset of language/library features over clever, "feature‑rich" constructs.
+  - Use [guard clauses](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf) to keep the main path obvious.
 - **There is no silver bullet**.
   - Accept that many programming decisions are opinions.
   - Make the trade-offs explicit when making judgments and decisions. With almost every decision you make, you're either deliberately or accidentally trading off one thing for another thing.
