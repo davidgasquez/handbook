@@ -11,6 +11,15 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - Effective funding systems usually start small and local, with tight feedback loops and clear community ownership, and only then generalize once patterns are proven.
 - The funding **infrastructure itself is a public good**. Data, evaluation pipelines, and mechanisms should be open, composable, and forkable so communities can reuse and adapt them.
 
+## Evaluating Allocations
+
+- There is no single "allocation effectiveness" metric. Good rounds define the objective first, compare candidate mechanisms **ex ante**, then measure **ex post** whether funded projects produced additional outcomes relative to a counterfactual.
+- Distinguish **total impact** from **marginal impact**. The key question is what the next dollar buys, conditional on room for more funding and whether the work would have happened anyway.
+- Useful portfolio-level questions: expected impact per dollar, additionality, concentration, representation, robustness to Sybils/collusion, and admin cost.
+- Replaying the same votes through different formulas is useful but limited: if another mechanism were binding, participants might vote, donate, collude, or apply differently.
+- Run shadow mechanisms, but reserve some budget for learning at the margin: randomized top-ups, just-above-vs-just-below-cutoff comparisons, or matched rejected applicants.
+- A good program has to measure project outcomes over time and collect qualitative evidence to close the learning loop. It also helps organizers figure out if **the mechanism put more money into projects that later produced more impact** (can be computed with a regret metric).
+
 ## Desirable Criteria
 
 - **Pareto Efficiency**. The outcome achieved by the mechanism maximizes the overall welfare or some other desirable objective function.
@@ -29,6 +38,7 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - **Composable Data and Evaluation Layers**. Separate **data collection** (attestations about work, usage, dependencies, etc.) from **judgment** (how that data is weighted). Multiple evaluation "lenses" (models, juries, dashboards) should be able to operate on the same shared data structures (graphs, weight vectors).
 - **Exploration vs Exploitation**. Funding mechanisms are optimization processes that tend to exploit known winners. Some budget should be reserved for **exploration of uncertain, high-variance public goods**, not just those that already score well on existing metrics.
 - **Community Feedback and Local Control**. Mechanisms should include channels for participants to flag problems, suggest changes, and adjust evaluation criteria. Small, local experiments with clear consent and ownership are often the safest way to evolve funding systems.
+- **Models Marginal Returns**. A project may be excellent at $20k and wasteful at $200k.
 
 ## Methods
 
