@@ -4,18 +4,24 @@ Impact Evaluators are frameworks for [[Coordination|coordinating]] work and alig
 
 It's hard to do [[Public Goods Funding]], open-source software, research, etc. that don't have a clear, immediate financial return, especially high-risk/high-reward projects. Traditional funding often fails here. Instead of just giving money upfront (prospectively), Impact Evaluators create systems that look back at what work was actually done and what impact it actually had (retrospectively). **[It's much easier to judge the impact in a retrospective way](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c)**!
 
-- The extent to which an intervention is _causally responsible_ for an specific outcome (intended or unintended) is a hard thing to figure out. There are many classic approaches; Theory of Change, Data Analysis, ML, ...
+- The extent to which an intervention is _causally responsible_ for an specific outcome (intended or unintended) is a hard thing to figure out. Credible attribution needs a [valid counterfactual](https://documents1.worldbank.org/curated/en/823791468325239704/txt/Impact-evaluation-in-practice.txt), not just a story.
+  - Avoid [counterfeit counterfactuals](https://documents1.worldbank.org/curated/en/823791468325239704/txt/Impact-evaluation-in-practice.txt): before/after comparisons and funded-vs-unfunded comparisons often confuse impact with time trends or selection bias.
+  - Impact Evaluators should make the comparison class explicit.
 - The goal is to **create a system with strong [[Incentives]] for people/teams to work on valuable, uncertain things** by distributing a reward according to the demonstrable impact.
 - Impact Evaluators work well on concrete areas where you can turn into easily measurable metrics. Impact Evaluators are powerful and will overfit. When the goal is not well aligned, they can be harmful. E.g: Bitcoin increasing the energy consumption of the planet. **Impact Evaluators can become Externalities Maximizers**.
 - **Start local and iterate**.
   - Begin with small communities with their own [[Metrics]] and evaluation criteria.
+  - Retrospective funding may be easier, but [rigorous impact evaluation is usually strongest when designed prospectively](https://documents1.worldbank.org/curated/en/823791468325239704/txt/Impact-evaluation-in-practice.txt): define success upfront, collect baselines, and align evaluation to rollout rules.
   - Use rapid [[Feedback Loops]] to learn what works.
   - Each community understands its context better than outsiders ([seeing like a state blinds you to local realities](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)).
   - Multiple local experiments surface patterns for higher-level abstractions.
   - Impact evaluation should be done by the community at the local level.
     - E.g: "Developers" in OSO filter for GitHub accounts with more than 5 commits. Communities might or might not align with that metric.
+    - [In practice, it might be very different](https://documents1.worldbank.org/curated/en/823791468325239704/txt/Impact-evaluation-in-practice.txt).
   - Focus on positive sum games and mechanisms.
   - Small groups enable iterated games that reward trust and penalize defection. Reduced size reduces friction.
+  - Small local pilots can have strong internal validity but weak external validity. Don't assume results generalize.
+  - Small communities are good for governance, but still need enough sample size / power if you want to make causal claims.
   - Have a deadline or something like that so it fades away if it's not working or actively used.
   - [The McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy). Never choose metrics on the basis of what is easily measurable over what is meaningful. Data is inherently objectifying and naturally reduces complex conceptions and process into coarse representations. There's a certain fetish for data that can be quantified.
   - Cultivate a culture which welcomes experimentation.
@@ -24,6 +30,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
     - There is no way around defining a metric/loss function to evaluate allocations! Discussions should be focused on this instead of the specific of an allocation mechanism.
 - **Community Feedback Mechanism**.
   - Implement robust feedback systems that allow participants to report and address concerns about the integrity of the metrics or behaviors in the community.
+  - Don't treat evaluation as a black box. Combine impact estimates with [monitoring data, process evaluation, and qualitative feedback](https://documents1.worldbank.org/curated/en/823791468325239704/txt/Impact-evaluation-in-practice.txt) to explain why results happened.
   - Use the feedback to refine and improve the system.
   - Prioritize consent and community feedback.
   - Community should steer the ship.
@@ -113,6 +120,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
     - Voting on models: feels too abstract for voters and doesn't leverage their specific project expertise
     - Voting on metrics: judges just play with numbers until they get their favored allocation
 - [An allocation mechanism can be seen as a measurement process, with the goal being the reduction of uncertainty concerning present beliefs about the future. An effective process will gather and leverage as much information as possible while maximizing the signal-to-noise ratio of that information — aims which are often at odds](https://blog.zaratan.world/p/quadratic-v-pairwise).
+- There is no single "allocation effectiveness" metric. Each round, group, project needs one tailored to the context.
 - In the digital world, we can apply several techniques to the same input and evaluate the potential impacts. E.g: Simulate different voting systems and see which one fits the best with the current views. This is a case for the system to **have a meta-evaluation mechanism that acts as a layer for human to express preferences**.
 - **Make evaluation infrastructure permissionless**. Just as anyone can fork code, anyone should be able to fork evaluation criteria. This prevents capture and enables innovation.
   - Anyone should be able to [fork the evaluation system with their own criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html), preventing capture and enabling experimentation.
@@ -128,6 +136,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 - The more humans get involved, the messier (papers, ... academia). You cannot get away from humans in most problems.
 - **Verify the evaluation is actually better than the baseline**.
   - Run multiple "aggregations" algorithms and have humans blindly select which one they prefer (blind test).
+  - Compare alternatives on cost-effectiveness, not just raw impact.
   - The meta-layer can help compose and evaluate mechanisms. How do we know mechanism B is better than A? Or even better than A + B, how do we evolve things?
   - Is the evaluation/reward better than a centralized/simpler alternative?
     - E.g: on tabular clinical prediction datasets, standard logistic regression was found to be on par with deep recurrent models.
