@@ -36,7 +36,7 @@
   3. An anecdote from your own work that provides rich texture and context for what you do.
   4. Some open questions that invite people to discuss.
 - [Keep making your post more opinionated until it reflects your true beliefs](https://twitter.com/HamelHusain/status/1751995737095709164). Don't hedge. People want to hear what you think!
-- The title gets read way more than the rest, [so make it count](https://dynomight.net/titles/).
+- The title gets read way more than the rest, [so make it count](https://dynomight.net/titles/). **Always optimize the title and first paragraph of your post**.
   - Think of the title as a "classifier": it should attract those who will like the content and deter those who won't.
   - Use specific language that signals to your target audience that the content is for them.
   - The title can also convey your writing style and tone.
