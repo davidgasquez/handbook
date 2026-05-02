@@ -2,6 +2,7 @@
 
 - Learning is a process of [[Conceptual Compression]].
 - Understand the base and build from it. First Principles Method. Seek the big picture understanding - focus on concepts not details.
+- [Don't delegate understanding](https://stephango.com/understand). When you outsource hard things without learning how they work, you become dependent on systems that profit from extraction and intervention.
 - Read about topics you care about, observe the world around you and keep a beginner's mind (*shoshin*).
   - Find a mentor if you can and ask them questions.
 - Don't be afraid to [[Asking Questions|ask a question]] that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
