@@ -4,14 +4,14 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 
 - Using LLMs for coding is difficult and unintuitive, requiring significant effort to master.
 - Don't delegate thinking, delegate work.
-- Before coding, make the plan with the model. 
+- Before coding, make the plan with the model.
   - You can use the same or a different model to critique the plan and iterate. If you are unsure, ask to ["give a few options before making changes"](https://steipete.me/posts/just-talk-to-it).
   - [Code is cheap. Redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms). Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh once you know what and how to build it.
   - Failed attempts are cheap. If the plan fails and the result is bad, just delete everything and try again.
   - You can [have the agent interview you](https://developers.openai.com/codex/learn/best-practices) and challenge assumptions before coding!
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one. Keep sessions short.
 - [Use Progressive Disclosure](https://www.humanlayer.dev/blog/writing-a-good-claude-md) to ensure that the agent only sees tasks or project-specific instructions when it needs them.
-- [Teach and tell the agents to use the same tool you'd use](https://www.anthropic.com/engineering/claude-code-best-practices) to run and debug code. 
+- [Teach and tell the agents to use the same tool you'd use](https://www.anthropic.com/engineering/claude-code-best-practices) to run and debug code.
 - [Focus on building a rich environment with good and fasts tests, documentation, consistent patterns, and clear feature definitions - this helps both humans and AI work better](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/).
 - [Reduce noise](https://blog.codemine.be/posts/2026/20260222-be-quiet/) in [[Feedback Loops|feedback loops]]. Quiet success output, loud failure output.
   - Prefer errors-only logs. Disable update banners, spinners, and ANSI color noise, tool-specific flags).
@@ -20,7 +20,7 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 - Use deterministic tools whenever you can. Linters, type checkers, auto-formatters, commit hooks, ...
 - Prefer functions with clear, descriptive, unique, and longer than usual function names over classes. Avoid inheritance and overly clever hacks.
 - Write legible (text based) relevant content and link it with anything else (code, diagrams, ...).
-- [Fail early and often. Agents are pretty good at getting oriented, and failure is cheap. Throw out your problem, and let it work at it. If it fails, start over, adding the tidbits of information it couldn’t figure out on its own](https://sketch.dev/blog/seven-prompting-habits).
+- [Fail early and often. Agents are pretty good at getting oriented, and failure is cheap. Throw out your problem, and let it work at it. If it fails, start over, adding the tidbits of information it couldn't figure out on its own](https://sketch.dev/blog/seven-prompting-habits).
 - Applying software engineering best practices is key. [LLMs actively reward existing top tier software engineering practices](https://simonwillison.net/2025/Oct/7/vibe-engineering/):
   - Automated testing.
   - [Red/green TDD](https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/).
@@ -49,8 +49,11 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
   - [Your job is to design environments where iteration converges toward correctness instead of drifting toward plausible nonsense](https://nonstructured.com/zen-of-ai-coding/).
 - [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
 - In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
+- The act of writing code (or doing something) surfaces decisions you hadn't considered. When code is cheap, implement to learn.
 - [Use all programming languages and technologies instead of just the ones you're already familiar with](https://x.com/mrexodia/status/2010157660885176767).
-- Your job is to write clear specifications, plans, and examples. Define what "done" means, how to test it. Review outcomes, not lines of code.
+- Your job is to write clear instructions, plans, and examples. Define what "done" means, how to test it. Review outcomes, not lines of code.
+- Automate everything that's easy. To spend more time on the hard stuff, minimize the time you spend on easy things. Distill learnings into skills, build loops, automate code reviews, and let your tools compound.
+- Code is cheap, but maintenance, support, and security aren't!
 - Project setup is the single most important human time investment you can make.
   - Make your project build, test, and lint with a single command.
   - Print minimal, actionable error messages.
@@ -59,7 +62,7 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 - Model behaviour is not deterministic, intuition for one model doesn't transfer to other models, even within the same family or reasoing level, intuitions for one coding harness does not transfer to other harnesses, and so on.
 - [Software is still hard](https://x.com/badlogicgames/status/2017008550111773098). It gets harder if you trick yourself into thinking the agents can take on the hard parts.
 - Tools come in three flavors: context retrieval (finding information), feedback loops (verifying actions), and planning (structuring work over longer horizons).
-- [Write skills for your product](https://x.com/karpathy/status/2026360908398862478) so agents know how to use it properly. Distribute them. 
+- [Write skills for your product](https://x.com/karpathy/status/2026360908398862478) so agents know how to use it properly. Distribute them.
 - Tool/skills overload confuses models. Just because you can connect every tool doesn't mean you should. Each tool description consumes context window space and can confuse the model about which tool to use when.
 - Unix philosophy beats vertical integration. The most powerful coding agents follow Unix principles, simple, composable tools that do one thing well.
 - The way you wrap, feed, and observe a powerful model often matters more than fancy prompt tricks or extra bells and whistles on the model itself.
