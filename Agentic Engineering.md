@@ -4,11 +4,12 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 
 - Using LLMs for coding is difficult and unintuitive, requiring significant effort to master.
 - Don't delegate thinking, delegate work.
-- Before coding, make the plan with the model.
+- Before coding, make a plan with the model.
   - You can use the same or a different model to critique the plan and iterate. If you are unsure, ask to ["give a few options before making changes"](https://steipete.me/posts/just-talk-to-it).
-  - [Code is cheap. Redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms). Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh once you know what and how to build it.
+  - Progressive, iterative prototyping. [Code is cheap. Redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms). Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh once you know what and how to build it.
   - Failed attempts are cheap. If the plan fails and the result is bad, just delete everything and try again.
   - You can [have the agent interview you](https://developers.openai.com/codex/learn/best-practices) and challenge assumptions before coding!
+  - Low fidelity prototypes are better than walls of specs
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one. Keep sessions short.
 - [Use Progressive Disclosure](https://www.humanlayer.dev/blog/writing-a-good-claude-md) to ensure that the agent only sees tasks or project-specific instructions when it needs them.
 - [Teach and tell the agents to use the same tool you'd use](https://www.anthropic.com/engineering/claude-code-best-practices) to run and debug code.
