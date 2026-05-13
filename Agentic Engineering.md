@@ -54,12 +54,13 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 - [Use all programming languages and technologies instead of just the ones you're already familiar with](https://x.com/mrexodia/status/2010157660885176767).
 - Your job is to write clear instructions, plans, and examples. Define what "done" means, how to test it. Review outcomes, not lines of code.
 - Automate everything that's easy. To spend more time on the hard stuff, minimize the time you spend on easy things. Distill learnings into skills, build loops, automate code reviews, and let your tools compound.
-- Code is cheap, but maintenance, support, and security aren't!
+- [Code is cheap, but maintenance, support, and security aren't](https://x.com/davidfowl/status/2054084334848790652)!
 - Project setup is the single most important human time investment you can make.
   - Make your project build, test, and lint with a single command.
   - Print minimal, actionable error messages.
   - If a human gets lost onboarding to your codebase, an LLM is definitely going to be lost.
 - Design small, isolated systems. You can check a static website looks great easily. You can check a small API design works well. Compose black boxes into larger systems. Individual boxes can be rewritten in other languages, removed, replaced easily. You can measure them individually.
+- Using AI as a team is very different than using AI for you.
 - Model behaviour is not deterministic, intuition for one model doesn't transfer to other models, even within the same family or reasoing level, intuitions for one coding harness does not transfer to other harnesses, and so on.
 - [Software is still hard](https://x.com/badlogicgames/status/2017008550111773098). It gets harder if you trick yourself into thinking the agents can take on the hard parts.
 - Tools come in three flavors: context retrieval (finding information), feedback loops (verifying actions), and planning (structuring work over longer horizons).
