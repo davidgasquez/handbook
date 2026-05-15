@@ -33,14 +33,14 @@
   - No [[processes]] requires trusting other people. More trust means better coordination without processes. [Trust is the currency of interactions](https://youtu.be/-vbPXbm8eTw).
   - When a process becomes the proxy for the result you want, you stop looking at outcomes and just make sure you're doing the process right.
   - Every process will slow you down, and some will make you better.
-- If we imagine human society as its own organism. We need processes and other coordination tools to make it remove the hand from the fire when it starts to burn.
-      - The hand doesn't know what to do, but relays information to the brain, that makes the appropriate changes.
+- If we imagine human society as its own organism, we need processes and other coordination tools to make it remove the hand from the fire when it starts to burn.
+  - The hand doesn't know what to do, but relays information to the brain, which makes the appropriate changes.
   - Something similar could be achieved at a society level, where pain triggers processes that make it stop.
 - Only a few bits of information are possible to reliably convey to a large number of people. [The larger the group, the smaller the message needs to be](https://www.lesswrong.com/posts/4ZvJab25tDebB8FGE/you-get-about-five-words).
 - The requirements to govern a commons without tragedy:
   - [Clear boundaries](https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_long-enduring_CPR_(Common_Pool_Resource)_institutions%22).
   - Managed by locals.
-    - In a small community, everybody knows everybody, and can keep track of what they do. This makes small groups iterated games which rewards trust and penalizes sociopath behavior.
+    - In a small community, everybody knows everybody, and can keep track of what they do. This makes small groups into iterated games that reward trust and penalize sociopathic behavior.
   - Community makes its own rules.
   - Community can monitor behavior.
   - Graduated sanctions for those who violate community rules.

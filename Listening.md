@@ -4,7 +4,7 @@
 - Being able to listen well is a superpower. Listening is difficult because it involves suppressing your ego long enough to consider what is being said before you respond.
 - Forget your agenda. Don't have an internal monologue.
 - Avoid trying to respond immediately and allow the other person time to finish speaking.
-- Don't answer your phone while speaking with someone in real life. If the real life conversation starts, has precedence over the asynchronous ones.
+- Don't answer your phone while speaking with someone in real life. If the real-life conversation starts, it has precedence over the asynchronous ones.
 - While listening to someone sharing a problem keep asking them "Is there more?", until there is no more. Create space for the other person to continue [[Talking]]. This is called [reflecting](https://programs.clearerthinking.org/become_a_great_listener.html) and simply means repeating back a word or phrase to encourage the other person to go on.
 - Use open questions more. Open questions are any questions that cannot be answered with a simple _yes_ or _no_ reply.
 - When you are feeling confused, do a small summary to make sure you didn't miss anything important.

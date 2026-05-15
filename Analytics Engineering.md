@@ -22,11 +22,11 @@
 - Domain knowledge is more important than your coding skills.
 - Ground truth isn't a single place. Start by joining on common unique keys and counting things, then figure out what's different and why.
 - [[Teamwork|Collaborate with your team]] and break down complex models into reusable pieces.
-- Working with data is like exploring the horizon. It changes as soon as you look it from a higher place (more data).
+- Working with data is like exploring the horizon. It changes as soon as you look at it from a higher place (more data).
 - Find out what decisions your stakeholders need to make, repeatedly, and help with those.
-- Attach a date to your team output resources ([[Dashboards]], analysis, ...) so they exist as artifacts that were true at a certain point on time.
+- Attach a date to your team output resources ([[Dashboards]], analysis, ...) so they exist as artifacts that were true at a certain point in time.
 - Reduce the areas where business logic can be injected, create "time to live" policies on last mile transforms, build a culture of standardizing + celebrating access to cross-functional codebases.
-  - People default to writing business logic in the tool they are most comfortable with. The best way for data teams to prevent sprawling business logic is to limit last mile transforms in other tools and invite others into their tools. [The logic will be written, and if the data team gate-keeps, it will be written outside of their visibility](https://ian-macomber.medium.com/data-systems-tend-towards-production-be5a86f65561)! If a data team can educate and encourage contributions to their codebase, they invite code to be written where it most belongs.
+  - People default to writing business logic in the tool they are most comfortable with. The best way for data teams to prevent sprawling business logic is to limit last mile transforms in other tools and invite others into their tools. [The logic will be written, and if the data team gate-keeps, it will be written outside of their visibility](https://ian-macomber.medium.com/data-systems-tend-towards-production-be5a86f65561)! If a data team can educate and encourage contributions to their codebase, they invite code to be written where it most belongs.
 - Modern data warehouses [might need new model design paradigms](https://github.com/ActivitySchema/ActivitySchema/blob/main/2.0.md).
 - Good data models make good products.
 - Behind every null value there is a story.
@@ -51,7 +51,7 @@
 - [Catalyst Cooperative PUDL](https://github.com/catalyst-cooperative/pudl)
 - [Ecosyste.ms](https://github.com/ecosyste-ms)
 - [Spellbook](https://github.com/duneanalytics/spellbook/)
-- [Flipside Crypto](https://github.com/FlipsideCrypto/external-models)
+- [Flipside Crypto](https://docs.flipsidecrypto.xyz/blockchain-data/external/overview)
 - [Artemis](http://web.archive.org/web/20250717073700/https://github.com/Artemis-xyz/dbt)
 - [MetricsDAO](https://github.com/MetricsDAO)
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)

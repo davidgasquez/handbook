@@ -1,14 +1,14 @@
 # Data Engineering
 
 - Gather as much domain knowledge as possible. Technical knowledge is not enough. Then prioritize:
-  - **Fidelity:** how reliably can data be transferred and stored without corruption or loss?
-  - **Capacity:** how much data can be moved and how quickly?
-  - **Reliability:** how well can systems recover from outages and incidents?
-  - **Speed of execution:** how quickly can you get a new data source up and running?
+  - **Fidelity:** how reliably can data be transferred and stored without corruption or loss?
+  - **Capacity:** how much data can be moved and how quickly?
+  - **Reliability:** how well can systems recover from outages and incidents?
+  - **Speed of execution:** how quickly can you get a new data source up and running?
 - If it can be solved with SQL, stick to SQL.
   - SQL will be the abstraction layer in streaming too so you don't have to care about incremental materialization or timely dataflows.
 - A [consistent pattern](https://www.startdataengineering.com/post/design-patterns/) across your data pipelines helps devs communicate easily and understand code better.
-- Data Engineering can learn from decentralized systems ideas like, Content Addressed Data, Immutability, and [[Idempotence]].
+- Data Engineering can learn from decentralized systems ideas like content-addressed data, immutability, and [[Idempotence]].
 - [Schemas aren't eliminated by using a "schemaless" data store](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/) (like a NoSQL database). They're just pushed to the reading layer.
 - [Bring compute to data instead of data to compute](https://youtu.be/S0mviKhVmBI)!
 
@@ -20,10 +20,10 @@ Systems tend towards production and data pipelines aren't an exception. Valuable
 
 ### Basic Principles
 
-- **Simplicity**: Each steps is easy to understand and modify. Rely on immutable data. Write only. No deletes. No updates. Avoid having too much "state". Hosting static files on S3 is much less friction and maintenance than a server somewhere serving an API.
-- **Reliability**: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done extracting the column from the intermediary data without having to query the data source. It is better to support 1 feature that works reliably and has a great UX than 2 that are unreliable or hard to use. One solid step is better than 2 finicky ones.
+- **Simplicity**: Each step is easy to understand and modify. Rely on immutable data. Write only. No deletes. No updates. Avoid having too much "state". Hosting static files on S3 is much less friction and maintenance than a server somewhere serving an API.
+- **Reliability**: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done by extracting the column from the intermediary data without having to query the data source. It is better to support 1 feature that works reliably and has a great UX than 2 that are unreliable or hard to use. One solid step is better than 2 finicky ones.
 - **[[Modularity]]**: Steps are independent, declarative, and [[Idempotence|idempotent]]. This makes pipelines composable.
-- **Consistency**: Same conventions and design patterns across pipelines. If a failure is actionable by the user, clearly let them know what they can do. Schema on write as there is always a schema.
+- **Consistency**: Same conventions and design patterns across pipelines. If a failure is actionable for the user, clearly let them know what they can do. Schema on write as there is always a schema.
 - **Efficiency**: Low event latency when needed. Easy to scale up and down. A user should not be able to configure something that will not work. Don't mix heterogeneous workloads under the same tooling (e.g: big data warehouses doing simple queries 95% of their time and 1 big batch once a day).
 - **Flexibility**: Steps change to conform to data points. Changes don't stop the pipeline or lose data. Fail fast and upstream.
 
@@ -36,20 +36,20 @@ graph LR;
  C-->D;
 ```
 
-- In each step of the pipeline there are producers of data and consumers. Consumers can be also producers, e.g `B` is both consumer of `A`'s data and producer of `C`s data.
-  - Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or complex as a [[Databases|database]].
-- **Schemas changes**. Most of the time you won't be there at the exact time of the change so aim to save everything.
-  - Ideally, the schema will evolve in a backward compatible way:
+- In each step of the pipeline there are producers of data and consumers. Consumers can also be producers, e.g `B` is both consumer of `A`'s data and producer of `D`'s data.
+  - Decouple producers and consumers adding a layer in between. That can be something as simple as a text file or as complex as a [[Databases|database]].
+- **Schemas change**. Most of the time you won't be there at the exact time of the change so aim to save everything.
+  - Ideally, the schema will evolve in a backward-compatible way:
     - Data types don't change in the same column.
     - Columns are either deleted or added but never renamed.
 - Create a few extra columns like `processed_at` or `schema_version`.
 - Generate stats to provide the operator with feedback.
-- Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will produce always the same result. This can be achieved by enforcing the [Functional Data Engineering Paradigm](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).
+- Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will always produce the same result. This can be achieved by enforcing the [Functional Data Engineering Paradigm](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).
 - [Event Sourcing is a great pattern when implementing a new system since it couples state with business logic](https://youtu.be/XxKnTusccUM).
   - State is a projection of history. Keep the history and reconstruct the state!
 - Embrace immutability:
-  - [Avoid states and mutable data. Functions should always yield the same result!](https://twitter.com/sbalnojan/status/1521477031405531136)
-  - Objects will be more thread safe inside a program.
+  - [Avoid state and mutable data. Functions should always yield the same result!](https://twitter.com/sbalnojan/status/1521477031405531136)
+  - Objects will be more thread-safe inside a program.
   - Easier to reason about the flow of a program.
   - Easier to debug and troubleshoot problems.
   - [We need immutability to coordinate at a distance and we can afford immutability, as storage gets cheaper](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf).

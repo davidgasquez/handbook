@@ -5,7 +5,7 @@
   - [In cryptonetworks, these decisions are made by the community, using open and transparent mechanisms](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e). DAOs don't need a boss!
   - Cryptocurrencies have the [[Incentives]] to keep the users happy since forking is an option.
 - [Web3 is a decentralized internet. Under Web3, the internet is shared online and governed by the collective "we"](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc).
-- Decentralized web incentives open source. That creates an ecosystem of composable and permissionless tools that increases the speed of innovation.
+- The decentralized web incentivizes open source. That creates an ecosystem of composable and permissionless tools that increases the speed of innovation.
 - [Openness allows local groups to design systems for governance, identity, and other needs in ways that are compatible with local goals](https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html).
 - A way to look at the decentralized web movement is as a laboratory for economic, political, and social experiments.
   - The space encourages experimentation in a diverse set of fields like [[Governance]] or [[Finances]].
@@ -15,7 +15,7 @@
 
 - [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) and the [Web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack).
 - [Kernel Community](https://kernel.community/).
-- Decentralized friendly and open source alternatives:
+- Decentralized-friendly and open-source alternatives:
   - [Trello](https://dework.xyz/)
   - [Notion](https://web.archive.org/web/20241220080916/https://www.clarity.so/)
   - [Medium](https://mirror.xyz/dashboard)
@@ -28,10 +28,10 @@
 
 ## Links
 
-- [Kernel](https://kernel.community/). An 8 week program covering crypto and web3.
+- [Kernel](https://kernel.community/). An 8-week program covering crypto and web3.
 - [Crypto Canon](https://web.archive.org/web/20230219013152/https://a16z.com/2018/02/10/crypto-readings-resources/) - Great list of crypto readings and resources.
-  - [Understanding Crypto](https://web.archive.org/web/20230207021732/https://a16z.com/2020/04/30/explaining-crypto-from-a16z/)- Learn more about cryptocurrencies.
-- [DAOs, A Canon](https://future.a16z.com/dao-canon/). Understand, build, and get involved with “decentralized autonomous organizations”.
+  - [Understanding Crypto](https://web.archive.org/web/20230207021732/https://a16z.com/2020/04/30/explaining-crypto-from-a16z/) - Learn more about cryptocurrencies.
+- [DAOs, A Canon](https://a16zcrypto.com/posts/article/dao-canon/). Understand, build, and get involved with “decentralized autonomous organizations”.
 - [Trading View](https://www.tradingview.com/markets/cryptocurrencies/) - Crypto charts.
 - [Finematics](https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA). Educational videos on DeFi (Decentralized Finance).
 - [Messari](https://messari.io/) - Curated insights, markets data, and research to crypto's pioneers.
@@ -78,7 +78,7 @@ There is an emerging landscape of [Data and Blockchain](https://web.archive.org/
 - [Blockchain ETL](https://github.com/blockchain-etl)
 - [Cryo](https://github.com/paradigmxyz/cryo)
 - [Mars](https://github.com/deepeth/mars)
-- [Algoran Indexer](https://github.com/algorand/indexer)
+- [Algorand Indexer](https://github.com/algorand/indexer)
 - [Substreams](https://substreams.streamingfast.io/)
 - [Tezos Indexer](https://github.com/baking-bad/tzkt)
 - [db3](https://github.com/db3-teams/db3)
@@ -99,7 +99,7 @@ There is an emerging landscape of [Data and Blockchain](https://web.archive.org/
 - [Immunefi](https://immunefi.com/) - Web3's leading bug bounty platform, protecting $100 billion in user funds.
 - [OnlyDust](https://www.onlydust.xyz/). Contribute to innovative projects, refine your skills and create a lasting impact in the developer community.
 
-#### Analytic Bounties
+#### Analytics Bounties
 
 - [Dune](https://twitter.com/dune_bounties).
 - [Flipside](https://flipsidecrypto.xyz/).

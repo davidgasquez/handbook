@@ -2,9 +2,9 @@
 
 - [A blockchain is a decentralized [[Databases|database]]](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
   - A blockchain is a worse database. It is slower, requires way more storage and compute, doesn't have customer support, etc. [But has one dimension along which it is radically different. No single entity or small group of entities controls it](https://continuations.com/web3crypto-why-bother).
-- Blockchains solve the Byzantine Generals Problem: [How do participants in a decentralized network communicate and coordinate with each other towards some action without relying on a trusted third-party?](https://a16z.com/2019/11/08/crypto-glossary/).
+- Blockchains solve the Byzantine Generals Problem: [How do participants in a decentralized network communicate and coordinate with each other towards some action without relying on a trusted third-party?](https://a16zcrypto.com/posts/article/crypto-glossary/).
   - Blockchains are "trustless". There are mechanisms in place by which all parties in the [[Systems|system]] can reach a consensus on what the canonical truth is.
-  - Power and trust is distributed (or shared) among the network's stakeholders (e.g. developers, miners, and consumers), rather than concentrated in a single individual or entity (e.g. banks, governments, and financial institutions).
+  - Power and trust are distributed (or shared) among the network's stakeholders (e.g. developers, miners, and consumers), rather than concentrated in a single individual or entity (e.g. banks, governments, and financial institutions).
   - Blockchains put the code in charge.
   - Blockchains allow permissionless innovation.
 - Blockchains are useful when these conditions are met:
@@ -13,7 +13,7 @@
   - The resource can be provided by a lot of people.
 - Smart contracts can be defined as code that's replicated and executed on all the blockchain nodes.
   - You can encode "incentives" in a smart contract that will be enforced by the code. This drives behavior.
-- Smart contracts allow permissionless composability. [Composability allows anyone in a network to take existing programs and adapt or build on top of them, it unlocks completely new use cases that don't exist in our world](https://future.a16z.com/how-composability-unlocks-crypto-and-everything-else/).
+- Smart contracts allow permissionless composability. [Composability allows anyone in a network to take existing programs and adapt or build on top of them, it unlocks completely new use cases that don't exist in our world](https://a16zcrypto.com/posts/article/how-composability-unlocks-crypto-and-everything-else/).
 - [Blockchains could replace networks with markets](https://twitter.com/naval/status/877467629308395521).
 - [They can be thought of as social and economic laboratories because they're great for experimenting with novel concepts at scale](https://x.com/binji_x/status/1891929209737470024).
 - One of the main downsides of blockchains is that most humans are not good at protecting their passwords, credentials or private keys.
@@ -21,4 +21,4 @@
 - Blockchains solve distribution problems but they don't solve the problem of who will add the money to the ecosystem. That's a political one. Unless there are good incentives to move to blockchains.
   - Once a system moves to a blockchain, it'll get its properties (e.g: transparency and verifiability).
 - Open source has the failure mode of not enough incentives, cryptocurrency has the failure mode of excessive and overly concentrated incentives.
-- Blockchain incentives have large real world undesired second order consequences. E.g: Bitcoin incentivizes miners to use a lot of energy.
+- Blockchain incentives have large real-world undesired second-order consequences. E.g: Bitcoin incentivizes miners to use a lot of energy.

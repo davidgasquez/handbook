@@ -7,13 +7,13 @@ Management techniques like OKRs and similar [have many issues](https://news.ycom
 ## Properties
 
 - The key result is a result, not a task (another framing: it's an outcome, not an input).
-- The key result is measurable, both in the sense of we can clearly define what success looks like, and we have the data points available to you.
+- The key result is measurable, both in the sense that we can clearly define what success looks like, and we have the data points available to us.
   - It may include a component that measures magnitude, and one that controls quality.
   - Remember that because a key result means a number, numbers can and will be gamed.
-- The key result does not pre-suppose the exact program of works to do (and in fact leaves room for creative solutions).
+- The key result does not presuppose the exact program of work to do (and in fact leaves room for creative solutions).
 - The key result states assumptions about why the team KR affects the top-level KR.
 - The key result target should be informed by analysis.
-- Key Results are helpful if your team have a 12-18 month mission, a clear focus, and specific lever or set of levers it is empowered to move.
+- Key Results are helpful if your team has a 12-18 month mission, a clear focus, and a specific lever or set of levers it is empowered to move.
 - There is no replacement for good people, though. Project management is about organizing people. And people are hard to organize if they're not motivated, and adding a standardized, bureaucratized process won't increase motivation.
 - OKRs are effectively a quarterly negotiation to get alignment across teams so that large, complex, projects get done on time.
 
@@ -34,5 +34,5 @@ Three useful templates:
 
 ## Resources
 
-- [Objectives and Key Result](https://github.com/joelparkerhenderson/objectives-and-key-results)
-- [Key Performance Indicator](https://github.com/joelparkerhenderson/key-performance-indicator)
+- [Objectives and Key Results](https://github.com/joelparkerhenderson/objectives-and-key-results)
+- [Key Performance Indicators](https://github.com/joelparkerhenderson/key-performance-indicator)

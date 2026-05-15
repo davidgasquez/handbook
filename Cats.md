@@ -1,6 +1,6 @@
 # Cats
 
-- Get a brush and brush your kitty! It's recommended that short haired cats should be brushed once a week.
+- Get a brush and brush your kitty! It's recommended that short-haired cats should be brushed once a week.
 - It's recommended to let your kitty eat as much as it wills, until it reaches adulthood. They need to grow big and strong!
 - Buy a scratching post and other scratching toys to encourage them to scratch the right surfaces. Catnip also helps.
 - Slowly blinking at cats says "I'm comfortable around you" and is a show of contentment and non-hostility.

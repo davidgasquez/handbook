@@ -23,4 +23,4 @@
 
 - Modular peer-to-peer networking layer.
 - Used across the decentralized ecosystem.
-- [Many implementations](https://libp2p.io/implementations/) of each module.
+- [Many implementations](https://libp2p.io/projects/) of each module.

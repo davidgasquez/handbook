@@ -1,6 +1,6 @@
 # Data Culture
 
-- The data team needs to be focused on delivering insights and supporting decisions. The outcome of the data team are _decisions_ and a _shared context across the organization_ that makes coordination easier.
+- The data team needs to be focused on delivering insights and supporting decisions. The outcomes of the data team are _decisions_ and a _shared context across the organization_ that makes coordination easier.
   - Your goal as a data professional is to facilitate [[Making Decisions|decision making]] and [help surface/investigate the performance of a business](https://sqlpatterns.com/p/delivering-value-as-a-data-team) (e.g. [operational](https://twitter.com/ergestx/status/1731324299590479989)).
   - Learning to drive decisions quickly, a bias to action, is a critical competency for an analyst. Every skill you learn – [[communication]], [[writing]], [[experimentation]], [[Metrics|metric design]] – supports this.
   - [If analysis is not actionable, it does not really matter](https://twitter.com/decisionleader/status/1661041373783441408). Analysis must drive to action. [Clear results won't spur action themselves](https://www.linkedin.com/posts/eric-weber-060397b7_data-analytics-machinelearning-activity-6675746028144205824-CQxW/). The organization needs to be ready to pivot when something isn't working.
@@ -10,10 +10,10 @@
 - The Data Team should be building and iterating the [Data Product](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/).
   - Notebooks are a workshop. Production systems are the factory. Not everything needs to be put into production. Not everything should be a notebook. You need both. Lean into the strength of each.
 - Data is fundamentally a collaborative design process rather than a tool, an analysis, or even a product. [Data works best when the entire feedback loop from idea to production is an iterative process](https://pedram.substack.com/p/data-can-learn-from-design).
-  - [To get buy in, explain how the business could benefit from better data](https://youtu.be/Mlz1VwxZuDs) (e.g: more and better insights). Start small and show value.
+  - [To get buy-in, explain how the business could benefit from better data](https://youtu.be/Mlz1VwxZuDs) (e.g: more and better insights). Start small and show value.
   - Run _[Purpose Meetings](https://www.avo.app/blog/tracking-the-right-product-metrics)_ or [Business Metrics Review](https://youtu.be/nlMn572Dabc).
-    - Purpose Meetings are 30 min meetings in which stakeholders, engineers and data align on the goal of a release and what is the best way to evaluate the impact and understand its success. Align on the goal, commit on metrics and design the data.
-    - Business Metrics Review is a 30 to 60 minutes meeting to chat and explore key metrics and teach how to think with data.
+    - Purpose Meetings are 30-minute meetings in which stakeholders, engineers and data align on the goal of a release and what is the best way to evaluate the impact and understand its success. Align on the goal, commit on metrics and design the data.
+    - Business Metrics Review is a 30- to 60-minute meeting to chat and explore key metrics and teach how to think with data.
       - You don't hit a quantitative goal by focusing on the goal. You hit a quantitative goal by focusing on the process.
       - Business Reviews are one of the best ways to get people to think about data.
   - Value of clear goals and expectations. Validate what you think your job is with your manager and stakeholders, repeatedly.
@@ -22,7 +22,7 @@
   - Review lots of metrics. Each should be reviewed briefly, with most of them being "no change, move on" but allows managers to get a holistic feel for the model and identify metrics that are or are becoming outliers.
   - Process control worldview. The goal isn't "more ideas", it's to surface causes, design experiments, and improve the system.
   - Requires total leadership buy-in. Without unified commitment from the top, the WBR won’t succeed.
-  - Every metric has an owner. Metric owners must understand what's "normal" versus "anomalous" and be accountable. They don't rely on lagging or un-actionable metrics.
+  - Every metric has an owner. Metric owners must understand what's "normal" versus "anomalous" and be accountable. They don't rely on lagging or unactionable metrics.
   - Repetition builds "fingertip feel". Over time leaders can scan hundreds of metrics quickly, reducing decision latency.
   - [Meetings shouldn't turn into “reading history” instead of managing the business](https://xmrit.com/articles/what-makes-wbrs-special/).
   - Warning. Overreacting to random noise week-to-week wastes energy.
@@ -31,19 +31,19 @@
 - [While the output of your team is what you want to maximize, you'll need some indicators that will help guide you day-to-day](http://web.archive.org/web/20240303143022/https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/). Decide what's important to you (test coverage, documentation missing, queries run, models created, ...), and generate some internal reports for yourself.
 - [Data teams should be a part of the business conversations from the beginning](https://cultivating-algos.stitchfix.com/). Get the data team involved early, have open discussions with them about the existing work, and how to prioritize new work against the existing backlog. Don't accept new work without addressing the existing bottlenecks, and don't accept new work without requirements. **Organizational [[politics]] matter way more than any data methods or technical knowledge**. The hard bit about becoming data driven in business isn't the technical bits. It's the political bits.
   - Including data people in meetings causes happy accidents!
-  - The layout of the organization impacts time of the information to propagate and adds losses.
+  - The layout of the organization impacts the time it takes for information to propagate and adds losses.
   - The modern data team needs to have _real organizational power_ — it needs to be able to say "no" and mean it. If your data team does not truly have the power to say no to stakeholders, it will get sent on all kinds of wild goose chases, be unproductive, experience employee churn, etc.
   - Data should report to the CEO. Ideally at least with some weekly metrics split into (a) notable trends, (b) watching close, and (c) business as usual.
   - If data is the most precious asset in a company, does it make sense to have only one team responsible for it?
-    - [People talk about data as the new oil but for most companies it's a lot closer uranium](https://news.ycombinator.com/item?id=27781286). Hard to find people who can to handle or process it correctly, nontrivial security/liabilities if PII is involved, expensive to store and a generally underwhelming return on effort relative to the anticipated utility.
+    - [People talk about data as the new oil but for most companies it's a lot closer to uranium](https://news.ycombinator.com/item?id=27781286). Hard to find people who can handle or process it correctly, nontrivial security/liabilities if PII is involved, expensive to store and a generally underwhelming return on effort relative to the anticipated utility.
 - The purpose of becoming data driven is to build a causal model of the business in your head. The purpose of doing all this work is that you want to understand how your business actually works and grows, not rely on superstitious beliefs about how your business works and grows.
   - Treat this as a theory of change: action -> output -> outcome -> impact, and test assumptions at each step.
   - You become data driven by looking at the data and not that much by hiring/expanding the data team. You can't outsource it.
-- [The pain in data teams come from needing to influence PMs/peers with having little control of them. Data teams need to become really great internal marketers/persuaders](http://web.archive.org/web/20210827235335/https://anchor.fm/census/episodes/The-evolution-of-the-data-industry--data-jobs-w-Avo-CEO-and-Co-founder-Stefania-Olafsdottir-e16hu1l). That said, it shouldn't be the data team job to convince the organization to be data driven. That's not an effective way of spending resources.
+- [The pain in data teams comes from needing to influence PMs/peers while having little control of them. Data teams need to become really great internal marketers/persuaders](http://web.archive.org/web/20210827235335/https://anchor.fm/census/episodes/The-evolution-of-the-data-industry--data-jobs-w-Avo-CEO-and-Co-founder-Stefania-Olafsdottir-e16hu1l). That said, it shouldn't be the data team's job to convince the organization to be data driven. That's not an effective way of spending resources.
   - Executives are expected to be data driven, even if they don't know what it means.
   - Epistemology of the leadership team really really matters.
 - People problems are orders of magnitude more difficult to solve than data problems.
-- **Integrate data where the decision is made**. E.g: Google showing restaurant scores when you're looking something for dinner.
+- **Integrate data where the decision is made**. E.g: Google showing restaurant scores when you're looking for something for dinner.
   - Reduce the time to insights. If the data is already in the tool you're using, then there's zero time to insights. Provide a set of tools with the same data and let people choose depending on the goal.
   - Data rarely moves fast enough across companies to enable data-informed decisions.
 - [Earning the authority to deny requests is one of the most important factors to running a world-class data team](https://twitter.com/teej_m/status/1420432376270782464)
@@ -52,7 +52,7 @@
 - Data literacy can create pathways for anyone to contribute equally to the organization's reality.
   - [Understanding variation is the beginning of data literacy](https://twitter.com/ejames_c/status/1732597443127382369).
 - Create a single space as the central place to post [[Data Practices#Data Request Template]].
-  - On the other hand, data analysis and data science are domain level problems and cannot be centralized.
+  - On the other hand, data analysis and data science are domain-level problems and cannot be centralized.
 - Create a single space to [[Data Practices|share the results of analysis and decisions made based on them]].
   - Log changes so everyone can jump in and be aware of what's going on.
   - [Log assumptions and lessons learned somewhere](https://commoncog.com/no-learning-dont-close-loops/). This information should loop back into the data product.
@@ -72,20 +72,20 @@
 - You won't have the best allocation of resources in a reactive team. Data teams need extra [[slack]]. [Balance user requests with actual needs](https://scientistemily.substack.com/p/product-management-skills-for-data).
 - Do weekly recaps in Slack to highlight key items, company-wide progress toward north-stars, improvements in certain areas, new customer highlights. All positive and fun stuff.
 - How can we measure the data team impact?
-  - Making a [[Writing a Roadmap|roadmap]] can help you telling if you are hitting milestone deadlines or letting them slip.
+  - Making a [[Writing a Roadmap|roadmap]] can help you tell if you are hitting milestone deadlines or letting them slip.
     - Embedded data team members need to help other teams build their roadmap too.
-  - Also, having a changelog ([do releases!](https://betterprogramming.pub/great-data-platforms-use-conventional-commits-51fc22a7417c)) will help show the team impact on the data product across time.
+  - Also, having a changelog ([do releases!](https://betterprogramming.pub/great-data-platforms-use-conventional-commits-51fc22a7417c)) will help show the team's impact on the data product across time.
 - [Push for a _centralization of the reporting structure_, but keeping the _work management decentralized_](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Unify resources (datasets, entities, definitions, metrics). Have one source of truth for each one and make that clear to everyone. That source of truth needs heavy curation. Poor curation leads to confusion, distrust and…. lots of wasted effort.
   - Aim to share the source of truth with the production code. Usually database information is better than tracking information.
   - Data should be defined unambiguously in a single place. Anyone can look up definitions without confusion.
-  - If definition or business logic is changed, backfills should occur automatically and data remains up-to-date.
+  - If a definition or business logic is changed, backfills should occur automatically and data remains up-to-date.
 - [Organizations have _too much_ data. Without better ways of organizing it, large volumes of data are more overwhelming than useful.](https://towardsdatascience.com/good-data-citizenship-doesnt-work-265f13a37fa5)
   - Use the questions people are asking to find data _hotspots_ and focus our energy on those. That means some corners of your data will be messy, and some concepts will go undocumented. Data is perennially broken and messy. **Embrace the mess**.
   - Get excited when people ask questions. Embrace confusion and curiosity. Offer help. Be friendly.
   - [Reality is complex and multidimensional and often difficult to comprehend](https://mobile.twitter.com/rahulj51/status/1485429967131639808).
   - [Document data when it's generated](https://davidsj.substack.com/p/the-data-chasm). Make it part of the process of adding a new event, table, or a replication job, when the change is already top of mind. If possible, embed it in the development process, and pester people when they don't include the necessary updates. This shifts the burden of documentation upstream, making it part of the development cycle.
-- To align stakeholders incentives with the data team, stakeholders should show their impact through data. This forces stakeholders to [[Product Analytics|plan tracking]] and think about metrics.
+- To align stakeholders' incentives with the data team, stakeholders should show their impact through data. This forces stakeholders to [[Product Analytics|plan tracking]] and think about metrics.
 - [To achieve distribution, build for who your stakeholder truly is, not for the stakeholder you want them to be](https://ian-macomber.medium.com/launching-and-scaling-data-science-teams-three-years-later-f1fa6f25b4ae).
 - You should have something that answers the following questions:
   - Is [[Data Quality|Data Correct]]?
@@ -100,7 +100,7 @@
 - [Aim for a culture of celebrating measurable progress and learnings, versus celebrating shipping](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html).
 - Align company on key actions. Every stakeholder should know how to explore that data.
 - Do pre-mortems. Where would we see the impact of _X_ going wrong? Model that and plot it on a dashboard.
-- You can force coordination by making a chart and start the discussion with it. Having a default chart will force people to fight on the definition and also provides a starting point. Discussions are much better when there are based on data and definitions.
+- You can force coordination by making a chart and start the discussion with it. Having a default chart will force people to fight on the definition and also provides a starting point. Discussions are much better when they are based on data and definitions.
   - Coordination happens when people agree on data, direction, and how to move to the desired place.
 - [Send surveys](https://docs.google.com/forms/d/e/1FAIpQLSfufs_0zOGlFiE6oqrdZU7xCi399CBYbIlZkAMe15GTRRcPZA/viewform) from time to time trying to get pain points and know where issues are.
   - E.g: Do you have access to the data I need to make decisions in your role?
@@ -108,18 +108,18 @@
 - [Culture eats strategy (and tools) for breakfast](https://news.ycombinator.com/item?id=29062266). Until there's a cultural mindset shift towards how companies value data and metadata, nothing will change.
   - [Tools eat process for breakfast](https://benn.substack.com/p/the-product-is-the-process). No matter how much you blog about best practices, or how many talks you give about better ways to work, people will eventually find their way back into the behavioral grooves cut by the products they use (e.g: dbt, GitHub, ...).
 - Similar to [logical arguments](https://x.com/tayloramurphy/status/1972503102625567172), data alone doesn't always change someone's mind!
-- Most of the work done in data is in an effort to **reduce entropy** — Model data to remove inaccuracies, turn commonly asked questions into self-serve reports, and funnel ad-hoc questions into a formalized request process. This kind of attitude the nature of data practitioners. In the case of driving decisions with data, **embrace the chaos**.
+- Most of the work done in data is in an effort to **reduce entropy** — Model data to remove inaccuracies, turn commonly asked questions into self-serve reports, and funnel ad-hoc questions into a formalized request process. This kind of attitude is the nature of data practitioners. In the case of driving decisions with data, **embrace the chaos**.
   - Data doesn't so much drift towards entropy, **but sprints at it**.
-  - [Navigating the chaos to arrive at a trustworthy recommendation is one of the most important jobs to be done.](https://roundup.getdbt.com/p/iterating-on-your-data-team). Decisions usually need to be taken faster and data analyst are [not invited to the table early enough](https://petrjanda.substack.com/p/bring-data-analyst-to-the-table). Again, be lean and iterate.
+  - [Navigating the chaos to arrive at a trustworthy recommendation is one of the most important jobs to be done.](https://roundup.getdbt.com/p/iterating-on-your-data-team). Decisions usually need to be taken faster and data analysts are [not invited to the table early enough](https://petrjanda.substack.com/p/bring-data-analyst-to-the-table). Again, be lean and iterate.
   - Data is _not_ a "set it and forget it" kind of activity. Your dashboard _will_ get stale in less than six months. Your key metrics _will_ eventually have bad data in them. That machine learning model you spent all of last quarter developing _will_ **[drift](http://web.archive.org/web/20221010060836/https://towardsdatascience.com/model-drift-in-machine-learning-models-8f7e7413b563)** from its original fit. The environment in which your business operates is constantly changing, and so will the product or service that your business delivers. As a result, what is knowable about your business, about your product or service, is constantly changing too. And fast.
 - No model is perfect. Reality has many more dimensions. Models exist **within a context**.
 - [Have regular cleanups and audits to keep data in check](http://web.archive.org/web/20231004070856/https://www.avo.app/blog/data-literacy-why-people-dont-trust-data-tips-from-patreons-dir-of-data-science). They are crucial to keeping your data trust up to par. [Schedule time to delete stuff](https://twitter.com/EdDaWord/status/1532148425487097857).
-- We're moving from software consumers to data consumers. Data and BI will become more and more federated (you get data insights on your JIRA card without having to leave JIRA)
+- We're moving from software consumers to data consumers. Data and BI will become more and more federated (you get data insights on your JIRA card without having to leave JIRA).
 - Over time, data literacy across organizations will become commonplace the same way typewriting has. [Most professionals, at all levels of the business, will be capable of generating their own insights without requiring a data team](https://roundup.getdbt.com/p/data-expertise-everywhere).
 - Data practitioners acknowledge that solid reporting is at the bottom of the data hierarchy of needs but few companies do even basic KPI reporting well.
-  - [Doing the fundamentals really well almost always exposes how little is actually understood about why things are happening. It's uncomfortable for high performing people to acknowledge that your grip on the levers is slippery](https://twitter.com/gwenwindflower/status/1498822586255519744).
+  - [Doing the fundamentals really well almost always exposes how little is actually understood about why things are happening. It's uncomfortable for high-performing people to acknowledge that your grip on the levers is slippery](https://twitter.com/gwenwindflower/status/1498822586255519744).
 - [Data ownership is a hard problem](https://www.linkedin.com/posts/chad-sanderson_heres-why-data-ownership-is-an-incredibly-activity-6904107936533114880-gw8n/). Data is fundamentally generated by services (or front-end instrumentation) which is managed by engineers. CDC and other pipelines are built by data engineers. The delineation of ownership responsibilities is very rarely established, with each group wanting to push 'ownership' onto someone else so they can do the jobs they were hired for.
-- [Becoming a data-driven organization is a journey, which unfolds over time and requires critical thinking, human judgement, and experimentation](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard). Fail fast, learn faster.
+- [Becoming a data-driven organization is a journey, which unfolds over time and requires critical thinking, human judgment, and experimentation](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard). Fail fast, learn faster.
   - [Data-drivenness is about building tools, abilities, and, most crucially, a culture that acts on data](https://twitter.com/ejames_c/status/1732592768890057115).
   - [Path to create a data-driven organization](https://twitter.com/_abhisivasailam/status/1520274838450888704):
     - 1. Get a well-placed leader with influence to message, model, and demand data-driven execution.
@@ -133,7 +133,7 @@
   - What will happen? Predictive statistics.
   - What would happen if…? Scenario analysis.
   - Most importantly, What are we trying to improve? What types of benefits are we expecting to see?
-- [Stakeholders will always need more data and is hard to say no. Communicating technical complexity to non-technical colleagues can be tough. Some reasons the ask might be hard](https://twitter.com/RichardSwinbank/status/1671780316573310977).
+- [Stakeholders will always need more data and it is hard to say no. Communicating technical complexity to non-technical colleagues can be tough. Some reasons the ask might be hard](https://twitter.com/RichardSwinbank/status/1671780316573310977).
   - You know if the data exists.
   - You know where it is.
   - You know how to translate that question to a data question.
@@ -144,7 +144,7 @@
   - Analytics: Making sense of data to guide decisions
 - Make your [modeling technique](https://web.archive.org/web/20230925091656/https://data-columns.hightouch.io/untitled-2/) explicit.
 - Have a documentation [entry-point for Data](https://github.com/mozilla/data-docs).
-- [For self-serve, aim to own as little as possible but keep in mind you can't make people do what you want but can stop them for doing what you don't want](https://youtu.be/wyW6hQGZxgY)
+- [For self-serve, aim to own as little as possible but keep in mind you can't make people do what you want but can stop them from doing what you don't want](https://youtu.be/wyW6hQGZxgY)
   - [You need to make a grocery store. You can't give folks directions to the farm to pick their own produce](https://twitter.com/teej_m/status/1603205457992044545).
 - It's easy to lie with statistics, but it's hard to tell the truth without them.
   - On the other hand, good science doesn't need statistics, you can just look at the scatterplot.
@@ -153,7 +153,7 @@
   - You can discover these control factors through one of two ways:
     - [[Experimentation]]
     - Observe sudden, unexplained special variation in your data, which you must then investigate to uncover new control factors that you don't already know about.
-- Don't over rely on data. [Data is inherently objectifying](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html) and naturally reduces complex conceptions and process into coarse representations. There's a certain fetish for data that can be quantified ([McNamara fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy))
+- Don't over-rely on data. [Data is inherently objectifying](https://schmud.de/posts/2024-08-18-data-is-a-bad-idea.html) and naturally reduces complex conceptions and processes into coarse representations. There's a certain fetish for data that can be quantified ([McNamara fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy))
 - [It's hard to capture reality with data](https://javisantana.com/fastdata/40-things-I-learned-about-data.html). Modelling reality always gets complex. There are always small nuances, special conditions, things that changed, edge cases and, of course, errors (which sometimes became features). Data visualizations are lossy.
 - Progress in data isn't linear. As a research discipline, you might spend hours making no progress and then have a breakthrough. Or worse, prove your entire approach won't work.
 - [Apply a research mindset to data](https://jxnl.co/writing/2024/10/25/running-effective-ai-standups). Focus on input metrics, build scientific intuition, and embrace uncertainty.
@@ -164,7 +164,7 @@
 
 ## Tools
 
-Sometimes, [tools help creating cultural change](https://commoncog.com/becoming-data-driven-first-principles/#the-trick). These might help your organization think better with data.
+Sometimes, [tools help create cultural change](https://commoncog.com/becoming-data-driven-first-principles/#the-trick). These might help your organization think better with data.
 
 - [Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction) and [Process Control](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html).
 - [Time Lagged Conversions](http://web.archive.org/web/20240914135511/https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/).

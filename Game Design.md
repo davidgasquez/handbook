@@ -7,9 +7,9 @@ Some [principles](https://youtu.be/zaxAdRlyZQ8) to keep in mind:
 3. Create rapid and robust controls.
 4. Make fun toys, and combine them into games.
 5. Make the next action obvious.
-6. Give clear and immediate [[feedback]] with no distraction.
+6. Give clear and immediate [[feedback]] with no distractions.
 7. Balance skills with challenge.
-8. A game looking gorgeous is not enough, needs a good community
+8. A game looking gorgeous is not enough; it needs a good community.
 
 ## [Fun Theory Insights](https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun)
 

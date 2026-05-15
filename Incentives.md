@@ -19,8 +19,8 @@ Behavior is hard to fix. When people say they've learned their lesson, they unde
   - Clear target metric to improve.
   - Intentional system design.
   - Commitment to study the metric.
-- Human values are highly dimensional. Nudging people in the right direction is hard, especially because nudges usually are very low dimensional.
-- [Incentives might be perverse and the effects will be unexpected and contrary to the intentions of its designers](https://en.wikipedia.org/wiki/Perverse_incentive) (e.g. Hacktoberfest spamming Pull Requests on Open Source repositories causing more work for maintainers).
+- Human values are highly dimensional. Nudging people in the right direction is hard, especially because nudges usually are very low-dimensional.
+- [Incentives might be perverse and the effects will be unexpected and contrary to the intentions of their designers](https://en.wikipedia.org/wiki/Perverse_incentive) (e.g. Hacktoberfest spamming Pull Requests on Open Source repositories causing more work for maintainers).
 
 ## Incentive Framework
 

@@ -9,11 +9,11 @@
   - Consulting: open source the code, sell consulting.
   - Cloud: open source some code, but sell a closed source cloud complement.
   - [Community](https://x.com/balajis/status/1310101055816921090): open source all code, and issue a token or charge for access to the community.
-  - Open Source projects would have a protocol. You could buy shares of Kubernetes, TensorFlow, ... or contribute to gain tokens. This [[incentives]] contributing and helping people.
+  - Open Source projects would have a protocol. You could buy shares of Kubernetes, TensorFlow, ... or contribute to gain tokens. This [[incentives|incentivizes]] contributing and helping people.
   - [Many more](https://youtu.be/Axj8NJXnCN0)!
 - Tokens create new, scoped economies, and those economies enable new ways of organizing production and operation of goods and services. Because these economies are programmable, they can also embed and optimize for value systems and goals.
 - [Moving to protocols, not platforms](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech), is an approach for free speech in the twenty-first century. Rather than relying on a "marketplace of [[ideas]]" within an individual platform — which can be hijacked by those with malicious intent—protocols could lead to a marketplace of ideals, where competition occurs to provide better services that minimize the impact of those with malicious intent, without cutting off their ability to speak entirely.
-  - The fundamental power of the internet is its _interoperability_. It was born out of the ability of different networks to talk to each other using common protocols. The interoperability is what we've lost in the Web 2.0 era. Even such quintessential thing as a web API has no well defined standard or protocol, just a very vague concept of REST or RPC. We need commonly accepted standards and _decentralized_ protocols: for web APIs, for identity management, for message queuing, for web callbacks (webhooks), for online transactions, for semantic web and ontology, etc.
+  - The fundamental power of the internet is its _interoperability_. It was born out of the ability of different networks to talk to each other using common protocols. The interoperability is what we've lost in the Web 2.0 era. Even such a quintessential thing as a web API has no well-defined standard or protocol, just a very vague concept of REST or RPC. We need commonly accepted standards and _decentralized_ protocols: for web APIs, for identity management, for message queuing, for web callbacks (webhooks), for online transactions, for semantic web and ontology, etc.
   - Sovereignty through ownership risks being a fantasy for all but the wealthiest. Sovereignty through interoperability may be achievable for nearly everyone.
   - The question isn't ["Can we own our stack?"](https://www.techpolicy.press/the-path-to-a-sovereign-tech-stack-is-via-a-commodified-tech-stack/) but "Can we move our workloads?"
   - The metric for success should focus on making it as simple as possible to move data and applications across suppliers.
@@ -41,17 +41,17 @@
 - There should be no technical or social single-point-of-failure for the overall protocol and network. There should be no single organization or individual who can entirely exclude others from the ecosystem (though the ecosystem may collectively exclude bad actors). There should be multiple independent interoperating service providers for each infrastructure component.
 - [Open source protocols should favor composability over just about everything](https://youtu.be/TdBTJY-G8xs). Breaking big things into smaller things. This encourages experimentation at multiple levels.
   - Forking should be a right. Keeps authority contingent (if they abuse power, they might get forked).
-- **[Progressive decentralization](https://a16zcrypto.com/content/article/progressive-decentralization-crypto-product-management/) optional centralization.**
-  - A decentralized protocol can work with a centralized provider. It has the benefits of both (might be fast but no lock users in).
+- **[Progressive decentralization](https://a16z.com/progressive-decentralization-a-playbook-for-building-crypto-applications/) means optional centralization.**
+  - A decentralized protocol can work with a centralized provider. It has the benefits of both (might be fast but no lock-in).
 - A major downside of decentralized protocols/networks is that they tend to perform poorly. Hubs are efficient. Hubs act as routers through which information can travel from A to B to C, efficiently.
 - [It's the properties decentralization gives us that we care about, not decentralization itself](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/). Decentralization is a global, emergent property. You can feel latency, you can feel transaction fees, but networks ostensibly feel the same whether they're centralized or decentralized. Decentralization is valuable when it lets you do new things fundamentally better, not old things fundamentally worse.
 - Ultimately, [users don't care about decentralization](https://news.ycombinator.com/item?id=38694551). Most of the time, it doesn't matter if the service is distributed or comes from a single server sitting in someone's basement. Users want to use services (chat, write mails, watch videos, have a website, buy stuff, sell stuff) and not run infrastructure of any kind. Decentralization is a means to an end, not an end in itself.
-- If a system requires a centralized part, a great alternative is give the user the ability to point to other centralized things taking care of that part.
-- If you have a protocol, try enforcing the desired behavior using the protocol. Your ideas of how to solve it might not be the best and adding a protocol restriction (incentives/penalties) will make people figure out.
+- If a system requires a centralized part, a great alternative is to give the user the ability to point to other centralized things taking care of that part.
+- If you have a protocol, try enforcing the desired behavior using the protocol. Your ideas of how to solve it might not be the best and adding a protocol restriction (incentives/penalties) will make people figure it out.
 - When building a technology, consider: [does this centralize or decentralize power?](https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html)
 - Many decentralized protocols are trying to build next generation common digital infrastructure.
-  - Unfortunately,[nearly every crypto project realized that they could capture value (make a lot of money) with innovative tokenomics that looked a lot like Ponzis, or at least borderline securities fraud](https://andrewconner.com/common-digital-infrastructure/).
-- [Whether something is decentralised or not is a function of the administrative control of different parts of the system, not a function of the network topology](https://bsky.app/profile/martin.kleppmann.com/post/3jujacxncil2r).
+  - Unfortunately, [nearly every crypto project realized that they could capture value (make a lot of money) with innovative tokenomics that looked a lot like Ponzis, or at least borderline securities fraud](https://andrewconner.com/common-digital-infrastructure/).
+- [Whether something is decentralised or not is a function of the administrative control of different parts of the system, not a function of the network topology](https://web.archive.org/web/20251221001421/https://bsky.app/profile/martin.kleppmann.com/post/3jujacxncil2r).
   - Protocol design is an authority model, not only a network topology.
   - Ask explicitly. Who has the right to host or unhost data.
   - Who has the right to platform or deplatform speech.
@@ -65,7 +65,7 @@
   - Rights still need protection by design. User-addressed content for smooth migration and a shared data space for modular services.
   - Separate powers across hosting, moderation, algorithms, and apps so no single provider controls the full stack.
 - Without explicit governance of shared resources, open protocols will still be governed—by whoever becomes economically or operationally indispensable first.
-- [Credible neutrality](https://nakamoto.com/credible-neutrality/) is the principle that a system or protocol should be demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests. When building mechanisms that decide high-stakes outcomes, it's very important for those mechanisms to be credibly neutral. Rules to building a credibly neutral mechanism:
+- [Credible neutrality](https://nakamoto.ghost.io/credible-neutrality/) is the principle that a system or protocol should be demonstrably fair and impartial to all participants (open source and publicly verifiable execution), with no hidden biases or privileged interests. When building mechanisms that decide high-stakes outcomes, it's very important for those mechanisms to be credibly neutral. Rules for building a credibly neutral mechanism:
   - Don't write specific people or specific outcomes into the mechanism.
   - Open source and publicly verifiable execution.
   - Keep it simple. Keeping the protocol simple brings a number of benefits (e.g: makes the protocol simpler to reason about, increasing the number of people who understand and can participate, decreases the cost of creating new infrastructure, reduces the risk of catastrophic bugs, reduces the social attack surface).
@@ -76,7 +76,7 @@
   - Self-sovereign identity: the user is in control of their identity.
   - [[Privacy]]-preserving: the user's identity is not shared with third parties.
   - Sybil-resistant: identity is subject to scarcity; i.e., creating more identifiers cannot be used to manipulate a system.
-- Two big unsolved problems on decentralized [[Mechanism Design]] are identity (making sure that the same person can't have multiple identities) and collusion (making sure groups cannot coordinate to manipulate the system).
+- Two big unsolved problems in decentralized [[Mechanism Design]] are identity (making sure that the same person can't have multiple identities) and collusion (making sure groups cannot coordinate to manipulate the system).
 - Identity can be delegated to a community. E.g: Gitcoin uses Passport because they know what the identity requirements are for that community. Solving identity at a global scale means "[seeing like a state](https://newsletter.squishy.computer/p/soulbinding-like-a-state)" and distorting the messy reality.
   - What we call "on-chain identity" is really "on-chain legibility" - a standardized, certified, registered system that simplifies complex human identity into quantifiable data points, similar to how scientific forestry reduced complex ecosystems to countable rows of trees.
   - The solution is "Keys not IDs" - focus on what users are authorized to do rather than who they are, using public-key cryptography for authorization without the baggage of permanent identity tracking.

@@ -12,7 +12,7 @@
 - Playing [[Dungeons and Dragons]]
 - Participating in [[Datathons]]
 - Doing some [[Cooking]] and developing [[Recipes]]
-- Small scale [[Gardening]]
+- Small-scale [[Gardening]]
 - Playing around with [[Artificial Intelligence Models]]
 - Exploring cities and judging them by 3 factors:
   - Number of people in a rush

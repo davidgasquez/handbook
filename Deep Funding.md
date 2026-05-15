@@ -26,7 +26,7 @@ Deep Funding can be viewed as a [Software-2.0](https://karpathy.medium.com/softw
 - Works on Public Existing Infrastructure
 - Decentralized and Market-Like Mechanisms to Incentivize Useful Curation
   - Dependencies reveal themselves through market mechanisms rather than being declared
-  - Skin in the Game. Participants have something to lose from bad assessments
+  - Skin in the Game. Participants have something to lose from bad assessments.
 - Project Independence (no need to participate in the process to get funded)
 - Decouple epistemics from money distribution.
   - The system discovers candidate value estimations.
@@ -47,26 +47,26 @@ So far, Deep Funding has been implemented like this:
 After participating in the ML competition and Prediction Market, and doing a few deep dives into the data and methodology, I think these are the main open problems.
 
 - **Juror Reliability**
-  - So far, expert juror's pairwise comparisons have been inconsistent, noisy, and low in statistical power
+  - So far, expert jurors' pairwise comparisons have been inconsistent, noisy, and low in statistical power
   - Getting comparisons has been quite expensive in time and resources
   - The jury (secret) pool diversity is not guaranteed
   - Asking jurors "how much better" introduces order‑dependence and scale mismatch
   - Messy jurors have [disproportionate impact on the weights](https://davidgasquez.github.io/deepfunding-trial-data-analysis/#-robustness-checks)
-  - Weights are not consistent due to the limited amount of data collected and the variance on it
+  - Weights are not consistent due to the limited amount of data collected and the variance in it
   - Large graphs (hundreds of projects) make getting accurate weights from the pairwise evaluation infeasible
     - E.g. GG24 round has ~100 projects and [would need more than 3000 "actively sampled" comparisons to get to a relative error of 10%](https://arxiv.org/pdf/1505.01462)
     - This approach/paradigm requires more training examples than jurors can produce in a reasonable span of time
 - **Mechanism Settings**
   - Some parameters have a large effect and haven't been adjusted
-  - The aggregation formula (huber, log loss, bradley terry, ...) has a very large impact on both modelers/traders and project rewards
+  - The aggregation formula (Huber loss, log loss, Bradley-Terry, ...) has a very large impact on both modelers/traders and project rewards
   - Need more process around who chooses the aggregation formula and why it is chosen
   - In the pilot (huber loss), some projects got weights on a scale jurors didn't feel reasonable (e.g: EIPs repo got 30%)
-  - The prediction market might cause good modelers to not participate as time of entry is more important than having a good model
+  - The prediction market might cause good modelers to not participate as entry time is more important than having a good model
   - There might be an incentive to game the market at the last minute
     - Might be worth it to increase your project share given the money distribution
 - **Weights Evaluation**
   - [How do we measure success?](https://davidgasquez.com/weight-allocation-mechanism-evals/) If the goal of pattern recognition was to classify objects in a scene, it made sense to score an algorithm by how often it succeeded in doing so. What is the equivalent for Deep Funding? What is the [metric we are optimizing](https://mlhp.stanford.edu/src/chap4.html#sec-metric-elicitation)?
-  - Once the weights are set, there isn't [a process to evaluate how "fit" those are](https://davidgasquez.com/weight-allocation-mechanism-evals/)
+  - Once the weights are set, there isn't [a process to evaluate how "fit" they are](https://davidgasquez.com/weight-allocation-mechanism-evals/)
     - E.g: the current idea is to gather a connected graph of pairwise comparisons, why not use that to reward projects directly and skip the Prediction Market?
   - We need falsifiable hypotheses to validate Deep Funding is "better"
 - **Graph Maintenance**
@@ -75,19 +75,19 @@ After participating in the ML competition and Prediction Market, and doing a few
 
 ## Ideas
 
-- An alternative is to take an ([inspired by RLHF](https://www.itai-shapira.com/pdfs/pairwise_calibrated_rewards_for_pluralistic_alignment.pdf)) approach. **Use only a few significant data points to choose and reward the final models** instead of deriving weights for the entire set of children/dependencies of a project. Resolve the market with only a few, well-tested pairs!
+- An alternative is to take an approach ([inspired by RLHF](https://www.itai-shapira.com/pdfs/pairwise_calibrated_rewards_for_pluralistic_alignment.pdf)). **Use only a few significant data points to choose and reward the final models** instead of deriving weights for the entire set of children/dependencies of a project. Resolve the market with only a few, well-tested pairs!
 - Fix weight distributions (Zipf law) and make modelers/jurors focus on predicting the rank. Pick the model that aligns the most with the pairwise data collected.
   - Win rates can be derived from pairwise comparisons
 - Lean on the [[Pairwise Comparisons]] playbook (binary questions over intensity, active sampling, filtering noisy raters) for any human labeling.
 - Instead of one canonical graph, allow different stakeholder groups (developers, funders, users) to maintain their own weight overlays on the same edge structure. Aggregate these views using quadratic or other mechanisms
-  - If there is a plurality of these "dependency graphs" (or just different set of weights), the funding organization can choose which one to use! The curators gain a % of the money for their service. This creates a market-like mechanism that incentivizes useful curation.
-- Let the dependent set their weight percentage if they're around
-- Let the applicants apply with whatever "abstractions level" they want (e.g: a whole framework, one repository, an entire organization). Rely on pairwise comparisons to resolve conflicts.
+  - If there is a plurality of these "dependency graphs" (or just different sets of weights), the funding organization can choose which one to use! The curators gain a % of the money for their service. This creates a market-like mechanism that incentivizes useful curation.
+- Let the dependent set their weight percentage if they're around.
+- Let the applicants apply with whatever "abstraction level" they want (e.g: a whole framework, one repository, an entire organization). Rely on pairwise comparisons to resolve conflicts.
 - Have hypercerts or similar. The price of these (total value) sets the weights across dependencies (`numpy`'s certificates trade at 3x the price of a utility library, the edge weight reflects this)
-- If there are reviewers/validators/jurors, need to be public so they have some sort of reputation
+- If there are reviewers/validators/jurors, they need to be public so they have some sort of reputation
   - Reputation system for Jurors
     - E.g: whose score is closer to the final one. This biases towards averages
-    - Use graph algorithms ([MaxFlow](https://maxflow.one/how-it-works)) to weight jurors. This trust layer makes all human inputs (juror ratings, edge proposals, curation) sybil-resistant and accountable. People don't get "one vote per account": they get influence proportional to how much the network trusts them, based on who publicly vouches for whom. Vouches are binary and simple, but they're recursively weighted by the voucher's own trust and penalized if someone vouches for too many others, which makes spam and fake networks costly.
+    - Use graph algorithms ([MaxFlow](https://maxflow.one/how-it-works)) to weight jurors. This trust layer makes all human inputs (juror ratings, edge proposals, curation) Sybil-resistant and accountable. People don't get "one vote per account": they get influence proportional to how much the network trusts them, based on who publicly vouches for whom. Vouches are binary and simple, but they're recursively weighted by the voucher's own trust and penalized if someone vouches for too many others, which makes spam and fake networks costly.
   - Account for jurors' biases with Hierarchical Bradley Terry or similar
   - Allow anyone to be a juror, select jurors based on their skills
 - Stake-based flow:
@@ -98,7 +98,7 @@ After participating in the ML competition and Prediction Market, and doing a few
   - Human attestations from project maintainers or a committee
 - Doing [something similar to Ecosyste.ms](https://blog.ecosyste.ms/2025/04/04/ecosystem-funds-ga.html) might be a better way
   - A curated set of repositories. You fund that dependency graph + weights.
-  - Could be done looking at the funding or license (if there is a license to declare your deps).
+  - Could be done by looking at the funding or license (if there is a license to declare your deps).
 - Run the mechanism on "eras" / batches so the graph changes and the weights evolve.
 - How to expand to a graph of dependencies that are not only code?
   - Academic papers and research that influenced design decisions
@@ -112,7 +112,7 @@ After participating in the ML competition and Prediction Market, and doing a few
   - This crowdsources the graph discovery problem and incentivizes thorough documentation.
 - Projects can opt out of the default distribution and declare a custom one for dependencies. Organizers can allow or ignore that
 - Self-declaration needs a "contest process" to resolve issues/abuse
-- Harberger Tax on self declarations? Bayesian Truth Serum for Weight Elicitation?
+- Harberger Tax on self-declarations? Bayesian Truth Serum for Weight Elicitation?
   - Projects continuously auction off "maintenance contracts" where funders bid on keeping projects maintained. The auction mechanism reveals willingness-to-pay for continued operation. Dependencies naturally emerge as projects that lose maintenance see their dependents bid up their contracts
 - [Explore Rank Centrality](https://arxiv.org/pdf/1209.1688). Theoretical and empirical results show that with a graph that has a decent spectral gap `O(n log(𝑛))` pair samples suffice for accurate scores and ranking.
 - Report which mechanism is closer (distance metric) to each juror

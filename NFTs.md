@@ -1,6 +1,6 @@
 # NFTs
 
-Unique assets whose value is independent from one another. For example, an NFT might represent a piece of unique digital artwork.
+Unique assets whose value is independent of one another. For example, an NFT might represent a piece of unique digital artwork.
 
 - Today, if you create something digital, ownership is tied in with distribution. If someone makes an `mp3` or a `jpeg` piece of art and posts it or sells it online, you'll have to have it to consume it (DRM can sometimes change this).
 - With NFTs, the digital asset you create has a clear, provable owner (you!) and anyone you sell it to (and anyone thereafter) can trace it back to you, the creator, and know it is authentic.

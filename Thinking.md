@@ -10,7 +10,7 @@
       - This thing is super plausible, and honestly very likely true, but we haven't checked yet, so we can't be sure.
       - We have hard-and-fast evidence that this is false, stop repeating this easily debunked lie.
 - Be [specific](https://www.lesswrong.com/posts/XosKB3mkvmXMZ3fBQ/specificity-your-brain-s-superpower). Ask yourself the question, "What's an example of that?" Or more bluntly, "Can I be more specific?"
-- Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much in the last few thousands years and was built for a different world.
+- Run your brain in debug mode so you understand why you're thinking in that way. The brain hasn't changed that much in the last few thousand years and was built for a different world.
 - Believing you're rational makes it easier to fool yourself, mistaking your intuitions for rational decisions.
 - Stress test your ideas/assumptions/beliefs with experiments and facts as many times as possible.
   - Anything you know or do could be wrong. You get less dumb by saying things and getting feedback. [We all have crony beliefs](https://web.archive.org/web/20250129202840/https://meltingasphalt.com/crony-beliefs/). From time to time, do a self-audit and figure out which ideas you've come to hold sacred and remind yourself that they're just ideas.
@@ -21,7 +21,7 @@
 - Instead of thinking "I'm sure X is fake!", try to think in terms of probabilities. E.g: I think there's a 90% chance X is fake. Instead of thinking in terms of changing your mind, think in terms of updating your probabilities. [This mindset](https://astralcodexten.substack.com/p/book-review-the-scout-mindset) makes it easier to remember that it's not a question of winning or losing, but a question of being as accurate as possible. "Probability update" is less emotionally devastating than "I said X, but actually ~X, so I was wrong").
 - You can try things to find out which ideas are right or wrong. It requires asking "What else would be true if this thing were true?" or "What would be different depending on whether X versus Y were true?".
 - Knowledge decays. Things you learned in the past might not be true nowadays (_status of Pluto as a planet, dinosaurs with feathers, number of people living, ..._). [Facts decay over time until they are no longer facts or perhaps no longer complete](https://fs.blog/2018/03/half-life/).
-- Don't fully trust Science (or History) as is not perfect. Studies are based on incorrect assumptions (from other studies), might have experimental issues, or might be manipulated by external factors (e.g: tobacco companies paying for studies).
+- Don't fully trust Science (or History) as it is not perfect. Studies are based on incorrect assumptions (from other studies), might have experimental issues, or might be manipulated by external factors (e.g: tobacco companies paying for studies).
 - Avoiding stupidity is easier than seeking brilliance. Think backward so that you can avoid failures.
 - Use simple, consistent language. You should be able to explain why good things are good and why bad things are bad, without using fancy words.
 - Research before judging! We do not know what we don't know. Gather as much context as you can before making any final statement.
@@ -52,10 +52,10 @@
 - [Be prejudiced in favor of tolerating dissent](https://www.lesswrong.com/posts/ZQG9cwKbct2LtmL3p/evaporative-cooling-of-group-beliefs#fn3x57).
 - Socially reward people who change their mind.
 - The real costs aren't always what is shown. Costs and [[Values]] are often made of multiple parts. Beware of repeated costs—they add up!
-- Take into account second and third order effects.
+- Take into account second- and third-order effects.
 - Do your philosophical thinking in advance ([cached thoughts](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts)), so you can concentrate on explaining well. Above all, practice staying within the one-inferential-step bound.
   - [Think for yourself about "wise" or important or emotionally fraught topics](https://www.lesserwrong.com/posts/aSQy7yHj6nPD44RNo/how-to-seem-and-be-deep) rather than letting your brain complete the pattern. If you don't stop at the first answer, and cast out replies that seem vaguely unsatisfactory, in time your thoughts will form a coherent whole, flowing from the single source of yourself, rather than being fragmentary repetitions of other people's conclusions.
-  - Sometimes inferential distances can be very far apart. You need [willingness to entertain and explore ideas before deciding that they are wrong](https://slatestarcodex.com/2020/05/12/studies-on-slack/). The other person might be on a self-consistent equilibria (someone christian, creationism, ...) and only changing one view of the world wouldn't work. You have to convince them for all the views. [A clear argument has to lay out an inferential pathway, starting from what the audience already knows or accepts](https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances). Same applies when working with a group or even for you! _Change your mind a little at a time_.
+  - Sometimes inferential distances can be very far apart. You need [willingness to entertain and explore ideas before deciding that they are wrong](https://slatestarcodex.com/2020/05/12/studies-on-slack/). The other person might be in a self-consistent equilibrium (someone Christian, creationism, ...) and only changing one view of the world wouldn't work. You have to convince them of all the views. [A clear argument has to lay out an inferential pathway, starting from what the audience already knows or accepts](https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances). The same applies when working with a group or even for you! _Change your mind a little at a time_.
     - You can't reason someone out of a notion that they didn't reason themselves into.
 - There's a distinction between tacit knowledge and explicit knowledge:
   - Tacit knowledge is like the knowledge that you use to ride a bicycle—it's complex, experiential, intuitive, hard to put into words. There is knowledge experts have, but cannot explain or write down.
@@ -73,13 +73,12 @@
   - **The Selective Skeptic Test:** How credible would you consider the same evidence if it supported the other side?
 - [Predictive processing](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) gives us more confidence in an admission that bias is possible, and a hope that there's something other than bias which we can latch onto as a guide. It helps provide a convincing framework we can use to figure out what's going on at all levels of cognition.
 - An estimate is better than a guess. A measurement is better than an estimate.
-- All points of view have complex context, many of which are predetermined by chance of birth, biology, and environment. There's no such thing as, "I only believe (x) because of (y)." our brains like simple, binary thinking, but real life is constantly challenging that impulse.
-- Experiments usually have mistakes. When the experiment process improves around a topic, the evidence might decrease indicating it wasn't present in the beginning. To find truth, improve the way to measure it!
+- All points of view have complex context, much of which is predetermined by chance of birth, biology, and environment. There's no such thing as, "I only believe (x) because of (y)." Our brains like simple, binary thinking, but real life is constantly challenging that impulse.
+- Experiments usually have mistakes. When the experimental process improves around a topic, the evidence might decrease, indicating it wasn't present in the beginning. To find truth, improve the way to measure it!
 - [Cognitive ease](https://youtu.be/cebFWOlx848) makes us more likely to believe things that are familiar to us. Cognitive strain helps us avoid the pitfall of jumping to the intuitive but wrong answer. Both ways are useful in different situations, the key is to identify where to flow or fight against the cognitive ease.
 - Saying "that's a good point" doesn't lose the argument. It wins trust. Acknowledging a valid observation is a display of respect. It signals that you're [[Listening]] with an open mind, and motivates them to follow suit. You don't have to agree on everything to agree on something.
-- Every time you say "that's a good point", it gets easier for you to acknowledge good points in the future. Same happens when you say "I was wrong".
+- Every time you say "that's a good point", it gets easier for you to acknowledge good points in the future. The same happens when you say "I was wrong".
 - There are ways of helping that are more effective than others. E.g: [giving money is usually better than donating stuff](https://www.linkedin.com/feed/update/urn:li:activity:7259253204180221952). More flexible, [allows better logistics](https://www.linkedin.com/pulse/paradojas-sobre-la-ayuda-en-emergencias-y-las-ong-pablo-melchor--lgq3f/) (collecting and transporting water bottles versus buying in bulk and transporting them), local economy benefits, less waste, ...
-
 
 ## Resources
 

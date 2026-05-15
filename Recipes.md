@@ -45,7 +45,7 @@
 
 ### Steps
 
-1. Mix everything together until the dough is consistent. Let it rest at least for 2 hours, ideally something like 5 days. There are [different kinds](https://youtu.be/ahxKAlbp6DU) of doughs.
+1. Mix everything together until the dough is consistent. Let it rest for at least 2 hours, ideally something like 5 days. There are [different kinds](https://youtu.be/ahxKAlbp6DU) of doughs.
 
 ## Pickling
 

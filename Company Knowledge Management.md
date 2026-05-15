@@ -1,6 +1,6 @@
 # Company Knowledge Management
 
-All [[Organizations]] produce some kind of knowledge. If not properly managed, it'll lie on your ex-employees, oral history and tribal knowledge.
+All [[Organizations]] produce some kind of knowledge. If not properly managed, it'll live in your ex-employees, oral history, and tribal knowledge.
 
 If we think about a company as an organism, then a **knowledge management system is essentially the (collective) brain that keeps that organism alive and running**. A corporate knowledge management system, *ideally*, contains every single bit of codifiable information within the company resulting in a library of all projects, [[processes]] and procedures.
 
@@ -20,26 +20,26 @@ There are some basic principles and [[values]] that will make maintaining and ev
 - [[Documentation]] and PM can make a company 10x better.
 - Have an opinionated way of doing internal documentation that works for your [[Organizations|organization]] and [[Culture]].
 - Every employee should contribute.
-- Resources have owners, contributors, reviewers (similar to [[Git]] roles). One of the owner roles is to keep it up to date and consistent with the rest of the knowledge base.
+- Resources have owners, contributors, reviewers (similar to [[Git]] roles). One of the owner's roles is to keep it up to date and consistent with the rest of the knowledge base.
 - Each kind of document should have an explicit place. A place for everything and everything in its place.
   - Keep a source of truth and keep it up to date. When something is not relevant anymore, deprecate or delete it. All the documents should evolve.
   - Avoid duplicating knowledge. For each question there is one and only one answer.
 - Link everything together.
-  - The documentation should have back links and block references to incentivize small chunks of atomic ideas.
+  - The documentation should have backlinks and block references to incentivize small chunks of atomic ideas.
 - When doing presentations, don't present slides, present the content of the [[Company Handbooks|company handbook]].
 - Information should be easy to add (input) as well as easy to search and find (output) resulting in quick knowledge transfer between different employees.
 - [[Writing]] something in the wrong place is the same as not writing it.
 - Reduce the number of alternatives where information might be stored. GitLab uses [[git]], Basecamp uses Basecamp, ...
 - [If it will matter after today, stop talking about it in a chat room](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
-- Always overshare. It's faster to filter out information than asking and then waiting for it.
+- Always overshare. It's faster to filter out information than to ask and then wait for it.
 - For complex and big decisions, aim for 3 levels of curation.
 - [Decisions (and rationale) must be documented in a durable location. At GitHub they used to say everything should have a URL](https://haacked.com/archive/2020/04/07/introducing-aboard-beta/). That gives the company a **Decision Log**.
 - Important documents like Roadmaps should be easy to discover and people should be able to comment on and have discussions around them. That promotes keeping it up to date.
-- [[Design Docs]] should have an explicit place, also acting as an historical log.
+- [[Design Docs]] should have an explicit place, also acting as a historical log.
 - [[Documentation]] should have a common entry point to increase discovery. Each team can have its own [[processes]] on top.
 - At a company level, each team documents differently. To make the most of that, grow the knowledge organically and locally, not top down. Each team should have its own permissionless and open way of working and should be made public to the rest of the company. That way they can evolve the system to fit their needs. Then, there is a standard protocol to share information between teams.
-  - The protocol serves as the team communications API. An abstraction over the inner works of the team that is common to all the other teams.
-  - E.g: Each team having a homepage [README](https://tom.preston-werner.com/2010/08/23/readme-driven-development) with links to their slack, ticket system and processes.
+  - The protocol serves as the team communications API. An abstraction over the inner workings of the team that is common to all the other teams.
+  - E.g: Each team having a homepage [README](https://tom.preston-werner.com/2010/08/23/readme-driven-development) with links to their Slack, ticket system, and processes.
   - Since the protocol is shared between apps, you can build different views on top of the knowledge and tasks via APIs.
 - Add as much information to your tickets/issues as possible. If the tickets/issues are any good, you'll find relevant tickets with links and extra information. That makes it easy to tell what is current vs. what is 3 years old. The approach is something like Kafka (a log of everything that happened) versus a database with the current state of the world.
 - [Every document you write can fall into one of two categories](https://clrcrl.com/2021/11/30/fighting-the-entropy-of-knowledge.html):
