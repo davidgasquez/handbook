@@ -2,8 +2,8 @@
 
 - [Privacy is about power](https://www.privacyguides.org/en/basics/why-privacy-matters/), and human information confers power over human beings.
 - If we care about being authentic, fulfilled, and free humans, we have to care about the rules that apply to information about us. [Privacy gives you the freedom to live your life in a way that best suits your personal goals and needs](https://vitalik.eth.limo/general/2025/04/14/privacy.html).
-- [Doing privacy first tackles multiple online harms by addressing corporate surveillance.](https://web.archive.org/web/20260224191356/https://www.eff.org/wp/privacy-first-better-way-address-online-harms)
-- [A society with no privacy is a severe disadvantage in any resistance against the oppressive tendencies of the state and other large corporate actors.](https://www.reddit.com/r/privacy/comments/188v2ao/why_is_privacy_important_to_you/)
+- [Doing privacy-first tackles multiple online harms by addressing corporate surveillance.](https://web.archive.org/web/20260224191356/https://www.eff.org/wp/privacy-first-better-way-address-online-harms)
+- [A society with no privacy is at a severe disadvantage in any resistance against the oppressive tendencies of the state and other large corporate actors.](https://www.reddit.com/r/privacy/comments/188v2ao/why_is_privacy_important_to_you/)
   - Think about how badly things can go if the wrong people end up in positions of power.
   - What happens when someone is being stalked by an abusive ex-partner who works in law enforcement and has access to those databases?
 - Data mining can be a weapon.
@@ -13,7 +13,7 @@
 - You shouldn't confuse privacy with secrecy. We know what happens in the bathroom, but you still close the door.
 - Privacy is an important guarantor of decentralization: whoever has the information has the power, ergo we need to avoid centralized control over information.
 - There are always certain facts about us, say, personal health information, or sexual behavior, that we wouldn't want the whole world to know.
-- [Less privacy => you give more data to advertisers => you get more personalized ads => ads are more effective on you => political ads change your opinions more => your political views are partly bought by money.](https://www.reddit.com/r/privacy/comments/188v2ao/why_is_privacy_important_to_you/). Ads work, on everyone, regardless what you think.
+- [Less privacy => you give more data to advertisers => you get more personalized ads => ads are more effective on you => political ads change your opinions more => your political views are partly bought by money.](https://www.reddit.com/r/privacy/comments/188v2ao/why_is_privacy_important_to_you/). Ads work, on everyone, regardless of what you think.
 - You may be fine with being influenced by ads, but you are also imposing it on everyone you care about, without their consent.
 - Companies can see all your data, and companies are made of people, and people can be malicious.
 - Companies can share your innocuous data with law enforcement and get you arrested for being in the wrong place at the wrong time.

@@ -29,7 +29,7 @@ Charts can be more memorable, shareable, and quickly understood than written exp
 ## Color
 
 - Match colors to concepts (plants → green, bad → red) so readers aren't forced into a [Stroop test](https://en.wikipedia.org/wiki/Stroop_effect).
-- Use [color-blind friendly palettes](https://davidmathlogic.com/colorblind/). About 4-5% of the population has some form of color blindness.
+- Use [color-blind-friendly palettes](https://davidmathlogic.com/colorblind/). About 4-5% of the population has some form of color blindness.
 - Direct labeling also helps color-blind readers distinguish categories.
 
 ## Axes

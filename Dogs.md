@@ -14,7 +14,7 @@
 - If someone else is taking care of your dog for a while, leave everything written explicitly. They'll make adaptation much easier and your dog will keep similar habits.
 - Play before eating. That way the dog will associate toys with a positive thing.
 - [Reinforce being calm in different contexts](https://youtu.be/lLyiQODnR1s). This will make them listen to you in new places.
-- Understand [what your dog can eat](https://www.naturzoo.com/carteles-informativos-alimentos-adecuados-una-dieta-natural-perros/) and what they can't.
+- Understand [what your dog can eat](https://www.naturzoo.com/alimentos-adecuados-perros/) and what they can't.
 
 ## Building Confidence
 
@@ -40,7 +40,7 @@
 - Train in any situation possible (and in which it's safe to do it). For the first 6-12 months, spend at least 20 minutes of formal training a day in short training sessions (1-3 min).
 - Work on focus with distractions and you'll have an excellent groundwork.
 - All animals, including humans, are "trained" 100% of the time.
-- Say "yes!" and reward as fast as possible after they do what you want. They have about a 1 second window to register that behavior as the cause of the reward.
+- Say "yes!" and reward as fast as possible after they do what you want. They have about a 1-second window to register that behavior as the cause of the reward.
 - Remember to give your dog some "easy wins". You would not want to be paid less as you got better at your job.
 - Have treats everywhere so you have quick access to them.
 - You can use toys and small play sessions as a food reward alternative.
@@ -58,7 +58,7 @@
   - Use a soft voice to stabilize a behavior instead of repeating the command or using stay. Break orders with a release cue like OK.
   - To increase dog interest in training, throw treats to get them more energized!
 - If you find your dog isn't listening perfectly to an old cue, one strategy for dealing with that is to change the cue and work on reinforcing the new cue more carefully. To transfer a cue, give your _new_ cue then immediately follow it with the old cue and reward when the dog performs the behavior.
-- You can speed up a trick training it with toys. Also, you can add tricks in between "drop it" and "get it" to reinforce them.
+- You can speed up a trick by training it with toys. Also, you can add tricks in between "drop it" and "get it" to reinforce them.
 - Once the behavior is established, start to reinforce intermittently.
 - For clicker training the main loop is: click, pause, feed. Always feed after clicking! You can charge the clicker while playing [[Dogs#Training Games|training games]].
 - Develop gradual exposures to new things. Break the challenge into small steps and reward for each step to build confidence. E.g: [reactivity](https://youtu.be/QQ3i6FRyoFs).
@@ -66,12 +66,12 @@
 ### Training Games
 
 - Stay with distractions. While your dog is still, move and run. Reward calmness.
-- Fetch with stay. Throw a toy and make your dog wait the signal to chase it.
-- Name Game. Say the name then mark and drop a treat when they come. You can practice this with 2 persons. It's especially important to practice recalls with high value treats.
+- Fetch with stay. Throw a toy and make your dog wait for the signal to chase it.
+- Name Game. Say the name then mark and drop a treat when they come. You can practice this with two people. It's especially important to practice recalls with high-value treats.
 - Recall Drive. Someone holds the dog while you excitedly run away. Then, you say "come" and the person releases the dog. Reward and play to reinforce the dog running towards you.
-- Snuffle Mat Come. Put low value treats into the snuffle mat and call your dog away from it. Let them sniff again and call it back.
+- Snuffle Mat Come. Put low-value treats into the snuffle mat and call your dog away from it. Let them sniff again and call them back.
 - [Attention Game](https://youtu.be/5e_gVqJkdek). Make a kissy noise and reward when your dog looks at your face.
-- [Leash Pressure Game](https://youtu.be/iKG89GVOJiM). Reinforce your dog turn around and come back to you when they hit the end of the leash.
+- [Leash Pressure Game](https://youtu.be/iKG89GVOJiM). Reinforce your dog turning around and coming back to you when they hit the end of the leash.
 - [Heel-work Game](https://youtu.be/45lk4_tud9Y). Use a table to help your dog heel with you.
 - Calmness. Reinforce settle and calm in their bed. Add movement away from the enclosure. You can also add handling and distractions. If your dog gets up or starts whining, lower criteria and start again.
 
@@ -109,5 +109,5 @@
 ## Resources
 
 - [Dog Training Reddit Wiki](https://www.reddit.com/r/Dogtraining/wiki/index)
-- [Kikopup Youtube Channel](https://www.youtube.com/user/kikopup)
-- [Zak George's Youtube Channel](https://www.youtube.com/channel/UCZzFRKsgVMhGTxffpzgTJlQ)
+- [Kikopup YouTube Channel](https://www.youtube.com/user/kikopup)
+- [Zak George's YouTube Channel](https://www.youtube.com/channel/UCZzFRKsgVMhGTxffpzgTJlQ)

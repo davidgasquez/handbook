@@ -3,7 +3,7 @@
 - The goal is to create a single, [unified schema across datasets](http://web.archive.org/web/20240720064056/https://docs.cybersyn.com/getting-started/concepts/unified-schema). This schema aims to strike a balance between flexibility to accommodate arbitrarily shaped data along with consistency in core tables.
 - Datasets are built around two concepts: entities and timeseries.
   - Entities are concrete things or objects (a geography, a company, a mortgage application).
-  - Timeseries are abstract measures (ie. statistics) related to an entity and a date.
+  - Timeseries are abstract measures (i.e. statistics) related to an entity and a date.
 - The core tables are:
   - `entities`: Contains the entities that are being tracked. For example, Spain, Madrid, etc.
     - Should be something like `province_index` or `weather_station_index` to be able to join with the timeseries.
@@ -18,12 +18,12 @@
       - `source`: Source of the attribute
       - `frequency`: Frequency of the attribute (daily, monthly, etc.)
       - `measurement_type`: Type of measurement (e.g. nominal, ordinal, interval, ratio, percentage)
-      - Metadata columns;
+      - Metadata columns:
         - `category`: Category of the attribute
         - `namespace`: Namespace of the attribute
         - `tags`: JSON with tags of the attribute?
         - `aggregation_function`: Aggregation function to use when aggregating the attribute
-  - `timeseries`: Timeseries are abstract measures (ie. statistics, metrics) related to an entity and a date. Timeseries are temporal statistics or measures centered around an entity and timestamp. For example, GDP of Spain, population of Madrid, etc. Timeseries are abstract concepts (ie. a measure) rather than a concrete thing.
+  - `timeseries`: Timeseries are abstract measures (i.e. statistics, metrics) related to an entity and a date. Timeseries are temporal statistics or measures centered around an entity and timestamp. For example, GDP of Spain, population of Madrid, etc. Timeseries are abstract concepts (i.e. a measure) rather than a concrete thing.
     - Could be something like `weather_timeseries` to be able to join with the entities.
     - Columns:
       - `variable_id`: Unique identifier for the attribute

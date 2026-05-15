@@ -1,6 +1,6 @@
 # Writing a Roadmap
 
-[Setting direction is one of the most important things you'll do when building a product and company. A clear direction aligns everyone to work toward the same goals](https://web.archive.org/web/20240423211458/https://linear.app/method/roadmap). It helps individuals make daily decisions, teams prioritize projects and all members of your organization feel motivated toward a shared purpose. Without direction, it's harder to work together, know what to focus on and make meaningful progress.
+[Setting direction is one of the most important things you'll do when building a product and company. A clear direction aligns everyone to work toward the same goals](https://web.archive.org/web/20240423211458/https://linear.app/method/roadmap). It helps individuals make daily decisions, teams prioritize projects, and all members of your organization feel motivated toward a shared purpose. Without direction, it's harder to work together, know what to focus on, and make meaningful progress.
 
 Best practices to follow when building and managing a roadmap:
 
@@ -11,7 +11,7 @@ Best practices to follow when building and managing a roadmap:
 - Review regularly
 - Stay flexible
 
-A roadmap needs to have different resolutions (zoom) tuned for different use cases. E.g: User oriented roadmap with linear milestones and monthly or quarterly milestones.
+A roadmap needs to have different resolutions (zoom) tuned for different use cases. E.g: user-oriented roadmap with linear milestones and monthly or quarterly milestones.
 
 ## Process
 
@@ -21,9 +21,9 @@ A roadmap needs to have different resolutions (zoom) tuned for different use cas
   - Vision: What will the world look like when we win?
   - Purpose: What are we fighting for?
 - **Chunk progress into milestones**: Define the incremental targets to hit in order to accomplish the top-level [[Goals]]. What must be true to reach this milestone? On what timeline? With what dependencies? What does this unlock?
-- **Assign projects to milestones**: Fill in key projects that are necessary, nice to have, and out of scope to reach those milestones and bucket them accordingly. Why is each project important to achieve that milestone? Which are highest priority? Do they have any dependencies? Approximate how hard/big is each project? (This likely involves iterating on or shuffling the milestones themselves based on capabilities/effort.)
-- **Iterate iterate iterate**: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you're prioritizing the right work, which gaps or open questions you haven't thought of yet.
-- **Finalize**: Get sign off on this version of the roadmap for the upcoming time window. Present it to cross-functional partners and start using it as a communication device to align effort, priorities, and cross-team information sharing.
+- **Assign projects to milestones**: Fill in key projects that are necessary, nice to have, and out of scope to reach those milestones and bucket them accordingly. Why is each project important to achieve that milestone? Which are highest priority? Do they have any dependencies? Approximate how hard/big each project is. (This likely involves iterating on or shuffling the milestones themselves based on capabilities/effort.)
+- **Iterate, iterate, iterate**: Review this draft with stakeholders to assess whether cross-cutting dependencies can be met, if you're prioritizing the right work, and which gaps or open questions you haven't thought of yet.
+- **Finalize**: Get sign-off on this version of the roadmap for the upcoming time window. Present it to cross-functional partners and start using it as a communication device to align effort, priorities, and cross-team information sharing.
 - **Expose the Roadmap**. It should be easy to view and collaborate on!
 
 ## Resources

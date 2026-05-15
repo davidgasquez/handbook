@@ -1,6 +1,6 @@
 # Public Goods Funding
 
-Public goods are defined as goods that are both non-excludable (it's infeasible to prevent someone from consuming the good) and nonrivalrous (one person's consumption can not reduce another person's consumption of the good). They benefit everyone but are difficult to fund through traditional market mechanisms due to their non-excludable and non-rivalrous nature. Examples include open-source software, scientific research, environmental protection, and community infrastructure.
+Public goods are defined as goods that are both non-excludable (it's infeasible to prevent someone from consuming the good) and non-rivalrous (one person's consumption cannot reduce another person's consumption of the good). They benefit everyone but are difficult to fund through traditional market mechanisms due to their non-excludable and non-rivalrous nature. Examples include open-source software, scientific research, environmental protection, and community infrastructure.
 
 - The fact that public goods are not excludable creates a "free-rider problem", where people are incentivized to enjoy the benefits of the good without paying for it. [What's the point of contributing to a public park if non-contributors can use it too](https://splittinginfinity.substack.com/p/the-public-goods-funding-landscape)?
 - All funding mechanisms involve trade-offs between simplicity, robustness, and theoretical optimality. There is no mechanism that [can simultaneously achieve four desirable criteria](https://www.jstor.org/stable/2298018).
@@ -28,17 +28,17 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - **Budget Balance**. The mechanism generates sufficient revenue to cover its costs or payouts, without running a net deficit.
 - **Coalition-Proofness**. Preventing groups of participants from conspiring to manipulate the mechanism to their advantage.
 - **Provable Participation**. Even if spending should be kept private, users may want to prove their participation in a funding mechanism in order to boost their reputation or as part of an agreement.
-- **Identity and Reputation**. To prevent sybil attacks, some form of identity is needed. If reputation is important, a public identity is preferred. If anonymity is required, zero-knowledge proofs or re-randomizable encryption may be necessary. Reputation is an important incentive to fund public goods. Some form of reputation score or record of participation can be useful for repeated games. These scores can help identify bad actors or help communities coalesce around a particular funding venue. [Identity-free mechanism can also be used](https://victorsintnicolaas.substack.com/p/funding-public-goods-in-identity-free-systems).
+- **Identity and Reputation**. To prevent Sybil attacks, some form of identity is needed. If reputation is important, a public identity is preferred. If anonymity is required, zero-knowledge proofs or re-randomizable encryption may be necessary. Reputation is an important incentive to fund public goods. Some form of reputation score or record of participation can be useful for repeated games. These scores can help identify bad actors or help communities coalesce around a particular funding venue. [Identity-free mechanisms can also be used](https://victorsintnicolaas.substack.com/p/funding-public-goods-in-identity-free-systems).
 - **Verifiable Mechanisms**. Users may want certain guarantees about a mechanism before or after participation, especially if the mechanism being used is concealed. Ex-ante, they may want to upper-bound their amount of spending towards the good, ex-post, they may require proof that a sufficient number of individuals contributed.
 - **Anti-Collusion Infrastructure**. Like secure voting systems, there is a threat of buying votes in a funding mechanism. Collusion can be discouraged by making it impossible for users to prove how they reported their preferences. This infrastructure must be extended to prevent collusion between the 3rd party and the users.
-- **Predictable Schedules**. Participants need to know when are they getting funded.
+- **Predictable Schedules**. Participants need to know when they are getting funded.
 - **Simplicity and Legibility**. The simpler a mechanism (fewer parameters, clear rules, open-source and publicly verifiable execution), the less space there is for hidden privilege, corruption, and overfitting, and the easier it is for people to understand and engage with it.
 - **Anti-Goodhart Resilience**. Any metric used for decisions will be gamed. Mechanisms should assume this, incorporate **feedback loops and error analysis**, and make it easy to update or combine metrics and evaluators when they drift from what really matters.
 - **Plurality and Forkability**. No single mechanism can satisfy all desirable properties in all contexts. Systems should support **multiple evaluators and preference-aggregation methods**, and allow communities to fork and adapt criteria when they disagree.
 - **Composable Data and Evaluation Layers**. Separate **data collection** (attestations about work, usage, dependencies, etc.) from **judgment** (how that data is weighted). Multiple evaluation "lenses" (models, juries, dashboards) should be able to operate on the same shared data structures (graphs, weight vectors).
 - **Exploration vs Exploitation**. Funding mechanisms are optimization processes that tend to exploit known winners. Some budget should be reserved for **exploration of uncertain, high-variance public goods**, not just those that already score well on existing metrics.
 - **Community Feedback and Local Control**. Mechanisms should include channels for participants to flag problems, suggest changes, and adjust evaluation criteria. Small, local experiments with clear consent and ownership are often the safest way to evolve funding systems.
-- **Models Marginal Returns**. A project may be excellent at $20k and wasteful at $200k.
+- **Model Marginal Returns**. A project may be excellent at $20k and wasteful at $200k.
 
 ## Methods
 
@@ -47,7 +47,7 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 The [S-Process (Simulation Process)](https://www.youtube.com/watch?v=jWivz6KidkI) is a collaborative funding algorithm designed to optimize the distribution of resources to public goods. It allows multiple funders to delegate the complexity of grant-making to overlapping groups of trusted "recommenders".
 
 - **Aggregate Information, Not Just Money**. Instead of funders voting with dollars, participants input **Marginal Value Functions (MVFs)**. This creates a "How valuable is the next dollar given to this organization?" curve for each organization.
-- **Delegation to Trusted Recommenders:** Funders often lack the time to evaluate every opportunity, the system allows them to delegate the creation of these value curves to trusted experts. Funders still have the "Final Say". This relieves stress on the advisors (recommenders), allowing them to express honest opinions without the anxiety of being the sole decision-maker.
+- **Delegation to Trusted Recommenders:** Funders often lack the time to evaluate every opportunity, so the system allows them to delegate the creation of these value curves to trusted experts. Funders still have the "final say". This relieves stress on the advisors (recommenders), allowing them to express honest opinions without the anxiety of being the sole decision-maker.
 - **Discourse is Essential:** Numbers cannot replace conversation. The process requires real-time debate where advisors explain *why* they value an organization differently.
 - **Iterated Simulations:** The allocation algorithm is run repeatedly *during* the discussion. Advisors see where the money would go based on their current inputs, discuss the outcome, and adjust their inputs. This turns a "one-shot" game into an iterated cooperative game.
 - **The "Disagreement Matrix":** The system highlights where advisors disagree most (e.g., Advisor A loves Org X, Advisor B hates Org X). Discussion is focused specifically on these disagreements to surface new information.
@@ -64,13 +64,13 @@ Capital concentrates in the hands of those who were repeatedly "right" about whi
 
 ## Reputation
 
-Many public goods funding mechanisms are not immune to Sybil-attacks, [so verifying the identity of participants is crucial](https://victorsintnicolaas.substack.com/p/public-goods-funding-landscape). Additionally, if funding occurs over many rounds, clearly identifying which individuals are free-riding is critical to punishing defection. [Reputation helps solve the 'tragedy of the commons'](https://europepmc.org/article/med/11807552).
+Many public goods funding mechanisms are not immune to Sybil attacks, [so verifying the identity of participants is crucial](https://victorsintnicolaas.substack.com/p/public-goods-funding-landscape). Additionally, if funding occurs over many rounds, clearly identifying which individuals are free-riding is critical to punishing defection. [Reputation helps solve the 'tragedy of the commons'](https://europepmc.org/article/med/11807552).
 
 - Vouch-Based Scoring
   - Each vouch is a simple binary endorsement from your perspective—you either vouch for someone or you don't. No complicated trust levels.
   - Each community can define what "vouching" means to them.
   - [Apply algorithms on top of the decentralized vouch graph](https://maxflow.one/how-it-works) to identify trustworthy participants. Tweak the parameters for your use case.
-  - Communities can reuse and share vouch graph and even combine it with other data sources (e.g., contribution history, social media presence) to create a more robust customized reputation systems.
+  - Communities can reuse and share the vouch graph and even combine it with other data sources (e.g., contribution history, social media presence) to create more robust customized reputation systems.
 - [Portable track records are more useful than a single global score](https://gui.do/post/ai-slop-reputation/). A context-free number like "reputation score: 742" tells you nothing; what should travel is "what you did, where, when, and how the community received it", with each community deciding how to interpret it.
   - You can generate a thousand plausible forum posts. You can't fake two years of helpful contributions that other real people actually engaged with across independent communities.
   - _"Show your work"_ is a better design than public scores, tiers, or ranks. Descriptive activity data is legible to humans, while computed scores are easy to game and drift toward social credit systems.

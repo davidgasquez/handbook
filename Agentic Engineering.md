@@ -13,9 +13,9 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
 - Divide the problem into smaller problems (functions, classes, ...) and solve them one by one. Keep sessions short.
 - [Use Progressive Disclosure](https://www.humanlayer.dev/blog/writing-a-good-claude-md) to ensure that the agent only sees tasks or project-specific instructions when it needs them.
 - [Teach and tell the agents to use the same tool you'd use](https://www.anthropic.com/engineering/claude-code-best-practices) to run and debug code.
-- [Focus on building a rich environment with good and fasts tests, documentation, consistent patterns, and clear feature definitions - this helps both humans and AI work better](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/).
+- [Focus on building a rich environment with good and fast tests, documentation, consistent patterns, and clear feature definitions - this helps both humans and AI work better](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/).
 - [Reduce noise](https://blog.codemine.be/posts/2026/20260222-be-quiet/) in [[Feedback Loops|feedback loops]]. Quiet success output, loud failure output.
-  - Prefer errors-only logs. Disable update banners, spinners, and ANSI color noise, tool-specific flags).
+  - Prefer errors-only logs. Use tool-specific flags to disable update banners, spinners, and ANSI color noise.
 - [You need quick and clear feedback loops](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) (fast tool responses, clean logs, ...).
   - Give them the ability to interactively test the code they are writing too.
 - Use deterministic tools whenever you can. Linters, type checkers, auto-formatters, commit hooks, ...
@@ -34,7 +34,7 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
   - Strong research skills.
   - The ability to ship to a preview environment.
   - An instinct for what can be outsourced (to AI vs what needs human attention).
-  - An good (updated) sense of estimation.
+  - A good (updated) sense of estimation.
 - Some [[programming]] rules for code design from the Unix philosophy help here:
   - Modularity: Write simple parts connected by clean interfaces.
   - Clarity: Clarity is better than cleverness.
@@ -42,7 +42,7 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
   - Simplicity: Design for simplicity. Add complexity only where you must.
   - Transparency: Design for visibility to make inspection and debugging easier.
   - Fold knowledge into data so program logic can be stupid and robust.
-  -  When a program has nothing surprising to say, it should say nothing.
+  - When a program has nothing surprising to say, it should say nothing.
   - When you must fail, fail noisily and as soon as possible.
   - Prototype before polishing. Get it working before you optimize it.
   - Distrust all claims for "one true way". We are all figuring this out and "this" is changing every day.
@@ -61,7 +61,7 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
   - If a human gets lost onboarding to your codebase, an LLM is definitely going to be lost.
 - Design small, isolated systems. You can check a static website looks great easily. You can check a small API design works well. Compose black boxes into larger systems. Individual boxes can be rewritten in other languages, removed, replaced easily. You can measure them individually.
 - Using AI as a team is very different than using AI for you.
-- Model behaviour is not deterministic, intuition for one model doesn't transfer to other models, even within the same family or reasoing level, intuitions for one coding harness does not transfer to other harnesses, and so on.
+- Model behaviour is not deterministic, intuition for one model doesn't transfer to other models, even within the same family or reasoning level, intuitions for one coding harness does not transfer to other harnesses, and so on.
 - [Software is still hard](https://x.com/badlogicgames/status/2017008550111773098). It gets harder if you trick yourself into thinking the agents can take on the hard parts.
 - Tools come in three flavors: context retrieval (finding information), feedback loops (verifying actions), and planning (structuring work over longer horizons).
 - [Write skills for your product](https://x.com/karpathy/status/2026360908398862478) so agents know how to use it properly. Distribute them.

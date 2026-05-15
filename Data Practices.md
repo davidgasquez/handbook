@@ -4,7 +4,7 @@ Some useful practices to keep in mind when working in a data team. They can be p
 
 ## Data Request Template
 
-Inspired by [Caitlin Hudon Intake Form for Data Requests](https://caitlinhudon.com/2020/09/16/data-intake-form/).
+Inspired by [Caitlin Hudon's Intake Form for Data Requests](https://caitlinhudon.com/2020/09/16/data-intake-form/).
 
 ### Why?
 
@@ -18,7 +18,7 @@ Inspired by [Caitlin Hudon Intake Form for Data Requests](https://caitlinhudon.c
 
 - What kind of deliverable would be most helpful for your request?
 - Will you need this data again in the future?
-- Which stats is this going to change or which action will be taken based on this data and by whom?
+- Which stats will this change or which action will be taken based on this data and by whom?
   - How can we measure our progress/success for each step?
   - What happens if we don't hit the target?
 - What is the real problem you're trying to solve?
@@ -27,7 +27,7 @@ Inspired by [Caitlin Hudon Intake Form for Data Requests](https://caitlinhudon.c
 - What decision will you make or action will you take with this data?
 - [What are we trying to improve](https://twitter.com/ergestx/status/1758538405695086829)?
 - **Request Description**
-- Do you know where is the related data?
+- Do you know where the related data is?
 - What time period do you care about?
 - Can this analysis be done in our current BI tools?
   - If yes, do you have a starting link?
@@ -47,7 +47,7 @@ Inspired by [Caitlin Hudon Intake Form for Data Requests](https://caitlinhudon.c
   1. Notable trends.
   2. Watching close.
   3. Business as usual.
-- Make people talk and explore their metrics
+- Make people talk and explore their metrics.
 
 ## Data Platform UX Survey
 
@@ -63,12 +63,12 @@ We need to know what works, what doesn't and what people are using.
 - Do you trust the metrics/calculations presented?
   - Which ones do you trust?
   - Which ones do you not trust?
-- Do you ever get confused about what a metric or data point represent?
+- Do you ever get confused about what a metric or data point represents?
 - Do you know where to go for help with data questions?
 - Do you feel like our data approach hinders your job performance?
 - Are you happy with our data setup?
-- Can these two resources request be merged with an existing artifact(Dashboard/Cohort)?
-- Does X resource needs to be tagged as "curated"? Does Y needs to be deprecated?
+- Can these two resource requests be merged with an existing artifact (Dashboard/Cohort)?
+- Does X resource need to be tagged as "curated"? Does Y need to be deprecated?
 
 ## Sharing Data Insights
 

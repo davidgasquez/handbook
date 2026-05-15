@@ -7,7 +7,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - The more you can decompose, the more innovation you'll drive.
   - The best code is no code, or code you don't have to maintain.
 - **Design for simplicity**.
-  - Do the [simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/). Start with the absolute minimum viable implementation and only add complexity when new requirements absolutely demand it (e.g: UNIX tools remain incredibly powerful and efficient for "Big Data").
+  - Do the [simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/). Start with the absolute minimum viable implementation and only add complexity when new requirements absolutely demand it (e.g: Unix tools remain incredibly powerful and efficient for "Big Data").
   - Good system design looks "boring". Impressive complexity often signals over-design. Start simple and evolve.
   - Benefits of simplicity: ease of understanding, ease of change (improvement), ease of debugging, flexibility. [The goal of software design is to create chunks or slices that fit into a human mind](https://mobile.twitter.com/KentBeck/status/1354418068869398538). The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes.
   - We are simple apes and we like simple stone tools.
@@ -26,7 +26,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - If you can't easily explain why something is difficult, then it's incidental complexity, which is probably worth addressing.
   - Reuse [patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns).
   - The number of moving pieces on average doubles every 18-24 months. No one fully understands [[Systems]].
-  - [There are different notions of simplicity](https://vitalik.eth.limo/general/2018/11/25/central_planning.html) (Kolmogorov complexity vs VC Dimension). What is "simple" to describe or appears to have few knobs in one language for describing it is devilishly complex in another, and vice versa.
+  - [There are different notions of simplicity](https://vitalik.eth.limo/general/2018/11/25/central_planning.html) (Kolmogorov complexity vs VC dimension). What is "simple" to describe or appears to have few knobs in one language for describing it is devilishly complex in another, and vice versa.
   - Most performance wins come from removing work, not adding cleverness.
   - [Good taste is writing code that looks so simple, everyone else says "anyone could have written that!"](https://news.ycombinator.com/item?id=45411143)
 - **Do one thing and do it well**.
@@ -52,28 +52,28 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Data is only useful as long as it's being used**.
   - Flat files help ensure that data is usable for the longest possible time.
   - For complex data structures where plain text really isn't appropriate, use a structured text format instead. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. [Data structures, not algorithms, are central to programming](https://users.ece.utexas.edu/~adnan/pike.html).
-- **A programmer who can't reuse other programs is condemned to re-write them**.
+- **A programmer who can't reuse other programs is condemned to rewrite them**.
   - Use software leverage to your advantage.
   - Many programmers have only a superficial understanding of the importance of reusable code modules.
   - [Code isn't just meant to be executed. Code is also a means of [[Communication]] across a team, a way to describe to others the solution to a problem](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d). Good writing skills often correlate with good thinking and programming skills. [Sharing knowledge through writing (blogs, talks, documentation, open source) clarifies your thinking and helps others](https://endler.dev/2025/best-programmers/).
 - **Silence is golden**.
   - A silent command is often more usable, providing the function asked for and nothing more.
 - **Think parallel**.
-  - Most tasks are composed of sub-tasks which may be attacked in parallel. This also applies to user interactions.
+  - Most tasks are composed of subtasks which may be attacked in parallel. This also applies to user interactions.
   - Parallelism can save a great deal of time and frustration.
 - **The sum of the parts is greater than the whole**.
   - A large application built from a collection of smaller programs is more flexible and hence more useful than a single large program.
   - The same functional capability may exist in both solutions, but the collection-of-small-programs approach is the more forward-looking of the two.
-- [The computer is a machine, but a codebase is an organism](http://web.archive.org/web/20240525224151/https://meltingasphalt.com/a-codebase-is-an-organism/). The organic nature of code manifests itself in the dual forces of growth and decay. It also suggests that you should know your code smells. These smells won't be causing problems during execution, on the machine. Instead, it's going to cause problems during [[Evolution]] of the codebase.
+- [The computer is a machine, but a codebase is an organism](http://web.archive.org/web/20240525224151/https://meltingasphalt.com/a-codebase-is-an-organism/). The organic nature of code manifests itself in the dual forces of growth and decay. It also suggests that you should know your code smells. These smells won't be causing problems during execution, on the machine. Instead, it's going to cause problems during the [[Evolution]] of the codebase.
 - **Look for the 80% solution**.
   - Doing 100% of anything is difficult. [Don't focus on perfection](https://youtu.be/pYIho556BS8).
-  - Focusing in the 80% is far more efficient and cost-effective. "Better" is the enemy of "good".
+  - Focusing on the 80% is far more efficient and cost-effective. "Better" is the enemy of "good".
   - Handle the 80% and let the 20% fend for themselves.
   - [[Pareto Principle|80% of the impact comes from 20% of the work]]. If shitty code solves the problem, it's not shitty code.
   - [Software is never finished, only abandoned](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/).
-- **Treat all the data as an [append only event log](https://www.youtube.com/watch?v=ZQ-MdKj3BjU)**.
+- **Treat all the data as an [append-only event log](https://www.youtube.com/watch?v=ZQ-MdKj3BjU)**.
   - Use a central log where consumers can subscribe to the relevant events.
-  - Having a central place ([the log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)) for continuous events make easy to create a stream of data to process and sets a source of truth.
+  - Having a central place ([the log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)) for continuous events makes it easy to create a stream of data to process and sets a source of truth.
   - A [log improves coordination in distributed systems](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/).
 - **[Reduce cognitive load](https://minds.md/zakirullin/cognitive)**.
   - Working memory is tiny (≈4 chunks). Design code, tests, and APIs so a change fits in one mental model at a time.
@@ -88,22 +88,22 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - [It's difficult (if not impossible) to design systems that have perfect consistency, perfect availability, incredibly low latency, and incredibly high throughput, all at the same time](https://jazco.dev/2025/02/19/imperfection/).
   - Have [sensible defaults](https://koaning.io/posts/sensible-defaults/).
 - **Keep the [[Feedback Loops|iteration loop]] short**.
-  - Invest in tools to [[Automation|automate]] and improve the development cycle (CI, CD). Decreasing build times a few seconds actually saves a lot of time over time. Deploy often to make the loop end to end. If you need to do something manually more than twice, then write a tool for the third time.
+  - Invest in tools to [[Automation|automate]] and improve the development cycle (CI, CD). Decreasing build times a few seconds actually saves a lot of time over time. Deploy often to make the loop end-to-end. If you need to do something manually more than twice, then write a tool for the third time.
 - **Avoid implicit rules**.
   - Implicit rules should always be made explicit and shared with others or automated. Ideally, all processes should be written as code, stored, and versioned. Minimize the cognitive load imposed on your users.
-  - The best way to understand something is to break it. The second best way is to rewrite it from scratch without using any external libraries.
+  - The best way to understand something is to break it. The second-best way is to rewrite it from scratch without using any external libraries.
 - **Make APIs boring**.
   - [Designing APIs is a balance between familiarity and flexibility](https://www.seangoedecke.com/good-api-design/).
   - Don't break userspace.
   - The success of an API depends entirely on the product or service it enables.
   - Your API should support simple API keys for authentication, because many of your users will not be professional engineers.
   - Requests that take action (particularly high-stakes action like payments) should include some kind of idempotency key to make retries safe.
-  - Your API will always be a source of incidents. Make sure you have rate limits and killswitches in place.
+  - Your API will always be a source of incidents. Make sure you have rate limits and kill switches in place.
 
-Like any other field, the world of Software Development has some interesting and famous "laws". These are some of them I've found interesting, funny or worth knowing:
+Like any other field, the world of software development has some interesting and famous "laws". These are some of them I've found interesting, funny or worth knowing:
 
 - [Laws of Software Development](http://www.globalnerdy.com/2007/07/18/laws-of-software-development/)
-- [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
+- [Famous Laws of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
 - [Laws of Computing](https://gist.github.com/sorahn/905f67acf00d6f2aa69e74a39de65941)
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws) ([website](https://hacker-laws.com/))
 - [Engineering Axioms](https://martinrue.com/my-engineering-axioms/)
@@ -118,6 +118,6 @@ Like any other field, the world of Software Development has some interesting and
 - [Documentation Guide](https://www.writethedocs.org/guide/#)
 - [Formatting your README](https://guides.github.com/features/wikis/#Formatting-a-readme)
 - [Open Source Guides](https://opensource.guide/)
-- [Github Badges](https://shields.io/)
+- [GitHub Badges](https://shields.io/)
 - [Icons and Photos For Everything](https://thenounproject.com/), [other illustrations](https://github.com/sw-yx/spark-joy#illustrations) and [color toolbox](https://hue.tools/).
-- [Command Line Interface Guidelines](https://clig.dev/) and [12 factors CLI apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) and [Learnings after building CLI apps](https://simonwillison.net/2023/Sep/30/cli-tools-python/).
+- [Command Line Interface Guidelines](https://clig.dev/) and [12-factor CLI apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) and [Learnings after building CLI apps](https://simonwillison.net/2023/Sep/30/cli-tools-python/).

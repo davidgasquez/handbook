@@ -32,11 +32,11 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 - Modular.
   - Have some kind of state (main character, currency, ...) and multiple shards to play. Each shard could implement a different rule set or genre.
   - Use AT Protocol.
-  - [[Modularity]] can also be implemented in the graphic side. You can choose the graphics pack you like just like another cosmetic similar to Rimworld or Dwarf Fortress.
+  - [[Modularity]] can also be implemented on the graphics side. You can choose the graphics pack you like just like another cosmetic similar to Rimworld or Dwarf Fortress.
   - Support external apps for certain tasks like trading.
-- Player Driven.
+- Player-driven.
   - Everything is made by players and can be traded.
-  - Could use real life currency and the developers only get a fee for each trade?
+  - Could use real-life currency and the developers only get a fee for each trade?
   - Groups can take control of a region and build new things there.
 - Evolutionary.
   - Systems (items, skills, monsters, ...) could be affected by evolutionary processes or driven by [[Artificial Intelligence Models]]
@@ -44,7 +44,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
   - Monsters inside an area could develop resistance against what's killing them, forcing a change of metagame strategies.
   - Quests rewards will also change dynamically like a market.
 - GPS.
-  - Locations in the real world would be named similarly to the real place but with a twist given by a Neural Network.
+  - Locations in the real world would be named similarly to the real place but with a twist given by a neural network.
 - Asynchronous.
   - Players can play at their own pace. Setup equipment and combat strategies that will be executed when you're offline.
   - Builds feel like “programming a character,” not piloting one.
@@ -57,20 +57,20 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
   - Group decisions matter more than individual optimization.
   - Big enemies and events are defeated through accumulated group contributions.
 - Roguelike variability per run.
-  - Each run offers random modifiers that alter combat behavior (Hades like).
+  - Each run offers random modifiers that alter combat behavior (Hades-like).
   - Builds must adapt dynamically rather than rely on a single optimal path.
 
 ### Unconventional Changelogs
 
-- What if each city or town had a changelog? What changed in the last _release_? Did it change a street direction or opened a new commerce?
+- What if each city or town had a changelog? What changed in the last _release_? Did it change a street direction or open a new commerce?
 - What if stores had a changelog? That'd mean price history for each product and also new products would be easier to find.
 - With [[Artificial Intelligence Models]], we could generate changelogs for "anything".
 
 #### Structured Company Changelog
 
-- Create and maintain a _Company Changelog_ in a table (structured and parse-able format) so it can be fed to something like Mixpanel or joined to other datasets to do analysis.
+- Create and maintain a _Company Changelog_ in a table (structured and parseable format) so it can be fed to something like Mixpanel or joined to other datasets to do analysis.
 - Add data from known sources:
-  - Github PRs
+  - GitHub PRs
   - OKRs
   - Releases
   - Holidays
@@ -92,7 +92,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 ### City Discovery
 
 - Create an activity similar to a gymkhana mixed with escape room. Players have to solve riddles and puzzles while learning about the city and its history.
-- There might be digital and real life puzzles.
+- There might be digital and real-life puzzles.
 - Clues might be scattered across many checkpoints with actors as "NPC"s to guide the players.
 - For big and closed areas, set up a Photo Battle Royale. You're out in a park. Make a group chat and eliminate people by making photos of them. The goal is to collect trophies without being eliminated.
 
@@ -105,8 +105,8 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 
 Would love to work on [a company/cooperative focused on Open Data](https://github.com/datonic) with the following ideals:
 
-- Small core team ([5-15 persons](https://x.com/kepano/status/1706690014657274201))
-- Remote-first, Asynchronous communications first
+- Small core team ([5-15 people](https://x.com/kepano/status/1706690014657274201))
+- Remote-first, asynchronous communications first
 - No managers or PMs
 - Transparent decision-making
 - Profit-sharing among the team
@@ -120,20 +120,20 @@ Would love to work on [a company/cooperative focused on Open Data](https://githu
 
 ### Decentralized Kaggle
 
-There are many datasets that, while being public goods, are either hard to get or directly not available to the public. The work needed to curate, distribute, and publish them is not well supported in almost all ecosystems. E.g: Dune (closed and very expensive) is the main data layer for Blockchains (open and permissionless). Teams spend lots of time and engineering on delivering high-quality datasets. **Is there a way we can incentivize this kind of work**?
+There are many datasets that, while being public goods, are either hard to get or directly not available to the public. The work needed to curate, distribute, and publish them is not well supported in almost all ecosystems. E.g: Dune (closed and very expensive) is the main data layer for blockchains (open and permissionless). Teams spend lots of time and engineering on delivering high-quality datasets. **Is there a way we can incentivize this kind of work**?
 
 In the blockchain data example, everyone is forced to run `cryo` because there isn't a matchmaking market for data. Everyone has to repeat the same work as sharing the data is not rewarded.
 
-The idea would be to have a Kaggle style competition that can incentivize the creation/curation of public good datasets.
+The idea would be to have a Kaggle-style competition that can incentivize the creation/curation of public-good datasets.
 
 - The host of the competition gathers samples from multiple sources and creates a small "test dataset".
 - Participants don't know which rows are being evaluated on and are incentivized to submit accurate values for all the rows.
 - A distance metric is used to measure accuracy and value of the submitted datasets.
-- With enough participants, the final dataset could be a function of the best submissions (e.g: a vote where each row is decided as the most common submitted rows from top participants or the average of them)
-- Could also be another twist on Kaggle, mixing the ML competition aspects with Prediction Markets (e.g: polymarket).
+- With enough participants, the final dataset could be a function of the best submissions (e.g: a vote where each row is decided as the most common submitted row from top participants or the average of them)
+- Could also be another twist on Kaggle, mixing the ML competition aspects with prediction markets (e.g: Polymarket).
 - [Fix the ML model, encourage participants to gather the data and measure based on the impact on the final metric](https://www.dataperf.org/training-set-acquisition).
 - Similar to Numerai, participants send submissions and stake some amount of money.
 - The best submissions are selected and the money is distributed among the participants depending on their stake.
 - For each task, rewards are given per row/prediction, not per model. This encourages a [[Plurality]] of models to be used that specialize in different tasks.
-- Pluggable Identity with ENS, DID, ...
+- Pluggable identity with ENS, DID, ...
 - Infrastructure for [infofinance](https://vitalik.eth.limo/general/2024/11/09/infofinance.html).

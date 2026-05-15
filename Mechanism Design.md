@@ -6,7 +6,7 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 
 - Software is eating Mechanism Design. Incentives can be encoded in [[blockchain|blockchains]].
 - The simpler a mechanism is, and the fewer parameters a mechanism has, the less space there is to insert hidden privilege for or against a targeted group. If a mechanism has fifty parameters that interact in complicated ways, then it's likely that for any desired outcome you can find parameters that will achieve that outcome.
-  - Fewer knobs makes it more resistant to overfit (to your world view and use case) and corruption.
+  - Fewer knobs makes it more resistant to overfit (to your worldview and use case) and corruption.
   - The best engineering designs are those that remove things and make them implicit.
   - Remember to keep fast [[Feedback Loops]] in mind when designing mechanisms.
 - Mechanism design flips game theory: choose rules (outcomes & payments) so strategic agents reach desired outcomes.
@@ -17,12 +17,12 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - Top Trading Cycles yields Pareto-efficient, individually rational, strategyproof allocations in exchange problems.
 - Most bits of information in the output of a mechanism should come from the participants' inputs, not from hard-coded rules inside of the mechanism itself.
 - A good mechanism is also a mechanism that actually does solve the problems that we care about. If it can't be done completely neutrally, it doesn't mean it should not be done at all.
-- Any mechanism that can help genuinely under-coordinated parties coordinate will, without the right safeguards, also help already coordinated parties (such as many accounts controlled by the same person) [over-coordinate](https://vitalik.eth.limo/general/2019/04/03/collusion.html) with potential ways to "do wrong" (e.g: extract money from the system).
-- You can increase mechanism complexity if you trade it off for identity or collusion resistance. If you figure out a way to make it the mechanism identity resistant then, it'll support more complex setups.
+- Any mechanism that can help genuinely under-coordinated parties coordinate will, without the right safeguards, also help already-coordinated parties (such as many accounts controlled by the same person) [over-coordinate](https://vitalik.eth.limo/general/2019/04/03/collusion.html) with potential ways to "do wrong" (e.g: extract money from the system).
+- You can increase mechanism complexity if you trade it off for identity or collusion resistance. If you figure out a way to make the mechanism identity-resistant, it'll support more complex setups.
 - [Truthtelling games](https://jonathanwarden.com/truthtelling-games/) can incentivize honesty through coordination games where participants win by giving the same answer as others, with truth serving as a powerful Schelling point (truthtelling is the winning strategy only if everybody else tells the truth). Information elicitation mechanisms can get people to reveal private/subjective information truthfully even without verification.
-- Some of the interesting properties of a mechanism are; local/bottom up decision making, can be combined in different layers (horizontal / vertical), and [[Modularity|modularity]].
+- Some of the interesting properties of a mechanism are: local/bottom-up decision-making, can be combined in different layers (horizontal / vertical), and [[Modularity|modularity]].
 - Mechanisms should preserve human agency instead of replacing it.
-- The best mechanism design work on real life environments:
+- The best mechanism designs work in real-life environments:
   - Low-trust
   - Adversarial behavior
   - Disagreement
@@ -57,9 +57,9 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - **Fork-and-exit**. Make systems easy to split so minority users can counter-coordinate against cartels.
 - **Quadratic Mechanisms**. [Funding](https://vitalik.eth.limo/general/2019/12/07/quadratic.html) and voting that make influence proportional to square root of resources, reducing plutocracy.
 - **Prediction and Decision Markets (Futarchy)**. ["Vote values, bet beliefs"](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) - conditional markets choose policies that maximize agreed-upon metrics.
-- **Distilled-Human-Judgement Markets**. A jury scores a small sample, open AI/human traders supply full answers, rewards fit; scales expertise cheaply.
-- **Engine-and-steering-wheel pattern**. Open competition of AI "engines" acts under a simple, credibly-neutral rule-set set and audited/reinforced by humans.
-- **Research Augmented Bonding Curves (ABCs) / Curation Markets**. Automated market makers that route fees to upstream dependencies based on usage.
+- **Distilled-Human-Judgment Markets**. A jury scores a small sample, open AI/human traders supply full answers, rewards fit; scales expertise cheaply.
+- **Engine-and-steering-wheel pattern**. Open competition of AI "engines" acts under a simple, credibly neutral rule set and is audited/reinforced by humans.
+- **Research-Augmented Bonding Curves (ABCs) / Curation Markets**. Automated market makers that route fees to upstream dependencies based on usage.
 - **Information-Elicitation without Verification**. [Peer-prediction mechanisms](https://jonathanwarden.com/information-elicitation-mechanisms/), [Bayesian Truth Serum](https://www.science.org/doi/10.1126/science.1102081), and other techniques to get truthful data from subjective evaluation.
 - **Token-Curated Registries (TCRs)**. Stakeholders deposit tokens to curate lists; challengers and voters decide on inclusions, with slashing/redistribution to discourage bad entries.
 - **Deliberative protocols**. [Structured discussion processes](https://jonathanwarden.com/deliberative-consensus-protocols/) that surface information before voting.
@@ -73,7 +73,7 @@ A mechanism is a tool that takes in inputs from multiple people, and uses these 
 - **Streaming/Continuous Funding** - Instead of discrete rounds, continuous flows based on current evaluation state. Reduces volatility and gaming of evaluation periods.
 - **Liquid Democracy** - Delegation of evaluation power to trusted experts, revocable at any time. Balances expertise with democratic control.
 - **Threshold Cryptography/Secret Sharing** - For private evaluation scores that only become public when aggregated. Prevents anchoring and collusion during evaluation.
-- **Augmented Bonding Curves with Vesting** - Time-locked rewards that vest based on continued positive evaluation over time, aligning long-term incentives
+- **Augmented Bonding Curves with Vesting** - Time-locked rewards that vest based on continued positive evaluation over time, aligning long-term incentives.
 - **Multi-armed Bandits** - Adaptive mechanism selection algorithms that balance exploration and exploitation. Dynamically choose between evaluation mechanisms based on historical performance and context to optimize for both learning and effectiveness.
 - **Privacy Pools** - Systems that maintain participant privacy while excluding provably malicious actors. Allow honest participants to prove non-membership in bad actor sets without revealing their identity.
 - **Reinforcement Learning for Meta-Evaluation** - Use RL to evolve evaluation mechanisms through trial and error. The system learns which evaluation approaches work best in different contexts by treating mechanism selection as a sequential decision problem.

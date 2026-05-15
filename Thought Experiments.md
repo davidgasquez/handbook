@@ -1,11 +1,11 @@
 # Thought Experiments
 
-> A thought experiment is a peek into the counterfactual world
+> A thought experiment is a peek into the counterfactual world.
 
 A thought experiment is a device with which one performs an intentional, structured process of intellectual deliberation in order to speculate, within a specifiable [[Problem Solving|problem domain]], about potential consequences (or antecedents) for a designated antecedent (or consequent).
 
 - Thought experiments enable us to explore for the purpose of thinking. They reveal our instinctive knowledge, allow us to predict implications and outcomes, and anticipate problems.
-- You have to compare your reasoning to the way you _would have_ reasoned in a counterfactual world, a world in which your motivations were different—would you judge that politician's actions differently if he was in the opposite party?  Would you consider that study's methodology sound if its conclusion supported your side? Try to _actually imagine_ the counterfactual scenario. Don't simply formulate a verbal question for yourself. Conjure up the counterfactual world, place yourself in it, and observe your reaction.
+- You have to compare your reasoning to the way you _would have_ reasoned in a counterfactual world, a world in which your motivations were different—would you judge that politician's actions differently if he was in the opposite party? Would you consider that study's methodology sound if its conclusion supported your side? Try to _actually imagine_ the counterfactual scenario. Don't simply formulate a verbal question for yourself. Conjure up the counterfactual world, place yourself in it, and observe your reaction.
 - Thought experiments on their own can't tell you what's true or fair or what decision you should make. But they allow you to catch your brain in the act of motivated reasoning, and take that into account as you work to figure out what's true.
 
 ## Useful Thought Experiments
@@ -22,8 +22,8 @@ These thought experiments are useful for evaluating your beliefs and reasoning. 
 
 - [Experience Machine](https://en.m.wikipedia.org/wiki/Experience_machine).
 - [The iPhone Thought Experiment](https://waitbutwhy.com/table/iphone-thought-experiment).
-- You can clone yourself for 100$. How many times would you do it?
+- You can clone yourself for $100. How many times would you do it?
 - Is dying to Russian roulette an accident or a suicide?
-- Cryonics
-  - Is like getting to a hospital in the future
+- Cryonics.
+  - Is like getting to a hospital in the future.
   - What if you wake up in a dystopian future?

@@ -2,20 +2,20 @@
 
 ## Data Warehouses
 
-- [Clickhouse](https://github.com/ClickHouse/ClickHouse)
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse)
 - [Seafowl](https://github.com/splitgraph/seafowl)
-- [Risingwave](https://github.com/risingwavelabs/risingwave)
+- [RisingWave](https://github.com/risingwavelabs/risingwave)
 - [Databend](https://github.com/datafuselabs/databend)
 
 ## Data Tracking
 
 - [Jitsu](https://jitsu.com/)
-- [Rudderstack](https://www.rudderstack.com/)
+- [RudderStack](https://www.rudderstack.com/)
 - [Snowplow Analytics](http://web.archive.org/web/20220824172020/https://snowplowanalytics.com/)
 
 ## Business Intelligence
 
-- [Posthog](https://posthog.com/)
+- [PostHog](https://posthog.com/)
 - [Lightdash](https://www.lightdash.com/)
 - [Metabase](https://www.metabase.com/)
 - [Evidence](https://www.evidence.dev/)
@@ -34,7 +34,7 @@
 - [CloudQuery](https://www.cloudquery.io/)
 - [Vector](https://vector.dev)
 - [Cloudfuse](https://github.com/cloudfuse-io)
-- [Flow](https://github.com/estuary/flow). Based on [Gazzette](https://github.com/gazette/core).
+- [Flow](https://github.com/estuary/flow). Based on [Gazette](https://github.com/gazette/core).
 
 ## Orchestrators
 
@@ -45,7 +45,7 @@
 
 - [Supabase](https://supabase.io/)
 
-## Feature Flag
+## Feature Flags
 
 - [Flagsmith](https://flagsmith.com/)
 - [Unleash](https://www.getunleash.io/)
@@ -53,4 +53,4 @@
 
 ---
 
-More at the [`awesome-oss-alternatives` repository](https://github.com/RunaCapital/awesome-oss-alternatives), [twitter](https://twitter.com/johnrushx/status/1706424446205022294), [`tools-for-makers` repository](https://github.com/MarsX-dev/tools-for-makers#open-source-alternatives-to-xxx), and my [Open Source Stack GitHub Curated List](https://github.com/stars/davidgasquez/lists/open-source-stack)
+More at the [`awesome-oss-alternatives` repository](https://github.com/RunaCapital/awesome-oss-alternatives), [Twitter](https://twitter.com/johnrushx/status/1706424446205022294), [`tools-for-makers` repository](https://github.com/MarsX-dev/tools-for-makers#open-source-alternatives-to-xxx), and my [Open Source Stack GitHub Curated List](https://github.com/stars/davidgasquez/lists/open-source-stack).

@@ -32,8 +32,8 @@
 
 ## Resources
 
-- [Conventional Commits](https://www.conventionalcommits.org/). A specification for adding human and machine readable meaning to commit messages.
+- [Conventional Commits](https://www.conventionalcommits.org/). A specification for adding human- and machine-readable meaning to commit messages.
 - [Conventional Comments](https://conventionalcomments.org/). Comments that are easy to grok and grep.
 - [Semantic Pull Requests](https://github.com/zeke/semantic-pull-requests). Let the robots take care of the semantic versioning.
-- [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog). Generate changelogs and release notes from a project's commit messages and metadata
+- [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog). Generate changelogs and release notes from a project's commit messages and metadata.
 - [Gitmoji](https://gitmoji.dev/). An emoji guide for your commit messages.

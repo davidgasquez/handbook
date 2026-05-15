@@ -5,9 +5,9 @@
 - These are relatively informal documents that the primary author or authors of a software system or application create before they embark on the coding project. If code is the bricks and mortar, then these docs are the blueprints.
 - Short specs are more likely to be read. The purpose of a spec is to briefly communicate the "why", "what" and "how" of the project to the rest of the team. Ideally these short documents force teams to scope out work so priorities are clear and teams avoid building the wrong thing.
   - [The longer your document is, the more likely people will only read the comments and not the body.](https://twitter.com/hamiltonulmer/status/1562817324184440832)
-- A [[Technical Specifications]] forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
+- A [[Technical Specifications|technical specification]] forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
 - It's hard to make technical decisions while remote. [Build a Proposal Culture](https://web.archive.org/web/20220925011031/https://www.hamiltonulmer.com/writing/building-a-proposal-culture) to enable effective distributed technical decision making via [[Writing]] and collecting [[Feedback]] on a written document in an inclusive, async-friendly way.
-- Even if no one else reads them, they force you to clarify my thinking before you start the (more expensive) process of implementation.
+- Even if no one else reads them, they force you to clarify your thinking before you start the (more expensive) process of implementation.
 - Design docs fulfill the following functions in the software development life-cycle:
   - Early identification of design issues when making changes is still cheap.
   - Achieving consensus around a design in the organization.
@@ -26,14 +26,14 @@
 - In many docs a diagram can be useful.
 - The steps in the life-cycle of a design document are: Create, Iterate, Review, Implement, Iterate and Learn.
 - [The RFC and feedback should be posted publicly. Everyone can join the discussion. The goal is to include as many people as possible to access more points of view and spread the knowledge simultaneously](https://candost.blog/how-to-stop-endless-discussions/).
-- [Structure your design docs with clear organization where every sentence flows obviously from the previous ones](https://grantslatton.com/how-to-design-document). Each paragraph should represent a single, clear idea. Model the reader's current understanding and guide them to your perspective by anticipating and preemptively addressing potential objections.
-- [Ruthlessly edit design docs to reduce length by ~30%](https://grantslatton.com/how-to-design-document). Use short, focused paragraphs that can be summarized in one sentence. Move complex calculations and supplementary details to an appendix to keep the main document immediately comprehensible.
+- [Structure your design docs with clear organization where every sentence flows obviously from the previous ones](https://web.archive.org/web/20260216140108/https://grantslatton.com/how-to-design-document). Each paragraph should represent a single, clear idea. Model the reader's current understanding and guide them to your perspective by anticipating and preemptively addressing potential objections.
+- [Ruthlessly edit design docs to reduce length by ~30%](https://web.archive.org/web/20260216140108/https://grantslatton.com/how-to-design-document). Use short, focused paragraphs that can be summarized in one sentence. Move complex calculations and supplementary details to an appendix to keep the main document immediately comprehensible.
 - The process brings accountability. Whoever writes the proposal should be kept accountable. When people know that they will be accountable, they tend to approach more carefully and consider different aspects seriously. Ways to hold yourself and others accountable for showing your work:
   - Start by stating the problem you're trying to solve and why.
   - Enumerate what your goals were and what principles you followed.
   - Communicate not just what, but how, and why the decision came to be.
   - Link to any source materials or prior art that you used to make the decision.
-  - Include what alternatives you evaluated and why they were ultimately dismissed
+  - Include what alternatives you evaluated and why they were ultimately dismissed.
   - If it's not apparent, explain who was involved with the decision along with their roles.
   - Set expectations around opportunities for feedback, improvement, or participation, if any.
   - Explain the state of the decision (e.g., final, proposed), and when it will be revisited, if ever.

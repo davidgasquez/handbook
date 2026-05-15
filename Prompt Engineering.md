@@ -11,7 +11,7 @@
 - Describe the problem very clearly and effectively.
 - Make the model ask you more questions to refine the ideas.
 - If you want to force some "reasoning", ask something like "[is that a good suggestion?](https://news.ycombinator.com/item?id=42894688)" or "propose a variety of suggestions for the problem at hand and their trade-offs".
-- Add relevant context to the prompt. Context can be external docs, a small pseudocode code example, etc. Adding lots of context can confuse the model, so be careful!
+- Add relevant context to the prompt. Context can be external docs, a small pseudocode example, etc. Adding lots of context can confuse the model, so be careful!
 - ["Prompt engineering"](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) will have a large impact on the usefulness of an agent.
 - Follow [Prompt Engineering Guide](https://www.promptingguide.ai/), [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering), and [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api). Also [some more on GitHub](https://github.com/PickleBoxer/dev-chatgpt-prompts).
 - Learn from [leaked System Prompts](https://matt-rickard.com/a-list-of-leaked-system-prompts).

@@ -1,6 +1,6 @@
 # Pairwise Comparisons
 
-Pairwise comparisons are any processes of comparing entities in pairs to judge which of each entity is preferred, or has a greater amount of some quantitative property, or whether or not the two entities are identical. They are useful when aggregating human preferences.
+Pairwise comparisons are any process of comparing entities in pairs to judge which entity is preferred, has a greater amount of some quantitative property, or whether or not the two entities are identical. They are useful when aggregating human preferences.
 
 ## Why Pairwise
 
@@ -23,8 +23,8 @@ Pairwise comparisons are any processes of comparing entities in pairs to judge w
 - There are many aggregation/eval rules; [Bradley-Terry](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model), [Huber in log-space](https://en.wikipedia.org/wiki/Huber_loss), [Brier](https://en.wikipedia.org/wiki/Brier_score), ...
 - Converting pairs into scores or rankings is standard; start with Elo/Bradley-Terry (or crowd-aware variants) before custom models.
 - Use robust methods (crowd BT, hierarchical BT, [Bayesian variants](https://erichorvitz.com/crowd_pairwise.pdf)) to correct annotator bias and uncertainty.
-- Expert jurors can be inconsistent, biased, and expensive. [Large graphs of comparisons](https://arxiv.org/pdf/1505.01462) are needed to tame variance. You can estimate how many pairwise comparisons are needed to make raking significant.
-- You can report accuracy/Brier by using [bootstrap](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)).
+- Expert jurors can be inconsistent, biased, and expensive. [Large graphs of comparisons](https://arxiv.org/pdf/1505.01462) are needed to tame variance. You can estimate how many pairwise comparisons are needed to make ranking significant.
+- You can report accuracy/Brier by using [bootstrap](<https://en.wikipedia.org/wiki/Bootstrapping_(statistics)>).
 
 ## Resources
 

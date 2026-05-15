@@ -13,20 +13,20 @@
   - [Only saying things you're comfortable fully standing behind.](https://www.jefftk.com/p/how-to-parent-more-predictably)
   - Consistency is important, but don't be afraid to adapt and change your approach if it's not working.
 - Make sure to set boundaries and establish rules, but also be open to negotiation and compromise.
-- The parenting advice world is full of people who found something that worked for them and who then made the unwarranted conclusion that it is universal truth.
+- The parenting advice world is full of people who found something that worked for them and who then made the unwarranted conclusion that it is a universal truth.
 - What works for one child may not work for another. It's important to be flexible and adjust your parenting style as needed to best support each child.
 - When tantrums occur, interrupt the flow of the moment. E.g: stop the car somewhere and say "[Do what you want but I'll restart the car once you are calm](https://news.ycombinator.com/item?id=31204423)".
-- Clearly communicated consequences ahead of time works much better than punishment.
-- Raising responsible humans requires giving them responsibility, the opportunity for soft failures to learn from and having those awkward long talks and figuring out how to set healthy boundaries. E.g: [how to deal with money](https://x.com/tayloramurphy/status/1824868300339249648).
-- Allowing kids to have lots of small failures. Whenever you can, let them experience a small consequence that won't be too bad.
+- Clearly communicated consequences ahead of time work much better than punishment.
+- Raising responsible humans requires giving them responsibility, the opportunity for soft failures to learn from, and having those awkward long talks and figuring out how to set healthy boundaries. E.g: [how to deal with money](https://x.com/tayloramurphy/status/1824868300339249648).
+- Allow kids to have lots of small failures. Whenever you can, let them experience a small consequence that won't be too bad.
 - Allow them to experience the natural consequences of their actions as much as possible, both good and bad. Even if it has a negative consequence for them, as long as it's not too much.
 - Aim to be as predictable as possible. The brain is a prediction engine and hates surprises, so minimize the surprises they have to deal with.
 - For every strong opinion, there's an equally strong opposite opinion. Some basic strategies:
   - Spend lots of (phone-free) time with them.
   - Show them that the world is a fun and fascinating place.
-  - Don't interrupt them when their focused or daydreaming. Help them learn to be entertained by their own minds-
+  - Don't interrupt them when they're focused or daydreaming. Help them learn to be entertained by their own minds.
   - Refrain from imposing lots of little rules, but where there are rules, be firm about them.
-  - Build problem-solving confidence, teaching them to become a person who says "I want to figure out the directions" instead of a person who says "let's just ask someone"
+  - Build problem-solving confidence, teaching them to become a person who says "I want to figure out the directions" instead of a person who says "let's just ask someone".
 
 ## Resources
 

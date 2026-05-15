@@ -2,7 +2,7 @@
 
 Networks rule our world. From the chemical reaction pathways inside a cell, to the web of relationships in an ecosystem, to the trade and political networks that shape the course of history.
 
-[Network effects occur when the value of a product or service is subject to the number of users. A positive network effect means that a product or service becomes more valuable to its users as more people use it.](https://julian.digital/2021/12/20/the-power-of-defaults/)
+[Network effects occur when the value of a product or service depends on the number of users. A positive network effect means that a product or service becomes more valuable to its users as more people use it.](https://julian.digital/2021/12/20/the-power-of-defaults/)
 
 Network [diffusion](http://web.archive.org/web/20240705113531/https://meltingasphalt.com/interactive/going-critical/) is the way things move and spread, somewhat chaotically, across a network. For example:
 
@@ -12,4 +12,4 @@ Network [diffusion](http://web.archive.org/web/20240705113531/https://meltingasp
 - Ideas and practices diffusing through a [[culture]].
 - Neutrons cascading through a hunk of enriched uranium.
 - Economies of scale. More scale means more scale.
-- More customers means more social proof means more customers.
+- More customers mean more social proof means more customers.

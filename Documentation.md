@@ -3,7 +3,7 @@
 - If your product/tool/process documentation is not good enough, people will not use it.
 - The documentation for a project should live in the same repository as the code itself.
   - Update documentation in lockstep when updating the codebase.
-  - Documentation should be **versioned**.
+  - Documentation should be **versioned**.
   - Documentation changes should be reviewed in the same way as your code.
   - Show realistic examples and verify them against the code when possible with type checks, tests, or builds.
 - [Documentation](https://diataxis.fr/) needs to include and be structured around its four different functions: [tutorials, how-to guides, technical reference and explanation](https://documentation.divio.com/introduction/). Each of them requires a distinct mode of writing.
@@ -28,13 +28,13 @@
   - Don't claim things are "easy" or "fast."
   - Avoid future tense ("will"), weak conditional phrasing ("should"), and Latin abbreviations like "e.g."; prefer direct instructions and "for example".
   - Keep headings short and never skip heading levels.
-- [As you are working in a team, then you have to address the problem of shared understanding](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/). This is where documentation come in.
+- [As you are working in a team, then you have to address the problem of shared understanding](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/). This is where documentation comes in.
 - [Use the imperative mood in descriptions and instructions](https://twitter.com/kepano/status/1751354613041872985). Use concise action-oriented sentences, written from the user's perspective.
   - When writing instructions, anywhere you say "You should X" or "You can X," replace it with the imperative mood of the verb.
-- Ask the below two questions before writing:
+- Ask these two questions before writing:
   1. Who am I writing this for?
   2. What are the top 1-3 takeaways after someone's read?
-- [Model your reader's current understanding and guide them to your perspective](https://grantslatton.com/how-to-design-document). Anticipate and preemptively address potential reader objections. The goal is to convince readers (especially yourself) that your approach is optimal through clear logical progression.
+- [Model your reader's current understanding and guide them to your perspective](https://web.archive.org/web/20260216140108/https://grantslatton.com/how-to-design-document). Anticipate and preemptively address potential reader objections. The goal is to convince readers (especially yourself) that your approach is optimal through clear logical progression.
 - [Write simply](https://zodvik.com/posts/on-writing-well/):
   - Use fewer than 30 words per sentence.
   - Use ordinary words and simple sentences.

@@ -22,25 +22,25 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
   - [[Decentralized Autonomous Organizations|Cooperatives/DAOs]].
 - Cities are friendly to humans & wildlife, not cars.
 - More experimentation around [[Learning]] and education (e.g: [teaching game theory](https://twitter.com/BoyanSlat/status/1469063939417907204) as a subject [in the modern curriculum](https://seths.blog/2021/09/the-modern-curriculum/))
-  - More people aware of the trick our mind does to us ([Mind Field](https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2) and [The Story Of Us](https://web.archive.org/web/20230129233043/https://waitbutwhy.com/2019/08/story-of-us.html)) as well as [how diverse humans are](https://youtu.be/fC5qucSk18w).
-  - More people are aware of [how cool win-win games are](https://nonzerosum.games/)! 
+  - More people aware of the tricks our minds play on us ([Mind Field](https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2) and [The Story Of Us](https://web.archive.org/web/20230129233043/https://waitbutwhy.com/2019/08/story-of-us.html)) as well as [how diverse humans are](https://youtu.be/fC5qucSk18w).
+  - More people are aware of [how cool win-win games are](https://nonzerosum.games/)!
   - More interactive explanations like the ones the awesome [Nicky Case](https://ncase.me/) does!
-- More concern around systems with weird incentives causing large amount of pain (Moloch).
+- More concern around systems with weird incentives causing large amounts of pain (Moloch).
   - E.g: Criminal system rework. Focusing on the system and not on individual punishment.
-- Work valuation changes (plumbing more expensive than some software development) due to [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox). We will automate making a full app before a robot is able to master physical arms and legs like a 5 year old.
-- Open data will be more important as they can produce better models and help coordinate people providing shared context.
+- Work valuation changes (plumbing more expensive than some software development) due to [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox). We will automate making a full app before a robot is able to master physical arms and legs like a 5-year-old.
+- Open data will be more important as it can produce better models and help coordinate people providing shared context.
 - The current decentralized protocols (IPFS, ActivityPub, ...) need to evolve more. Especially around UX. People don't care about decentralization, they care about UX. [Centralization is inevitable](https://newsletter.squishy.computer/p/centralization-is-inevitable).
 
 ### Exciting Software Engineering Ideas
 
 - [Common Digital Infrastructure](https://andrewconner.com/common-digital-infrastructure/)
   - If you work in tech, this is a fun thought experiment. Imagine you don’t need any money and can devote your time to benefiting everyone by building common digital infrastructure. What would exist in a better future?
-- Content Addressed Data + Immutability
+- Content-addressed data + immutability
 - CRDTs
 - WASM. Especially Pyodide.
 - Distributed / decentralized data storage systems.
 - Multi-party computation (MPC), fully homomorphic encryption (FHE), trusted execution environments (TEEs), ...
 - Prolly/Merkle Trees
 - Differential/Timely Dataflow
-- Zero-Knowledge Proofs
+- Zero-knowledge proofs
 - Have a market of ML/AI models each competing to predict an outcome. When the outcome actually happens, rank them on a leaderboard by how close their predictions were and reward accordingly.

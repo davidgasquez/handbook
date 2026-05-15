@@ -2,9 +2,9 @@
 
 - Hanabi.
 - [Wavelength](https://gjeuken.github.io/telewave). [Alternative](https://longwave.web.app/).
-- [Codenames](https://www.horsepaste.com/). Can be also played with [Dixit cards](https://meteuphoric.files.wordpress.com/2016/06/pic2664878_lg.jpg).
+- [Codenames](https://www.horsepaste.com/). Can also be played with [Dixit cards](https://meteuphoric.files.wordpress.com/2016/06/pic2664878_lg.jpg).
 - Wits and Wagers.
-- [Diplomacy](https://play.google.com/store/apps/details?id=se.oort.diplicity). Also [Backstabbr](https://www.backstabbr.com/).
+- [Diplomacy](https://www.backstabbr.com/).
 - [The Schelling Game](https://www.lesswrong.com/posts/kM3Xd2mJeWtsGkgSW/the-schelling-game-a-k-a-the-coordination-game). Discern Schelling points among the group.
 - [Aumann Agreement Game](https://docs.google.com/document/d/1gCKURs0Xdnb8PQS54rckS4CJUp8kCklKs2KKi7xDZdA/edit#). Also possible to [play online](https://web.archive.org/web/20241226132325/https://aumann.io/).
   - [Calibration Questions](https://web.archive.org/web/20230828073617/https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population).
@@ -18,19 +18,19 @@
   - Answer an absurd question (best pizza topping).
   - Fill the blank (before going to bed, I always ...).
   - Can be in-group (a movie almost everyone has seen).
-- [Two of these people are lying](https://youtu.be/NPaz6mFsSjU). Everyone puts a weird Wikipedia articles. Someone pulls a random one. People should come up with a compelling description and the goal is to discern what is true and what is false.
+- [Two of these people are lying](https://youtu.be/NPaz6mFsSjU). Everyone puts a weird Wikipedia article. Someone pulls a random one. People should come up with a compelling description and the goal is to discern what is true and what is false.
 - [So Long Sucker](https://boardgamegeek.com/boardgame/8304/so-long-sucker).
 - [Nomic](https://en.wikipedia.org/wiki/Nomic).
 - [Rank Me If You Can](https://app.rankmeifyoucan.com/).
-- Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say them in order.
-- Everyone puts a finger in the same platform. Someone counts to three and says the number of fingers remaining in the platform, if they are correct, they're out.
-- Confidence Interval Game. Select a continuous variable (Iceland Population). Everyone precommits a 95% interval range answer. If you're out, you lose 20 points. If you're in, you get 1 point for each person that lost points.
+- Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say the numbers in order.
+- Everyone puts a finger on the same platform. Someone counts to three and says the number of fingers remaining on the platform. If they are correct, they're out.
+- Confidence Interval Game. Select a continuous variable (Iceland Population). Everyone precommits a 95% confidence interval answer. If you're out, you lose 20 points. If you're in, you get 1 point for each person that lost points.
 - Grammarly. Make teams. Generate a random word. One person on each team needs to guess it. The rest of the team needs to take turns saying a word that forms a sentence to describe the word.
 - Guess Who. Someone asks a question like "Who is most likely to do X?" and everyone points to their guess at the same time.
-- Cheers to the Governor. As a group, you have to count to 21. The first rule is that 7 and 14 are swapped. Every time you succeed, you say cheers to the governor and add a new rule (e.g: 8 changes sense, 9 is silent, you have to say hello instead of 4, ...).
+- Cheers to the Governor. As a group, you have to count to 21. The first rule is that 7 and 14 are swapped. Every time you succeed, you say cheers to the governor and add a new rule (e.g: 8 changes direction, 9 is silent, you have to say hello instead of 4, ...).
 - Celebrity cup. Add people to a cup and grab 2. You need to defend why that couple will work.
 - Deduction Games like "Who Has the Hat".
-- Hand made [Chronology](https://boardgamegeek.com/boardgame/834/chronology). Write up events as a group, [then sort them out](https://boardgamegeek.com/video/47758/chronology/chronology-overview).
+- Handmade [Chronology](https://boardgamegeek.com/boardgame/834/chronology). Write up events as a group, [then sort them out](https://boardgamegeek.com/video/47758/chronology/chronology-overview).
 - [Many other activities can be played as games](https://www.whataaabout.com/)!
 
 ## Card Games
@@ -49,7 +49,7 @@
 - [All Card Games](https://www.pagat.com/) and [more](https://www.parlettgames.uk/oricards/). A list of card games all around the world.
   - Some more [modern games playable with a standard deck](https://drive.google.com/file/d/1DB2YF46s0oVFUSIpR9vxoGIbhpTKz2jw/view).
 
-## Roadtrip Games
+## Road Trip Games
 
 - [Contact](https://www.quora.com/How-do-you-play-the-word-game-Contact).
 - [Black Stories](https://web.archive.org/web/20240730003323/https://play.google.com/store/apps/details?id=com.divofmod.blackstories&hl=en_US).
@@ -66,7 +66,7 @@
 - [Lady Blackbird](http://www.onesevendesign.com/ladyblackbird/) ([PDF](https://web.archive.org/web/20250119094501/https://ladyblackbird.org/downloads/lady_blackbird.pdf)).
 - [Everyone is John](https://img.4plebs.org/boards/tg/image/1377/34/1377343288798.pdf).
 - [Roll for Shoes](https://rollforshoes.com/).
-- [List of one page RPGs](https://www.reddit.com/r/rpg/comments/1vie0k/what_are_your_favorite_onepage_rpgs/).
+- [List of one-page RPGs](https://www.reddit.com/r/rpg/comments/1vie0k/what_are_your_favorite_onepage_rpgs/).
 
 ## Online Platforms
 
@@ -78,10 +78,10 @@
 - [Smart Cookie Trivia](https://web.archive.org/web/20251211062847/https://www.smart-cookie-trivia.com/). Free, fun, challenging, multiplayer quizzes.
 - [Escape Team](https://www.escape-team.com/). A digital-physical escape room game.
 
-## Boardgames
+## Board Games
 
 - [Scythe](https://boardgamegeek.com/boardgame/169786/scythe).
 - [Res Arcana](https://boardgamegeek.com/boardgame/262712/res-arcana).
 - [Sidereal Confluence](https://boardgamegeek.com/boardgame/202426/sidereal-confluence).
 - [Cosmic Encounter](https://boardgamegeek.com/boardgame/39463/cosmic-encounter).
-- [Rising Sun](https://boardgamegeek.com/boardgame/205896/rising-sun)
+- [Rising Sun](https://boardgamegeek.com/boardgame/205896/rising-sun).

@@ -2,9 +2,9 @@
 
 - Having [asynchronous communication channels and making heavy use of them can have great effects on productivity](https://www.martinklepsch.org/posts/asynchronous-communication.html).
 - Every question asked in an internal Slack is a policy failure.
-- [Asynchronous environments allow for self discovery without interruptions](http://web.archive.org/web/20240222195139/https://snir.dev/blog/remote-async-communication/):
-  - You can keep on your flow without waiting for someone to give you details.
-  - You can get into "Deep [[Focus]]" session without context switching that allows for better [[productivity]].
+- [Asynchronous environments allow for self-discovery without interruptions](http://web.archive.org/web/20240222195139/https://snir.dev/blog/remote-async-communication/):
+  - You can keep in your flow without waiting for someone to give you details.
+  - You can get into a "Deep [[Focus]]" session without context switching that allows for better [[productivity]].
   - You can work whenever, since you are not dependent on anyone immediately.
   - You'll have written records of everything.
 - [Async communication](http://web.archive.org/web/20241006094947/https://protocol.almanac.io/docs/async-work-ezPny9x7Q50QISL4UIUhB3PoURV0lgxP) takes more time but it enables better thinking. Learn to [[Asking Questions|ask better questions]] and [[Writing|write requests]].

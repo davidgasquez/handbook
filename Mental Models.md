@@ -11,7 +11,7 @@ Each one acts as a lens through which to view the world. You can use them to nav
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.vvrgpsu13)
 - [Useful Models](http://www.defmacro.org/2016/12/22/models.html)
 - [The Big Mental Models](https://jamesclear.com/mental-models)
-- [Julian Spahiro's Mental Models](https://www.julian.com/blog/mental-model-examples)
+- [Julian Shapiro's Mental Models](https://www.julian.com/blog/mental-model-examples)
 - [Mental models for designers](http://web.archive.org/web/20250130021041/https://dropbox.design/article/mental-models-for-designers)
 - [Mental Models Box](https://www.mentalmodelsbox.com/explore)
 
@@ -50,7 +50,7 @@ A list of mental models that I find interesting and useful. List comes from [And
 - Uncaptured externalities: Hidden costs that aren't accounted for in decisions.
 - Skin in the game: Having personal stakes improves decision quality.
 - Efficiency vs Resiliency: The fundamental tradeoff between optimization and robustness.
-- Positive and negative sum games: Whether interactions create or destroy total value.
+- Positive- and negative-sum games: Whether interactions create or destroy total value.
 
 ### Learning & Development
 
@@ -83,7 +83,7 @@ A list of mental models that I find interesting and useful. List comes from [And
 - Parts work: The psyche is multi-agent and requires internal coordination.
 - Resonance: Non-intellectual alignment with ideas or experiences.
 - Self vs identity: The difference between core experience and chosen labels.
-- Short circuited rewards: When natural feedback loops get hijacked.
+- Short-circuited rewards: When natural feedback loops get hijacked.
 - Placebo pump: Harnessing belief and expectation to produce real effects.
 - Smells: Intuitive warnings that something may be wrong.
 
