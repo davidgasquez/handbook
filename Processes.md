@@ -12,7 +12,13 @@ Write down processes, take measurements and then iterate. **Speed of iteration b
 2. Then there's a kind of process that makes something that was previously possible significantly simpler.
 3. And then there's everything else. E.g: telling people to behave slightly differently from what common sense tells them to do without making any impact.
 
-You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments](https://rs.io/how-to-get-started-with-anything/), removing barriers, adding incentives, or using technology.
+## Process Optimization
+
+- You can [optimize processes](https://youtu.be/lhbLNBqhQkc) through [experiments](https://rs.io/how-to-get-started-with-anything/), removing barriers, adding incentives, or using technology.
+- Most process optimization exercises are too simplistic in nature, and often misunderstand what to focus on.
+- Bottlenecks need predictable, high-quality inputs before adding people or automation.
+
+## Process Design
 
 When designing a process, look for these properties:
 
