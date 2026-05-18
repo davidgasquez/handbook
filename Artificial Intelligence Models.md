@@ -15,8 +15,11 @@
   - Context is easy to mess up: [context poisoning, context distraction, context confusion, context clash](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html), ...
   - [Context Engineering](https://www.philschmid.de/context-engineering) is the discipline of designing and building dynamic systems that provide the right information and tools, in the right format, at the right time, to give an LLM everything it needs to accomplish a task.
 - LLMs amplify existing expertise rather than replacing it.
-- Be aware of training cut-off dates when using LLMs.
+- AI speeds up generation, not necessarily throughput. Bottleneck are often upstream: unclear scope, missing context, legal/product/domain ambiguity.
+- [Typing faster was never the main software bottleneck](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/). Software is mostly decisions, tradeoffs, and understanding.
+  - Use AI to reduce friction around the bottleneck, but first identify the real bottleneck
 - "AIs" can be dangerous in under-specified environments (e.g: pausing games to last longer in the level) but those are the places where we will use them most. If something is well specified, there might be better solutions/optimizations (maths, code, ...).
+- When AI is "right", people become less skilled. When AI is "wrong", you need skilled people to catch and fix the errors.
 - [When the main purpose of writing is to demonstrate your thinking (building trust, applying for a job), don't use LLM output](https://x.com/HamelHusain/status/1976720326106173673). Use LLMs when you need to communicate info, or do admin stuff, where the person really just wants info and doesn't need to be convinced "how you think". LLMs are good at writing but bad at thinking.
   - LLMs are helpful when you want the output/result and don't need to do the work yourself (e.g: [going to the gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym) doesn't work if the weights are automatically lifted).
   - Personal communication and writing as trust and self-expression. Rewriting with LLMs changes meaning, blurs authorship, erodes voice.
