@@ -28,6 +28,9 @@
   - Don't claim things are "easy" or "fast."
   - Avoid future tense ("will"), weak conditional phrasing ("should"), and Latin abbreviations like "e.g."; prefer direct instructions and "for example".
   - Keep headings short and never skip heading levels.
+- Programming is fundamentally about building a theory. A shared mental model of how a system works, why it works that way, and how it should evolve.
+  - The source code is merely a written representation of this theory, and like all representations, it's lossy.
+  - Critical knowledge about intent, design decisions, trade-offs, and the reasoning behind architectural choices exists only in the minds of the people who built the system.
 - [As you are working in a team, then you have to address the problem of shared understanding](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/). This is where documentation comes in.
 - [Use the imperative mood in descriptions and instructions](https://twitter.com/kepano/status/1751354613041872985). Use concise action-oriented sentences, written from the user's perspective.
   - When writing instructions, anywhere you say "You should X" or "You can X," replace it with the imperative mood of the verb.

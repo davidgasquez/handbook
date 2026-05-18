@@ -27,6 +27,11 @@
   - [[Meetings]] agendas and conclusions.
   - Responsibilities. Things that aren't your fault can still be your responsibility. If something is everyone's job, it's no one's job.
   - Defaults. Each thing should have a place by default, docs, issues, ...
+- [Preserve the Theory](https://cekrem.github.io/posts/programming-as-theory-building-naur/) (shared mental models)
+  - Documentation that captures intent, not just implementation
+  - Knowledge sharing practices that transfer mental models, not just procedures
+  - Code review processes that evaluate theoretical consistency, not just correctness
+  - Mentorship programs that develop theory-building skills in junior developers
 - Aim to be a completely autonomous team. Everyone should feel empowered to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.**
   - [A team's ability to operate autonomously relies on alignment, which is strengthened by context](https://web.archive.org/web/20230605055308/https://macroapp.io/blog/the-context-warehouse).
   - Strong engineers make independent decisions about work priorities when necessary.
