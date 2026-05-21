@@ -7,6 +7,7 @@
   - Say "I don't know" more.
   - Slow down when you are talking, don't try to play catch up between your mouth and your thoughts.
 - Aim to make liberal use of the _you_ pronoun.
+- Be concrete. Avoid vague, abstract phrases that don't anchor actions. Always use specific examples, figures, and defined situations.
 - No matter how correct you are, you won't get anywhere by making the other person feel stupid. Not being annoying is more important than being smart. Aim to make friends. [Friends are better than money. Almost anything money can do, friends can do better. In so many ways a friend with a boat is better than owning a boat](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/).
 - Ask for help instead of demanding it.
 - [Say "yes, and..." (accept ideas and build on top of them). Make other people feel good. Be positive (optimistic language)](https://youtu.be/VhkcmN-CCYw).
@@ -18,6 +19,7 @@
 - In difficult conversations, keep in mind the ultimate purpose and [[Mindfulness|be calm]]. You don't need to win the conversation. Ensure safety. Control your emotions.
 - Share your facts as stories, not global facts. Logic doesn't persuade people. Clarity, storytelling, and appealing to self-interest do.
 - Combining walking with talking might be effective for deep conversations. You don't keep eye contact but nevertheless you are very close. For some topics it helps to just talk without having to look someone in the eye. Long pauses are not a problem because there is the landscape passing by that removes the awkwardness.
+- [When you find yourself rambling because you lack the precise word, write that moment down](https://www.jaimerodriguezdesantiago.com/kaizen/269-comunicacion-efectiva-iv-como-hablar-mejor-un-griego-a-lo-rocky-consultores-americanos-y-el-uso-de-la-voz/). Look up the exact word later to fill specific holes in your vocabulary.
 - [Whenever you drop below a certain level of talking with someone, friction accumulates. You get more stuck in your ways, you get stressed and don't have time to maintain the shared context necessary to understand each other.](https://www.henrikkarlsson.xyz/p/making-a-home-together)
 
 ## Interesting Questions
