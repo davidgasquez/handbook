@@ -2,6 +2,7 @@
 
 - LLMs build internal [[Knowledge Graphs]] in their network layers.
 - LLMs shine in the kinds of situations where "good enough is good enough".
+- LLMs are compressed information stores.
 - Classic ML systems where humans are designing how the information is organized (feature engineering, linking, graph building) scale poorly ([the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)). LLMs are able to learn how to organize the information from the data itself.
 - [LLMs may not yet have human-level depth, but they already have vastly superhuman breadth](https://news.ycombinator.com/item?id=42625851).
 - [[Prompt Engineering|Learning to prompt]] is similar to learning to search in a search engine (you have to develop a sense of how and what to search for).
@@ -10,6 +11,7 @@
 - [LLMs are useful when exploiting the asymmetry between coming up with an answer and verifying the answer](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) (similar to how a sudoku is difficult to solve, but it's easy to verify that a solution is correct).
   - [Software 2.0 automates what we can verify](https://x.com/karpathy/status/1990116666194456651). If a task/job is verifiable, then it is optimizable directly or via reinforcement learning, and a neural net can be trained to work extremely well.
 - [LLMs are good at the things that computers are bad at, and bad at the things that computers are good at](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem). Also good at things that don't have wrong answers.
+- [The use of LLMs and agents can be successful on tasks that are](https://x.com/nateberkopec/status/2058014104854626490); verifiable, brute forceable, automation-like, PoC friendly.
 - Context is king. Managing the context window effectively is crucial for getting good results.
   - Add websites as context with [jina.ai](https://jina.ai/) or [pure.md](https://pure.md/)
   - Context is easy to mess up: [context poisoning, context distraction, context confusion, context clash](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html), ...
@@ -23,6 +25,8 @@
 - [When the main purpose of writing is to demonstrate your thinking (building trust, applying for a job), don't use LLM output](https://x.com/HamelHusain/status/1976720326106173673). Use LLMs when you need to communicate info, or do admin stuff, where the person really just wants info and doesn't need to be convinced "how you think". LLMs are good at writing but bad at thinking.
   - LLMs are helpful when you want the output/result and don't need to do the work yourself (e.g: [going to the gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym) doesn't work if the weights are automatically lifted).
   - Personal communication and writing as trust and self-expression. Rewriting with LLMs changes meaning, blurs authorship, erodes voice.
+  - **What you send should take more effort to produce than it takes the recipient to read**. Raw, unread, unrequested AI output ([sloppypasta](https://stopsloppypasta.ai/en/)) pushes the cost of reading, verifying, and distilling onto everyone else.
+  - If you do share AI output, disclose it and ideally link the chat. The conversation is more reusable than the transcript, and others can fork your context instead of re-reading your output.
 - For now, AI generated content should be consumed by you, not shared with others. This applies to code, bug reports, emails, and so on.
   - [Don't send LLM-generated content](https://x.com/ankrgyl/status/2030372464900067572). Send a human the prompt and let them run their own LLM. [If your prompt is too embarrassing to send, reconsider your communication](https://x.com/davidcrawshaw/status/2030411715045892305).
 - [Don't outsource thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/). That means tasks that:
