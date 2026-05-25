@@ -38,6 +38,7 @@
 - LLMs are a lot better at fill in the blanks (the micro) than grand strategy (the macro). [Generalists might increasingly outperform specialists](https://x.com/karpathy/status/2015883857489522876).
   - The skill you want to build is the ability to understand problems and have some concept of how to solve them.
   - Knowing how [the style](https://x.com/luusssso/status/2000941875910598700) is named makes prompting easier.
+- Understand [benchmarking](https://mlbenchmarks.org/) and what it really represents.
 
 ## Use Cases
 
@@ -81,24 +82,11 @@ Some ~spells~ styles to try when designing dashboards, UIs, or anything else.
 
 [More skills at the impeccable repo](https://github.com/pbakaus/impeccable).
 
+## Skills
+
+- [Edward Tufte's Visualization Skills](https://github.com/aref-vc/tufte-claude-skill)
+- [Agent skill to de-AI writing](https://github.com/theclaymethod/unslop)
+
 ## Resources
 
 - [Official GPT Guide](https://platform.openai.com/docs/guides/gpt-best-practices).
-- [Ask HN: How are you using GPT to be productive?](https://news.ycombinator.com/item?id=35299071&p=2)
-- [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html).
-
-### Frontends
-
-- [OpenRouter](https://openrouter.ai/)
-- [Big AGI](https://get.big-agi.com/)
-- [OpenWebUI](https://openwebui.com/)
-- [Anything LLM](https://github.com/Mintplex-Labs/anything-llm)
-
-### Benchmarks
-
-- [LLM Arena](https://lmarena.ai/)
-- [Terminal Bench](https://www.tbench.ai/)
-- [LiveBench](https://livebench.ai/#/) ([SWE](https://liveswebench.ai/))
-- [Kagi LLM Benchmark](https://help.kagi.com/kagi/ai/llm-benchmark.html)
-- [Scale AI Leaderboard](https://scale.com/leaderboard)
-- [The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org/)
