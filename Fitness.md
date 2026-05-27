@@ -18,7 +18,7 @@
 - Pick certain moments where you would always check your posture. Walking through doorways, standing up, ...
 - Another great tip is to brush your teeth with [your back against the wall](https://www.youtube.com/watch?v=GbGSvAEkE68) for 3 minutes.
 - Exercise and live a less sedentary lifestyle to improve overall posture.
-- Focus on [building core strength](https://www.youtube.com/watch?v=4BOTvaRaDjI). You can [strengthen your back in 5 minutes](https://www.reddit.com/r/bodyweightfitness/comments/fxrooc/how_to_strengthen_your_back_in_5_minutes_a_day/).
+- [[Focus]] on [building core strength](https://www.youtube.com/watch?v=4BOTvaRaDjI). You can [strengthen your back in 5 minutes](https://www.reddit.com/r/bodyweightfitness/comments/fxrooc/how_to_strengthen_your_back_in_5_minutes_a_day/).
 
 ## Resources
 

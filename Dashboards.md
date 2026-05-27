@@ -8,7 +8,7 @@
   - Answer three specific questions: [How, What, How](https://youtu.be/g2-dkJkZjiI)?
     - The data will move 1 of three directions; up, down or stay the same. Ahead of time, what will the stakeholder do in each case? Are all three answers the same?
 - Strive to create dashboards that are either standalone or include links to provide the relevant context. Without meaning, data is just digits.
-  - Ideally, push visualizations to the tools that have the context (e.g. a chart in a Slack message, a chart in a Jira ticket, a chart in HubSpot, etc).
+  - Ideally, push visualizations to the tools that have the context (e.g. a chart in a [[Slack]] message, a chart in a Jira ticket, a chart in HubSpot, etc).
 - [Make your charts professional](https://web.archive.org/web/20251230160154/https://bsky.app/profile/peck.phd/post/3lbfgjdnvy22k). [[Data Visualization]] is important.
 - [Add all the possible context into the dashboard](https://www.youtube.com/watch?v=Kub2bXrKmOE):
   - Instructions.
@@ -29,7 +29,7 @@
 - Be clear with your stakeholder about whether this is a one-off vs. something that should be referenced more than once.
 - Add an [explicit expiration date so it doesn't mold](https://mikkeldengsoe.substack.com/p/moldy-data).
 - [Have meetings where you check and discuss the metrics on the dashboard](https://web.archive.org/web/20240915120730/https://counting.substack.com/p/the-utility-of-an-unwatched-dashboard). This creates a powerful forcing function to look at the thing.
-- Follow up and iterate on your work by marketing, improving and maintaining it into the future.
+- Follow up and iterate on your work by marketing, improving and maintaining it into the [[Future|future]].
 - Provide deep links in the dashboard to the underlying data or specific segmentations/filters.
 - Design matters a lot — if it looks bad, people won't look at it.
 - Learn about the tools business people use, understand them, and dive deep into their decision workflows to see where you can actually help and facilitate.
@@ -39,7 +39,7 @@
   - Make it obvious what the main takeaway is.
   - Follow the Z pattern.
   - Provide context.
-- Include additional highlight numbers, such as last month's total revenue vs. the planned revenue and the YoY growth. Plot against goals if possible. Have a reasonable goal, and plot your numbers against it!
+- Include additional highlight numbers, such as last month's total revenue vs. the planned revenue and the YoY growth. Plot against [[Goals|goals]] if possible. Have a reasonable goal, and plot your numbers against it!
 - [Don't use cumulative charts. They are always going up and hide the underlying trend](https://youtu.be/q94VJ3KToK8?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS).
   - Instead, [count number of users doing "valuable things" per day](https://x.com/jeff_weinstein/status/2034757055769350395).
 
@@ -55,7 +55,7 @@ The value is that now discussions are happening about the data.
 - Dashboards were created to monitor and not to derive insights.
   - Dashboards report on current status. Users don't act on status. They act on change in status.
   - Dashboards (lines and rectangles) are useful to notice if something goes wrong.
-  - **It's usually not possible to generate meaningful insight simply by looking at line charts in a dashboard**. A chart alone cannot possibly convey everything, and that kind of thinking inhibits our ability to influence the business with our work.
+  - **It's usually not possible to generate meaningful insight simply by looking at line charts in a dashboard**. A chart alone cannot possibly convey everything, and that kind of [[Thinking|thinking]] inhibits our ability to influence the business with our work.
   - Especially, if [there are 10 unrelated charts in the same dashboard](http://web.archive.org/web/20250718040500/http://deathofdashboards.com/).
 - Building a dashboard requires gathering a lot of context. Once built, only a few users aware of all the context can really use it in the proper way.
 - [They can serve endless needs, but in doing so, rarely do they serve _particular_ needs perfectly](https://win.hyperquery.ai/p/analysis-or-dashboard).

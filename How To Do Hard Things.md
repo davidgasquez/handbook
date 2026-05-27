@@ -11,7 +11,7 @@ Useful when you know what success looks like but cannot currently achieve it.
 3. Do the modified thing until it is no longer hard.
 4. If you get stuck, do one of the following:
    - Go back to step 3 and pick a different way in which the problem is hard.
-   - Recursively apply the general system for learning to do hard things to the thing you're stuck on.
+   - Recursively apply the general system for [[Learning|learning]] to do hard things to the thing you're stuck on.
    - Go ask an expert or a rubber duck for advice.
    - If you're still stuck after trying the first three, it's possible that you may have hit some sort of natural difficulty limit and may not be able to make progress.
 5. If the original hard thing is now easy, you're done. If not, go back to step 2.

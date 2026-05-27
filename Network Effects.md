@@ -9,7 +9,7 @@ Network [diffusion](http://web.archive.org/web/20240705113531/https://meltingasp
 - Infectious diseases jumping from host to host within a population.
 - Memes spreading across a follower graph on social media.
 - A wildfire breaking out across a landscape.
-- Ideas and practices diffusing through a [[culture]].
+- [[Ideas]] and practices diffusing through a [[culture]].
 - Neutrons cascading through a hunk of enriched uranium.
 - Economies of scale. More scale means more scale.
 - More customers mean more social proof means more customers.

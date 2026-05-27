@@ -2,12 +2,12 @@
 
 - The decentralized web is more than [[Blockchain]] and [[Cryptocurrencies]]. [It means building in public, new types of incentives, real ownership of digital property, internet-wide login / identity](https://ckarchive.com/b/p9ueh9hp409k), ...
 - Key decisions associated with maintaining and updating cryptonetwork protocols. As with every human organization, aligning interests and beliefs among human participants to reach agreement is the goal of [[governance]].
-  - [In cryptonetworks, these decisions are made by the community, using open and transparent mechanisms](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e). DAOs don't need a boss!
+  - [In cryptonetworks, these decisions are made by the community, using open and transparent mechanisms](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e). [[Decentralized Autonomous Organizations|DAOs]] don't need a boss!
   - Cryptocurrencies have the [[Incentives]] to keep the users happy since forking is an option.
 - [Web3 is a decentralized internet. Under Web3, the internet is shared online and governed by the collective "we"](https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc).
 - The decentralized web incentivizes open source. That creates an ecosystem of composable and permissionless tools that increases the speed of innovation.
 - [Openness allows local groups to design systems for governance, identity, and other needs in ways that are compatible with local goals](https://vitalik.eth.limo/general/2025/09/24/openness_and_verifiability.html).
-- A way to look at the decentralized web movement is as a laboratory for economic, political, and social experiments.
+- A way to look at the decentralized web movement is as a laboratory for economic, political, and social [[Experimentation|experiments]].
   - The space encourages experimentation in a diverse set of fields like [[Governance]] or [[Finances]].
 - Networks aren't evenly distributed in the world. E.g: [we see the emergence of densely connected hubs—centralized islands in the internet](https://newsletter.squishy.computer/p/centralization-is-inevitable). Scale-free networks are power-law distributed and emerge due to preferential attachment (rich get richer feedback loops, also known as [[Network Effects]]).
 
@@ -105,7 +105,7 @@ There is an emerging landscape of [Data and Blockchain](https://web.archive.org/
 - [Flipside](https://flipsidecrypto.xyz/).
 - [MetricsDAO](https://metricsdao.notion.site/metricsdao/Bounty-Programs-d4bac7f1908f412f8bf4ed349198e5fe).
 
-#### Data Engineering Folks
+#### [[Data Engineering]] Folks
 
 - [Yaroslav Tkachenko](https://sap1ens.com/blog/2022/04/11/why-im-joining-goldsky/)
 - [Mike Ritchie](https://twitter.com/thisritchie/status/1533434879773290496)

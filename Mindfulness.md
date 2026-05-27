@@ -46,7 +46,7 @@
 - Avoid conspicuous consumption.
 - Overcome the bystander effect: there is something that everyone wants to *happen* but nobody wants to be the one to *do* it. Develop the reflex of noticing bystander apathy in your environment, and actively do the thing. E.g. ask a question when there's a confusing point in a talk, notice tiny tragedies of the commons (an empty jug of water that nobody wants to refill), notice when everyone feels uncomfortable being the first to, say, dance at a party, and just do it.
 - [Our behavior is made up of a complex and chaotic soup of so many factors that it's downright silly to think there's a singular, autonomous "you" calling the shots](https://youtu.be/GRYcSuyLiJk).
-- Tools and ideas are not neutral. They bake in principles and values.
+- Tools and [[Ideas|ideas]] are not neutral. They bake in principles and [[Values|values]].
   - E.g: [[Social Media Issues|social media]] encourages rage, [[Blockchain]] protocols "waste" energy using Proof of Work.
   - A person holding a hammer interacts with the world in a different way. It is a different entity. Same with ideas.
 - Most of the world is held together with duct tape, so don't be surprised when it breaks.
@@ -57,5 +57,5 @@
   - Seek real [[Feedback]] (e.g. anonymous).
   - Meet a wide range of people, as valuable opportunities often come from unexpected connections.
   - Burnout is a major killer of agency and creativity. Prioritize rest and sustainable effort.
-- [Style is a set of constraints that you stick to](https://stephango.com/style). Style emerges from consistency, and having a style opens your imagination. Collect constraints you enjoy. Unusual constraints make things more fun. You can always change them later. This is your style, after all. It’s not a life commitment, it’s just the way you do things. Having a style collapses hundreds of future decisions into one, and gives you focus. E.g: always pluralize tags to never have to wonder what to name new tags.
+- [Style is a set of constraints that you stick to](https://stephango.com/style). Style emerges from consistency, and having a style opens your imagination. Collect constraints you enjoy. Unusual constraints make things more fun. You can always change them later. This is your style, after all. It’s not a life commitment, it’s just the way you do things. Having a style collapses hundreds of [[Future|future]] decisions into one, and gives you focus. E.g: always pluralize tags to never have to wonder what to name new tags.
 - [Slowing down, and offering more time to the act of consumption, immediately increases comprehension and enjoyment](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/). Slowing down your rate of consumption will inevitably change what you want to consume.

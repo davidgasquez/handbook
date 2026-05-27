@@ -23,13 +23,13 @@
         - `namespace`: Namespace of the attribute
         - `tags`: JSON with tags of the attribute?
         - `aggregation_function`: Aggregation function to use when aggregating the attribute
-  - `timeseries`: Timeseries are abstract measures (i.e. statistics, metrics) related to an entity and a date. Timeseries are temporal statistics or measures centered around an entity and timestamp. For example, GDP of Spain, population of Madrid, etc. Timeseries are abstract concepts (i.e. a measure) rather than a concrete thing.
+  - `timeseries`: Timeseries are abstract measures (i.e. statistics, [[Metrics|metrics]]) related to an entity and a date. Timeseries are temporal statistics or measures centered around an entity and timestamp. For example, GDP of Spain, population of Madrid, etc. Timeseries are abstract concepts (i.e. a measure) rather than a concrete thing.
     - Could be something like `weather_timeseries` to be able to join with the entities.
     - Columns:
       - `variable_id`: Unique identifier for the attribute
       - `geography_id`: Unique identifier for the geography
       - `date`: Date of the metric
       - `value`: Value of the metric
-  - `relationships`: Contains the relationships between entities. For example, Spain is composed of provinces, Madrid is a province, etc.
+  - `relationships`: Contains the [[Relationships|relationships]] between entities. For example, Spain is composed of provinces, Madrid is a province, etc.
     - Relationships can also be temporal – valid for an interval defined by specific start and end dates.
   - `characteristics`: Descriptors of an entity that are temporal. They have a start date and end date.

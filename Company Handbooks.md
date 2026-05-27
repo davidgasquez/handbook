@@ -26,7 +26,7 @@ Handbooks are key for good [[Company Knowledge Management]].
 
 More examples in the [Handbook of Handbooks](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view).
 
-### Cooperatives
+### [[Cooperatives]]
 
 - [Loomio](https://www.loomio.coop/)
 - [Catalyst](https://catalystcoop-handbook.readthedocs.io/en/latest/)

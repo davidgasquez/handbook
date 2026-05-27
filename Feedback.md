@@ -1,6 +1,6 @@
 # Feedback
 
-Feedback is the core of personal and professional growth. Feedback helps us be better at what we do by establishing clear communications and expectations.
+Feedback is the core of personal and professional growth. Feedback helps us be better at what we do by establishing clear [[Communication|communications]] and expectations.
 
 All feedback is good feedback. If you agree with it, it tells you something about yourself which you can work on correcting. If you don't agree with it, it tells you that there is an incorrect perception about you in the other person's mind. You can also work on correcting that.
 
@@ -8,32 +8,32 @@ All feedback is good feedback. If you agree with it, it tells you something abou
 - When someone tells you how to fix it, they're almost always wrong.
 - Collect feedback from everybody.
 
-Your goal is not to do what _you_ think is best, it's to help _others_. This includes respecting their preferences, and respecting their autonomy. It's key that you listen to feedback, be open to the possibility that your actions are systematically unhelpful, and work to build better models of your friends and their preferences. In an ideal world I'd only take the actions that are net good, and avoid all of the ones that are net bad, but in a limited information world this is impossible. And empirically, actually trying _far_ outweighs not trying at all. But you still want to get as net good as possible!
+Your goal is not to do what _you_ think is best, it's to help _others_. This includes respecting their preferences, and respecting their autonomy. It's key that you [[Listening|listen]] to feedback, be [[Openness|open]] to the possibility that your actions are systematically unhelpful, and work to build better [[Mental Models|models]] of your friends and their preferences. In an ideal world I'd only take the actions that are net good, and avoid all of the ones that are net bad, but in a limited information world this is impossible. And empirically, actually trying _far_ outweighs not trying at all. But you still want to get as net good as possible!
 
 ## Taking Feedback
 
 - Use the word advice instead of feedback to get more results.
 - The only constant in the world is change. Be open to it and accept it with a smile.
 - Understand and accept that you will make mistakes.
-- Be mindful. Develop meta-awareness around the areas that you received feedback.
+- Be [[Mindfulness|mindful]]. Develop meta-awareness around the areas that you received feedback.
   - Look for opportunities to _stop doing_ or _start doing_ critiqued behaviors.
 
 ### Technical Feedback
 
-- You are not your work (code, design, ...).
+- You are not your work ([[Programming|code]], design, ...).
 - No matter how much you know about something, someone else will always know more.
 - Treat people who know less than you with respect, deference, and patience.
 - True authority stems from knowledge, not from position.
 - Critique code instead of people — be kind to the coder, not to the code.
-- Focus on [Empathy](http://bravenewgeek.com/engineering-empathy/).
+- [[Focus]] on [Empathy](http://bravenewgeek.com/engineering-empathy/).
 
 ## Giving Feedback
 
 - Feedback needs to be informal, frequent, and done authentically.
 - Feedback should be offered with a willingness to listen in return. Those giving feedback should also ask for it.
-- Challenge ideas, not people. Address behavior, but don't label people.
+- Challenge [[Ideas|ideas]], not people. Address behavior, but don't label people.
 - Most feedback you deliver should be positive. This makes the negative feedback more important.
-- Prepare. What do you value in someone? Where do you think their biggest opportunities to improve are?
+- Prepare. What do you [[Values|value]] in someone? Where do you think their biggest opportunities to improve are?
 - **Keep the feedback actionable, specific, and kind.** Be as specific as possible and contain concrete suggestions on how to improve.
 - Imagine what things feel like from the other perspective.
 - Criticize in private, praise in public.

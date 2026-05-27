@@ -5,7 +5,7 @@
 - If you want to try things, you have to have the slack to pick up errors.
 - Slack allows exploration.
 - [Slack prevents desperation and helps with long-term planning (by not having to put all the effort in the short term)](https://thezvi.wordpress.com/2017/09/30/slack/).
-- When a part of a system lacks slack, it can't collaborate or help other parts.
+- When a part of a [[Systems|system]] lacks slack, it can't collaborate or help other parts.
 - Adding slack to a system might make it more efficient.
 - Make sure that under normal conditions _you_ have Slack. Value it. Guard it. Spend it only when Worth It. If you lose it, fight to get it back.
 - [Slack creates _positive externalities_ for the group](https://www.lesswrong.com/posts/3qX2GipDuCq5jstMG/slack-has-positive-externalities-for-groups). On the other hand, it is not properly valued by the group.

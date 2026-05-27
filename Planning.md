@@ -9,7 +9,7 @@ Whether it comes naturally or is the result of a concerted effort and process, e
 - [[Coordination]].
 - High shipping velocity.
 
-The goal of planning is to get to a unified and realistic plan for what the system is collectively working towards over a given time horizon. It is not a one-time event, but a continuous process that happens at different levels of granularity.
+The goal of planning is to get to a unified and realistic plan for what the system is collectively working towards over a given [[Time|time]] horizon. It is not a one-time event, but a continuous [[Processes|process]] that happens at different levels of granularity.
 
 To help with planning, you should have these things:
 

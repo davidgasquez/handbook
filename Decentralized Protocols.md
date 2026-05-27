@@ -11,12 +11,12 @@
   - [Community](https://x.com/balajis/status/1310101055816921090): open source all code, and issue a token or charge for access to the community.
   - Open Source projects would have a protocol. You could buy shares of Kubernetes, TensorFlow, ... or contribute to gain tokens. This [[incentives|incentivizes]] contributing and helping people.
   - [Many more](https://youtu.be/Axj8NJXnCN0)!
-- Tokens create new, scoped economies, and those economies enable new ways of organizing production and operation of goods and services. Because these economies are programmable, they can also embed and optimize for value systems and goals.
+- Tokens create new, scoped economies, and those economies enable new ways of organizing production and operation of goods and services. Because these economies are programmable, they can also embed and optimize for [[Values|value]] systems and [[Goals|goals]].
 - [Moving to protocols, not platforms](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech), is an approach for free speech in the twenty-first century. Rather than relying on a "marketplace of [[ideas]]" within an individual platform — which can be hijacked by those with malicious intent—protocols could lead to a marketplace of ideals, where competition occurs to provide better services that minimize the impact of those with malicious intent, without cutting off their ability to speak entirely.
   - The fundamental power of the internet is its _interoperability_. It was born out of the ability of different networks to talk to each other using common protocols. The interoperability is what we've lost in the Web 2.0 era. Even such a quintessential thing as a web API has no well-defined standard or protocol, just a very vague concept of REST or RPC. We need commonly accepted standards and _decentralized_ protocols: for web APIs, for identity management, for message queuing, for web callbacks (webhooks), for online transactions, for semantic web and ontology, etc.
   - Sovereignty through ownership risks being a fantasy for all but the wealthiest. Sovereignty through interoperability may be achievable for nearly everyone.
   - The question isn't ["Can we own our stack?"](https://www.techpolicy.press/the-path-to-a-sovereign-tech-stack-is-via-a-commodified-tech-stack/) but "Can we move our workloads?"
-  - The metric for success should focus on making it as simple as possible to move data and applications across suppliers.
+  - The metric for success should [[Focus|focus]] on making it as simple as possible to move data and applications across suppliers.
   - [De facto standards almost always beat untested de jure standards](https://www.techpolicy.press/the-path-to-a-sovereign-tech-stack-is-via-a-commodified-tech-stack/).
 - [Use protocols, not services](https://notnotp.com/notes/use-protocols-not-services/). Centralized services are easy pressure points for compelled [[Identity]] checks and policy mandates. Protocols like IRC, XMPP, ActivityPub, Nostr, and Matrix have no single entity to compel. Pressure must happen server by server across jurisdictions. Choosing protocols over services reduces forced identification risk and improves [[Privacy]] and credible exit.
 - [Decentralization enables permissionless innovation](https://newsletter.squishy.computer/p/decentralization-enables-permissionless):
@@ -39,7 +39,7 @@
 - One wallet / DID / private key could allow you to log in to any service. That's your credentials. [[NFTs|Owning a thing]] could allow you to enter somewhere.
 - Protocols to structure who can do what. Protocol designs are often about the how, but the consequence of the how is an authority model.
 - There should be no technical or social single-point-of-failure for the overall protocol and network. There should be no single organization or individual who can entirely exclude others from the ecosystem (though the ecosystem may collectively exclude bad actors). There should be multiple independent interoperating service providers for each infrastructure component.
-- [Open source protocols should favor composability over just about everything](https://youtu.be/TdBTJY-G8xs). Breaking big things into smaller things. This encourages experimentation at multiple levels.
+- [Open source protocols should favor composability over just about everything](https://youtu.be/TdBTJY-G8xs). Breaking big things into smaller things. This encourages [[Experimentation|experimentation]] at multiple levels.
   - Forking should be a right. Keeps authority contingent (if they abuse power, they might get forked).
 - **[Progressive decentralization](https://a16z.com/progressive-decentralization-a-playbook-for-building-crypto-applications/) means optional centralization.**
   - A decentralized protocol can work with a centralized provider. It has the benefits of both (might be fast but no lock-in).
@@ -83,8 +83,8 @@
   - Shift to a zero-trust model: trust people via signatures, not servers
   - Build webs of trust via PGP-style key exchanges
   - Layer reputation & attestations (proof-of-humanity, moderation tags) on keys
-  - Digital journals as self-sovereign stores of evolving identity data over time.
-  - Knowledge graphs tracking which peers mirror each datum, enabling witness-based verification.
+  - Digital [[Journaling|journals]] as self-sovereign stores of evolving identity data over [[Time|time]].
+  - [[Knowledge Graphs|Knowledge graphs]] tracking which peers mirror each datum, enabling witness-based verification.
   - Credit graphs encoding degrees of trust/credit between participants as identity primitives.
   - [Intersectional Social Data](https://www.radicalxchange.org/media/blog/2019-10-24-uh78r5/) enables group-based and non-individualistic verification via social trust paths.
 - The ideal is to focus on Keys, not IDs. Don't focus on who you are but what you are authorized to do.
@@ -93,7 +93,7 @@
 - [Credible exit](https://newsletter.squishy.computer/p/credible-exit) ensures users can leave a service without vendor lock-in by relying on open, decentralized protocols and interchange formats.
   - Decoupling identifiers from hosting (DNS, CIDs) enables seamless migration between providers by updating name mappings.
   - Federated protocols (email, Mastodon) support portability of social graphs and messages across services.
-  - Standard export/import formats (OPML for podcasts, XML for WordPress) facilitate hostile interoperability.
+  - Standard export/import formats (OPML for [[Podcasts|podcasts]], XML for WordPress) facilitate hostile interoperability.
   - Durable, universally useful formats (plain text, CSV, PNG, MP3) make data portable and usable outside the originating app.
   - Local-first storage and immutable data (CRDTs) support ongoing synchronization and avoid stale static exports.
   - Permissionless, open APIs and protocols allow multiple apps to interoperate without centralized lock-in.

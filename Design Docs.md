@@ -2,12 +2,12 @@
 
 [Define software designs through design docs](https://www.industrialempathy.com/posts/design-docs-at-google/).
 
-- These are relatively informal documents that the primary author or authors of a software system or application create before they embark on the coding project. If code is the bricks and mortar, then these docs are the blueprints.
+- These are relatively informal documents that the primary author or authors of a software [[Systems|system]] or application create before they embark on the coding project. If code is the bricks and mortar, then these docs are the blueprints.
 - Short specs are more likely to be read. The purpose of a spec is to briefly communicate the "why", "what" and "how" of the project to the rest of the team. Ideally these short documents force teams to scope out work so priorities are clear and teams avoid building the wrong thing.
   - [The longer your document is, the more likely people will only read the comments and not the body.](https://twitter.com/hamiltonulmer/status/1562817324184440832)
 - A [[Technical Specifications|technical specification]] forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
 - It's hard to make technical decisions while remote. [Build a Proposal Culture](https://web.archive.org/web/20220925011031/https://www.hamiltonulmer.com/writing/building-a-proposal-culture) to enable effective distributed technical decision making via [[Writing]] and collecting [[Feedback]] on a written document in an inclusive, async-friendly way.
-- Even if no one else reads them, they force you to clarify your thinking before you start the (more expensive) process of implementation.
+- Even if no one else reads them, they force you to clarify your [[Thinking|thinking]] before you start the (more expensive) process of implementation.
 - Design docs fulfill the following functions in the software development life-cycle:
   - Early identification of design issues when making changes is still cheap.
   - Achieving consensus around a design in the organization.
@@ -17,12 +17,12 @@
 - Write them in whatever form makes the most sense for the particular project.
 - A good-to-start-with structure can be:
   1. Context and scope. Overview of the landscape in which the new system is being built and what is actually being built. Focused on objective background facts. Keep it short.
-  2. Goals and non-goals. What the goals of the system are, and, sometimes more importantly, what non-goals are.
+  2. [[Goals]] and non-goals. What the goals of the system are, and, sometimes more importantly, what non-goals are.
   3. Design. This is the place to write down the trade-offs you made in designing your software. Given the context (facts), goals and non-goals (requirements), the design doc is the place to suggest solutions and show why a particular solution best satisfies those goals.
   4. APIs. If the system under design exposes an API, then sketching out that API is usually a good idea.
   5. Data storage. Systems that store data should likely discuss how and in what rough form this happens.
   6. Alternatives considered. Share alternative designs that would have reasonably achieved similar outcomes.
-  7. Cross-cutting concerns. This is where your organization can ensure that certain cross-cutting concerns such as security, privacy, and observability are always taken into consideration. These are often relatively short sections that explain how the design impacts the concern and how the concern is addressed. Teams should standardize what these concerns are in their case.
+  7. Cross-cutting concerns. This is where your organization can ensure that certain cross-cutting concerns such as security, [[Privacy|privacy]], and observability are always taken into consideration. These are often relatively short sections that explain how the design impacts the concern and how the concern is addressed. Teams should standardize what these concerns are in their case.
 - In many docs a diagram can be useful.
 - The steps in the life-cycle of a design document are: Create, Iterate, Review, Implement, Iterate and Learn.
 - [The RFC and feedback should be posted publicly. Everyone can join the discussion. The goal is to include as many people as possible to access more points of view and spread the knowledge simultaneously](https://candost.blog/how-to-stop-endless-discussions/).

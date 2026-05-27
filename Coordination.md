@@ -17,7 +17,7 @@
   1. Repeat interactions.
   2. Look for possible win-wins.
   3. Communicate clearly and [establish common context](https://gestalt.cafe/trust-infrastructure/).
-- Trust is foundational to civilization, enabling coordination across time and distance. The internet has eroded traditional trust mechanisms by:
+- Trust is foundational to civilization, enabling coordination across [[Time|time]] and distance. The internet has eroded traditional trust mechanisms by:
   - Reducing the surface area for trust-building
   - Expanding social contexts beyond our capacity to maintain relationships
   - Separating information from its contextual moorings
@@ -53,12 +53,12 @@
   - Make the group structure explicit, not implicit. The rules of decision-making must be open and available to everyone, and this can happen only if they are formalized. Having an established process for decision-making ensures that everyone can participate in it to some extent.
 - [The more you need consensus, the less work you can do](http://hintjens.com/blog:100).
 - A way to coordinate without trust is relying on [[Blockchain]] and [[Cryptocurrencies]].
-- Coordinating is better than who takes the resources. The more you can coordinate, the more resources you can take ([Paretotopia](https://youtu.be/1lqBra8r468)). Keep this in mind when making decisions and negotiating.
+- Coordinating is better than who takes the resources. The more you can coordinate, the more resources you can take ([Paretotopia](https://youtu.be/1lqBra8r468)). Keep this in mind when [[Making Decisions|making decisions]] and negotiating.
 - [Ability to coordinate](https://thecompendium.cards/c/coordination-as-form-of-power) is a form of power.
 - [Collusion](https://vitalik.eth.limo/general/2019/04/03/collusion.html) is the dark side of coordination, where a subset of people coordinate against the interests of a broader group.
   - Cannot be detected by looking at actions alone, as the same actions can be legitimate or collusive depending on context and intentions.
-  - Requires specific countermeasures like deliberate decentralization, skin-in-the-game mechanisms, and fostering counter-coordination (e.g., forking in blockchain systems).
+  - Requires specific countermeasures like deliberate decentralization, skin-in-the-game mechanisms, and fostering counter-coordination (e.g., forking in blockchain [[Systems|systems]]).
   - Examples include price fixing between sellers, vote buying, and 51% attacks on blockchains.
   - Any mechanism that helps under-coordinated parties coordinate will also help already-coordinated parties over-coordinate to extract value.
-- Explore [Cooperative Governance](https://nadia.xyz/voting) ideas. It offers an elegant compromise between on-chain and off-chain governance: you have a failure outcome that's enforced and "real", but the process of consensus remains firmly in the hands of people.
+- Explore [Cooperative Governance](https://nadia.xyz/voting) [[Ideas|ideas]]. It offers an elegant compromise between on-chain and off-chain governance: you have a failure outcome that's enforced and "real", but the process of consensus remains firmly in the hands of people.
 - There are [interventions](https://www.prosocialdesign.org/) to help online spaces bring out the best in human nature online (deleting a comment that breaks a forum's rules, a reminder of the community rules, ...). This helps build trust and coordination.

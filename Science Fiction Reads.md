@@ -1,6 +1,6 @@
 # Science Fiction Reads
 
-Some great sci-fi reads I've enjoyed:
+Some great [[Future|sci-fi]] reads I've enjoyed:
 
 - The Last Question. Asimov.
 - Project Hail Mary. Andy Weir.

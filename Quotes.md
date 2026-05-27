@@ -18,9 +18,9 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - Extraordinary claims require extraordinary evidence. Carl Sagan.
 - The rabbit runs faster than the fox, because the rabbit is running for his life while the fox is only running for his dinner. Richard Dawkins.
 - Where all think alike, no one thinks very much. Walter Lippmann.
-- Every step and every movement of the multitude, even in what are termed enlightened ages, are made with equal blindness to the future; and nations stumble upon establishments, which [are indeed the result of human action, but not the execution of any human design](https://en.wikipedia.org/wiki/Spontaneous_order). Adam Ferguson.
+- Every step and every movement of the multitude, even in what are termed enlightened ages, are made with equal blindness to the [[Future|future]]; and nations stumble upon establishments, which [are indeed the result of human action, but not the execution of any human design](https://en.wikipedia.org/wiki/Spontaneous_order). Adam Ferguson.
 - Comparison is the thief of joy. Theodore Roosevelt.
-- I am writing a longer letter than usual because there is not enough time to write a short one. Blaise Pascal.
+- I am [[Writing|writing]] a longer letter than usual because there is not enough [[Time|time]] to write a short one. Blaise Pascal.
 - When the facts change, I change my mind. What do you do, sir? John Maynard Keynes.
 - Reality is not optional. Thomas Sowell.
 - History doesn't repeat itself, but it does rhyme. Mark Twain.
@@ -44,7 +44,7 @@ A quote is a distilled piece of knowledge. These are some of my favorites.
 - The past is a foreign country, they do things differently there. Leslie Poles Hartley.
 - Most advice is basically people mistaking correlation for causation. Leo Polovets.
 - More effort is wasted doing things that don't matter than is wasted doing things inefficiently. Elimination is the highest form of optimization. James Clear.
-- Consensus is the process of abandoning all beliefs, principles, values, and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: I stand for consensus?. Margaret Thatcher.
+- Consensus is the process of abandoning all beliefs, principles, [[Values|values]], and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: I stand for consensus?. Margaret Thatcher.
 - Y es que en el mundo traidor nada hay verdad ni mentira: todo es según el color del cristal con que se mira. Ramón de Campoamor.
 - You either move information from one place to another, or you move mass from one place to another.
 - The fewer the facts, the stronger the opinion. Arnold H. Glasow.

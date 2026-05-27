@@ -7,7 +7,7 @@
   - Observe and interact.
   - Catch and store energy. For example, capturing rain water.
   - Obtain a yield.
-  - Apply self-regulation and accept feedback.
+  - Apply self-regulation and accept [[Feedback|feedback]].
   - Use and value renewable resources and services.
   - Produce no waste.
   - Design from patterns to details.

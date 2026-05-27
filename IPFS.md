@@ -6,9 +6,9 @@
 - Once something is added, it can't be changed anymore.
 - At the heart of everything is the concept of content identifiers (CIDs).
   - A CID isn't just a hash of a file—it's a combination of the hash, metadata about how the content is hashed, details about encoding, and instructions for interpreting the data.
-  - They provide portability and openness.
+  - They provide portability and [[Openness|openness]].
 - Keeping files available is a challenge. If the nodes storing a file go down, it'll disappear from the network.
-  - Filecoin's idea was to help with this by adding incentives to the equation.
+  - Filecoin's idea was to help with this by adding [[Incentives|incentives]] to the equation.
 - [Content addressing enables robust data integrity checks and efficient networking: systems can verify they received exactly what they asked for and avoid downloading the same content twice. The linked data part lets you link to stuff by its hash. You can build very big graphs with these primitives](https://dasl.ing/).
 
 ## [IPLD](https://ipld.io/)
@@ -16,8 +16,8 @@
 - Data model for IPFS
 - Everything is a node. Nodes have types.
 - The data structure is a Merkle Tree.
-- Makes it easy to have interoperability of data. Useful for distributed databases.
-  - Bridges content addressing and distributed systems.
+- Makes it easy to have interoperability of data. Useful for distributed [[Databases|databases]].
+  - Bridges content addressing and distributed [[Systems|systems]].
 
 ## LibP2P
 

@@ -5,7 +5,7 @@
 - [Codenames](https://www.horsepaste.com/). Can also be played with [Dixit cards](https://meteuphoric.files.wordpress.com/2016/06/pic2664878_lg.jpg).
 - Wits and Wagers.
 - [Diplomacy](https://www.backstabbr.com/).
-- [The Schelling Game](https://www.lesswrong.com/posts/kM3Xd2mJeWtsGkgSW/the-schelling-game-a-k-a-the-coordination-game). Discern Schelling points among the group.
+- [The Schelling Game](https://www.lesswrong.com/posts/kM3Xd2mJeWtsGkgSW/the-schelling-game-a-k-a-the-coordination-game). Discern [[Coordination|Schelling points]] among the group.
 - [Aumann Agreement Game](https://docs.google.com/document/d/1gCKURs0Xdnb8PQS54rckS4CJUp8kCklKs2KKi7xDZdA/edit#). Also possible to [play online](https://web.archive.org/web/20241226132325/https://aumann.io/).
   - [Calibration Questions](https://web.archive.org/web/20230828073617/https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population).
 - [Black Stories](https://detective-stories.com/).
@@ -29,7 +29,7 @@
 - Guess Who. Someone asks a question like "Who is most likely to do X?" and everyone points to their guess at the same time.
 - Cheers to the Governor. As a group, you have to count to 21. The first rule is that 7 and 14 are swapped. Every time you succeed, you say cheers to the governor and add a new rule (e.g: 8 changes direction, 9 is silent, you have to say hello instead of 4, ...).
 - Celebrity cup. Add people to a cup and grab 2. You need to defend why that couple will work.
-- Deduction Games like "Who Has the Hat".
+- [[Thinking|Deduction]] Games like "Who Has the Hat".
 - Handmade [Chronology](https://boardgamegeek.com/boardgame/834/chronology). Write up events as a group, [then sort them out](https://boardgamegeek.com/video/47758/chronology/chronology-overview).
 - [Many other activities can be played as games](https://www.whataaabout.com/)!
 
@@ -59,7 +59,7 @@
 - Play some beats and everyone goes around freestyle rapping?
 - One Page RPGs.
 
-## RPGs
+## [[Dungeons and Dragons|RPGs]]
 
 - [Laser and Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf). Also [with hacks](https://writingalchemy.net/resources/lasers-and-feelings-hacks/)!
 - [Honey Heist](https://gshowitt.itch.io/honey-heist).
@@ -68,7 +68,7 @@
 - [Roll for Shoes](https://rollforshoes.com/).
 - [List of one-page RPGs](https://www.reddit.com/r/rpg/comments/1vie0k/what_are_your_favorite_onepage_rpgs/).
 
-## Online Platforms
+## [[Web Based Tools|Online Platforms]]
 
 - [Netgames](https://netgames.io/). Social games for your phone.
 - [Skribble.io](https://skribbl.io). Drawing game.
@@ -78,7 +78,7 @@
 - [Smart Cookie Trivia](https://web.archive.org/web/20251211062847/https://www.smart-cookie-trivia.com/). Free, fun, challenging, multiplayer quizzes.
 - [Escape Team](https://www.escape-team.com/). A digital-physical escape room game.
 
-## Board Games
+## [[Game Design|Board Games]]
 
 - [Scythe](https://boardgamegeek.com/boardgame/169786/scythe).
 - [Res Arcana](https://boardgamegeek.com/boardgame/262712/res-arcana).

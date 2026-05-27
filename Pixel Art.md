@@ -1,5 +1,7 @@
 # Pixel Art
 
+Pixel art is useful for [[Game Design|game design]] and small visual assets.
+
 - [Tutorials](https://web.archive.org/web/20250730134304/https://saint11.art/blog/pixel-art-tutorials/) - Great collection of pixel art tutorials.
 
 ## Resources

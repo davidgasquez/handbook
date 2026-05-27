@@ -1,6 +1,6 @@
 # Reverse ETL
 
-- Data landscape moving like Unix tools. Specialized tools talking on the data warehouse.
+- Data landscape moving like Unix tools. Specialized tools [[Talking|talking]] on the data warehouse.
 
 ## Why?
 
@@ -13,8 +13,8 @@
 - You get to use all the data you have, improving your [[Data Culture]].
   - You can use the real source of truth for all the events and not rely on tracking only.
   - You can join sources like ChartMogul, Customer.io, etc.
-  - You can create more interesting events by enriching the events and user profiles with extra properties/traits (Trial Started with a conversion probability attached). Makes product analytics much more powerful.
-- It is much easier to reuse the data available in the warehouse than it is to import the data in any new tool we use in the future.
+  - You can create more interesting events by enriching the events and user profiles with extra properties/traits (Trial Started with a conversion probability attached). Makes [[Product Analytics|product analytics]] much more powerful.
+- It is much easier to reuse the data available in the warehouse than it is to import the data in any new tool we use in the [[Future|future]].
   - You can be much more flexible with the tools we want to use because the data is shared and owned by us.
   - You avoid being locked into BI tools like Mixpanel since the logic will be stored in our warehouse.
 - As with any new tool, it gives more flexibility and power.

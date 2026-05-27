@@ -55,7 +55,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **A programmer who can't reuse other programs is condemned to rewrite them**.
   - Use software leverage to your advantage.
   - Many programmers have only a superficial understanding of the importance of reusable code modules.
-  - [Code isn't just meant to be executed. Code is also a means of [[Communication]] across a team, a way to describe to others the solution to a problem](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d). Good writing skills often correlate with good thinking and programming skills. [Sharing knowledge through writing (blogs, talks, documentation, open source) clarifies your thinking and helps others](https://endler.dev/2025/best-programmers/).
+  - [Code isn't just meant to be executed. Code is also a means of communication across a team, a way to describe to others the solution to a problem](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d). Good [[Writing|writing]] skills often correlate with good thinking and programming skills. [Sharing knowledge through writing (blogs, talks, documentation, open source) clarifies your thinking and helps others](https://endler.dev/2025/best-programmers/).
 - **Silence is golden**.
   - A silent command is often more usable, providing the function asked for and nothing more.
 - **Think parallel**.

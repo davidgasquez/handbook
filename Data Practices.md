@@ -17,7 +17,7 @@ Inspired by [Caitlin Hudon's Intake Form for Data Requests](https://caitlinhudon
 ### Data Request Form
 
 - What kind of deliverable would be most helpful for your request?
-- Will you need this data again in the future?
+- Will you need this data again in the [[Future|future]]?
 - Which stats will this change or which action will be taken based on this data and by whom?
   - How can we measure our progress/success for each step?
   - What happens if we don't hit the target?
@@ -28,7 +28,7 @@ Inspired by [Caitlin Hudon's Intake Form for Data Requests](https://caitlinhudon
 - [What are we trying to improve](https://twitter.com/ergestx/status/1758538405695086829)?
 - **Request Description**
 - Do you know where the related data is?
-- What time period do you care about?
+- What [[Time|time]] period do you care about?
 - Can this analysis be done in our current BI tools?
   - If yes, do you have a starting link?
   - If no, can [[Reverse ETL]] help?
@@ -40,14 +40,14 @@ Inspired by [Caitlin Hudon's Intake Form for Data Requests](https://caitlinhudon
 - Who will see this deliverable?
 - How will this deliver business value within 90 days?
 
-## Weekly Metrics Review
+## Weekly [[Metrics]] Review
 
 - Beware of the question "Why did metric X go down last week?" It's frustrating to not know. But the reality is that there's often random spikes of usage, seasonality, and other external factors. If you chase every dip, you'll make up narratives that aren't true.
 - [You'll find 95% of metrics fall into "business as usual"](https://twitter.com/teej_m/status/1293637500703924225) and don't need to be discussed. When you report the weekly metrics, split into:
   1. Notable trends.
   2. Watching close.
   3. Business as usual.
-- Make people talk and explore their metrics.
+- Make people talk and explore their [[Metrics|metrics]].
 
 ## Data Platform UX Survey
 
@@ -76,7 +76,7 @@ We need to know what works, what doesn't and what people are using.
 
 The aim is to answer the following questions each time:
 
-1. **What am I looking at?** A **short-but-informative title** can tell people immediately what data is the focus of the insight.
+1. **What am I looking at?** A **short-but-informative title** can tell people immediately what data is the [[Focus|focus]] of the insight.
 2. **What should I learn from this?** or, Why should I care? Include the **most useful information,** and/or a **clear takeaway**. For folks who only have a few seconds to scan the message, it should be **easy to spot** the **most valuable** bit of the insight, the **reason** this exploration was considered worth sharing.
 3. **What caught my eye?** Share a chart or a related resource!
 4. **What if I want to know more?** A **link to additional information** can be valuable for people who have time for more than a quick scan and want to understand how you developed the insight, or do some of their own related exploration.
@@ -84,7 +84,7 @@ The aim is to answer the following questions each time:
 6. **What if posting this prompts a whole bunch of follow-up questions, or exposes incorrect assumptions?** If you have hit on something that's interesting to a lot of people there likely will be questions that spin off, new ways to slice the data you're looking at, or assumptions you have made that need to be corrected.
 - Apply [[Data Visualization]] principles so shared charts stay clear when they travel.
 
-### Slack Template
+### [[Slack]] Template
 
 ```md
 ![Chart]()

@@ -1,10 +1,10 @@
 # Agentic Engineering
 
-An agent runs tools in a loop to achieve a goal. Agents are systems where [[Artificial Intelligence Models|LLMs]] dynamically direct their own processes and tool usage, maintaining control over how they accomplish tasks. Agents help decouple programming, the craft of physically typing code, from engineering, the architecture of your system, the goals, the "why" of what you're building.
+An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|systems]] where [[Artificial Intelligence Models|LLMs]] dynamically direct their own [[Processes|processes]] and tool usage, maintaining control over how they accomplish tasks. Agents help decouple [[Programming|programming]], the craft of physically typing code, from engineering, the architecture of your system, the goals, the "why" of what you're building.
 
 - Using LLMs for coding is difficult and unintuitive, requiring significant effort to master.
-- Don't delegate thinking, delegate work.
-- Before coding, make a plan with the model.
+- Don't delegate [[Thinking|thinking]], delegate work.
+- Before coding, make a [[Planning|plan]] with the model.
   - You can use the same or a different model to critique the plan and iterate. If you are unsure, ask to ["give a few options before making changes"](https://steipete.me/posts/just-talk-to-it).
   - Progressive, iterative prototyping. [Code is cheap. Redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms). Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh once you know what and how to build it.
   - Failed attempts are cheap. If the plan fails and the result is bad, just delete everything and try again.
@@ -26,17 +26,17 @@ An agent runs tools in a loop to achieve a goal. Agents are systems where [[Arti
   - Automated testing.
   - [Red/green TDD](https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/).
   - Planning in advance.
-  - Comprehensive documentation (exportable/accessible in markdown).
+  - Comprehensive [[Documentation|documentation]] (exportable/accessible in markdown).
   - Good version control habits.
-  - Having effective automation in place.
-  - A culture of code review.
+  - Having effective [[Automation|automation]] in place.
+  - A [[Culture|culture]] of code review.
   - Modular, reusable code.
   - Strong research skills.
   - The ability to ship to a preview environment.
   - An instinct for what can be outsourced (to AI vs what needs human attention).
   - A good (updated) sense of estimation.
 - Some [[programming]] rules for code design from the Unix philosophy help here:
-  - Modularity: Write simple parts connected by clean interfaces.
+  - [[Modularity]]: Write simple parts connected by clean interfaces.
   - Clarity: Clarity is better than cleverness.
   - Separation: Separate policy from mechanism. Separate interfaces from engines.
   - Simplicity: Design for simplicity. Add complexity only where you must.

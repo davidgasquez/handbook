@@ -1,7 +1,7 @@
 # Blockchain
 
-- [A blockchain is a decentralized [[Databases|database]]](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
-  - A blockchain is a worse database. It is slower, requires way more storage and compute, doesn't have customer support, etc. [But has one dimension along which it is radically different. No single entity or small group of entities controls it](https://continuations.com/web3crypto-why-bother).
+- [A blockchain is a decentralized database](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
+  - A blockchain is a worse [[Databases|database]]. It is slower, requires way more storage and compute, doesn't have customer support, etc. [But has one dimension along which it is radically different. No single entity or small group of entities controls it](https://continuations.com/web3crypto-why-bother).
 - Blockchains solve the Byzantine Generals Problem: [How do participants in a decentralized network communicate and coordinate with each other towards some action without relying on a trusted third-party?](https://a16zcrypto.com/posts/article/crypto-glossary/).
   - Blockchains are "trustless". There are mechanisms in place by which all parties in the [[Systems|system]] can reach a consensus on what the canonical truth is.
   - Power and trust are distributed (or shared) among the network's stakeholders (e.g. developers, miners, and consumers), rather than concentrated in a single individual or entity (e.g. banks, governments, and financial institutions).
@@ -12,7 +12,7 @@
   - Fungible (there isn't a difference between two items. eg. storing files). All the coins are mutually interchangeable.
   - The resource can be provided by a lot of people.
 - Smart contracts can be defined as code that's replicated and executed on all the blockchain nodes.
-  - You can encode "incentives" in a smart contract that will be enforced by the code. This drives behavior.
+  - You can encode "[[Incentives|incentives]]" in a smart contract that will be enforced by the code. This drives behavior.
 - Smart contracts allow permissionless composability. [Composability allows anyone in a network to take existing programs and adapt or build on top of them, it unlocks completely new use cases that don't exist in our world](https://a16zcrypto.com/posts/article/how-composability-unlocks-crypto-and-everything-else/).
 - [Blockchains could replace networks with markets](https://twitter.com/naval/status/877467629308395521).
 - [They can be thought of as social and economic laboratories because they're great for experimenting with novel concepts at scale](https://x.com/binji_x/status/1891929209737470024).

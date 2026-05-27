@@ -31,13 +31,13 @@
 - Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601).
 - [Don't try to _persuade_ people that the idea is true/good. Instead, try to accurately _describe_ where the idea came from, the path which led _you_ to think it's true/plausible/worth a look. In the process, you'll probably convey your own actual level of uncertainty, which is exactly the right thing to do.](https://www.lesswrong.com/posts/Psr9tnQFuEXiuqGcR/how-to-write-quickly-while-maintaining-epistemic-rigor)
 - Be self-aware about your knowledge level on a topic, and say "I'm not sure…" when you are not sure about something.
-- Separate the processes of creation from improvement. **You can't write and edit at the same time**. Write the first draft fast, then iterate on it editing things. Much of this editing will be cutting, and that makes simple writing even simpler.
+- Separate the [[Processes|processes]] of creation from improvement. **You can't write and edit at the same [[Time|time]]**. Write the first draft fast, then iterate on it editing things. Much of this editing will be cutting, and that makes simple writing even simpler.
 - [Beware of "this"](https://www.lesswrong.com/posts/5e49dHLDJoDpeXGnh/editing-advice-for-lesswrong-users). Scan your words for words like "this" or "that", and when in doubt about clarity, replace them with whatever their intended antecedents are.
 - You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
   - [The point of editing](https://evaparish.com/blog/how-i-edit) is to think about how you're using language and to make choices that suit the message you want to deliver, not to unquestioningly follow rules—mine or anyone else's.
 - When writing tutorials or guides, use the second-person and describe actions to a user. These types of content talk to people when humans can't. [Technical documentation follows the same rules as normal writing](https://developers.google.com/tech-writing/one).
   - [Make it fun](http://web.archive.org/web/20240307010045/https://davnicwil.com/tips-for-making-writing-more-fun/)!
-- The skills you learn by writing transfer to speaking. Being good at speaking makes you more persuasive.
+- The skills you [[Learning|learn]] by writing transfer to speaking. Being good at speaking makes you more persuasive.
 - If it's not written down, it's not.
 - Good nonfiction has three qualities:
   1. It gets to the point.

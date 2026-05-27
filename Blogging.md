@@ -20,7 +20,7 @@
   3. Previews: Give quick previews of your subtopics
   4. Subtopics: Go into depth with your subtopics
   5. Summaries: Recap your subtopics
-  6. Conclusion: Paint an ideal vision of the future
+  6. Conclusion: Paint an ideal vision of the [[Future|future]]
   7. Call to action: Invite your audience to act or make a decision
 - For [short-form content](https://sivers.org/7):
   1. Write all your thoughts on a subject.
@@ -32,9 +32,9 @@
   7. Post the outline. Trash the rest.
 - Alternatively, try the Rift approach:
   1. An inquisitive title, something that is not "the ultimate guide" but more "some notes on..."
-  2. A few references. Connect the dots between some links, quotes from other sources.
+  2. A few references. Connect the dots between some links, [[Quotes|quotes]] from other sources.
   3. An anecdote from your own work that provides rich texture and context for what you do.
-  4. Some open questions that invite people to discuss.
+  4. Some [[Open Questions|open questions]] that invite people to discuss.
 - [Keep making your post more opinionated until it reflects your true beliefs](https://twitter.com/HamelHusain/status/1751995737095709164). Don't hedge. People want to hear what you think!
 - The title gets read way more than the rest, [so make it count](https://dynomight.net/titles/). **Always optimize the title and first paragraph of your post**.
   - Think of the title as a "classifier": it should attract those who will like the content and deter those who won't.
@@ -46,10 +46,10 @@
   - Make a strong claim about the content
   - Are almost too specific
   - Use unusual word combinations
-  - Evoke curiosity
+  - Evoke [[Curiosity|curiosity]]
 - The inverted pyramid works well for blog posts. Put the tweet-length version of the post in the title or first paragraph. Get to the point quickly, then elaborate. Readers can bail out at any point of the text and still take home most of what mattered, while the meticulous crowd can have their nitpicks addressed toward the end.
 - [You're not just writing for today's invisible audience](https://web.archive.org/web/20250219111210/https://andysblog.uk/why-blog-if-nobody-reads-it/). You're writing for:
-  - Future you. Your posts become a time capsule of your evolving mind.
+  - Future you. Your posts become a [[Time|time]] capsule of your evolving mind.
   - One right person. Maybe one day, someone stumbles across your words at exactly the right moment. And that changes something for them.
   - The work itself. Consistency beats virality. A hundred posts with depth will outlast a single viral hit.
 - If you have done something cool, or you have studied something for a long time, or you have thought something interesting, and you are writing it up, and you are at a loss how to get started, try to extract out the key phrase. What do you find yourself ranting about to people repeatedly? What does the Wikipedia entry miss that frustrates you? How would the world be different if this were not true? If you were telling a friend in a rush why you were excited to write this down, what would you say? Just say that!

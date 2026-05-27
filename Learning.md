@@ -1,8 +1,8 @@
 # Learning
 
 - Learning is a process of [[Conceptual Compression]].
-- Understand the base and build from it. First-principles method. Seek the big picture understanding - focus on concepts not details.
-- [Don't delegate understanding](https://stephango.com/understand). When you outsource hard things without learning how they work, you become dependent on systems that profit from extraction and intervention.
+- Understand the base and build from it. First-principles method. Seek the big picture understanding - [[Focus|focus]] on concepts not details.
+- [Don't delegate understanding](https://stephango.com/understand). When you outsource hard things without learning how they work, you become dependent on [[Systems|systems]] that profit from extraction and intervention.
 - Read about topics you care about, observe the world around you and keep a beginner's mind (*shoshin*).
   - Find a mentor if you can and ask them questions.
 - Don't be afraid to [[Asking Questions|ask a question]] that may sound stupid because 99% of the time everyone else is thinking of the same question and is too embarrassed to ask it.
@@ -36,7 +36,7 @@
   - Have an Analogy about it.
   - Visualize it in a Diagram.
   - Gather Examples. Examples are an amazing way to learn things!
-    - Examples are an excellent way to resolve lossy information transfer - they're a completely different channel of communication than normal. If nothing else, they serve as an error check.
+    - Examples are an excellent way to resolve lossy information transfer - they're a completely different channel of [[Communication|communication]] than normal. If nothing else, they serve as an error check.
     - Examples are a great way to transfer tacit knowledge, without necessarily making it legible - this is what it means to build intuition.
   - Come up with a Plain-English description of the concept.
   - Then, dive into the Technical side.

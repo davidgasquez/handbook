@@ -2,7 +2,7 @@
 
 The goal of [Deep Funding](https://deepfunding.org/) is to develop a system that can allocate resources to public goods (discover public goods value signals) with a level of accuracy, fairness, and open access that rivals how private goods are funded by markets, ensuring that high-quality open-source projects can be sustained. Traditional price signals don't exist, so we need "artificial markets" that can simulate the information aggregation properties of real markets while being resistant to the unique failure modes of public goods funding. [Deep Funding is an Impact Evaluator](https://hackmd.io/@dwddao/HypnqpQKke).
 
-In Deep Funding, multiple mechanisms (involving data, mechanism design, and open source) work together. Each layer can be optimized and iterated independently.
+In Deep Funding, multiple mechanisms (involving data, [[Mechanism Design|mechanism design]], and open source) work together. Each layer can be optimized and iterated independently.
 
 1. A mechanism that generates an up-to-date and comprehensive DAG of relevant dependencies given a source node
 2. A mechanism that fills the graph with relevant weights. These weights represent the latent item utilities. There can be many ways of getting to them!
@@ -13,13 +13,13 @@ In Deep Funding, multiple mechanisms (involving data, mechanism design, and open
   - Having experts fill weights manually
 3. A mechanism that takes that weight vector as input and distributes money to the projects
 
-Deep Funding can be viewed as a [Software-2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) approach to public-goods allocation. Instead of manually designing funding rules, evaluation processes, and governance structures, define an objective function, tests, eval sets, and scoring criteria. Then, let any kind of mechanism (AI models, prediction markets, statistical algorithms, human raters, etc.) compete to solve them. The human work shifts from hand-crafting decision procedures to specifying what "good allocation" looks like and collecting high-quality data. Everything else becomes an optimization problem where participants will try to produce weight predictions that best fit the data. Deep Funding can be seen as **an evolving benchmark suite for truthfully estimating public-goods value**, and progress comes from iterating on the evals rather than hard-coding the system itself. In this view, Deep Funding produces competing value models rather than a single canonical one.
+Deep Funding can be viewed as a [Software-2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) approach to public-goods allocation. Instead of manually designing funding rules, evaluation [[Processes|processes]], and [[Governance|governance]] structures, define an objective function, tests, eval sets, and scoring criteria. Then, let any kind of mechanism (AI models, prediction markets, statistical algorithms, human raters, etc.) compete to solve them. The human work shifts from hand-crafting decision procedures to specifying what "good allocation" looks like and collecting high-quality data. Everything else becomes an optimization problem where participants will try to produce weight predictions that best fit the data. Deep Funding can be seen as **an evolving benchmark suite for truthfully estimating public-goods value**, and progress comes from iterating on the evals rather than hard-coding the system itself. In this view, Deep Funding produces competing value models rather than a single canonical one.
 
 ## Desired Properties
 
 - Credible Neutrality Through Transparent and Simple Mechanisms
-- Comparative Truth-Seeking Over Absolute Metrics
-- Plurality-Aware Preference Aggregation
+- Comparative Truth-Seeking Over Absolute [[Metrics]]
+- [[Plurality]]-Aware Preference Aggregation
 - Collusion-Resistant Architecture
 - Practical Scalability
 - Credible Exit and Forkability
@@ -48,7 +48,7 @@ After participating in the ML competition and Prediction Market, and doing a few
 
 - **Juror Reliability**
   - So far, expert jurors' pairwise comparisons have been inconsistent, noisy, and low in statistical power
-  - Getting comparisons has been quite expensive in time and resources
+  - Getting comparisons has been quite expensive in [[Time|time]] and resources
   - The jury (secret) pool diversity is not guaranteed
   - Asking jurors "how much better" introduces order‑dependence and scale mismatch
   - Messy jurors have [disproportionate impact on the weights](https://davidgasquez.github.io/deepfunding-trial-data-analysis/#-robustness-checks)
@@ -109,7 +109,7 @@ After participating in the ML competition and Prediction Market, and doing a few
   - Rather than a single weighting mechanism, allow different communities to define their own evaluation functions (security-focused, innovation-focused, stability-focused) that can be composed. This enables plurality while maintaining comparability
   - Multiple weight models compete simultaneously and funding allocators choose among them.
 - Create a bounty system where anyone can claim rewards for discovering hidden dependencies (similar to bug bounties)
-  - This crowdsources the graph discovery problem and incentivizes thorough documentation.
+  - This crowdsources the graph discovery problem and incentivizes thorough [[Documentation|documentation]].
 - Projects can opt out of the default distribution and declare a custom one for dependencies. Organizers can allow or ignore that
 - Self-declaration needs a "contest process" to resolve issues/abuse
 - Harberger Tax on self-declarations? Bayesian Truth Serum for Weight Elicitation?

@@ -39,7 +39,7 @@ Decision-making is the process we use to identify and choose alternatives, produ
 - Most experts aren't communicators and most communicators aren't experts. This often results in research on issues being spun with a narrative by the time it reaches the public.
 - Beware of cases where the decision lies in the hands of people who would gain little personally, or lose out personally, if they did what was necessary to help someone else. They have no skin in the game and no incentives.
   - [The decision-makers shouldn't have competing incentives with the decision outcome](https://www.youtube.com/watch?v=Rwxkqno1PTc).
-- You have a plan. A time-traveler from the future appears and tells you your plan failed. Which part of your plan do you think is the one that fails? Fix that part.
+- You have a plan. A time-traveler from the [[Future|future]] appears and tells you your plan failed. Which part of your plan do you think is the one that fails? Fix that part.
 - When consensus doesn't occur it's because there isn't a clear answer or because there is a conflict between groups. In these situations, it's up to management to make a decision so the organization can move forward.
 - If you're in between two decisions, don't half-ass both of them! Do one 100%, then do the other 100%.
 - People reason more wisely about other people's problems than about their own.

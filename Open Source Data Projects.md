@@ -1,6 +1,6 @@
 # Open Source Data Projects
 
-## Data Warehouses
+## [[Databases|Data Warehouses]]
 
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse)
 - [Seafowl](https://github.com/splitgraph/seafowl)
@@ -20,13 +20,13 @@
 - [Metabase](https://www.metabase.com/)
 - [Evidence](https://www.evidence.dev/)
 
-## Visualizations
+## [[Data Visualization|Visualizations]]
 
 - [Raw Graphs](https://app.rawgraphs.io/)
 - [Kepler](https://kepler.gl/) (maps)
 - [Observable Plot](https://observablehq.com/plot/)
 
-## Data Pipelines
+## [[Data Engineering|Data Pipelines]]
 
 - [Meltano](https://meltano.com)
 - [Airbyte](https://airbyte.io/)

@@ -1,14 +1,14 @@
 # Documentation
 
-- If your product/tool/process documentation is not good enough, people will not use it.
-- The documentation for a project should live in the same repository as the code itself.
+- If your product/tool/[[Processes|process]] documentation is not good enough, people will not use it.
+- The documentation for a project should live in the same repository as the [[Programming|code]] itself.
   - Update documentation in lockstep when updating the codebase.
   - Documentation should be **versioned**.
   - Documentation changes should be reviewed in the same way as your code.
   - Show realistic examples and verify them against the code when possible with type checks, tests, or builds.
-- [Documentation](https://diataxis.fr/) needs to include and be structured around its four different functions: [tutorials, how-to guides, technical reference and explanation](https://documentation.divio.com/introduction/). Each of them requires a distinct mode of writing.
-  - A tutorial is learning-oriented, allows the newcomer to get started, similar to a lesson. E.g: teaching a small child how to cook.
-  - A how-to guide is goal-oriented, shows how to solve a specific problem with a series of steps. E.g: a recipe in a cookery book.
+- [Documentation](https://diataxis.fr/) needs to include and be structured around its four different functions: [tutorials, how-to guides, technical reference and explanation](https://documentation.divio.com/introduction/). Each of them requires a distinct mode of [[Writing|writing]].
+  - A tutorial is [[Learning|learning]]-oriented, allows the newcomer to get started, similar to a lesson. E.g: teaching a small child how to cook.
+  - A how-to guide is [[Goals|goal]]-oriented, shows how to solve a specific problem with a series of steps. E.g: a [[Recipes|recipe]] in a cookery book.
   - An explanation is understanding-oriented, provides background and context. E.g: an article on culinary social history.
   - A reference guide is information-oriented, describes the machinery and is accurate and complete. E.g: a reference encyclopedia article.
 - For reference docs, use a [predictable structure](https://raw.githubusercontent.com/tempoxyz/mpp/refs/heads/main/AGENTS.md): one-line summary, usage, return type or output, parameters or inputs, and clearly marked optional fields.
@@ -28,7 +28,7 @@
   - Don't claim things are "easy" or "fast."
   - Avoid future tense ("will"), weak conditional phrasing ("should"), and Latin abbreviations like "e.g."; prefer direct instructions and "for example".
   - Keep headings short and never skip heading levels.
-- Programming is fundamentally about building a theory. A shared mental model of how a system works, why it works that way, and how it should evolve.
+- Programming is fundamentally about building a theory. A shared [[Mental Models|mental model]] of how a [[Systems|system]] works, why it works that way, and how it should evolve.
   - The source code is merely a written representation of this theory, and like all representations, it's lossy.
   - Critical knowledge about intent, design decisions, trade-offs, and the reasoning behind architectural choices exists only in the minds of the people who built the system.
 - [As you are working in a team, then you have to address the problem of shared understanding](https://surfingcomplexity.blog/2022/11/24/writing-docs-well-why-should-a-software-engineer-care/). This is where documentation comes in.
@@ -45,7 +45,7 @@
   - Remove weasel words. Replace adjectives with data or details.
   - Ask the "So what" question to every sentence that you write.
   - Prefer active voice to passive.
-- Most docs are short-lived and used for point-in-time discussions. However, some documents serve for a longer time. To have your writing stand the test of time, avoid using references that change with time or location.
+- Most docs are short-lived and used for point-in-[[Time|time]] discussions. However, some documents serve for a longer time. To have your writing stand the test of time, avoid using references that change with time or location.
 - Documentation is valuable if it captures the design decision and intention at the time of the creation of the software, rather than the functionality of the software itself.
 
 ## Resources

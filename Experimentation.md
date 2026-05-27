@@ -12,7 +12,7 @@ When you're not certain of the right answer, the best approach is to [have a por
 
 Normally this will consist of two groups: A **control** and **test** group, but it could also be implemented with multiple test groups (a multivariate test). The goal of an A/B test is to reach a statistically significant result, i.e. you can say that one variant is better than the other with a high level of confidence that observed difference did not occur by chance. While A/B testing is a very powerful conversion optimization instrument, it requires lots of hard work. [Most of your experiments will not produce a significant result](https://www.jitbit.com/news/185-most-of-your-ab-tests-will-fail).
 
-Tooling built on the right principles can provide the foundation for a culture of experimentation. Experimentation platforms should be transparent and open such that anyone can create an experiment and everyone can see the historical experiments that have been run — including hypothesis, experimental design, and results. Social layers such as commenting and version control allow for peer review and peer-to-peer education. Sharing functionality to make it easy to link to experiments in emails, Slack, or other communication channels reinforces experimental literacy. Workflows that abstract statistical concepts and make it easier for people to understand what experiments are reduce the perceived barrier to entry and make it easier for people to engage. [Altogether, these principles help cultivate and reinforce experimental literacy within your organization](https://towardsdatascience.com/the-experimentation-gap-3f5d374d354c).
+Tooling built on the right principles can provide the foundation for a [[Culture|culture]] of experimentation. Experimentation platforms should be transparent and open such that anyone can create an experiment and everyone can see the historical experiments that have been run — including hypothesis, experimental design, and results. Social layers such as commenting and version control allow for peer review and peer-to-peer education. Sharing functionality to make it easy to link to experiments in emails, [[Slack]], or other [[Communication|communication]] channels reinforces experimental literacy. Workflows that abstract statistical concepts and make it easier for people to understand what experiments are reduce the perceived barrier to entry and make it easier for people to engage. [Altogether, these principles help cultivate and reinforce experimental literacy within your organization](https://towardsdatascience.com/the-experimentation-gap-3f5d374d354c).
 
 ## Running Experiments
 
@@ -20,14 +20,14 @@ We do not live in an ideal world, so we need to be very deliberate and thoughtfu
 
 - Generate hypotheses based on actual observations. All experiments should have a hypothesis in plain English.
 - Do not simply copy what other companies are doing (do not assume that other companies tested and validated something).
-- Choose one primary metric in advance to determine "winner" while keeping a few guardrail metrics.
+- Choose one primary [[Metrics|metric]] in advance to determine "winner" while keeping a few guardrail metrics.
 - [You're probably **not measuring what you thought you were measuring**](https://www.lesswrong.com/posts/9kNxhKWvixtKW5anS/you-are-not-measuring-what-you-think-you-are-measuring). But if you measure enough different stuff, you might figure out what you're actually measuring.
   - Log generously.
-- Stack rank all ideas based on level of effort and potential impact -- also required sample size/run time to get results.
+- Stack rank all [[Ideas|ideas]] based on level of effort and potential impact -- also required sample size/run [[Time|time]] to get results.
 - Continuously validate tracking implementation.
 - Think carefully when choosing your randomization unit.
 - Run more A/A tests.
-- The best two places to run an A/B test: In early planning (what kinds of stories do people want) and when adding finishing touches (alternative versions of a scene).
+- The best two places to run an A/B test: In early [[Planning|planning]] (what kinds of stories do people want) and when adding finishing touches (alternative versions of a scene).
 - Remember, you're measuring averages.
 - A great way to help people understand the importance of healthy scrutiny and [how our biases work](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) can be to do a session where people guess the impact of an A/B test before you reveal it.
 

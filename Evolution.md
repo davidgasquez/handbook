@@ -2,7 +2,7 @@
 
 > If you want to make a living flower, you don't build it - you grow it from the seed. Christopher Alexander.
 
-- Evolution is a behavior that emerges in any system that has:
+- Evolution is a behavior that [[Emergence|emerges]] in any system that has:
   1. Mutation
   2. Heredity
   3. Selection

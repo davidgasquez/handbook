@@ -1,11 +1,11 @@
 # Data Package Manager
 
 Package managers have been hailed among the most important innovations Linux brought to the computing industry.
-Data is not code, but the activities of both publishers and users of datasets resemble those of authors and users of software packages. Package managers provide frictionless access to code, a universal catalogue, standardized metadata, versioning, and a social/reputation layer (e.g: installs).
+Data is not [[Programming|code]], but the activities of both publishers and users of datasets resemble those of authors and users of software packages. Package managers provide frictionless access to code, a universal catalogue, standardized metadata, versioning, and a social/reputation layer (e.g: installs).
 
 ## Principles
 
-- **Distribution**. Decentralized. No central authority. Can work in closed and private networks. Cache/CDN friendly.
+- **Distribution**. [[Decentralized Protocols|Decentralized]]. No central authority. Can work in closed and [[Privacy|private]] networks. Cache/CDN friendly.
   - A data package is a URI ([like in Deno](https://deno.land/manual@v1.31.2/examples/manage_dependencies)). You can import from a URL (`data add example.com/dataset.yml` or `data add example.com/hub_curated_datasets.yml`).
   - As Rufus Pollock puts it, Keep it as simple as possible. Store the table location and schema and get me the data on the hard disk (or my browser) fast.
   - [Bootstrap a package registry](https://antonz.org/writing-package-manager/). E.g: a GitHub repository with lots of known `datapackages` that acts as a fallback and quick way to get started with the tool (`data list` returns a bunch of known open datasets and integrates with platforms like Hugging Face).
@@ -17,14 +17,14 @@ Data is not code, but the activities of both publishers and users of datasets re
     - For example, integrate all [Hugging Face datasets](https://huggingface.co/docs/datasets/index) by making a scheduled job that builds a Frictionless Catalog (bunch of `datapackage.yml`s pointing to their parquet files).
     - [Expose a JSON-LD so Google Dataset Search can index it](https://developers.google.com/search/docs/appearance/structured-data/dataset).
   - Data assets should be Findable, Accessible, Interoperable, and Reproducible. [FAIR](https://www.go-fair.org/fair-principles/).
-  - Finding the right dataset to answer a question is difficult. Good metadata search is essential.
-  - Have one profile per user/organization with multiple data products (e.g: how GitHub has one profile per user with multiple repositories, or Hugging Face has one profile per user with multiple datasets).
+  - Finding the right [[Open Data|dataset]] to answer a question is difficult. Good metadata search is essential.
+  - Have one profile per user/[[Organizations|organization]] with multiple data products (e.g: how GitHub has one profile per user with multiple repositories, or Hugging Face has one profile per user with multiple datasets).
 - **Formatting**. Datasets are saved and exposed in multiple formats (CSV, Parquet, ...). Could be done in the backend, or in the client when pulling data (WASM). The package manager should be **format- and storage-agnostic**. Give me the dataset with ID `xyz` as a CSV in this folder.
-- **Social**. Allow users, organizations, stars, citations, attaching default visualizations (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
+- **Social**. Allow users, organizations, stars, citations, attaching default [[Data Visualization|visualizations]] (d3, [Vega](https://vega.github.io/), [Vegafusion](https://github.com/vegafusion/vegafusion/), and others), ...
   - Importing datasets. Make it possible to `data fork user/data`, improve something, and publish the resulting dataset back (via something like a PR).
   - Have issues and discussions close to the dataset.
   - Support for different licensing models beyond "fully open" (e.g., attribution, non-commercial).
-  - Linking data to other data makes all the data more valuable.
+  - [[Knowledge Graphs|Linking data to other data]] makes all the data more valuable.
   - Default protocol or social network for sharing datasets (similar to how email or RSS feeds work).
 - **Extensible**. Users could extend the package resource (e.g: [Time Series Tabular Package inherits from Tabular Package](https://specs.frictionlessdata.io/tabular-data-package/)) and add better support for more specific kinds of data (geographical).
   - Build integrations to ingest and publish data in other hubs (e.g: CKAN, HuggingFace, ...).
@@ -32,7 +32,7 @@ Data is not code, but the activities of both publishers and users of datasets re
 
 ## Storage and Serialization
 
-- **Permanence**. Each [version](http://web.archive.org/web/20211209080049/http://tech.datopian.com/versioning/) should be permanent and accessible (look at `git`, `IPFS`, `dolt`, ...).
+- **Permanence**. Each [version](http://web.archive.org/web/20211209080049/http://tech.datopian.com/versioning/) should be permanent and accessible (look at [[Git|`git`]], [[IPFS|`IPFS`]], `dolt`, ...).
 - **Versioning**. Should be able to manage _diffs_ and _incremental changes_ in a smart way. E.g: only storing the new added rows or updated columns.
   - Should allow [automated harvesting of new data](http://web.archive.org/web/20211209080017/http://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
   - Each version is referenced by a hash. Git style.
@@ -42,14 +42,14 @@ Data is not code, but the activities of both publishers and users of datasets re
   - Tabular data could be partitioned to make it easier for future retrieval.
   - Implement [common column standards](https://docs.google.com/document/d/1iTl7YWfTAzp8zNXRs01RAIWCP-pRJwQfDg8lsD0TDCM/edit?tab=t.0) (e.g: `country_code`, `date`, ...) that allow for data validation and standardization across datasets. These also help with interoperability / integration.
     - We can't cooperate on global issues if we can't agree on how to refer to things!
-  - Use standardized identifiers and aggregation levels to ensure data quality and compatibility.
+  - Use standardized identifiers and aggregation levels to ensure [[Data Quality|data quality]] and compatibility.
 - **Immutability**. Never remove historical data. Data should be append-only.
   - Many public data sources issue restatements or revisions. The protocol should be able to handle this.
   - [Higher resolution is more valuable than lower resolution](https://www.linkedin.com/pulse/re-framing-open-data-john-weigelt/). Publish immutable data and then compute the lower resolution data from it.
-  - Similar to how `git` deals with it. You _could_ force the deletion of something in case that's needed, but that's not the default behavior.
-- **Flexible**. Allow arbitrary backends. Both centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized (IPFS, Hypercore, Torrent, ...) layers.
+  - Similar to how [[Git|`git`]] deals with it. You _could_ force the deletion of something in case that's needed, but that's not the default behavior.
+- **Flexible**. Allow arbitrary backends. Both centralized ([S3](https://twitter.com/quiltdata/status/1569447878212591618), GCS, ...) and decentralized ([[IPFS]], Hypercore, Torrent, ...) layers.
   - As agnostic as possible, supporting many types of data; tables, geospatial, images, ...
-  - Can all datasets be represented as tabular datasets? This will enable running SQL (`select`, `group by`, `joins`) on top of them which might be the easier way to start collaborating.
+  - Can all datasets be represented as tabular datasets? This will enable running SQL (`select`, `group by`, `joins`) on top of them which might be the easier way to start [[Coordination|collaborating]].
   - A dataset could have different formats derived from a common one. Build converters between formats relying on the Apache Arrow in-memory standard format. This is similar to how Pandoc and LLVM work! The protocol could do the transformation (e.g: CSV to Parquet, JSON to Arrow, ...) automagically and run some checks at the data level to verify they contain the same information.
   - Datasets could be tagged from a library of types (e.g: `ip-address`) and [conversion functions](https://github.com/jbenet/transformer) (`ip-to-country`). Given that the representation is common (Arrow), the transformations could be written in multiple languages.
 
@@ -75,8 +75,8 @@ Data is not code, but the activities of both publishers and users of datasets re
 ## Consumption
 
 - **Accessible**. Datasets are **files**. Datasets are static assets living somewhere. Don't get in the middle with libraries, gated databases or [obscure licenses](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/). Keep in mind right to exit and decentralization.
-- **Documentation**. Surface derived work (e.g: reports, other datasets, ...) and not only the raw data with minimal metadata.
-- **Embedded Visualizations**. Know what's in there before downloading it.
+- **[[Documentation]]**. Surface derived work (e.g: reports, other datasets, ...) and not only the raw data with minimal metadata.
+- **Embedded [[Data Visualization|Visualizations]]**. Know what's in there before downloading it.
   - **Sane Defaults**. Suggest basic charts (bars, lines, time series, clustering). Multiple [views](http://web.archive.org/web/20211209065537/http://tech.datopian.com/views/).
   - **Exploratory**. Allow drill-downs and customization. Offer a [simple way](https://lite.datasette.io/) for people to query/explore the data.
   - **Dynamic**. Use only the data you need. No need to pull 150GB.
@@ -87,7 +87,7 @@ Data is not code, but the activities of both publishers and users of datasets re
   - Make sure the datasets are there for the long run. This might take different forms (using a domain name, IPFS, ...).
 - **Subscribable**. Datasets are not just derived from upstream data, they should actually be updated every time the upstream data is updated (e.g: recomputing a metric of wildfire risk whenever new satellite imagery becomes available).
 - **Dual Role Support**. Recognize that data providers are often data users and vice versa, similar to how GitHub understands that code writers are also code consumers. Design interfaces and tools that support this dual role effectively.
-- **Data Product**. A data product is a collection of data created explicitly to be used by someone else (dataset, dashboard, report, benchmark, ...). Incentivize data products as they are the atomic unit of consumption for data.
+- **Data Product**. A data product is a collection of data created explicitly to be used by someone else (dataset, [[Dashboards|dashboard]], report, benchmark, ...). [[Incentives|Incentivize]] data products as they are the atomic unit of consumption for data.
   - Data is an _experience good_. Its true value often remains uncertain until after it has been used and analyzed. This characteristic creates information asymmetries between data collectors (like local communities) and potential buyers or users, making quality assurance and standardization crucial for building digital trust in data markets.
 
 ## Simple Package Manager Design

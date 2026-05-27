@@ -32,7 +32,7 @@ Meetings are essential for brainstorming and group decision-making, but they oft
 
 - Only attend meetings if genuinely interested and can contribute.
 - Prepare in advance by reviewing agenda and related materials.
-- Actively participate in discussions rather than passively listening.
+- Actively participate in discussions rather than passively [[Listening|listening]].
 - Decline meetings when appropriate - it's better than attending without engagement.
 - Read meeting minutes if not attending to stay informed.
 
@@ -49,12 +49,12 @@ Meetings are essential for brainstorming and group decision-making, but they oft
 - How the product is being received in the market.
 - How the most important customers are succeeding (or not) using the product.
 - How the team is performing and any people changes needed.
-- Financial position of the company and review of metrics.
+- Financial position of the company and review of [[Metrics|metrics]].
 
 ## Meeting Culture Recommendations
 
 - Prioritize written [[Communication]] for knowledge sharing over meetings.
 - Make it culturally acceptable to enter/leave meetings strategically.
 - Create a culture where declining meetings without guilt is normal.
-- Focus on creating intentional, purposeful meetings rather than habitual ones.
+- [[Focus]] on creating intentional, purposeful meetings rather than habitual ones.
 - "The goal of an exceptional meeting culture is to allow for people to constructively decline meetings by fully understanding the consequences of their action."

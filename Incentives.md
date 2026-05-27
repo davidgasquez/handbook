@@ -1,6 +1,6 @@
 # Incentives
 
-Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" decisions. [If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person](https://twitter.com/saranormous/status/1527839900069875713).
+Incentives matter. Everything around you is driven by incentives. There are rarely true "irrational" [[Making Decisions|decisions]]. [If a decision looks irrational to you, it's most likely because you don't truly understand the incentives driving that person](https://twitter.com/saranormous/status/1527839900069875713).
 
 Behavior is hard to fix. When people say they've learned their lesson, they underestimate how much of their previous mistake was caused by emotions that will return when faced with the same circumstances unless incentives have changed.
 
@@ -17,9 +17,9 @@ Behavior is hard to fix. When people say they've learned their lesson, they unde
 - [Four components of effectively designed incentives are](https://dhruvmethi.substack.com/p/bureaucracy):
   - Clear problem statement.
   - Clear target metric to improve.
-  - Intentional system design.
+  - Intentional [[Systems|system design]].
   - Commitment to study the metric.
-- Human values are highly dimensional. Nudging people in the right direction is hard, especially because nudges usually are very low-dimensional.
+- Human [[Values|values]] are highly dimensional. Nudging people in the right direction is hard, especially because nudges usually are very low-dimensional.
 - [Incentives might be perverse and the effects will be unexpected and contrary to the intentions of their designers](https://en.wikipedia.org/wiki/Perverse_incentive) (e.g. Hacktoberfest spamming Pull Requests on Open Source repositories causing more work for maintainers).
 
 ## Incentive Framework

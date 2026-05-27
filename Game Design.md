@@ -17,6 +17,6 @@ Some [principles](https://youtu.be/zaxAdRlyZQ8) to keep in mind:
 - **Agency without overwhelm**: Provide meaningful choices but not so many that decision paralysis occurs. Options should feel empowering, not burdensome.
 - **Joy in discovery**: Don't give people answers they haven't figured out themselves. The process of discovery is often more rewarding than the solution.
 - **Challenge authenticity**: Bypasses and cheats make challenges feel less real, even if unused. Maintain the integrity of difficulty.
-- **Environmental over mental changes**: When designing systems, prefer changing the environment to changing how people think. Less invasive, more ethical.
-- **Interpersonal complexity**: People making things difficult for each other prevents boredom. Social dynamics create endless variety.
+- **Environmental over mental changes**: When designing [[Systems|systems]], prefer changing the environment to changing how people think. Less invasive, more ethical.
+- **Interpersonal complexity**: People making things difficult for each other prevents boredom. [[Social Games|Social dynamics]] create endless variety.
 - **Sensual bandwidth**: High-bandwidth sensory experiences (tactile, visual, auditory) are essential for engagement and meaning.
