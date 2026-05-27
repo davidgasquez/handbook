@@ -10,6 +10,7 @@
     - What is shipping (e.g. what is on the near horizon).
     - Why is it important / what is now possible as a result / why should people care?
     - How are things progressing. Any blockers?
+  - Transparency allows a team to hold itself accountable. This is achieved through practices like recording all decisions and maintaining uniform, transparent compensation.
 - To make everyone more productive and happy: **Make feedback loops fast**. [Some best practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices/) / [sensible defaults](https://koaning.io/posts/sensible-defaults/):
   - Tested, automated process for new development environments.
   - Automated preview environments.
@@ -65,6 +66,7 @@
   - Everyone on your team should assume that everyone else on the team is doing their best work, given their circumstances.
   - Trust people with freedom. Add [[Processes]] where you need to replace some level of trust.
   - Share as much context as you can.
+- [Mutual trust allows for greatest collaborations and innovations](https://youtu.be/WF7J7qtZ8TA). Conversely, the absence of mutual trust creates a culture of fear, which is anathema to knowledge work.
 - Times change, trends change, cultures change. Make it explicit.
 - Organizations have "load-bearing illegible components" beyond formal rules. Understanding these unwritten dynamics is crucial for effective work.
 - Spend time at work thinking strategically. E.g: Think about the approach you will take to address the company's needs over the medium to long term.
