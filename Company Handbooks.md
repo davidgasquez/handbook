@@ -26,6 +26,11 @@ Handbooks are key for good [[Company Knowledge Management]].
 
 More examples in the [Handbook of Handbooks](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view).
 
+## RFC Style
+
+- [Oxide](https://rfd.shared.oxide.computer/)
+- [Earendil](https://rfc.earendil.com/)
+
 ### Cooperatives
 
 - [Loomio](https://www.loomio.coop/)
