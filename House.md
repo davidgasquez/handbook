@@ -2,7 +2,7 @@
 
 - [Living in the same place as the people you love matters](https://waitbutwhy.com/2015/12/the-tail-end.html).
 - As with many other things, there are [patterns that will help you structure it](http://web.archive.org/web/20230411022833/http://www.architectureweek.com/topics/patterns.html).
-- Any time you have a problem, search for a solution.
+- Any time you have a [[Problem Solving|problem]], search for a solution.
 - Be pro-active about modifying your environment. You can drastically improve your environment for usually little effort and money.
 
 ## Buying
@@ -14,7 +14,7 @@
 - Good illumination (daylight has a strong effect on mood) and a view of natural beauty (nature increases mental functioning and concentration) aren't just pleasant luxuries, but can make important practical differences in your [[Health]]. Light and plants make a difference.
   - Aim for a small sunny place in the winter!
   - Aim for a place where you can set up a fire. Humans have spent most of their history around fire sharing stories.
-- Research nearby future facilities. Schools, shopping malls, coffee shops, transportation, ...
+- Research nearby [[Future|future]] facilities. Schools, shopping malls, coffee shops, transportation, ...
 - Check the electrical and water installations of the building.
 - Treat it as a [[Finances|financial]] asset. Think about how much it'll sell for.
 

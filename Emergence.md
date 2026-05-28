@@ -9,8 +9,8 @@ When things interact, they often birth new, unpredictable forms. **The sum total
 You can't top-down plan emergent [[systems]], but you can provoke them into being. [Here are some attributes that emergent systems often have](http://gordonbrander.com/pattern/provoking-emergence/):
 
 - [[Evolution]]
-- More than one goal that can be achieved in more than one way.
+- More than one [[Goals|goal]] that can be achieved in more than one way.
 - Alphabet: An alphabet is a kit of parts, together with rules for combining them (e.g Lego). The simpler the building blocks, the better.
   - A holon is something that is simultaneously a whole in and of itself, as well as a part of a larger whole (e.g: humans).
-- An easy initial learning curve but infinite potential (e.g. Minecraft).
+- An easy initial [[Learning|learning]] curve but infinite potential (e.g. Minecraft).
 - Involves multiple agents. It has [[network effects]].

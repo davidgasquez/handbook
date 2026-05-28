@@ -1,9 +1,9 @@
 # Personal Handbooks
 
-Personal knowledge bases allow compound learning and make it easier to discover new abstractions or connections between concepts. Some interesting properties that a good personal knowledge base should have:
+Personal knowledge bases allow compound [[Learning|learning]] and make it easier to discover new abstractions or connections between concepts. Some interesting properties that a good personal knowledge base should have:
 
 - Simple, open source and multi-platform. Works offline, uses plain text files, and has a backup mechanism similar to [[Git]].
-- Focus on capturing ideas and content as fast as possible.
+- [[Focus]] on capturing [[Ideas|ideas]] and content as fast as possible.
 - Should be managed as a graph:
   - Nodes are notes or smaller graphs. [Notes should be atomic, concept-oriented and densely linked](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C).
   - Bidirectional links connecting nodes.

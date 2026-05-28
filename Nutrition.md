@@ -2,7 +2,7 @@
 
 - Your *ideal* diet (and weight) is unique. Everyone's body and nutritional needs are surprisingly different. What works for one person won't work for another.
 - What [[Cooking|you eat]] is one of the most important things to understand given how much it affects the rest of your life. Diet is probably the most important single factor in your [[health]], body composition and overall appearance.
-- Drink more water. Water regulates virtually every bodily process in some way. Drinking more water is a simple, virtually cost-free thing you can do to improve your overall [[health]].
+- Drink more water. Water regulates virtually every bodily [[Processes|process]] in some way. Drinking more water is a simple, virtually cost-free thing you can do to improve your overall [[health]].
 - [Fasting can be useful in some situations](https://www.reddit.com/r/productivity/comments/6demoi/why_you_should_try_intermittent_fasting_mood/).
   - Studies suggest a strong link between calorie restriction and longevity. Caloric restriction stimulates many beneficial cellular processes and is also beneficial as a weight-loss strategy.
 - [Eat like an adult](https://thefitness.wiki/improving-your-diet/). Generally avoid processed foods, favor nuts and berries for snacks. **Eliminate sugars.**

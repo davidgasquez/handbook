@@ -20,7 +20,7 @@
 - There are usually a number of possibilities for solving a problem. The first would be any solution that quickly gets the job done yet not actually permanent while the second would be a proper solution – which unfortunately takes longer and costs more. Know when to choose each option. [Nothing is more permanent than a temporary solution](https://thelightersideofwork.com/2021/04/nothing-is-more-permanent-than-a-temporary-solution/).
   - Solve problems by fixing the environment that allowed them to occur.
 - [Problem-solving can be understood as a search problem](https://rs.io/the-science-of-problem-solving/). You start in some state, there's a set of neighbor states you can move to, and a final state that you would like to end up in.
-  - Experiment more. Solve problems in different ways.
+  - [[Experimentation|Experiment]] more. Solve problems in different ways.
   - Focus on the changes you have to do between your state and the desired ones.
 - Taking breaks while working on problem-solving is called incubation. Incubation enhances problem-solving ability.
 - Problems are not disciplinary in nature but are holistic.
@@ -34,7 +34,7 @@
 - Break down large problems into smaller ones. [Chart a course and then create incentives for people to act/solve on them](https://youtu.be/B-dd2ZRlymo). [[Coordination]] is the key part of solving this kind of problem.
 - When we have a problem, our instinct is to add a new habit or purchase a fix. But sometimes, you can improve your life by taking things away ([Via Negativa](https://www.artofmanliness.com/articles/via-negativa-adding-to-your-life-by-subtracting/)). For example, the foods you avoid are more important than the foods you eat.
 - Your problems will tend to either be **adaptive** or **technical**. Adaptive problems require experimentation, novel strategies, or new ways of thinking and being; they're problems containing "unknown unknowns" and are often opaque in addition to being difficult. Technical problems may be equally difficult, but their difficulty lies in execution. Technical problems are those where the path to the solution is known or knowable and does not need to be discovered.
-- [There's a kind of thinking you do without trying to](http://www.paulgraham.com/top.html). This type of thinking is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly. Try to get yourself into situations where the most urgent problems are ones you want to think about.
+- [There's a kind of thinking you do without trying to](http://www.paulgraham.com/top.html). This type of [[Thinking|thinking]] is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly. Try to get yourself into situations where the most urgent problems are ones you want to think about.
 - If a problem has no solution, it may not be a problem, but a fact - not to be solved, but to be coped with over time.
 - Sometimes you can find the solution easier if you think about how not to solve the problem ([Inversion Principle](https://www.mymentalmodels.info/mms-inversion/)).
 - Keep the end goal in mind. [Don't Shave That Yak](https://seths.blog/2005/03/dont_shave_that/)!
@@ -43,7 +43,7 @@
   - To convince someone, show failed historical attempts and analyze them.
 - In complex problem spaces, [focus on direction](https://thecompendium.cards/c/everything/sort/stars/direction-not-solution) and not on the details. Don't focus too much on trying to find the best idea. The thing you have to prove is not that an idea is the best one, but that it's better than doing what you're currently doing.
 - [You cannot solve a people problem with a technical solution. Most technical problems are really people problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html). Most people problems are [[Coordination]] and [[Communication]] problems.
-- All technology produces second- and third-order effects beyond what was intended, and [[Feedback Loops]] often magnify them in complex systems.
+- All technology produces second- and third-order effects beyond what was intended, and [[Feedback Loops]] often magnify them in complex [[Systems|systems]].
 
 ## Five Whys
 

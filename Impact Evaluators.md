@@ -24,12 +24,12 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Small communities are good for governance, but still need enough sample size / power if you want to make causal claims.
   - Have a deadline or something like that so it fades away if it's not working or actively used.
   - [The McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy). Never choose metrics on the basis of what is easily measurable over what is meaningful. Data is inherently objectifying and naturally reduces complex conceptions and processes into coarse representations. There's a certain fetish for data that can be quantified.
-  - Cultivate a culture which welcomes experimentation.
+  - Cultivate a [[Culture|culture]] which welcomes [[Experimentation|experimentation]].
   - Ostrom's Law. "A resource arrangement that works in practice can work in theory"
-  - Even in environments with clear and easy-to-get metrics, someone has to make a decision about why that metric results in a better allocation instead of another similar metric or a combination. It's all human judgment / governance!
+  - Even in environments with clear and easy-to-get metrics, someone has to make a decision about why that metric results in a better allocation instead of another similar metric or a combination. It's all human judgment / [[Governance|governance]]!
     - There is no way around defining a metric/loss function to evaluate allocations! Discussions should be focused on this instead of the specifics of an allocation mechanism.
 - **Community Feedback Mechanism**.
-  - Implement robust feedback systems that allow participants to report and address concerns about the integrity of the metrics or behaviors in the community.
+  - Implement robust [[Feedback|feedback]] systems that allow participants to report and address concerns about the integrity of the metrics or behaviors in the community.
   - Don't treat evaluation as a black box. Combine impact estimates with [monitoring data, process evaluation, and qualitative feedback](https://openknowledge.worldbank.org/entities/publication/ebbe3565-69ff-5fe2-b65d-11329cf45293) to explain why results happened.
   - Use the feedback to refine and improve the system.
   - Prioritize consent and community feedback.
@@ -54,7 +54,7 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Don't write specific people or outcomes into the mechanism (e.g: using multiple accounts).
 - **Build anti-Goodhart resilience**.
   - Any metric used for decisions [becomes subject to gaming pressures](https://en.wikipedia.org/wiki/Campbell%27s_law).
-  - Design for evolution:
+  - Design for [[Evolution|evolution]]:
     - Run multiple evaluation algorithms in parallel and let humans choose.
     - Use exploration/exploitation trade-offs (like multi-armed bandits) to test new metrics.
     - Make the meta-layer for evaluating evaluators explicit.
@@ -65,14 +65,14 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
   - Any mechanism helping under-coordinated parties will also help [over-coordinated parties extract value](https://vitalik.eth.limo/general/2019/04/03/collusion.html). Countermeasures include:
     - Identity-free incentives (like proof-of-work).
     - Fork-and-exit rights for minorities.
-    - Privacy pools that exclude provably malicious actors.
+    - [[Privacy|Privacy]] pools that exclude provably malicious actors.
     - Multiple independent "dashboard organizations" preventing capture.
   - They should be flexible as it's hard to predict ways the evaluation metrics will be gamed.
   - [Campbell's Law](https://en.wikipedia.org/wiki/Campbell%27s_law). The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.
 - **Separate data from judgment**. Impact Evaluators work like [[Data Culture|data-driven organizations]]:
   - Gather objective attestations about work (commits, usage stats, dependencies).
   - Apply multiple "evaluation lenses" to interpret the data.
-  - Let funders choose which lenses align with their values.
+  - Let funders choose which lenses align with their [[Values|values]].
   - Prefer [[Pairwise Comparisons]] for human input over absolute scoring. Standard methods turn pairs into scores/ranks and handle noisy raters.
     - Pairwise comparisons are useful to abstract "impact" and other complex and subjective metrics. Makes the decision more local and easier. More of a hunch-based decision.
   - [Data is good at providing comprehensive coverage of things that are countable. Data is bad at dealing with nuances and qualitative concepts that experts intuitively understand.](https://gov.optimism.io/t/lessons-learned-from-two-years-of-retroactive-public-goods-funding/9239)
@@ -161,13 +161,13 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
 
 ## Related Fields
 
-- Reinforcement Learning
+- Reinforcement [[Learning]]
 - Cybernetics
-- Game Design
+- [[Game Design]]
 - Social Choice Theory
 - [[Mechanism Design]]
 - Computational Social Choice
-- Machine Learning
+- [[Machine Learning]]
 - Voting Theory
 - Process Control Theory
 - Large Language Models Evaluation

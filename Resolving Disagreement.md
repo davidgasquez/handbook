@@ -13,7 +13,7 @@ We should be arguing in a constructive fashion: treating arguments as an opportu
 - [[Curiosity]] and/or a desire to uncover truth.
 - As much data as possible to back up claims. [Cognitive biases](https://www.titlemax.com/discovery-center/lifestyle/50-cognitive-biases-to-be-aware-of-so-you-can-be-the-very-best-version-of-you/) are limits and mistakes in human judgment that prevent someone from acting rationally. They are present in every aspect of human life, and in tense situations like arguments, they tend to appear more often as emotions are heightened and the brain gets overloaded.
 - Agree on the terminology. Similar understanding of terms makes discussion more productive.
-- Separate the topic from the community. E.g: cryptocurrencies have toxic communities but very interesting ideas.
+- Separate the topic from the community. E.g: [[Cryptocurrencies|cryptocurrencies]] have toxic communities but very interesting [[Ideas|ideas]].
 - If you debate it right, you'll end up respecting the other person.
 - [Sometimes, you'll end up with **high-level generators of disagreement**](https://slatestarcodex.com/2018/05/08/varieties-of-argumentative-experience/). They are what remain when everyone understands exactly what's being argued, and agrees on what all the evidence says, but has vague and hard-to-define reasons for disagreeing anyway.
 - [Make disagreement fun](https://twitter.com/waitbutwhy/status/1461620476363612169):
@@ -29,7 +29,7 @@ We should be arguing in a constructive fashion: treating arguments as an opportu
 - Find the [[Double Crux]]. The point where you and your opponent's argument intersect.
 - Restate someone's point back to them to make sure you understood it correctly. This is called echoing and is more necessary for synchronous debates where information flows quickly. Not only does this make them feel heard, it also allows them the chance to clarify their beliefs.
 - Leave your partner a line of retreat.
-- Instead of taking on a weaker version of your opponent's argument, help the entire debate out by thinking of the best and most charitable version of your opponent's argument, then repeat it back to them to see if it makes sense.
+- Instead of taking on a weaker version of your opponent's argument, help the entire debate out by [[Thinking|thinking]] of the best and most charitable version of your opponent's argument, then repeat it back to them to see if it makes sense.
 
 Make sure you're arguing efficiently. We feel the most compulsion to distinguish ourselves from people who are most similar to us. We spend a lot of energy attacking other groups who agree with us 90% but we fight over the remaining 10%.
 

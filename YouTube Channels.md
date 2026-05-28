@@ -5,10 +5,10 @@
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt). Videos explaining things with optimistic nihilism.
 - [exurb1a](https://www.youtube.com/channel/UCViwi-dXACoy9Pee73NvgJw). Explores our weird universe in a fun way.
 - [Tom Scott](https://www.youtube.com/user/enyay/videos?view=0&sort=p&flow=grid). Curiosities about many topics.
-- [Veritasium](https://www.youtube.com/user/1veritasium). Videos about science, education, and anything else.
+- [Veritasium](https://www.youtube.com/user/1veritasium). Videos about [[Science|science]], education, and anything else.
 - [Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg). Former NASA engineer. Current YouTuber and friend of science.
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). Maths and entertainment, depending on your disposition.
-- [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ). Communicating the deep ideas of academic subjects.
+- [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ). Communicating the deep [[Ideas|ideas]] of academic subjects.
 - [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A). Stories about science, tech, and economics.
 - [Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg). Take a look at interesting countries, policies and decisions from the point of view of an economist.
 - [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ). Maker/robotics enthusiast/non-engineer. Has become somewhat of an expert in shitty robots.
@@ -18,5 +18,5 @@
 - [LEMMiNO](https://www.youtube.com/c/LEMMiNO). Documentaries and list videos.
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/). Giving away a philosophy degree on YouTube.
 - [ContraPoints](https://www.youtube.com/c/ContraPoints). Interesting essays on philosophy topics.
-- [Adam Ragusea](https://www.youtube.com/user/aragusea). Home cooking videos marinated with some science.
+- [Adam Ragusea](https://www.youtube.com/user/aragusea). Home [[Cooking|cooking]] videos marinated with some science.
 - [You Suck At Cooking](https://www.youtube.com/c/yousuckatcooking). Fun cooking videos.

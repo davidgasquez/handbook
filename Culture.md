@@ -5,18 +5,18 @@
 - It is _very_ difficult to undo bad culture — far more than it is to shape good culture. So it's best to avoid it altogether. You have to constantly be on the lookout for nascent bad behavior, in order to nip it in the bud before it becomes too bad.
 - A bad thing to do to the culture is introduce too much tension:
   - There are better battles to fight than with each other.
-  - It's hard to say objectively that one culture is "better" than another, but having the culture pulled in multiple directions clearly burns people out, so focus on cultural alignment in decisions and hiring.
+  - It's hard to say objectively that one culture is "better" than another, but having the culture pulled in multiple directions clearly burns people out, so [[Focus|focus]] on cultural alignment in decisions and hiring.
 - Times change, trends change, cultures change.
 - Culture is in who you hire, who you fire, and who you promote.
 - Foster a culture of [people who care](https://web.archive.org/web/20260426082449/https://grantslatton.com/nobody-cares).
-- Culture conforms to the shape of communication. E.g: open, transparent communication fosters more trust and collaboration.
+- Culture conforms to the shape of [[Communication|communication]]. E.g: open, transparent communication fosters more trust and collaboration.
 - You get a good culture when people want to participate in it because it is a good culture.
 - If a culture officially says to do one thing, but actually people do something else, then the latter is more decisive.
 - Culture is shaped by [[Incentives]], but then incentives are themselves implemented by people, who are guided by culture.
 - You want an environment [where cultures improve and compete](https://vitalik.eth.limo/general/2025/12/17/societies.html), but not on the basis of violent force, and also not exclusively on low-level forms of memetic fitness (eg. virality of individual posts on social media, moment-by-moment enjoyment and convenience), but rather on some kind of fair playing field that creates sufficient space to showcase the longer-term benefits that a thriving culture provides.
-- Truly instantiating a culture with any level of depth requires not just talking about the culture's themes, but actually living them. This requires deep immersion, instantiating the culture's values and aesthetics and practices at a level that goes far beyond a few decorations and posters.
+- Truly instantiating a culture with any level of depth requires not just [[Talking|talking]] about the culture's [[Themes|themes]], but actually living them. This requires deep immersion, instantiating the culture's [[Values|values]] and aesthetics and practices at a level that goes far beyond a few decorations and posters.
 - [Cultures are not museum pieces](https://vitalik.eth.limo/general/2025/12/17/societies.html). They are the working machinery of everyday life. Cultures are there to serve their people, not touristic onlookers appreciating their existence from far away.
-- Cultural innovation works better when it arises out of a collection of habits, attitudes and goals that are shared by a particular group, and adapted to the group's needs. Over-indexing on legibility and explicit ideology often leads to problems.
+- Cultural innovation works better when it arises out of a collection of [[Habits|habits]], attitudes and [[Goals|goals]] that are shared by a particular group, and adapted to the group's needs. Over-indexing on legibility and explicit ideology often leads to problems.
 - [Universal culture is the collection of the most competitive ideas and products](https://slatestarcodex.com/2016/07/25/how-the-west-was-won/). It's what spreads when barriers to communication fall. It's distinct from any traditional culture (including Western). Universal culture is high-entropy: it survives and spreads without protection. All other cultures are low-entropy: they survive only if someone keeps pushing energy into the system to protect them.
 - Universal culture has adapted to diverse environments through social atomization: everybody does their own thing, and the community exists to protect them and perform lowest common denominator functions everyone can agree on.
-- Culture is [made of shared framings—ontologies](https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings) of things that are taken to exist and play a role in mental models—that arose in those same arbitrary but self-reinforcing ways.
+- Culture is [made of shared framings—ontologies](https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings) of things that are taken to exist and play a role in [[Mental Models|mental models]]—that arose in those same arbitrary but self-reinforcing ways.

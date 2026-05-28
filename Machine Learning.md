@@ -2,16 +2,16 @@
 
 ## Production Project Checklist
 
-1. Frame the problem. Define a clear and concise objective with clear metrics. [Write it as a design doc](https://applyingml.com/resources/ml-design-docs/). To know "what is good enough" you have to collect and annotate more data than most people and organizations want to do.
+1. Frame the problem. Define a clear and concise objective with clear [[Metrics|metrics]]. [Write it as a design doc](https://applyingml.com/resources/ml-design-docs/). To know "what is good enough" you have to collect and annotate more data than most people and [[Organizations|organizations]] want to do.
 1. Get the data. Make the data tidy. Machine learning models are only as reliable as the data used to train them. [The data matters more than the model](https://twitter.com/beeonaposy/status/1353735905962577920). Data matters more than the model. [The main bottleneck is collecting enough high-quality data and getting it properly annotated and verified](https://news.ycombinator.com/item?id=45875618). Then doing proper evals with humans in the loop to get it right.
 1. Explore the data. Verify any assumptions. Garbage in, garbage out. Remove ALL friction from looking at data.
 1. Create a model. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be the [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa). Evaluate the model with the defined metric.
 1. Make sure everything works end to end. _You design it, you train it, you deploy it_. [Deploy the model quickly](https://nlathia.github.io/2019/08/Machine-learning-faster.html) and automatically. Add a clear description of the model. [Monitor model performance in production](https://youtu.be/hqxQO7MoQIE).
 1. Make results (models, analysis, graphs, ...) reproducible (code, environment and data). Version your code, data and configuration. Make feature dependencies explicit in the code. Separate code from configuration.
-1. Test every part of the system ([ML Test Score](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)): data (distributions, unexpected values, biases, ...).
+1. Test every part of the [[Systems|system]] ([ML Test Score](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)): data (distributions, unexpected values, biases, ...).
 1. Iterate. Deliver value first, then iterate. Go back to the first point and change one thing at a time. Machine Learning progress is nonlinear. It's really hard to tell in advance what's hard and what's easy.
   - [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641).
-  - Track every experiment you do. Keep a reverse-time sorted doc where you add bullet points of what ideas you've tried and how they've gone. Look for data flywheel, harnessing the power of user-generated data to rapidly improve the whole system. These are powerful [[Feedback Loops]]. Attempt a portfolio of approaches.
+  - Track every experiment you do. Keep a reverse-[[Time|time]] sorted doc where you add bullet points of what [[Ideas|ideas]] you've tried and how they've gone. Look for data flywheel, harnessing the power of user-generated data to rapidly improve the whole system. These are powerful [[Feedback Loops]]. Attempt a portfolio of approaches.
 1. Explain your results in terms your audience cares about. [[Data Culture|Data is only useful as long as it's being used]].
 
 These points are expanded with more details in courses like [Made With ML](https://madewithml.com/).
@@ -20,19 +20,19 @@ These points are expanded with more details in courses like [Made With ML](https
 
 > Don't hope for "great", specify it, measure it, and improve toward it!
 
-- Evals make fuzzy goals and abstract ideas specific and explicit. They help you systematically measure and improve a system.
+- Evals make fuzzy [[Goals|goals]] and abstract ideas specific and explicit. They help you systematically measure and improve a system.
 - Evals are a key set of tools and methods to measure and improve the ability of an AI system to meet expectations.
-- [Success with AI hinges on how fast you can iterate](https://hamel.dev/blog/posts/evals/#iterating-quickly-success). You must have processes and tools for evaluating quality (tests), debugging issues (logging, inspecting data), and changing the behavior or the system (prompt eng, fine-tuning, writing code).
+- [Success with AI hinges on how fast you can iterate](https://hamel.dev/blog/posts/evals/#iterating-quickly-success). You must have [[Processes|processes]] and tools for evaluating quality (tests), debugging issues (logging, inspecting data), and changing the behavior or the system (prompt eng, fine-tuning, writing code).
 - Collecting good evals will make you understand the problem better.
 - Working with probabilistic systems requires new kinds of measurement and deeper consideration of trade-offs.
 - Don't work if you cannot define what "great" means for your use case.
 - [Evals replace LGTM-vibes development](https://newsletter.pragmaticengineer.com/p/evals). They systematize quality when outputs are non-deterministic.
-- [Error analysis](https://youtu.be/ORrStCArmP4) workflow: build a simple trace viewer, review ~100 traces, annotate the first upstream failure ([open coding](https://shribe.eu/open-coding/)), cluster into themes ([axial coding](https://delvetool.com/blog/openaxialselective)), and use counts to prioritize. Bootstrap with grounded synthetic data if real data is thin.
+- [Error analysis](https://youtu.be/ORrStCArmP4) workflow: build a simple trace viewer, review ~100 traces, annotate the first upstream failure ([open coding](https://shribe.eu/open-coding/)), cluster into [[Themes|themes]] ([axial coding](https://delvetool.com/blog/openaxialselective)), and use counts to prioritize. Bootstrap with grounded synthetic data if real data is thin.
 - [Evals are fundamentally "data science"](https://youtu.be/lA4MfpgF91Y). **Look at your data**, conduct experiments and measure where appropriate, and iterate metrics and approaches.
 - Pick the right evaluator: code-based assertions for deterministic failures; LLM-as-judge for subjective ones. Keep labels binary (PASS/FAIL) with human critiques. Partition data so the judge cannot memorize answers; validate the judge against human labels (TPR/TNR) before trusting it.
 - Run evals in CI/CD and keep monitoring with production data.
   - [Analyze → measure → improve → automate → repeat](https://newsletter.pragmaticengineer.com/p/evals).
-- Good eval metrics:
+- Good eval [[Metrics|metrics]]:
   - Measure an error you've observed.
   - Relates to a non-trivial issue you will iterate on.
   - Are scoped to a specific failure.

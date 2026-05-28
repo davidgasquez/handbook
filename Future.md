@@ -9,14 +9,14 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
 - Give birth without advanced assistance.
 - Not caring for all the [animal suffering in the wild](https://longtermrisk.org/the-importance-of-wild-animal-suffering/).
   - Nature is not safe! The default is suffering. The current mentality is that nature is good and disruptions from nature are bad.
-- The ignorance of Social Media and its [full impact on society](https://twitter.com/M_B_Petersen/status/1483457679800651787).
+- The ignorance of [[Social Media Issues|Social Media]] and its [full impact on society](https://twitter.com/M_B_Petersen/status/1483457679800651787).
   - Is "being bad for society" an emergent property of social networks as they grow?
 - Current Voting Systems.
 - Not relying more on tools like Prediction Markets (e.g: [to spot papers that might not replicate](https://vitalik.eth.limo/general/2024/11/09/infofinance.html)).
 
 ## Predictions
 
-- More experimentation around [[Politics|governance]]:
+- More [[Experimentation|experimentation]] around [[Politics|governance]]:
   - Charter cities.
   - [Holacracy](https://en.m.wikipedia.org/wiki/Holacracy).
   - [[Decentralized Autonomous Organizations|Cooperatives/DAOs]].
@@ -25,11 +25,11 @@ History teaches us that in 100 years from now [[Openness|some of the assumptions
   - More people aware of the tricks our minds play on us ([Mind Field](https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2) and [The Story Of Us](https://web.archive.org/web/20230129233043/https://waitbutwhy.com/2019/08/story-of-us.html)) as well as [how diverse humans are](https://youtu.be/fC5qucSk18w).
   - More people are aware of [how cool win-win games are](https://nonzerosum.games/)!
   - More interactive explanations like the ones the awesome [Nicky Case](https://ncase.me/) does!
-- More concern around systems with weird incentives causing large amounts of pain (Moloch).
+- More concern around [[Systems|systems]] with weird [[Incentives|incentives]] causing large amounts of pain (Moloch).
   - E.g: Criminal system rework. Focusing on the system and not on individual punishment.
 - Work valuation changes (plumbing more expensive than some software development) due to [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox). We will automate making a full app before a robot is able to master physical arms and legs like a 5-year-old.
-- Open data will be more important as it can produce better models and help coordinate people providing shared context.
-- The current decentralized protocols (IPFS, ActivityPub, ...) need to evolve more. Especially around UX. People don't care about decentralization, they care about UX. [Centralization is inevitable](https://newsletter.squishy.computer/p/centralization-is-inevitable).
+- [[Open Data]] will be more important as it can produce better models and help coordinate people providing shared context.
+- The current [[Decentralized Protocols|decentralized protocols]] ([[IPFS]], ActivityPub, ...) need to evolve more. Especially around UX. People don't care about decentralization, they care about UX. [Centralization is inevitable](https://newsletter.squishy.computer/p/centralization-is-inevitable).
 
 ### Exciting Software Engineering Ideas
 

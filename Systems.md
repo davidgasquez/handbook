@@ -20,11 +20,11 @@ Keep in mind that intervening in a system requires some kind of theory, some kin
 
 [A complex system that works is invariably found to have evolved from a simple system that worked](<https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law>) (more [elementary system functions](https://en.wikipedia.org/wiki/Systemantics#Elementary_systems_functions)). [Systems want to grow and grow](https://stephango.com/remove), but without pruning, they collapse. A good system is designed to be periodically cleared of cruft. It has a built-in counterbalance.
 
-Complex systems usually have [attractor landscapes](https://ncase.me/attractors/) that can be used to change them. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/). To simplify it, we can focus on elements at different scales that have scale decoupling (quantum mechanics is decoupled from philosophy).
+Complex systems usually have [attractor landscapes](https://ncase.me/attractors/) that can be used to change them. [The world is richer and more complicated than we give it credit for](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/). To simplify it, we can [[Focus|focus]] on elements at different scales that have scale decoupling (quantum mechanics is decoupled from philosophy).
 
 Evolution is easier than revolution. A good approach to incrementally change a system (similar to [[Evolution|natural selection]]) is to:
 
-1. Start by identifying the highest-leverage level to optimize at: Ask whether you're optimizing the machine or a cog within it. Complex systems might change in unexpected ways (butterfly effects). Minor differences in starting points make big differences on future states.
+1. Start by identifying the highest-leverage level to optimize at: Ask whether you're optimizing the machine or a cog within it. Complex systems might change in unexpected ways (butterfly effects). Minor differences in starting points make big differences on [[Future|future]] states.
 2. Begin optimizing the system by following the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints): At any time, just one of a system's inputs is constraining its other inputs from achieving a greater total output. Make incremental changes. [Understand how the inputs affect the outputs of the system](https://faintsignal.org/pressure-to-meet-a-target-value-changes-the-system-or-the-data/#fn2). Alter the incentive landscape. [If you can make your system less miserable, make your system less miserable!](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart)
 3. Re-examine the system from the ground up. Get data. Take nothing but the proven, underlying principles as given. Work up from there to create something better.
 
@@ -34,7 +34,7 @@ These are places within a complex system (a corporation, an economy, a living bo
 2. The sizes of buffers and other stabilizing stocks, relative to their flows.
 3. The structure of material stocks and flows (such as transport networks, population age structures).
 4. The lengths of delays, relative to the rate of system change.
-5. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
+5. The strength of negative [[Feedback|feedback]] loops, relative to the impacts they are trying to correct against.
 6. The gain around driving positive feedback loops.
 7. The structure of information flows (who does and does not have access to information).
 8. The rules of the system (such as incentives, punishments, constraints).

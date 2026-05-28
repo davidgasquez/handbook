@@ -31,7 +31,7 @@ More examples in the [Handbook of Handbooks](https://hackmd.io/@yHk1snI9T9SNpiFu
 - [Oxide](https://rfd.shared.oxide.computer/)
 - [Earendil](https://rfc.earendil.com/)
 
-### Cooperatives
+### [[Cooperatives]]
 
 - [Loomio](https://www.loomio.coop/)
 - [Catalyst](https://catalystcoop-handbook.readthedocs.io/en/latest/)

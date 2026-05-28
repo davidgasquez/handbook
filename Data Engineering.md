@@ -8,7 +8,7 @@
 - If it can be solved with SQL, stick to SQL.
   - SQL will be the abstraction layer in streaming too so you don't have to care about incremental materialization or timely dataflows.
 - A [consistent pattern](https://www.startdataengineering.com/post/design-patterns/) across your data pipelines helps devs communicate easily and understand code better.
-- Data Engineering can learn from decentralized systems ideas like content-addressed data, immutability, and [[Idempotence]].
+- Data Engineering can learn from decentralized systems [[Ideas|ideas]] like content-addressed data, immutability, and [[Idempotence]].
 - [Schemas aren't eliminated by using a "schemaless" data store](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/) (like a NoSQL database). They're just pushed to the reading layer.
 - [Bring compute to data instead of data to compute](https://youtu.be/S0mviKhVmBI)!
 
@@ -16,7 +16,7 @@
 
 Data Pipelines are a set of actions that extract data, transform it, and then load the final data somewhere. As any [distributed system](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/), they're tricky to work with. These are some great principles to keep in mind as [production data engineering is mostly computer science](https://web.archive.org/web/20221218002759/https://towardsdatascience.com/lessons-from-a-year-in-the-data-science-trenches-f06efa6355fd).
 
-Systems tend towards production and data pipelines aren't an exception. Valuable data work and outputs end up being consumed in use cases that are increasingly more important / production grade.
+[[Systems]] tend towards production and data pipelines aren't an exception. Valuable data work and outputs end up being consumed in use cases that are increasingly more important / production grade.
 
 ### Basic Principles
 
@@ -24,7 +24,7 @@ Systems tend towards production and data pipelines aren't an exception. Valuable
 - **Reliability**: Errors in the pipelines can be recovered. Pipelines are monitored and tested. Data is saved in each step (storage is cheap) so it can be used later if needed. For example, adding a new column to a table can be done by extracting the column from the intermediary data without having to query the data source. It is better to support 1 feature that works reliably and has a great UX than 2 that are unreliable or hard to use. One solid step is better than 2 finicky ones.
 - **[[Modularity]]**: Steps are independent, declarative, and [[Idempotence|idempotent]]. This makes pipelines composable.
 - **Consistency**: Same conventions and design patterns across pipelines. If a failure is actionable for the user, clearly let them know what they can do. Schema on write as there is always a schema.
-- **Efficiency**: Low event latency when needed. Easy to scale up and down. A user should not be able to configure something that will not work. Don't mix heterogeneous workloads under the same tooling (e.g: big data warehouses doing simple queries 95% of their time and 1 big batch once a day).
+- **Efficiency**: Low event latency when needed. Easy to scale up and down. A user should not be able to configure something that will not work. Don't mix heterogeneous workloads under the same tooling (e.g: big data warehouses doing simple queries 95% of their [[Time|time]] and 1 big batch once a day).
 - **Flexibility**: Steps change to conform to data points. Changes don't stop the pipeline or lose data. Fail fast and upstream.
 
 ### Data Flow
@@ -43,7 +43,7 @@ graph LR;
     - Data types don't change in the same column.
     - Columns are either deleted or added but never renamed.
 - Create a few extra columns like `processed_at` or `schema_version`.
-- Generate stats to provide the operator with feedback.
+- Generate stats to provide the operator with [[Feedback|feedback]].
 - Data coming from pipelines should be easily reproducible. If you want to re-run a process, you should ensure that it will always produce the same result. This can be achieved by enforcing the [Functional Data Engineering Paradigm](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a).
 - [Event Sourcing is a great pattern when implementing a new system since it couples state with business logic](https://youtu.be/XxKnTusccUM).
   - State is a projection of history. Keep the history and reconstruct the state!

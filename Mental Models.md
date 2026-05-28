@@ -38,7 +38,7 @@ A list of mental models that I find interesting and useful. List comes from [And
 ### Perspective & Understanding
 
 - Reality tunnel: Your perspective limits what truths you can perceive.
-- Bridges: Ideas that connect different states of understanding.
+- Bridges: [[Ideas]] that connect different states of understanding.
 - Congruent bridges: When different paths lead to the same insight.
 - Categorization errors: The boundaries we draw between concepts are artificial and often misleading.
 - Transposed Model: Testing ideas by applying them in different contexts.
@@ -56,20 +56,20 @@ A list of mental models that I find interesting and useful. List comes from [And
 
 - Pattern matching: Expertise comes from recognizing recurring templates.
 - Training data: Some lessons can only be learned through examples.
-- Social learning: How humans learn from each other.
+- Social [[Learning|learning]]: How humans learn from each other.
 - Exploration vs objective-seeking: Sometimes wandering beats having a destination.
 - Different advice on different days: Context determines what guidance is useful.
 - Ecology of practice: Balanced collection of practices for overall human development.
 
 ### Communication & Information
 
-- Bottlenecked communication: Our ability to express internal experiences is fundamentally limited.
+- Bottlenecked [[Communication|communication]]: Our ability to express internal experiences is fundamentally limited.
 - Controlling inputs: Managing information flow is crucial for clear thinking.
 - Polluting the information ecology: Some actors degrade our shared ability to make sense of reality.
 - Steelmanning: Address the strongest possible version of an opponent's argument.
 - Definitional disagreement: Many arguments stem from different underlying definitions.
 
-### Culture & Ideas
+### [[Culture]] & Ideas
 
 - Everything is a remix: All creation builds on what came before.
 - Memetics: Ideas evolve and spread through fitness landscapes.
@@ -83,7 +83,7 @@ A list of mental models that I find interesting and useful. List comes from [And
 - Parts work: The psyche is multi-agent and requires internal coordination.
 - Resonance: Non-intellectual alignment with ideas or experiences.
 - Self vs identity: The difference between core experience and chosen labels.
-- Short-circuited rewards: When natural feedback loops get hijacked.
+- Short-circuited rewards: When natural [[Feedback Loops|feedback loops]] get hijacked.
 - Placebo pump: Harnessing belief and expectation to produce real effects.
 - Smells: Intuitive warnings that something may be wrong.
 

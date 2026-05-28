@@ -2,13 +2,13 @@
 
 > To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others — Tony Robbins
 
-Communication is the science of transmitting knowledge to other humans. It goes by many names: debate, negotiation, [[Resolving Disagreement|discussion]], [[Talking|talking]], [[Learning|education]], [[listening]], and many more. Communication is a skill that is learnable.
+Communication is the [[Science|science]] of transmitting knowledge to other humans. It goes by many names: debate, negotiation, [[Resolving Disagreement|discussion]], [[Talking|talking]], [[Learning|education]], [[listening]], and many more. Communication is a skill that is learnable.
 
-**The person who tells the most compelling story wins**. Not the best idea. Just the story that catches people's attention and gets them to nod their heads. Tell people what they want to hear and you can be wrong indefinitely without penalty. [Crafting and telling stories is part of what makes humans humans](https://www.notboring.co/p/story-time). Stories let us coordinate across time and space.
+**The person who tells the most compelling story wins**. Not the best idea. Just the story that catches people's attention and gets them to nod their heads. Tell people what they want to hear and you can be wrong indefinitely without penalty. [Crafting and telling stories is part of what makes humans humans](https://www.notboring.co/p/story-time). Stories let us [[Coordination|coordinate]] across [[Time|time]] and space.
 
 - **You cannot not communicate**. Not discussing the elephant in the room is communicating. Few things are as important to study, practice, and perfect as clear communication.
 - Whenever possible, communicate directly with those you're addressing rather than passing the message through intermediaries.
-- Communication between [a large group](https://twitter.com/RichRogers_/status/1159872097205805056) is hard. Noise in the processes might change the message and cause conflicts. Nuance is hard to convey in groups.
+- Communication between [a large group](https://twitter.com/RichRogers_/status/1159872097205805056) is hard. Noise in the [[Processes|processes]] might change the message and cause conflicts. Nuance is hard to convey in groups.
   - The [biggest problem with communication is the illusion that it has been accomplished](https://jabian.com/blog/the-illusion-of-communication).
 - Some tips to simplify communications:
   - Use a few bullet points to put attention on the main points you want to convey.
@@ -16,7 +16,7 @@ Communication is the science of transmitting knowledge to other humans. It goes 
   - Break up a giant nuanced block into sections.
   - If something is critical, make it visual.
 - **Beware [semantic diffusion](https://martinfowler.com/bliki/SemanticDiffusion.html)**. Popular terms lose their precise meaning as they spread through repeated misinterpretation. Complex ideas get simplified, then distorted, like a game of telephone. The more desirable a term sounds, the more likely it gets misappropriated. Keep pointing back to original definitions rather than abandoning diffused terms.
-- [Use plain language for complex concepts](https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization) — most ideas can be understood by most people if explained clearly. But keep jargon when precision matters (e.g., distinguishing mean from median); in those cases, add a brief definition alongside the technical term.
+- [Use plain language for complex concepts](https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization) — most [[Ideas|ideas]] can be understood by most people if explained clearly. But keep jargon when precision matters (e.g., distinguishing mean from median); in those cases, add a brief definition alongside the technical term.
 - [[Data Visualization]] can communicate faster than 1,000 words; [that power comes with responsibility](https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization) — misleading charts spread just as easily as accurate ones.
 - If you want an answer, you have to [[Asking Questions|ask a question]]. People typically have a lot to say, but they'll volunteer little.
 

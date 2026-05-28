@@ -1,5 +1,7 @@
 # Recipes
 
+Useful [[Cooking|cooking]] references.
+
 ## Vanilla Crepes
 
 ### Ingredients

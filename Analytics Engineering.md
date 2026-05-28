@@ -1,6 +1,6 @@
 # Analytics Engineering
 
-- Analytics Engineering is the organization of an organization's information.
+- Analytics Engineering is the organization of an [[Organizations|organization]]'s information.
 - [Real impact comes from continuous decision-making and implementing actions with feedback](https://news.ycombinator.com/item?id=22808006).
   - [More analysis might not be the best solution if you can't validate or take actions on previous analysis](https://twitter.com/ejames_c/status/1753692862548697464)!
 - Accept that [analytics is a mess](https://benn.substack.com/p/analytics-is-a-mess).
@@ -14,7 +14,7 @@
   - Treat data the same way engineers treat code. That means CI/CD, tests, frequent PRs, ...
 - Use [[Data Practices#Data Request Template]] when getting questions.
 - Analytics work can be roughly split in two buckets:
-  1. Building automated [[Systems]], from metrics to [[Dashboards]], to enable self-service use cases for business users. This is what we now typically call analytics engineering.
+  1. Building automated [[Systems]], from [[Metrics|metrics]] to [[Dashboards]], to enable self-service use cases for business users. This is what we now typically call analytics engineering.
   2. Doing ad-hoc analyses, to answer some questions directly.
 - Make your modeling approach explicit (e.g. [Dimensional Modeling](https://youtu.be/lWPiSZf7-uQ)).
 - Modeling reality gets complex quickly. There are small nuances, special conditions, things that changed, edge cases and, of course, errors.
@@ -24,8 +24,8 @@
 - [[Teamwork|Collaborate with your team]] and break down complex models into reusable pieces.
 - Working with data is like exploring the horizon. It changes as soon as you look at it from a higher place (more data).
 - Find out what decisions your stakeholders need to make, repeatedly, and help with those.
-- Attach a date to your team output resources ([[Dashboards]], analysis, ...) so they exist as artifacts that were true at a certain point in time.
-- Reduce the areas where business logic can be injected, create "time to live" policies on last mile transforms, build a culture of standardizing + celebrating access to cross-functional codebases.
+- Attach a date to your team output resources ([[Dashboards]], analysis, ...) so they exist as artifacts that were true at a certain point in [[Time|time]].
+- Reduce the areas where business logic can be injected, create "time to live" policies on last mile transforms, build a [[Culture|culture]] of standardizing + celebrating access to cross-functional codebases.
   - People default to writing business logic in the tool they are most comfortable with. The best way for data teams to prevent sprawling business logic is to limit last mile transforms in other tools and invite others into their tools. [The logic will be written, and if the data team gate-keeps, it will be written outside of their visibility](https://ian-macomber.medium.com/data-systems-tend-towards-production-be5a86f65561)! If a data team can educate and encourage contributions to their codebase, they invite code to be written where it most belongs.
 - Modern data warehouses [might need new model design paradigms](https://github.com/ActivitySchema/ActivitySchema/blob/main/2.0.md).
 - Good data models make good products.

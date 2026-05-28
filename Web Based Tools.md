@@ -18,7 +18,7 @@ Collection of awesome web-based tools.
 - [SVG Crop](https://svgcrop.com/)
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
 
-## Teamwork
+## [[Teamwork]]
 
 - [HackMD](https://hackmd.io/)
 - [Matrix](https://matrix.org/)

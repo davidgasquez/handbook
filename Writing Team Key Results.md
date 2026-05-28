@@ -13,8 +13,8 @@ Management techniques like OKRs and similar [have many issues](https://news.ycom
 - The key result does not presuppose the exact program of work to do (and in fact leaves room for creative solutions).
 - The key result states assumptions about why the team KR affects the top-level KR.
 - The key result target should be informed by analysis.
-- Key Results are helpful if your team has a 12-18 month mission, a clear focus, and a specific lever or set of levers it is empowered to move.
-- There is no replacement for good people, though. Project management is about organizing people. And people are hard to organize if they're not motivated, and adding a standardized, bureaucratized process won't increase motivation.
+- Key Results are helpful if your team has a 12-18 month mission, a clear [[Focus|focus]], and a specific lever or set of levers it is empowered to move.
+- There is no replacement for good people, though. Project management is about organizing people. And people are hard to organize if they're not motivated, and adding a standardized, bureaucratized [[Processes|process]] won't increase motivation.
 - OKRs are effectively a quarterly negotiation to get alignment across teams so that large, complex, projects get done on time.
 
 ## Process
@@ -23,7 +23,7 @@ Management techniques like OKRs and similar [have many issues](https://news.ycom
 2. State your assumptions:
    - Why does this team KR affect our company KR?
    - Why this target number?
-3. Iterate and get feedback.
+3. Iterate and get [[Feedback|feedback]].
 4. Lock it in.
 
 Three useful templates:

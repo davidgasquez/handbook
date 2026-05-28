@@ -17,7 +17,7 @@
   - All organizations have their own way of doing things ([[Culture]]) and their own particular views of how the world should work (vision).
     - **Vision** is the change in the world you want to see.
     - **Mission** defines the approach that you will execute to make your vision a reality. The **strategy** further refines the mission into concrete steps.
-  - There are two core processes that take place within any company: making decisions and doing work.
+  - There are two core processes that take place within any company: [[Making Decisions|making decisions]] and doing work.
 - Align [[incentives]]. Make the right thing to do the easiest thing to do.
 - The layout of the organization impacts how many hops the information has to make.
   - With each hop, the information loses some signal and increases the noise it carries.
@@ -62,12 +62,12 @@
 - Adoption of new [[processes]] should _always_ take the step-by-step iteration process into account. You should _never_ think of it as a system to be adopted wholesale; you should always think “hmm, this is a set of tools that seem to work for _some_ context; how do I know this works for mine?” And then you should break those processes down to atomized pieces, and apply them by running smaller, more iterative tests. Understanding the original context is usually key to understanding if the processes have a shot at working when applied to your company.
 - As in other complex [[systems]], we usually blame individuals instead of exploring the root causes. The problem is rarely someone being a villain. It's almost always the system.
 - [When facing organizational problems do not: ignore them, give up, switch to a top-down approach, involve more "lead people", rely on heroes or aim for perfection](https://komoroske.com/slime-mold/).
-- Periodically observe pain points that cost productivity, and task people to reduce them, thereby producing more compound leverage across the whole organization.
+- Periodically observe pain points that cost [[Productivity|productivity]], and task people to reduce them, thereby producing more compound leverage across the whole organization.
 - [In any organization, the people devoted to the benefit of the organization itself always gain control and those dedicated to the goals that the organization is supposed to accomplish have less and less influence, and sometimes are eliminated entirely](https://en.wikipedia.org/wiki/Jerry_Pournelle#Pournelle's_iron_law_of_bureaucracy).
 - Leaders in a healthy organization [[Communication|listen and communicate]].
 - Organizations naturally move towards growth: more people, more systems, more conflicting worldviews. To facilitate action, communication systems _will_ be established. Make sure these are effective.
 - A company is a superorganism.
-- [Teams usually don't stop to think about what things are working or not working, and why](https://cutlefish.substack.com/p/tbm-952-when-nothingeverything-actually). Make time for that.
+- [Teams usually don't stop to think about what things are working or not working, and why](https://cutlefish.substack.com/p/tbm-952-when-nothingeverything-actually). Make [[Time|time]] for that.
 - By [swinging the pendulum](https://twitter.com/BrandonMChu/status/1502312472644100105) and changing focus periodically, you accept more extreme (and clear) outcomes in the short term, but in the long term arrive at the middle ground you aim for.
 - [Big organizations develop strategic inefficiency to carry on doing what they're doing](https://youtu.be/v1eWIshUzr8?t=1147).
 - You can't sell something like versioning or encryption as the key feature, you need to put out a comparable product and have these features be the thing that tips the scale in your favour.

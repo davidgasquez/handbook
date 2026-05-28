@@ -11,12 +11,12 @@
   - Pick the simplest metric that works for you. Metrics definitions should be as easy as a tooltip away to find.
 - [Metrics are a tool, but not the destination](https://breakingpoint.substack.com/p/you-have-too-many-metrics)! You want to use the fewest metrics possible to cover all the fundamentals of your business.
   - Pick a metric you want to improve or affect!
-- Organizations need three things related to metrics:
+- [[Organizations]] need three things related to metrics:
   1. A [[Metrics|process for defining metrics]].
   2. A single source of truth for the metrics.
   3. A way to get metrics to all systems.
 - Product metrics allow measuring product progress and creating alignment in an outcome-oriented way. There are many product frameworks available to help us think about the right key things to track. Think about **[product metrics that matter](https://uxdesign.cc/product-metrics-that-matter-951b9e4d4eca)** for you.
-- Push a culture of metrics and goals as a source of learning, not promotions or success delegation.
+- Push a [[Culture|culture]] of metrics and goals as a source of [[Learning|learning]], not promotions or success delegation.
 - Vanity metrics are surface-level metrics. They're often large measures, like number of downloads, that impress others. **Clarity metrics** are operational metrics, like the number of minutes a day your product actually gets used or how long it took for a user to get service. These are the hidden gears that drive growth.
 - [Factors that are easiest to measure or most visible are the ones that get the most attention and might not be the most important ones](https://wiki.c2.com/?SovietShoeFactoryPrinciple).
 - [When people are pressured to meet a target value there are three ways they can proceed](https://www.goodreads.com/book/show/63859):
@@ -27,11 +27,11 @@
   1. A criterion — the thing you want to measure.
   2. Test procedure — how will you measure the thing?
   3. Decision rule — how will you decide if the thing you're measuring should be included in the count?
-- A process is predictable if it just contains routine variation. It is unpredictable if it contains both routine and special variation. You can only improve a process if you first make it predictable.
+- A process is predictable if it just contains [[Routine|routine]] variation. It is unpredictable if it contains both routine and special variation. You can only improve a process if you first make it predictable.
 - Metrics should help form a working causal model of the business you're in so you know what interventions you can make and can predict the consequences.
 - A metric set should map to a theory of change: input, output, outcome, impact.
 
-## Good Metric Checklist
+## Good Metric [[Checklist]]
 
 - **Specific and sensitive**: Metrics should be specific to the product or feature, and need to be explicitly and quantitatively defined. The metric should also be sensitive enough to measure the impact we expect to see.
 - **Robust**: To complement the **sensitivity** criteria above, we also need to make sure the metric is measuring only the effect of the product of interest, and that it is not reactive to things we expect to change but don't control. Related to [internal validity](https://en.wikipedia.org/wiki/Internal_validity), we should try to avoid using a metric that can be significantly influenced by anything other than the product/feature we care about.
