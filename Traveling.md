@@ -22,7 +22,7 @@
 ## Things to Pack
 
 - Bottle of water.
-- Sunglasses.
+- Glasses and sunglasses.
 - Backpack (portable/foldable).
 - Medicines.
 - ID cards.
