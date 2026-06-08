@@ -32,6 +32,16 @@
 - [[Thinking|Deduction]] Games like "Who Has the Hat".
 - Handmade [Chronology](https://boardgamegeek.com/boardgame/834/chronology). Write up events as a group, [then sort them out](https://boardgamegeek.com/video/47758/chronology/chronology-overview).
 - [Many other activities can be played as games](https://www.whataaabout.com/)!
+- Fun Skill Based Minigames
+  - [Dialed Sound](https://dialed.gg/sound)
+  - [Eyeball](https://eyeball.rory.codes/)
+  - [Human Benchmark Aim Trainer](https://humanbenchmark.com/tests/aim)
+  - [Human Benchmark Reaction Time](https://humanbenchmark.com/tests/reactiontime)
+  - [Kuku Kube](https://rpg.kuku-kube.com/)
+  - [Got Rhythm](https://www.concerthotels.com/got-rhythm)
+  - [Corflex](https://corflex.gg/)
+  - [Multitasking Test](https://www.arealme.com/multitasking-test)
+  - [Meten](https://meten.app/)
 
 ## Card Games
 
