@@ -20,6 +20,15 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - Run shadow mechanisms, but reserve some budget for learning at the margin: randomized top-ups, just-above-vs-just-below-cutoff comparisons, or matched rejected applicants.
 - A good program has to measure project outcomes over [[Time|time]] and collect qualitative evidence to close the [[Learning|learning]] loop. It also helps organizers figure out if **the mechanism put more money into projects that later produced more impact** (can be computed with a regret [[Metrics|metric]]).
 
+### Latent Spaces
+
+- They help people find similar projects, disagreement, missing evidence, reviewer clusters, dependency credit, and mechanism failures. They should inform allocation, not silently determine it.
+- Useful latent spaces can come from proposal text, reviews, votes, pairwise choices, donations, dependencies, usage, citations, commits, attestations, and graph edges. Text embeddings are only one signal.
+- The [Community Notes pattern](https://raw.githubusercontent.com/twitter/communitynotes/main/documentation/under-the-hood/ranking-notes.md) is the clean reference: learn rater and item factors from sparse ratings, then prefer items that are useful across disagreement. In public goods funding, this means looking for projects, evidence, or reviewer judgments that survive across evaluator clusters.
+- The [Polis pattern](https://compdemocracy.org/faq/) is useful for broad listening: use agree/disagree/pass matrices to reveal opinion groups, consensus, and disagreement without needing NLP.
+- [[Deep Funding]] applies the same direction to public goods funding: model hidden dependency credit across a graph, use human spot checks for local truth, and compare models against held-out judgments before using weights for payouts.
+- Use latent spaces for intake routing, duplicate detection, reviewer assignment, active sampling, high-disagreement queues, outlier detection, portfolio diversity maps, and mechanism comparison.
+
 ## Desirable Criteria
 
 - **Pareto Efficiency**. The outcome achieved by the mechanism maximizes the overall welfare or some other desirable objective function.
