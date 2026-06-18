@@ -169,3 +169,4 @@ Sometimes, [tools help create cultural change](https://commoncog.com/becoming-da
 - [Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction) and [Process Control](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html).
 - [Time Lagged Conversions](http://web.archive.org/web/20240914135511/https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/).
 - Change point detection.
+- Interactive embeddings and dimensionality reduction visualizations to explore a large corpus of elements quickly and intuitively.
