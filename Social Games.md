@@ -28,6 +28,10 @@
 - Confidence Interval Game. Select a continuous variable (Iceland Population). Everyone precommits a 95% confidence interval answer. If you're out, you lose 20 points. If you're in, you get 1 point for each person that lost points.
 - Grammarly. Make teams. Generate a random word. One person on each team needs to guess it. The rest of the team needs to take turns saying a word that forms a sentence to describe the word.
 - Guess Who. Someone asks a question like "Who is most likely to do X?" and everyone points to their guess at the same time.
+- [A Fake Artist Goes to New York](https://oinkgames.com/en/games/analog/a-fake-artist-goes-to-new-york/). Drawing plus hidden-role deduction where players must signal knowledge without leaking the answer.
+- [Fun Facts](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/fun-facts/ff-en01-rules-1661781982d7gR2.pdf)! A cooperative party game that tests how well you know the other players.
+- [Insider](https://oinkgames.com/en/games/analog/insider/). While communicating to others you have to find the right answers to a quiz and also find the "Insider" that is manipulating the discussion.
+- [Poetry for Neanderthals](https://www.explodingkittens.com/products/poetry-for-neanderthals) ([rules](https://cdn.shopify.com/s/files/1/0345/9180/1483/files/PFN-CORE_Instructions_30JAN2024_Web.pdf?v=1706731305)). A competitive word-guessing game where u must speak good or get hit with stick.
 - Cheers to the Governor. As a group, you have to count to 21. The first rule is that 7 and 14 are swapped. Every time you succeed, you say cheers to the governor and add a new rule (e.g: 8 changes direction, 9 is silent, you have to say hello instead of 4, ...).
 - Celebrity cup. Add people to a cup and grab 2. You need to defend why that couple will work.
 - [[Thinking|Deduction]] Games like "Who Has the Hat".
