@@ -81,6 +81,7 @@ Some ~spells~ styles to try when designing dashboards, UIs, or anything else.
 - Sharp rectangles, thin borders
 - Terminal-inspired developer minimalism
 - Fieldset + legend pattern
+- Clear visual hierarchy
 
 [More skills at the impeccable repo](https://github.com/pbakaus/impeccable).
 
