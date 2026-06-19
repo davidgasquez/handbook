@@ -22,6 +22,7 @@
 - [So Long Sucker](https://boardgamegeek.com/boardgame/8304/so-long-sucker).
 - [Nomic](https://en.wikipedia.org/wiki/Nomic).
 - [Rank Me If You Can](https://app.rankmeifyoucan.com/).
+- Top Ten. One person gets a prompt ("a very hot pan") and the rest has to act in accordance with the numbers they got. The first person has to rank them all.
 - Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say the numbers in order.
 - Everyone puts a finger on the same platform. Someone counts to three and says the number of fingers remaining on the platform. If they are correct, they're out.
 - Confidence Interval Game. Select a continuous variable (Iceland Population). Everyone precommits a 95% confidence interval answer. If you're out, you lose 20 points. If you're in, you get 1 point for each person that lost points.
@@ -42,6 +43,7 @@
   - [Corflex](https://corflex.gg/)
   - [Multitasking Test](https://www.arealme.com/multitasking-test)
   - [Meten](https://meten.app/)
+- [Jackbox Party Games](https://jackbox.tv/)
 
 ## Card Games
 
