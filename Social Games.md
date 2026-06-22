@@ -23,6 +23,9 @@
 - [Nomic](https://en.wikipedia.org/wiki/Nomic).
 - [Rank Me If You Can](https://app.rankmeifyoucan.com/).
 - Top Ten. One person gets a prompt ("a very hot pan") and the rest has to act in accordance with the numbers they got. The first person has to rank them all.
+- [Sounds Fishy](https://sounds-fishy.en.softonic.com/android) ([instructions](https://www.scribd.com/document/742741539/Sounds-Fishy-PNP)). One player acts as the question master while another provides the correct answer, with the rest crafting clever bluffs.
+- [Don't Get Got](https://bigpotato.com/products/dont-get-got). Carry-out weird missions without giving yourself away.
+- [Phantom Ink](https://resonym.com/game/phantom-ink/). Great word/deduction game in which you are trying to communicate with teammates in a way that does not give information to the other team, even though they hear your communications too.
 - Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say the numbers in order.
 - Everyone puts a finger on the same platform. Someone counts to three and says the number of fingers remaining on the platform. If they are correct, they're out.
 - Confidence Interval Game. Select a continuous variable (Iceland Population). Everyone precommits a 95% confidence interval answer. If you're out, you lose 20 points. If you're in, you get 1 point for each person that lost points.
