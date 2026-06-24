@@ -18,7 +18,10 @@
 - [They can be thought of as social and economic laboratories because they're great for experimenting with novel concepts at scale](https://x.com/binji_x/status/1891929209737470024).
 - One of the main downsides of blockchains is that most humans are not good at protecting their passwords, credentials or private keys.
 - Blockchains can be used to ensure the best output in prisoner's dilemma style interactions. Write a smart contract that does X when everyone has added the money and no one will be able to betray.
+- Blockchains can be a censorship-resistant payment rail for people under coercive regimes.
 - Blockchains solve distribution problems but they don't solve the problem of who will add the money to the ecosystem. That's a political one. Unless there are good incentives to move to blockchains.
   - Once a system moves to a blockchain, it'll get its properties (e.g: transparency and verifiability).
 - Open source has the failure mode of not enough incentives, cryptocurrency has the failure mode of excessive and overly concentrated incentives.
 - Blockchain incentives have large real-world undesired second-order consequences. E.g: Bitcoin incentivizes miners to use a lot of energy.
+- [Markets are useful when prices measure an underlying reality](https://www.stephendiehl.com/posts/bad_place_2026/).
+  - Many crypto assets are self-referential games: the price mostly measures belief that someone else will buy later, not productive enterprise or external value.
