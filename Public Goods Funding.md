@@ -10,24 +10,8 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - Retrospective evaluation is often easier than prospective funding. [[Impact Evaluators]] and retroactive public goods funding reward **verifiable impact after the fact** instead of just predictions about future impact.
 - Effective funding [[Systems|systems]] usually start small and local, with tight [[Feedback Loops|feedback loops]] and clear community ownership, and only then generalize once patterns are proven.
 - The funding **infrastructure itself is a public good**. Data, evaluation pipelines, and mechanisms should be open, composable, and forkable so communities can reuse and adapt them.
-
-## Evaluating Allocations
-
-- There is no single "allocation effectiveness" metric. Good rounds define the objective first, compare candidate mechanisms **ex ante**, then measure **ex post** whether funded projects produced additional outcomes relative to a counterfactual.
-- Distinguish **total impact** from **marginal impact**. The key question is what the next dollar buys, conditional on room for more funding and whether the work would have happened anyway.
-- Useful portfolio-level questions: expected impact per dollar, additionality, concentration, representation, robustness to Sybils/collusion, and admin cost.
-- Replaying the same votes through different formulas is useful but limited: if another mechanism were binding, participants might vote, donate, collude, or apply differently.
-- Run shadow mechanisms, but reserve some budget for learning at the margin: randomized top-ups, just-above-vs-just-below-cutoff comparisons, or matched rejected applicants.
-- A good program has to measure project outcomes over [[Time|time]] and collect qualitative evidence to close the [[Learning|learning]] loop. It also helps organizers figure out if **the mechanism put more money into projects that later produced more impact** (can be computed with a regret [[Metrics|metric]]).
-
-### Latent Spaces
-
-- They help people find similar projects, disagreement, missing evidence, reviewer clusters, dependency credit, and mechanism failures. They should inform allocation, not silently determine it.
-- Useful latent spaces can come from proposal text, reviews, votes, pairwise choices, donations, dependencies, usage, citations, commits, attestations, and graph edges. Text embeddings are only one signal.
-- The [Community Notes pattern](https://raw.githubusercontent.com/twitter/communitynotes/main/documentation/under-the-hood/ranking-notes.md) is the clean reference: learn rater and item factors from sparse ratings, then prefer items that are useful across disagreement. In public goods funding, this means looking for projects, evidence, or reviewer judgments that survive across evaluator clusters.
-- The [Polis pattern](https://compdemocracy.org/faq/) is useful for broad listening: use agree/disagree/pass matrices to reveal opinion groups, consensus, and disagreement without needing NLP.
-- [[Deep Funding]] applies the same direction to public goods funding: model hidden dependency credit across a graph, use human spot checks for local truth, and compare models against held-out judgments before using weights for payouts.
-- Use latent spaces for intake routing, duplicate detection, reviewer assignment, active sampling, high-disagreement queues, outlier detection, portfolio diversity maps, and mechanism comparison.
+- Markets compress private preferences into price, but [price struggles to see collective value](https://docs.hypercerts.org/ecosystem/why-we-need-hypercerts) when benefits are diffuse. Governments help, but often move too slowly for global, data-rich, interconnected public goods.
+- Value recognition networks complement markets and governments by identifying work toward shared goals, evaluating it with data, expertise, and community insight, and recognizing/funding the contributors.
 
 ## Desirable Criteria
 
@@ -37,6 +21,7 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - **Budget Balance**. The mechanism generates sufficient revenue to cover its costs or payouts, without running a net deficit.
 - **Coalition-Proofness**. Preventing groups of participants from conspiring to manipulate the mechanism to their advantage.
 - **Provable Participation**. Even if spending should be kept private, users may want to prove their participation in a funding mechanism in order to boost their reputation or as part of an agreement.
+- **Proof of Contribution**. Contributors and funders should be able to prove their role in creating impact, including non-financial contributions, not just how much money was spent.
 - **Identity and Reputation**. To prevent Sybil attacks, some form of [[Identity|identity]] is needed. If reputation is important, a public identity is preferred. If anonymity is required, zero-knowledge proofs or re-randomizable encryption may be necessary. Reputation is an important incentive to fund public goods. Some form of reputation score or record of participation can be useful for repeated games. These scores can help identify bad actors or help communities coalesce around a particular funding venue. [Identity-free mechanisms can also be used](https://victorsintnicolaas.substack.com/p/funding-public-goods-in-identity-free-systems).
 - **Verifiable Mechanisms**. Users may want certain guarantees about a mechanism before or after participation, especially if the mechanism being used is concealed. Ex-ante, they may want to upper-bound their amount of spending towards the good, ex-post, they may require proof that a sufficient number of individuals contributed.
 - **Anti-Collusion Infrastructure**. Like secure voting systems, there is a threat of buying votes in a funding mechanism. Collusion can be discouraged by making it impossible for users to prove how they reported their preferences. This infrastructure must be extended to prevent collusion between the 3rd party and the users.
@@ -48,6 +33,7 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - **Exploration vs Exploitation**. Funding mechanisms are optimization processes that tend to exploit known winners. Some budget should be reserved for **exploration of uncertain, high-variance public goods**, not just those that already score well on existing metrics.
 - **Community Feedback and Local Control**. Mechanisms should include channels for participants to flag problems, suggest changes, and adjust evaluation criteria. Small, local experiments with clear consent and ownership are often the safest way to evolve funding systems.
 - **Model Marginal Returns**. A project may be excellent at $20k and wasteful at $200k.
+- **Low Administrative Burden**. Funding systems should reduce proposal and reporting overhead so projects can focus on doing the work.
 
 ## Methods
 

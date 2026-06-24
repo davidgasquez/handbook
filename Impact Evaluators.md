@@ -120,7 +120,26 @@ It's hard to do [[Public Goods Funding]], open-source software, research, etc. t
     - Voting on models: feels too abstract for voters and doesn't leverage their specific project expertise
     - Voting on metrics: judges just play with numbers until they get their favored allocation
 - [An allocation mechanism can be seen as a measurement process, with the goal being the reduction of uncertainty concerning present beliefs about the future. An effective process will gather and leverage as much information as possible while maximizing the signal-to-noise ratio of that information — aims which are often at odds](https://blog.zaratan.world/p/quadratic-v-pairwise).
-- There is no single "allocation effectiveness" metric. Each round, group, project needs one tailored to the context.
+- There is no single "allocation effectiveness" metric. Good rounds define the objective first, compare candidate mechanisms **ex ante**, then measure **ex post** whether funded projects produced additional outcomes relative to a counterfactual.
+- Distinguish **total impact** from **marginal impact**. The key question is what the next dollar buys, conditional on room for more funding and whether the work would have happened anyway.
+- Useful portfolio-level questions: expected impact per dollar, additionality, concentration, representation, robustness to Sybils/collusion, and admin cost.
+- Replaying the same votes through different formulas is useful but limited: if another mechanism were binding, participants might vote, donate, collude, or apply differently.
+- Run shadow mechanisms, but reserve some budget for learning at the margin: randomized top-ups, just-above-vs-just-below-cutoff comparisons, or matched rejected applicants.
+- A good program has to measure project outcomes over [[Time|time]] and collect qualitative evidence to close the [[Learning|learning]] loop. It also helps organizers figure out if **the mechanism put more money into projects that later produced more impact** (can be computed with a regret [[Metrics|metric]]).
+- Reward evaluators for **marginal information**, not redundant reviews: a later review that challenges consensus and later proves correct is more valuable than one that repeats prior judgments.
+- Pair fast, low-burden funding decisions with slower feedback loops that assess whether decisions, evaluators, and mechanisms were actually accurate.
+
+### Latent Spaces
+
+- They help people find similar projects, disagreement, missing evidence, reviewer clusters, dependency credit, and mechanism failures. They should inform allocation, not silently determine it.
+- Useful latent spaces can come from proposal text, reviews, votes, pairwise choices, donations, dependencies, usage, citations, commits, attestations, and graph edges. Text embeddings are only one signal.
+- The [Community Notes pattern](https://raw.githubusercontent.com/twitter/communitynotes/main/documentation/under-the-hood/ranking-notes.md) is the clean reference: learn rater and item factors from sparse ratings, then prefer items that are useful across disagreement. In public goods funding, this means looking for projects, evidence, or reviewer judgments that survive across evaluator clusters.
+- The [Polis pattern](https://compdemocracy.org/faq/) is useful for broad listening: use agree/disagree/pass matrices to reveal opinion groups, consensus, and disagreement without needing NLP.
+- [[Deep Funding]] applies the same direction to public goods funding: model hidden dependency credit across a graph, use human spot checks for local truth, and compare models against held-out judgments before using weights for payouts.
+- Use latent spaces for intake routing, duplicate detection, reviewer assignment, active sampling, high-disagreement queues, outlier detection, portfolio diversity maps, and mechanism comparison.
+
+### Meta-Evaluation
+
 - In the digital world, we can apply several techniques to the same input and evaluate the potential impacts. E.g: Simulate different voting systems and see which one fits the best with the current views. This is a case for the system to **have a meta-evaluation mechanism that acts as a layer for humans to express preferences**.
 - **Make evaluation infrastructure permissionless**. Just as anyone can fork code, anyone should be able to fork evaluation criteria. This prevents capture and enables innovation.
   - Anyone should be able to [fork the evaluation system with their own criteria](https://vitalik.eth.limo/general/2024/09/28/alignment.html), preventing capture and enabling experimentation.
