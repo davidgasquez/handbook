@@ -5,6 +5,8 @@ Some great advice for [public speaking presentations](https://web.archive.org/we
 - Start the presentation with a set of questions that will be answered through the presentation. Start with an empowerment promise. Outline what the audience will know by the end of the [[Talking|talk]].
 - Find a way to connect with the audience right away.
 - Don't expose one bullet point of a list at a time. Your audience will ask to go back a slide or two, you end up halfway in a build, or worse, with an empty slide. None of this is needed.
+- Every talk should have one “if you remember one thing…” message. Plan for it.
+  - Optimize for one memorable/photo-worthy slide and let the rest build toward it.
 - Don't just read the words on a page or sound like you're delivering a memorized speech.
 - [The best talks are stories. The best stories involve repetition.](https://speakerdeck.com/holman/the-talk-on-talks) Tell a personal story to make your [[Ideas|ideas]] more sticky.
   - Adjust your tempo of speaking to match the urgency of the story.
@@ -16,6 +18,7 @@ Some great advice for [public speaking presentations](https://web.archive.org/we
 - Number the slides.
 - Don't present any slide with a wall of text.
 - Titles for the [[Data Visualization|graphs]] should be the conclusion.
+- Prefer one strong message with concrete/surprising examples over many vague messages.
 - If having issues keeping up with the story (e.g. you need long notes), use many slides to help you cover all the points and offer a summary at the end.
 - Write a great proposal.
   - Make your proposal easy to scan.
