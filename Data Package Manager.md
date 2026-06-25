@@ -34,6 +34,7 @@ Data is not [[Programming|code]], but the activities of both publishers and user
 
 - **Permanence**. Each [version](http://web.archive.org/web/20211209080049/http://tech.datopian.com/versioning/) should be permanent and accessible (look at [[Git|`git`]], [[IPFS|`IPFS`]], `dolt`, ...).
 - **Versioning**. Should be able to manage _diffs_ and _incremental changes_ in a smart way. E.g: only storing the new added rows or updated columns.
+  - Version numbers are weak signals. Compatibility should be proven with schema diffs, data diffs, changelogs, validation reports, and immutable IDs.
   - Should allow [automated harvesting of new data](http://web.archive.org/web/20211209080017/http://tech.datopian.com/harvesting/) with sensors (external functions) or scheduled jobs.
   - Each version is referenced by a hash. Git style.
   - Each version is linked to the code that produced it.
@@ -93,6 +94,7 @@ Data is not [[Programming|code]], but the activities of both publishers and user
 ## Simple Package Manager Design
 
 - A package spec file describing a package.
+- The manifest records human intent. Lockfile record the fully resolved, immutable data graph needed to reproduce it.
 - A hierarchical owner/name folder structure for installed packages.
 - Spec file locator with fallback to the package registry.
 - Versioning and latest versions.
