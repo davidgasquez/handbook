@@ -77,6 +77,7 @@
   - Poorly designed incentive systems that punish mistakes but don't reward success.
   - Loose coupling between [[systems]]/[[processes]] and desired outcomes.
 - Being right is not sufficient to propel organizational change. The hard problem of a business is effecting change, and the bigger the organization, the harder it is to effect that change.
+- Don't spend time convincing others but removing blockers for them to convice themselves. This works with Marketing too.
 
 ## Resources
 
