@@ -60,5 +60,8 @@
   - Requires specific countermeasures like deliberate decentralization, skin-in-the-game mechanisms, and fostering counter-coordination (e.g., forking in blockchain [[Systems|systems]]).
   - Examples include price fixing between sellers, vote buying, and 51% attacks on blockchains.
   - Any mechanism that helps under-coordinated parties coordinate will also help already-coordinated parties over-coordinate to extract value.
+  - [Coordination can be harmful when it improves in an unbalanced way](https://vitalik.eth.limo/general/2020/09/11/coordination.html). It turns into an arms race over redistribution instead of productive cooperation
+    - [Majority games with a fixed pool of resources are inherently unstable](https://vitalik.eth.limo/general/2019/04/03/collusion.html). If any 51% can conspire to seize control, no matter what the current configuration is there is always some setup that is profitable. That new coalition is then vulnerable to new conspiracies.
+    - Partial coordination becomes collusion when a group coordinates against the interests of a broader group: price fixing, vote buying, bribes, or a country coordinating for aggressive war.
 - Explore [Cooperative Governance](https://nadia.xyz/voting) [[Ideas|ideas]]. It offers an elegant compromise between on-chain and off-chain governance: you have a failure outcome that's enforced and "real", but the process of consensus remains firmly in the hands of people.
 - There are [interventions](https://www.prosocialdesign.org/) to help online spaces bring out the best in human nature online (deleting a comment that breaks a forum's rules, a reminder of the community rules, ...). This helps build trust and coordination.
