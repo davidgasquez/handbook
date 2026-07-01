@@ -49,6 +49,7 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
 - Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
   - [Your job is to design environments where iteration converges toward correctness instead of drifting toward plausible nonsense](https://nonstructured.com/zen-of-ai-coding/).
 - [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
+  - [LLMs have bounded cognition too](https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition). A context window is a hard limit on how much it can take into account at any one time. Design sessions so the model doesn't lose the thread.
 - In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
 - The act of writing code (or doing something) surfaces decisions you hadn't considered. When code is cheap, implement to learn.
 - [Use all programming languages and technologies instead of just the ones you're already familiar with](https://x.com/mrexodia/status/2010157660885176767).

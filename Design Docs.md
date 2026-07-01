@@ -8,6 +8,7 @@
 - A [[Technical Specifications|technical specification]] forces you to think through complicated issues and to get everyone on the same page. This helps to avoid wasting time on dead-end solutions or building the wrong thing.
 - It's hard to make technical decisions while remote. [Build a Proposal Culture](https://web.archive.org/web/20220925011031/https://www.hamiltonulmer.com/writing/building-a-proposal-culture) to enable effective distributed technical decision making via [[Writing]] and collecting [[Feedback]] on a written document in an inclusive, async-friendly way.
 - Even if no one else reads them, they force you to clarify your [[Thinking|thinking]] before you start the (more expensive) process of implementation.
+- Design docs should make trade-offs explicit. [When two tenets pull against each other... you don't resolve it with a slogan](https://shapeofthesystem.com/). Write down who controls the input, the blast radius, and why the cost is worth paying now or deferring.
 - Design docs fulfill the following functions in the software development life-cycle:
   - Early identification of design issues when making changes is still cheap.
   - Achieving consensus around a design in the organization.

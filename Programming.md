@@ -79,9 +79,11 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - A [log improves coordination in distributed systems](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/).
 - **[Reduce cognitive load](https://minds.md/zakirullin/cognitive)**.
   - Working memory is tiny (≈4 chunks). Design code, tests, and APIs so a change fits in one mental model at a time.
+  - [The mind that builds software is far smaller than the software it builds](https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition). Good engineering asks how do we shape the thing so that a small mind can work on it without bringing it all down.
   - Prefer deep modules. Simple, stable interfaces that hide complexity. Avoid fleets of tiny wrappers and over‑factored classes/methods.
   - Limit choice. Favor a small, orthogonal subset of language/library features over clever, "feature‑rich" constructs.
   - Use [guard clauses](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf) to keep the main path obvious.
+  - Move facts out of memory. Give things precise names, draw boundaries, write tests, and make changes undoable.
 - **There is no silver bullet**.
   - Accept that many programming decisions are opinions.
   - Make the trade-offs explicit when making judgments and decisions. With almost every decision you make, you're either deliberately or accidentally trading off one thing for another thing.

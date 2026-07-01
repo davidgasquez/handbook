@@ -4,6 +4,7 @@
   - [Not everything should be automated right away](https://xkcd.com/974/).
   - [Fake it, until you automate it!](https://understandlegacycode.com/blog/fake-it-until-you-automate-it/)
 - Automation is used for Precision, Stability and Speed. It reduces or eliminates human error and brings stability to a [[Systems|system]]. [Automation is great when it replaces a stable, well-working manual process](https://news.ycombinator.com/item?id=30230367).
+  - [Any defence you have to run by hand gets skipped the first time there's a deadline](https://shapeofthesystem.com/). Automate guardrails instead of relying on vigilance.
 - [Automation is putting process into code](https://queue.acm.org/detail.cfm?id=3197520):
   1. Document the steps. Following a step-by-step guide is automation: you are the CPU. A great starting point is adding a [[checklist]] to PRs.
   2. Create automation equivalents. Add command-line snippets to replace steps.

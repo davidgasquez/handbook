@@ -2,6 +2,8 @@
 
 Checklists are an essential component of high-quality [[Processes|processes]], e.g. in aviation, medicine or construction. [Checklists provide a useful mix of freedom and expectation, and also measure progress toward common goals](https://emilie.substack.com/p/the-swim-class-checklist). If you did a sequence of actions 3 times, make it a checklist!
 
+A checklist moves correctness out of vigilance. [Any rule you can only enforce by remembering it is a rule that will eventually get forgotten](https://shapeofthesystem.com/).
+
 ## [How To Build A Checklist](http://projectmanagementhacks.com/how-to-build-a-checklist/)
 
 1. **Identify "Stupid Mistakes" that cause failure**. Understand the most significant causes of failure.

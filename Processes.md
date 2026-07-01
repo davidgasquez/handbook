@@ -29,6 +29,7 @@ When designing a process, look for these properties:
 - Short [[Feedback Loops]]. Show the results as soon as you can.
 - [[Idempotence|Idempotent]] processes are easy to manage.
 - Write it down. Writing what's happening can be a giant leap forward in terms of getting people to agree on what the process actually is.
+- [Process is structure when code structure runs out](https://shapeofthesystem.com/). Named owners, runbooks, expiries, and second eyes for irreversible steps.
 
 A process takes an input to produce an output. Groups of processes can be viewed as [[systems]].
 

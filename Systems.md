@@ -69,6 +69,8 @@ Remember, sometimes not doing something is better than doing it ([Primum non noc
 
 > _[Almost no one is evil](https://thecompendium.cards/c/everything/sort/stars/assume-theres-no-villain); almost everything is broken._
 
+Design [[Systems|systems]] for real operators, not ideal ones. "Human error](https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition) often means "a system that was built for an operator who doesn't exist". A warning that half of attentive people will look straight at and not see isn't really a warning. It's a decoration.
+
 ## Inadequate Equilibria
 
 [An Inadequate Equilibrium is a situation in which a community, an institution, or society at large is in a bad _Nash Equilibrium_](https://equilibriabook.com/molochs-toolbox/). The group as a whole has some suboptimal set of norms and it would be better off with a different set of norms, but there's no individual actor who has both the power and the incentive to change the norms for the group. So the bad equilibrium persists. These concepts can be sorted in three categories:
