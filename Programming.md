@@ -15,6 +15,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
   - Simplicity means fewer moving pieces, less internal connectivity, and components with clear, straightforward interfaces that remain stable without ongoing maintenance.
   - Simple doesn't mean hacky or low-quality. The first solution is rarely the simplest - simplicity requires deep understanding of the current system.
+  - [Users don't want features, they want outcomes](https://www.hashicorp.com/en/tao-of-hashicorp).
   - Eliminate state. If you can't, make it visible. Stateful components can get into a bad state.
     - Have one service that knows about the state - i.e. it talks to a database - [and other services that do stateless things](https://www.seangoedecke.com/good-system-design/).
   - Prefer [behavior over representation](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf) and [intention-revealing names](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf).
@@ -32,6 +33,10 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Do one thing and do it well**.
   - By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
   - Design composable primitives. Name things simply and clearly.
+  - Use [[Conceptual Compression]]. [Collapse complexity into the smallest yet most powerful abstraction that enables the outcome](https://www.amplifypartners.com/blog-posts/the-primitive-is-the-product).
+    - Balance expressivity with simplicity.
+    - Opinionated enough to be productive, extensible enough for others to compose new workflows.
+  - In agent-first products, features can become a liability by expanding the decision space, edge cases, ambiguity, and failure modes. Ask "What capability should others build upon?" before "What feature should we build next?"
   - Keep [one level of abstraction per method](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf).
 - [**Make it work, make it right, make it fast**](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast).
   - Build a prototype as soon as possible to get a sense of the entire process.
