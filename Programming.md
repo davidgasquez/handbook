@@ -15,7 +15,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - We can't change our brain to grasp something complex. We need to simplify complexity so we can handle it.
   - Simplicity means fewer moving pieces, less internal connectivity, and components with clear, straightforward interfaces that remain stable without ongoing maintenance.
   - Simple doesn't mean hacky or low-quality. The first solution is rarely the simplest - simplicity requires deep understanding of the current system.
-  - [Users don't want features, they want outcomes](https://www.hashicorp.com/en/tao-of-hashicorp).
+  - Users don't want features, they want outcomes. Start from the workflow and end goal, not the technology. Technologies change while end goals stay the same.
   - Eliminate state. If you can't, make it visible. Stateful components can get into a bad state.
     - Have one service that knows about the state - i.e. it talks to a database - [and other services that do stateless things](https://www.seangoedecke.com/good-system-design/).
   - Prefer [behavior over representation](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf) and [intention-revealing names](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf).
@@ -56,6 +56,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - The developer task is to make sure his program will run on that new hardware with minimal effort.
 - **Data is only useful as long as it's being used**.
   - Design data before designing abstractions. Data model design is system design.
+  - Immutable versions make systems easier to debug, audit, rollback, and understand.
   - Flat files help ensure that data is usable for the longest possible time.
   - For complex data structures where plain text really isn't appropriate, use a structured text format instead. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. [Data structures, not algorithms, are central to programming](https://users.ece.utexas.edu/~adnan/pike.html).
 - **A programmer who can't reuse other programs is condemned to rewrite them**.
@@ -70,6 +71,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Parallelism can save a great deal of time and frustration.
 - **The sum of the parts is greater than the whole**.
   - A large application built from a collection of smaller programs is more flexible and hence more useful than a single large program.
+  - Treat services as independent processes that communicate through explicit APIs.
   - The same functional capability may exist in both solutions, but the collection-of-small-programs approach is the more forward-looking of the two.
 - [The computer is a machine, but a codebase is an organism](http://web.archive.org/web/20240525224151/https://meltingasphalt.com/a-codebase-is-an-organism/). The organic nature of code manifests itself in the dual forces of growth and decay. It also suggests that you should know your code smells. These smells won't be causing problems during execution, on the machine. Instead, it's going to cause problems during the [[Evolution]] of the codebase.
 - **Look for the 80% solution**.
@@ -96,6 +98,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - [Every system eventually sucks](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/). Assume everything has bugs.
   - [It's difficult (if not impossible) to design systems that have perfect consistency, perfect availability, incredibly low latency, and incredibly high throughput, all at the same time](https://jazco.dev/2025/02/19/imperfection/).
   - Have [sensible defaults](https://koaning.io/posts/sensible-defaults/).
+  - Principles like immutability, automation, modularity, and codification are ideals, not dogma. Reevaluate them when the practical solution demands it.
 - **Keep the [[Feedback Loops|iteration loop]] short**.
   - Invest in tools to [[Automation|automate]] and improve the development cycle (CI, CD). Decreasing build times a few seconds actually saves a lot of time over time. Deploy often to make the loop end-to-end. If you need to do something manually more than twice, then write a tool for the third time.
 - **Avoid implicit rules**.
