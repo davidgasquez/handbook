@@ -27,6 +27,7 @@
 - When plotting a rate, add the top of funnel and bottom of funnel numbers to make sure things are as expected.
 - A large change is not necessarily worth investigating, and a small change is not necessarily benign. What you want to know is if the change is exceptional.
 - Be clear with your stakeholder about whether this is a one-off vs. something that should be referenced more than once.
+  - [Every time you think you need a dashboard to look at data, stop yourself](https://x.com/ryancarson/status/2071535177126277239). Ask your agent to make sure that you have all the data to analyze something actually stored in the database and then ask your agent to do the analysis and create a dashboard to answer the question(s) that you have.
 - Add an [explicit expiration date so it doesn't mold](https://mikkeldengsoe.substack.com/p/moldy-data).
 - [Have meetings where you check and discuss the metrics on the dashboard](https://web.archive.org/web/20240915120730/https://counting.substack.com/p/the-utility-of-an-unwatched-dashboard). This creates a powerful forcing function to look at the thing.
 - Follow up and iterate on your work by marketing, improving and maintaining it into the [[Future|future]].
