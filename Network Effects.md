@@ -13,3 +13,5 @@ Network [diffusion](http://web.archive.org/web/20240705113531/https://meltingasp
 - Neutrons cascading through a hunk of enriched uranium.
 - Economies of scale. More scale means more scale.
 - More customers mean more social proof means more customers.
+- The moat shifts from feature breadth, workflow ownership, and data gravity to the elegance of the abstraction and the ecosystem around it.
+- [Extensibility compounds](https://www.amplifypartners.com/blog-posts/the-primitive-is-the-product) as users create the network of side-products.
