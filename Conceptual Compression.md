@@ -4,4 +4,6 @@
 
 From time to time, look for abstractions that can compress the information behind them. This way you can reduce mental space. When needed, you can expand the abstraction and go deeper. This is used a lot in [[programming]], where a new tool or package emerges taking care of what was previously done by human minds (OMRs vs handwritten SQL)!
 
+[The best-designed primitives feel powerful but deceptively simple, if not boring](https://www.amplifypartners.com/blog-posts/the-primitive-is-the-product), because complexity has been compressed into the abstraction. The value is in the quality of abstraction, not feature depth.
+
 Conceptual compression also allows lazy [[learning]]. If you're using the compressed version you don't need to care about what's behind. If you need to, you can learn it at that time. Not everything needs to be learned upfront.
