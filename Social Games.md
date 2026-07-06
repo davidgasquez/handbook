@@ -13,6 +13,7 @@
 - [Two Rooms and a Boom](https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom). [Print and Play version](https://drive.google.com/drive/folders/1_jbxtyH0V0xACK_crdIbf-QMFv0aw7pr). [Online Version](https://www.playkaboom.com/) ([alternative](http://tworooms.centralus.cloudapp.azure.com/)).
 - [Cockroach Poker](https://boardgamegeek.com/boardgame/11971/cockroach-poker). [Can be played with two standard decks](https://www.reddit.com/r/boardgames/comments/ah8t5r/has_anyone_tried_cockroach_poker_with_a_regular/).
 - [Secret Hitler](https://www.secrethitler.com/assets/Secret_Hitler_Print_and_Play.pdf).
+- [Mafia](https://youtu.be/EDCwQe7P8T0).
 - [Green Team Wins](https://youtu.be/pmIS2CAF-tU).
   - Choose between options.
   - Answer an absurd question (best pizza topping).
