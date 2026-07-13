@@ -8,10 +8,9 @@ on:
 jobs:
   trigger-deploy:
     runs-on: ubuntu-latest
+    permissions: {}
     steps:
-      - name: Trigger Cloudflare Pages deploy hook
+      - name: Trigger website deploy workflow
         env:
-          DEPLOY_HOOK_URL: ${{ secrets.DEPLOY_HOOK_URL }}
-        run: |
-          set -euo pipefail
-          curl -X POST -sS "${DEPLOY_HOOK_URL}"
+          GH_TOKEN: ${{ secrets.SITE_DEPLOY_TOKEN }}
+        run: gh workflow run deploy.yml --repo davidgasquez/davidgasquez.com --ref main
