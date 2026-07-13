@@ -2,21 +2,7 @@
 
 Collection of awesome web-based tools.
 
-## Design
 
-- [Excalidraw](https://excalidraw.com/)
-- [Canva](https://www.canva.com/)
-- [Figma](https://www.figma.com/)
-- [Photopea](https://www.photopea.com/)
-- [Veed.io](https://www.veed.io/)
-- [Birme](https://www.birme.net/)
-- [Law of UX](https://lawsofux.com/) and [Visual Design Safe Rules](https://anthonyhobday.com/sideprojects/saferules/) and [User Interface Wiki](https://www.userinterface.wiki/)
-
-### SVGs
-
-- [SVGViewer](https://www.svgviewer.dev/)
-- [SVG Crop](https://svgcrop.com/)
-- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 
 ## [[Teamwork]]
 

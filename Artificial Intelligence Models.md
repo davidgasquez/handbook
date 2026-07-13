@@ -62,29 +62,6 @@
   - Focus on overall themes and principles across all the sources.
   - Relate concepts together. Map out all the interconnected ideas around.
 
-### Design Styles
-
-Some ~spells~ styles to try when designing dashboards, UIs, or anything else.
-
-- Datasheet
-- High-contrast
-- Monospaced fonts
-- Minimal and utilitarian layout
-- Retro control-panel vibe
-- NeoTech
-- Industrial retrofuture
-- Techno brutalism
-- Neo-Brutalism
-- Editorial Minimalism
-- Swiss / International Typographic Style
-- Text-first, code-adjacent feel
-- Sharp rectangles, thin borders
-- Terminal-inspired developer minimalism
-- Fieldset + legend pattern
-- Clear visual hierarchy
-
-[More skills at the impeccable repo](https://github.com/pbakaus/impeccable).
-
 ## Skills
 
 - [Edward Tufte's Visualization Skills](https://github.com/aref-vc/tufte-claude-skill)

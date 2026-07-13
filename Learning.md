@@ -104,13 +104,10 @@ right in your browser.
 
 ### Others
 
-- [Hack Design](https://hackdesign.org/lessons) - Quick and simple lessons on design.
 - [Better Explained](http://betterexplained.com/) - Math without endless memorization.
 - [Seeing Theory](https://seeing-theory.brown.edu) - A visual introduction to probability and statistics.
 - [Tuts+](https://tutsplus.com/) - Collection of how-to tutorials on lots of topics.
 - [Learn Genetics](https://learn.genetics.utah.edu/). Genetics science learning resources.
-- [HTML for People](https://htmlforpeople.com/) - Resource for learning HTML.
-- [Typography in ten minutes](https://practicaltypography.com/typography-in-ten-minutes.html) - Learn the basics of typography.
 - [Metaknowledge](https://github.com/RichardLitt/meta-knowledge) - A list of knowledge repositories from multiple people.
 - [[Privacy]]
   - [Reddit r/privacy  Wiki](https://www.reddit.com/r/privacy/wiki/index) - Guide to becoming more secure online.

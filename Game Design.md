@@ -1,6 +1,6 @@
 # Game Design
 
-Some [principles](https://youtu.be/zaxAdRlyZQ8) to keep in mind:
+Some [principles](https://youtu.be/zaxAdRlyZQ8) to keep in mind, many of which also apply to [[Web Design]]:
 
 1. Create concrete, achievable, and rewarding [[goals]].
 2. Design for nuanced emotion.
