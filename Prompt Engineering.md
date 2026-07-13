@@ -1,9 +1,14 @@
 # Prompt Engineering
 
-- Designing prompts is an [[Agentic Engineering|iterative process]] that requires a lot of [[Experimentation|experimentation]] to get optimal results.
-  - Start with simple prompts and keep adding more elements and context as you aim for better results.
+- [A short prompt is often enough; larger or more important tasks should include only the parts that matter](https://learn.chatgpt.com/docs/prompting).
+  - **[[Goals|Goal]]**: Describe the result, not detailed steps unless the process itself matters.
+  - **Context**: Add only information or sources that could change the result, and explain what the model should take from each. Too much context can confuse the model.
+  - **Output**: Name the audience, format, length, and intended use.
+  - **Boundaries**: State what must stay unchanged, what to avoid, and what requires approval.
+- Designing prompts is an [[Agentic Engineering|iterative process]] that requires [[Experimentation|experimentation]].
+  - Start simple. Review the result and ask for the specific change you want.
+  - For important work, ask the model to check the result and flag missing information instead of guessing, then review it yourself.
   - Learn about the [advanced prompting techniques](https://www.promptingguide.ai/techniques).
-- Be very specific about the instructions, task, and output format you want the [[Artificial Intelligence Models|model]] to perform.
 - English is becoming the hottest new [[Programming|programming]] language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
   - [[Prompt Engineering|Prompts are code]]. Markdown and JSON files are state.
   - [Specs are core to programming with LLMs](https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html).
@@ -11,7 +16,6 @@
 - Describe the problem very clearly and effectively.
 - Make the model ask you more questions to refine the [[Ideas|ideas]].
 - If you want to force some "reasoning", ask something like "[is that a good suggestion?](https://news.ycombinator.com/item?id=42894688)" or "propose a variety of suggestions for the problem at hand and their trade-offs".
-- Add relevant context to the prompt. Context can be external docs, a small pseudocode example, etc. Adding lots of context can confuse the model, so be careful!
 - ["Prompt engineering"](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) will have a large impact on the usefulness of an agent.
 - Follow [Prompt Engineering Guide](https://www.promptingguide.ai/), [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering), and [OpenAI Best Practices](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api). Also [some more on GitHub](https://github.com/PickleBoxer/dev-chatgpt-prompts).
 - Learn from [leaked System Prompts](https://matt-rickard.com/a-list-of-leaked-system-prompts).

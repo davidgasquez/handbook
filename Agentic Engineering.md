@@ -53,7 +53,7 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
 - In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
 - The act of writing code (or doing something) surfaces decisions you hadn't considered. When code is cheap, implement to learn.
 - [Use all programming languages and technologies instead of just the ones you're already familiar with](https://x.com/mrexodia/status/2010157660885176767).
-- Your job is to write clear instructions, plans, and examples. Define what "done" means, how to test it. Review outcomes, not lines of code.
+- [A useful coding-agent prompt names the behavior you want, points to the relevant code or reproduction steps, preserves important constraints, and says how to verify the change](https://learn.chatgpt.com/docs/prompting). Define what "done" means and review outcomes, not lines of code.
 - Automate everything that's easy. To spend more time on the hard stuff, minimize the time you spend on easy things. Distill learnings into skills, build loops, automate code reviews, and let your tools compound.
 - [Code is cheap, but maintenance, support, and security aren't](https://x.com/davidfowl/status/2054084334848790652)!
 - Project setup is the single most important human time investment you can make.
