@@ -12,6 +12,8 @@ Public goods are defined as goods that are both non-excludable (it's infeasible 
 - The funding **infrastructure itself is a public good**. Data, evaluation pipelines, and mechanisms should be open, composable, and forkable so communities can reuse and adapt them.
 - Markets compress private preferences into price, but [price struggles to see collective value](https://docs.hypercerts.org/ecosystem/why-we-need-hypercerts) when benefits are diffuse. Governments help, but often move too slowly for global, data-rich, interconnected public goods.
 - Value recognition networks complement markets and governments by identifying work toward shared goals, evaluating it with data, expertise, and community insight, and recognizing/funding the contributors.
+- [Large pools of capital are useful only when an ecosystem can convert them into effective work](https://nanransohoff.substack.com/p/the-third-wave-of-american-philanthropy).
+- Independent, specialized allocators reduce single-threaded decision-making and help make neglected subdomains legible.
 
 ## Desirable Criteria
 
