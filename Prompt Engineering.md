@@ -5,6 +5,15 @@
   - **Context**: Add only information or sources that could change the result, and explain what the model should take from each. Too much context can confuse the model.
   - **Output**: Name the audience, format, length, and intended use.
   - **Boundaries**: State what must stay unchanged, what to avoid, and what requires approval.
+- For difficult, verifiable work, [treat the prompt as both an acceptance test and a search policy](https://x.com/Qiaoqiao2001/status/2080003441821163958).
+  - Define exactly what counts as done.
+  - List plausible but insufficient results that do not count.
+  - Diversify before converging: start with independent approaches, keep incompatible routes alive, and share ideas only after each route's strengths and gaps are clear.
+  - Turn likely mistakes and edge cases into an adversarial checklist.
+  - Actively search for counterexamples and have independent reviewers challenge candidate answers.
+  - Mark a route as blocked when it only moves the problem into an equally hard unproved claim, reopen it only with a materially new mechanism.
+  - Iterate through `attempt → failure → diagnosis → new approach → draft → audit → repair`.
+  - Require concrete evidence, reject vague optimism, and report the exact remaining gap when nothing passes the acceptance test.
 - Designing prompts is an [[Agentic Engineering|iterative process]] that requires [[Experimentation|experimentation]].
   - Start simple. Review the result and ask for the specific change you want.
   - For important work, ask the model to check the result and flag missing information instead of guessing, then review it yourself.
