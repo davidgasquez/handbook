@@ -3,6 +3,7 @@
 Good web design makes its purpose, hierarchy, and next action obvious while remaining readable, responsive, accessible, fast, and distinctive.
 
 - Design matters a lot. If it looks bad, people won't look at it.
+- [Design is compromise](https://stephango.com/design-is-compromise). Choosing the right compromises is what defines good design. Having an opinionated set of tradeoffs exposes your approach to a set of weaknesses. Good design is choosing the right compromise for your audience.
 - Start with the problem, audience, content, and desired outcome. Make the main action obvious.
 - [Everything in your design should be deliberate](https://anthonyhobday.com/sideprojects/saferules/): whitespace, alignment, size, spacing, color, shadows, and everything else.
 - Use high contrast for important elements. Use headings, whitespace, proximity, and alignment to group related content, guide attention, and reduce clutter.
