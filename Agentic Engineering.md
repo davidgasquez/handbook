@@ -79,3 +79,5 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
 - [Provide structured error hints](https://robertsahlin.substack.com/p/why-the-future-of-data-platform-engineering). If a request fails, the system should provide a reason that allows an agent to self-correct and retry without human intervention.
 - There is a big bottleneck on information retrieval. Even if you had a magical oracle with perfect information access, the agent (like humans) needs to know how to write the query and the oracle needs to know how to interpret it to fetch only the relevant information given that query.
 - A good test for how agentic-friendly your codebase is: "[Can you get away with just asking for the What without describing the How](https://x.com/thorstenball/status/2070061003987927535)?"
+- Coding agents primarily navigate repositories through string and filename search, so [identifiers and paths should be good search terms](https://modem.dev/blog/how-coding-agents-read-your-code).
+  - Prefer distinctive, concept-specific function, method, type, directory, and file names over generic names such as create, Data, or Config.
