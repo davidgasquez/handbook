@@ -24,7 +24,9 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - [You don't need to scale right away](https://thmsmlr.com/cheap-infra). Servers are getting more capable faster than the internet is growing. Anticipating future scale is often counterproductive - most systems can't accurately predict multi-order-of-magnitude growth.
   - Compounding complexity must be fought at every turn. [Alternate between phases of expansion (new features) and consolidation](https://qntm.org/devphilo).
   - Write code that's easy to delete.
+  - Start every task from the actual inputs and required outputs, never from the machinery you'd like to build.
   - If you can't easily explain why something is difficult, then it's incidental complexity, which is probably worth addressing.
+  - Prefer fewer states, fewer steps, fewer special cases, fewer moving parts.
   - Reuse [patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns).
   - The number of moving pieces on average doubles every 18-24 months. No one fully understands [[Systems]].
   - [There are different notions of simplicity](https://vitalik.eth.limo/general/2018/11/25/central_planning.html) (Kolmogorov complexity vs VC dimension). What is "simple" to describe or appears to have few knobs in one language for describing it is devilishly complex in another, and vice versa.
@@ -91,6 +93,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Limit choice. Favor a small, orthogonal subset of language/library features over clever, "feature‑rich" constructs.
   - Use [guard clauses](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf) to keep the main path obvious.
   - Move facts out of memory. Give things precise names, draw boundaries, write tests, and make changes undoable.
+  - [The primary feature for easy maintenance is locality](https://bsky.app/profile/gordon.bsky.social/post/3mrmljoxfg22r). If code has high locality, you can easily see the blast radius of an edit.
 - **There is no silver bullet**.
   - Accept that many programming decisions are opinions.
   - Make the trade-offs explicit when making judgments and decisions. With almost every decision you make, you're either deliberately or accidentally trading off one thing for another thing.
@@ -111,6 +114,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Your API should support simple API keys for authentication, because many of your users will not be professional engineers.
   - Requests that take action (particularly high-stakes action like payments) should include some kind of idempotency key to make retries safe.
   - Your API will always be a source of incidents. Make sure you have rate limits and kill switches in place.
+  - Before proposing any solution, describe the input and output concretely.
 
 Like any other field, the world of software development has some interesting and famous "laws". These are some of them I've found interesting, funny or worth knowing:
 
