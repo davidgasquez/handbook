@@ -2,6 +2,8 @@
 
 Useful [[Cooking|cooking]] references.
 
+- There are [better ways to display recipes](https://x.com/juanbuis/status/2082162851553398821) and you can [use them](https://www.nic0le.com/recipes)!
+
 ## Vanilla Crepes
 
 ### Ingredients
