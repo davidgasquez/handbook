@@ -49,6 +49,7 @@ Decision-making is the process we use to identify and choose alternatives, produ
 - You don't feel the consequences/pain of the actions you don't take! A good decision can still have unintended consequences.
 - [Most of the time there is no particular individual or approximation of an individual who's in charge](https://jscaseddon.co/2024/02/science-for-steering-vs-for-decision-making/). There’s a social or political process, in which many decision-makers, each with different motivations that may or may not include anything other than self-interest, negotiate, collaborate, compete, haggle, ...
 - Usually the baseline is "nothing" so the right heuristic is usually not "is it ideal" but rather "is it better than nothing?"
+- For choices affecting other people, apply the [[Ethics#Practical test|ethical decision test]] in which you identify who is affected and the likely harms, test whether the rule could be universal and accepted as fair, ensure people are treated as ends, and ask what character the choice expresses.
 
 ![schema](https://miro.medium.com/max/700/1*9H9letDTBO0IvuGbYN4x6A.png)
 
