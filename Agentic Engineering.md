@@ -46,6 +46,7 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
   - When you must fail, fail noisily and as soon as possible.
   - Prototype before polishing. Get it working before you optimize it.
   - Distrust all claims for "one true way". We are all figuring this out and "this" is changing every day.
+  - [CLIs should have an useful `--help` command](https://shot-scraper.datasette.io/en/stable/video.html#shot-scraper-video-help)
 - Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
   - [Your job is to design environments where iteration converges toward correctness instead of drifting toward plausible nonsense](https://nonstructured.com/zen-of-ai-coding/).
 - [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
