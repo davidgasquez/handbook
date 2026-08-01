@@ -1,6 +1,9 @@
 # Decentralized Web
 
 - The decentralized web is more than [[Blockchain]] and [[Cryptocurrencies]]. [It means building in public, new types of incentives, real ownership of digital property, internet-wide login / identity](https://ckarchive.com/b/p9ueh9hp409k), ...
+- Treat payments and [[Identity|identity]] as [centralization attractors](https://newsletter.squishy.computer/p/web3).
+  - Both require consensus and trust, while their [[Network Effects|network effects]] reward the largest existing systems.
+  - Decentralizing them can redistribute power, but it does not eliminate preferential attachment or guarantee lasting decentralization.
 - Key decisions associated with maintaining and updating cryptonetwork protocols. As with every human organization, aligning interests and beliefs among human participants to reach agreement is the goal of [[governance]].
   - [In cryptonetworks, these decisions are made by the community, using open and transparent mechanisms](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e). [[Decentralized Autonomous Organizations|DAOs]] don't need a boss!
   - Cryptocurrencies have the [[Incentives]] to keep the users happy since forking is an option.
