@@ -1,10 +1,11 @@
 # Decentralized Protocols
 
 - [The point of decentralization is to guarantee the rights of individuals and communities on the Internet](https://www.pfrazee.com/blog/practical-decentralization).
-- Decentralized protocols become [fat protocols](https://www.usv.com/writing/2016/08/fat-protocols/).
+- [Tokenized blockchain protocols can become “fat protocols”](https://www.usv.com/writing/2016/08/fat-protocols/).
+  - Shared data lowers application-layer switching costs, while demand for a protocol token can grow as applications succeed.
   - On the internet, the main protocols take care of communications (HTTPS, SSH, ...) and apps are built on top. These apps and services store our data in silos. These protocols are necessary but not valuable. Value is captured by the apps.
     - A great example of a modern open source protocol is [[IPFS]].
-  - Fat protocols contain the data. With open protocols and decentralized data ([[Decentralized Web]]), apps are only the frontend of the services.
+  - In the fat-protocol thesis, the protocol contains shared data and applications become replaceable frontends to the service.
 - [Protocol and Open Source Funding](https://youtu.be/few99D5WnRg?list=WL). It'll add to the current ways to fund open source projects:
   - Consulting: open source the code, sell consulting.
   - Cloud: open source some code, but sell a closed source cloud complement.
