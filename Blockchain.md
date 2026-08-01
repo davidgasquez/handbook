@@ -3,9 +3,9 @@
 - [A blockchain is a decentralized database](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
   - A blockchain is a worse [[Databases|database]]. It is slower, requires way more storage and compute, doesn't have customer support, etc. [But has one dimension along which it is radically different. No single entity or small group of entities controls it](https://continuations.com/web3crypto-why-bother).
 - Blockchains solve the Byzantine Generals Problem: [How do participants in a decentralized network communicate and coordinate with each other towards some action without relying on a trusted third-party?](https://a16zcrypto.com/posts/article/crypto-glossary/).
-  - Blockchains are "trustless". There are mechanisms in place by which all parties in the [[Systems|system]] can reach a consensus on what the canonical truth is.
+  - Blockchains are often called "trustless", but they reduce rather than eliminate trust: their consensus mechanisms let participants agree on canonical state, not objective truth.
   - Power and trust are distributed (or shared) among the network's stakeholders (e.g. developers, miners, and consumers), rather than concentrated in a single individual or entity (e.g. banks, governments, and financial institutions).
-  - Blockchains put the code in charge.
+  - Blockchains make agreed state and deterministic execution publicly verifiable and difficult to alter. Smart-contract bugs, protocol upgrades, client implementations, and oracle inputs still require human [[Governance|governance]] and institutions.
   - Blockchains allow permissionless innovation.
 - Blockchains are useful when these conditions are met:
   - The resource is scarce (limited).
@@ -21,6 +21,7 @@
 - Blockchains can be a censorship-resistant payment rail for people under coercive regimes.
 - Blockchains solve distribution problems but they don't solve the problem of who will add the money to the ecosystem. That's a political one. Unless there are good incentives to move to blockchains.
   - Once a system moves to a blockchain, it'll get its properties (e.g: transparency and verifiability).
+  - A blockchain can verify that an on-chain record has not changed, but not that its original off-chain claim was true. [Tokenized natural assets still require measurement systems, trusted oracles, governance, and safeguards against double counting](https://www.usv.com/writing/2021/04/tokenized-natural-assets/).
 - Open source has the failure mode of not enough incentives, cryptocurrency has the failure mode of excessive and overly concentrated incentives.
 - Blockchain incentives have large real-world undesired second-order consequences. E.g: Bitcoin incentivizes miners to use a lot of energy.
 - [Markets are useful when prices measure an underlying reality](https://www.stephendiehl.com/posts/bad_place_2026/).

@@ -1,7 +1,8 @@
 # Decentralized Autonomous Organizations
 
 - A Decentralized Autonomous [[Organizations|Organization]] is a mechanism that enables online communities to form and coordinate economically.
-- DAOs make it possible for an online group with members from anywhere in the world to pool capital and hard-code rules — entirely in software — for how that capital will be managed and deployed. Those rules are then enforced by the underlying [[Blockchain|blockchain]].
+- They let an online group pool capital and use [[Blockchain|smart contracts]] to automate parts of its voting, permissions, and treasury operations.
+- Smart contracts do not replace the whole organization. [DAOs still depend on human governance](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) and face low participation, concentrated token voting, difficult-to-repair code, and legal ambiguity.
 
 ## Resources
 
