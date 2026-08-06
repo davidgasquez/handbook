@@ -4,6 +4,7 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
 
 - Using LLMs for coding is difficult and unintuitive, requiring significant effort to master.
 - Don't delegate [[Thinking|thinking]], delegate work.
+- [Treat programming with agents as theory building](https://www.seangoedecke.com/programming-with-ai-agents-as-theory-building/). Maintain your own [[Mental Models|mental model]] of the system and evaluate agent output against it. Productivity comes from informed steering and rejection, not accepting more generated code.
 - Before coding, make a [[Planning|plan]] with the model.
   - You can use the same or a different model to critique the plan and iterate. If you are unsure, ask to ["give a few options before making changes"](https://steipete.me/posts/just-talk-to-it).
   - Progressive, iterative prototyping. [Code is cheap. Redoing work is extremely cheap](https://crawshaw.io/blog/programming-with-llms). Prioritize exploration over execution (at first). Iterate towards precision during the brainstorming phase. Start fresh once you know what and how to build it.
@@ -52,6 +53,7 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
 - [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
   - [LLMs have bounded cognition too](https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition). A context window is a hard limit on how much it can take into account at any one time. Design sessions so the model doesn't lose the thread.
 - In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
+- [Domain expertise is an important prompting skill](https://www.seangoedecke.com/llms-reward-expertise/). It helps you spot suspicious output, ask codebase-specific questions, suggest better approaches, and push the agent toward simpler solutions.
 - The act of writing code (or doing something) surfaces decisions you hadn't considered. When code is cheap, implement to learn.
 - [Use all programming languages and technologies instead of just the ones you're already familiar with](https://x.com/mrexodia/status/2010157660885176767).
 - [A useful coding-agent prompt names the behavior you want, points to the relevant code or reproduction steps, preserves important constraints, and says how to verify the change](https://learn.chatgpt.com/docs/prompting). Define what "done" means and review outcomes, not lines of code.
