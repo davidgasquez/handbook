@@ -1,0 +1,7 @@
+# OODA Loop
+
+The OODA loop is John Boyd's model for maintaining agency in uncertain, changing environments. You observe reality, orient by constructing a world model, decide, act, and use the effects as [[Feedback]] to update the cycle.
+
+- [Treat OODA as a nonlinear feedback system, not a rigid four-step checklist](https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo94257/pdf/GOVPUB-D301-PURL-gpo94257.pdf). Observation, orientation, and action can overlap; your actions change the environment, and multiple feedback paths shape what comes next.
+- [Make orientation the focal point](https://newsletter.squishy.computer/p/tools-for-thought-in-your-ooda-loop). Your culture, previous experience, and new information shape what you notice and which actions appear possible. Use tools that expand awareness, memory, and synthesis, and update your [[Mental Models|model]] when it mismatches reality. [Keep important feedback loops running through you](https://bsky.app/profile/gordon.bsky.social/post/3mscn23dp7s2y): use assistive tools to produce an outcome, but don't outsource the observation and judgment you're trying to train, or it stops being your OODA loop.
+- [Optimize your ability to adapt, not raw speed](https://slightlyeastofnew.com/wp-content/uploads/2010/03/boyds-real-ooda-loop.pdf). Keep your orientation matched to reality, then change tempo as circumstances require. Tight and accurate [[Feedback Loops]] help you [[Learning|learn]], but moving quickly with a poor orientation only creates confusion.

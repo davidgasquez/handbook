@@ -12,6 +12,7 @@
     - [[Learning]] under conditions of noisy data starts with world construction. Imagine a possible [[Future|future]], and repeat this to generate hundreds of possible future worlds. The main skills and resources required are creativity, [[slack]], and [equanimity](https://en.wikipedia.org/wiki/Equanimity). Creativity leads to a higher rate of idea generation and [[slack]] gives us more [[Time|time]] to generate [[Ideas|ideas]]. Equanimity is important because it allows us to persevere in the absence of tangible feedback.
 - [The shorter and more accurate the feedback loop, the easier it is to learn](http://web.archive.org/web/20240425163013/https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/). The **tighter** your feedback loop, the better your work.
   - Fast and accurate loops might get you on a local maximum or might not work when the underlying system is noisy.
+- The [[OODA Loop]] turns decision-making under changing conditions into a feedback process: observe, orient, decide, act, and reorient.
 
 ## Examples
 
