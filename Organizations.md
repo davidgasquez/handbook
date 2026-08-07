@@ -72,6 +72,11 @@
 - By [swinging the pendulum](https://twitter.com/BrandonMChu/status/1502312472644100105) and changing focus periodically, you accept more extreme (and clear) outcomes in the short term, but in the long term arrive at the middle ground you aim for.
 - [Big organizations develop strategic inefficiency to carry on doing what they're doing](https://youtu.be/v1eWIshUzr8?t=1147).
 - You can't sell something like versioning or encryption as the key feature, you need to put out a comparable product and have these features be the thing that tips the scale in your favour.
+- [AI shifts the organizational bottleneck from human execution to human taste and judgment](https://x.com/jeffreyhuber/status/2079266941366407380).
+  - Build small, high-trust teams around context and [[Making Decisions|decision authority]], rather than labor and coordination.
+- Own organizational context and business-specific tools. [Rent replaceable model intelligence and commodity infrastructure](https://x.com/jeffreyhuber/status/2079266941366407380). Avoid vendors that lock up institutional knowledge.
+- [Build a compounding learning machine](https://x.com/jeffreyhuber/status/2079266941366407380).
+  - Try teaching an agent before hiring, default internal information to open, and turn rubrics, production traces, and expert feedback into reusable knowledge.
 - Your business may be thought of as a process. It has inputs, and it has outputs. One type of knowledge is understanding which inputs affect which outputs.
 - Bureaucracy develops through deliberate decisions that seemed logical at the time, not just as a natural consequence of growth. Two main causes of bureaucracy are:
   - Poorly designed incentive systems that punish mistakes but don't reward success.
