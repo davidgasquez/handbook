@@ -35,6 +35,8 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
 - **Do one thing and do it well**.
   - By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
   - Design composable primitives. Name things simply and clearly.
+    - Keep software malleable by untangling monolithic code into loosely coupled [[Modularity|modules]] that you can assemble in different configurations for different applications.
+    - [Expose phases in the execution path that can either observe or change state](https://x.com/badlogicgames/status/2051400918852063645).
   - Use [[Conceptual Compression]]. [Collapse complexity into the smallest yet most powerful abstraction that enables the outcome](https://www.amplifypartners.com/blog-posts/the-primitive-is-the-product).
     - Balance expressivity with simplicity.
     - Opinionated enough to be productive, extensible enough for others to compose new workflows.
