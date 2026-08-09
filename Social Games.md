@@ -29,7 +29,7 @@
 - [Phantom Ink](https://resonym.com/game/phantom-ink/). Great word/deduction game in which you are trying to communicate with teammates in a way that does not give information to the other team, even though they hear your communications too.
 - Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say the numbers in order.
 - Everyone puts a finger on the same platform. Someone counts to three and says the number of fingers remaining on the platform. If they are correct, they're out.
-- Confidence Interval Game. Select a continuous variable (Iceland Population). Everyone precommits a 95% confidence interval answer. If you're out, you lose 20 points. If you're in, you get 1 point for each person that lost points.
+- Confidence Interval Game. Select a continuous variable (Iceland Population). Everyone precommits a 95% confidence interval answer. If you're out, you lose 20 points. Among those who are in, the smallest interval on a logarithmic scale earns points equal to the number of players.
 - Grammarly. Make teams. Generate a random word. One person on each team needs to guess it. The rest of the team needs to take turns saying a word that forms a sentence to describe the word.
 - Guess Who. Someone asks a question like "Who is most likely to do X?" and everyone points to their guess at the same time.
 - [A Fake Artist Goes to New York](https://oinkgames.com/en/games/analog/a-fake-artist-goes-to-new-york/). Drawing plus hidden-role deduction where players must signal knowledge without leaking the answer.
