@@ -17,6 +17,8 @@
   - All organizations have their own way of doing things ([[Culture]]) and their own particular views of how the world should work (vision).
     - **Vision** is the change in the world you want to see.
     - **Mission** defines the approach that you will execute to make your vision a reality. The **strategy** further refines the mission into concrete steps.
+    - [Successful things optimize competency on a narrow set of strategies, often a unique and unusual combination](https://stephango.com/moats).
+    - Strategy should identify the specific vectors and trade-offs that create an edge, rather than describe a generic aspiration.
   - There are two core processes that take place within any company: [[Making Decisions|making decisions]] and doing work.
 - Align [[incentives]]. Make the right thing to do the easiest thing to do.
 - The layout of the organization impacts how many hops the information has to make.
