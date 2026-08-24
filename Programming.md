@@ -118,6 +118,21 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Your API will always be a source of incidents. Make sure you have rate limits and kill switches in place.
   - Before proposing any solution, describe the input and output concretely.
 
+## Software Taste
+
+Patterns and constraints I find interesting when building software.
+
+- As stateless as possible.
+- Aim for headless, local-first, no-backend, and file-over-app patterns.
+- Dogfood as much as possible. Use the tool while I build it.
+- Self-extensible and modifiable/malleable, with a tiny kernel surrounded by modules, sources, and extensions.
+- Distribute the source code with hot reloading.
+- Good docs and resources for self-inspection and debugging.
+- Tool should remain useful if the company building it goes out of business.
+- Use an event-log replication model. A small ordered log over durable immutable storage, surrounded by asynchronous materializations and disposable compute ([WAL on S3](https://cursor.com/blog/git-at-any-scale)).
+
+## Software Laws
+
 Like any other field, the world of software development has some interesting and famous "laws". These are some of them I've found interesting, funny or worth knowing:
 
 - [Laws of Software Development](http://www.globalnerdy.com/2007/07/18/laws-of-software-development/)
