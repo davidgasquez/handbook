@@ -11,6 +11,7 @@ Context engineering is curating knowledge as a continuously maintained [[Data En
 - Good context is data plus interpretation, procedure, authority and memory.
 - Different source types need different modeling. Slack threads, CRM records, documents, and meetings should not share one generic chunking pipeline.
 - Context transformations are [lossy compression](https://x.com/JoshARosen/status/2090067664911683687). Preserve canonical sources and lineage.
+- The context window [is only the final delivery mechanism](https://x.com/JoshARosen/status/2090461097178341452) (deployment target).
 
 ## Company Context Repository
 
