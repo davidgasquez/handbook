@@ -34,6 +34,7 @@ Some ~spells~ styles to try when designing dashboards, UIs, or anything else.
 - Neo-Brutalism
 - Editorial Minimalism
 - Swiss / International Typographic Style
+- [Scandinavian](https://github.com/ericzakariasson/scandinavian-design/blob/main/skills/scandinavian-design/SKILL.md)
 - Text-first, code-adjacent feel
 - Sharp rectangles, thin borders
 - Terminal-inspired developer minimalism
