@@ -117,6 +117,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Requests that take action (particularly high-stakes action like payments) should include some kind of idempotency key to make retries safe.
   - Your API will always be a source of incidents. Make sure you have rate limits and kill switches in place.
   - Before proposing any solution, describe the input and output concretely.
+  - Think hard about data access patterns and reduce the work for them at every step (e.g. mechanical sympathy).
 
 ## Software Taste
 
