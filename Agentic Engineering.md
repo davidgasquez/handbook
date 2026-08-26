@@ -63,6 +63,7 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
   - Make your project build, test, and lint with a single command.
   - Print minimal, actionable error messages.
   - If a human gets lost onboarding to your codebase, an LLM is definitely going to be lost.
+- Fix your fundamentals first: data quality, documentation, backups, testing, permissions, and operational culture. An LLM is not a psychic.
 - Design small, isolated systems. You can check a static website looks great easily. You can check a small API design works well. Compose black boxes into larger systems. Individual boxes can be rewritten in other languages, removed, replaced easily. You can measure them individually.
 - Using AI as a team is very different than using AI for you.
 - Model behaviour is not deterministic, intuition for one model doesn't transfer to other models, even within the same family or reasoning level, intuitions for one coding harness does not transfer to other harnesses, and so on.
