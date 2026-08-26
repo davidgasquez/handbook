@@ -84,3 +84,4 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
 - A good test for how agentic-friendly your codebase is: "[Can you get away with just asking for the What without describing the How](https://x.com/thorstenball/status/2070061003987927535)?"
 - Coding agents primarily navigate repositories through string and filename search, so [identifiers and paths should be good search terms](https://modem.dev/blog/how-coding-agents-read-your-code).
   - Prefer distinctive, concept-specific function, method, type, directory, and file names over generic names such as create, Data, or Config.
+- Care about the failure modes. It's very easy to make things that work well if you don’t care how they fail. [AI-generated code can be designed to work while not being designed to fail gracefully](https://pluralistic.net/2026/01/06/1000x-liability/).
