@@ -9,6 +9,7 @@
 - [Style is a small part of writing well. Most of writing is thinking clearly.](https://www.julian.com/guide/write/intro) The act of simply putting a thought into words makes it immediately obvious to you if you really understand it or not, and if not, where your blind spots are. For style:
   - [**Be concise**](https://stephanango.com/concise). Understand the topic you're writing about. [Use simple words and sentences](http://www.paulgraham.com/simply.html). Put the most important things first. Never use a long word when a short one will do. Explain ideas in simple terms, strongly and clearly, so that they can be rebutted, remixed, reworked — or built upon. Concise explanations accelerate [[Making Decisions|making decisions]] and make ideas useful. One idea can more easily be combined with another idea to form a third idea!
   - **Be Useful**. Before you start writing, ask yourself: What purpose does this serve? Who is going to read it? What do they need to know?
+  - [**Be epistemically honest**](https://x.com/TheZvi/status/2092307987314733410). Avoid micro-dishonesty: don't smuggle in your point, hide weaknesses, use a misleading introduction, or pretend events unfolded differently. Readers notice.
   - **Be specific**. Avoid vague language (remove qualifiers). Cut the fluff. Delete unnecessary words. Say what you mean. Make positive statements about reality.
     - You can almost always replace an adverb with a better, more specific verb, or describe what you mean instead. Remove the adverb and commit to saying whatever you're saying.
     - Instead of using constructions with "of" or "for", rewrite the sentence to put more information before the noun.
@@ -20,7 +21,7 @@
 - Write in a conversational tone. Think about readers when writing.
 - [A strong title is a pointer to a specific idea](https://taylor.town/how-to-title) and becomes a reusable handle in [[Communication]] and [[Ideas]].
 - [Finding a piece's "true name" often reveals its core narrative](https://taylor.town/how-to-title). If the title is fuzzy, cut back to the main thread and sharpen [[Focus]].
-- [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. Use the [Minto Pyramid](https://scqa.lifeitself.org/) or another standard structure like this one:
+- [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. Split a piece only where each part can stand on its own; otherwise, publish it at its natural length. Use the [Minto Pyramid](https://scqa.lifeitself.org/) or another standard structure like this one:
   - Decide what you're actually saying. [Define a clear thesis](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html). State the main point before you give the reasoning that leads to it.
     - What is your main point? Who are you writing for?
   - Support your thesis with arguments. Repeat yourself (within reason). Look for ways that you can restate your point, clarify, or provide closure for the reader.
@@ -28,7 +29,8 @@
   - Conclusions.
 - Use positive language rather than negative language.
 - Human beings are wired to respond to storytelling. A story arc is a way to structure ideas to tap into this response, typically by describing a change in the world. This applies to everything, e.g: [[Public Speaking]].
-- Don't fully think through your ideas before writing. It's inefficient. The best way to think is by writing. It compels your brain to connect the dots. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601).
+- Find out whether you think mostly on the page or in your head. If you think on the page, don't fully think through your ideas before writing: writing compels your brain to connect the dots. If you think in your head, struggling may mean you need more reading or time for ideas to marinate. [Write whatever helps you think better](https://twitter.com/eugeneyan/status/1256828197410201601).
+- Do enough research for the material to change your initial hypothesis. If an essay emerges in exactly the shape of its outline, the research did not teach you enough. See [[Learning]].
 - [Don't try to _persuade_ people that the idea is true/good. Instead, try to accurately _describe_ where the idea came from, the path which led _you_ to think it's true/plausible/worth a look. In the process, you'll probably convey your own actual level of uncertainty, which is exactly the right thing to do.](https://www.lesswrong.com/posts/Psr9tnQFuEXiuqGcR/how-to-write-quickly-while-maintaining-epistemic-rigor)
 - Be self-aware about your knowledge level on a topic, and say "I'm not sure…" when you are not sure about something.
 - Separate the [[Processes|processes]] of creation from improvement. **You can't write and edit at the same [[Time|time]]**. Write the first draft fast, then iterate on it editing things. Much of this editing will be cutting, and that makes simple writing even simpler.
