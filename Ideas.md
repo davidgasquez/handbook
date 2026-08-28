@@ -112,7 +112,7 @@ Would love to work on [a company/cooperative focused on improving things with da
 - Use and promote open protocols
   - Do not lock clients into systems, exploit credulity, or sell hype merely because buyers will pay
 - Protect autonomy, health, and a life outside work
-- Boring, valuable services
+- Boring, valuable services, pragmatic
   - Specialized consulting, contracting, education, ...
 - Trust precedes process
   - Few meetings, rituals, dogmas, ...
