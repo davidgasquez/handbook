@@ -30,6 +30,7 @@
   - Investigate where (and how) [[processes]] and tasks could be automated, and understand the costs of automating them.
 - Focus on minimizing entropy in organizations. Simplify (Best process is no process, Meetings) and [[Focus]].
 - Beware of over-engineering your problems and killing initiatives with useless processes in the organization. Introduce processes one step at a time and make sure everyone is on the same page.
+  - [Policy friction can make one-person automation require an army](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/).
   - Once you have extra people and basically the same set of tasks at hand... sluggish ways of doing things and inefficiency are basically guaranteed.
   - The increase in levels is like a game of telephone and reduces the fidelity of the message/strategy/goal from executive down to line level team members.
   - Unnecessary details and unnecessary coordination make the project much less attractive for great people.
@@ -37,7 +38,7 @@
 - Decision-making should be pushed down the hierarchy to the practitioner.
 - An organization exhibits risk aversion comparable to the most risk-averse decision-maker in the decision chain.
 - Every business has an equation that describes how it generates revenue. Write it down and decompose it to better understand the relationships. [Don't try to optimize that number or it'll be gamed](https://www.fast.ai/2019/09/24/metrics/). Solve problems, not [[metrics]]. When a measure becomes a target, it ceases to be a good measure. Not everything that counts can be measured, and not everything that can be measured counts. [The more important a metric is in social decision-making, the more likely it is to be manipulated](https://en.wikipedia.org/wiki/Campbell%27s_law).
-  - Your stated strategy must match the strategy revealed in the context of decision making (budgets and teams).
+  - Your stated strategy must match the strategy revealed by budgets, teams, approval friction, the artifacts rewarded, and the willingness to measure outcomes.
 - [[Data Culture|Data]] can be valuable in helping you understand the world, test hypotheses, and move beyond gut instincts or hunches. [[Metrics]] can be useful when they are in their proper context and place.
   - Use data to identify friction points, and constantly experiment with changes to make things easier for you and your customers.
 - How does the [data-informed product loop look](https://cutlefish.substack.com/p/tbm-852-the-data-informed-product)?
@@ -68,6 +69,7 @@
 - [When facing organizational problems do not: ignore them, give up, switch to a top-down approach, involve more "lead people", rely on heroes or aim for perfection](https://komoroske.com/slime-mold/).
 - Periodically observe pain points that cost [[Productivity|productivity]], and task people to reduce them, thereby producing more compound leverage across the whole organization.
 - [In any organization, the people devoted to the benefit of the organization itself always gain control and those dedicated to the goals that the organization is supposed to accomplish have less and less influence, and sometimes are eliminated entirely](https://en.wikipedia.org/wiki/Jerry_Pournelle#Pournelle's_iron_law_of_bureaucracy).
+- [Large budgets plus unclear outcomes create adverse selection](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/). They attract people who benefit from preserving the appearance of progress. Require named outcome owners, falsifiable success criteria, and independent verification.
 - Leaders in a healthy organization [[Communication|listen and communicate]].
 - Organizations naturally move towards growth: more people, more systems, more conflicting worldviews. To facilitate action, communication systems _will_ be established. Make sure these are effective.
 - A company is a superorganism.

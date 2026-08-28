@@ -6,7 +6,7 @@
 
 - [Before you dive into how to build a dashboard, the first thing you should ask yourself is whether this is the right tool for your situation.](https://shopify.engineering/make-dashboards-using-product-thinking-approach) Understand your problem and your audience; design a dashboard that does one thing really well, for a clear set of users.
   - Answer three specific questions: [How, What, How](https://youtu.be/g2-dkJkZjiI)?
-    - The data will move 1 of three directions; up, down or stay the same. Ahead of time, what will the stakeholder do in each case? Are all three answers the same?
+    - Who owns the decision, and what changes when the result goes up, down, stays flat, or is uncertain? If the action never changes, don't build the dashboard.
 - Strive to create dashboards that are either standalone or include links to provide the relevant context. Without meaning, data is just digits.
   - Ideally, push visualizations to the tools that have the context (e.g. a chart in a [[Slack]] message, a chart in a Jira ticket, a chart in HubSpot, etc).
 - [Make your charts professional](https://web.archive.org/web/20251230160154/https://bsky.app/profile/peck.phd/post/3lbfgjdnvy22k). [[Data Visualization]] is important.
@@ -77,6 +77,9 @@ The value is that now discussions are happening about the data.
   - That hidden code becomes de-facto business logic.
   - They are a terminator in an [[automation]] chain.
 - Dashboards represent an endpoint in an automated workflow. Which means they create an open-loop system. It's very hard to link the dashboard that was observed to the decisions, and therefore the effect of those decisions, taken based on what was observed.
+- Instrument views and repeat usage, then connect them to a lightweight decision log.
+  - Observation → owner → action → outcome.
+  - [Urgent demand is not evidence of actual use](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/).
 - Dashboards enable managers to look at data and make decisions. There are a lot of assumptions here:
   - That sufficient context is presented with the data.
   - That the data is correct.

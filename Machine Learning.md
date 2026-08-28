@@ -2,7 +2,7 @@
 
 ## Production Project Checklist
 
-1. Frame the problem. Define a clear and concise objective with clear [[Metrics|metrics]]. [Write it as a design doc](https://applyingml.com/resources/ml-design-docs/). To know "what is good enough" you have to collect and annotate more data than most people and [[Organizations|organizations]] want to do.
+1. Frame the problem. Define a clear and concise objective with clear [[Metrics|metrics]], who will act on each output, what intervention follows, and how its outcome will be measured. [Write it as a design doc](https://applyingml.com/resources/ml-design-docs/). To know "what is good enough" you have to collect and annotate more data than most people and [[Organizations|organizations]] want to do.
 1. Get the data. Make the data tidy. Machine learning models are only as reliable as the data used to train them. [The data matters more than the model](https://twitter.com/beeonaposy/status/1353735905962577920). Data matters more than the model. [The main bottleneck is collecting enough high-quality data and getting it properly annotated and verified](https://news.ycombinator.com/item?id=45875618). Then doing proper evals with humans in the loop to get it right.
 1. Explore the data. Verify any assumptions. Garbage in, garbage out. Remove ALL friction from looking at data.
 1. Create a model. [Start with the simplest model!](https://developers.google.com/machine-learning/guides/rules-of-ml/). That will be the [baseline model](https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa). Evaluate the model with the defined metric.
