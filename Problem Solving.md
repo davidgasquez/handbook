@@ -18,7 +18,8 @@
   - They figure out a way of doing it, and when they get to a solution that's good enough (not perfect, just good enough), that's what they settle on.
   - The next time they encounter the problem, they use the same solution.
   - That keeps happening until later people don't even think about how to do it. [It's just how things are done](https://en.wikipedia.org/wiki/Einstellung_effect).
-- There are usually a number of possibilities for solving a problem. The first would be any solution that quickly gets the job done yet not actually permanent while the second would be a proper solution – which unfortunately takes longer and costs more. Know when to choose each option. [Nothing is more permanent than a temporary solution](https://thelightersideofwork.com/2021/04/nothing-is-more-permanent-than-a-temporary-solution/).
+- There are usually a number of possibilities for solving a problem. The first would be any solution that quickly gets the job done yet not actually permanent while the second would be a proper solution – which unfortunately takes longer and costs more. Know when to choose each option.
+  - Assume every temporary process will become permanent. [Nothing is more permanent than a temporary solution](https://thelightersideofwork.com/2021/04/nothing-is-more-permanent-than-a-temporary-solution/).
   - Solve problems by fixing the environment that allowed them to occur.
 - [Problem-solving can be understood as a search problem](https://rs.io/the-science-of-problem-solving/). You start in some state, there's a set of neighbor states you can move to, and a final state that you would like to end up in.
   - [[Experimentation|Experiment]] more. Solve problems in different ways.
