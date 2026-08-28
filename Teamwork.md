@@ -35,6 +35,7 @@
   - Mentorship programs that develop theory-building skills in junior developers
 - Aim to be a completely autonomous team. Everyone should feel empowered to make decisions. Those who are responsible for something must have the means and context to effect it. You build it, you run it! **The company strategy guides the team, it doesn't tell it what to do.**
   - [A team's ability to operate autonomously relies on alignment, which is strengthened by context](https://web.archive.org/web/20230605055308/https://macroapp.io/blog/the-context-warehouse).
+  - [Run retrospectives only when the team has the authority and commitment to act on what it learns](https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/#autonomy-builds-morale). If participants consider one wasteful, pause it and fix the lack of follow-through before restarting it.
   - Strong engineers make independent decisions about work priorities when necessary.
   - You can also have no durable cross-functional teams. Teams assemble around a project and disperse once the project is done.
 - Run [Automated Check-ins](https://basecamp.com/features/checkins) to share things explicitly. What are people working on? What are they planning to work on next?
@@ -62,6 +63,7 @@
   - A more focused backlog makes it easier and faster to plan cycles, and ensures the work will actually get done.
   - [Balance putting code where they are most comfortable while optimizing for speed against putting the code where it belongs when considering a longer-term perspective on the overall system.](https://twitter.com/jmwind/status/1477399261700526080).
 - **Focus on business outcomes, not on technologies.**
+- [Treat boards, reports, estimates, and other management artifacts as maps, not the work itself](https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/#v-the-powerpoint-is-not-the-territory). Make uncertainty visible instead of presenting misleading precision.
 - When you start from a shared understanding – that you're all doing the best you can – you can foster a compassionate working environment.
   - Everyone on your team should assume that everyone else on the team is doing their best work, given their circumstances.
   - Trust people with freedom. Add [[Processes]] where you need to replace some level of trust.
@@ -76,6 +78,7 @@
 - Don't replace prototypes with roadmaps. Encourage prototyping to learn and build confidence with different parts of your software stack.
 - Never be shy to give credit to others!
 - Ask people ["when do you think you'll get this done"](https://mobile.twitter.com/Carnage4Life/status/1438982223395393536), write it down and then follow up at that time. That makes teams more effective.
+- [Do not impose deadlines](https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/#no-deadlines). Trust the team will do it at the right pace. Deadlines require estimation and estimation is very hard to do right.
 - Every document must have a specific goal written at the top of it.
 - When building something:
   1. Question everything.
