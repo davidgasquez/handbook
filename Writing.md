@@ -35,6 +35,7 @@
 - Be self-aware about your knowledge level on a topic, and say "I'm not sure…" when you are not sure about something.
 - Separate the [[Processes|processes]] of creation from improvement. **You can't write and edit at the same [[Time|time]]**. Write the first draft fast, then iterate on it editing things. Much of this editing will be cutting, and that makes simple writing even simpler.
 - [Beware of "this"](https://www.lesswrong.com/posts/5e49dHLDJoDpeXGnh/editing-advice-for-lesswrong-users). Scan your words for words like "this" or "that", and when in doubt about clarity, replace them with whatever their intended antecedents are.
+- [Avoid passive voice and untangle your sentences](https://www.astralcodexten.com/p/half-a-month-of-consolation-writing).
 - You can use tools like [Hemingway](http://www.hemingwayapp.com/) or [Ludwig](https://ludwig.guru/) to improve.
   - [The point of editing](https://evaparish.com/blog/how-i-edit) is to think about how you're using language and to make choices that suit the message you want to deliver, not to unquestioningly follow rules—mine or anyone else's.
 - When writing tutorials or guides, use the second-person and describe actions to a user. These types of content talk to people when humans can't. [Technical documentation follows the same rules as normal writing](https://developers.google.com/tech-writing/one).
