@@ -17,6 +17,7 @@
 - Four categories of characteristics about your data form [the four pillars of Data Observability](https://www.metaplane.dev/blog/the-four-pillars-of-data-observability):
   1. The *Metrics* and *Metadata* pillars describe the internal characteristics of our data itself and its external characteristics
   2. The *Lineage* and *Logs* pillars describe internal dependencies within our data and its interactions with the external world data at any point in time.
+- A data system should answer: Did the data arrive? Was anything lost? Which processing run produced this record? Where did the run fail? Use stable run/event IDs and [structured, truthful, tested logs](https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/).
 - Data Quality has many dimensions:
   - **Accuracy**: Does the data accurately describe the real world?
   - **Completeness**: How completely does the data describe the real world?
