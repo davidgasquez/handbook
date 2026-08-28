@@ -96,21 +96,26 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 - Clues might be scattered across many checkpoints with actors as "NPC"s to guide the players.
 - For big and closed areas, set up a Photo Battle Royale. You're out in a park. Make a group chat and eliminate people by making photos of them. The goal is to collect trophies without being eliminated.
 
-### Token Recommendation Engine
+### Data Organization
 
-- Since most blockchain transactions and wallet states are public, you can get good data on which tokens people similar to you are holding.
-- This might be useful to discover new assets.
-
-### Open Data Organization
-
-Would love to work on [a company/cooperative focused on Open Data](https://github.com/datonic) with the following ideals:
+Would love to work on [a company/cooperative focused on improving things with data](https://github.com/datonic) with the following ideals:
 
 - Small core team ([5-15 people](https://x.com/kepano/status/1706690014657274201))
 - Remote-first, asynchronous communications first
 - No managers or PMs
+- Bootstraped
 - Transparent decision-making
 - Profit-sharing among the team
 - Purpose-driven
+- Combine competence with humanity
+  - Avoid bad software, treat customers fairly, communicate like humans, and run a tight operation
+- Use and promote open protocols
+  - Do not lock clients into systems, exploit credulity, or sell hype merely because buyers will pay
+- Protect autonomy, health, and a life outside work
+- Boring, valuable services
+  - Specialized consulting, contracting, education, ...
+- Trust precedes process
+  - Few meetings, rituals, dogmas, ...
 
 ### Evolutionary Algorithms with LLMs
 
