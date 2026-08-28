@@ -7,7 +7,9 @@
 - [LLMs may not yet have human-level depth, but they already have vastly superhuman breadth](https://news.ycombinator.com/item?id=42625851).
 - [[Prompt Engineering|Learning to prompt]] is similar to learning to search in a search engine (you have to develop a sense of how and what to search for). A [good example from OpenAI](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_prompt.pdf).
 - LLMs have encyclopedic knowledge but suffer from hallucinations, jagged intelligence, and "amnesia" (no persistent memory).
-- AI tools amplify existing expertise. The more skills and experience you have on a topic, the faster and better the results you can get from working with LLMs on that topic. [AI is not be the solution to a problem](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making), but another tool that can be used to solve it.
+- AI tools amplify existing expertise rather than replacing it. [Start with a concrete problem, not an AI initiative](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/).
+  - AI is a tool, not the strategy.
+  - AI projects inherit ordinary software-project risks and add model and data uncertainty.
 - [LLMs are useful when exploiting the asymmetry between coming up with an answer and verifying the answer](https://vitalik.eth.limo/general/2025/02/28/aihumans.html) (similar to how a sudoku is difficult to solve, but it's easy to verify that a solution is correct).
   - [Software 2.0 automates what we can verify](https://x.com/karpathy/status/1990116666194456651). If a task/job is verifiable, then it is optimizable directly or via reinforcement learning, and a neural net can be trained to work extremely well.
 - [LLMs are good at the things that computers are bad at, and bad at the things that computers are good at](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem). Also good at things that don't have wrong answers.
@@ -19,9 +21,11 @@
 - LLMs amplify existing expertise rather than replacing it.
 - AI speeds up generation, not necessarily throughput. Bottleneck are often upstream: unclear scope, missing context, legal/product/domain ambiguity.
 - [Typing faster was never the main software bottleneck](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/). Software is mostly decisions, tradeoffs, and understanding.
-  - Use AI to reduce friction around the bottleneck, but first identify the real bottleneck
+  - Use AI to reduce friction around the bottleneck, but first identify the real bottleneck.
+- [Measure actual adoption and complete outcomes](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/). Demos, license purchases, token use, and generated output are not evidence of value.
 - "AIs" can be dangerous in under-specified environments (e.g: pausing games to last longer in the level) but those are the places where we will use them most. If something is well specified, there might be better solutions/optimizations (maths, code, ...).
 - When AI is "right", people become less skilled. When AI is "wrong", you need skilled people to catch and fix the errors.
+- Technical capability does not erase ethical obligations around [consent, privacy, and hidden human labor](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/), [licensing and creators' rights](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/), professional responsibility, and the consequences of failure.
 - [When the main purpose of writing is to demonstrate your thinking (building trust, applying for a job), don't use LLM output](https://x.com/HamelHusain/status/1976720326106173673). Use LLMs when you need to communicate info, or do admin stuff, where the person really just wants info and doesn't need to be convinced "how you think". LLMs are good at writing but bad at thinking.
   - LLMs are helpful when you want the output/result and don't need to do the work yourself (e.g: [going to the gym](https://danielmiessler.com/blog/keep-the-robots-out-of-the-gym) doesn't work if the weights are automatically lifted).
   - [The work/gym test comes after capability and trust](https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html). Delegate only when AI can perform the task reliably and its mistakes are minimal, detectable, and correctable.
