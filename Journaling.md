@@ -15,6 +15,7 @@
 - [Journaling is a tool you can use to better manage your mental health](https://nesslabs.com/dear-diary).
 - There are many methods. Start with a simple one like "what you worked on, what you learned, what didn't work, and what you want to try next".
 - Weekly Review:
+  - [Systematically review older work to find patterns in where you got it wrong and right](https://pluralistic.net/2021/05/09/the-memex-method/).
   - [Review what happened during the week](https://www.benkuhn.net/weekly/). How did the week go? Write down a list of topics to think about and take written notes on each topic as you think about them.
   - Review a set of recurrent prompts. Tweak them over time. For example:
   - Consistency at your core [[habits]] this week ([[Fitness]], [[Routine]], [[Productivity]], etc.). How can you tweak them to be more consistent or more useful?
