@@ -1,6 +1,6 @@
 # Context Engineering
 
-Context engineering is curating knowledge as a continuously maintained [[Data Engineering|data product]] that delivers the smallest useful set of relevant, trustworthy, and fresh information to an agent at the right time.
+Context engineering is curating knowledge as a continuously maintained [[Data Engineering|data product]] that delivers the smallest useful set of relevant, trustworthy, and fresh information to an agent at the right time. The goal is to [encode expert judgement into the infrastructure to allows agents to produce correct analysis](https://x.com/sh_reya/status/2094279496497266948).
 
 - Everyone wants your context as their moat. Own context in a model-agnostic layer that outlives any agent, model, or vendor.
 - As [analysis becomes cheap, consensus becomes scarce](https://www.iandmacomber.com/blog/post-ai-data-stack). Encode expert judgment so equivalent, authorized questions produce the same definitions, evidence, and answers across models and interfaces.
@@ -31,6 +31,7 @@ The work that needs to be done is to determine which information is authoritativ
   - Repeated questions, corrections, rejected answers, and missing evidence should change models and artifacts
   - Humans review and approve changes to core artifacts
   - Compound by creating a shared layer of context
+- [Shit in, shit out](https://news.ycombinator.com/item?id=49447493). You can't just flatten all the documents into plain text and then create embeddings. Most of the documents of any organizations are outdated or duplicated.
 - Different tasks need different projections over shared company knowledge.
 - Businesses already have plenty of context, just not coherent context. [Curate context the same way you curate data](https://x.com/sethrosen/status/2090053608838484010).
 - [Knowledge work needs all different types of output](https://x.com/sethrosen/status/2088254987142934907) (docs, trainings, sheets, landing pages), and these all have to stay coherent with each other as the business moves or they are useless.
