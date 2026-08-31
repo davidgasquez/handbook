@@ -3,13 +3,17 @@
 Context engineering is curating knowledge as a continuously maintained [[Data Engineering|data product]] that delivers the smallest useful set of relevant, trustworthy, and fresh information to an agent at the right time.
 
 - Everyone wants your context as their moat. Own context in a model-agnostic layer that outlives any agent, model, or vendor.
+- As [analysis becomes cheap, consensus becomes scarce](https://www.iandmacomber.com/blog/post-ai-data-stack). Encode expert judgment so equivalent, authorized questions produce the same definitions, evidence, and answers across models and interfaces.
+- Keep context headless and agent-readable. Expose definitions, owners, filters, code, values, lineage, and canonical sources through files and APIs rather than vendor-specific interfaces.
 - Context is finite and has diminishing returns. You need to model and clean it.
 - Every company needs to build and maintain their [[Company Knowledge Management]] system as a source of grounding for their agentic tooling.
 - There is no single "company brain" like there is no single source of truth for metrics.
 - You can't simply index data from different sources and expose it all raw.
   - Copying every table into a lake never solved analytics. Indexing every document will not solve context.
 - Good context is data plus interpretation, procedure, authority and memory.
+  - A company-owned layer should encode metric definitions, grain, exceptions, historical changes, and trusted evidence paths.
 - Different source types need different modeling. Slack threads, CRM records, documents, and meetings should not share one generic chunking pipeline.
+  - Pre-model recurring meaning from expensive unstructured data with versioned prompts and domain taxonomies. Preserve raw sources and lineage.
 - Context transformations are [lossy compression](https://x.com/JoshARosen/status/2090067664911683687). Preserve canonical sources and lineage.
 - The context window [is only the final delivery mechanism](https://x.com/JoshARosen/status/2090461097178341452) (deployment target).
 
