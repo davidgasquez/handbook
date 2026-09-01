@@ -14,31 +14,42 @@ Inspired by [Caitlin Hudon's Intake Form for Data Requests](https://caitlinhudon
 - Creates easily referenced records of requests.
 - Friction cuts down on lazy asks. Too much friction will dissuade legit asks.
 
-### Data Request Form
+### Data and AI Request and Decision Form
 
-- What kind of deliverable would be most helpful for your request?
-- Will you need this data again in the [[Future|future]]?
-- Which stats will this change or which action will be taken based on this data and by whom?
-  - How can we measure our progress/success for each step?
-  - What happens if we don't hit the target?
+Use this form for data requests. For executive decisions, fill it before planning or deploying a data or [[Artificial Intelligence Models|AI]] initiative.
+
+- **Request Description**
 - What is the real problem you're trying to solve?
   - Frame the (initially vague) data questions this way: [How does _lever_ impact _KPI_?](https://web.archive.org/web/20220810142837/https://www.narrator.ai/blog/how-i-frame-data-questions-to-make-analyses-more-useful/)
 - What is the business question you're trying to answer?
-- What decision will you make or action will you take with this data?
 - [What are we trying to improve](https://twitter.com/ergestx/status/1758538405695086829)?
-- **Request Description**
+- Whose outcome are we trying to change, from what baseline, and why now?
+- Which stats will this change or which action will be taken based on this data and by whom?
+  - How can we measure our progress/success for each step?
+  - What happens if we don't hit the target?
+- What exact decision are we making, and who personally owns it?
+- What decision will you make or action will you take with this data?
+- What action will we take for each possible result, including an uncertain result?
+- Why should that action cause the desired outcome? Map input → action → output → outcome → impact.
+- What evidence would change your mind? What is the strongest rival explanation, and why might this fail?
+- Why does this require data science or AI instead of a simpler method, and how will we independently verify it?
 - Do you know where the related data is?
 - What [[Time|time]] period do you care about?
 - Can this analysis be done in our current BI tools?
   - If yes, do you have a starting link?
   - If no, can [[Reverse ETL]] help?
+- What kind of deliverable would be most helpful for your request?
+- Will you need this data again in the future?
 - Which is more important?
   - Getting the answer quickly
   - Getting an accurate answer
-- Any gotchas we should know about?
-- What is the priority for this request? _Optional_
 - Who will see this deliverable?
 - How will this deliver business value within 90 days?
+- Any gotchas we should know about?
+- What behavior will the [[Metrics|metric]] or model incentivize? How could it be gamed, distorted, or cause harm?
+- What is the smallest reversible test, its maximum acceptable blast radius, and its rollback condition?
+- Who can challenge, override, and stop the system, and will they retain the expertise to detect failure?
+- What do you predict will happen, by when, and when will we review, stop, revise, or scale it?
 
 ## Weekly [[Metrics]] Review
 
