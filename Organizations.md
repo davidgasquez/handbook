@@ -69,7 +69,7 @@
 - [When facing organizational problems do not: ignore them, give up, switch to a top-down approach, involve more "lead people", rely on heroes or aim for perfection](https://komoroske.com/slime-mold/).
 - Periodically observe pain points that cost [[Productivity|productivity]], and task people to reduce them, thereby producing more compound leverage across the whole organization.
 - [In any organization, the people devoted to the benefit of the organization itself always gain control and those dedicated to the goals that the organization is supposed to accomplish have less and less influence, and sometimes are eliminated entirely](https://en.wikipedia.org/wiki/Jerry_Pournelle#Pournelle's_iron_law_of_bureaucracy).
-- [Large budgets plus unclear outcomes create adverse selection](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/). They attract people who benefit from preserving the appearance of progress. Require named outcome owners, falsifiable success criteria, and independent verification.
+- [Large budgets plus unclear outcomes create adverse selection](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/). They attract people who benefit from preserving the appearance of progress. Require named outcome owners, precise falsifiable time bounded success criteria, and independent verification.
 - Leaders in a healthy organization [[Communication|listen and communicate]].
 - Organizations naturally move towards growth: more people, more systems, more conflicting worldviews. To facilitate action, communication systems _will_ be established. Make sure these are effective.
 - A company is a superorganism.
