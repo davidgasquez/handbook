@@ -1,6 +1,6 @@
 # Context Engineering
 
-Context engineering is curating knowledge as a continuously maintained [[Data Engineering|data product]] that delivers the smallest useful set of relevant, trustworthy, and fresh information to an agent at the right time. The goal is to [encode expert judgement into the infrastructure to allows agents to produce correct analysis](https://x.com/sh_reya/status/2094279496497266948).
+Context engineering is curating knowledge as a continuously maintained [[Data Engineering|data product]] that delivers the smallest useful set of relevant, trustworthy, and fresh information to an agent at the right time. The goal is to [encode expert judgement into the infrastructure to allows agents to produce correct analysis](https://x.com/sh_reya/status/2094279496497266948). Sharing context within the organization is a critical part of a company being successful with agents.
 
 - Everyone wants your context as their moat. Own context in a model-agnostic layer that outlives any agent, model, or vendor.
 - As [analysis becomes cheap, consensus becomes scarce](https://www.iandmacomber.com/blog/post-ai-data-stack). Encode expert judgment so equivalent, authorized questions produce the same definitions, evidence, and answers across models and interfaces.
