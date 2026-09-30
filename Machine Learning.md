@@ -25,9 +25,14 @@ These points are expanded with more details in courses like [Made With ML](https
 - [Success with AI hinges on how fast you can iterate](https://hamel.dev/blog/posts/evals/#iterating-quickly-success). You must have [[Processes|processes]] and tools for evaluating quality (tests), debugging issues (logging, inspecting data), and changing the behavior or the system (prompt eng, fine-tuning, writing code).
 - Collecting good evals will make you understand the problem better.
 - Working with probabilistic systems requires new kinds of measurement and deeper consideration of trade-offs.
-- Don't work if you cannot define what "great" means for your use case.
+- Define what "great" means for your use case, then refine it through reviewing examples (**criteria drift**).
 - [Evals replace LGTM-vibes development](https://newsletter.pragmaticengineer.com/p/evals). They systematize quality when outputs are non-deterministic.
-- [Error analysis](https://youtu.be/ORrStCArmP4) workflow: build a simple trace viewer, review ~100 traces, annotate the first upstream failure ([open coding](https://shribe.eu/open-coding/)), cluster into [[Themes|themes]] ([axial coding](https://delvetool.com/blog/openaxialselective)), and use counts to prioritize. Bootstrap with grounded synthetic data if real data is thin.
+- [Error discovery is the eval equivalent of product discovery](https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix). Discover which failures merit [[Metrics|measurement]] before writing metrics.
+- [Error analysis](https://youtu.be/ORrStCArmP4) workflow: build a simple trace viewer, review ~100 traces, annotate the first upstream failure ([open coding](https://shribe.eu/open-coding/)), cluster into [[Themes|themes]] ([axial coding](https://delvetool.com/blog/openaxialselective)), and use counts to prioritize.
+  - Log complete sessions: inputs, system prompts, retrieved context, tool calls/results, intermediate model calls, and final output. Render results as users experience them; expose metadata for filtering.
+  - Sample cluster representatives alongside random traces. Annotate at least 10 yourself before viewing agent suggestions to reduce automation bias. Accept or reject suggestions and keep reviewing until learning plateaus; ~100 is a useful target.
+  - Describe the user-visible problem; investigate technical causes later. Agents can catch contradictions but miss failures requiring product judgment.
+  - When real traces are scarce, bootstrap synthetic queries across task, persona, and request-type dimensions. Generate each scenario separately, discard unrealistic examples, and prefer real usage data.
 - [Evals are fundamentally "data science"](https://youtu.be/lA4MfpgF91Y). **Look at your data**, conduct experiments and measure where appropriate, and iterate metrics and approaches.
 - Pick the right evaluator: code-based assertions for deterministic failures; LLM-as-judge for subjective ones. Keep labels binary (PASS/FAIL) with human critiques. Partition data so the judge cannot memorize answers; validate the judge against human labels (TPR/TNR) before trusting it.
 - Run evals in CI/CD and keep monitoring with production data.
