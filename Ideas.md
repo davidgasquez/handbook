@@ -13,10 +13,10 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 
 ## Key Properties of Ideas
 
-- Timeless.
-- No replication costs.
-- Creates win-win situations.
-- [[Network Effects]].
+- Timeless
+- No replication costs
+- Creates win-win situations
+- [[Network Effects]]
 
 ## Interesting Areas
 
