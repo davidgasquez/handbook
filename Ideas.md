@@ -114,6 +114,7 @@ Would love to work on [a company/cooperative focused on improving things with da
 - Protect autonomy, health, and a life outside work
 - Boring, valuable services, pragmatic
   - Specialized consulting, contracting, education, ...
+  - [Bitter lessoned](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 - Trust precedes process
   - Few meetings, rituals, dogmas, ...
 
