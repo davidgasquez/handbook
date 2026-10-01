@@ -10,8 +10,8 @@
 1. Make results (models, analysis, graphs, ...) reproducible (code, environment and data). Version your code, data and configuration. Make feature dependencies explicit in the code. Separate code from configuration.
 1. Test every part of the [[Systems|system]] ([ML Test Score](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)): data (distributions, unexpected values, biases, ...).
 1. Iterate. Deliver value first, then iterate. Go back to the first point and change one thing at a time. Machine Learning progress is nonlinear. It's really hard to tell in advance what's hard and what's easy.
-  - [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641).
-  - Track every experiment you do. Keep a reverse-[[Time|time]] sorted doc where you add bullet points of what [[Ideas|ideas]] you've tried and how they've gone. Look for data flywheel, harnessing the power of user-generated data to rapidly improve the whole system. These are powerful [[Feedback Loops]]. Attempt a portfolio of approaches.
+   - [Engineering projects generally move forward, but machine learning projects can completely stall. It's possible, even common, for a week spent on modeling data to result in no improvement whatsoever](https://medium.com/@l2k/why-are-machine-learning-projects-so-hard-to-manage-8e9b9cf49641).
+   - Track every experiment you do. Keep a reverse-[[Time|time]] sorted doc where you add bullet points of what [[Ideas|ideas]] you've tried and how they've gone. Look for data flywheel, harnessing the power of user-generated data to rapidly improve the whole system. These are powerful [[Feedback Loops]]. Attempt a portfolio of approaches.
 1. Explain your results in terms your audience cares about. [[Data Culture|Data is only useful as long as it's being used]].
 
 These points are expanded with more details in courses like [Made With ML](https://madewithml.com/).
@@ -47,16 +47,16 @@ These points are expanded with more details in courses like [Made With ML](https
 ### The [Eval Loop](https://openai.com/index/evals-drive-next-chapter-of-ai/)
 
 1. **Specify**.
-  - Define what "great" means.
-  - Write down the purpose of your AI system in plain terms.
-  - The resulting golden set of examples should be a living, authoritative reference of your most skilled experts' judgment and taste for what "great" looks like.
-  - The process is iterative and messy.
+   - Define what "great" means.
+   - Write down the purpose of your AI system in plain terms.
+   - The resulting golden set of examples should be a living, authoritative reference of your most skilled experts' judgment and taste for what "great" looks like.
+   - The process is iterative and messy.
 2. **Measure**
-  - Test against real-world conditions. Reliably surface concrete examples of how and when the system is failing.
-  - Use examples drawn from real-world situations whenever possible.
+   - Test against real-world conditions. Reliably surface concrete examples of how and when the system is failing.
+   - Use examples drawn from real-world situations whenever possible.
 3. **Improve**
-  - Learn from errors.
-  - Addressing problems uncovered by your eval can take on many forms: refining prompts, adjusting data access, updating the eval itself to better reflect your goals, ...
+   - Learn from errors.
+   - Addressing problems uncovered by your eval can take on many forms: refining prompts, adjusting data access, updating the eval itself to better reflect your goals, ...
 
 ### ML In Production Resources
 

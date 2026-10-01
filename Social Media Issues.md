@@ -6,10 +6,10 @@
 - Internet algorithms are [[Systems|complex profit-maximizing systems]] that want to spoon-feed you whatever you're most likely to click on. This is a win-win, symbiotic relationship—until it's not. When the algorithm is using your primitive mind against you, the relationship is parasitic. [The algorithm will learn to show things that will further confirm and strengthen your existing viewpoints](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles).
 - Each app is competing against the other apps. Only the apps that gain your [[Focus|attention]] continue. Over time, your attention is more and more hacked by these apps. All exist to sell your attention to advertisers. Each one has a team optimizing the attention hacking.
   - Social media apps might be dangerous due to the amount of data they track. Data is not the new gold, it is the new oil, and it damages the social environment. [If you feel you are being watched, you change your behavior](https://www.socialcooling.com/). [Loss of privacy leads to loss of freedom](https://robindoherty.com/2016/01/06/nothing-to-hide.html). This may limit our desire to speak or think freely, thus bringing about "chilling effects" on [society—or social cooling](https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/).
-   1. Your data is collected and scored.
-   2. Your digital reputation may affect your opportunities.
-   3. People start changing their behavior to get better scores.
-   4. As your weaknesses are mapped, you become increasingly transparent.
+    1. Your data is collected and scored.
+    2. Your digital reputation may affect your opportunities.
+    3. People start changing their behavior to get better scores.
+    4. As your weaknesses are mapped, you become increasingly transparent.
 - We must [view individual attention as a societal good](https://medium.com/@pwang/reframing-the-social-media-problem-as-an-attention-crisis-52253dbfe627); and we should see society-wide "joint attention" as, in fact, a commons, like fresh air or clean water. But unlike air or water, synchronous attention is a manufactured scarcity.
 - Most of our [[news]] feeds are insular networks made up of people who get their info from the same filter bubble we do.
 - [Social media makes more sense when you view it as a place people go to perform rather than a place to communicate](https://collabfund.com/blog/thoughts/).
