@@ -86,7 +86,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - [Software is never finished, only abandoned](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/).
 - **Treat all the data as an [append-only event log](https://www.youtube.com/watch?v=ZQ-MdKj3BjU)**.
   - Use a central log where consumers can subscribe to the relevant events.
-  - Having a central place ([the log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)) for continuous events makes it easy to create a stream of data to process and sets a source of truth.
+  - Having a central place ([the log](https://web.archive.org/web/20260612105408/https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)) for continuous events makes it easy to create a stream of data to process and sets a source of truth.
   - A [log improves coordination in distributed systems](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/).
 - **[Reduce cognitive load](https://minds.md/zakirullin/cognitive)**.
   - Working memory is tiny (≈4 chunks). Design code, tests, and APIs so a change fits in one mental model at a time.

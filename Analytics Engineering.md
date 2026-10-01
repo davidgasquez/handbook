@@ -42,7 +42,7 @@
 ### Public Data Projects
 
 - [GitLab](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt)
-- [Mattermost](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt)
+- [Mattermost](https://web.archive.org/web/20220313144307/https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt)
 - [Mozilla](https://github.com/mozilla/bigquery-etl)
 - [Dagster Open Platform](https://github.com/dagster-io/dagster-open-platform)
 - [LLM Support Bot](https://github.com/PedramNavid/llm-support-bot)

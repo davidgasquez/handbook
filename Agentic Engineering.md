@@ -71,7 +71,7 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
 - [Software is still hard](https://x.com/badlogicgames/status/2017008550111773098). It gets harder if you trick yourself into thinking the agents can take on the hard parts.
 - Tools come in three flavors: context retrieval (finding information), feedback loops (verifying actions), and planning (structuring work over longer horizons).
 - [Write skills for your product](https://x.com/karpathy/status/2026360908398862478) so agents know how to use it properly. Distribute them.
-- [Good skills optimize predictability](https://raw.githubusercontent.com/mattpocock/skills/refs/heads/main/skills/productivity/writing-great-skills/SKILL.md).
+- [Good skills optimize predictability](https://web.archive.org/web/20260620224727/https://raw.githubusercontent.com/mattpocock/skills/refs/heads/main/skills/productivity/writing-great-skills/SKILL.md).
   - Write checkable steps with explicit completion criteria, front-load the trigger words that should invoke them, and use progressive disclosure for reference material.
   - Prune duplication, no-ops, and stale sediment so each meaning has a single source of truth.
 - Tool/skills overload confuses models. Just because you can connect every tool doesn't mean you should. Each tool description consumes context window space and can confuse the model about which tool to use when.
