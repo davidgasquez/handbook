@@ -29,6 +29,8 @@ The work that needs to be done is to determine which information is authoritativ
 
 - Writing, rejecting PRs, and renaming terms on a [shared context layer](https://www.context.ai/blog/a-filesystem-for-context) is the way the organization "thinks" and compacts knowledge.
 - [Co-locate context artifacts with the source systems they describe](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude), require both to change in the same PR, and evaluate the affected behavior before merging. Turn user corrections into regression cases and small reviewed context updates.
+- Model decisions, assumptions, evidence, and dependent work as a [typed graph](https://x.com/arscontexta/status/2105397004226494487).
+- Package expertise with the means to apply it. Domain types and knowledge, skills, tools, and review interfaces. Keep project-specific evidence and decisions separate from reusable methods.
 - Make "Who knows?" a first-class operation
 - Treat the brain as a [data product](https://x.com/hnshah/status/2082944736428695776)
   - Bring external sources into a controlled data plane where they can be validated, normalized, permissioned, cached, and observed.
