@@ -31,7 +31,7 @@ A few personal random ideas. A multitude of bad ideas is necessary for one good 
 
 - Modular.
   - Have some kind of state (main character, currency, ...) and multiple shards to play. Each shard could implement a different rule set or genre.
-  - Use AT Protocol.
+  - Use [[AT Protocol]].
   - [[Modularity]] can also be implemented on the graphics side. You can choose the graphics pack you like just like another cosmetic similar to Rimworld or Dwarf Fortress.
   - Support external apps for certain tasks like trading.
 - Player-driven.

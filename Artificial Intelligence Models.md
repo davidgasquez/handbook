@@ -17,7 +17,7 @@
 - Context is king. Managing the context window effectively is crucial for getting good results.
   - Add websites as context with [jina.ai](https://jina.ai/) or [pure.md](https://pure.md/)
   - Context is easy to mess up: [context poisoning, context distraction, context confusion, context clash](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html), ...
-  - [Context Engineering](https://www.philschmid.de/context-engineering) is the discipline of designing and building dynamic systems that provide the right information and tools, in the right format, at the right time, to give an LLM everything it needs to accomplish a task.
+  - [[Context Engineering]] is [the discipline of designing and building dynamic systems that provide the right information and tools, in the right format, at the right time, to give an LLM everything it needs to accomplish a task](https://www.philschmid.de/context-engineering).
 - LLMs amplify existing expertise rather than replacing it.
 - AI speeds up generation, not necessarily throughput. Bottleneck are often upstream: unclear scope, missing context, legal/product/domain ambiguity.
 - [Typing faster was never the main software bottleneck](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/). Software is mostly decisions, tradeoffs, and understanding.
