@@ -6,11 +6,11 @@ In Deep Funding, multiple mechanisms (involving data, [[Mechanism Design|mechani
 
 1. A mechanism that generates an up-to-date and comprehensive DAG of relevant dependencies given a source node
 2. A mechanism that fills the graph with relevant weights. These weights represent the latent item utilities. There can be many ways of getting to them!
-  - Aggregating human preferences (polls, pairwise comparisons, ...)
-  - Using prediction markets
-  - Getting weights from an AI model
-  - Collaborative Filtering
-  - Having experts fill weights manually
+   - Aggregating human preferences (polls, pairwise comparisons, ...)
+   - Using prediction markets
+   - Getting weights from an AI model
+   - Collaborative Filtering
+   - Having experts fill weights manually
 3. A mechanism that takes that weight vector as input and distributes money to the projects
 
 Deep Funding can be viewed as a [Software-2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) approach to public-goods allocation. Instead of manually designing funding rules, evaluation [[Processes|processes]], and [[Governance|governance]] structures, define an objective function, tests, eval sets, and scoring criteria. Then, let any kind of mechanism (AI models, prediction markets, statistical algorithms, human raters, etc.) compete to solve them. The human work shifts from hand-crafting decision procedures to specifying what "good allocation" looks like and collecting high-quality data. Everything else becomes an optimization problem where participants will try to produce weight predictions that best fit the data. Deep Funding can be seen as **an evolving benchmark suite for truthfully estimating public-goods value**, and progress comes from iterating on the evals rather than hard-coding the system itself. In this view, Deep Funding produces competing value models rather than a single canonical one.
@@ -37,7 +37,7 @@ Deep Funding can be viewed as a [Software-2.0](https://karpathy.medium.com/softw
 So far, Deep Funding has been implemented like this:
 
 1. A list of projects is chosen. This is usually provided by an external entity or process (e.g: the [best model from the ML competition](https://cryptopond.xyz/modelfactory/detail/2564617) chooses the next 100 projects). So far a DAG/graph structure has not been needed since all projects have been compared for their impact on the "Ethereum Ecosystem".
-  - In its current shape, the graph's vertices are projects and the edges are the relative impact of each project in its parent. The same approach could be used for [anything that matches the graph](https://x.com/VitalikButerin/status/1981946493780345303) shape (e.g: science research).
+   - In its current shape, the graph's vertices are projects and the edges are the relative impact of each project in its parent. The same approach could be used for [anything that matches the graph](https://x.com/VitalikButerin/status/1981946493780345303) shape (e.g: science research).
 2. Jurors do pairwise comparisons between projects. An aggregation method is chosen (Huber loss, L2 norm in log space, ...) to derive the "ground truth" relative project weights.
 3. An ML competition and [a Prediction Market](https://ethresear.ch/t/deep-funding-a-prediction-market-for-open-source-dependencies/23101) are kicked off. Modelers and traders are evaluated against a holdout set of pairwise comparisons.
 4. Participants are rewarded based on how close they get to the "jurors' ground truth".

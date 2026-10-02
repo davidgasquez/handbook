@@ -124,9 +124,9 @@
 - [Becoming a data-driven organization is a journey, which unfolds over time and requires critical thinking, human judgment, and experimentation](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard). Fail fast, learn faster.
   - [Data-drivenness is about building tools, abilities, and, most crucially, a culture that acts on data](https://twitter.com/ejames_c/status/1732592768890057115).
   - [Path to create a data-driven organization](https://twitter.com/_abhisivasailam/status/1520274838450888704):
-    - 1. Get a well-placed leader with influence to message, model, and demand data-driven execution.
-    - 2. Hire/fire based on data aptitude and usage.
-    - 3. Create mechanisms that force analytical conversations. Sometimes there is no way around spending an afternoon breaking down metrics by different segments until you find The Thing.
+    1. Get a well-placed leader with influence to message, model, and demand data-driven execution.
+    2. Hire/fire based on data aptitude and usage.
+    3. Create mechanisms that force analytical conversations. Sometimes there is no way around spending an afternoon breaking down metrics by different segments until you find The Thing.
 - [Start small. Don't try to wrangle data for the entire company until you have the tools and process down for one team](http://web.archive.org/web/20240303143022/https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/).
   - Difficulty to work with data scales exponentially with size.
   - [Rule of thumb; your first customer as a data person should be growth](https://twitter.com/josh_wills/status/1577699871335010304).
