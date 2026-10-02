@@ -16,7 +16,7 @@
 
 ## Resources
 
-- [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) and the [Web3 stack](https://web.archive.org/web/20260222130629/https://edgeandnode.com/blog/defining-the-web3-stack).
+- [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) and the [Web3 stack](https://web.archive.org/web/20250121074716/https://edgeandnode.com/blog/defining-the-web3-stack/).
 - [Kernel Community](https://kernel.community/).
 - Decentralized-friendly and open-source alternatives:
   - [Trello](https://dework.xyz/)
