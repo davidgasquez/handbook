@@ -60,7 +60,7 @@
 - [[Agentic Engineering|Improve existing code]] (typing, tests, making it async, ...).
 - Write basic CLIs.
 - Write small scripts.
-- [Generate structured data from text](https://thecaglereport.com/2023/03/16/nine-chatgpt-tricks-for-knowledge-graph-workers/).
+- [Generate structured data from text](https://web.archive.org/web/20231003051435/https://thecaglereport.com/2023/03/16/nine-chatgpt-tricks-for-knowledge-graph-workers/).
 - Make API requests to SQL Semantic Layers (less prone to errors or hallucinating metric definitions).
 - [Use different LLM agents to generate predictions into prediction markets and then spot-check some of them with human juries. Apply evolutionary algorithms to improve the agents' performance in prediction markets](https://youtu.be/b81LXpCqunk?t=2677).
 - [Generate podcasts with LLMs talking about a topic](https://notebooklm.google.com/). Some great prompts:

@@ -65,7 +65,7 @@
 - [Cheat / Bullshit](https://www.pagat.com/beating/cheat.html).
 - [In Vino Morte](https://www.youtube.com/watch?v=ksy4mFBZmR0).
 - [Oh, Hell!](https://www.pagat.com/exact/ohhell.html).
-- [Duel](http://juddmadden.com/duel52/) and [Cuttle](https://www.pagat.com/combat/cuttle.html) ([rules](https://www.cuttle.cards/img/cuttle_rules.pdf)) as 1v1 games.
+- [Duel](http://juddmadden.com/duel52/) and [Cuttle](https://www.pagat.com/combat/cuttle.html) ([rules](https://web.archive.org/web/20260224073859/https://www.cuttle.cards/img/cuttle_rules.pdf)) as 1v1 games.
 - [Regicide](https://boardgamegeek.com/boardgame/307002/regicide) ([how to play](https://www.regicidegame.com/how-to-play/)).
 - [All Card Games](https://www.pagat.com/) and [more](https://www.parlettgames.uk/oricards/). A list of card games all around the world.
   - Some more [modern games playable with a standard deck](https://drive.google.com/file/d/1DB2YF46s0oVFUSIpR9vxoGIbhpTKz2jw/view).

@@ -22,7 +22,7 @@ Handbooks are key for good [[Company Knowledge Management]].
 - [Hanno](https://playbook.hanno.co/)
 - [Remote](https://www.notion.so/remotecom/Handbook-a3439c6ccaac4d5f8c7515c357345c11)
 - [PostHog](https://posthog.com/handbook)
-- [Meltano](https://handbook.meltano.com/)
+- [Meltano](https://web.archive.org/web/20260609143600/https://handbook.meltano.com/)
 
 More examples in the [Handbook of Handbooks](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view).
 

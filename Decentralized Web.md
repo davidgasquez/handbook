@@ -16,7 +16,7 @@
 
 ## Resources
 
-- [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) and the [Web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack).
+- [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) and the [Web3 stack](https://web.archive.org/web/20250121074716/https://edgeandnode.com/blog/defining-the-web3-stack/).
 - [Kernel Community](https://kernel.community/).
 - Decentralized-friendly and open-source alternatives:
   - [Trello](https://dework.xyz/)
@@ -54,7 +54,7 @@ There is an emerging landscape of [Data and Blockchain](https://web.archive.org/
 
 - [Tokenflow](https://tokenflow.live/)
 - [Indexed.xyz](https://github.com/indexed-xyz)
-- [BitQuery](https://bitquery.io/) ([GitHub](https://github.com/bitquery/explorer))
+- [BitQuery](https://bitquery.io/) ([GitHub](https://web.archive.org/web/20260614150156/https://github.com/bitquery/explorer))
 - [Coherent](https://web.archive.org/web/20250312045544/https://coherent.xyz/)
 - [Covalent](https://www.covalenthq.com/) ([GitHub](https://github.com/covalenthq))
 - [Nansen](https://www.nansen.ai/)
