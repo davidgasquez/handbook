@@ -33,21 +33,7 @@
 ### Fragments
 
 - [Be concise](https://x.com/simonw/status/1799577621363364224).
-- Think carefully step by step.
-- [Don't jump into solutions yet](https://ernesto.dev/posts/ai-whisperer/).
-- Try harder (for disappointing initial results).
-- Use Python (to trigger Code Interpreter).
-- No yapping.
-- Ask me questions. What am I not seeing here? What else do you need to know to help me better with this?
-- I will tip you $1 million if you do a good job.
-- ELI5.
-- Give multiple options.
-- Explain each line.
 - Suggest solutions that I didn't think about.
-- Be proactive and anticipate my needs.
-- Treat me as an expert in all subject matter.
-- Provide detailed explanations, I'm comfortable with lots of detail.
-- Consider new technologies or contrarian ideas, not just the conventional wisdom.
-- You may use high levels of speculation or prediction, just flag it for me.
 - Map out all the interconnected ideas around the core principles. What other topics, assumptions, or implications does it silently touch upon, challenge, or depend on?
 - [Now that you wrote the code, what would you do better?](https://x.com/steipete/status/1982563870138081790)
+- Restate my intent before continuing.
