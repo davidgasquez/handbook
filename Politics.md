@@ -81,6 +81,7 @@
 - Voting is a preference aggregation method. Preferences must be aggregated across multiple individuals to determine a collective decision or ranking. This process is central to social choice theory, which provides a mathematical foundation for preference aggregation.
 - Pluralistic voting models that focus on finding "consensus across difference" [are valuable](https://x.com/VitalikButerin/status/2030781981706051769). They inherently empower diverse viewpoints, and prevent an intellectual or decision-making ecosystem from being overly dominated by monoculture.
 - Every time you derive an opinion from a group, you are doing a lossy compression of each individual opinion. How you do it (preference and meta-preference aggregation) is in itself an opinion / choice.
+- [A good place to look for market failures are places where the market ends](https://www.lesswrong.com/posts/hacisxJX7fAQhcSdu/how-should-negative-externalities-be-handled-warning?commentId=EZ4vmMnZdNP5L3kbp). Government defines the domain of problems which the free market gets to act on.
 
 ## Interesting Ideas
 
