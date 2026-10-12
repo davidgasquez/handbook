@@ -53,6 +53,7 @@
 - Cultivate your information diet.
 - Develop [agency](https://usefulfictions.substack.com/p/how-to-be-more-agentic) (the "determination to make things happen"):
   - Agency is a learnable skill, not an inherent trait.
+  - High agency combines [clear thinking, bias to action, and disagreeability](https://www.highagency.com/). Use all three in [[Problem Solving]].
   - Ask for things, even if they seem unreasonable, to test boundaries and learn to absorb "no."
   - Seek real [[Feedback]] (e.g. anonymous).
   - Meet a wide range of people, as valuable opportunities often come from unexpected connections.
