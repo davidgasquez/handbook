@@ -2,6 +2,8 @@
 
 It's a useful [[Mental Models|conceptual framework]] for how to get better at things that you currently find difficult. Everything is hard before it is easy. [The day before something is a breakthrough, it's a stupid idea](https://www.drmaciver.com/2019/05/how-to-do-hard-things/). Doing hard things is mostly about having high expectations for yourself and getting used to being uncomfortable and the way to get started doing something difficult is to [dive in](https://mindingourway.com/dive-in-2/).
 
+When overwhelmed, ask "What's the smallest first step I can take?" Use that step to create the next few levels.
+
 ## The Single-Loop System
 
 Useful when you know what success looks like but cannot currently achieve it.
