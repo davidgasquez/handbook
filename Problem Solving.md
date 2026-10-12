@@ -8,6 +8,7 @@
   - [Someone else might have already solved your problem](https://brain.drmario.tech/pages/%E2%9C%8D%EF%B8%8F+Refusing+to+stand+on+the+shoulders+of+giants) or part of it!
 - [The best thing that can be done to a problem is not to solve it but to dissolve it](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/).
   - A problem well stated is a problem half solved.
+    - Define the problem in simple words out of your head. Write your thoughts down. Draw the problem. Talk out loud to a smart person.
   - Insight is best thought of as a change in problem representation. The way we frame problems makes them more or less difficult.
   - [All we do, all we ever do, is trade one set of problems for another](https://seths.blog/2021/07/progress-is-a-trade/).
 - Don't [[focus]] on a particular solution to a problem, instead, describe the problem itself. Always provide the full context of what you're trying to do when requesting help.
@@ -39,6 +40,7 @@
 - [There's a kind of thinking you do without trying to](http://www.paulgraham.com/top.html). This type of [[Thinking|thinking]] is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly. Try to get yourself into situations where the most urgent problems are ones you want to think about.
 - If a problem has no solution, it may not be a problem, but a fact - not to be solved, but to be coped with over time.
 - Sometimes you can find the solution easier if you think about how not to solve the problem ([Inversion Principle](https://www.mymentalmodels.info/mms-inversion/)).
+  - List how to make the outcome worse. Flip those actions around.
 - Keep the end goal in mind. [Don't Shave That Yak](https://seths.blog/2005/03/dont_shave_that/)!
 - [The Copenhagen Interpretation of Ethics](https://laneless.substack.com/p/the-copenhagen-interpretation-of-ethics) says that when you observe or interact with a problem in any way, you can be blamed for it. At the very least, you are to blame for not doing _more_.
 - Social problems demand social solutions. Not everything can be solved by technology. E.g: If you're skeptical about Wikipedia, you can easily create your own fork of Wikipedia and improve it. You'll have to deal with the social problems of convincing others to use your fork, etc.
