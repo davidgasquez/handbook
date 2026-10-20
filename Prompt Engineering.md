@@ -5,6 +5,11 @@
   - **Context**: Add only information or sources that could change the result, and explain what the model should take from each. Too much context can confuse the model.
   - **Output**: Name the audience, format, length, and intended use.
   - **Boundaries**: State what must stay unchanged, what to avoid, and what requires approval.
+- [Be more ambitious with models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/), not just faster.
+  - **Altitude**: Ask for the underlying outcome, not just the next task.
+  - **Depth**: Use expert methods, raw data, and independent validation—not merely expert-sounding language.
+  - **Range**: Bring in methods from other fields, not just simulated personas.
+- As models become more capable, the bottleneck shifts toward knowing what we want and knowing how to verify that we got it.
 - For difficult, verifiable work, [treat the prompt as both an acceptance test and a search policy](https://x.com/Qiaoqiao2001/status/2080003441821163958).
   - Define exactly what counts as done.
   - List plausible but insufficient results that do not count.
