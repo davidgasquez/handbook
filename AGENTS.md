@@ -8,7 +8,7 @@ These are my home grown interlinked set of atomic notes.
 - Start each file with a `# Title` heading that matches the filename
 - Write notes as concise bullet points and put sub-points in nested bullets when needed
 - Keep one home per idea
-  - Before adding antyhing, search on existing notes
+  - Before adding anything, search on existing notes
   - Extend or sharpen the existing note instead of duplicating text or creating a new note
 - Link densely with `[[Note]]` or `[[Note|alias]]`
 - Link sources inline on the claim text or verbatim quotes (`[claim](url)`)
