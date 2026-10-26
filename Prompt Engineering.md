@@ -26,6 +26,8 @@
 - English is becoming the hottest new [[Programming|programming]] language. [Use it](https://addyo.substack.com/p/the-70-problem-hard-truths-about).
   - [[Prompt Engineering|Prompts are code]]. Markdown and JSON files are state.
   - [Specs are core to programming with LLMs](https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html).
+- [Examples in the history beat instructions](https://arxiv.org/html/2605.20382v3). Repeated contradictory turns override explicit instructions in every model. After many corrections, start fresh with the corrected spec.
+- Repetition and ALL CAPS in a prompt usually mean you're [fighting the weights](https://www.dbreunig.com/2025/11/11/don-t-fight-the-weights.html). Change the setup instead of shouting.
 - Use comments to guide the model to do what you want.
 - Describe the problem very clearly and effectively.
 - Make the model ask you more questions to refine the [[Ideas|ideas]].

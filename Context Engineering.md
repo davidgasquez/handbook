@@ -2,12 +2,16 @@
 
 Context engineering is curating knowledge as a continuously maintained [[Data Engineering|data product]] that delivers the smallest useful set of relevant, trustworthy, and fresh information to an agent at the right time. The goal is to [encode expert judgement into the infrastructure to allows agents to produce correct analysis](https://x.com/sh_reya/status/2094279496497266948). Sharing context within the organization is a critical part of a company being successful with agents.
 
+- [Output is the product of context and weights](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html). You can go bigger (expensive), think harder (slow), or improve the context (cheap and fast).
+- The job is choosing where to be deterministic (code) and where to be probabilistic (the model). Context assembly keeps moving from model calls into the harness.
+- Every capability advance moves the problem. Long contexts let in more bad information. Long-horizon agents run longer than they should.
 - Everyone wants your context as their moat. Own context in a model-agnostic layer that outlives any agent, model, or vendor.
   - [Context includes prompts, instructions, retrieved documents, tool calls and results, history, memory, and output schemas—not just retrieved knowledge](https://github.com/humanlayer/12-factor-agents/blob/main/content/factor-03-own-your-context-window.md).
 - As [analysis becomes cheap, consensus becomes scarce](https://www.iandmacomber.com/blog/post-ai-data-stack). Encode expert judgment so equivalent, authorized questions produce the same definitions, evidence, and answers across models and interfaces.
 - Keep context headless and agent-readable. Expose definitions, owners, filters, code, values, lineage, and canonical sources through files and APIs rather than vendor-specific interfaces.
 - Context is finite and has diminishing returns. You need to model and clean it.
   - Experiment with representations that improve information density and understanding.
+  - Core tactics are augmentation, tool loadout, quarantine (subagents), pruning, offloading, and summarization. Prune what's irrelevant before summarizing.
 - Design against [three dominant failure modes: concept-to-entity ambiguity, stale knowledge, and retrieval failure](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude). Collapse competing definitions into governed sources, update context with the systems it describes, and route the agent into a small relevant search space.
 - Every company needs to build and maintain their [[Company Knowledge Management]] system as a source of grounding for their agentic tooling.
 - There is no single "company brain" like there is no single source of truth for metrics.
@@ -29,6 +33,8 @@ The work that needs to be done is to determine which information is authoritativ
 
 - Writing, rejecting PRs, and renaming terms on a [shared context layer](https://www.context.ai/blog/a-filesystem-for-context) is the way the organization "thinks" and compacts knowledge.
 - [Co-locate context artifacts with the source systems they describe](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude), require both to change in the same PR, and evaluate the affected behavior before merging. Turn user corrections into regression cases and small reviewed context updates.
+- Memory needs strategic forgetting. Agent-written memories and skills accumulate conflicting one-off fixes over time. Expire, merge, and deprecate them.
+- Scope memory by domain or project so unrelated contexts don't leak into each other.
 - Model decisions, assumptions, evidence, and dependent work as a [typed graph](https://x.com/arscontexta/status/2105397004226494487).
 - Package expertise with the means to apply it. Domain types and knowledge, skills, tools, and review interfaces. Keep project-specific evidence and decisions separate from reusable methods.
 - Make "Who knows?" a first-class operation

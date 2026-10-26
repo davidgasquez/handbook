@@ -16,7 +16,7 @@
 - [The use of LLMs and agents can be successful on tasks that are](https://x.com/nateberkopec/status/2058014104854626490); verifiable, brute forceable, automation-like, PoC friendly.
 - Context is king. Managing the context window effectively is crucial for getting good results.
   - Add websites as context with [jina.ai](https://jina.ai/) or [pure.md](https://pure.md/)
-  - Context is easy to mess up: [context poisoning, context distraction, context confusion, context clash](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html), ...
+  - Context is easy to mess up: [context poisoning, context distraction, context confusion, context clash](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html), and in agentic models, [context inertia and fighting the weights](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html).
   - [[Context Engineering]] is [the discipline of designing and building dynamic systems that provide the right information and tools, in the right format, at the right time, to give an LLM everything it needs to accomplish a task](https://www.philschmid.de/context-engineering).
 - LLMs amplify existing expertise rather than replacing it.
 - AI speeds up generation, not necessarily throughput. Bottleneck are often upstream: unclear scope, missing context, legal/product/domain ambiguity.

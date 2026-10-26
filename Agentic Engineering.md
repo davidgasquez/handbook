@@ -51,6 +51,7 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
 - Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
   - [Your job is to design environments where iteration converges toward correctness instead of drifting toward plausible nonsense](https://nonstructured.com/zen-of-ai-coding/).
 - [If you need to gather context, do that first in its own session](https://mariozechner.at/posts/2025-11-30-pi-coding-agent). Create an artifact that you can later use in a fresh session to give your agent all the context it needs without polluting its context window with tool outputs.
+  - Watch for [context inertia](https://www.dbreunig.com/2026/10/14/context-inertia.html). Long-running agents fixate on one hypothesis or subtask and keep pursuing it. Periodically reset the conversation while keeping the environment and a short handoff note.
   - [LLMs have bounded cognition too](https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition). A context window is a hard limit on how much it can take into account at any one time. Design sessions so the model doesn't lose the thread.
 - In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
 - [Domain expertise is an important prompting skill](https://www.seangoedecke.com/llms-reward-expertise/). It helps you spot suspicious output, ask codebase-specific questions, suggest better approaches, and push the agent toward simpler solutions.
@@ -69,6 +70,7 @@ An agent runs tools in a loop to achieve a [[Goals|goal]]. Agents are [[Systems|
 - Using AI as a team is very different than using AI for you.
 - Model behaviour is not deterministic, intuition for one model doesn't transfer to other models, even within the same family or reasoning level, intuitions for one coding harness does not transfer to other harnesses, and so on.
 - [Software is still hard](https://x.com/badlogicgames/status/2017008550111773098). It gets harder if you trick yourself into thinking the agents can take on the hard parts.
+- [Don't fight the weights](https://www.dbreunig.com/2025/11/11/don-t-fight-the-weights.html). Models are tuned to the tools in their training harness. Prefer tool shapes they already expect.
 - Tools come in three flavors: context retrieval (finding information), feedback loops (verifying actions), and planning (structuring work over longer horizons).
 - [Write skills for your product](https://x.com/karpathy/status/2026360908398862478) so agents know how to use it properly. Distribute them.
 - [Good skills optimize predictability](https://web.archive.org/web/20260620224727/https://raw.githubusercontent.com/mattpocock/skills/refs/heads/main/skills/productivity/writing-great-skills/SKILL.md).
