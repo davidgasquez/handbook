@@ -52,6 +52,35 @@ There are some basic principles and [[values]] that will make maintaining and ev
   - [If Slack had access to your entire knowledge base, it could answer at least the most commonly asked questions automatically.](https://julian.digital/2020/11/20/chief-notion-officer/)
   - Ask questions in public channels! If someone sends you a handbook link, that means you have the answer documented - they don't mean that you should have found that yourself or that this is the complete answer. If the answer to a question isn't documented, make a pull request to add it to the handbook in a place you have looked for it.
 
+## Agents
+
+- Sharing [[Context Engineering|context]] within the organization is a critical part of a company being successful with agents.
+- Every company needs to build and maintain their knowledge management system as a source of grounding for their agentic tooling.
+- As [analysis becomes cheap, consensus becomes scarce](https://www.iandmacomber.com/blog/post-ai-data-stack). Encode expert judgment so equivalent, authorized questions produce the same definitions, evidence, and answers across models and interfaces.
+- There is no single "company brain" like there is no single source of truth for metrics.
+- You can't simply index data from different sources and expose it all raw.
+  - Copying every table into a lake never solved analytics. Indexing every document will not solve context.
+- A company-owned layer should encode metric definitions, grain, exceptions, historical changes, and trusted evidence paths.
+
+### Company Context Repository
+
+- A system that tells the model how a company works, what happened before, which constraints matter, what a particular customer means, how terminology is used internally, which decisions have already been made, and what the organization currently believes to be true. Some of that is durable institutional knowledge, while some of it is live state, retrieved facts, permissions, relationships, and task-specific material.
+- The work that needs to be done is to determine which information is authoritative, what happens when sources disagree, where claims came from, and which downstream context should change when a decision changes. [The company also needs to decide what agents can write back, who reviews those changes, when old information expires, which agents can see which material, and what context actually contributed to a particular result](https://x.com/JoshARosen/status/2087152534964089238).
+- Writing, rejecting PRs, and renaming terms on a [shared context layer](https://www.context.ai/blog/a-filesystem-for-context) is the way the organization "thinks" and compacts knowledge.
+- [Co-locate context artifacts with the source systems they describe](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude), require both to change in the same PR, and evaluate the affected behavior before merging. Turn user corrections into regression cases and small reviewed context updates.
+- Make "Who knows?" a first-class operation
+- Treat the brain as a [data product](https://x.com/hnshah/status/2082944736428695776)
+  - Bring external sources into a controlled data plane where they can be validated, normalized, permissioned, cached, and observed.
+  - Retrieval failures should feed the [pipeline](https://read.technically.dev/p/everything-is-a-pipeline)
+  - Repeated questions, corrections, rejected answers, and missing evidence should change models and artifacts
+  - Humans review and approve changes to core artifacts
+  - Compound by creating a shared layer of context
+- [Shit in, shit out](https://news.ycombinator.com/item?id=49447493). You can't just flatten all the documents into plain text and then create embeddings. Most of the documents of any organizations are outdated or duplicated.
+- Different tasks need different projections over shared company knowledge.
+- Businesses already have plenty of context, just not coherent context. [Curate context the same way you curate data](https://x.com/sethrosen/status/2090053608838484010).
+- [Knowledge work needs all different types of output](https://x.com/sethrosen/status/2088254987142934907) (docs, trainings, sheets, landing pages), and these all have to stay coherent with each other as the business moves or they are useless.
+- [Bring curated data to the model](https://x.com/JoshARosen/status/2086863671657980138). The more tools you give an agent to reach directly into the outside world, the harder it becomes to know what entered its context, where it came from, whether it changed, or whether it was compromised.
+
 ## Sharing Updates
 
 Whenever you need to thoroughly brief a group of people on an important matter, consider using a [5-paragraph format](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/):

@@ -1,12 +1,15 @@
 # Programming
 
-A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) [of](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) [concepts](http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions). Try to keep in mind the following principles:
+A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book) [of](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) [concepts](http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions). Try to keep in mind the following principles.
 
 - **Small is beautiful**.
   - Small things have tremendous advantages over their larger counterparts. Among these is the ability to combine with other small things in unique and useful ways.
   - The more you can decompose, the more innovation you'll drive.
   - The best code is no code, or code you don't have to maintain.
-- **Design for simplicity**.
+- **Design for simplicity**. 
+  - Add complexity only where you must.
+  - Clarity is better than cleverness.
+  - Design for visibility to make inspection and debugging easier.
   - Do the [simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/). Start with the absolute minimum viable implementation and only add complexity when new requirements absolutely demand it (e.g: Unix tools remain incredibly powerful and efficient for "Big Data").
   - Good system design looks "boring". Impressive complexity often signals over-design. Start simple and evolve.
   - Benefits of simplicity: ease of understanding, ease of change (improvement), ease of debugging, flexibility. [The goal of software design is to create chunks or slices that fit into a human mind](https://mobile.twitter.com/KentBeck/status/1354418068869398538). The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes.
@@ -34,7 +37,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - [Good taste is writing code that looks so simple, everyone else says "anyone could have written that!"](https://news.ycombinator.com/item?id=45411143)
 - **Do one thing and do it well**.
   - By focusing on a single task, a program or function can eliminate much extraneous code that often results in excess overhead, unnecessary complexity, and a lack of flexibility. [Good software makes hard things easy](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d).
-  - Design composable primitives. Name things simply and clearly.
+  - Design composable primitives: simple parts connected by clean interfaces ([[Modularity]]). Name things simply and clearly.
     - Keep software malleable by untangling monolithic code into loosely coupled [[Modularity|modules]] that you can assemble in different configurations for different applications.
     - [Expose phases in the execution path that can either observe or change state](https://x.com/badlogicgames/status/2051400918852063645).
   - Use [[Conceptual Compression]]. [Collapse complexity into the smallest yet most powerful abstraction that enables the outcome](https://www.amplifypartners.com/blog-posts/the-primitive-is-the-product).
@@ -42,6 +45,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
     - Opinionated enough to be productive, extensible enough for others to compose new workflows.
   - In agent-first products, features can become a liability by expanding the decision space, edge cases, ambiguity, and failure modes. Ask "What capability should others build upon?" before "What feature should we build next?"
   - Keep [one level of abstraction per method](https://ptgmedia.pearsoncmg.com/images/9780134769042/samplepages/013476904X.pdf).
+  - Separate policy from mechanism. Separate interfaces from engines.
 - [**Make it work, make it right, make it fast**](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast).
   - Build a prototype as soon as possible to get a sense of the entire process.
   - Once you have a working prototype, apply guidelines and previous learnings. Then, focus on performance.
@@ -63,13 +67,17 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Immutable versions make systems easier to debug, audit, rollback, and understand.
   - Flat files help ensure that data is usable for the longest possible time.
   - For complex data structures where plain text really isn't appropriate, use a structured text format instead. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. [Data structures, not algorithms, are central to programming](https://users.ece.utexas.edu/~adnan/pike.html).
+  - Fold knowledge into data so program logic can be stupid and robust.
 - **A programmer who can't reuse other programs is condemned to rewrite them**.
   - Use software leverage to your advantage.
   - Many programmers have only a superficial understanding of the importance of reusable code modules.
   - [Code isn't just meant to be executed. Code is also a means of communication across a team, a way to describe to others the solution to a problem](https://medium.com/s/story/notes-to-myself-on-software-engineering-c890f16f4e4d). Good [[Writing|writing]] skills often correlate with good thinking and programming skills. [Sharing knowledge through writing (blogs, talks, documentation, open source) clarifies your thinking and helps others](https://endler.dev/2025/best-programmers/).
 - **Silence is golden**.
-  - A silent command is often more usable, providing the function asked for and nothing more.
+  - A silent command is often more usable, providing the function asked for and nothing more. When a program has nothing surprising to say, it should say nothing.
+  - [Reduce noise](https://blog.codemine.be/posts/2026/20260222-be-quiet/) in [[Feedback Loops|feedback loops]]. Quiet success output, loud failure output. When you must fail, fail noisily and as soon as possible.
+    - Prefer errors-only logs. Use tool-specific flags to disable update banners, spinners, and ANSI color noise.
   - That doesn't mean no logs. Make observability a functional requirement.
+  - [CLIs should have a useful `--help` command](https://shot-scraper.datasette.io/en/stable/video.html#shot-scraper-video-help)
 - **Think parallel**.
   - Most tasks are composed of subtasks which may be attacked in parallel. This also applies to user interactions.
   - Parallelism can save a great deal of time and frustration.
@@ -97,7 +105,7 @@ A programmer should know [lots](http://programmer.97things.oreilly.com/wiki/inde
   - Move facts out of memory. Give things precise names, draw boundaries, write tests, and make changes undoable.
   - [The primary feature for easy maintenance is locality](https://bsky.app/profile/gordon.bsky.social/post/3mrmljoxfg22r). If code has high locality, you can easily see the blast radius of an edit.
 - **There is no silver bullet**.
-  - Accept that many programming decisions are opinions.
+  - Accept that many programming decisions are opinions. Distrust all claims for "one true way". We are all figuring this out and "this" is changing every day.
   - Make the trade-offs explicit when making judgments and decisions. With almost every decision you make, you're either deliberately or accidentally trading off one thing for another thing.
   - Discuss [trade-offs](https://twitter.com/kelseyhightower/status/774076482637312001), which you prefer, and reach a resolution.
   - [Every system eventually sucks](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/). Assume everything has bugs.
