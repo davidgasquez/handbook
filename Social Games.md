@@ -10,7 +10,7 @@
   - [Calibration Questions](https://web.archive.org/web/20230828073617/https://today.yougov.com/topics/politics/articles-reports/2022/03/15/americans-misestimate-small-subgroups-population).
 - [Black Stories](https://detective-stories.com/).
 - [Stopots](https://stopots.com/es/). Choose a letter, think about things starting with it.
-- [Two Rooms and a Boom](https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom). [Print and Play version](https://drive.google.com/drive/folders/1_jbxtyH0V0xACK_crdIbf-QMFv0aw7pr). [Online Version](https://www.playkaboom.com/) ([alternative](http://tworooms.centralus.cloudapp.azure.com/)).
+- [Two Rooms and a Boom](https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom). [Print and Play version](https://drive.google.com/drive/folders/1_jbxtyH0V0xACK_crdIbf-QMFv0aw7pr). [Online Version](https://www.playkaboom.com/) ([archived alternative](https://web.archive.org/web/20260610034836/http://tworooms.centralus.cloudapp.azure.com/)).
 - [Cockroach Poker](https://boardgamegeek.com/boardgame/11971/cockroach-poker). [Can be played with two standard decks](https://www.reddit.com/r/boardgames/comments/ah8t5r/has_anyone_tried_cockroach_poker_with_a_regular/).
 - [Secret Hitler](https://www.secrethitler.com/assets/Secret_Hitler_Print_and_Play.pdf).
 - [Mafia](https://youtu.be/EDCwQe7P8T0).
@@ -24,7 +24,7 @@
 - [Nomic](https://en.wikipedia.org/wiki/Nomic).
 - [Rank Me If You Can](https://app.rankmeifyoucan.com/).
 - Top Ten. One person gets a prompt ("a very hot pan") and the rest has to act in accordance with the numbers they got. The first person has to rank them all.
-- [Sounds Fishy](https://sounds-fishy.en.softonic.com/android) ([instructions](https://www.scribd.com/document/742741539/Sounds-Fishy-PNP)). One player acts as the question master while another provides the correct answer, with the rest crafting clever bluffs.
+- [Sounds Fishy](https://play.google.com/store/apps/details?id=com.bigpotato.soundsfishy) ([instructions](https://www.scribd.com/document/742741539/Sounds-Fishy-PNP)). One player acts as the question master while another provides the correct answer, with the rest crafting clever bluffs.
 - [Don't Get Got](https://bigpotato.com/products/dont-get-got). Carry-out weird missions without giving yourself away.
 - [Phantom Ink](https://resonym.com/game/phantom-ink/). Great word/deduction game in which you are trying to communicate with teammates in a way that does not give information to the other team, even though they hear your communications too.
 - Randomz. Every person gets a random number (e.g from 0 to 100) and they have to say the numbers in order.

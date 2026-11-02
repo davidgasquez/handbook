@@ -21,4 +21,4 @@
 
 ## Resources
 
-- [The NoSurf Activities List](https://nosurf.net/activity-list/)
+- [The NoSurf Activities List](https://web.archive.org/web/20260606195439/https://nosurf.net/activity-list/)

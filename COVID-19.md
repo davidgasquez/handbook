@@ -13,4 +13,4 @@ Most data around this crisis was incomplete, constantly evolving, and [[Politics
   - There are lots of [[Social Games]] out there!
   - [Activity List](https://www.reddit.com/r/nosurf/wiki/activities).
   - [40 meaningful things to do when stuck at home in a pandemic](https://www.clearerthinking.org/post/2020/03/19/40-meaningful-things-to-do-when-stuck-at-home-in-a-pandemic).
-- [How to have a happy quarantine](https://www.lesswrong.com/posts/eeZQunErdm6oWyhTy/how-to-have-a-happy-quarantine).
+- [How to have a happy quarantine](https://www.greaterwrong.com/posts/eeZQunErdm6oWyhTy/how-to-have-a-happy-quarantine).

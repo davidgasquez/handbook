@@ -43,7 +43,7 @@ Personal knowledge bases allow compound [[Learning|learning]] and make it easier
 - [Tom Critchlow](https://tomcritchlow.com/wiki/)
 - [Mario López](https://brain.drmario.tech/)
 - [Alex Turner](https://turntrout.com/)
-- [Aditya Chandel](https://tonystark-19.github.io/Dev-Diary/)
+- [Aditya Chandel](https://devlogs-henna.vercel.app/)
 - [Faint Signal](https://faintsignal.org/)
 
 ## Compilations

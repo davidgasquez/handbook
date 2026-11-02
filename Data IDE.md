@@ -9,13 +9,13 @@ After playing with [Rill Developer](https://github.com/rilldata/rill-developer),
   - Get suggested transformations for certain columns. If it detects a date, extract day of the week. If it detects a string, `lower()` it...
   - Get suggested plots. Given that it'll know both the column names and the types. Should be possible to create a prompt that returns some plot [[Ideas|ideas]] and another that takes that and writes the Vega-Lite code to make it work.
   - Make it easy to query the data via natural language.
-- Let me transform them with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)). Similar to [Neptyne](http://web.archive.org/web/20250306181451/https://www.neptyne.com/) but in the browser (WASM).
+- Let me transform them with SQL ([DuckDB](https://duckdb.org/)) and Python ([JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)). Similar to [Neptyne](https://web.archive.org/web/20250306181451/https://www.neptyne.com/) but in the browser (WASM).
 - Let me save the plots in a separate space and give me a shareable URL-encoded link.
   - Local datasets could be shared using something like [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) or a temporary storage service.
 - Let me grab the state of the app (YAML/JSON), version control it, and generate static (to publish in GitHub Pages) and dynamic (hosted somewhere) [[Dashboards|dashboards]] from it.
   - Similar to [evidence.dev](https://evidence.dev/) or [portal.js](https://portaljs.org/).
 - It could also have "smart" data checks. Similar to [deepchecks](https://github.com/deepchecks/deepchecks) alerting about anomalies, outliers, noisy variables, ...
-- Given a large amount of [[Open Data]]. It could offer a way for people to upload their datasets [and get them augmented](http://web.archive.org/web/20250108164736/https://subsets.io/).
+- Given a large amount of [[Open Data]]. It could offer a way for people to upload their datasets [and get them augmented](https://web.archive.org/web/20251212035733/https://subsets.io/).
   - E.g: Upload a CSV with year and country and the tool could suggest GDP per capita or population.
 
 Could be an awesome front end to explore Open Data.
@@ -24,7 +24,7 @@ Could be an awesome front end to explore Open Data.
 
 - [Rath](https://rath.kanaries.net/)
 - [Hex.tech](https://hex.tech/)
-- [Perspective](https://perspective.finos.org/)
+- [Perspective](https://perspective-dev.github.io/)
 - [Rill Developer](https://github.com/rilldata/rill-developer)
 - [Datastation](https://datastation.multiprocess.io/)
 - [Excalichart](http://web.archive.org/web/20231018190556/https://www.excalichart.com/)

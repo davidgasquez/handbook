@@ -21,7 +21,7 @@
 - Write in a conversational tone. Think about readers when writing.
 - [A strong title is a pointer to a specific idea](https://taylor.town/how-to-title) and becomes a reusable handle in [[Communication]] and [[Ideas]].
 - [Finding a piece's "true name" often reveals its core narrative](https://taylor.town/how-to-title). If the title is fuzzy, cut back to the main thread and sharpen [[Focus]].
-- [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. Split a piece only where each part can stand on its own; otherwise, publish it at its natural length. Use the [Minto Pyramid](https://scqa.lifeitself.org/) or another standard structure like this one:
+- [Divide things into small chunks and if you have multiple points in a text, number them to make replies easier](https://slatestarcodex.com/2016/02/20/writing-advice/). List the points you want to make in a logical order. This allows you to remove the clutter and avoid confusion. Split a piece only where each part can stand on its own; otherwise, publish it at its natural length. Use the [Minto Pyramid](https://issuetrees.com/Pyramid) or another standard structure like this one:
   - Decide what you're actually saying. [Define a clear thesis](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html). State the main point before you give the reasoning that leads to it.
     - What is your main point? Who are you writing for?
   - Support your thesis with arguments. Repeat yourself (within reason). Look for ways that you can restate your point, clarify, or provide closure for the reader.

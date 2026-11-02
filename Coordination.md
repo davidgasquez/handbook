@@ -46,7 +46,7 @@
   - Graduated sanctions for those who violate community rules.
   - Cheap, accessible means of conflict resolution.
   - Self-determination.
-- There are many [coordination mechanisms](https://coordinationmechanisms.gitcoin.co/). Choose the appropriate one for your situation.
+- There are many [coordination mechanisms](https://web.archive.org/web/20260512190429/https://coordinationmechanisms.gitcoin.co/). Choose the appropriate one for your situation.
 - [There is no such thing as a structureless group](https://www.jofreeman.com/joreen/tyranny.htm).
   - We are individuals, with different talents, predispositions, and backgrounds.
   - The idea of "structurelessness" does not prevent the formation of informal structures, it becomes a way of masking power.
