@@ -32,7 +32,9 @@
   - Are an expression of care and presence for someone else.
   - Are a valuable experience on its own.
   - Are deceptive to fake.
+- [Form your own hypothesis before asking AI, then identify something the answer did not check](https://x.com/addyosmani/status/2117512471930167377). Treat the answer as a hypothesis to test, not a conclusion to adopt.
 - When AI is "right", people become less skilled. When AI is "wrong", you need skilled people to catch and fix the errors.
+  - Keep practicing the skills you are not willing to lose. Decide deliberately which skills you can stop using.
 - Technical capability does not erase ethical obligations around [consent, privacy, and hidden human labor](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/), [licensing and creators' rights](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/), professional responsibility, and the consequences of failure.
 - [When the main purpose of writing is to demonstrate your thinking (building trust, applying for a job), don't use LLM output](https://x.com/HamelHusain/status/1976720326106173673). Use LLMs when you need to communicate info, or do admin stuff, where the person really just wants info and doesn't need to be convinced "how you think". LLMs are good at writing but bad at thinking.
   - Personal communication and writing as trust and self-expression. Rewriting with LLMs changes meaning, blurs authorship, erodes voice.

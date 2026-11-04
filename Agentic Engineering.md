@@ -1,7 +1,7 @@
 # Agentic Engineering
 
-- An agent runs tools in a loop to achieve a [[Goals|goal]]. 
-- Agents are [[Systems|systems]] where [[Artificial Intelligence Models|LLMs]] dynamically direct their own [[Processes|processes]] and tool usage, maintaining control over how they accomplish tasks. 
+- An agent runs tools in a loop to achieve a [[Goals|goal]].
+- Agents are [[Systems|systems]] where [[Artificial Intelligence Models|LLMs]] dynamically direct their own [[Processes|processes]] and tool usage, maintaining control over how they accomplish tasks.
 - Agents help decouple [[Programming|programming]], the craft of physically typing code, from engineering, the architecture of your system, the goals, the "why" of what you're building.
 
 ## Workflow
@@ -26,6 +26,8 @@
 - [Teach and tell the agents to use the same tool you'd use](https://www.anthropic.com/engineering/claude-code-best-practices) to run and debug code.
 - [You need quick and clear feedback loops](https://lucumr.pocoo.org/2025/6/12/agentic-coding/) (fast tool responses, clean logs, ...).
   - Give them the ability to interactively test the code they are writing too.
+  - Ask what passing checks prove and what they miss
+  - A test can repeat the same mistake as the implementation
 - Use deterministic tools whenever you can. Linters, type checkers, auto-formatters, commit hooks, ...
 - Use [[Programming|quiet-success, loud-failure conventions]] for tool feedback.
 - Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
