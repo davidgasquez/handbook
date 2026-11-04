@@ -56,6 +56,7 @@ Some ~spells~ styles to try when designing dashboards, UIs, or anything else.
 - [Learn Responsive Design](https://web.dev/learn/design/)
 - [Learn Performance](https://web.dev/learn/performance/)
 - [Every Layout](https://every-layout.dev/)
+- [Interface Design](https://github.com/Dammyjay93/interface-design)
 - [Inclusive Components](https://inclusive-components.design/)
 - [Impeccable Design Skills](https://github.com/pbakaus/impeccable).
 - [Anthropic Frontend Design](https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/frontend-design/SKILL.md)
