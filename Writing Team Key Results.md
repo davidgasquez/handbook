@@ -1,6 +1,6 @@
 # Writing Team Key Results
 
-[One of the keys to effective team key results is making sure the whole team contributes to, and feels invested in, the process](https://clrcrl.com/2021/04/07/setting-team-krs.html) — it shouldn't just be the team lead setting them for the team, or one team member setting them on behalf of everyone else. While we want every team member to contribute, it's likely that not every team member is going to contribute in the exact same way — for example, a newer team member might not have enough context to generate KR ideas, but might have previous experience seeing KRs so can easily give feedback on a peer's ideas.
+[One of the keys to effective team key results is making sure the whole team contributes to, and feels invested in, the process](https://web.archive.org/web/20260412123305/https://clrcrl.com/2021/04/07/setting-team-krs.html) — it shouldn't just be the team lead setting them for the team, or one team member setting them on behalf of everyone else. While we want every team member to contribute, it's likely that not every team member is going to contribute in the exact same way — for example, a newer team member might not have enough context to generate KR ideas, but might have previous experience seeing KRs so can easily give feedback on a peer's ideas.
 
 Management techniques like OKRs and similar [have many issues](https://news.ycombinator.com/item?id=39271083) and all [[Organizations]] need to deal with them in a customized way.
 

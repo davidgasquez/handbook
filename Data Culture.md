@@ -28,7 +28,7 @@
   - Warning. Overreacting to random noise week-to-week wastes energy.
   - Don't report numbers without generating decisions, next steps, or deeper investigations.
   - Leaders prune, refine, or add new input metrics.
-- [While the output of your team is what you want to maximize, you'll need some indicators that will help guide you day-to-day](http://web.archive.org/web/20240303143022/https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/). Decide what's important to you (test coverage, [[Documentation|documentation]] missing, queries run, models created, ...), and generate some internal reports for yourself.
+- [While the output of your team is what you want to maximize, you'll need some indicators that will help guide you day-to-day](https://web.archive.org/web/20240303143022/https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/). Decide what's important to you (test coverage, [[Documentation|documentation]] missing, queries run, models created, ...), and generate some internal reports for yourself.
 - [Data teams should be a part of the business conversations from the beginning](https://cultivating-algos.stitchfix.com/). Get the data team involved early, have open discussions with them about the existing work, and how to prioritize new work against the existing backlog. Don't accept new work without addressing the existing bottlenecks, and don't accept new work without requirements. **Organizational [[politics]] matter way more than any data methods or technical knowledge**. The hard bit about becoming data driven in business isn't the technical bits. It's the political bits.
   - Talking about data is often [[Signaling|signalling]]. Compare ["data-driven" language with revealed behavior](https://ludic.mataroa.blog/blog/most-data-work-seems-fundamentally-worthless/). Budgets, workflow changes, willingness to fix foundations, and whether anyone acts on the output.
   - Including data people in meetings causes happy accidents!
@@ -127,7 +127,7 @@
     1. Get a well-placed leader with influence to message, model, and demand data-driven execution.
     2. Hire/fire based on data aptitude and usage.
     3. Create mechanisms that force analytical conversations. Sometimes there is no way around spending an afternoon breaking down metrics by different segments until you find The Thing.
-- [Start small. Don't try to wrangle data for the entire company until you have the tools and process down for one team](http://web.archive.org/web/20240303143022/https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/).
+- [Start small. Don't try to wrangle data for the entire company until you have the tools and process down for one team](https://web.archive.org/web/20240303143022/https://data-columns.hightouch.io/your-first-60-days-as-a-first-data-hire-weeks-3-4/).
   - Difficulty to work with data scales exponentially with size.
   - [Rule of thumb; your first customer as a data person should be growth](https://twitter.com/josh_wills/status/1577699871335010304).
 - [Data is used largely to answer these questions](https://roundup.getdbt.com/p/bring-back-scenario-analysis):
@@ -169,6 +169,6 @@
 Sometimes, [tools help create cultural change](https://commoncog.com/becoming-data-driven-first-principles/#the-trick). These might help your organization think better with data.
 
 - [Process Behavior Charts](https://demingalliance.org/resources/articles/process-behaviour-charts-an-introduction) and [Process Control](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html).
-- [Time Lagged Conversions](http://web.archive.org/web/20240914135511/https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/).
+- [Time Lagged Conversions](https://web.archive.org/web/20240914135511/https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/).
 - Change point detection.
 - Interactive embeddings and dimensionality reduction visualizations to explore a large corpus of elements quickly and intuitively.

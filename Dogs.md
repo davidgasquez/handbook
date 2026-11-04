@@ -1,6 +1,6 @@
 # Dogs
 
-- Learn to read [dog body language](https://www.flickr.com/photos/lilita/5652847156) ([calming signals](https://youtu.be/MgnLgHFRJu4)).
+- Learn to read [dog body language](https://www.flickr.com/photos/lilita/5652847156) ([calming signals](https://en.turid-rugaas.no/calming-signals---the-art-of-survival.html)).
 - Training is creating a common language between you and your dog.
 - Play is the easiest way to bond with your dog. Don't leave out all their toys. They lose potency over time. You can build toy drive by playing with your dog in short bursts.
 - Play a lot with their legs and paws to get them used to a human touching them. Practice handling exercises across the day to get them used to humans.

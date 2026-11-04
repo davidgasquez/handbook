@@ -66,7 +66,7 @@ Many public goods funding mechanisms are not immune to Sybil attacks, [so verify
 - Vouch-Based Scoring
   - Each vouch is a simple binary endorsement from your perspective—you either vouch for someone or you don't. No complicated trust levels.
   - Each community can define what "vouching" means to them.
-  - [Apply algorithms on top of the decentralized vouch graph](https://maxflow.one/how-it-works) to identify trustworthy participants. Tweak the parameters for your use case.
+  - [Apply algorithms on top of the decentralized vouch graph](https://web.archive.org/web/20260208111748/https://maxflow.one/how-it-works) to identify trustworthy participants. Tweak the parameters for your use case.
   - Communities can reuse and share the vouch graph and even combine it with other data sources (e.g., contribution history, social media presence) to create more robust customized reputation systems.
 - [Portable track records are more useful than a single global score](https://gui.do/post/ai-slop-reputation/). A context-free number like "reputation score: 742" tells you nothing; what should travel is "what you did, where, when, and how the community received it", with each community deciding how to interpret it.
   - You can generate a thousand plausible forum posts. You can't fake two years of helpful contributions that other real people actually engaged with across independent communities.

@@ -87,7 +87,7 @@ After participating in the ML competition and Prediction Market, and doing a few
 - If there are reviewers/validators/jurors, they need to be public so they have some sort of reputation
   - Reputation system for Jurors
     - E.g: whose score is closer to the final one. This biases towards averages
-    - Use graph algorithms ([MaxFlow](https://maxflow.one/how-it-works)) to weight jurors. This trust layer makes all human inputs (juror ratings, edge proposals, curation) Sybil-resistant and accountable. People don't get "one vote per account": they get influence proportional to how much the network trusts them, based on who publicly vouches for whom. Vouches are binary and simple, but they're recursively weighted by the voucher's own trust and penalized if someone vouches for too many others, which makes spam and fake networks costly.
+    - Use graph algorithms ([MaxFlow](https://web.archive.org/web/20260208111748/https://maxflow.one/how-it-works)) to weight jurors. This trust layer makes all human inputs (juror ratings, edge proposals, curation) Sybil-resistant and accountable. People don't get "one vote per account": they get influence proportional to how much the network trusts them, based on who publicly vouches for whom. Vouches are binary and simple, but they're recursively weighted by the voucher's own trust and penalized if someone vouches for too many others, which makes spam and fake networks costly.
   - Account for jurors' biases with Hierarchical Bradley Terry or similar
   - Allow anyone to be a juror, select jurors based on their skills
 - Stake-based flow:

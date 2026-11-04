@@ -51,7 +51,7 @@
 - [Catalyst Cooperative PUDL](https://github.com/catalyst-cooperative/pudl)
 - [Ecosyste.ms](https://github.com/ecosyste-ms)
 - [Spellbook](https://github.com/duneanalytics/spellbook/)
-- [Flipside Crypto](https://docs.flipsidecrypto.xyz/blockchain-data/external/overview)
+- [Flipside Crypto](https://github.com/FlipsideCrypto)
 - [Artemis](http://web.archive.org/web/20250717073700/https://github.com/Artemis-xyz/dbt)
 - [MetricsDAO](https://github.com/MetricsDAO)
 - [RA Analytics](https://github.com/rittmananalytics/ra_data_warehouse)

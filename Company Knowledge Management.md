@@ -42,7 +42,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
   - E.g: Each team having a homepage [README](https://tom.preston-werner.com/2010/08/23/readme-driven-development) with links to their [[Slack]], ticket system, and processes.
   - Since the protocol is shared between apps, you can build different views on top of the knowledge and tasks via APIs.
 - Add as much information to your tickets/issues as possible. If the tickets/issues are any good, you'll find relevant tickets with links and extra information. That makes it easy to tell what is current vs. what is 3 years old. The approach is something like Kafka (a log of everything that happened) versus a database with the current state of the world.
-- [Every document you write can fall into one of two categories](https://clrcrl.com/2021/11/30/fighting-the-entropy-of-knowledge.html):
+- [Every document you write can fall into one of two categories](https://web.archive.org/web/20250519021618/https://clrcrl.com/2021/11/30/fighting-the-entropy-of-knowledge.html):
   - Type 1: A point-in-[[Time|time]] document, that should lose relevance at some point. e.g. meeting notes, feature specs that get completed, [[feedback]] that gets addressed
   - Type 2: A source of truth document, that should be maintained over time, e.g. "How work gets done at". May also be referred to as "evergreen" content.
 - Keep some basic structure, but provide a good search.
