@@ -20,8 +20,10 @@
     - [Successful things optimize competency on a narrow set of strategies, often a unique and unusual combination](https://stephango.com/moats).
     - Strategy should identify the specific vectors and trade-offs that create an edge, rather than describe a generic aspiration.
   - There are two core processes that take place within any company: [[Making Decisions|making decisions]] and doing work.
+- [Organizational knowledge spans procedures and habits, past decisions and outcomes, operational data, informal decision networks, and people's judgment about what good looks like](https://youtu.be/5SRjPT2Eo7A?t=225).
 - Align [[incentives]]. Make the right thing to do the easiest thing to do.
 - The layout of the organization impacts how many hops the information has to make.
+  - The formal org chart can differ from the real network that determines who decides and how change happens.
   - With each hop, the information loses some signal and increases the noise it carries.
   - Someone should be the information hub (librarian). It helps connect the dots that wouldn't otherwise get connected.
 - Standardized tasks and processes are the foundation for continuous improvement and employee empowerment. Beware of over-standardizing or over-processing (like optimization, you have to choose the right things to standardize, and the right things to leave untouched).
