@@ -86,4 +86,6 @@ Ask yourself when creating a visualization:
 - [Visualization Curriculum](https://jjallaire.github.io/visualization-curriculum/)
 - [Guides for Visualizing Reality](https://flowingdata.com/2020/06/01/guides-for-visualizing-reality/)
 - [Datawrapper's Do's and Don'ts](https://www.datawrapper.de/blog/category/datavis-dos-and-donts)
+- [Data to Viz caveats](https://www.data-to-viz.com/caveats.html): illustrated chart pitfalls and fixes ([website source](https://github.com/holtzy/data_to_viz))
+  - [Flashcard source](https://github.com/holtzy/dataviz-caveat-flashcards) available as [Markdown](https://github.com/holtzy/dataviz-caveat-flashcards/blob/main/caveats.md) and [JSON](https://raw.githubusercontent.com/holtzy/dataviz-caveat-flashcards/main/caveats.json)
 - [The Science of Visual Data Communication: What Works](https://journals.sagepub.com/doi/10.1177/15291006211051956)
