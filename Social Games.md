@@ -40,7 +40,7 @@
 - Celebrity cup. Add people to a cup and grab 2. You need to defend why that couple will work.
 - [[Thinking|Deduction]] Games like "Who Has the Hat".
 - Handmade [Chronology](https://boardgamegeek.com/boardgame/834/chronology). Write up events as a group, [then sort them out](https://boardgamegeek.com/video/47758/chronology/chronology-overview).
-- [Many other activities can be played as games](https://www.whataaabout.com/)!
+- [Fermi guesses](https://fermi.gg/)
 - Fun Skill Based Minigames
   - [Dialed Sound](https://dialed.gg/sound)
   - [Eyeball](https://eyeball.rory.codes/)
