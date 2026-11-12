@@ -91,5 +91,11 @@
 - [Quadratic Voting](http://ericposner.com/quadratic-voting/) and [Quadratic Funding](https://wtfisqf.com/).
 - [Georgism](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty).
 - [Prediction Markets](https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the) as a tool for accountability. [FAQ](https://astralcodexten.substack.com/p/prediction-market-faq).
+
+### Projects
+
 - [Pol.is](https://pol.is/home) and [Discourse Graphs](https://discoursegraphs.com/) for better asynchronous discussions.
 - [Community Notes](https://communitynotes.x.com/guide/en/about/introduction)
+- [Mantic](https://mantic.com/)
+- [Talk To The City](https://talktothe.city/)
+- [Harmonica](https://harmonica.chat/)
