@@ -6,6 +6,7 @@
 - [Output is the product of context and weights](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html). You can go bigger (expensive), think harder (slow), or improve the context (cheap and fast).
 - The job is choosing where to be deterministic (code) and where to be probabilistic (the model). Context assembly keeps moving from model calls into the [[Agentic Engineering|harness]].
 - Every capability advance moves the problem. Long contexts let in more bad information. Long-horizon agents run longer than they should.
+- Context is one of the few inputs that you can tune to get the results you want.
 
 ## Selecting and Loading Context
 
@@ -38,3 +39,4 @@
 - Scope memory by domain or project so unrelated contexts don't leak into each other.
 - Model decisions, assumptions, evidence, and dependent work as a [typed graph](https://x.com/arscontexta/status/2105397004226494487).
 - Package expertise with the means to apply it. Domain types and knowledge, skills, tools, and review interfaces. Keep project-specific evidence and decisions separate from reusable methods.
+- [Every correction is an opportunity to improve the system itself](https://nonsense.io/blog/mold-the-slop/#maintenance).
