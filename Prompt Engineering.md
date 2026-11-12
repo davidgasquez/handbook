@@ -12,6 +12,7 @@
   - **Altitude**: Ask for the underlying outcome, not just the next task.
   - **Depth**: Use expert methods, raw data, and independent validation—not merely expert-sounding language.
   - **Range**: Bring in methods from other fields, not just simulated personas.
+- Prompt the What, not the How. Describe What you want, now How you'd do it. You'll often get better results. 
 - For difficult, verifiable work, [treat the prompt as both an acceptance test and a search policy](https://x.com/Qiaoqiao2001/status/2080003441821163958).
   - Define exactly what counts as done.
   - List plausible but insufficient results that do not count.
