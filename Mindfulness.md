@@ -59,3 +59,4 @@
   - Meet a wide range of people, as valuable opportunities often come from unexpected connections.
   - Burnout is a major killer of agency and creativity. Prioritize rest and sustainable effort.
 - [Slowing down, and offering more time to the act of consumption, immediately increases comprehension and enjoyment](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/). Slowing down your rate of consumption will inevitably change what you want to consume.
+- How you get somewhere is all there is. [You are how you live, not what you achieve](https://youtu.be/xuHOralyJao?t=3219).
