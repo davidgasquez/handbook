@@ -45,6 +45,7 @@
   - If a human gets lost onboarding to your codebase, an LLM is definitely going to be lost.
 - Fix your fundamentals first: data quality, documentation, backups, testing, permissions, and operational culture. An LLM is not a psychic.
 - Design small, isolated systems. You can check a static website looks great easily. You can check a small API design works well. Compose black boxes into larger systems. Individual boxes can be rewritten in other languages, removed, replaced easily. You can measure them individually.
+- [You are no longer optimizing your codebases for a team of humans, but for a (much larger) team of agents](https://nonsense.io/blog/mold-the-slop/).
 - [Focus on building a rich environment with good and fast tests, documentation, consistent patterns, and clear feature definitions - this helps both humans and AI work better](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/).
 - Write legible (text based) relevant content and link it with anything else (code, diagrams, ...).
 - Applying software engineering best practices is key. [LLMs actively reward existing top tier software engineering practices](https://simonwillison.net/2025/Oct/7/vibe-engineering/):
