@@ -28,6 +28,7 @@
 - Context transformations are [lossy compression](https://x.com/JoshARosen/status/2090067664911683687). Preserve canonical sources and lineage.
 - The context window [is only the final delivery mechanism](https://x.com/JoshARosen/status/2090461097178341452) (deployment target).
 - There is a big bottleneck on information retrieval. Even if you had a magical oracle with perfect information access, the agent (like humans) needs to know how to write the query and the oracle needs to know how to interpret it to fetch only the relevant information given that query.
+- Reduce the number of intermediary AI artifacts to avoid compounding slop. Keep interfaces clean and point to the relevant sources.
 
 ## History and Memory
 
