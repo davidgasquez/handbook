@@ -1,6 +1,6 @@
 # Theory of Change
 
-A theory of change is an explicit, testable account of how and why your actions should produce a desired change in a particular context. Use it to connect [[Goals]] and [[Strategy|strategy]] to execution, [[Metrics|measurement]], and [[Learning|learning]].
+A theory of change is an explicit, testable account of how and why your actions should produce a desired change in a particular context. Use it to connect [[Goals]] and strategy to execution, [[Metrics|measurement]], and [[Learning|learning]].
 
 - [Map the causal path](https://analysisfunction.civilservice.gov.uk/policy-store/the-analysis-function-theory-of-change-toolkit/) from **inputs → activities → outputs → outcomes → impact**.
   - Outputs are what you produce.
