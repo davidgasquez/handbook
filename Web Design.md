@@ -58,9 +58,11 @@ Some ~spells~ styles to try when designing dashboards, UIs, or anything else.
 - [Every Layout](https://every-layout.dev/)
 - [Interface Design](https://github.com/Dammyjay93/interface-design)
 - [Inclusive Components](https://inclusive-components.design/)
-- [Impeccable Design Skills](https://github.com/pbakaus/impeccable).
+- [Impeccable Design Skills](https://github.com/pbakaus/impeccable)
+- [Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance)
 - [Anthropic Frontend Design](https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/frontend-design/SKILL.md)
 - [Vercel Web Design Guidelines](https://raw.githubusercontent.com/vercel-labs/agent-skills/refs/heads/main/skills/web-design-guidelines/SKILL.md)
+- [UI SDK Pack](https://github.com/vercel-labs/ui)
 - [Microsoft Frontend Design Review](https://github.com/microsoft/skills/tree/main/.github/skills/frontend-design-review)
 - [Visual Design Rules You Can Safely Follow Every Time](https://anthonyhobday.com/sideprojects/saferules/)
 - [User Interface Wiki](https://github.com/raphaelsalaja/userinterface-wiki/tree/main/skills)
