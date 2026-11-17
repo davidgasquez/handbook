@@ -20,6 +20,7 @@
 - [Code is cheap, but maintenance, support, and security aren't](https://x.com/davidfowl/status/2054084334848790652)!
 - [Use all programming languages and technologies instead of just the ones you're already familiar with](https://x.com/mrexodia/status/2010157660885176767).
 - [Software is still hard](https://x.com/badlogicgames/status/2017008550111773098). It gets harder if you trick yourself into thinking the agents can take on the hard parts.
+- [Nuance tenst to lead to slop](https://x.com/mattpocockuk/status/2122316570852487441).
 
 ## Tools and Feedback
 
