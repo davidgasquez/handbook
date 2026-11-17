@@ -5,6 +5,8 @@
   - **Capacity:** how much data can be moved and how quickly?
   - **Reliability:** how well can systems recover from outages and incidents?
   - **Speed of execution:** how quickly can you get a new data source up and running?
+- [Agents can write pipelines and queries, but a person must still own the correctness of their results](https://motherduck.com/blog/the-data-intelligence-engineer/).
+- Consider[giving domain experts ownership from data creation through use, including the shared context for analytical and coding agents](https://x.com/teodorio/status/2121975797212651672).
 - If it can be solved with SQL, stick to SQL.
   - SQL will be the abstraction layer in streaming too so you don't have to care about incremental materialization or timely dataflows.
 - A [consistent pattern](https://www.startdataengineering.com/post/design-patterns/) across your data pipelines helps devs communicate easily and understand code better.
