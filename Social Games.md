@@ -54,6 +54,7 @@
   - [Wiki Races](https://www.thewikigamedaily.com/)
   - Real life skill games like sending a bottle cap as close as possible to the edge of the table
 - [Jackbox Party Games](https://jackbox.tv/)
+- [Sloppy Forgeries](https://playfulsystems.com/sloppy-forgeries/)
 
 ## Card Games
 
