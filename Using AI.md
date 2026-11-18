@@ -42,6 +42,8 @@
   - If you do share AI output, disclose it and ideally link the chat. The conversation is more reusable than the transcript, and others can fork your context instead of re-reading your output.
   - If I can have a robot say something, so can you. It reads as inconsiderate to post un-digested AI output as though it's your own writing.
 - [**If you are requesting human attention, demonstrate human effort.**](https://tombedor.dev/human-attention-and-human-effort/)
-- AI won't solve [[Governance]]. Don't delegate decisions to it that impact other humans.
+- Use AI where it helps people take part in [[Governance]]. It can summarize what people said and show where they disagree. Leave the decisions to the people affected.
+  - [Having ChatGPT interview people once and then sending AI copies to discuss the issue](https://www.possible.fm/podcasts/audreydivya/#:~:text=ChatGPT%20interview%20random%20people) can capture what people think at the start. It leaves them out of the conversation where they might hear a new argument or change their minds. That's part of what makes [[Politics|democratic participation]] worth practicing.
+  - AI won't solve [[Governance]]. Don't delegate decisions to it that impact other humans.
 - For now, AI generated content should be consumed by you, not shared with others. This applies to code, bug reports, emails, and so on.
   - [Don't send LLM-generated content](https://x.com/ankrgyl/status/2030372464900067572). Send a human the prompt and let them run their own LLM. [If your prompt is too embarrassing to send, reconsider your communication](https://x.com/davidcrawshaw/status/2030411715045892305).
