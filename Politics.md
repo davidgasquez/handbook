@@ -57,9 +57,9 @@
 - [Architecture is Politics](https://web.archive.org/web/20070607161518/blog.kapor.com/?p=29). Freedom, participation, creativity, and openness are better fostered by a [[Decentralized Protocols|decentralized]] but [[coordination|coordinated]] architecture.
 - [[Plurality]] — the understanding that diversity of people, beliefs, opinions, mechanisms, approaches, implementations, etc within a given context generally results in better outcomes than in the absence of such diversity.
 - For many social systems, truly large-scale, repeatable tests (to verify systems work as intended) are difficult if not impossible. Having simple systems is critical to legitimacy.
-- Politics is just how humans coordinate in groups. It’s the invisible network of relationships, influence, and informal power that exists in every organization. [You can refuse to participate, but that doesn't make it go away](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/). It just means decisions get made without you. The alternative to good politics isn't no politics. It's bad politics winning by default.
+- Politics is just how humans coordinate in groups. It's the invisible network of relationships, influence, and informal power that exists in every organization. [You can refuse to participate, but that doesn't make it go away](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/). It just means decisions get made without you. The alternative to good politics isn't no politics. It's bad politics winning by default.
 - [Policy should tell people what the goal is](https://x.com/VitalikButerin/status/1996997278893044045) (e.g., "reduce road wear" or "reduce emissions") by pricing the externality directly, instead of telling how to optimize for it (making it easy to game arbitrary rules).
-- [Don’t just ask what the best solution is. Ask what needs to change so decision-makers have the information, incentives, and ability to choose and implement it](https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination).
+- [Don't just ask what the best solution is. Ask what needs to change so decision-makers have the information, incentives, and ability to choose and implement it](https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination).
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
 
@@ -76,7 +76,7 @@
 - [We need new, specialized decision-making processes that](https://kronosapiens.github.io/blog/2019/05/08/against-voting.html):
   - Push as much "thinking" as possible into software, so people can participate asynchronously.
   - Replace yes/no votes with multivariate, real-valued allocations ("shades of gray") so every voice moves the dial.
-  - Allow liquid-democracy–style delegation, so expertise flows to where it’s needed.
+  - Allow liquid-democracy–style delegation, so expertise flows to where it's needed.
   - Build in regularization (e.g. caps on how fast budgets can shift) and sunset/failure signals, so policies self-correct or expire.
   - Architect coordination as a fractal "pace-layering" of ever more specific algorithms, each handling half the remaining complexity with the simplest tool.
 - [A key technical component making democracy work is the secret ballot. No one knows who you voted for, and furthermore, you do not have the ability to prove to anyone else who you voted for, even if you really want to](https://vitalik.eth.limo/general/2025/04/14/privacy.html).
