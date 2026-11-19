@@ -55,6 +55,17 @@ Some ~spells~ styles I like.
 - [Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 - [Tufte](https://github.com/edwardtufte/tufte-css)
 
+## Agent Skills
+
+- [Impeccable Design Skills](https://github.com/pbakaus/impeccable)
+- [Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance/blob/main/skills/modern-web-guidance/SKILL.md)
+- [Anthropic Frontend Design](https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/frontend-design/SKILL.md)
+- [Vercel Web Design Guidelines](https://raw.githubusercontent.com/vercel-labs/agent-skills/refs/heads/main/skills/web-design-guidelines/SKILL.md)
+- [UI SDK Pack](https://github.com/vercel-labs/ui)
+- [Microsoft Frontend Design Review](https://github.com/microsoft/skills/tree/main/.github/skills/frontend-design-review)
+- [Taste Skill](https://github.com/Leonxlnx/taste-skill/tree/main/skills)
+- [Edward Tufte's Visualization Skills](https://github.com/aref-vc/tufte-claude-skill)
+
 ## Resources
 
 - [Hack Design](https://hackdesign.org/lessons)
@@ -69,21 +80,13 @@ Some ~spells~ styles I like.
 - [Every Layout](https://every-layout.dev/)
 - [Interface Design](https://github.com/Dammyjay93/interface-design)
 - [Inclusive Components](https://inclusive-components.design/)
-- [Impeccable Design Skills](https://github.com/pbakaus/impeccable)
-- [Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance)
-- [Anthropic Frontend Design](https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/frontend-design/SKILL.md)
-- [Vercel Web Design Guidelines](https://raw.githubusercontent.com/vercel-labs/agent-skills/refs/heads/main/skills/web-design-guidelines/SKILL.md)
-- [UI SDK Pack](https://github.com/vercel-labs/ui)
-- [Microsoft Frontend Design Review](https://github.com/microsoft/skills/tree/main/.github/skills/frontend-design-review)
 - [Visual Design Rules You Can Safely Follow Every Time](https://anthonyhobday.com/sideprojects/saferules/)
 - [User Interface Wiki](https://github.com/raphaelsalaja/userinterface-wiki/tree/main/skills)
 - [Laws of UX](https://lawsofux.com/)
-- [Taste Skill](https://github.com/Leonxlnx/taste-skill/tree/main/skills)
 - [NN/g 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [NN/g 5 Principles of Visual Design in UX](https://www.nngroup.com/articles/principles-visual-design)
 - [Inclusive Design Principles](https://inclusivedesignprinciples.info/)
 - [The Elements of Typographic Style Applied to the Web](https://webtypography.net/toc)
-- [Edward Tufte's Visualization Skills](https://github.com/aref-vc/tufte-claude-skill)
 
 ## Tools
 
