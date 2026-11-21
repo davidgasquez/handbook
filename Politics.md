@@ -92,6 +92,7 @@
 - [Quadratic Voting](http://ericposner.com/quadratic-voting/) and [Quadratic Funding](https://wtfisqf.com/).
 - [Georgism](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty).
 - [Prediction Markets](https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the) as a tool for accountability. [FAQ](https://astralcodexten.substack.com/p/prediction-market-faq).
+- [Computational Democracy](https://compdemocracy.org/algorithms/)
 
 ### Projects
 
@@ -100,3 +101,11 @@
 - [Mantic](https://mantic.com/)
 - [Talk To The City](https://talktothe.city/)
 - [Harmonica](https://harmonica.chat/)
+- [Broad Listening](https://www.broadlistening.org/)
+- [Argdown](https://argdown.org/) and [Argumentree](https://www.argumentree.com/)
+- [Decidim](https://decidim.org/)
+- [Loomio](https://www.loomio.com/)
+- [Civic Tech Guide](https://civictech.guide/)
+- [Hypothesis](https://github.com/hypothesis/h)
+- [CIP](https://www.cip.org/)
+- [Jigsaw](https://github.com/Jigsaw-Code/sensemaking-tools)
