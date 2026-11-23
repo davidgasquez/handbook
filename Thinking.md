@@ -82,6 +82,7 @@
 - Saying "that's a good point" doesn't lose the argument. It wins trust. Acknowledging a valid observation is a display of respect. It signals that you're [[Listening]] with an open mind, and motivates them to follow suit. You don't have to agree on everything to agree on something.
 - Every time you say "that's a good point", it gets easier for you to acknowledge good points in the future. The same happens when you say "I was wrong".
 - There are ways of helping that are more effective than others. E.g: [giving money is usually better than donating stuff](https://www.linkedin.com/feed/update/urn:li:activity:7259253204180221952). More flexible, [allows better logistics](https://www.linkedin.com/pulse/paradojas-sobre-la-ayuda-en-emergencias-y-las-ong-pablo-melchor--lgq3f/) (collecting and transporting water bottles versus buying in bulk and transporting them), local economy benefits, less waste, ...
+- [To be an independent thinker, own a diverse portfolio of uncorrelated perspectives](https://sive.rs/portfolio). If people can predict your opinion on something, based on your opinion on something else, then your worldview is too correlated.
 
 ## Resources
 
