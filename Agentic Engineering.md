@@ -32,6 +32,7 @@
 - Use deterministic tools whenever you can. Linters, type checkers, auto-formatters, commit hooks, ...
 - Use [[Programming|quiet-success, loud-failure conventions]] for tool feedback.
 - Build "partial autonomy" products where humans stay in the loop to verify output, rather than fully autonomous agents.
+  - [Give humans a focused inbox of approvals and questions](https://x.com/john_ssuh/status/2124336124172935336) instead of making them read agent conversations. Add views for reviewing intermediate work that needs a human decision.
   - [Your job is to design environments where iteration converges toward correctness instead of drifting toward plausible nonsense](https://nonstructured.com/zen-of-ai-coding/).
 - Tools come in three flavors: context retrieval (finding information), feedback loops (verifying actions), and planning (structuring work over longer horizons).
 - Choose tool interfaces with [[Artificial Intelligence Models|model training]] in mind.
@@ -74,6 +75,14 @@
   - Prefer distinctive, concept-specific function, method, type, directory, and file names over generic names such as create, Data, or Config.
   - Prefer functions with clear, descriptive, unique, and longer than usual function names over classes. Avoid inheritance and overly clever hacks.
 - Care about the failure modes. It's very easy to make things that work well if you don’t care how they fail. [AI-generated code can be designed to work while not being designed to fail gracefully](https://pluralistic.net/2026/01/06/1000x-liability/).
+
+## Agent Platforms
+
+- [Agents are actors](https://newsletter.squishy.computer/p/agents-are-actors). Like actors, agents receive messages, update their internal state, spawn other agents, and send messages back. Multi-agent systems can borrow from the actor model.
+  - Actors never share state. They talk only through messages and process their inbox one message at a time. With no shared mutable state, agents can run in parallel on one computer or across many.
+  - Reuse actor patterns such as supervisor trees, scatter-gather, routers with worker pools, and aggregators.
+- [Let agents define listeners and monitors](https://x.com/john_ssuh/status/2124336124172935336) over external event streams (webhooks, Kafka, CDC, ...). They turn events into signals to act on, instead of waking up on hourly cron jobs. Agents can build new listeners on the fly, in code or as other agents.
+  - This is [[Programming|the append-only event log]] and [[Data Engineering|event sourcing]] applied to agents. Subscribe to the log, react to events, and rebuild state from history. [Designing Data-Intensive Applications](https://dataintensive.net/) covers logs and stream processing in depth.
 
 ## Skills
 
