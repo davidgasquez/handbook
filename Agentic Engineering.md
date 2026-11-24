@@ -82,6 +82,7 @@
   - Actors never share state. They talk only through messages and process their inbox one message at a time. With no shared mutable state, agents can run in parallel on one computer or across many.
   - Reuse actor patterns such as supervisor trees, scatter-gather, routers with worker pools, and aggregators.
 - [Let agents define listeners and monitors](https://x.com/john_ssuh/status/2124336124172935336) over external event streams (webhooks, Kafka, CDC, ...). They turn events into signals to act on, instead of waking up on hourly cron jobs. Agents can build new listeners on the fly, in code or as other agents.
+  - [Most company work is either "scheduled" or "event-driven"](https://www.notion.com/a-new-shape-for-work). A chat is an event trigger that depends on a human noticing something. Wake agents on schedules and events automatically.
   - This is [[Programming|the append-only event log]] and [[Data Engineering|event sourcing]] applied to agents. Subscribe to the log, react to events, and rebuild state from history. [Designing Data-Intensive Applications](https://dataintensive.net/) covers logs and stream processing in depth.
 
 ## Skills
@@ -92,8 +93,26 @@
 - [Good skills optimize predictability](https://web.archive.org/web/20260620224727/https://raw.githubusercontent.com/mattpocock/skills/refs/heads/main/skills/productivity/writing-great-skills/SKILL.md).
   - Write checkable steps with explicit completion criteria, front-load the trigger words that should invoke them, and use [[Context Engineering|progressive disclosure]] for reference material.
   - Prune duplication, no-ops, and stale sediment so each meaning has a single source of truth.
+- Shared skills are a step toward [[#Factories|factories]].
 
 ### Examples
 
 - [Edward Tufte's Visualization Skills](https://github.com/aref-vc/tufte-claude-skill)
 - [Agent skill to de-AI writing](https://github.com/theclaymethod/unslop)
+
+## Factories
+
+- [Factories are "shared AI systems that are designed to handle specific organizational tasks"](https://www.notion.com/a-new-shape-for-work). A handful of people build and run them, and everyone else benefits. This is specialization and gains from trade applied to agents.
+- [Every factory is](https://www.notion.com/a-new-shape-for-work):
+  - **Specific**: designed to handle certain types of tasks, and not others.
+  - **Shared**: multiple people on your team can use it.
+  - **Scrutinized**: some members of the team monitor the agent to make sure it performs as it should.
+- [Skills are "a sort of proto-factory"](https://www.notion.com/a-new-shape-for-work). They share instructions, but each person runs them on their own agent and setup, and nobody watches the runs, so improvements don't compound.
+- Fixed costs favor sharing. ["Instead of one hundred people each spending an hour hand-rolling their own slide deck skill, imagine how much better off your team would be if two people spent twenty-five hours each"](https://www.notion.com/a-new-shape-for-work). Half the total time buys one factory fifty hours deep into the learning curve.
+  - The incentive is easy to miss because ["the fixed costs of AI factories are so small"](https://www.notion.com/a-new-shape-for-work).
+  - Most personal setups stall. Without factories, many initiatives ["never got out of the 'hobby/side project' zone"](https://www.notion.com/a-new-shape-for-work).
+- Personal agents carry tail risk. ["One bad security vulnerability in one agent is all it takes to cause significant harm"](https://www.notion.com/a-new-shape-for-work).
+- [Good factory candidates](https://www.notion.com/a-new-shape-for-work) are recurring, verifiable, stable over time, need a known universe of information, and have mistakes that are cheap or easy to detect. See [[Using AI]] for similar criteria.
+- The simplest factory is a task database with a status column and an agent that runs on every new "to-do" row.
+- Roll factories out gradually with [[Automation|shadow runs and small volumes]], and measure prompt changes with [[Machine Learning#Evals|evals]].
+- Version prompts in a simple database instead of a full Git setup. [Give each prompt a status (testing, production, retired) and a process step](https://www.notion.com/a-new-shape-for-work). The agent uses the prompt a task names, or the production one.

@@ -36,6 +36,7 @@ These points are expanded with more details in courses like [Made With ML](https
 - [Evals are fundamentally "data science"](https://youtu.be/lA4MfpgF91Y). **Look at your data**, conduct experiments and measure where appropriate, and iterate metrics and approaches.
 - Pick the right evaluator: code-based assertions for deterministic failures; LLM-as-judge for subjective ones. Keep labels binary (PASS/FAIL) with human critiques. Partition data so the judge cannot memorize answers; validate the judge against human labels (TPR/TNR) before trusting it.
 - Run evals in CI/CD and keep monitoring with production data.
+  - Spot-checking only the case you fixed misses regressions. ["Sometimes prompt changes have unintended consequences on other parts of the system"](https://www.notion.com/a-new-shape-for-work). Write down the tasks and judging criteria, then rerun them all.
   - [Analyze → measure → improve → automate → repeat](https://newsletter.pragmaticengineer.com/p/evals).
 - Good eval [[Metrics|metrics]]:
   - Measure an error you've observed.

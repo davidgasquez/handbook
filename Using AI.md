@@ -22,7 +22,8 @@
 - In a world of abundant, near-unlimited coding capacity, human taste becomes most of the game.
 - [Generalists might increasingly outperform specialists](https://x.com/karpathy/status/2015883857489522876).
   - The skill you want to build is the ability to understand problems and have some concept of how to solve them.
-- [[Company Knowledge Management|Using AI as a team]] is very different than using AI for you.
+- [[Company Knowledge Management|Using AI as a team]] is very different than using AI for you. ["AI gives individuals incredible power, but the bigger promise is for teams to have that power"](https://www.notion.com/a-new-shape-for-work).
+  - Build a shared [[Context Engineering#Context Systems|context system]] first, then shared [[Agentic Engineering#Factories|factories]] on top.
 - Ultimately, [we are the agents](https://mitsuhiko.github.io/talks/me-and-the-machine/). Use these tools to amplify your own abilities. Give them direction, not simple questions. Engineer feedback loops to make them more reliable. Build systems that let you focus on what matters.
 
 ## Thinking and Communication

@@ -3,6 +3,8 @@
 - Aim for automating your whole job. [A good way is to start writing a script that only prints out the steps required to do a task](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/). You can replace these steps one by one and do the rest manually until they're all automated.
   - [Not everything should be automated right away](https://xkcd.com/974/).
   - [Fake it, until you automate it!](https://understandlegacycode.com/blog/fake-it-until-you-automate-it/)
+- Roll out agent automation gradually. [Shadow runs "tell you what the AI would do, instead of having the AI actually do it"](https://www.notion.com/a-new-shape-for-work). Then grow the volume from a small sample.
+  - [Start simple, "run it, watch it fail, and implement solutions to the real failures you observe"](https://www.notion.com/a-new-shape-for-work), instead of adding fixes for failures you only imagine.
 - Automation is used for Precision, Stability and Speed. It reduces or eliminates human error and brings stability to a [[Systems|system]]. [Automation is great when it replaces a stable, well-working manual process](https://news.ycombinator.com/item?id=30230367).
   - [Any defence you have to run by hand gets skipped the first time there's a deadline](https://shapeofthesystem.com/). Automate guardrails instead of relying on vigilance.
 - [Automation is putting process into code](https://queue.acm.org/detail.cfm?id=3197520):
