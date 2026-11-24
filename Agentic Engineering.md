@@ -115,4 +115,4 @@
 - [Good factory candidates](https://www.notion.com/a-new-shape-for-work) are recurring, verifiable, stable over time, need a known universe of information, and have mistakes that are cheap or easy to detect. See [[Using AI]] for similar criteria.
 - The simplest factory is a task database with a status column and an agent that runs on every new "to-do" row.
 - Roll factories out gradually with [[Automation|shadow runs and small volumes]], and measure prompt changes with [[Machine Learning#Evals|evals]].
-- Version prompts in a simple database instead of a full Git setup. [Give each prompt a status (testing, production, retired) and a process step](https://www.notion.com/a-new-shape-for-work). The agent uses the prompt a task names, or the production one.
+- When a full [[Git]] setup is overkill, version prompts in a simple [[Databases|database]]. [Give each prompt a status (testing, production, retired) and a process step](https://www.notion.com/a-new-shape-for-work). Tasks either pin a prompt version or default to the production one.

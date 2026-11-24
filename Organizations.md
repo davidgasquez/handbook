@@ -81,7 +81,7 @@
 - You can't sell something like versioning or encryption as the key feature, you need to put out a comparable product and have these features be the thing that tips the scale in your favour.
 - [AI shifts the organizational bottleneck from human execution to human taste and judgment](https://x.com/jeffreyhuber/status/2079266941366407380).
   - Build small, high-trust teams around context and [[Making Decisions|decision authority]], rather than labor and coordination.
-- Own organizational context and business-specific tools. [Rent replaceable model intelligence and commodity infrastructure](https://x.com/jeffreyhuber/status/2079266941366407380). Avoid vendors that lock up institutional knowledge.
+- Own business-specific tools and [[Context Engineering|organizational context]], and rent the models. Avoid vendors that lock up institutional knowledge.
 - [Build a compounding learning machine](https://x.com/jeffreyhuber/status/2079266941366407380).
   - Try teaching an agent before hiring, default internal information to open, and turn rubrics, production traces, and expert feedback into reusable knowledge.
 - Your business may be thought of as a process. It has inputs, and it has outputs. One type of knowledge is understanding which inputs affect which outputs.

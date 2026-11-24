@@ -10,7 +10,7 @@ If we think about a company as an organism, then a **knowledge management system
 
 There are some basic principles and [[values]] that will make maintaining and evolving a knowledge base easier over time.
 
-- **Transparency**. Everyone has access to everything.
+- **Transparency**. Default to open. Restrict only sensitive records (salaries, performance reviews, customer PII, credentials) and scope agent access deliberately.
 - **Iterative Improvements**. Everything is a WIP. No need to say it'll be updated later or add dates to pages.
 - **Permissionless**. Anyone is able to edit anything. Similar to GitHub Pull Requests. Later, the resource owner can accept or reject the change.
 - **Interconnected**. Links between everything!
@@ -57,21 +57,30 @@ There are some basic principles and [[values]] that will make maintaining and ev
 - Sharing [[Context Engineering|context]] within the organization is a critical part of a company being successful with agents.
 - Every company needs to build and maintain their knowledge management system as a source of grounding for their agentic tooling.
 - As [analysis becomes cheap, consensus becomes scarce](https://www.iandmacomber.com/blog/post-ai-data-stack). Encode expert judgment so equivalent, authorized questions produce the same definitions, evidence, and answers across models and interfaces.
-- There is no single "company brain" like there is no single source of truth for metrics.
+- There is no single "company brain" like there is no single source of truth for metrics. Teams that own each source curate it, and agents read it through one governed [[#Context Systems|context system]].
 - You can't simply index data from different sources and expose it all raw.
   - Copying every table into a lake never solved analytics. Indexing every document will not solve context.
 - A company-owned layer should encode metric definitions, grain, exceptions, historical changes, and trusted evidence paths.
 - Human effort alone wont scale a company anymore. The company processes need to be rethough from scratch to make everything legible to agents and easy to review by humans.
 
-### Company Context Repository
+### Context Systems
 
-- A system that tells the model how a company works, what happened before, which constraints matter, what a particular customer means, how terminology is used internally, which decisions have already been made, and what the organization currently believes to be true. Some of that is durable institutional knowledge, while some of it is live state, retrieved facts, permissions, relationships, and task-specific material.
+- A context system is the shared place where a team and its agents read and write. It is ["what allows your team's agents to learn together over time"](https://www.notion.com/a-new-shape-for-work).
+  - Without one, AI is ["like using a computer without a hard drive, or a web application without a database"](https://www.notion.com/a-new-shape-for-work). Nothing persists, so value can't compound. The AI stays ["stateless and single-player"](https://www.notion.com/a-new-shape-for-work).
+  - Its structure ["defines the limit of what is possible for agents to do within that company"](https://www.notion.com/a-new-shape-for-work).
+- [A context system does six jobs](https://www.notion.com/a-new-shape-for-work):
+  1. Store all essential company information and knowledge.
+  2. Ensure everything is well-organized and has a logical place to go.
+  3. Govern everything with granular permissions and version controls.
+  4. Display the information any way you want.
+  5. Provide a great collaboration experience for your team.
+  6. Work flawlessly with any agent.
+- It tells the model how a company works, what happened before, which constraints matter, what a particular customer means, how terminology is used internally, which decisions have already been made, and what the organization currently believes to be true. Some of that is durable institutional knowledge, while some of it is live state, retrieved facts, permissions, relationships, and task-specific material.
 - The work that needs to be done is to determine which information is authoritative, what happens when sources disagree, where claims came from, and which downstream context should change when a decision changes. [The company also needs to decide what agents can write back, who reviews those changes, when old information expires, which agents can see which material, and what context actually contributed to a particular result](https://x.com/JoshARosen/status/2087152534964089238).
 - Writing, rejecting PRs, and renaming terms on a [shared context layer](https://www.context.ai/blog/a-filesystem-for-context) is the way the organization "thinks" and compacts knowledge.
 - [Co-locate context artifacts with the source systems they describe](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude), require both to change in the same PR, and evaluate the affected behavior before merging. Turn user corrections into regression cases and small reviewed context updates.
 - Make "Who knows?" a first-class operation
 - Treat the brain as a [data product](https://x.com/hnshah/status/2082944736428695776)
-  - Bring external sources into a controlled data plane where they can be validated, normalized, permissioned, cached, and observed.
   - Retrieval failures should feed the [pipeline](https://read.technically.dev/p/everything-is-a-pipeline)
   - Repeated questions, corrections, rejected answers, and missing evidence should change models and artifacts
   - Humans review and approve changes to core artifacts
@@ -80,7 +89,10 @@ There are some basic principles and [[values]] that will make maintaining and ev
 - Different tasks need different projections over shared company knowledge.
 - Businesses already have plenty of context, just not coherent context. [Curate context the same way you curate data](https://x.com/sethrosen/status/2090053608838484010).
 - [Knowledge work needs all different types of output](https://x.com/sethrosen/status/2088254987142934907) (docs, trainings, sheets, landing pages), and these all have to stay coherent with each other as the business moves or they are useless.
-- [Bring curated data to the model](https://x.com/JoshARosen/status/2086863671657980138). The more tools you give an agent to reach directly into the outside world, the harder it becomes to know what entered its context, where it came from, whether it changed, or whether it was compromised.
+- [Bring curated data to the model](https://x.com/JoshARosen/status/2086863671657980138) through one governed access point. The more tools you give an agent to reach directly into the outside world, the harder it becomes to know what entered its context, where it came from, whether it changed, or whether it was compromised. Wiring agents to dozens of sources ["adds complexity, multiplies possible points of failure, and is exponentially harder to govern"](https://www.notion.com/a-new-shape-for-work).
+  - Sync sources into a controlled data plane where they can be validated, normalized, permissioned, cached, and observed. Keep using the source tools.
+  - Meeting transcripts are ["perhaps the richest sources of context for teams and companies"](https://www.notion.com/a-new-shape-for-work). Model [[Meetings|meetings]] as first-class objects linked to projects and people.
+- When data must be restricted, [share access with groups rather than individuals](https://www.notion.com/a-new-shape-for-work) so permissions follow team changes. Use row- and column-level permissions for sensitive fields instead of creating ["an entirely new and redundant database"](https://www.notion.com/a-new-shape-for-work).
 
 ## Sharing Updates
 

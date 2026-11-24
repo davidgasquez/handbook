@@ -10,28 +10,11 @@
 - Context is one of the few inputs that you can tune to get the results you want.
 - [Context is what an agent has available when doing a task](https://x.com/hwchase17/status/2124181216719151585). Knowledge is the reusable understanding we maintain so it can do that task correctly (what a metric means, which source to trust, or how we handle a particular situation). Sometimes written down, often not.
 - [Knowledge needs to be managed as code](https://x.com/prukalpa/status/2124415863516516459) (versioning, dependency management).
-
-## Context Systems
-
-- A context system is the shared place where a team and its agents read and write. It is ["what allows your team's agents to learn together over time"](https://www.notion.com/a-new-shape-for-work).
-  - Without one, AI is ["like using a computer without a hard drive, or a web application without a database"](https://www.notion.com/a-new-shape-for-work). Nothing persists, so value can't compound. The AI stays ["stateless and single-player"](https://www.notion.com/a-new-shape-for-work).
-  - Its structure ["defines the limit of what is possible for agents to do within that company"](https://www.notion.com/a-new-shape-for-work).
-- [A context system does six jobs](https://www.notion.com/a-new-shape-for-work):
-  1. Store all essential company information and knowledge.
-  2. Ensure everything is well-organized and has a logical place to go.
-  3. Govern everything with granular permissions and version controls.
-  4. Display the information any way you want.
-  5. Provide a great collaboration experience for your team.
-  6. Work flawlessly with any agent.
-- Sync sources into the context system instead of connecting agents to each one. ["Directly granting agents access to dozens of sources adds complexity, multiplies possible points of failure, and is exponentially harder to govern"](https://www.notion.com/a-new-shape-for-work). Keep using the source tools, but give agents one governed access point, a "context warehouse".
-  - Meeting transcripts are ["perhaps the richest sources of context for teams and companies"](https://www.notion.com/a-new-shape-for-work). Model meetings as first-class objects linked to projects and people.
-- Share access with groups, not individuals. ["Define groups of people, and share access with a group, rather than a specific person"](https://www.notion.com/a-new-shape-for-work). Membership changes as people join teams or get promoted.
-  - Use row- and column-level permissions for sensitive fields (salaries, performance reviews). You don't want ["an entirely new and redundant database just to manage the privacy of one specific piece of information"](https://www.notion.com/a-new-shape-for-work).
-- Everyone wants your context as their moat. ["Rent the intelligence. Own the context."](https://www.notion.com/a-new-shape-for-work) Own context in a model-agnostic layer that outlives any agent, model, or vendor.
-- See [[Company Knowledge Management]] for the organizational side.
+- Teams share context through a [[Company Knowledge Management#Context Systems|context system]] where people and agents read and write together.
 
 ## Selecting and Loading Context
 
+- Everyone wants your context as their moat. ["Rent the intelligence. Own the context."](https://www.notion.com/a-new-shape-for-work) Keep context in a model-agnostic layer and [rent replaceable models and commodity infrastructure](https://x.com/jeffreyhuber/status/2079266941366407380) so it outlives any agent, model, or vendor.
 - Keep context headless and agent-readable. Expose definitions, owners, filters, code, values, lineage, and canonical sources through files and APIs rather than vendor-specific interfaces.
 - Context is finite and has diminishing returns. You need to model and clean it.
   - Experiment with representations that improve information density and understanding.
