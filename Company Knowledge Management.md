@@ -61,6 +61,7 @@ There are some basic principles and [[values]] that will make maintaining and ev
 - You can't simply index data from different sources and expose it all raw.
   - Copying every table into a lake never solved analytics. Indexing every document will not solve context.
 - A company-owned layer should encode metric definitions, grain, exceptions, historical changes, and trusted evidence paths.
+- Human effort alone wont scale a company anymore. The company processes need to be rethough from scratch to make everything legible to agents and easy to review by humans.
 
 ### Company Context Repository
 

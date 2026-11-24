@@ -2,11 +2,14 @@
 
 - Context engineering is [the discipline of designing and building dynamic systems that provide the right information and tools, in the right format, at the right time, to give an LLM everything it needs to accomplish a task](https://www.philschmid.de/context-engineering).
 - Context engineering is curating knowledge as a continuously maintained [[Data Engineering|data product]] that delivers the smallest useful set of relevant, trustworthy, and fresh information to an agent at the right time. The goal is to [encode expert judgement into the infrastructure to allow agents to produce correct analysis](https://x.com/sh_reya/status/2094279496497266948).
+  - Agents need all the tacit, implicit, scattered knowledge you can give them. Spend resources here.
 - [Context includes prompts, instructions, retrieved documents, tool calls and results, history, memory, and output schemas—not just retrieved knowledge](https://github.com/humanlayer/12-factor-agents/blob/main/content/factor-03-own-your-context-window.md).
 - [Output is the product of context and weights](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html). You can go bigger (expensive), think harder (slow), or improve the context (cheap and fast).
 - The job is choosing where to be deterministic (code) and where to be probabilistic (the model). Context assembly keeps moving from model calls into the [[Agentic Engineering|harness]].
 - Every capability advance moves the problem. Long contexts let in more bad information. Long-horizon agents run longer than they should.
 - Context is one of the few inputs that you can tune to get the results you want.
+- [Context is what an agent has available when doing a task](https://x.com/hwchase17/status/2124181216719151585). Knowledge is the reusable understanding we maintain so it can do that task correctly (what a metric means, which source to trust, or how we handle a particular situation). Sometimes written down, often not.
+- [Knowledge needs to be managed as code](https://x.com/prukalpa/status/2124415863516516459) (versioning, dependency management).
 
 ## Selecting and Loading Context
 
@@ -29,6 +32,14 @@
 - The context window [is only the final delivery mechanism](https://x.com/JoshARosen/status/2090461097178341452) (deployment target).
 - There is a big bottleneck on information retrieval. Even if you had a magical oracle with perfect information access, the agent (like humans) needs to know how to write the query and the oracle needs to know how to interpret it to fetch only the relevant information given that query.
 - Reduce the number of intermediary AI artifacts to avoid compounding slop. Keep interfaces clean and point to the relevant sources.
+- The fundational assumption, if you give an agent enough information about a company, the model will figure out how the work gets done, migh not be enough
+  - [More context isn't the fix](https://x.com/scribeceo/status/2123460060299030733)
+    - Docs and Slack record plans and results, not how people did the work
+    - People decide what matters before they read thanks to selective attention, models read everything, and the output is just more text
+    - Every workflow has 100 edge cases for which people that are used to it cant explain
+- [Most of the relevant information only exist in peoples heads](https://x.com/gabriel1/status/2112929584295592410) and no one knows what almost anyone else is doing on a company
+  - Design processes to turn all this implicit / tacit process-specific instructions into a format more legible to an agent.
+  - This is a coordination and organizational problem that cannot be solved by folks spending more time with agents.
 
 ## History and Memory
 
