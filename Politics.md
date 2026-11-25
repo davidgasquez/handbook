@@ -22,20 +22,17 @@
 - [Meritocracy isn't an "-ocracy" like democracy or autocracy, where people in wigs sit down to frame a constitution and decide how things should work. It's a dubious abstraction over the fact that people prefer to have jobs done well rather than poorly, and use their financial and social clout to make this happen](https://astralcodexten.substack.com/p/book-review-the-cult-of-smart).
 - [There's an imbalance between doing things and preventing things](https://astralcodexten.substack.com/p/ezra-klein-on-vetocracy). If a leader does something, and it's bad, then journalists will be on the scene to interview the victims of their failure, protesters can march against their abuses of power, etc. If a leader doesn't do something, and it would have been good, this is invisible except in rare cases. As the media becomes better at covering things, people become more outraged by abuses, we should expect the number of new policies that have large impact to go down.
   - [[Problem Solving|When you observe or interact with a problem in any way, you can be blamed for it. At the very least, you are to blame for not doing more]].
-- [Processes that create durable change need to be bulldozery toward the status quo but protecting that change requires a vetocracy](https://vitalik.eth.limo/general/2021/12/19/bullveto.html). There's some optimal rate at which such [[processes]] should happen; too much and there's chaos, not enough and there's stagnation.
 - Your perception of reality has probably been at least a little manipulated. Your opponents are behaving the way they are based on a perception of reality that's different from your own.
   - What does this look/feel like to the people I don't know?
 - Everyone belongs to a tribe and underestimates how influential that tribe is on their thinking. Tribes reduce the ability to challenge ideas or diversify your views because no one wants to lose support of the tribe. Tribes are as self-interested as people, encouraging [[ideas]] and narratives that promote their survival. But they're exponentially more influential than any single person. So tribes are very effective at promoting views that aren't analytical or rational, and people loyal to their tribes are very poor at realizing it.
-- Utopia can't be planned from scratch! Push decisions to the edges (localism) where they have [[incentives]] to make good choices.
-  - A good counterargument is that people might not be educated enough to make the best decision and a centralized institution could do it much better for them (e.g: a government banning lead from most products is credited with the most significant global drop in crime rates in decades).
 - Most political debates are people with different time horizons talking over each other.
 - [Liberalism has a few big economic problems](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/); [[coordination]] issues (Moloch), irrationality and lack of information.
   - You are not an individual self in the first place, you're an ecosystem of parts. It's teamwork all the way down!
 - [We tend to support small, far-away, or exotic groups trying to maintain their culture](https://slatestarcodex.com/2016/07/25/how-the-west-was-won/), but treat our outgroups' cultural preservation attempts as ignorance or xenophobia. Consistency would mean either extending compassion to all traditional cultures resisting universal culture, or consistently supporting universal culture's attempt to impose progress everywhere.
-- The costs of regulations are regressive: [much more easily absorbed by big companies than startups](https://slatestarcodex.com/2013/12/08/a-something-sort-of-like-left-libertarianism-ist-manifesto/). The problem with banning and regulating things is that it's a blunt instrument.
 - _Could laws be self-correcting?_ When a law is approved, if X is not achieved in Y time, withdraw the law. Many of the problems people worry about probably won't exist in 10 years. There are likely new problems you could never have guessed would come up. [When writing a policy, include a few internal-facing failure signals and a few external-facing failure signals that make clear the policy isn't working anymore](https://bellmar.medium.com/the-death-of-process-cdb0151a41fe) and might be better to revisit.
 - Sometimes the more important thing is not [[Making Decisions|better mechanisms for the final decision-making step]], but better mechanisms for [discussing and coordinating](https://twitter.com/VitalikButerin/status/1433396553591320578) what to propose (explore the space) in the first place.
   - We need [tools for identifying possible shifts to the order](https://x.com/VitalikButerin/status/2030781981706051769) that would satisfy large cross-cutting groups of people, and presenting those possible shifts to changemakers, to make it clear to them that those particular shifts would be easier for them to accomplish, because they would have a lot of support and legitimacy.
+  - People might not agree on the principles or on in the details but they will agree on the process (e.g. scientific method).
 - We should be exploring alternative ways of doing things. Right now we have mostly one type of political system, one type of voting system and one method of science funding for example.
 - [Communities die primarily by refusing to defend themselves](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism). Censorship and moderation might be required for a great community to continue existing.
 - Being good at politics doesn't mean being good at making decisions that help your voters. [High-functioning sociopaths climb the ladder, so now the world's run mostly by sociopaths](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/).
@@ -58,7 +55,6 @@
 - [[Plurality]] — the understanding that diversity of people, beliefs, opinions, mechanisms, approaches, implementations, etc within a given context generally results in better outcomes than in the absence of such diversity.
 - For many social systems, truly large-scale, repeatable tests (to verify systems work as intended) are difficult if not impossible. Having simple systems is critical to legitimacy.
 - Politics is just how humans coordinate in groups. It's the invisible network of relationships, influence, and informal power that exists in every organization. [You can refuse to participate, but that doesn't make it go away](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/). It just means decisions get made without you. The alternative to good politics isn't no politics. It's bad politics winning by default.
-- [Policy should tell people what the goal is](https://x.com/VitalikButerin/status/1996997278893044045) (e.g., "reduce road wear" or "reduce emissions") by pricing the externality directly, instead of telling how to optimize for it (making it easy to game arbitrary rules).
 - [Don't just ask what the best solution is. Ask what needs to change so decision-makers have the information, incentives, and ability to choose and implement it](https://www.lesswrong.com/posts/uw8RQ8yjKexnhTw6E/state-of-the-field-ai-for-epistemics-and-coordination).
 
 ## [Voting Theory](https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists)
@@ -83,7 +79,34 @@
 - Voting is a preference aggregation method. Preferences must be aggregated across multiple individuals to determine a collective decision or ranking. This process is central to social choice theory, which provides a mathematical foundation for preference aggregation.
 - Pluralistic voting models that focus on finding "consensus across difference" [are valuable](https://x.com/VitalikButerin/status/2030781981706051769). They inherently empower diverse viewpoints, and prevent an intellectual or decision-making ecosystem from being overly dominated by monoculture.
 - Every time you derive an opinion from a group, you are doing a lossy compression of each individual opinion. How you do it (preference and meta-preference aggregation) is in itself an opinion / choice.
-- [A good place to look for market failures are places where the market ends](https://www.lesswrong.com/posts/hacisxJX7fAQhcSdu/how-should-negative-externalities-be-handled-warning?commentId=EZ4vmMnZdNP5L3kbp). Government defines the domain of problems which the free market gets to act on.
+
+## Markets
+
+- Prices help strangers coordinate what to buy, make, or invest in. Contracts help them cooperate when informal agreements are hard to check. Governments [set the rules for where markets can operate](https://www.lesswrong.com/posts/hacisxJX7fAQhcSdu/how-should-negative-externalities-be-handled-warning?commentId=EZ4vmMnZdNP5L3kbp). Which decisions should we leave to markets, and which should households, [[Governance#Local governance|communities]], or governments make directly?
+
+### Strengths
+
+- When [tin gets scarce and its price rises](https://www.econlib.org/library/Essays/hykKnw.html), manufacturers can look for substitutes without waiting for instructions. They know their own processes and bear the cost if a substitute fails.
+- Lower costs give investors a reason to build more solar plants. In 2024, [new solar plants generated electricity at a lower average cost worldwide than new fossil fuel plants](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jul/IRENA_TEC_RPGC_in_2024_Summary_2025.pdf).
+- Trade lets one person bake bread, another sell it, and another deliver it. Many savers can pool small contributions to fund a large project.
+- Easy entry lets teams try ideas in parallel without central approval. Products that find buyers tend to spread, much like traits in [[Evolution|natural selection]].
+- Competition gives firms an [[Incentives|incentive]] to cut prices or improve service. [Spanish phone customers gained alternatives to Telefónica](https://blog.cnmc.es/2026/11/17/30-anos-de-telecomunicaciones-mirando-al-pasado-para-entender-el-futuro/). Ryanair flights and Airbnb rooms can cost less than full-service flights and hotel rooms.
+- [Prediction Markets](https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the) as a tool for [[Mechanism Design#Toolkit|accountability]]. [FAQ](https://astralcodexten.substack.com/p/prediction-market-faq).
+
+### Failures
+
+- A monopoly can raise prices or let service decline when buyers have few alternatives. Sellers can also profit by hiding defects or exaggerating what a product does.
+- When a factory can pollute for free, its prices leave out the harm to its neighbors, an [[Systems|externality]]. A factory that pays to pollute less can lose buyers to cheaper rivals. When that keeps everyone polluting, it's a [[Systems#Inadequate Equilibria|collective trap]] known as Moloch.
+- [[Public Goods Funding|Public goods]] such as open-source software are hard to fund because people can benefit without paying.
+- Ideas that take years to earn revenue can struggle to attract funding. Speculators can bid up prices while the asset itself stays the same.
+
+### Public Policy
+
+- **Make switching easy.** Leaving WhatsApp is hard when [[Network Effects|contacts stay behind]]. [[Decentralized Protocols|Shared standards]] let users switch without leaving the network. Bluesky's [[AT Protocol|open protocol]] lets users move their account to another server, including their own.
+- **Allow competition on public infrastructure.** Spain's public rail manager, Adif, [charges operators to use its tracks](https://www.cnmc.es/prensa/balance-liberalizacion-ferroviaria-2024-20250922). After rivals joined Renfe, [Madrid to Barcelona tickets cost 35% less in 2024 than in 2019](https://www.cnmc.es/prensa/informe-anual-ferroviario-2024-20250723).
+- **Guarantee essential services.** Elections give officials a reason to serve a broad share of voters. Governments can guarantee access to education and healthcare. A city can guarantee trash collection and let companies bid for [[Impact Evaluators|the contract]].
+- **Charge for harm.** [Price measurable harm such as emissions or road wear](https://x.com/VitalikButerin/status/1996997278893044045) and let people choose how to reduce it. That gives them fewer arbitrary rules to game.
+- The costs of regulations are regressive: [much more easily absorbed by big companies than startups](https://slatestarcodex.com/2013/12/08/a-something-sort-of-like-left-libertarianism-ist-manifesto/). The problem with banning and regulating things is that it's a blunt instrument.
 
 ## Interesting Ideas
 
@@ -91,7 +114,6 @@
 - [Vouching as regulation substitute](https://vitalik.eth.limo/general/2025/12/17/societies.html).
 - [Quadratic Voting](http://ericposner.com/quadratic-voting/) and [Quadratic Funding](https://wtfisqf.com/).
 - [Georgism](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty).
-- [Prediction Markets](https://astralcodexten.substack.com/p/instead-of-pledging-to-change-the) as a tool for accountability. [FAQ](https://astralcodexten.substack.com/p/prediction-market-faq).
 - [Computational Democracy](https://compdemocracy.org/algorithms/)
 
 ### Projects
