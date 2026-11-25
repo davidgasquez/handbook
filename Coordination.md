@@ -23,7 +23,7 @@
   - Separating information from its contextual moorings
 - Radical transparency is not an effective substitute for trust. It often constrains well-intentioned behavior while bad actors find ways to circumvent it.
 - Trust is built gradually through iterated interactions, with two main shortcuts:
-  - Credible commitments (escrow, contracts, penalties)
+  - Credible commitments such as escrow, contracts, and penalties help [[Politics#Markets|strangers cooperate]].
   - Common context and proof of historical behavior
 - Modern [trust infrastructure](https://gestalt.cafe/trust-infrastructure/) needs to solve three key problems:
   - **Contextual richness**: Sharing metadata alongside information
