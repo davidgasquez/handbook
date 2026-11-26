@@ -4,6 +4,7 @@
   - Labor, capital, and [[Governance|governance]] are shared.
 - There are [many ways to form cooperatives](https://institute.coop/sites/default/files/resources/356%202009_Johnson%20etal_Tech%20Freelancers%20Guide%20to%20Worker%20Co-ops.pdf).
 - Useful when the work is not capital-intensive. E.g: [you can start curating and selling datasets, or providing consulting services with little capital (a computer and an internet connection)](https://www.youtube.com/watch?v=EjsGp5KPxx8).
+- [Hard thing is to bootstrap self governance](https://atmosphere.coop/updates/bootstrapping-self-governance).
 
 ## Resources
 
