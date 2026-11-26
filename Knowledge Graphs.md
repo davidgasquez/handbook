@@ -22,6 +22,7 @@
 
 ## Projects
 
+- [Discourse Graphs](https://discoursegraphs.com/) represent questions, claims, and evidence as reusable, machine-readable nodes. Explicit links let people and AI agents trace which evidence supports or challenges a claim while [“maintaining attribution and provenance”](https://discoursegraphs.com/).
 - [Plow](https://plow.pm/) - A package manager for ontologies empowering anyone to build reliable solutions with ontologies.
 - [Golden](https://golden.com/)
 - [Geo Browser](https://www.geobrowser.io/)

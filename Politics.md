@@ -120,7 +120,8 @@
 
 ### Projects
 
-- [Pol.is](https://pol.is/home) and [Discourse Graphs](https://discoursegraphs.com/) for better asynchronous discussions.
+- [Pol.is](https://pol.is/home) for asynchronous discussions.
+- Use [[Knowledge Graphs#Projects|Discourse Graphs]] for [[Asynchronous Communications|asynchronous]] deliberation. Link [“claims, evidence, and questions”](https://discoursegraphs.com/) so participants can see where they disagree and why.
 - [Community Notes](https://communitynotes.x.com/guide/en/about/introduction)
 - [Mantic](https://mantic.com/)
 - [Talk To The City](https://talktothe.city/)
