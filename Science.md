@@ -16,7 +16,9 @@ Metascience is the science of science itself - studying how scientific research 
 - The **Metascience Learning Loop** provides a framework for systematic improvement: trial new social processes → evaluate effectiveness → scale successful approaches → amplify transformative changes. This mirrors [[Experimentation]] principles but applied to scientific institutions themselves.
 - Key bottlenecks inhibiting scientific change include centralization of control, lack of clear change ownership, strong [[Network Effects|network effects]], and absence of natural growth [[Feedback Loops]].
 - You can unlock science's potential by exploring radical institutional alternatives, developing generative heuristics to detect "intellectual dark matter," and taking entrepreneurial approaches to building new research [[Organizations]].
-- Scientific [[Coordination]] problems are a specific manifestation of broader coordination challenges - addressing them requires both structural diversity and decentralized experimentation.
+- Scientific [[Coordination]] depends on how quickly researchers can [share, evaluate, and build on each other's work](https://blog.cosmik.network/mosaic-intro). Test different institutional structures and let research communities experiment independently.
+  - [Coordination requires a medium.](https://blog.cosmik.network/mosaic-intro) Michael Nielsen's vision for networked science draws on Wikipedia and Linux. Make small contributions easy to share, combine, and build on in the open.
+  - [AI productivity gains in Science are rate-limited by the pace at which the scientific collective can update from new discoveries and findings](https://republicofscience.substack.com/p/science-as-collective-sensemaking). AI can speed up individual research, while teams still need to evaluate and incorporate the results.
 
 ## Open Science Resources
 
